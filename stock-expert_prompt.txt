@@ -136,34 +136,45 @@ sections:
     items:
       - number: "5.1"
         label: "Last Q4"
+        value: last_q4_net_income
         role: quick_fact
       - number: "5.2"
         label: "Price"
+        value: price
         role: quick_fact
       - number: "5.3"
         label: "7d Resistance"
+        value: resistance_7d
         role: quick_fact
       - number: "5.4"
         label: "7d Support"
+        value: support_7d
         role: quick_fact
       - number: "5.5"
         label: "Buy the dip?"
+        value: buy_dip
         role: quick_fact
       - number: "5.6"
         label: "Buy the rumor?"
+        value: buy_rumor
         role: quick_fact
       - number: "5.7"
         label: "Sell the news?"
+        value: sell_news
         role: quick_fact
       - number: "5.8"
         label: "7d Trend:"
+        value: trend_7d
         role: quick_fact
       - number: "5.9"
         label: "3mo"
+        value: position_3mo
         role: quick_fact
       - number: "5.10"
         label: "1yr"
+        value: position_1y
         role: quick_fact
       - number: "5.11"
         label: "5yr"
+        value: position_5y
         role: quick_fact

@@ -98,6 +98,7 @@ class BulletSpec:
     label: Optional[str]
     instruction: Optional[str]
     llm: Optional[LLMInstruction]
+    value_key: Optional[str] = None
     role: str = "analysis"
     searches: Dict[str, List[str]] = field(default_factory=dict)
 
@@ -282,6 +283,7 @@ def load_prompt() -> PromptConfig:
                 label=item.get("label"),
                 instruction=item.get("instruction"),
                 llm=llm_instruction,
+                value_key=item.get("value"),
                 role=item.get("role", "analysis"),
                 searches=_parse_searches(item.get("searches")),
             )
@@ -1416,30 +1418,37 @@ def build_quick_facts(
     else:
         trend_answer = "flat"
 
-    computed: Dict[str, str] = {}
-    if prompt_config.quick_fact_numbers:
-        first_key = prompt_config.quick_fact_numbers[0]
-        computed[first_key] = humanize_dollar(sum(net_income_values)) if net_income_values else "unknown"
-    mappings = {
-        "Price": f"{close:.2f}" if close and not math.isnan(close) else "unknown",
-        "7d Resistance": f"{resistance:.2f}" if resistance and not math.isnan(resistance) else "unknown",
-        "7d Support": f"{support:.2f}" if support and not math.isnan(support) else "unknown",
-        "Buy the dip?": buy_dip,
-        "Buy the rumor?": buy_rumor,
-        "Sell the news?": sell_news,
-        "7d Trend:": trend_answer,
-        "3mo": position_for("3mo"),
-        "1yr": position_for("1y"),
-        "5yr": position_for("5y"),
+    price_value = f"{close:.2f}" if close and not math.isnan(close) else "unknown"
+    resistance_value = f"{resistance:.2f}" if resistance and not math.isnan(resistance) else "unknown"
+    support_value = f"{support:.2f}" if support and not math.isnan(support) else "unknown"
+    position_3mo = position_for("3mo")
+    position_1y = position_for("1y")
+    position_5y = position_for("5y")
+
+    metric_values: Dict[str, str] = {
+        "price": price_value,
+        "resistance_7d": resistance_value,
+        "support_7d": support_value,
+        "buy_dip": buy_dip,
+        "buy_rumor": buy_rumor,
+        "sell_news": sell_news,
+        "trend_7d": trend_answer,
+        "position_3mo": position_3mo,
+        "position_1y": position_1y,
+        "position_5y": position_5y,
     }
+
+    metric_values["last_q4_net_income"] = (
+        humanize_dollar(sum(net_income_values)) if net_income_values else "unknown"
+    )
 
     facts: "OrderedDict[str, Dict[str, str]]" = OrderedDict()
     for number in quick_fact_numbers:
         bullet = prompt_config.bullets.get(number)
         label = (bullet.label if bullet else None) or (bullet.prompt if bullet else None) or number
-        value = computed.get(number)
-        if value is None:
-            value = mappings.get(label, "unknown")
+        value: str = "unknown"
+        if bullet and bullet.value_key:
+            value = metric_values.get(bullet.value_key, "unknown")
         facts[number] = {"label": label, "value": value}
     return facts
 
