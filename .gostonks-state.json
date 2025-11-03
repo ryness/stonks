@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
   "last_index": 6,
+=======
+  "last_index": 1,
+>>>>>>> e15ec0d14d90d94b0ae1cfe6f29933725cee4cd7
   "tickers": [
     "AAPL",
+    "CRWV",
     "FI",
     "META",
     "PYPL",
