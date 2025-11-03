@@ -15,6 +15,8 @@ const elements = {
 };
 
 const SORT_STORAGE_KEY = 'stonks-sort-order';
+const ACTIVE_INDEX_STORAGE_KEY = 'stonks-active-index';
+const ACTIVE_TICKER_STORAGE_KEY = 'stonks-active-ticker';
 const SORT_OPTIONS = ['alpha-asc', 'alpha-desc', 'updated-desc', 'updated-asc'];
 const sortLinks = Array.from(document.querySelectorAll('#sortLinks [data-sort]'));
 
@@ -122,6 +124,7 @@ function renderReport(report) {
 
 function clearSelection(preserveStatus = false) {
   state.activeIndex = null;
+  clearStoredSelection();
   state.linkElements.forEach((link) => delete link.dataset.active);
   updateButtons(null);
   if (!preserveStatus) {
@@ -133,12 +136,38 @@ function clearSelection(preserveStatus = false) {
 function highlightActiveLink() {
   state.linkElements.forEach((link) => {
     const linkIndex = Number(link.dataset.index);
-    if (state.activeIndex !== null && linkIndex === state.activeIndex) {
+    if (state.activeIndex !== null && !Number.isNaN(linkIndex) && linkIndex === state.activeIndex) {
       link.dataset.active = 'true';
     } else {
       delete link.dataset.active;
     }
   });
+}
+
+function storeActiveSelection(index, ticker) {
+  try {
+    if (Number.isFinite(index)) {
+      window.sessionStorage.setItem(ACTIVE_INDEX_STORAGE_KEY, String(index));
+    } else {
+      window.sessionStorage.removeItem(ACTIVE_INDEX_STORAGE_KEY);
+    }
+    if (ticker) {
+      window.sessionStorage.setItem(ACTIVE_TICKER_STORAGE_KEY, ticker);
+    } else {
+      window.sessionStorage.removeItem(ACTIVE_TICKER_STORAGE_KEY);
+    }
+  } catch (error) {
+    console.warn('Unable to store active selection', error);
+  }
+}
+
+function clearStoredSelection() {
+  try {
+    window.sessionStorage.removeItem(ACTIVE_INDEX_STORAGE_KEY);
+    window.sessionStorage.removeItem(ACTIVE_TICKER_STORAGE_KEY);
+  } catch (error) {
+    console.warn('Unable to clear active selection', error);
+  }
 }
 
 function showReport(index) {
@@ -147,11 +176,7 @@ function showReport(index) {
     return;
   }
   state.activeIndex = index;
-  try {
-    window.sessionStorage.setItem('stonks-active-index', String(index));
-  } catch (error) {
-    console.warn('Unable to store active index', error);
-  }
+  storeActiveSelection(index, report.ticker || '');
   highlightActiveLink();
   updateButtons(report);
   renderReport(report);
@@ -165,59 +190,85 @@ function getDateValue(report) {
   return Number.isNaN(timestamp) ? null : timestamp;
 }
 
-function getSortedIndexes(reports) {
-  const indexes = reports.map((_, idx) => idx);
-  const order = state.sortOrder;
-  const alphaCompare = (a, b) => {
-    const tickerA = (reports[a].ticker || '').toUpperCase();
-    const tickerB = (reports[b].ticker || '').toUpperCase();
-    const tickerComparison = tickerA.localeCompare(tickerB);
-    if (tickerComparison !== 0) {
-      return tickerComparison;
-    }
-    const dateA = getDateValue(reports[a]);
-    const dateB = getDateValue(reports[b]);
-    if (dateA === null && dateB === null) {
-      return 0;
-    }
-    if (dateA === null) return 1;
-    if (dateB === null) return -1;
-    return dateA - dateB;
-  };
+function normalizeTicker(report) {
+  return (report && report.ticker ? String(report.ticker) : '').toUpperCase();
+}
 
-  const dateCompare = (a, b, direction) => {
-    const dateA = getDateValue(reports[a]);
-    const dateB = getDateValue(reports[b]);
-    if (dateA === null && dateB === null) {
-      const tickerA = (reports[a].ticker || '').toUpperCase();
-      const tickerB = (reports[b].ticker || '').toUpperCase();
+function compareDateValues(dateA, dateB, direction) {
+  if (dateA === null && dateB === null) {
+    return 0;
+  }
+  if (dateA === null) {
+    return direction === 'desc' ? 1 : -1;
+  }
+  if (dateB === null) {
+    return direction === 'desc' ? -1 : 1;
+  }
+  if (dateA === dateB) {
+    return 0;
+  }
+  return direction === 'desc' ? dateB - dateA : dateA - dateB;
+}
+
+function compareReports(a, b, order) {
+  const tickerA = normalizeTicker(a);
+  const tickerB = normalizeTicker(b);
+  const dateA = getDateValue(a);
+  const dateB = getDateValue(b);
+
+  switch (order) {
+    case 'alpha-desc': {
+      const tickerComparison = tickerB.localeCompare(tickerA);
+      if (tickerComparison !== 0) {
+        return tickerComparison;
+      }
+      return compareDateValues(dateA, dateB, 'desc');
+    }
+    case 'updated-desc': {
+      const dateComparison = compareDateValues(dateA, dateB, 'desc');
+      if (dateComparison !== 0) {
+        return dateComparison;
+      }
       return tickerA.localeCompare(tickerB);
     }
-    if (dateA === null) return 1;
-    if (dateB === null) return -1;
-    if (dateA === dateB) {
-      const tickerA = (reports[a].ticker || '').toUpperCase();
-      const tickerB = (reports[b].ticker || '').toUpperCase();
+    case 'updated-asc': {
+      const dateComparison = compareDateValues(dateA, dateB, 'asc');
+      if (dateComparison !== 0) {
+        return dateComparison;
+      }
       return tickerA.localeCompare(tickerB);
     }
-    return direction === 'desc' ? dateB - dateA : dateA - dateB;
-  };
-
-  indexes.sort((a, b) => {
-    switch (order) {
-      case 'alpha-desc':
-        return alphaCompare(b, a);
-      case 'updated-desc':
-        return dateCompare(a, b, 'desc');
-      case 'updated-asc':
-        return dateCompare(a, b, 'asc');
-      case 'alpha-asc':
-      default:
-        return alphaCompare(a, b);
+    case 'alpha-asc':
+    default: {
+      const tickerComparison = tickerA.localeCompare(tickerB);
+      if (tickerComparison !== 0) {
+        return tickerComparison;
+      }
+      return compareDateValues(dateA, dateB, 'desc');
     }
-  });
+  }
+}
 
-  return indexes;
+function sortReports() {
+  if (!Array.isArray(state.reports) || state.reports.length <= 1) {
+    return;
+  }
+  const currentTicker =
+    state.activeIndex !== null && state.reports[state.activeIndex]
+      ? state.reports[state.activeIndex].ticker || null
+      : null;
+
+  state.reports.sort((a, b) => compareReports(a, b, state.sortOrder));
+
+  if (currentTicker) {
+    const nextIndex = state.reports.findIndex((report) => report.ticker === currentTicker);
+    state.activeIndex = nextIndex !== -1 ? nextIndex : null;
+    if (state.activeIndex !== null) {
+      storeActiveSelection(state.activeIndex, currentTicker);
+    } else {
+      clearStoredSelection();
+    }
+  }
 }
 
 function populateLinks(reports) {
@@ -226,16 +277,14 @@ function populateLinks(reports) {
   if (!Array.isArray(reports) || !reports.length) {
     return;
   }
-  const sortedIndexes = getSortedIndexes(reports);
-  sortedIndexes.forEach((reportIndex) => {
-    const report = reports[reportIndex];
+  reports.forEach((report, index) => {
     const link = document.createElement('a');
     link.href = '#';
     link.textContent = `[${report.ticker}]`;
-    link.dataset.index = String(reportIndex);
+    link.dataset.index = String(index);
     link.addEventListener('click', (event) => {
       event.preventDefault();
-      showReport(reportIndex);
+      showReport(index);
     });
     elements.links.appendChild(link);
     state.linkElements.push(link);
@@ -252,6 +301,8 @@ async function loadReports() {
     }
     const data = await response.json();
     state.reports = Array.isArray(data) ? data : [];
+    state.activeIndex = null;
+    sortReports();
     populateLinks(state.reports);
     if (!state.reports.length) {
       elements.status.textContent = 'No reports have been generated yet.';
@@ -259,19 +310,40 @@ async function loadReports() {
       return;
     }
     elements.status.textContent = '';
-    const savedIndex = (() => {
+    const savedSelection = (() => {
       try {
-        const raw = window.sessionStorage.getItem('stonks-active-index');
-        const parsed = raw !== null ? Number(raw) : NaN;
-        return Number.isFinite(parsed) ? parsed : null;
+        const rawIndex = window.sessionStorage.getItem(ACTIVE_INDEX_STORAGE_KEY);
+        const storedTicker = window.sessionStorage.getItem(ACTIVE_TICKER_STORAGE_KEY);
+        const parsedIndex = rawIndex !== null ? Number(rawIndex) : NaN;
+        return {
+          index: Number.isFinite(parsedIndex) ? parsedIndex : null,
+          ticker: storedTicker || null,
+        };
       } catch (error) {
-        console.warn('Unable to read stored active index', error);
-        return null;
+        console.warn('Unable to read stored active selection', error);
+        return { index: null, ticker: null };
       }
     })();
 
-    if (savedIndex !== null && savedIndex >= 0 && savedIndex < state.reports.length) {
-      showReport(savedIndex);
+    let targetIndex = null;
+    if (savedSelection.ticker) {
+      const matched = state.reports.findIndex((report) => report.ticker === savedSelection.ticker);
+      if (matched !== -1) {
+        targetIndex = matched;
+      }
+    }
+    if (
+      targetIndex === null &&
+      savedSelection.index !== null &&
+      Number.isFinite(savedSelection.index) &&
+      savedSelection.index >= 0 &&
+      savedSelection.index < state.reports.length
+    ) {
+      targetIndex = savedSelection.index;
+    }
+
+    if (targetIndex !== null) {
+      showReport(targetIndex);
     } else {
       clearSelection();
     }
@@ -309,6 +381,7 @@ function setSortOrder(nextOrder, { persist = false } = {}) {
       console.warn('Unable to store sort order', error);
     }
   }
+  sortReports();
   populateLinks(state.reports);
 }
 
