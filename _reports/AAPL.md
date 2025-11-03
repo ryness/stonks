@@ -2,23 +2,27 @@
 layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
-date: 2025-11-02
+date: 2025-11-03
+generated_at: 2025-11-03T07:29:04.608626+00:00
+runtime_seconds: 73.27
 raw_markdown: |
+  **Generated:** 2025-11-03 07:29 UTC (runtime 1m 13s)
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Apple designs, manufactures, and markets iPhone, Mac, iPad, and wearables/home devices including AirPods, Apple Watch, Apple TV, Beats, HomePod, and Apple Vision Pro. It also runs platforms and services such as the App Store, Apple Music, TV+, Arcade, Fitness+, News+, AppleCare, advertising, Apple Card, and Apple Pay, distributing through its own stores and third-party carriers, wholesalers, retailers, and resellers.
+  1.1. **Activities:** Apple designs, manufactures, and markets iPhone, Mac, iPad, and wearables/home devices such as Apple Watch, AirPods, Apple TV, Beats, HomePod, and Vision Pro. It runs a large Services ecosystem including the App Store, AppleCare, cloud, advertising, Apple Music, TV+, Arcade, Fitness+, News+, Apple Card, and Apple Pay. Products are sold via Apple retail/online stores, direct sales, carriers, wholesalers, retailers, and resellers worldwide.
   
-  1.2. **Profitable?:** Yes — it is profitable, with positive net income across recent periods, a ~26.9% profit margin, and strong free and operating cash flow.
+  1.2. **Profitable?:** Yes — Apple is highly profitable with ~27% profit margin, ~$99.3B trailing net income, and strong free cash flow (~$78.9B), alongside positive earnings growth.
   
-  1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as education, enterprise, and government markets worldwide. It reaches customers via retail and online stores, direct sales, the App Store, and third-party carriers, wholesalers, retailers, and resellers.
+  1.3. **Customer & Markets:** Primary customers include consumers and small/mid-sized businesses, as well as education, enterprise, and government sectors. Apple serves global markets across hardware, software, and services, distributing both first-party and third-party apps and accessories.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** Key competitors include Alphabet/Google (Android and Google Play) and Microsoft, with broader competition from other mega-cap tech ecosystems. Apple ranks among the largest by market capitalization (~$4.0T), positioning it at the top tier of peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price is in an uptrend, closing at 270.37 above the 20-day moving average (258.51) and approaching resistance at 277.32.
+  2.1. **7d Trend?:** up — shares rose about 2.9% over the last week and trade above the 20-DMA, approaching 277.32 resistance.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 267.11 and the support zone around 258.01 looked favorable. Selling into 277.32 resistance or the prior local high near 265.29 offered exits.
+  2.2. **7d Buy/Sell Points?:** Pullbacks toward support around 258.01 looked like better buy levels, while strength into 277.32 near resistance offered sells or trims.
   
   2.3.1. **7d Volume:** high
   
@@ -26,15 +30,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Founded in 1976, Apple is a long-standing technology leader with diversified hardware and services businesses. It shows robust profitability (profit margin ~26.9%) and consistent positive net income, with operating cash flow of 111,482,003,456 and free cash flow of 78,862,254,080. Its global footprint and multi-channel distribution support resilience. Overall, it appears financially and operationally stable.
+  3.1. **Stability?:** Apple, founded in 1976, is a mature, mega-cap company with a market value around $4.0T. It exhibits consistent profitability (~27% margin) and robust cash generation (operating cash flow ~$111.5B; free cash flow ~$78.9B). The scale of its hardware base and Services ecosystem, along with diversified distribution, supports balance-sheet and operating stability. Overall, it is a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Apple is innovating, with headlines citing AI and Vision Pro advances and plans for a comprehensive AI strategy, plus exploration of smart home devices and foldables. Earnings growth of 0.864 alongside revenue growth of 0.079 supports ongoing momentum.
+  3.2. **Innovating?:** Innovating — recent focus on AI initiatives and Vision Pro, plus exploration of smart home devices and foldables, signals ongoing product and platform expansion.
   
   ## 4. Context
   
-  4.1. **News:** Coverage notes Apple’s stock gains tied to AI and Vision Pro advances, with shares up 2.9% week-over-week, 4.8% over the month, and 10.9% year-to-date. Reports say Apple is preparing a comprehensive AI strategy and exploring smart home and foldable devices while facing regulatory and tariff-related challenges. Broader pieces reference Magnificent Seven exposure through index funds and reshoring after tariffs. With QuickRef indicating 'Buy the rumor? no' and 'Sell the news? yes', strength into AI/product headlines could see profit-taking after announcements.
+  4.1. **News:** Recent coverage highlights Apple’s stock rising about 2.9% over the week, with momentum tied to AI initiatives and Vision Pro progress. Another report says Apple is preparing a broader AI strategy and eyeing smart home and foldable markets while facing regulatory and tariff headwinds. Quick facts flag ‘Buy the rumor? no’ and ‘Sell the news? yes,’ implying rallies may cool after confirmations. Overall tone is optimistic on product pipeline but mindful of policy risks.
   
-  4.2. **Tarrifs:** Headlines reference tariff-related challenges and reshoring after tariffs, indicating exposure, but the specific impact on the stock in this dataset is unknown.
+  4.2. **Tarrifs:** Tariffs have been a headwind, with reports of potential quarterly costs around $900M and occasional share-price pressure; conversely, pauses or relief on tariffs have boosted the stock. Apple’s efforts to diversify manufacturing (e.g., to India) are cited as mitigating tariff impact.
   
   ## 5. QuickRef
   
@@ -54,19 +58,21 @@ raw_markdown: |
   
   
   **Sources**
-  - Prices & technicals: massive.com (Polygon API)
+  - Prices & technicals: yfinance
   - Fundamentals & company profile: yfinance
   - Earnings calendar: yfinance
   - Headlines: yfinance
-  - Supplementary search: Google Custom Search (no results)
-  - Supplementary search: NewsAPI.org (no results)
+  - Supplementary search: Google Custom Search
+  - Supplementary search: NewsAPI.org
   
   <div class="cli-log"><pre><code>
   Gathering context for AAPL...
   Gathering market data...
   Checking massive.com quota and fetching price history...
   Requesting AAPL prices from massive.com (Polygon API)...
-  Price data acquired from massive.com.
+  massive.com request failed (massive.com returned no price data); switching to yfinance...
+  Requesting prices from yfinance fallback...
+  Price data acquired from yfinance.
   Calculating technical snapshot...
   Fetching company fundamentals...
   Retrieving earnings calendar...
@@ -76,45 +82,45 @@ raw_markdown: |
     yfinance returned 5 headlines
   Running supplementary searches...
     google_custom_search search -&gt; AAPL core business
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL product portfolio
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL business model
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL profitability
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL earnings trend
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL profit outlook
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL target customers
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL market segments
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL market expansion
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL competitors
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL market share
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL competitive landscape
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL rumors
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL tariffs news
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL rumor
       -&gt; 0 results
     newsapi search -&gt; AAPL tariff
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL latest news
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL latest rumor
-      -&gt; 0 results
+      -&gt; 5 results
     newsapi search -&gt; AAPL tariffs
-      -&gt; 0 results
+      -&gt; 5 results
     google_custom_search search -&gt; AAPL tariff impact
-      -&gt; 0 results
+      -&gt; 5 results
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -135,21 +141,23 @@ raw_markdown: |
   </code></pre></div>
 ---
 
+**Generated:** 2025-11-03 07:29 UTC (runtime 1m 13s)
+
 ## 1. The Biz
 
-1.1. **Activities:** Apple designs, manufactures, and markets iPhone, Mac, iPad, and wearables/home devices including AirPods, Apple Watch, Apple TV, Beats, HomePod, and Apple Vision Pro. It also runs platforms and services such as the App Store, Apple Music, TV+, Arcade, Fitness+, News+, AppleCare, advertising, Apple Card, and Apple Pay, distributing through its own stores and third-party carriers, wholesalers, retailers, and resellers.
+1.1. **Activities:** Apple designs, manufactures, and markets iPhone, Mac, iPad, and wearables/home devices such as Apple Watch, AirPods, Apple TV, Beats, HomePod, and Vision Pro. It runs a large Services ecosystem including the App Store, AppleCare, cloud, advertising, Apple Music, TV+, Arcade, Fitness+, News+, Apple Card, and Apple Pay. Products are sold via Apple retail/online stores, direct sales, carriers, wholesalers, retailers, and resellers worldwide.
 
-1.2. **Profitable?:** Yes — it is profitable, with positive net income across recent periods, a ~26.9% profit margin, and strong free and operating cash flow.
+1.2. **Profitable?:** Yes — Apple is highly profitable with ~27% profit margin, ~$99.3B trailing net income, and strong free cash flow (~$78.9B), alongside positive earnings growth.
 
-1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as education, enterprise, and government markets worldwide. It reaches customers via retail and online stores, direct sales, the App Store, and third-party carriers, wholesalers, retailers, and resellers.
+1.3. **Customer & Markets:** Primary customers include consumers and small/mid-sized businesses, as well as education, enterprise, and government sectors. Apple serves global markets across hardware, software, and services, distributing both first-party and third-party apps and accessories.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** Key competitors include Alphabet/Google (Android and Google Play) and Microsoft, with broader competition from other mega-cap tech ecosystems. Apple ranks among the largest by market capitalization (~$4.0T), positioning it at the top tier of peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price is in an uptrend, closing at 270.37 above the 20-day moving average (258.51) and approaching resistance at 277.32.
+2.1. **7d Trend?:** up — shares rose about 2.9% over the last week and trade above the 20-DMA, approaching 277.32 resistance.
 
-2.2. **7d Buy/Sell Points?:** Buying near 267.11 and the support zone around 258.01 looked favorable. Selling into 277.32 resistance or the prior local high near 265.29 offered exits.
+2.2. **7d Buy/Sell Points?:** Pullbacks toward support around 258.01 looked like better buy levels, while strength into 277.32 near resistance offered sells or trims.
 
 2.3.1. **7d Volume:** high
 
@@ -157,15 +165,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Founded in 1976, Apple is a long-standing technology leader with diversified hardware and services businesses. It shows robust profitability (profit margin ~26.9%) and consistent positive net income, with operating cash flow of 111,482,003,456 and free cash flow of 78,862,254,080. Its global footprint and multi-channel distribution support resilience. Overall, it appears financially and operationally stable.
+3.1. **Stability?:** Apple, founded in 1976, is a mature, mega-cap company with a market value around $4.0T. It exhibits consistent profitability (~27% margin) and robust cash generation (operating cash flow ~$111.5B; free cash flow ~$78.9B). The scale of its hardware base and Services ecosystem, along with diversified distribution, supports balance-sheet and operating stability. Overall, it is a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Apple is innovating, with headlines citing AI and Vision Pro advances and plans for a comprehensive AI strategy, plus exploration of smart home devices and foldables. Earnings growth of 0.864 alongside revenue growth of 0.079 supports ongoing momentum.
+3.2. **Innovating?:** Innovating — recent focus on AI initiatives and Vision Pro, plus exploration of smart home devices and foldables, signals ongoing product and platform expansion.
 
 ## 4. Context
 
-4.1. **News:** Coverage notes Apple’s stock gains tied to AI and Vision Pro advances, with shares up 2.9% week-over-week, 4.8% over the month, and 10.9% year-to-date. Reports say Apple is preparing a comprehensive AI strategy and exploring smart home and foldable devices while facing regulatory and tariff-related challenges. Broader pieces reference Magnificent Seven exposure through index funds and reshoring after tariffs. With QuickRef indicating 'Buy the rumor? no' and 'Sell the news? yes', strength into AI/product headlines could see profit-taking after announcements.
+4.1. **News:** Recent coverage highlights Apple’s stock rising about 2.9% over the week, with momentum tied to AI initiatives and Vision Pro progress. Another report says Apple is preparing a broader AI strategy and eyeing smart home and foldable markets while facing regulatory and tariff headwinds. Quick facts flag ‘Buy the rumor? no’ and ‘Sell the news? yes,’ implying rallies may cool after confirmations. Overall tone is optimistic on product pipeline but mindful of policy risks.
 
-4.2. **Tarrifs:** Headlines reference tariff-related challenges and reshoring after tariffs, indicating exposure, but the specific impact on the stock in this dataset is unknown.
+4.2. **Tarrifs:** Tariffs have been a headwind, with reports of potential quarterly costs around $900M and occasional share-price pressure; conversely, pauses or relief on tariffs have boosted the stock. Apple’s efforts to diversify manufacturing (e.g., to India) are cited as mitigating tariff impact.
 
 ## 5. QuickRef
 
@@ -185,19 +193,21 @@ raw_markdown: |
 
 
 **Sources**
-- Prices & technicals: massive.com (Polygon API)
+- Prices & technicals: yfinance
 - Fundamentals & company profile: yfinance
 - Earnings calendar: yfinance
 - Headlines: yfinance
-- Supplementary search: Google Custom Search (no results)
-- Supplementary search: NewsAPI.org (no results)
+- Supplementary search: Google Custom Search
+- Supplementary search: NewsAPI.org
 
 <div class="cli-log"><pre><code>
 Gathering context for AAPL...
 Gathering market data...
 Checking massive.com quota and fetching price history...
 Requesting AAPL prices from massive.com (Polygon API)...
-Price data acquired from massive.com.
+massive.com request failed (massive.com returned no price data); switching to yfinance...
+Requesting prices from yfinance fallback...
+Price data acquired from yfinance.
 Calculating technical snapshot...
 Fetching company fundamentals...
 Retrieving earnings calendar...
@@ -207,45 +217,45 @@ Collecting latest headlines (yfinance)...
   yfinance returned 5 headlines
 Running supplementary searches...
   google_custom_search search -&gt; AAPL core business
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL product portfolio
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL business model
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL profitability
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL earnings trend
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL profit outlook
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL target customers
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL market segments
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL market expansion
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL competitors
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL market share
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL competitive landscape
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL rumors
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL tariffs news
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL rumor
     -&gt; 0 results
   newsapi search -&gt; AAPL tariff
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL latest news
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL latest rumor
-    -&gt; 0 results
+    -&gt; 5 results
   newsapi search -&gt; AAPL tariffs
-    -&gt; 0 results
+    -&gt; 5 results
   google_custom_search search -&gt; AAPL tariff impact
-    -&gt; 0 results
+    -&gt; 5 results
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
