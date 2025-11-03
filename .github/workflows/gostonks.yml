@@ -47,20 +47,18 @@ jobs:
           fi
           TICKER_MSG="${{ github.event.inputs.ticker }}"
           if [ -z "$TICKER_MSG" ] && [ -f .gostonks-state.json ]; then
-            TICKER_MSG=$(python - <<'PY'
-import json
-import sys
-from pathlib import Path
-try:
-    data = json.loads(Path(".gostonks-state.json").read_text())
-    tickers = data.get("tickers") or []
-    idx = data.get("last_index")
-    if isinstance(idx, int) and 0 <= idx < len(tickers):
-        sys.stdout.write(tickers[idx])
-except Exception:
-    pass
-PY
-)
+            TICKER_MSG=$(python -c 'import json
+          import sys
+          from pathlib import Path
+          
+          try:
+              data = json.loads(Path(".gostonks-state.json").read_text())
+              tickers = data.get("tickers") or []
+              idx = data.get("last_index")
+              if isinstance(idx, int) and 0 <= idx < len(tickers):
+                  sys.stdout.write(tickers[idx])
+          except Exception:
+              pass')
           fi
           if [ -z "$TICKER_MSG" ]; then
             TICKER_MSG="cycle"
