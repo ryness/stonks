@@ -19,6 +19,7 @@ from collections import OrderedDict, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
+from urllib.parse import urlencode
 
 try:
     import pandas as pd
@@ -319,8 +320,12 @@ def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dic
         "num": num,
     }
     try:
+        base_url = "https://www.googleapis.com/customsearch/v1"
+        log_params = {k: v for k, v in params.items()}
+        log_params["key"] = "***"
+        log_status(f"Google Custom Search: GET {base_url}?{urlencode(log_params)}")
         response = requests.get(
-            "https://www.googleapis.com/customsearch/v1",
+            base_url,
             params=params,
             timeout=10,
         )
@@ -358,8 +363,12 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str,
         "apiKey": NEWSAPI_KEY,
     }
     try:
+        base_url = "https://newsapi.org/v2/everything"
+        log_params = {k: v for k, v in params.items()}
+        log_params["apiKey"] = "***"
+        log_status(f"NewsAPI search: GET {base_url}?{urlencode(log_params)}")
         response = requests.get(
-            "https://newsapi.org/v2/everything",
+            base_url,
             params=params,
             timeout=10,
         )
@@ -483,6 +492,19 @@ def massive_get(path: str, api_key: str, params: Optional[Dict[str, Any]] = None
         query["apiKey"] = api_key
     url = f"{MASSIVE_API_BASE}{path}"
     return requests.get(url, params=query, timeout=timeout)
+
+
+def describe_massive_request(path: str, params: Optional[Mapping[str, Any]] = None) -> str:
+    """Return a sanitized URL string suitable for logging Massive requests."""
+
+    query_items: List[Tuple[str, Any]] = []
+    for key, value in (params or {}).items():
+        if value is None:
+            continue
+        query_items.append((key, value))
+    query_items.append(("apiKey", "***"))
+    query_string = urlencode(query_items, doseq=True)
+    return f"{MASSIVE_API_BASE}{path}" + (f"?{query_string}" if query_string else "")
 
 
 @dataclass
@@ -668,7 +690,7 @@ def fetch_massive_histories(ticker: str, api_key: str) -> Dict[str, pd.DataFrame
     }
     try:
         path = f"{base_path}/{start.isoformat()}/{today.isoformat()}"
-        log_status(f"Requesting {ticker.upper()} prices from massive.com... ({MASSIVE_API_BASE}{path})")
+        log_status(f"Requesting {ticker.upper()} prices from massive.com... ({describe_massive_request(path, params)})")
         response = massive_get(path, api_key, params=params, timeout=30)
     except requests.RequestException as exc:
         raise RuntimeError("massive.com request failed") from exc
@@ -857,13 +879,12 @@ def fetch_massive_earnings_calendar(ticker: str, api_key: Optional[str], limit: 
     params = {
         "ticker": ticker.upper(),
         "limit": limit,
-        "apiKey": api_key,
     }
-    url = "https://api.massive.com/benzinga/v1/earnings"
+    path = "/benzinga/v1/earnings"
     log_status(f"Massive earnings: attempting request with key {masked_key}")
-    log_status(f"Massive earnings: GET {url}?ticker={ticker.upper()}&limit={limit}&apiKey=***")
+    log_status(f"Massive earnings: GET {describe_massive_request(path, params)}")
     try:
-        response = requests.get(url, params=params, timeout=10)
+        response = massive_get(path, api_key, params=params, timeout=10)
     except Exception as exc:
         log_status(f"Massive earnings HTTP request failed: {exc}")
         return []
@@ -926,6 +947,7 @@ def fetch_massive_company_profile(ticker: str, api_key: Optional[str]) -> Option
         return None
     path = f"/v3/reference/tickers/{ticker.upper()}"
     try:
+        log_status(f"Massive profile: GET {describe_massive_request(path)}")
         response = massive_get(path, api_key)
     except Exception as exc:
         log_status(f"Massive profile HTTP request failed: {exc}")
@@ -980,6 +1002,7 @@ def fetch_massive_related_companies(ticker: str, api_key: Optional[str]) -> List
         return []
     path = f"/v1/related-companies/{ticker.upper()}"
     try:
+        log_status(f"Massive related companies: GET {describe_massive_request(path)}")
         response = massive_get(path, api_key)
     except Exception as exc:
         log_status(f"Massive related companies HTTP request failed: {exc}")
@@ -1014,6 +1037,7 @@ def fetch_massive_open_close(ticker: str, date_value: str, api_key: Optional[str
         return None
     path = f"/v1/open-close/{ticker.upper()}/{date_value}"
     try:
+        log_status(f"Massive open-close: GET {describe_massive_request(path)}")
         response = massive_get(path, api_key)
     except Exception as exc:
         log_status(f"Massive open-close HTTP request failed: {exc}")
@@ -1043,6 +1067,7 @@ def fetch_massive_previous_close(ticker: str, api_key: Optional[str]) -> Optiona
     path = f"/v2/aggs/ticker/{ticker.upper()}/prev"
     params = {"adjusted": "true"}
     try:
+        log_status(f"Massive previous close: GET {describe_massive_request(path, params)}")
         response = massive_get(path, api_key, params=params)
     except Exception as exc:
         log_status(f"Massive previous close HTTP request failed: {exc}")
@@ -1169,6 +1194,7 @@ def fetch_massive_indicators(ticker: str, api_key: Optional[str]) -> Dict[str, D
     ]
     for label, path, params, slug in indicator_requests:
         try:
+            log_status(f"{label}: GET {describe_massive_request(path, params)}")
             response = massive_get(path, api_key, params=params)
         except Exception as exc:
             log_status(f"{label}: HTTP request failed: {exc}")
@@ -1192,6 +1218,7 @@ def fetch_massive_news(ticker: str, api_key: Optional[str], limit: int = 5) -> L
     }
     path = "/v2/reference/news"
     try:
+        log_status(f"Massive news: GET {describe_massive_request(path, params)}")
         response = massive_get(path, api_key, params=params)
     except Exception as exc:
         log_status(f"Massive news HTTP request failed: {exc}")
