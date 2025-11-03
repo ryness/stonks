@@ -1,11 +1,12 @@
 {
-  "last_index": 4,
+  "last_index": 6,
   "tickers": [
     "AAPL",
     "FI",
     "META",
     "PYPL",
     "RBLX",
-    "RGTI"
+    "RGTI",
+    "SOUN"
   ]
 }

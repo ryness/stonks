@@ -54,6 +54,7 @@ PROMPT_PATH = Path("stock-expert_prompt.txt")
 OPENAI_KEY_FILE = Path("apikey-openai.txt")
 MASSIVE_KEY_FILE = Path("apikey-massive.txt")
 DEFAULT_MASSIVE_KEY = "fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM"
+MASSIVE_API_BASE = "https://api.massive.com"
 
 CACHE_DIR = Path(".cache")
 REPORTS_DIR = Path("_reports")
@@ -474,6 +475,16 @@ def _load_massive_api_key() -> Optional[str]:
     return DEFAULT_MASSIVE_KEY
 
 
+def massive_get(path: str, api_key: str, params: Optional[Dict[str, Any]] = None, timeout: int = 10) -> requests.Response:
+    """Perform a GET request against the Massive API with shared auth handling."""
+
+    query = dict(params or {})
+    if api_key and "apiKey" not in query:
+        query["apiKey"] = api_key
+    url = f"{MASSIVE_API_BASE}{path}"
+    return requests.get(url, params=query, timeout=timeout)
+
+
 @dataclass
 class PriceSnapshot:
     """Container for short-term price context."""
@@ -644,22 +655,21 @@ def classify_position(cur: float, prices: Sequence[float]) -> str:
     return "middle"
 
 
-def fetch_polygon_histories(ticker: str, api_key: str) -> Dict[str, pd.DataFrame]:
-    """Retrieve 5 years of daily bars from massive.com (Polygon) and derive shorter windows."""
+def fetch_massive_histories(ticker: str, api_key: str) -> Dict[str, pd.DataFrame]:
+    """Retrieve 5 years of daily bars from massive.com and derive shorter windows."""
 
-    log_status(f"Requesting {ticker.upper()} prices from massive.com (Polygon API)...")
-    base_url = "https://api.polygon.io/v2/aggs/ticker"
+    base_path = f"/v2/aggs/ticker/{ticker.upper()}/range/1/day"
     today = dt.date.today()
     start = today - dt.timedelta(days=5 * 365 + 30)
     params = {
         "adjusted": "true",
         "sort": "asc",
         "limit": 5000,
-        "apiKey": api_key,
     }
-    url = f"{base_url}/{ticker.upper()}/range/1/day/{start.isoformat()}/{today.isoformat()}"
     try:
-        response = requests.get(url, params=params, timeout=30)
+        path = f"{base_path}/{start.isoformat()}/{today.isoformat()}"
+        log_status(f"Requesting {ticker.upper()} prices from massive.com... ({MASSIVE_API_BASE}{path})")
+        response = massive_get(path, api_key, params=params, timeout=30)
     except requests.RequestException as exc:
         raise RuntimeError("massive.com request failed") from exc
     if response.status_code != 200:
@@ -722,9 +732,9 @@ def get_price_histories(ticker: str) -> Tuple[Dict[str, pd.DataFrame], str]:
     if api_key:
         try:
             log_status("Checking massive.com quota and fetching price history...")
-            histories = fetch_polygon_histories(ticker, api_key)
+            histories = fetch_massive_histories(ticker, api_key)
             log_status("Price data acquired from massive.com.")
-            return histories, "massive.com (Polygon API)"
+            return histories, "massive.com"
         except Exception as exc:  # Reserve fallback for exhausted quota or other issues.
             last_error = exc
             log_status(f"massive.com request failed ({exc}); switching to yfinance...")
@@ -831,30 +841,389 @@ def extract_financial_metrics(info: Dict[str, Any], ticker_obj: yf.Ticker) -> Di
     }
 
 
-def fetch_polygon_earnings_calendar(ticker: str, api_key: Optional[str], limit: int = 4) -> List[Dict[str, Any]]:
+def fetch_massive_earnings_calendar(ticker: str, api_key: Optional[str], limit: int = 4) -> List[Dict[str, Any]]:
+    def mask(value: str) -> str:
+        if len(value) <= 4:
+            return "***"
+        return f"{value[:4]}***{value[-2:]}"
+
     if not api_key:
+        log_status("Massive earnings: no API key available; skipping lookup.")
         return []
-    params = {"limit": limit, "apiKey": api_key}
-    url = f"https://api.polygon.io/v1/reference/earnings/{ticker.upper()}"
+    masked_key = mask(api_key)
+    if api_key == DEFAULT_MASSIVE_KEY:
+        log_status("Massive earnings: demo key detected; skipping lookup to avoid 404 spam.")
+        return []
+    params = {
+        "ticker": ticker.upper(),
+        "limit": limit,
+        "apiKey": api_key,
+    }
+    url = "https://api.massive.com/benzinga/v1/earnings"
+    log_status(f"Massive earnings: attempting request with key {masked_key}")
+    log_status(f"Massive earnings: GET {url}?ticker={ticker.upper()}&limit={limit}&apiKey=***")
     try:
         response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
     except Exception as exc:
-        log_status(f"Polygon earnings lookup failed: {exc}")
+        log_status(f"Massive earnings HTTP request failed: {exc}")
         return []
-    results = []
-    for item in data.get("results", [])[:limit]:
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive earnings: response {response.status_code} from {sanitized_url}")
+    if response.status_code == 401:
+        log_status("Massive earnings: key rejected with 401 Unauthorized.")
+        return []
+    if response.status_code == 403:
+        try:
+            detail = response.json().get("message")
+        except Exception:
+            detail = None
+        if detail:
+            log_status(f"Massive earnings: access denied (403) - {detail}")
+        else:
+            log_status("Massive earnings: access denied with 403 Forbidden.")
+        return []
+    if response.status_code == 404:
+        log_status("Massive earnings: endpoint returned 404; falling back to yfinance.")
+        return []
+    try:
+        response.raise_for_status()
+    except Exception as exc:
+        log_status(f"Massive earnings lookup failed: {exc}")
+        return []
+    try:
+        data = response.json()
+    except ValueError as exc:
+        log_status(f"Massive earnings: failed to parse JSON response: {exc}")
+        return []
+    raw_results = data.get("results", [])
+    if not raw_results:
+        log_status("Massive earnings: key accepted but no results returned.")
+        return []
+    log_status(f"Massive earnings: key accepted; received {len(raw_results)} records.")
+    results: List[Dict[str, Any]] = []
+
+    def sort_key(item: Dict[str, Any]) -> Tuple[Any, Any]:
+        return (item.get("date") or "", item.get("time") or "")
+
+    for item in sorted(raw_results, key=sort_key, reverse=True)[:limit]:
         results.append(
             {
-                "report_date": item.get("reportDate"),
-                "eps_estimate": item.get("epsEstimate"),
-                "eps_actual": item.get("epsActual"),
-                "revenue_estimate": item.get("revenueEstimate"),
-                "revenue_actual": item.get("revenueActual"),
+                "report_date": item.get("date"),
+                "eps_estimate": item.get("estimated_eps"),
+                "eps_actual": item.get("actual_eps"),
+                "revenue_estimate": item.get("estimated_revenue"),
+                "revenue_actual": item.get("actual_revenue"),
             }
         )
     return results
+
+
+def fetch_massive_company_profile(ticker: str, api_key: Optional[str]) -> Optional[Dict[str, Any]]:
+    """Retrieve company metadata, including branding assets, from massive.com."""
+
+    if not api_key:
+        log_status("Massive profile: no API key available; skipping lookup.")
+        return None
+    path = f"/v3/reference/tickers/{ticker.upper()}"
+    try:
+        response = massive_get(path, api_key)
+    except Exception as exc:
+        log_status(f"Massive profile HTTP request failed: {exc}")
+        return None
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive profile: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return None
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"Massive profile: failed to parse JSON response: {exc}")
+        return None
+    profile = payload.get("results") or payload.get("result")
+    if not isinstance(profile, Mapping):
+        log_status("Massive profile: no results returned.")
+        return None
+    branding = profile.get("branding") or {}
+    address = profile.get("address") or {}
+    log_status("Massive profile: company metadata retrieved successfully.")
+    return {
+        "ticker": profile.get("ticker"),
+        "name": profile.get("name"),
+        "market": profile.get("market"),
+        "locale": profile.get("locale"),
+        "primary_exchange": profile.get("primary_exchange"),
+        "type": profile.get("type"),
+        "sic_code": profile.get("sic_code"),
+        "sic_description": profile.get("sic_description"),
+        "description": profile.get("description"),
+        "homepage_url": profile.get("homepage_url"),
+        "total_employees": profile.get("total_employees"),
+        "list_date": profile.get("list_date"),
+        "market_cap": profile.get("market_cap"),
+        "logo_url": branding.get("logo_url"),
+        "icon_url": branding.get("icon_url"),
+        "address": {
+            "address1": address.get("address1"),
+            "city": address.get("city"),
+            "state": address.get("state"),
+            "postal_code": address.get("postal_code"),
+            "country": address.get("country"),
+        },
+    }
+
+
+def fetch_massive_related_companies(ticker: str, api_key: Optional[str]) -> List[str]:
+    """Fetch related companies/competitors from massive.com."""
+
+    if not api_key:
+        log_status("Massive related companies: no API key available; skipping lookup.")
+        return []
+    path = f"/v1/related-companies/{ticker.upper()}"
+    try:
+        response = massive_get(path, api_key)
+    except Exception as exc:
+        log_status(f"Massive related companies HTTP request failed: {exc}")
+        return []
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive related companies: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return []
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"Massive related companies: failed to parse JSON response: {exc}")
+        return []
+    results = payload.get("results") or payload.get("companies") or []
+    competitors: List[str] = []
+    for entry in results:
+        if isinstance(entry, Mapping):
+            name = entry.get("name") or entry.get("company_name")
+            ticker_value = entry.get("ticker") or entry.get("symbol")
+            label = name or ticker_value
+            if label:
+                competitors.append(str(label))
+    log_status(f"Massive related companies: retrieved {len(competitors)} entries.")
+    return competitors
+
+
+def fetch_massive_open_close(ticker: str, date_value: str, api_key: Optional[str]) -> Optional[Dict[str, Any]]:
+    """Obtain daily open/close summary for a specific date."""
+
+    if not api_key:
+        log_status("Massive open-close: no API key available; skipping lookup.")
+        return None
+    path = f"/v1/open-close/{ticker.upper()}/{date_value}"
+    try:
+        response = massive_get(path, api_key)
+    except Exception as exc:
+        log_status(f"Massive open-close HTTP request failed: {exc}")
+        return None
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive open-close: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return None
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"Massive open-close: failed to parse JSON response: {exc}")
+        return None
+    status = str(payload.get("status", "")).lower()
+    if status not in {"ok", "success"}:
+        log_status(f"Massive open-close: unexpected status '{status}'.")
+        return None
+    return payload
+
+
+def fetch_massive_previous_close(ticker: str, api_key: Optional[str]) -> Optional[Dict[str, Any]]:
+    """Retrieve previous-day OHLC information."""
+
+    if not api_key:
+        log_status("Massive previous close: no API key available; skipping lookup.")
+        return None
+    path = f"/v2/aggs/ticker/{ticker.upper()}/prev"
+    params = {"adjusted": "true"}
+    try:
+        response = massive_get(path, api_key, params=params)
+    except Exception as exc:
+        log_status(f"Massive previous close HTTP request failed: {exc}")
+        return None
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive previous close: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return None
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"Massive previous close: failed to parse JSON response: {exc}")
+        return None
+    results = payload.get("results") or []
+    if not results:
+        log_status("Massive previous close: no results returned.")
+        return None
+    return results[0]
+
+
+def _extract_indicator_payload(response: requests.Response, api_key: str, label: str) -> Optional[Dict[str, Any]]:
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"{label}: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return None
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"{label}: failed to parse JSON response: {exc}")
+        return None
+    raw_results = payload.get("results")
+    if isinstance(raw_results, list):
+        results = raw_results
+    elif isinstance(raw_results, Mapping):
+        values = raw_results.get("values")
+        if isinstance(values, list) and values:
+            results = values
+        else:
+            results = [raw_results]
+    elif raw_results is None:
+        results = []
+    else:
+        results = [raw_results]
+    if not results:
+        log_status(f"{label}: no results returned.")
+        return None
+    latest = results[0]
+    if isinstance(latest, Mapping):
+        values = latest.get("value")
+        if values is None:
+            values = {k: v for k, v in latest.items() if k != "timestamp"}
+        timestamp = latest.get("timestamp") or latest.get("time") or latest.get("t")
+    else:
+        values = {"value": latest}
+        timestamp = None
+    if values is None:
+        values = {"value": latest}
+    return {"timestamp": timestamp, "values": values}
+
+
+def fetch_massive_indicators(ticker: str, api_key: Optional[str]) -> Dict[str, Dict[str, Any]]:
+    """Gather technical indicators (SMA, EMA, MACD, RSI) from massive.com."""
+
+    if not api_key:
+        log_status("Massive indicators: no API key available; skipping lookup.")
+        return {}
+
+    indicators: Dict[str, Dict[str, Any]] = {}
+    indicator_requests = [
+        (
+            "Massive SMA",
+            f"/v1/indicators/sma/{ticker.upper()}",
+            {
+                "timespan": "day",
+                "window": 50,
+                "series_type": "close",
+                "order": "desc",
+                "limit": 1,
+                "adjusted": "true",
+            },
+            "sma",
+        ),
+        (
+            "Massive EMA",
+            f"/v1/indicators/ema/{ticker.upper()}",
+            {
+                "timespan": "day",
+                "window": 50,
+                "series_type": "close",
+                "order": "desc",
+                "limit": 1,
+                "adjusted": "true",
+            },
+            "ema",
+        ),
+        (
+            "Massive MACD",
+            f"/v1/indicators/macd/{ticker.upper()}",
+            {
+                "timespan": "day",
+                "series_type": "close",
+                "fast": 12,
+                "slow": 26,
+                "signal": 9,
+                "order": "desc",
+                "limit": 1,
+                "adjusted": "true",
+            },
+            "macd",
+        ),
+        (
+            "Massive RSI",
+            f"/v1/indicators/rsi/{ticker.upper()}",
+            {
+                "timespan": "day",
+                "window": 14,
+                "series_type": "close",
+                "order": "desc",
+                "limit": 1,
+                "adjusted": "true",
+            },
+            "rsi",
+        ),
+    ]
+    for label, path, params, slug in indicator_requests:
+        try:
+            response = massive_get(path, api_key, params=params)
+        except Exception as exc:
+            log_status(f"{label}: HTTP request failed: {exc}")
+            continue
+        payload = _extract_indicator_payload(response, api_key, label)
+        if payload:
+            indicators[slug] = payload
+    return indicators
+
+
+def fetch_massive_news(ticker: str, api_key: Optional[str], limit: int = 5) -> List[Dict[str, Optional[str]]]:
+    """Pull recent news articles from massive.com."""
+
+    if not api_key:
+        log_status("Massive news: no API key available; skipping lookup.")
+        return []
+    params = {
+        "ticker": ticker.upper(),
+        "limit": limit,
+        "order": "desc",
+    }
+    path = "/v2/reference/news"
+    try:
+        response = massive_get(path, api_key, params=params)
+    except Exception as exc:
+        log_status(f"Massive news HTTP request failed: {exc}")
+        return []
+    sanitized_url = response.url.replace(api_key, "<redacted>")
+    log_status(f"Massive news: response {response.status_code} from {sanitized_url}")
+    if response.status_code != 200:
+        return []
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        log_status(f"Massive news: failed to parse JSON response: {exc}")
+        return []
+    results = payload.get("results") or []
+    stories: List[Dict[str, Optional[str]]] = []
+    for item in results[:limit]:
+        if not isinstance(item, Mapping):
+            continue
+        title = item.get("title")
+        if not title:
+            continue
+        stories.append(
+            {
+                "title": title,
+                "summary": item.get("description"),
+                "published": item.get("published_utc"),
+                "url": item.get("article_url"),
+                "source": item.get("publisher", {}).get("name") if isinstance(item.get("publisher"), Mapping) else None,
+            }
+        )
+    log_status(f"Massive news: collected {len(stories)} articles.")
+    return stories
 
 
 def fetch_yfinance_earnings_calendar(ticker_obj: yf.Ticker, limit: int = 4) -> List[Dict[str, Any]]:
@@ -983,30 +1352,54 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     """Collect pricing, fundamentals, and news data for the LLM."""
 
     log_status("Gathering market data...")
+    massive_api_key = _load_massive_api_key()
     histories, price_source = get_price_histories(ticker)
     hist_10d = histories["10d"]
     if hist_10d.empty:
         raise RuntimeError("No historical price data returned.")
+    latest_session_ts = hist_10d.index.max()
+    if isinstance(latest_session_ts, pd.Timestamp):
+        latest_session_date = latest_session_ts.date().isoformat()
+    elif latest_session_ts:
+        latest_session_date = str(latest_session_ts)
+    else:
+        latest_session_date = None
+    open_close_snapshot = (
+        fetch_massive_open_close(ticker, latest_session_date, massive_api_key)
+        if latest_session_date
+        else None
+    )
+    previous_close_snapshot = fetch_massive_previous_close(ticker, massive_api_key)
+    indicator_payloads = fetch_massive_indicators(ticker, massive_api_key)
     log_status("Calculating technical snapshot...")
     snapshot = compute_price_snapshot(hist_10d)
+    log_status("Fetching company profile (massive.com)...")
+    massive_profile = fetch_massive_company_profile(ticker, massive_api_key)
+    related_companies = fetch_massive_related_companies(ticker, massive_api_key)
     log_status("Fetching company fundamentals...")
     ticker_obj = yf.Ticker(ticker)
     info = ticker_obj.info or {}
     financial_metrics = extract_financial_metrics(info, ticker_obj)
     log_status("Retrieving earnings calendar...")
-    polygon_api_key = _load_massive_api_key()
-    polygon_calendar = fetch_polygon_earnings_calendar(ticker, polygon_api_key)
-    if polygon_calendar:
-        earnings_calendar = polygon_calendar
-        earnings_calendar_source = "massive.com (Polygon API)"
+    massive_calendar = fetch_massive_earnings_calendar(ticker, massive_api_key)
+    if massive_calendar:
+        earnings_calendar = massive_calendar
+        earnings_calendar_source = "massive.com"
     else:
         earnings_calendar = fetch_yfinance_earnings_calendar(ticker_obj)
         earnings_calendar_source = "yfinance"
     log_status("Assembling quick facts...")
     quick_facts = build_quick_facts(snapshot, histories, financial_metrics, prompt_config)
-    log_status("Collecting latest headlines (yfinance)...")
-    news_items = collect_news(ticker_obj)
-    log_status(f"  yfinance returned {len(news_items)} headlines")
+    log_status("Collecting latest headlines (massive.com)...")
+    news_items = fetch_massive_news(ticker, massive_api_key)
+    if news_items:
+        log_status(f"  massive.com returned {len(news_items)} headlines")
+        news_source = "massive.com"
+    else:
+        log_status("  massive.com returned no headlines; falling back to yfinance.")
+        news_items = collect_news(ticker_obj)
+        log_status(f"  yfinance returned {len(news_items)} headlines")
+        news_source = "yfinance"
     log_status("Running supplementary searches...")
     search_results = _execute_search_tasks(ticker, prompt_config)
     volume_metrics = evaluate_volume_label(snapshot)
@@ -1027,9 +1420,15 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
 
     data_sources: List[str] = []
     data_sources.append(f"Prices & technicals: {price_source}")
-    data_sources.append("Fundamentals & company profile: yfinance")
+    if massive_profile:
+        data_sources.append("Company profile & branding: massive.com")
+    else:
+        data_sources.append("Company profile: yfinance")
+    data_sources.append("Fundamentals: yfinance")
     data_sources.append(f"Earnings calendar: {earnings_calendar_source}")
-    data_sources.append("Headlines: yfinance")
+    if indicator_payloads or open_close_snapshot or previous_close_snapshot:
+        data_sources.append("Technical indicators: massive.com")
+    data_sources.append(f"Headlines: {news_source}")
     provider_labels = {
         "google_custom_search": "Google Custom Search",
         "newsapi": "NewsAPI.org",
@@ -1044,12 +1443,16 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     return {
         "ticker": ticker.upper(),
         "company": {
-            "long_name": info.get("longName"),
-            "sector": info.get("sector"),
-            "industry": info.get("industry"),
-            "country": info.get("country"),
-            "summary": info.get("longBusinessSummary"),
-            "competitor_candidates": guess_competitors(info.get("industry"), info.get("sector")),
+            "long_name": (massive_profile or {}).get("name") or info.get("longName"),
+            "sector": info.get("sector") or (massive_profile or {}).get("sic_description"),
+            "industry": info.get("industry") or (massive_profile or {}).get("sic_description"),
+            "country": info.get("country") or ((massive_profile or {}).get("address") or {}).get("country"),
+            "summary": (massive_profile or {}).get("description") or info.get("longBusinessSummary"),
+            "homepage_url": (massive_profile or {}).get("homepage_url") or info.get("website"),
+            "logo_url": (massive_profile or {}).get("logo_url"),
+            "icon_url": (massive_profile or {}).get("icon_url"),
+            "competitor_candidates": related_companies or guess_competitors(info.get("industry"), info.get("sector")),
+            "related_companies": related_companies,
         },
         "financials": {
             "net_income_values": financial_metrics["net_income_values"],
@@ -1081,7 +1484,13 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         },
         "volume_assessment": volume_metrics,
         "volatility_assessment": volatility_metrics,
+        "massive_technicals": {
+            "latest_open_close": open_close_snapshot,
+            "previous_close": previous_close_snapshot,
+            "indicators": indicator_payloads,
+        },
         "news": news_items,
+        "news_source": news_source,
         "earnings": {"calendar": earnings_calendar},
         "quick_facts": quick_fact_map,
         "quick_fact_rows": [
@@ -1226,6 +1635,12 @@ def format_report(
     }
 
     lines: List[str] = []
+    company_info = context.get("company") or {}
+    logo_url = company_info.get("logo_url")
+    if logo_url:
+        alt_text = f"{company_info.get('long_name') or context.get('ticker') or 'Company'} logo"
+        lines.append(f"![{alt_text}]({logo_url})")
+        lines.append("")
     for section in prompt_config.sections:
         heading_text = section.title or section.number
         if lines:
