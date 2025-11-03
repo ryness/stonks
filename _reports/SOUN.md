@@ -3,29 +3,29 @@ layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
 date: 2025-11-03
-generated_at: 2025-11-03T17:54:53.966461+00:00
-runtime_seconds: 45.19
+generated_at: 2025-11-03T18:02:37.729655+00:00
+runtime_seconds: 57.81
 raw_markdown: |
-  **Generated:** 2025-11-03 17:54 UTC (runtime 45.19s)
+  **Generated:** 2025-11-03 18:02 UTC (runtime 57.81s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://api.massive.com/v1/reference/company-branding/c291bmRob3VuZC5jb20/images/2025-04-04_logo.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI provides an independent voice AI platform that powers conversational experiences for enterprises and product makers. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving use cases across automotive, restaurants, smart devices, retail, financial services, and healthcare.
+  1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that powers voice-enabled experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving use cases across automotive, restaurants, smart devices, retail, financial services, and healthcare.
   
-  1.2. **Profitable?:** No—currently unprofitable with a -1.71 profit margin, -$112.1M operating cash flow, and cumulative net losses of about -$225.1M; headlines also note cash burn and no current profitability.
+  1.2. **Profitable?:** No—SoundHound is currently unprofitable with a -171% profit margin and negative operating and free cash flow; timing to profitability is not provided.
   
-  1.3. **Customer & Markets:** Primary customers are product creators and service providers such as automakers, restaurants, device makers, retailers, financial institutions, and healthcare organizations. Markets span these industries, delivering multilingual voice AI for customer service, ordering, and embedded/in-car experiences.
+  1.3. **Customer & Markets:** Primary customers are product creators and service providers in enterprise and device ecosystems, including automotive OEMs, restaurant operators, and enterprises across retail, financial services, and healthcare. The company serves multi-language voice AI needs across these industry markets and smart devices in the United States and beyond.
   
-  1.4. **Competition:** Named competitors/peers include NVDA and STLA. Relative positioning versus these companies is not specified in the provided data.
+  1.4. **Competition:** Listed competitors include Nvidia (NVDA) and Stellantis (STLA); SoundHound is a smaller, niche voice AI player relative to these much larger firms.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, with the close (~17.34) below the 20-day MA (18.57) after failing near 19.09 resistance and drifting toward 16.56–16.42 support.
+  2.1. **7d Trend?:** down, as price faded from a local high near 19.09 to ~17.43 and remains below the 20-DMA (~18.58).
   
-  2.2. **7d Buy/Sell Points?:** Buy near the 16.56–16.42 support zone; sell or trim near the 19.09 resistance level based on the recent range.
+  2.2. **7d Buy/Sell Points?:** Pullbacks toward ~16.56 (near support) offered better buy entries, while strength into ~19.09 (resistance) looked like favorable sell/trim levels.
   
   2.3.1. **7d Volume:** med
   
@@ -33,13 +33,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This is a developing technology company with elevated risk rather than a mature, stable institution. It has a cumulative net loss of about $225M, a -1.71 profit margin, and negative operating cash flow (-$112M). Free cash flow is negative and recent coverage cites cash burn and stock dilution. Trading is characterized by high volatility, underscoring financial and market instability.
+  3.1. **Stability?:** SoundHound is a U.S. technology company focused on enterprise voice AI, but its financial profile remains early-stage. It has cumulative net losses of $225.14M, a -171% profit margin, and negative operating (-$112.12M) and free cash flow. While revenue growth is rapid (217% y/y) and the Amelia acquisition expands capabilities, news highlights ongoing cash burn and stock dilution risks. Overall, it is more speculative than stable, despite growing multi-industry traction.
   
-  3.2. **Innovating?:** The company is innovating and growing, with Q2 revenue tripling year over year to $42.7M and a shift toward voice-first agentic AI via the Amelia acquisition. Growth initiatives are evident despite ongoing cash burn.
+  3.2. **Innovating?:** It is innovating and growing, evidenced by agentic voice AI initiatives, the Amelia acquisition, and triple-digit revenue growth. Product expansion across automotive, restaurants, and enterprise supports continued development.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight a near-30% pullback, even as Q2 revenue tripled to $42.7M and the company pivots to agentic voice AI after acquiring Amelia. Coverage flags cash burn, dilution, and lack of current profitability, with one view rating the stock a hold. Other pieces tout strong growth potential (217% revenue increase) and prospects of sizable gains by 2026, while noting the stock had surged 143% in six months before setbacks. The mix of hype, rapid gains, and subsequent declines suggests buy-the-rumor/sell-the-news dynamics may be at play.
+  4.1. **News:** Recent coverage highlights a near-30% pullback amid a shift to voice-first agentic AI after acquiring Amelia, alongside strong revenue growth but ongoing cash burn. The latest earnings commentary notes Q2 revenue tripled to $42.7M with dilution and profitability challenges, leading to a ‘hold’ stance. Other pieces tout 217% quarterly revenue growth and multi-year growth potential, while also acknowledging volatility after a 143% six-month run. In the context of ‘buy the rumor, sell the news,’ sentiment appears mixed—hype around growth and partnerships met with a subsequent drawdown and caution, and QuickRef flags ‘no’ for both buy-the-rumor and sell-the-news.
   
   4.2. **Tarrifs:** unknown
   
@@ -48,7 +48,7 @@ raw_markdown: |
   | Metric | Answer |
   | --- | --- |
   | Last Q4 | $-225.14M |
-  | Price | 17.34 |
+  | Price | 17.43 |
   | 7d Resistance | 19.09 |
   | 7d Support | 16.42 |
   | Buy the dip? | no |
@@ -74,7 +74,7 @@ raw_markdown: |
   Gathering context for SOUN...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting SOUN prices from massive.com...
+  Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-05/2025-11-03)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
@@ -162,26 +162,26 @@ raw_markdown: |
   </code></pre></div>
 ---
 
-**Generated:** 2025-11-03 17:54 UTC (runtime 45.19s)
+**Generated:** 2025-11-03 18:02 UTC (runtime 57.81s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://api.massive.com/v1/reference/company-branding/c291bmRob3VuZC5jb20/images/2025-04-04_logo.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI provides an independent voice AI platform that powers conversational experiences for enterprises and product makers. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving use cases across automotive, restaurants, smart devices, retail, financial services, and healthcare.
+1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that powers voice-enabled experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving use cases across automotive, restaurants, smart devices, retail, financial services, and healthcare.
 
-1.2. **Profitable?:** No—currently unprofitable with a -1.71 profit margin, -$112.1M operating cash flow, and cumulative net losses of about -$225.1M; headlines also note cash burn and no current profitability.
+1.2. **Profitable?:** No—SoundHound is currently unprofitable with a -171% profit margin and negative operating and free cash flow; timing to profitability is not provided.
 
-1.3. **Customer & Markets:** Primary customers are product creators and service providers such as automakers, restaurants, device makers, retailers, financial institutions, and healthcare organizations. Markets span these industries, delivering multilingual voice AI for customer service, ordering, and embedded/in-car experiences.
+1.3. **Customer & Markets:** Primary customers are product creators and service providers in enterprise and device ecosystems, including automotive OEMs, restaurant operators, and enterprises across retail, financial services, and healthcare. The company serves multi-language voice AI needs across these industry markets and smart devices in the United States and beyond.
 
-1.4. **Competition:** Named competitors/peers include NVDA and STLA. Relative positioning versus these companies is not specified in the provided data.
+1.4. **Competition:** Listed competitors include Nvidia (NVDA) and Stellantis (STLA); SoundHound is a smaller, niche voice AI player relative to these much larger firms.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, with the close (~17.34) below the 20-day MA (18.57) after failing near 19.09 resistance and drifting toward 16.56–16.42 support.
+2.1. **7d Trend?:** down, as price faded from a local high near 19.09 to ~17.43 and remains below the 20-DMA (~18.58).
 
-2.2. **7d Buy/Sell Points?:** Buy near the 16.56–16.42 support zone; sell or trim near the 19.09 resistance level based on the recent range.
+2.2. **7d Buy/Sell Points?:** Pullbacks toward ~16.56 (near support) offered better buy entries, while strength into ~19.09 (resistance) looked like favorable sell/trim levels.
 
 2.3.1. **7d Volume:** med
 
@@ -189,13 +189,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** This is a developing technology company with elevated risk rather than a mature, stable institution. It has a cumulative net loss of about $225M, a -1.71 profit margin, and negative operating cash flow (-$112M). Free cash flow is negative and recent coverage cites cash burn and stock dilution. Trading is characterized by high volatility, underscoring financial and market instability.
+3.1. **Stability?:** SoundHound is a U.S. technology company focused on enterprise voice AI, but its financial profile remains early-stage. It has cumulative net losses of $225.14M, a -171% profit margin, and negative operating (-$112.12M) and free cash flow. While revenue growth is rapid (217% y/y) and the Amelia acquisition expands capabilities, news highlights ongoing cash burn and stock dilution risks. Overall, it is more speculative than stable, despite growing multi-industry traction.
 
-3.2. **Innovating?:** The company is innovating and growing, with Q2 revenue tripling year over year to $42.7M and a shift toward voice-first agentic AI via the Amelia acquisition. Growth initiatives are evident despite ongoing cash burn.
+3.2. **Innovating?:** It is innovating and growing, evidenced by agentic voice AI initiatives, the Amelia acquisition, and triple-digit revenue growth. Product expansion across automotive, restaurants, and enterprise supports continued development.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight a near-30% pullback, even as Q2 revenue tripled to $42.7M and the company pivots to agentic voice AI after acquiring Amelia. Coverage flags cash burn, dilution, and lack of current profitability, with one view rating the stock a hold. Other pieces tout strong growth potential (217% revenue increase) and prospects of sizable gains by 2026, while noting the stock had surged 143% in six months before setbacks. The mix of hype, rapid gains, and subsequent declines suggests buy-the-rumor/sell-the-news dynamics may be at play.
+4.1. **News:** Recent coverage highlights a near-30% pullback amid a shift to voice-first agentic AI after acquiring Amelia, alongside strong revenue growth but ongoing cash burn. The latest earnings commentary notes Q2 revenue tripled to $42.7M with dilution and profitability challenges, leading to a ‘hold’ stance. Other pieces tout 217% quarterly revenue growth and multi-year growth potential, while also acknowledging volatility after a 143% six-month run. In the context of ‘buy the rumor, sell the news,’ sentiment appears mixed—hype around growth and partnerships met with a subsequent drawdown and caution, and QuickRef flags ‘no’ for both buy-the-rumor and sell-the-news.
 
 4.2. **Tarrifs:** unknown
 
@@ -204,7 +204,7 @@ raw_markdown: |
 | Metric | Answer |
 | --- | --- |
 | Last Q4 | $-225.14M |
-| Price | 17.34 |
+| Price | 17.43 |
 | 7d Resistance | 19.09 |
 | 7d Support | 16.42 |
 | Buy the dip? | no |
@@ -230,7 +230,7 @@ raw_markdown: |
 Gathering context for SOUN...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting SOUN prices from massive.com...
+Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-05/2025-11-03)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
