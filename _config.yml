@@ -14,5 +14,5 @@ exclude:
   - apikey-openai.txt
   - apikey-massive.txt
   - stock-expert_prompt.txt
-  - stonks.py
+  - gostonks.py
 repository: ryness/stonks

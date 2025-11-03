@@ -1,4 +1,4 @@
-name: generate-report
+name: gostonks
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Generate report
         run: >-
-          python stonks.py "${{ github.event.inputs.ticker }}"
+          python gostonks.py "${{ github.event.inputs.ticker }}"
       - name: Commit report
         run: |
           git config user.name "github-actions"
