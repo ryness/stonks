@@ -1,5 +1,5 @@
-title: Stonks Reports
-name: Stonks Reports
+title: stonks
+name: stonks
 markdown: kramdown
 collections:
   reports:
