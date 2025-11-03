@@ -42,6 +42,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add _reports/*.md
+          if [ -d assets/logos ]; then
+            git add assets/logos
+          fi
           if [ -f .gostonks-state.json ]; then
             git add .gostonks-state.json
           fi
