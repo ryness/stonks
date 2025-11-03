@@ -212,15 +212,7 @@ elements.rerun?.addEventListener('click', (event) => {
 
 elements.newLink?.addEventListener('click', (event) => {
   event.preventDefault();
-  const ticker = window.prompt('Ticker symbol to analyze:');
-  if (!ticker) {
-    return;
-  }
-  const cleaned = ticker.trim().toUpperCase();
-  if (!cleaned) {
-    return;
-  }
-  const url = buildActionUrl(cleaned, false);
+  const url = (state.workflowUrl && state.workflowUrl.startsWith('http')) ? state.workflowUrl : '#';
   if (url === '#') {
     alert('Workflow URL is not configured. Update _config.yml with your repository name.');
     return;
