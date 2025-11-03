@@ -1884,29 +1884,23 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         action="store_true",
         help="Cycle through the next ticker discovered in _reports/ instead of prompting.",
     )
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Regenerate reports for every ticker already present in _reports/.",
+    )
     return parser.parse_args(argv)
 
 
-def main(argv: Optional[Sequence[str]] = None) -> int:
-    """Entry point that generates and writes the Markdown report."""
+def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None:
+    """Generate a report for a single ticker and write it to disk."""
 
-    args = parse_args(argv)
-    if args.cycle and args.ticker:
-        raise SystemExit("Do not pass a ticker when using --cycle.")
-    log_status("Loading prompt template...")
-    prompt_config = load_prompt()
-    validate_prompt(prompt_config)
-    if args.cycle:
-        ticker = select_next_ticker()
-        log_status(f"Cycling to next tracked ticker: {ticker}")
-    else:
-        ticker = args.ticker or input("Enter ticker symbol: ").strip()
-    if not ticker:
-        raise SystemExit("Ticker symbol is required.")
-    ticker = ticker.upper()
-    log_status(f"Starting report generation for {ticker}...")
+    ticker_clean = ticker.strip().upper()
+    if not ticker_clean:
+        raise ValueError("Ticker symbol is required.")
+    log_status(f"Starting report generation for {ticker_clean}...")
     start_time = time.perf_counter()
-    report = build_report(ticker, prompt_config)
+    report = build_report(ticker_clean, prompt_config)
     elapsed_seconds = time.perf_counter() - start_time
     generated_at = dt.datetime.now(dt.timezone.utc)
     timestamp_display = generated_at.strftime("%Y-%m-%d %H:%M %Z")
@@ -1921,10 +1915,46 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         report = f"{header_line}\n\n{trimmed_body}"
     else:
         report = header_line
-    output_path = REPORTS_DIR / f"{ticker}.md"
-    write_jekyll_report(ticker, report, generated_at, elapsed_seconds, output_path)
-    update_cycle_state(ticker)
+    output_path = REPORTS_DIR / f"{ticker_clean}.md"
+    write_jekyll_report(ticker_clean, report, generated_at, elapsed_seconds, output_path)
+    update_cycle_state(ticker_clean)
     print(f"Saved Jekyll report to {output_path}")
+
+
+def main(argv: Optional[Sequence[str]] = None) -> int:
+    """Entry point that generates and writes the Markdown report."""
+
+    args = parse_args(argv)
+    if args.all and args.cycle:
+        raise SystemExit("Do not combine --all with --cycle.")
+    if args.cycle and args.ticker:
+        raise SystemExit("Do not pass a ticker when using --cycle.")
+    if args.all and args.ticker:
+        raise SystemExit("Do not pass a ticker when using --all.")
+    log_status("Loading prompt template...")
+    prompt_config = load_prompt()
+    validate_prompt(prompt_config)
+    if args.all:
+        tickers = discover_tickers()
+        if not tickers:
+            raise SystemExit("No existing reports found in _reports/ to rebuild.")
+        exit_code = 0
+        for ticker in tickers:
+            try:
+                generate_report_for_ticker(ticker, prompt_config)
+            except Exception as exc:  # pylint: disable=broad-except
+                exit_code = 1
+                log_status(f"Error generating report for {ticker}: {exc}")
+        return exit_code
+
+    if args.cycle:
+        ticker = select_next_ticker()
+        log_status(f"Cycling to next tracked ticker: {ticker}")
+    else:
+        ticker = args.ticker or input("Enter ticker symbol: ").strip()
+    if not ticker:
+        raise SystemExit("Ticker symbol is required.")
+    generate_report_for_ticker(ticker, prompt_config)
     return 0
 
 
