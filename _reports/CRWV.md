@@ -3,51 +3,54 @@ layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
 date: 2025-11-03
-generated_at: 2025-11-03T16:52:02.026868+00:00
-runtime_seconds: 93.59
+generated_at: 2025-11-03T21:58:34.093701+00:00
+runtime_seconds: 47.21
 raw_markdown: |
-  **Generated:** 2025-11-03 16:52 UTC (runtime 1m 34s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-03T21:58:34.093701+00:00">2025-11-03 21:58 UTC</time> (runtime 47.21s)
+  
+  ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
+  
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave, Inc. operates an AI-focused cloud platform providing GPU and CPU compute, storage, networking, managed services, and both virtual and bare-metal servers to scale GenAI workloads for enterprises. Its platform includes fleet and node lifecycle controllers, a tensorizer, and observability, with services spanning VFX/rendering, AI model training and inference, mission control, and a dataset optimization tool.
+  1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform, which combines proprietary software and cloud services to manage complex AI infrastructure at scale. Its platform supports development and use of cutting-edge AI models and delivery of next-generation AI applications across the globe.
   
-  1.2. **Profitable?:** No — it remains unprofitable, with a -28.83% profit margin and roughly $1.02B in cumulative net losses, though operating cash flow is positive ($637.9M).
+  1.2. **Profitable?:** No — it is currently unprofitable, with a -28.8% profit margin and cumulative net losses of about $1.02B; coverage suggests a path to potential profitability by late 2026/early 2027.
   
-  1.3. **Customer & Markets:** Primary customers are enterprises and developers running AI and high-performance workloads, including VFX/rendering studios and machine-learning teams. Markets span GenAI infrastructure, model training/inference, and rendering services; the company is U.S.-based.
+  1.3. **Customer & Markets:** Primary customers are organizations building and deploying AI models and applications that need specialized GPU computing infrastructure for AI workloads. Markets include AI infrastructure and cloud services in the United States with applications used across the globe.
   
-  1.4. **Competition:** Competitors include Microsoft Azure and data/AI infrastructure providers such as Snowflake, Databricks, and C3.ai. CoreWeave positions as a specialized AI cloud for GPU-intensive workloads rather than a general-purpose hyperscale cloud.
+  1.4. **Competition:** Key competitors include NVIDIA, Microsoft, and Meta in AI and cloud infrastructure. Relative market positioning is not specified in the provided data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares trade below the 20-DMA (133.87), failed near 138.36, and closed at 128.36 with support around 125.99.
+  2.1. **7d Trend?:** down — price fell from 133.71 to 126.32 and stayed below the 20-DMA (133.76) with a downtrend label.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 130.41 or at support around 125.99 looked favorable; selling into 138.36 or near 141.79 resistance offered better exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 125.88–130.41 support looked favorable, while selling near 138.36 (local high) up to 141.79 resistance offered exits.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Founded in 2017 (renamed in 2019) and based in New Jersey, the company is younger than mature incumbents but not a fly-by-night. It is still posting net losses (profit margin -28.83% and about $1.02B cumulative losses) yet generated positive operating cash flow of $637.9M. With rapid revenue growth (~206.7%), it appears to be a scaling growth platform. Overall stability is moderate: growth is strong but profitability and track record are still developing.
+  3.1. **Stability?:** Longevity details are not provided. Financially, CoreWeave has incurred net losses totaling about -$1.02B and a negative profit margin, indicating it is still in investment mode. However, operating cash flow is positive at roughly $638M, showing cash generation despite GAAP losses. Trading exhibits high volatility, signaling elevated risk. Overall, stability appears developing rather than established based on these metrics.
   
-  3.2. **Innovating?:** Innovating and growing, with an AI cloud stack (GPU/CPU compute, lifecycle controllers, tensorizer, dataset optimization) and strong revenue growth of about 206.7%.
+  3.2. **Innovating?:** Innovating and growing, evidenced by strong revenue growth (about 2.07x) and a focus on AI infrastructure. Recent coverage highlights a strong growth outlook.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight surging AI capex by Alphabet, Amazon, and Meta; Amazon’s $38B Nvidia chip deal for OpenAI; and AI cloud capacity wins by Iren and Cipher Mining with Microsoft and AWS. Coverage also asks where CoreWeave stock will be in a year, underscoring investor focus on AI infrastructure demand. Quick facts indicate “Buy the dip? yes” but “Buy the rumor? no” and “Sell the news? no,” suggesting dips have been preferable to chasing headlines.
+  4.1. **News:** Recent coverage highlights CoreWeave as an AI infrastructure play alongside peers, with bullish pieces suggesting significant growth potential and even a possible multi-year triple. Another report notes insider selling and short interest contributing to volatility, while still pointing to potential profitability by late 2026/early 2027. Peer news (Applied Digital) shows sector enthusiasm and insider sales amid big rallies, underscoring momentum-driven swings. In the context of “buy the rumor, sell the news,” the mixed signals imply hype can drive spikes and reversals; quick facts flag ‘no’ for both buying the rumor and selling the news.
   
-  4.2. **Tarrifs:** Tariff-related headlines have pressured tech and AI shares broadly, with reports noting CoreWeave extended losses on tariff news and market swings tied to tariff developments. Overall, the impact appears sentiment-driven rather than company-specific in the provided data.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
   | Metric | Answer |
   | --- | --- |
   | Last Q4 | $-1.02B |
-  | Price | 128.36 |
+  | Price | 126.32 |
   | 7d Resistance | 141.79 |
-  | 7d Support | 125.99 |
+  | 7d Support | 125.88 |
   | Buy the dip? | yes |
   | Buy the rumor? | no |
   | Sell the news? | no |
@@ -59,68 +62,137 @@ raw_markdown: |
   
   **Sources**
   - Prices & technicals: yfinance
-  - Fundamentals & company profile: yfinance
+  - Company profile & branding: massive.com
+  - Fundamentals: yfinance
   - Earnings calendar: yfinance
-  - Headlines: yfinance
-  - Supplementary search: Google Custom Search
-  - Supplementary search: NewsAPI.org
+  - Technical indicators: massive.com
+  - Headlines: massive.com
+  - Supplementary search: Google Custom Search (no results)
+  - Supplementary search: NewsAPI.org (no results)
   
   <div class="cli-log"><pre><code>
   Gathering context for CRWV...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting CRWV prices from massive.com (Polygon API)...
+  Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-05/2025-11-03?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
+  Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=&lt;redacted&gt;
+  Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive EMA: GET https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: GET https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive RSI: GET https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
+  Fetching company profile (massive.com)...
+  Massive profile: GET https://api.massive.com/v3/reference/tickers/CRWV?apiKey=%2A%2A%2A
+  Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/CRWV?apiKey=&lt;redacted&gt;
+  Massive profile: company metadata retrieved successfully.
+  Massive logo: GET https://api.massive.com/v1/reference/company-branding/Y29yZXdlYXZlLmNvbQ/images/2025-04-04_logo.png?apiKey=%2A%2A%2A
+  Massive logo: cached to assets/logos/CRWV.png
+  Massive related companies: GET https://api.massive.com/v1/related-companies/CRWV?apiKey=%2A%2A%2A
+  Massive related companies: response 200 from https://api.massive.com/v1/related-companies/CRWV?apiKey=&lt;redacted&gt;
+  Massive related companies: retrieved 3 entries.
   Fetching company fundamentals...
   Retrieving earnings calendar...
-  Polygon earnings lookup failed: 404 Client Error: Not Found for url: https://api.polygon.io/v1/reference/earnings/CRWV?limit=4&amp;apiKey=fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM
+  Massive earnings: attempting request with key 2QGS***XN
+  Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=CRWV&amp;limit=4&amp;apiKey=%2A%2A%2A
+  Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=CRWV&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
   Assembling quick facts...
-  Collecting latest headlines (yfinance)...
-    yfinance returned 5 headlines
+  Collecting latest headlines (massive.com)...
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 5 articles.
+    massive.com returned 5 headlines
   Running supplementary searches...
     google_custom_search search -&gt; CRWV core business
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
+  Google Custom Search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV product portfolio
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
+  Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV business model
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV profitability
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
+  Google Custom Search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV earnings trend
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
+  Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV profit outlook
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV target customers
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
+  Google Custom Search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV market segments
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
+  Google Custom Search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV market expansion
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV competitors
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
+  Google Custom Search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV market share
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
+  Google Custom Search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV competitive landscape
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
       -&gt; 0 results
     google_custom_search search -&gt; CRWV rumors
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
+  Google Custom Search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV tariffs news
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
+  Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV rumor
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
       -&gt; 0 results
     newsapi search -&gt; CRWV tariff
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     newsapi search -&gt; CRWV latest news
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV latest rumor
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
+  Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
+      -&gt; 0 results
     newsapi search -&gt; CRWV tariffs
-      -&gt; 5 results
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;CRWV tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+      -&gt; 0 results
     google_custom_search search -&gt; CRWV tariff impact
-      -&gt; 5 results
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
+  Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
+      -&gt; 0 results
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -141,48 +213,51 @@ raw_markdown: |
   </code></pre></div>
 ---
 
-**Generated:** 2025-11-03 16:52 UTC (runtime 1m 34s)
+**Generated:** <time class="js-local-time" datetime="2025-11-03T21:58:34.093701+00:00">2025-11-03 21:58 UTC</time> (runtime 47.21s)
+
+![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
+
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave, Inc. operates an AI-focused cloud platform providing GPU and CPU compute, storage, networking, managed services, and both virtual and bare-metal servers to scale GenAI workloads for enterprises. Its platform includes fleet and node lifecycle controllers, a tensorizer, and observability, with services spanning VFX/rendering, AI model training and inference, mission control, and a dataset optimization tool.
+1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform, which combines proprietary software and cloud services to manage complex AI infrastructure at scale. Its platform supports development and use of cutting-edge AI models and delivery of next-generation AI applications across the globe.
 
-1.2. **Profitable?:** No — it remains unprofitable, with a -28.83% profit margin and roughly $1.02B in cumulative net losses, though operating cash flow is positive ($637.9M).
+1.2. **Profitable?:** No — it is currently unprofitable, with a -28.8% profit margin and cumulative net losses of about $1.02B; coverage suggests a path to potential profitability by late 2026/early 2027.
 
-1.3. **Customer & Markets:** Primary customers are enterprises and developers running AI and high-performance workloads, including VFX/rendering studios and machine-learning teams. Markets span GenAI infrastructure, model training/inference, and rendering services; the company is U.S.-based.
+1.3. **Customer & Markets:** Primary customers are organizations building and deploying AI models and applications that need specialized GPU computing infrastructure for AI workloads. Markets include AI infrastructure and cloud services in the United States with applications used across the globe.
 
-1.4. **Competition:** Competitors include Microsoft Azure and data/AI infrastructure providers such as Snowflake, Databricks, and C3.ai. CoreWeave positions as a specialized AI cloud for GPU-intensive workloads rather than a general-purpose hyperscale cloud.
+1.4. **Competition:** Key competitors include NVIDIA, Microsoft, and Meta in AI and cloud infrastructure. Relative market positioning is not specified in the provided data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares trade below the 20-DMA (133.87), failed near 138.36, and closed at 128.36 with support around 125.99.
+2.1. **7d Trend?:** down — price fell from 133.71 to 126.32 and stayed below the 20-DMA (133.76) with a downtrend label.
 
-2.2. **7d Buy/Sell Points?:** Buying near 130.41 or at support around 125.99 looked favorable; selling into 138.36 or near 141.79 resistance offered better exits.
+2.2. **7d Buy/Sell Points?:** Buying near 125.88–130.41 support looked favorable, while selling near 138.36 (local high) up to 141.79 resistance offered exits.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Founded in 2017 (renamed in 2019) and based in New Jersey, the company is younger than mature incumbents but not a fly-by-night. It is still posting net losses (profit margin -28.83% and about $1.02B cumulative losses) yet generated positive operating cash flow of $637.9M. With rapid revenue growth (~206.7%), it appears to be a scaling growth platform. Overall stability is moderate: growth is strong but profitability and track record are still developing.
+3.1. **Stability?:** Longevity details are not provided. Financially, CoreWeave has incurred net losses totaling about -$1.02B and a negative profit margin, indicating it is still in investment mode. However, operating cash flow is positive at roughly $638M, showing cash generation despite GAAP losses. Trading exhibits high volatility, signaling elevated risk. Overall, stability appears developing rather than established based on these metrics.
 
-3.2. **Innovating?:** Innovating and growing, with an AI cloud stack (GPU/CPU compute, lifecycle controllers, tensorizer, dataset optimization) and strong revenue growth of about 206.7%.
+3.2. **Innovating?:** Innovating and growing, evidenced by strong revenue growth (about 2.07x) and a focus on AI infrastructure. Recent coverage highlights a strong growth outlook.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight surging AI capex by Alphabet, Amazon, and Meta; Amazon’s $38B Nvidia chip deal for OpenAI; and AI cloud capacity wins by Iren and Cipher Mining with Microsoft and AWS. Coverage also asks where CoreWeave stock will be in a year, underscoring investor focus on AI infrastructure demand. Quick facts indicate “Buy the dip? yes” but “Buy the rumor? no” and “Sell the news? no,” suggesting dips have been preferable to chasing headlines.
+4.1. **News:** Recent coverage highlights CoreWeave as an AI infrastructure play alongside peers, with bullish pieces suggesting significant growth potential and even a possible multi-year triple. Another report notes insider selling and short interest contributing to volatility, while still pointing to potential profitability by late 2026/early 2027. Peer news (Applied Digital) shows sector enthusiasm and insider sales amid big rallies, underscoring momentum-driven swings. In the context of “buy the rumor, sell the news,” the mixed signals imply hype can drive spikes and reversals; quick facts flag ‘no’ for both buying the rumor and selling the news.
 
-4.2. **Tarrifs:** Tariff-related headlines have pressured tech and AI shares broadly, with reports noting CoreWeave extended losses on tariff news and market swings tied to tariff developments. Overall, the impact appears sentiment-driven rather than company-specific in the provided data.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
 | Metric | Answer |
 | --- | --- |
 | Last Q4 | $-1.02B |
-| Price | 128.36 |
+| Price | 126.32 |
 | 7d Resistance | 141.79 |
-| 7d Support | 125.99 |
+| 7d Support | 125.88 |
 | Buy the dip? | yes |
 | Buy the rumor? | no |
 | Sell the news? | no |
@@ -194,68 +269,137 @@ raw_markdown: |
 
 **Sources**
 - Prices & technicals: yfinance
-- Fundamentals & company profile: yfinance
+- Company profile & branding: massive.com
+- Fundamentals: yfinance
 - Earnings calendar: yfinance
-- Headlines: yfinance
-- Supplementary search: Google Custom Search
-- Supplementary search: NewsAPI.org
+- Technical indicators: massive.com
+- Headlines: massive.com
+- Supplementary search: Google Custom Search (no results)
+- Supplementary search: NewsAPI.org (no results)
 
 <div class="cli-log"><pre><code>
 Gathering context for CRWV...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting CRWV prices from massive.com (Polygon API)...
+Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-05/2025-11-03?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
+Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=&lt;redacted&gt;
+Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
+Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive EMA: GET https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: GET https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive RSI: GET https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
+Fetching company profile (massive.com)...
+Massive profile: GET https://api.massive.com/v3/reference/tickers/CRWV?apiKey=%2A%2A%2A
+Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/CRWV?apiKey=&lt;redacted&gt;
+Massive profile: company metadata retrieved successfully.
+Massive logo: GET https://api.massive.com/v1/reference/company-branding/Y29yZXdlYXZlLmNvbQ/images/2025-04-04_logo.png?apiKey=%2A%2A%2A
+Massive logo: cached to assets/logos/CRWV.png
+Massive related companies: GET https://api.massive.com/v1/related-companies/CRWV?apiKey=%2A%2A%2A
+Massive related companies: response 200 from https://api.massive.com/v1/related-companies/CRWV?apiKey=&lt;redacted&gt;
+Massive related companies: retrieved 3 entries.
 Fetching company fundamentals...
 Retrieving earnings calendar...
-Polygon earnings lookup failed: 404 Client Error: Not Found for url: https://api.polygon.io/v1/reference/earnings/CRWV?limit=4&amp;apiKey=fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM
+Massive earnings: attempting request with key 2QGS***XN
+Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=CRWV&amp;limit=4&amp;apiKey=%2A%2A%2A
+Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=CRWV&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
 Assembling quick facts...
-Collecting latest headlines (yfinance)...
-  yfinance returned 5 headlines
+Collecting latest headlines (massive.com)...
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 5 articles.
+  massive.com returned 5 headlines
 Running supplementary searches...
   google_custom_search search -&gt; CRWV core business
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
+Google Custom Search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV product portfolio
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
+Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV business model
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV profitability
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
+Google Custom Search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV earnings trend
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
+Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV profit outlook
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV target customers
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
+Google Custom Search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV market segments
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
+Google Custom Search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV market expansion
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV competitors
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
+Google Custom Search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV market share
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
+Google Custom Search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV competitive landscape
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
     -&gt; 0 results
   google_custom_search search -&gt; CRWV rumors
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
+Google Custom Search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV tariffs news
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
+Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV rumor
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
     -&gt; 0 results
   newsapi search -&gt; CRWV tariff
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   newsapi search -&gt; CRWV latest news
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV latest rumor
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
+Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
+    -&gt; 0 results
   newsapi search -&gt; CRWV tariffs
-    -&gt; 5 results
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;CRWV tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
+    -&gt; 0 results
   google_custom_search search -&gt; CRWV tariff impact
-    -&gt; 5 results
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
+Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
+    -&gt; 0 results
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
