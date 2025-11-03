@@ -42,3 +42,21 @@ To mimic the scheduled behaviour locally (cycling through tracked tickers), run:
 ```bash
 python gostonks.py --cycle
 ```
+# stonks
+## Setup
+
+Use the provided setup scripts to install both Python and Ruby dependencies locally (Python venv + Bundler to `vendor/bundle`).
+
+- Windows (PowerShell): `./bin/setup.ps1`
+  - If scripts are blocked: `Set-ExecutionPolicy -Scope Process RemoteSigned`
+- macOS/Linux: `bash bin/setup.sh`
+
+This will:
+- Create `.venv` and install `requirements.txt` via pip
+- Install Bundler (version from `Gemfile.lock`) and run `bundle install`
+
+Serve the site: `bundle exec jekyll serve` then open http://127.0.0.1:4000
+
+Notes:
+- Ruby version is pinned via `.ruby-version` (3.3). Use your preferred version manager (rbenv/asdf) on macOS/Linux, or RubyInstaller on Windows.
+- Gems are installed to `vendor/bundle` (configured by `.bundle/config` and ignored by `.gitignore`).

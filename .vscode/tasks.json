@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Setup Project (Windows)",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/bin/setup.ps1"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Setup Project (macOS/Linux)",
+      "type": "shell",
+      "command": "bash",
+      "args": ["${workspaceFolder}/bin/setup.sh"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: Serve",
+      "type": "shell",
+      "command": "bundle",
+      "args": ["exec", "jekyll", "serve"],
+      "problemMatcher": [],
+      "presentation": { "reveal": "always" }
+    }
+  ]
+}
+
