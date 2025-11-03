@@ -180,19 +180,24 @@ def _save_cycle_state(state: Mapping[str, Any]) -> None:
 
 
 def select_next_ticker() -> str:
-    """Return the next ticker in rotation based on the stored cycle state."""
+    """Return the ticker whose report was generated longest ago."""
 
     tickers = discover_tickers()
     if not tickers:
         raise RuntimeError(
             "No reports found in _reports/. Add at least one report before using --cycle."
         )
-    state = _load_cycle_state()
-    last_index = state.get("last_index", -1)
-    if not isinstance(last_index, int):
-        last_index = -1
-    next_index = (last_index + 1) % len(tickers)
-    return tickers[next_index]
+
+    def modified_time(ticker: str) -> float:
+        path = REPORTS_DIR / f"{ticker}.md"
+        try:
+            return path.stat().st_mtime
+        except FileNotFoundError:
+            return float("-inf")  # Prioritize missing reports.
+        except OSError:
+            return float("inf")  # Deprioritize if metadata unavailable.
+
+    return min(tickers, key=lambda ticker: (modified_time(ticker), ticker))
 
 
 def update_cycle_state(ticker: str) -> None:
