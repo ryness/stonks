@@ -3,29 +3,29 @@ layout: default
 title: "RGTI Stock Report"
 ticker: "RGTI"
 date: 2025-11-03
-generated_at: 2025-11-03T18:24:25.811018+00:00
-runtime_seconds: 70.58
+generated_at: 2025-11-03T18:32:05.544292+00:00
+runtime_seconds: 72.79
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-03T18:24:25.811018+00:00">2025-11-03 18:24 UTC</time> (runtime 1m 11s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-03T18:32:05.544292+00:00">2025-11-03 18:32 UTC</time> (runtime 1m 13s)
   
-  ![Rigetti Computing, Inc. Common Stock logo](/assets/logos/RGTI.svg)
+  ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through third-party cloud providers. Its proprietary quantum‑classical infrastructure integrates with public and private clouds for ultra‑low latency, and it develops multi‑chip quantum processors for scalable systems.
+  1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has developed a multi‑chip quantum processor to scale systems.
   
-  1.2. **Profitable?:** No — it reports cumulative net losses (−$164.83M), negative operating and free cash flow, and a 0.0 profit margin; timing to profitability is not disclosed.
+  1.2. **Profitable?:** No—cumulative net losses (net income sum -$164.8M) with negative operating and free cash flow, and the data provides no timeline to profitability.
   
-  1.3. **Customer & Markets:** Primary customers are end users accessing quantum computing directly via the Rigetti QCS platform and indirectly through cloud service providers across public and private clouds. The majority of revenue is derived from the United States.
+  1.3. **Customer & Markets:** Primary customers are end‑users accessing quantum compute via cloud platforms, both directly through Rigetti QCS and via third‑party cloud providers. The company derives most revenue from the United States, serving a broad set of cloud‑based use cases.
   
-  1.4. **Competition:** Competitors include IonQ (IONQ), D‑Wave Quantum (QBTS), Quantum Computing Inc. (QUBT), and large platforms from NVIDIA, Alphabet (GOOGL/GOOG), and Microsoft (MSFT). Relative market positioning or rank is not specified in the provided data.
+  1.4. **Competition:** Competitors include pure‑plays like IonQ (IONQ), D‑Wave Quantum (QBTS), and Quantum Computing Inc (QUBT), as well as large platforms such as Microsoft, Google, and Nvidia. Rigetti is one of several pure‑play quantum firms competing against far larger tech companies; specific market ranking isn’t provided.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the stock is in an uptrend, testing the 44.52 resistance while holding above the 36.90 support.
+  2.1. **7d Trend?:** up; price moved from 36.90 support toward 44.52 resistance and the 7d trend label is up.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 36.90 (support/suggested buy zone) and selling near 44.52 (resistance/suggested sell zone) were the notable levels.
+  2.2. **7d Buy/Sell Points?:** Buying near 36.90 support looked attractive, while selling or trimming near 44.52 resistance was sensible.
   
   2.3.1. **7d Volume:** low
   
@@ -33,13 +33,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This is an early-stage company with ongoing net losses and negative operating and free cash flow, indicating elevated financial risk. It derives most revenue in the U.S., but revenue declined 41.6% year over year. Trading shows high volatility (ATR ~13.2% of price). Balance sheet details are not provided here, so overall stability appears limited based on losses and volatility.
+  3.1. **Stability?:** Rigetti is a specialized quantum computing provider but appears financially fragile in this data. It reports significant net losses and negative operating and free cash flow, alongside a 41.6% revenue decline. Recent trading shows high volatility, adding risk. Balance sheet and liquidity details are not provided here.
   
-  3.2. **Innovating?:** Yes — it is innovating with proprietary quantum‑classical infrastructure and what it calls the industry’s first multi‑chip quantum processor, though revenue contraction (−41.6%) signals commercialization is still early.
+  3.2. **Innovating?:** Innovating—its proprietary quantum‑classical infrastructure and an industry‑first multi‑chip quantum processor indicate active R&D, though reported revenue is contracting.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights strong interest and gains in quantum computing, including a quantum ETF and pieces noting big returns and bubble risks for pure-play names like IonQ, D‑Wave, and Rigetti. Headlines cite Alphabet’s Echoes algorithm showing a verifiable quantum advantage and positive commentary from Elon Musk. Another article points to momentum ahead of an IonQ investor update. This hype‑tilted backdrop can invite buy‑the‑rumor/sell‑the‑news dynamics, but quick facts here flag no clear signal (Buy the rumor? no; Sell the news? no).
+  4.1. **News:** Recent coverage highlights sector‑wide enthusiasm, including a quantum computing ETF and debate over a potential bubble after outsized gains that included Rigetti. Articles cite Alphabet’s reported ‘verifiable quantum advantage’ and positive remarks from Elon Musk, which buoy sentiment. Another piece flags momentum into an IonQ investor update, signaling broader investor interest. While this backdrop can invite buy‑the‑rumor/sell‑the‑news behavior, QuickRef currently flags ‘no’ for both.
   
   4.2. **Tarrifs:** unknown
   
@@ -48,7 +48,7 @@ raw_markdown: |
   | Metric | Answer |
   | --- | --- |
   | Last Q4 | $-164.83M |
-  | Price | 40.22 |
+  | Price | 40.42 |
   | 7d Resistance | 44.52 |
   | 7d Support | 36.90 |
   | Buy the dip? | no |
@@ -95,8 +95,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/RGTI?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/RGTI?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/cmlnZXR0aS5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to assets/logos/RGTI.svg
+  Massive logo: using cached asset assets/logos/RGTI.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/RGTI?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/RGTI?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 8 entries.
@@ -173,26 +172,26 @@ raw_markdown: |
   </code></pre></div>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-03T18:24:25.811018+00:00">2025-11-03 18:24 UTC</time> (runtime 1m 11s)
+**Generated:** <time class="js-local-time" datetime="2025-11-03T18:32:05.544292+00:00">2025-11-03 18:32 UTC</time> (runtime 1m 13s)
 
-![Rigetti Computing, Inc. Common Stock logo](/assets/logos/RGTI.svg)
+![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through third-party cloud providers. Its proprietary quantum‑classical infrastructure integrates with public and private clouds for ultra‑low latency, and it develops multi‑chip quantum processors for scalable systems.
+1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has developed a multi‑chip quantum processor to scale systems.
 
-1.2. **Profitable?:** No — it reports cumulative net losses (−$164.83M), negative operating and free cash flow, and a 0.0 profit margin; timing to profitability is not disclosed.
+1.2. **Profitable?:** No—cumulative net losses (net income sum -$164.8M) with negative operating and free cash flow, and the data provides no timeline to profitability.
 
-1.3. **Customer & Markets:** Primary customers are end users accessing quantum computing directly via the Rigetti QCS platform and indirectly through cloud service providers across public and private clouds. The majority of revenue is derived from the United States.
+1.3. **Customer & Markets:** Primary customers are end‑users accessing quantum compute via cloud platforms, both directly through Rigetti QCS and via third‑party cloud providers. The company derives most revenue from the United States, serving a broad set of cloud‑based use cases.
 
-1.4. **Competition:** Competitors include IonQ (IONQ), D‑Wave Quantum (QBTS), Quantum Computing Inc. (QUBT), and large platforms from NVIDIA, Alphabet (GOOGL/GOOG), and Microsoft (MSFT). Relative market positioning or rank is not specified in the provided data.
+1.4. **Competition:** Competitors include pure‑plays like IonQ (IONQ), D‑Wave Quantum (QBTS), and Quantum Computing Inc (QUBT), as well as large platforms such as Microsoft, Google, and Nvidia. Rigetti is one of several pure‑play quantum firms competing against far larger tech companies; specific market ranking isn’t provided.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the stock is in an uptrend, testing the 44.52 resistance while holding above the 36.90 support.
+2.1. **7d Trend?:** up; price moved from 36.90 support toward 44.52 resistance and the 7d trend label is up.
 
-2.2. **7d Buy/Sell Points?:** Buying near 36.90 (support/suggested buy zone) and selling near 44.52 (resistance/suggested sell zone) were the notable levels.
+2.2. **7d Buy/Sell Points?:** Buying near 36.90 support looked attractive, while selling or trimming near 44.52 resistance was sensible.
 
 2.3.1. **7d Volume:** low
 
@@ -200,13 +199,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** This is an early-stage company with ongoing net losses and negative operating and free cash flow, indicating elevated financial risk. It derives most revenue in the U.S., but revenue declined 41.6% year over year. Trading shows high volatility (ATR ~13.2% of price). Balance sheet details are not provided here, so overall stability appears limited based on losses and volatility.
+3.1. **Stability?:** Rigetti is a specialized quantum computing provider but appears financially fragile in this data. It reports significant net losses and negative operating and free cash flow, alongside a 41.6% revenue decline. Recent trading shows high volatility, adding risk. Balance sheet and liquidity details are not provided here.
 
-3.2. **Innovating?:** Yes — it is innovating with proprietary quantum‑classical infrastructure and what it calls the industry’s first multi‑chip quantum processor, though revenue contraction (−41.6%) signals commercialization is still early.
+3.2. **Innovating?:** Innovating—its proprietary quantum‑classical infrastructure and an industry‑first multi‑chip quantum processor indicate active R&D, though reported revenue is contracting.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights strong interest and gains in quantum computing, including a quantum ETF and pieces noting big returns and bubble risks for pure-play names like IonQ, D‑Wave, and Rigetti. Headlines cite Alphabet’s Echoes algorithm showing a verifiable quantum advantage and positive commentary from Elon Musk. Another article points to momentum ahead of an IonQ investor update. This hype‑tilted backdrop can invite buy‑the‑rumor/sell‑the‑news dynamics, but quick facts here flag no clear signal (Buy the rumor? no; Sell the news? no).
+4.1. **News:** Recent coverage highlights sector‑wide enthusiasm, including a quantum computing ETF and debate over a potential bubble after outsized gains that included Rigetti. Articles cite Alphabet’s reported ‘verifiable quantum advantage’ and positive remarks from Elon Musk, which buoy sentiment. Another piece flags momentum into an IonQ investor update, signaling broader investor interest. While this backdrop can invite buy‑the‑rumor/sell‑the‑news behavior, QuickRef currently flags ‘no’ for both.
 
 4.2. **Tarrifs:** unknown
 
@@ -215,7 +214,7 @@ raw_markdown: |
 | Metric | Answer |
 | --- | --- |
 | Last Q4 | $-164.83M |
-| Price | 40.22 |
+| Price | 40.42 |
 | 7d Resistance | 44.52 |
 | 7d Support | 36.90 |
 | Buy the dip? | no |
@@ -262,8 +261,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/RGTI?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/RGTI?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/cmlnZXR0aS5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to assets/logos/RGTI.svg
+Massive logo: using cached asset assets/logos/RGTI.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/RGTI?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/RGTI?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 8 entries.
