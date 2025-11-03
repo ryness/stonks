@@ -19,7 +19,7 @@ from collections import OrderedDict, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urlparse, parse_qs
 
 try:
     import pandas as pd
@@ -56,6 +56,7 @@ OPENAI_KEY_FILE = Path("apikey-openai.txt")
 MASSIVE_KEY_FILE = Path("apikey-massive.txt")
 DEFAULT_MASSIVE_KEY = "fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM"
 MASSIVE_API_BASE = "https://api.massive.com"
+LOGO_DIR = Path("assets/logos")
 
 CACHE_DIR = Path(".cache")
 REPORTS_DIR = Path("_reports")
@@ -939,6 +940,70 @@ def fetch_massive_earnings_calendar(ticker: str, api_key: Optional[str], limit: 
     return results
 
 
+def cache_massive_logo(ticker: str, logo_url: Optional[str], api_key: Optional[str]) -> Optional[str]:
+    """Download the company logo from massive.com and store it within the repo."""
+
+    if not logo_url:
+        return None
+    if not api_key:
+        log_status("Massive logo: no API key available; skipping download.")
+        return None
+    try:
+        parsed = urlparse(logo_url)
+    except Exception as exc:
+        log_status(f"Massive logo: invalid URL '{logo_url}': {exc}")
+        return None
+    extension = Path(parsed.path).suffix or ".png"
+    if len(extension) > 10:
+        extension = ".png"
+    sanitized_extension = extension.lower()
+    if sanitized_extension not in {".png", ".jpg", ".jpeg", ".svg", ".webp"}:
+        sanitized_extension = ".png"
+    filename = f"{ticker.upper()}{sanitized_extension}"
+    cache_path = LOGO_DIR / filename
+    web_path = f"/{cache_path.as_posix()}"
+    if cache_path.exists():
+        log_status(f"Massive logo: using cached asset {cache_path.as_posix()}")
+        return web_path
+
+    params: Dict[str, Any] = {}
+    query_map = parse_qs(parsed.query)
+    for key, values in query_map.items():
+        if not values:
+            continue
+        params[key] = values if len(values) > 1 else values[0]
+    if parsed.netloc.endswith("massive.com") and "apikey" not in {key.lower() for key in params.keys()}:
+        params["apiKey"] = api_key
+
+    sanitized_params: Dict[str, Any] = {}
+    for key, value in params.items():
+        if key.lower() == "apikey":
+            sanitized_params[key] = "***"
+        else:
+            sanitized_params[key] = value
+    query_string = urlencode(sanitized_params, doseq=True)
+    sanitized_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+    if query_string:
+        sanitized_url += f"?{query_string}"
+    log_status(f"Massive logo: GET {sanitized_url}")
+
+    try:
+        response = requests.get(logo_url, params=params or None, timeout=20)
+        response.raise_for_status()
+    except Exception as exc:
+        log_status(f"Massive logo download failed: {exc}")
+        return None
+
+    try:
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        cache_path.write_bytes(response.content)
+    except Exception as exc:
+        log_status(f"Massive logo write failed: {exc}")
+        return None
+    log_status(f"Massive logo: cached to {cache_path.as_posix()}")
+    return web_path
+
+
 def fetch_massive_company_profile(ticker: str, api_key: Optional[str]) -> Optional[Dict[str, Any]]:
     """Retrieve company metadata, including branding assets, from massive.com."""
 
@@ -1402,6 +1467,9 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     snapshot = compute_price_snapshot(hist_10d)
     log_status("Fetching company profile (massive.com)...")
     massive_profile = fetch_massive_company_profile(ticker, massive_api_key)
+    if massive_profile:
+        logo_local_path = cache_massive_logo(ticker, massive_profile.get("logo_url"), massive_api_key)
+        massive_profile["logo_path"] = logo_local_path
     related_companies = fetch_massive_related_companies(ticker, massive_api_key)
     log_status("Fetching company fundamentals...")
     ticker_obj = yf.Ticker(ticker)
@@ -1477,6 +1545,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
             "summary": (massive_profile or {}).get("description") or info.get("longBusinessSummary"),
             "homepage_url": (massive_profile or {}).get("homepage_url") or info.get("website"),
             "logo_url": (massive_profile or {}).get("logo_url"),
+            "logo_path": (massive_profile or {}).get("logo_path"),
             "icon_url": (massive_profile or {}).get("icon_url"),
             "competitor_candidates": related_companies or guess_competitors(info.get("industry"), info.get("sector")),
             "related_companies": related_companies,
@@ -1663,10 +1732,10 @@ def format_report(
 
     lines: List[str] = []
     company_info = context.get("company") or {}
-    logo_url = company_info.get("logo_url")
-    if logo_url:
+    logo_path = company_info.get("logo_path") or company_info.get("logo_url")
+    if logo_path:
         alt_text = f"{company_info.get('long_name') or context.get('ticker') or 'Company'} logo"
-        lines.append(f"![{alt_text}]({logo_url})")
+        lines.append(f"![{alt_text}]({logo_path})")
         lines.append("")
     for section in prompt_config.sections:
         heading_text = section.title or section.number
