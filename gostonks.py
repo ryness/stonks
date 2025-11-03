@@ -67,6 +67,19 @@ GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID")
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 MAX_SEARCH_RESULTS = 5
 
+try:
+    _site_config = yaml.safe_load(Path("_config.yml").read_text(encoding="utf-8"))
+except Exception:
+    _site_config = {}
+
+SITE_URL = (_site_config.get("url") or "").rstrip("/")
+SITE_BASEURL = (_site_config.get("baseurl") or "").strip()
+if SITE_BASEURL and not SITE_BASEURL.startswith("/"):
+    SITE_BASEURL = f"/{SITE_BASEURL}"
+SITE_BASEURL = SITE_BASEURL.rstrip("/")
+PUBLIC_BASE_PATH = SITE_BASEURL or ""
+PUBLIC_BASE_URL = f"{SITE_URL}{PUBLIC_BASE_PATH}" if SITE_URL else ""
+
 _run_log: List[str] = []
 
 
@@ -961,7 +974,16 @@ def cache_massive_logo(ticker: str, logo_url: Optional[str], api_key: Optional[s
         sanitized_extension = ".png"
     filename = f"{ticker.upper()}{sanitized_extension}"
     cache_path = LOGO_DIR / filename
-    web_path = f"/{cache_path.as_posix()}"
+    relative_logo_path = (
+        f"{PUBLIC_BASE_PATH}/assets/logos/{filename}"
+        if PUBLIC_BASE_PATH
+        else f"/assets/logos/{filename}"
+    )
+    web_path = (
+        f"{PUBLIC_BASE_URL}/assets/logos/{filename}"
+        if PUBLIC_BASE_URL
+        else relative_logo_path
+    )
     if cache_path.exists():
         log_status(f"Massive logo: using cached asset {cache_path.as_posix()}")
         return web_path
