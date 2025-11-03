@@ -5,8 +5,10 @@ on:
     inputs:
       ticker:
         description: "Ticker symbol"
-        required: true
+        required: false
         type: string
+  schedule:
+    - cron: "0 */4 * * *"
 
 permissions:
   contents: write
@@ -29,12 +31,39 @@ jobs:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - name: Generate report
-        run: >-
-          python gostonks.py "${{ github.event.inputs.ticker }}"
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.ticker }}" ]; then
+            python gostonks.py "${{ github.event.inputs.ticker }}"
+          else
+            python gostonks.py --cycle
+          fi
       - name: Commit report
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add _reports/*.md
-          git commit -m "Update report: ${{ github.event.inputs.ticker }}" || echo "No changes"
+          if [ -f .gostonks-state.json ]; then
+            git add .gostonks-state.json
+          fi
+          TICKER_MSG="${{ github.event.inputs.ticker }}"
+          if [ -z "$TICKER_MSG" ] && [ -f .gostonks-state.json ]; then
+            TICKER_MSG=$(python - <<'PY'
+import json
+import sys
+from pathlib import Path
+try:
+    data = json.loads(Path(".gostonks-state.json").read_text())
+    tickers = data.get("tickers") or []
+    idx = data.get("last_index")
+    if isinstance(idx, int) and 0 <= idx < len(tickers):
+        sys.stdout.write(tickers[idx])
+except Exception:
+    pass
+PY
+)
+          fi
+          if [ -z "$TICKER_MSG" ]; then
+            TICKER_MSG="cycle"
+          fi
+          git commit -m "Update report: ${TICKER_MSG}" || echo "No changes"
           git push

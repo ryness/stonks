@@ -17,7 +17,15 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `NEWSAPI_KEY` – optional, adds recent news context.
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
-With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown back to the default branch, triggering a Pages rebuild.
+With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the rotation state file) back to the default branch, triggering a Pages rebuild.
+
+### Scheduled rotation
+
+The action also runs automatically every four hours. When invoked without a specific ticker it calls `gostonks.py --cycle`, which:
+
+- looks at `_reports/*.md` to determine the sorted ticker list,
+- reads/writes `.gostonks-state.json` to remember progress, and
+- generates the next ticker in the queue before pushing the updated report.
 
 ## Local Report Generation
 
@@ -28,3 +36,9 @@ python gostonks.py AAPL
 ```
 
 Generated markdown lands in `_reports/`. You can commit/push manually or let the workflow handle it.
+
+To mimic the scheduled behaviour locally (cycling through tracked tickers), run:
+
+```bash
+python gostonks.py --cycle
+```

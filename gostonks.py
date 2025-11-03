@@ -56,6 +56,8 @@ MASSIVE_KEY_FILE = Path("apikey-massive.txt")
 DEFAULT_MASSIVE_KEY = "fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM"
 
 CACHE_DIR = Path(".cache")
+REPORTS_DIR = Path("_reports")
+STATE_FILE = Path(".gostonks-state.json")
 CACHE_TTL_SECONDS = 6 * 3600
 GOOGLE_CSE_API_KEY = os.getenv("GOOGLE_CSE_API_KEY")
 GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID")
@@ -137,6 +139,58 @@ def log_status(message: str) -> None:
 
     print(message, flush=True, file=sys.stderr)
     _run_log.append(message)
+
+
+def discover_tickers() -> List[str]:
+    """Return sorted tickers inferred from existing report filenames."""
+
+    if not REPORTS_DIR.exists():
+        return []
+    tickers = {path.stem.upper() for path in REPORTS_DIR.glob("*.md")}
+    return sorted(tickers)
+
+
+def _load_cycle_state() -> Dict[str, Any]:
+    if not STATE_FILE.exists():
+        return {}
+    try:
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def _save_cycle_state(state: Mapping[str, Any]) -> None:
+    STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def select_next_ticker() -> str:
+    """Return the next ticker in rotation based on the stored cycle state."""
+
+    tickers = discover_tickers()
+    if not tickers:
+        raise RuntimeError(
+            "No reports found in _reports/. Add at least one report before using --cycle."
+        )
+    state = _load_cycle_state()
+    last_index = state.get("last_index", -1)
+    if not isinstance(last_index, int):
+        last_index = -1
+    next_index = (last_index + 1) % len(tickers)
+    return tickers[next_index]
+
+
+def update_cycle_state(ticker: str) -> None:
+    """Record the most recently generated ticker so future cycles advance correctly."""
+
+    ticker_upper = ticker.upper()
+    tickers = discover_tickers()
+    if ticker_upper not in tickers:
+        tickers.append(ticker_upper)
+        tickers.sort()
+    state = dict(_load_cycle_state())
+    state["tickers"] = tickers
+    state["last_index"] = tickers.index(ticker_upper)
+    _save_cycle_state(state)
 
 
 def _parse_llm_instruction(config: Optional[Mapping[str, Any]]) -> Optional[LLMInstruction]:
@@ -1278,10 +1332,15 @@ def write_jekyll_report(
 
 
 def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
-    """Configure command-line arguments (ticker only)."""
+    """Configure command-line arguments for the report generator."""
 
     parser = argparse.ArgumentParser(description="Generate a Jekyll-ready GPT-5 stock report.")
     parser.add_argument("ticker", nargs="?", help="Ticker symbol to analyse")
+    parser.add_argument(
+        "--cycle",
+        action="store_true",
+        help="Cycle through the next ticker discovered in _reports/ instead of prompting.",
+    )
     return parser.parse_args(argv)
 
 
@@ -1289,13 +1348,20 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     """Entry point that generates and writes the Markdown report."""
 
     args = parse_args(argv)
+    if args.cycle and args.ticker:
+        raise SystemExit("Do not pass a ticker when using --cycle.")
     log_status("Loading prompt template...")
     prompt_config = load_prompt()
     validate_prompt(prompt_config)
-    ticker = args.ticker or input("Enter ticker symbol: ").strip()
+    if args.cycle:
+        ticker = select_next_ticker()
+        log_status(f"Cycling to next tracked ticker: {ticker}")
+    else:
+        ticker = args.ticker or input("Enter ticker symbol: ").strip()
     if not ticker:
         raise SystemExit("Ticker symbol is required.")
-    log_status(f"Starting report generation for {ticker.upper()}...")
+    ticker = ticker.upper()
+    log_status(f"Starting report generation for {ticker}...")
     start_time = time.perf_counter()
     report = build_report(ticker, prompt_config)
     elapsed_seconds = time.perf_counter() - start_time
@@ -1308,8 +1374,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         report = f"{header_line}\n\n{trimmed_body}"
     else:
         report = header_line
-    output_path = Path("_reports") / f"{ticker.upper()}.md"
+    output_path = REPORTS_DIR / f"{ticker}.md"
     write_jekyll_report(ticker, report, generated_at, elapsed_seconds, output_path)
+    update_cycle_state(ticker)
     print(f"Saved Jekyll report to {output_path}")
     return 0
 
