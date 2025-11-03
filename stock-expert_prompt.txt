@@ -167,3 +167,9 @@ sections:
       - number: "5.11"
         label: "5yr"
         role: quick_fact
+      - number: "5.12"
+        label: "30d Resistance"
+        role: quick_fact
+      - number: "5.13"
+        label: "30d Support"
+        role: quick_fact

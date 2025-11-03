@@ -1385,6 +1385,14 @@ def build_quick_facts(
     close = snapshot.close
     support = snapshot.support
     resistance = snapshot.resistance
+    resistance_30d = float("nan")
+    support_30d = float("nan")
+    history_3mo = histories.get("3mo")
+    if history_3mo is not None and not history_3mo.empty:
+        window_30 = history_3mo.tail(30)
+        if not window_30.empty:
+            resistance_30d = float(window_30["High"].max())
+            support_30d = float(window_30["Low"].min())
     buy_dip = (
         "yes"
         if close and support and not math.isnan(close) and not math.isnan(support)
@@ -1424,6 +1432,8 @@ def build_quick_facts(
         "Price": f"{close:.2f}" if close and not math.isnan(close) else "unknown",
         "7d Resistance": f"{resistance:.2f}" if resistance and not math.isnan(resistance) else "unknown",
         "7d Support": f"{support:.2f}" if support and not math.isnan(support) else "unknown",
+        "30d Resistance": f"{resistance_30d:.2f}" if resistance_30d and not math.isnan(resistance_30d) else "unknown",
+        "30d Support": f"{support_30d:.2f}" if support_30d and not math.isnan(support_30d) else "unknown",
         "Buy the dip?": buy_dip,
         "Buy the rumor?": buy_rumor,
         "Sell the news?": sell_news,
