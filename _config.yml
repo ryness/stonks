@@ -1,0 +1,16 @@
+title: Stonks Reports
+name: Stonks Reports
+markdown: kramdown
+collections:
+  reports:
+    output: true
+    permalink: /reports/:name/
+permalink: pretty
+exclude:
+  - tools
+  - __pycache__
+  - apikey-openai.txt
+  - apikey-massive.txt
+  - stock-expert_prompt.txt
+  - stonks.py
+repository: ryness/stonks

@@ -1,0 +1,7 @@
+stonks.code-workspace
+.venv
+vendor
+_site
+.cache/
+__pycache__/
+apikey*

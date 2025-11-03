@@ -1,0 +1,8 @@
+---
+layout: null
+---
+[
+{%- for r in site.reports -%}
+{"title":"{{ r.title | escape }}","ticker":"{{ r.ticker }}","date":"{{ r.date | date_to_xmlschema }}","url":"{{ r.url }}","content_html":{{ r.content | jsonify }},"content_markdown":{{ r.raw_markdown | jsonify }}}{% if forloop.last == false %},{% endif %}
+{%- endfor -%}
+]

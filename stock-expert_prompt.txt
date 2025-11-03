@@ -1,0 +1,169 @@
+sections:
+  - number: "1"
+    title: "The Biz"
+    items:
+      - number: "1.1"
+        prompt: "What does the company do?"
+        label: "Activities"
+        llm:
+          type: string
+          guidance: "Respond in 2-3 sentences describing the core products, services, and segments."
+        searches:
+          google_custom_search:
+            - "{ticker} core business"
+            - "{ticker} product portfolio"
+          newsapi:
+            - "{ticker} business model"
+      - number: "1.2"
+        prompt: "Is it profitable? If not, when does it become profitable?"
+        label: "Profitable?"
+        llm:
+          type: string
+          guidance: "Answer yes or no with a brief justification referencing profitability or path to profitability."
+        searches:
+          google_custom_search:
+            - "{ticker} profitability"
+            - "{ticker} earnings trend"
+          newsapi:
+            - "{ticker} profit outlook"
+      - number: "1.3"
+        prompt: "Who are its primary customers and what are its markets?"
+        label: "Customer & Markets"
+        llm:
+          type: string
+          guidance: "Summarize the key customer types and geographic/industry markets in 2-3 sentences."
+        searches:
+          google_custom_search:
+            - "{ticker} target customers"
+            - "{ticker} market segments"
+          newsapi:
+            - "{ticker} market expansion"
+      - number: "1.4"
+        prompt: "Who are its primary competitors and where does it rank among them?"
+        label: "Competition"
+        llm:
+          type: string
+          guidance: "Describe principal competitors and any relative positioning in 1-2 sentences."
+        searches:
+          google_custom_search:
+            - "{ticker} competitors"
+            - "{ticker} market share"
+          newsapi:
+            - "{ticker} competitive landscape"
+
+  - number: "2"
+    title: "Recent"
+    items:
+      - number: "2.1"
+        prompt: "Over the last 3–7 trading days, what trend is it on?"
+        label: "7d Trend?"
+        llm:
+          type: string
+          guidance: "Return 'up', 'down', or 'flat' and add a concise clause citing supporting price action."
+      - number: "2.2"
+        prompt: "What values during this time were good points to buy and to sell?"
+        label: "7d Buy/Sell Points?"
+        llm:
+          type: string
+          guidance: "Highlight notable buy and sell levels in 1-2 sentences."
+      - number: "2.3.1"
+        prompt: "What relative degree of volume over the last 3–7 trading days?"
+        label: "7d Volume"
+        llm:
+          type: string
+          guidance: "Return only 'high', 'med', 'low', or 'unknown'. If unclear, return 'unknown'."
+      - number: "2.3.2"
+        prompt: "What relative degree of volatility over the last 3–7 trading days?"
+        label: "7d Volatility"
+        llm:
+          type: string
+          guidance: "Return only 'high', 'med', 'low', or 'unknown'."
+
+  - number: "3"
+    title: "Longterm"
+    items:
+      - number: "3.1"
+        prompt: "Is this a fly-by-night or a stable institution?"
+        label: "Stability?"
+        llm:
+          type: string
+          guidance: "Provide 3-5 sentences discussing longevity, balance sheet, and overall stability."
+      - number: "3.2"
+        prompt: "Is it innovating and growing or stale?"
+        label: "Innovating?"
+        llm:
+          type: string
+          guidance: "Respond in 1-2 sentences indicating whether innovation/growth is evident, citing specifics."
+
+  - number: "4"
+    title: "Context"
+    searches:
+      google_custom_search:
+        - "{ticker} rumors"
+        - "{ticker} tariffs news"
+      newsapi:
+        - "{ticker} rumor"
+        - "{ticker} tariff"
+    items:
+      - number: "4.1"
+        prompt: "Summarize recent context, news, and rumor considering the 'buy the rumor, sell the news' adage."
+        label: "News"
+        llm:
+          type: string
+          guidance: "Produce 3-5 sentences referencing only supplied headlines and data; note implications for the adage."
+        searches:
+          newsapi:
+            - "{ticker} latest news"
+          google_custom_search:
+            - "{ticker} latest rumor"
+      - number: "4.2"
+        prompt: "What are the effects of tariffs on this company's stock?"
+        label: "Tarrifs"
+        llm:
+          type: string
+          guidance: "Provide 1-2 sentences summarizing tariff impacts, or state 'unknown' if not covered in data."
+        searches:
+          newsapi:
+            - "{ticker} tariffs"
+          google_custom_search:
+            - "{ticker} tariff impact"
+
+  - number: "5"
+    title: "QuickRef"
+    notes:
+      - "One-word answers only; present as a Markdown table with Metric and Answer columns."
+      - "Do not include numeric bullet prefixes in the Metric column, just the labels."
+    items:
+      - number: "5.1"
+        label: "Last Q4"
+        role: quick_fact
+      - number: "5.2"
+        label: "Price"
+        role: quick_fact
+      - number: "5.3"
+        label: "7d Resistance"
+        role: quick_fact
+      - number: "5.4"
+        label: "7d Support"
+        role: quick_fact
+      - number: "5.5"
+        label: "Buy the dip?"
+        role: quick_fact
+      - number: "5.6"
+        label: "Buy the rumor?"
+        role: quick_fact
+      - number: "5.7"
+        label: "Sell the news?"
+        role: quick_fact
+      - number: "5.8"
+        label: "7d Trend:"
+        role: quick_fact
+      - number: "5.9"
+        label: "3mo"
+        role: quick_fact
+      - number: "5.10"
+        label: "1yr"
+        role: quick_fact
+      - number: "5.11"
+        label: "5yr"
+        role: quick_fact

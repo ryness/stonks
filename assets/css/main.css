@@ -1,0 +1,111 @@
+body {
+  margin: 1.5rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  color: #111;
+  background: #fff;
+}
+
+header,
+footer {
+  margin-bottom: 1.5rem;
+}
+
+main {
+  max-width: 70ch;
+}
+
+label {
+  margin-right: 0.5rem;
+}
+
+#reportHeader {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+#reportLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+#reportLinks a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+#reportLinks a[data-active="true"] {
+  font-weight: 600;
+}
+
+#reportActions a {
+  margin-left: 0.5rem;
+}
+
+#reportContent > *:first-child {
+  margin-top: 0;
+}
+
+#reportContent h1,
+#reportContent h2,
+#reportContent h3,
+#reportContent h4,
+#reportContent h5,
+#reportContent h6 {
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+#reportContent p {
+  margin: 0.8em 0;
+}
+
+#reportContent ul,
+#reportContent ol {
+  margin: 0.8em 0;
+  padding-left: 1.5em;
+}
+
+#reportContent table {
+  border-collapse: collapse;
+  margin: 1em 0;
+  width: 100%;
+}
+
+#reportContent th,
+#reportContent td {
+  border: 1px solid #bbb;
+  padding: 0.4em 0.6em;
+  text-align: left;
+}
+
+#reportContent code {
+  font-family: ui-monospace, SFMono-Regular, SFMono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+#reportContent pre {
+  background: #f5f5f5;
+  padding: 0.75rem;
+  overflow: auto;
+}
+
+.cli-log {
+  margin-top: 1.5rem;
+  font-size: 0.8rem;
+  color: #444;
+}
+
+.cli-log pre {
+  background: #f0f0f0;
+  padding: 0.75rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+.cli-log code {
+  font-family: ui-monospace, SFMono-Regular, SFMono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
