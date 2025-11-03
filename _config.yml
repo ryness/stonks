@@ -1,6 +1,8 @@
 title: stonks
 name: stonks
 markdown: kramdown
+url: "https://ryness.github.io"
+baseurl: "/stonks"
 collections:
   reports:
     output: true

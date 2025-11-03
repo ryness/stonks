@@ -13,6 +13,9 @@
     </main>
     <footer></footer>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" integrity="sha384-H8pFhsTB+0LFSz0QWYMeEklukZx+5foTi1ggE4vm0MkclMXJRiJ1SbX/NIB+JgJ" crossorigin="anonymous"></script>
+    <script>
+      window.__baseUrl = "{{ '' | relative_url }}".replace(/\/$/, '');
+    </script>
     <script type="module" src="{{ '/assets/js/app.js' | relative_url }}"></script>
   </body>
 </html>
