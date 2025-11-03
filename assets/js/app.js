@@ -13,6 +13,37 @@ const elements = {
   status: document.querySelector('#statusMessage'),
 };
 
+const LOCAL_TIME_OPTIONS = {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  timeZoneName: 'short',
+};
+
+function applyLocalTimes(root) {
+  if (!root) return;
+  const container = root instanceof Element ? root : document;
+  const nodes = container.querySelectorAll('time.js-local-time');
+  nodes.forEach((node) => {
+    if (node.dataset.localized === 'true') {
+      return;
+    }
+    const isoValue = node.getAttribute('datetime') || node.textContent;
+    if (!isoValue) {
+      return;
+    }
+    const date = new Date(isoValue);
+    if (Number.isNaN(date.getTime())) {
+      return;
+    }
+    node.textContent = date.toLocaleString(undefined, LOCAL_TIME_OPTIONS);
+    node.dataset.localized = 'true';
+  });
+}
+
 function formatDateLabel(isoDate) {
   if (!isoDate) return 'Unknown date';
   try {
@@ -62,6 +93,7 @@ function renderMarkdown(markdown) {
   } else {
     elements.content.textContent = markdown;
   }
+  applyLocalTimes(elements.content);
 }
 
 function renderReport(report) {
@@ -80,6 +112,7 @@ function renderReport(report) {
   } else {
     elements.content.textContent = 'No report content available.';
   }
+  applyLocalTimes(elements.content);
 }
 
 function clearSelection(preserveStatus = false) {

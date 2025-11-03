@@ -1809,8 +1809,12 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     elapsed_seconds = time.perf_counter() - start_time
     generated_at = dt.datetime.now(dt.timezone.utc)
     timestamp_display = generated_at.strftime("%Y-%m-%d %H:%M %Z")
+    timestamp_iso = generated_at.isoformat()
     duration_display = format_duration(elapsed_seconds)
-    header_line = f"**Generated:** {timestamp_display} (runtime {duration_display})"
+    header_line = (
+        f"**Generated:** <time class=\"js-local-time\" datetime=\"{timestamp_iso}\">{timestamp_display}</time> "
+        f"(runtime {duration_display})"
+    )
     trimmed_body = report.strip()
     if trimmed_body:
         report = f"{header_line}\n\n{trimmed_body}"
