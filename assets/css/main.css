@@ -19,12 +19,9 @@ label {
   margin-right: 0.5rem;
 }
 
+
 #reportHeader {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  align-items: center;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 #reportLinks {
@@ -42,8 +39,48 @@ label {
   font-weight: 600;
 }
 
+#reportToolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  font-size: 0.85rem;
+  color: #444;
+  margin-bottom: 0.75rem;
+}
+
+.toolbar-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toolbar-label {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+#sortLinks a,
 #reportActions a {
-  margin-left: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+#sortLinks a:hover,
+#reportActions a:hover {
+  text-decoration: underline;
+}
+
+#sortLinks a[data-active="true"] {
+  font-weight: 600;
+  color: #111;
+}
+
+#reportActions a {
+  margin-left: 0.25rem;
 }
 
 #reportContent > *:first-child {

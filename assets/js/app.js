@@ -12,11 +12,11 @@ const elements = {
   newLink: document.querySelector('#newLink'),
   content: document.querySelector('#reportContent'),
   status: document.querySelector('#statusMessage'),
-  sortOrder: document.querySelector('#sortOrder'),
 };
 
 const SORT_STORAGE_KEY = 'stonks-sort-order';
 const SORT_OPTIONS = ['alpha-asc', 'alpha-desc', 'updated-desc', 'updated-asc'];
+const sortLinks = Array.from(document.querySelectorAll('#sortLinks [data-sort]'));
 
 const LOCAL_TIME_OPTIONS = {
   year: 'numeric',
@@ -288,12 +288,20 @@ elements.rerun?.addEventListener('click', (event) => {
   }
 });
 
+function updateSortLinkIndicators() {
+  sortLinks.forEach((link) => {
+    if (link.dataset.sort === state.sortOrder) {
+      link.dataset.active = 'true';
+    } else {
+      delete link.dataset.active;
+    }
+  });
+}
+
 function setSortOrder(nextOrder, { persist = false } = {}) {
   const normalized = SORT_OPTIONS.includes(nextOrder) ? nextOrder : 'alpha-asc';
   state.sortOrder = normalized;
-  if (elements.sortOrder) {
-    elements.sortOrder.value = normalized;
-  }
+  updateSortLinkIndicators();
   if (persist) {
     try {
       window.localStorage.setItem(SORT_STORAGE_KEY, normalized);
@@ -324,8 +332,11 @@ elements.newLink?.addEventListener('click', (event) => {
   window.open(url, '_blank', 'noopener');
 });
 
-elements.sortOrder?.addEventListener('change', (event) => {
-  setSortOrder(event.target.value, { persist: true });
+sortLinks.forEach((link) => {
+  link.addEventListener('click', (event) => {
+    event.preventDefault();
+    setSortOrder(link.dataset.sort, { persist: true });
+  });
 });
 
 updateButtons(null);
