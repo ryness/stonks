@@ -3,29 +3,29 @@ layout: default
 title: "PLTR Stock Report"
 ticker: "PLTR"
 date: 2025-11-04
-generated_at: 2025-11-04T03:31:55.578836+00:00
-runtime_seconds: 84.25
+generated_at: 2025-11-04T03:49:02.188777+00:00
+runtime_seconds: 68.57
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-04T03:31:55.578836+00:00">2025-11-04 03:31 UTC</time> (runtime 1m 24s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-04T03:49:02.188777+00:00">2025-11-04 03:49 UTC</time> (runtime 1m 9s)
   
   ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Palantir provides data integration and analytical software, delivering its Foundry platform for commercial customers and Gotham for government clients. It focuses on using data to create operational efficiencies and works exclusively with entities in Western-allied nations.
+  1.1. **Activities:** Palantir provides analytical software platforms that help organizations leverage data for decision-making and operational efficiency. It serves commercial clients through Foundry and government clients through Gotham, focusing on entities in Western-allied nations.
   
-  1.2. **Profitable?:** yes — profitable with ~22% profit margin, $763.29M cumulative net income over recent quarters, and strong free cash flow.
+  1.2. **Profitable?:** Yes—Palantir is profitable, with positive net income totaling $763.29M across recent periods, a ~22% profit margin, and strong free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are commercial enterprises and government agencies, served via Foundry and Gotham, respectively. Markets are the United States and other Western-allied nations where it operates.
+  1.3. **Customer & Markets:** Primary customers are commercial enterprises and government agencies, served via Foundry and Gotham, respectively. Its markets are concentrated in Western-allied countries, with notable momentum in the U.S. commercial segment per recent results.
   
-  1.4. **Competition:** Competitors include large AI/cloud and data platforms such as Microsoft, Amazon, Google, Snowflake, and C3.ai (per related companies). The data does not specify market share or rank.
+  1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, and C3.ai (per the provided comps list). Relative market ranking is not specified in the supplied data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — advanced from the 186.78 local low toward 207.52 resistance and closed at 207.18, above the 20-day moving average (185.15).
+  2.1. **7d Trend?:** up — price advanced from a local low near 186.78 toward 207.52 resistance, closing at 207.18 and above the 20-DMA.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 186.78 (suggested buy zone/local low) was favorable, while selling near 199.85 (suggested sell zone) or around 207.52 resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 186.78 (close to support at 182.85) looked attractive, while selling near 199.85 and into the 207.52 resistance was favorable.
   
   2.3.1. **7d Volume:** high
   
@@ -33,13 +33,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has an established operating history. It is currently profitable with roughly 22% profit margin and $763.29M in cumulative net income over recent quarters. Cash generation is strong, with about $1.27B in free cash flow and $1.73B in operating cash flow. These factors point to a relatively stable institution rather than a fly-by-night operation.
+  3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has a long operating history serving government and commercial clients in Western-allied markets. It shows consistent profitability across recent periods and robust cash generation, with $1.27B in free cash flow and $1.73B in operating cash flow. A profit margin near 22% alongside 48% revenue growth supports operating stability. While balance sheet specifics are not provided, these metrics indicate a stable institution rather than a fly-by-night operation.
   
-  3.2. **Innovating?:** Innovating and growing — Q3 results beat estimates, US commercial revenue accelerated with customer growth, and full-year guidance was raised, reflecting ongoing AI adoption.
+  3.2. **Innovating?:** Palantir is innovating and growing via its Gotham and Foundry platforms, with strong AI adoption highlighted in Q3 results and raised guidance. Revenue growth of 48% and sharp earnings growth further indicate momentum.
   
   ## 4. Context
   
-  4.1. **News:** Palantir reported Q3 revenue of $1.18B and adjusted EPS of $0.21, beating estimates, with US commercial strength and raised full-year guidance (Benzinga). CEO Alex Karp highlighted continued AI adoption and growth, a positive signal for the broader AI ecosystem (Motley Fool). Contrasting the optimism, Michael Burry's fund disclosed 5M PLTR puts, signaling a bearish stance (Benzinga). Macro sentiment is supported by AI momentum and a US-China trade truce (Investing.com). With strong results and optimism potentially priced in—and the quick facts flagging 'Sell the news? yes'—the setup is susceptible to buy-the-rumor, sell-the-news dynamics.
+  4.1. **News:** Recent headlines note Palantir’s Q3 beat on revenue and EPS, driven by a booming U.S. commercial business and a guidance raise. The CEO highlighted continued AI adoption, which some view as supportive for broader AI demand (e.g., Nvidia). Contrastingly, Michael Burry disclosed 5 million puts on Palantir, flagging bearish positioning and AI bubble concerns. Broader market tone is risk-on amid AI momentum and a US‑China trade truce. Given the beats and guidance raise, the quick facts’ “sell the news: yes” suggests some gains may have been priced in.
   
   4.2. **Tarrifs:** unknown
   
@@ -66,21 +66,27 @@ raw_markdown: |
   </div>
   
   
-  **Sources**
-  - massive.com: company profile & branding, technical indicators, headlines (5 items)
-  - yfinance: prices & technicals, fundamentals, earnings calendar
-  - Google Custom Search: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*
-  - NewsAPI: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
-  - GNews: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
-  - The Guardian: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
+  <div class="sources-list">
+  <strong>Sources</strong>
+  <ul>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
+  <li>NewsAPI: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+  <li>GNews: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+  <li>The Guardian: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+  </ul>
+  <p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
+  </div>
+  
   
   <details class="cli-log">
-  <summary>Show generation log</summary>
+  <summary>Show generation log^</summary>
   <pre><code>
   Gathering context for PLTR...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-05/2025-11-03?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
@@ -119,159 +125,95 @@ raw_markdown: |
     massive.com returned 5 headlines
   Running supplementary searches...
     google_custom_search search -&gt; PLTR core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=5
-  Google Custom Search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=5
-  Google Custom Search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=5
-  Google Custom Search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=5
-  Google Custom Search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=5
-  Google Custom Search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
     google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      google_custom_search: error: missing API key or engine id
+      newsapi: error: missing API key
       gnews: error: missing API token
       guardian: error: missing API key
   Synthesizing narrative from OpenAI response...
@@ -295,26 +237,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-04T03:31:55.578836+00:00">2025-11-04 03:31 UTC</time> (runtime 1m 24s)
+**Generated:** <time class="js-local-time" datetime="2025-11-04T03:49:02.188777+00:00">2025-11-04 03:49 UTC</time> (runtime 1m 9s)
 
 ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Palantir provides data integration and analytical software, delivering its Foundry platform for commercial customers and Gotham for government clients. It focuses on using data to create operational efficiencies and works exclusively with entities in Western-allied nations.
+1.1. **Activities:** Palantir provides analytical software platforms that help organizations leverage data for decision-making and operational efficiency. It serves commercial clients through Foundry and government clients through Gotham, focusing on entities in Western-allied nations.
 
-1.2. **Profitable?:** yes — profitable with ~22% profit margin, $763.29M cumulative net income over recent quarters, and strong free cash flow.
+1.2. **Profitable?:** Yes—Palantir is profitable, with positive net income totaling $763.29M across recent periods, a ~22% profit margin, and strong free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are commercial enterprises and government agencies, served via Foundry and Gotham, respectively. Markets are the United States and other Western-allied nations where it operates.
+1.3. **Customer & Markets:** Primary customers are commercial enterprises and government agencies, served via Foundry and Gotham, respectively. Its markets are concentrated in Western-allied countries, with notable momentum in the U.S. commercial segment per recent results.
 
-1.4. **Competition:** Competitors include large AI/cloud and data platforms such as Microsoft, Amazon, Google, Snowflake, and C3.ai (per related companies). The data does not specify market share or rank.
+1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, and C3.ai (per the provided comps list). Relative market ranking is not specified in the supplied data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — advanced from the 186.78 local low toward 207.52 resistance and closed at 207.18, above the 20-day moving average (185.15).
+2.1. **7d Trend?:** up — price advanced from a local low near 186.78 toward 207.52 resistance, closing at 207.18 and above the 20-DMA.
 
-2.2. **7d Buy/Sell Points?:** Buying near 186.78 (suggested buy zone/local low) was favorable, while selling near 199.85 (suggested sell zone) or around 207.52 resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near 186.78 (close to support at 182.85) looked attractive, while selling near 199.85 and into the 207.52 resistance was favorable.
 
 2.3.1. **7d Volume:** high
 
@@ -322,13 +264,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has an established operating history. It is currently profitable with roughly 22% profit margin and $763.29M in cumulative net income over recent quarters. Cash generation is strong, with about $1.27B in free cash flow and $1.73B in operating cash flow. These factors point to a relatively stable institution rather than a fly-by-night operation.
+3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has a long operating history serving government and commercial clients in Western-allied markets. It shows consistent profitability across recent periods and robust cash generation, with $1.27B in free cash flow and $1.73B in operating cash flow. A profit margin near 22% alongside 48% revenue growth supports operating stability. While balance sheet specifics are not provided, these metrics indicate a stable institution rather than a fly-by-night operation.
 
-3.2. **Innovating?:** Innovating and growing — Q3 results beat estimates, US commercial revenue accelerated with customer growth, and full-year guidance was raised, reflecting ongoing AI adoption.
+3.2. **Innovating?:** Palantir is innovating and growing via its Gotham and Foundry platforms, with strong AI adoption highlighted in Q3 results and raised guidance. Revenue growth of 48% and sharp earnings growth further indicate momentum.
 
 ## 4. Context
 
-4.1. **News:** Palantir reported Q3 revenue of $1.18B and adjusted EPS of $0.21, beating estimates, with US commercial strength and raised full-year guidance (Benzinga). CEO Alex Karp highlighted continued AI adoption and growth, a positive signal for the broader AI ecosystem (Motley Fool). Contrasting the optimism, Michael Burry's fund disclosed 5M PLTR puts, signaling a bearish stance (Benzinga). Macro sentiment is supported by AI momentum and a US-China trade truce (Investing.com). With strong results and optimism potentially priced in—and the quick facts flagging 'Sell the news? yes'—the setup is susceptible to buy-the-rumor, sell-the-news dynamics.
+4.1. **News:** Recent headlines note Palantir’s Q3 beat on revenue and EPS, driven by a booming U.S. commercial business and a guidance raise. The CEO highlighted continued AI adoption, which some view as supportive for broader AI demand (e.g., Nvidia). Contrastingly, Michael Burry disclosed 5 million puts on Palantir, flagging bearish positioning and AI bubble concerns. Broader market tone is risk-on amid AI momentum and a US‑China trade truce. Given the beats and guidance raise, the quick facts’ “sell the news: yes” suggests some gains may have been priced in.
 
 4.2. **Tarrifs:** unknown
 
@@ -355,21 +297,27 @@ raw_markdown: |
 </div>
 
 
-**Sources**
-- massive.com: company profile & branding, technical indicators, headlines (5 items)
-- yfinance: prices & technicals, fundamentals, earnings calendar
-- Google Custom Search: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*
-- NewsAPI: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
-- GNews: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
-- The Guardian: PLTR core business*, PLTR product portfolio*, PLTR profitability*, PLTR earnings trend*, PLTR target customers*, PLTR market segments*, PLTR competitors*, PLTR market share*, PLTR rumors*, PLTR tariffs news*, PLTR latest rumor*, PLTR tariff impact*, PLTR business model*, PLTR profit outlook*, PLTR market expansion*, PLTR competitive landscape*, PLTR rumor*, PLTR tariff*, PLTR latest news*, PLTR tariffs*
+<div class="sources-list">
+<strong>Sources</strong>
+<ul>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
+<li>NewsAPI: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+<li>GNews: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+<li>The Guardian: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^, business model^, profit outlook^, market expansion^, competitive landscape^, rumor^, tariff^, latest news^, tariffs^</li>
+</ul>
+<p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
+</div>
+
 
 <details class="cli-log">
-<summary>Show generation log</summary>
+<summary>Show generation log^</summary>
 <pre><code>
 Gathering context for PLTR...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-05/2025-11-03?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
@@ -408,159 +356,95 @@ Massive news: collected 5 articles.
   massive.com returned 5 headlines
 Running supplementary searches...
   google_custom_search search -&gt; PLTR core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=5
-Google Custom Search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=5
-Google Custom Search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=5
-Google Custom Search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=5
-Google Custom Search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=5
-Google Custom Search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=5
-Google Custom Search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=5
-Google Custom Search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
   google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    google_custom_search: error: missing API key or engine id
+    newsapi: error: missing API key
     gnews: error: missing API token
     guardian: error: missing API key
 Synthesizing narrative from OpenAI response...

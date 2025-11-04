@@ -63,6 +63,8 @@ LOGO_DIR = Path("assets/logos")
 CACHE_DIR = Path(".cache")
 REPORTS_DIR = Path("_reports")
 STATE_FILE = Path(".gostonks-state.json")
+FOOTNOTE_MARKER = "^"
+FOOTNOTE_NOTE = f"{FOOTNOTE_MARKER} indicates an API issue or empty result (see generation log{FOOTNOTE_MARKER})."
 CACHE_TTL_SECONDS = 6 * 3600
 GOOGLE_CSE_API_KEY = os.getenv("GOOGLE_CSE_API_KEY")
 GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID")
@@ -1682,6 +1684,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     """Collect pricing, fundamentals, and news data for the LLM."""
 
     log_status("Gathering market data...")
+    ticker_upper = ticker.upper()
     massive_api_key = _load_massive_api_key()
     histories, price_source = get_price_histories(ticker)
     hist_10d = histories["10d"]
@@ -1788,9 +1791,17 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         "guardian": "The Guardian",
     }
 
+    ticker_pattern = re.compile(rf"\b{re.escape(ticker_upper)}\b", flags=re.IGNORECASE)
+
     for provider_results in search_results.values():
         for entry in provider_results:
             query = (entry.get("query") or "").strip()
+            query_display = query
+            if query_display:
+                stripped = ticker_pattern.sub("", query_display)
+                stripped = re.sub(r"\s{2,}", " ", stripped).strip(" ,;-")
+                if stripped:
+                    query_display = stripped
             attempts = entry.get("attempts") or []
             results = entry.get("results") or []
             provider_used = entry.get("provider_used")
@@ -1804,9 +1815,9 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
                     or "failed" in status_lower
                     or "0 result" in status_lower
                 )
-                label = query or "(unspecified query)"
+                label = query_display or "(unspecified query)"
                 if is_error or (not results and attempt_provider == provider_used and not is_success):
-                    label = f"{label}*"
+                    label = f"{label}{FOOTNOTE_MARKER}"
                 add_source_note(friendly, label)
 
     data_sources: List[str] = []
@@ -1826,7 +1837,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         data_sources.append(f"{source}: {', '.join(notes)}")
 
     return {
-        "ticker": ticker.upper(),
+        "ticker": ticker_upper,
         "company": {
             "long_name": (massive_profile or {}).get("name") or info.get("longName"),
             "sector": info.get("sector") or (massive_profile or {}).get("sic_description"),
@@ -2087,9 +2098,16 @@ def format_report(
     lines.append("")
     data_sources = context.get("data_sources") or []
     if data_sources:
-        lines.append("**Sources**")
+        lines.append('<div class="sources-list">')
+        lines.append("<strong>Sources</strong>")
+        lines.append("<ul>")
         for entry in data_sources:
-            lines.append(f"- {entry}")
+            lines.append(f"<li>{html.escape(entry)}</li>")
+        lines.append("</ul>")
+        if any(FOOTNOTE_MARKER in entry for entry in data_sources):
+            lines.append(f'<p class="sources-footnote">{html.escape(FOOTNOTE_NOTE)}</p>')
+        lines.append("</div>")
+        lines.append("")
     else:
         lines.append(f"Price data source: {context['price_data_source']}")
     cli_log = context.get("cli_log")
@@ -2097,7 +2115,7 @@ def format_report(
         log_block = "\n".join(html.escape(entry) for entry in cli_log)
         lines.append("")
         lines.append("<details class=\"cli-log\">")
-        lines.append("<summary>Show generation log</summary>")
+        lines.append(f"<summary>Show generation log{FOOTNOTE_MARKER}</summary>")
         lines.append("<pre><code>")
         lines.append(log_block)
         lines.append("</code></pre>")
