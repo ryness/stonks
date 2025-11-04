@@ -1802,23 +1802,13 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
                 stripped = re.sub(r"\s{2,}", " ", stripped).strip(" ,;-")
                 if stripped:
                     query_display = stripped
-            attempts = entry.get("attempts") or []
             results = entry.get("results") or []
             provider_used = entry.get("provider_used")
-            for attempt_provider, attempt_status in attempts:
-                friendly = provider_labels.get(attempt_provider, attempt_provider)
-                status_lower = (attempt_status or "").lower()
-                is_success = bool(results and attempt_provider == provider_used and not status_lower.startswith("error"))
-                is_error = (
-                    status_lower.startswith("error")
-                    or "missing" in status_lower
-                    or "failed" in status_lower
-                    or "0 result" in status_lower
-                )
-                label = query_display or "(unspecified query)"
-                if is_error or (not results and attempt_provider == provider_used and not is_success):
-                    label = f"{label}{FOOTNOTE_MARKER}"
-                add_source_note(friendly, label)
+            if not results:
+                continue
+            friendly = provider_labels.get(provider_used, provider_used or "unknown")
+            label = query_display or "(unspecified query)"
+            add_source_note(friendly, label)
 
     data_sources: List[str] = []
     source_order = [
