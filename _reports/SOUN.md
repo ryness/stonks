@@ -3,29 +3,29 @@ layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
 date: 2025-11-04
-generated_at: 2025-11-04T01:58:06.969838+00:00
-runtime_seconds: 49.15
+generated_at: 2025-11-04T06:43:24.019488+00:00
+runtime_seconds: 125.29
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-04T01:58:06.969838+00:00">2025-11-04 01:58 UTC</time> (runtime 49.15s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-04T06:43:24.019488+00:00">2025-11-04 06:43 UTC</time> (runtime 2m 5s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that enables high-quality, multilingual interactions for businesses. Its AI-driven products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving product creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
+  1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that enables businesses to deliver voice-first customer experiences. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, supporting numerous languages. It serves product creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
   
-  1.2. **Profitable?:** No — the company is not profitable, with a negative profit margin and cumulative net losses (-$225.1M) alongside negative operating and free cash flow; recent coverage also cites cash burn and an uncertain path to profitability despite rapid revenue growth.
+  1.2. **Profitable?:** No—SoundHound is not profitable, with a negative profit margin (~-171%) and cumulative net losses, and recent reports cite ongoing cash burn with no clear profitability timeline.
   
-  1.3. **Customer & Markets:** Primary customers are enterprises and product creators in retail, financial services, healthcare, automotive, smart devices, and restaurants that need voice AI capabilities. The company is U.S.-based and deploys its platform across these industry markets and embedded devices/services.
+  1.3. **Customer & Markets:** Primary customers are enterprises, OEMs, and service providers seeking voice-driven customer engagement. Key markets include automotive, retail, financial services, healthcare, smart devices, and restaurant/QSR use cases like drive‑thru and smart ordering.
   
-  1.4. **Competition:** Competitors include large AI and automotive technology ecosystems such as Nvidia and Stellantis. SoundHound is a smaller, independent player versus these giants, not a market leader.
+  1.4. **Competition:** It competes with other conversational AI and AI agent platforms (investors often compare it with BigBear.ai). Everest Group named SoundHound a Leader in its 2025 CXM Conversational AI and AI Agents PEAK Matrix, indicating strong positioning among peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, as price retreated from the local high near 19.09 to a 17.11 close and tested support around 16.42.
+  2.1. **7d Trend?:** down — price slipped from a 7d local high of 19.09 to 17.11, trading near 16.42 support and below the 20‑DMA.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 16.56–16.42 (suggested buy zone/support) looked attractive, while selling near 19.09 (local high/resistance) offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 16.56 or the 16.42 support looked attractive; selling into 19.09 resistance/local high offered favorable exits.
   
   2.3.1. **7d Volume:** med
   
@@ -33,47 +33,55 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SoundHound AI is a U.S.-based technology company with a multi-industry Voice AI platform and a growing product suite. Its stability is challenged by cumulative net losses (-$225.1M), a deeply negative profit margin, and negative operating cash flow, indicating ongoing cash burn. Recent commentary also notes stock dilution and an uncertain path to profitability. High recent volatility further points to elevated risk despite strong revenue growth.
+  3.1. **Stability?:** SoundHound appears more early-stage than mature given its ongoing losses and negative operating/free cash flow. It has a multi‑industry product footprint and was recognized by Everest Group as a Leader in CXM conversational AI/agents, supporting credibility. Revenue growth is strong (over 200% reported), but profitability remains elusive. Overall, it is a credible, growing platform company with balance‑sheet risk from continued cash burn.
   
-  3.2. **Innovating?:** Yes—innovation and growth are evident, with Q2 revenue tripling year over year to $42.7M and product expansions like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents. Some coverage also cites ambitions for sustained growth across financial and healthcare markets.
+  3.2. **Innovating?:** Innovating and growing—transitioning to agentic Voice AI (including Amelia integration) and posting rapid revenue growth (e.g., a recent quarter up ~217% YoY) across automotive, restaurant, and enterprise use cases.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights a sharp pullback (down nearly 30%) even as the company pivots toward voice-first agentic AI via the Amelia acquisition. The latest earnings write-up notes revenue tripling to $42.7M but flags cash burn, dilution, and an uncertain path to profitability, leading to a hold stance. Other pieces are bullish on long-term potential, citing a 217% quarterly revenue increase, a 143% six-month stock run, and growth plans across financial and healthcare, while acknowledging potential challenges. Given this mix, rallies on optimistic narratives may fade on hard numbers; quick facts show Buy the rumor? no and Sell the news? no, suggesting the adage isn’t the primary driver.
+  4.1. **News:** Recent coverage highlights a shift to voice‑first agentic AI via the Amelia deal and rapid growth (Q2 revenue tripled to $42.7M), while flagging cash burn, dilution, and lack of profitability. One piece notes the stock is down nearly 30%, framing it as a speculative buy‑the‑dip. Other articles discuss potential upside through 2026 alongside execution challenges. With moves tied to earnings and strategic updates rather than rumors, the classic ‘buy the rumor, sell the news’ dynamic appears limited.
   
   4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
-  | Metric | Answer |
-  | --- | --- |
-  | Last Q4 | $-225.14M |
-  | Price | 17.11 |
-  | 7d Resistance | 19.09 |
-  | 7d Support | 16.42 |
-  | 30d Resistance | 22.17 |
-  | 30d Support | 15.30 |
-  | Buy the dip? | yes |
-  | Buy the rumor? | no |
-  | Sell the news? | no |
-  | 7d Trend: | down |
-  | 3mo | middle |
-  | 1yr | middle |
-  | 5yr | middle |
+  <div class="quickref-table">
+  <table>
+  <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
+  <tbody>
+  <tr><td>Last Q4</td><td>$-225.14M</td></tr>
+  <tr><td>Price</td><td>17.11</td></tr>
+  <tr><td>7d Resistance</td><td>19.09</td></tr>
+  <tr><td>7d Support</td><td>16.42</td></tr>
+  <tr><td>30d Resistance</td><td>22.17</td></tr>
+  <tr><td>30d Support</td><td>15.30</td></tr>
+  <tr><td>Buy the dip?</td><td>yes</td></tr>
+  <tr><td>Buy the rumor?</td><td>no</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
+  <tr><td>5yr</td><td>middle</td></tr>
+  </tbody></table>
+  </div>
   
   
-  **Sources**
-  - Prices & technicals: yfinance
-  - Company profile & branding: massive.com
-  - Fundamentals: yfinance
-  - Earnings calendar: yfinance
-  - Technical indicators: massive.com
-  - Headlines: massive.com
-  - Supplementary search: Google Custom Search (no results)
-  - Supplementary search: NewsAPI.org (no results)
+  <div class="sources-list">
+  <strong>Sources</strong>
+  <ul>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
+  <li>NewsAPI: core business, product portfolio^, profitability, earnings trend^, target customers, market segments, competitors, market share, rumors^, tariffs news, latest rumor^, tariff impact, business model, profit outlook^, market expansion, competitive landscape^, rumor^, tariff, latest news, tariffs</li>
+  <li>GNews: product portfolio^, earnings trend^, rumors^, latest rumor^, profit outlook^, competitive landscape^, rumor^</li>
+  <li>The Guardian: product portfolio, earnings trend, rumors, latest rumor, profit outlook, competitive landscape, rumor</li>
+  </ul>
+  <p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
+  </div>
+  
   
   <details class="cli-log">
-  <summary>Show generation log</summary>
+  <summary>Show generation log^</summary>
   <pre><code>
   Gathering context for SOUN...
   Gathering market data...
@@ -83,7 +91,7 @@ raw_markdown: |
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/SOUN?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -99,8 +107,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/SOUN?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/SOUN?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/c291bmRob3VuZC5jb20/images/2025-04-04_logo.png?apiKey=%2A%2A%2A
-  Massive logo: cached to assets/logos/SOUN.png
+  Massive logo: using cached asset assets/logos/SOUN.png
   Massive related companies: GET https://api.massive.com/v1/related-companies/SOUN?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/SOUN?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 2 entries.
@@ -117,86 +124,130 @@ raw_markdown: |
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
   Running supplementary searches...
-    google_custom_search search -&gt; SOUN core business
+    google_custom_search search -&gt; SOUN core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
-  Google Custom Search failed for &#x27;SOUN core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN product portfolio
+  Google Custom Search failed for &#x27;SOUN core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+    google_custom_search search -&gt; SOUN product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;SOUN product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+product+portfolio&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN business model
+  Google Custom Search failed for &#x27;SOUN product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    newsapi search -&gt; SOUN business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN profitability
+      newsapi: 2 result(s)
+    google_custom_search search -&gt; SOUN profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
-  Google Custom Search failed for &#x27;SOUN profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN earnings trend
+  Google Custom Search failed for &#x27;SOUN profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; SOUN earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;SOUN earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+earnings+trend&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN profit outlook
+  Google Custom Search failed for &#x27;SOUN earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN target customers
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;SOUN target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN market segments
+  Google Custom Search failed for &#x27;SOUN target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
+    google_custom_search search -&gt; SOUN market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;SOUN market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+segments&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN market expansion
+  Google Custom Search failed for &#x27;SOUN market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+    newsapi search -&gt; SOUN market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN competitors
+      newsapi: 2 result(s)
+    google_custom_search search -&gt; SOUN competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
-  Google Custom Search failed for &#x27;SOUN competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN market share
+  Google Custom Search failed for &#x27;SOUN competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
+    google_custom_search search -&gt; SOUN market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+share&amp;num=5
-  Google Custom Search failed for &#x27;SOUN market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+share&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN competitive landscape
+  Google Custom Search failed for &#x27;SOUN market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
+    newsapi search -&gt; SOUN competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN rumors
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    google_custom_search search -&gt; SOUN rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
-  Google Custom Search failed for &#x27;SOUN rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN tariffs news
+  Google Custom Search failed for &#x27;SOUN rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    google_custom_search search -&gt; SOUN tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;SOUN tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariffs+news&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN rumor
+  Google Custom Search failed for &#x27;SOUN tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+    newsapi search -&gt; SOUN rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    newsapi search -&gt; SOUN tariff
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    newsapi search -&gt; SOUN tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    newsapi search -&gt; SOUN latest news
+      newsapi: 1 result(s)
+    newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN latest rumor
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;SOUN latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
-      -&gt; 0 results
-    newsapi search -&gt; SOUN tariffs
+  Google Custom Search failed for &#x27;SOUN latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
+    newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-      -&gt; 0 results
-    google_custom_search search -&gt; SOUN tariff impact
+      newsapi: 4 result(s)
+    google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;SOUN tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
-      -&gt; 0 results
+  Google Custom Search failed for &#x27;SOUN tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -218,26 +269,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-04T01:58:06.969838+00:00">2025-11-04 01:58 UTC</time> (runtime 49.15s)
+**Generated:** <time class="js-local-time" datetime="2025-11-04T06:43:24.019488+00:00">2025-11-04 06:43 UTC</time> (runtime 2m 5s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that enables high-quality, multilingual interactions for businesses. Its AI-driven products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving product creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
+1.1. **Activities:** SoundHound AI provides an independent conversational Voice AI platform that enables businesses to deliver voice-first customer experiences. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, supporting numerous languages. It serves product creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
 
-1.2. **Profitable?:** No — the company is not profitable, with a negative profit margin and cumulative net losses (-$225.1M) alongside negative operating and free cash flow; recent coverage also cites cash burn and an uncertain path to profitability despite rapid revenue growth.
+1.2. **Profitable?:** No—SoundHound is not profitable, with a negative profit margin (~-171%) and cumulative net losses, and recent reports cite ongoing cash burn with no clear profitability timeline.
 
-1.3. **Customer & Markets:** Primary customers are enterprises and product creators in retail, financial services, healthcare, automotive, smart devices, and restaurants that need voice AI capabilities. The company is U.S.-based and deploys its platform across these industry markets and embedded devices/services.
+1.3. **Customer & Markets:** Primary customers are enterprises, OEMs, and service providers seeking voice-driven customer engagement. Key markets include automotive, retail, financial services, healthcare, smart devices, and restaurant/QSR use cases like drive‑thru and smart ordering.
 
-1.4. **Competition:** Competitors include large AI and automotive technology ecosystems such as Nvidia and Stellantis. SoundHound is a smaller, independent player versus these giants, not a market leader.
+1.4. **Competition:** It competes with other conversational AI and AI agent platforms (investors often compare it with BigBear.ai). Everest Group named SoundHound a Leader in its 2025 CXM Conversational AI and AI Agents PEAK Matrix, indicating strong positioning among peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, as price retreated from the local high near 19.09 to a 17.11 close and tested support around 16.42.
+2.1. **7d Trend?:** down — price slipped from a 7d local high of 19.09 to 17.11, trading near 16.42 support and below the 20‑DMA.
 
-2.2. **7d Buy/Sell Points?:** Buying near 16.56–16.42 (suggested buy zone/support) looked attractive, while selling near 19.09 (local high/resistance) offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near 16.56 or the 16.42 support looked attractive; selling into 19.09 resistance/local high offered favorable exits.
 
 2.3.1. **7d Volume:** med
 
@@ -245,47 +296,55 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SoundHound AI is a U.S.-based technology company with a multi-industry Voice AI platform and a growing product suite. Its stability is challenged by cumulative net losses (-$225.1M), a deeply negative profit margin, and negative operating cash flow, indicating ongoing cash burn. Recent commentary also notes stock dilution and an uncertain path to profitability. High recent volatility further points to elevated risk despite strong revenue growth.
+3.1. **Stability?:** SoundHound appears more early-stage than mature given its ongoing losses and negative operating/free cash flow. It has a multi‑industry product footprint and was recognized by Everest Group as a Leader in CXM conversational AI/agents, supporting credibility. Revenue growth is strong (over 200% reported), but profitability remains elusive. Overall, it is a credible, growing platform company with balance‑sheet risk from continued cash burn.
 
-3.2. **Innovating?:** Yes—innovation and growth are evident, with Q2 revenue tripling year over year to $42.7M and product expansions like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents. Some coverage also cites ambitions for sustained growth across financial and healthcare markets.
+3.2. **Innovating?:** Innovating and growing—transitioning to agentic Voice AI (including Amelia integration) and posting rapid revenue growth (e.g., a recent quarter up ~217% YoY) across automotive, restaurant, and enterprise use cases.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights a sharp pullback (down nearly 30%) even as the company pivots toward voice-first agentic AI via the Amelia acquisition. The latest earnings write-up notes revenue tripling to $42.7M but flags cash burn, dilution, and an uncertain path to profitability, leading to a hold stance. Other pieces are bullish on long-term potential, citing a 217% quarterly revenue increase, a 143% six-month stock run, and growth plans across financial and healthcare, while acknowledging potential challenges. Given this mix, rallies on optimistic narratives may fade on hard numbers; quick facts show Buy the rumor? no and Sell the news? no, suggesting the adage isn’t the primary driver.
+4.1. **News:** Recent coverage highlights a shift to voice‑first agentic AI via the Amelia deal and rapid growth (Q2 revenue tripled to $42.7M), while flagging cash burn, dilution, and lack of profitability. One piece notes the stock is down nearly 30%, framing it as a speculative buy‑the‑dip. Other articles discuss potential upside through 2026 alongside execution challenges. With moves tied to earnings and strategic updates rather than rumors, the classic ‘buy the rumor, sell the news’ dynamic appears limited.
 
 4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
-| Metric | Answer |
-| --- | --- |
-| Last Q4 | $-225.14M |
-| Price | 17.11 |
-| 7d Resistance | 19.09 |
-| 7d Support | 16.42 |
-| 30d Resistance | 22.17 |
-| 30d Support | 15.30 |
-| Buy the dip? | yes |
-| Buy the rumor? | no |
-| Sell the news? | no |
-| 7d Trend: | down |
-| 3mo | middle |
-| 1yr | middle |
-| 5yr | middle |
+<div class="quickref-table">
+<table>
+<thead><tr><th>Metric</th><th>Answer</th></tr></thead>
+<tbody>
+<tr><td>Last Q4</td><td>$-225.14M</td></tr>
+<tr><td>Price</td><td>17.11</td></tr>
+<tr><td>7d Resistance</td><td>19.09</td></tr>
+<tr><td>7d Support</td><td>16.42</td></tr>
+<tr><td>30d Resistance</td><td>22.17</td></tr>
+<tr><td>30d Support</td><td>15.30</td></tr>
+<tr><td>Buy the dip?</td><td>yes</td></tr>
+<tr><td>Buy the rumor?</td><td>no</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
+<tr><td>5yr</td><td>middle</td></tr>
+</tbody></table>
+</div>
 
 
-**Sources**
-- Prices & technicals: yfinance
-- Company profile & branding: massive.com
-- Fundamentals: yfinance
-- Earnings calendar: yfinance
-- Technical indicators: massive.com
-- Headlines: massive.com
-- Supplementary search: Google Custom Search (no results)
-- Supplementary search: NewsAPI.org (no results)
+<div class="sources-list">
+<strong>Sources</strong>
+<ul>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
+<li>NewsAPI: core business, product portfolio^, profitability, earnings trend^, target customers, market segments, competitors, market share, rumors^, tariffs news, latest rumor^, tariff impact, business model, profit outlook^, market expansion, competitive landscape^, rumor^, tariff, latest news, tariffs</li>
+<li>GNews: product portfolio^, earnings trend^, rumors^, latest rumor^, profit outlook^, competitive landscape^, rumor^</li>
+<li>The Guardian: product portfolio, earnings trend, rumors, latest rumor, profit outlook, competitive landscape, rumor</li>
+</ul>
+<p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
+</div>
+
 
 <details class="cli-log">
-<summary>Show generation log</summary>
+<summary>Show generation log^</summary>
 <pre><code>
 Gathering context for SOUN...
 Gathering market data...
@@ -295,7 +354,7 @@ massive.com request failed (massive.com returned no price data); switching to yf
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/SOUN/2025-11-03?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/SOUN?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -311,8 +370,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/SOUN?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/SOUN?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/c291bmRob3VuZC5jb20/images/2025-04-04_logo.png?apiKey=%2A%2A%2A
-Massive logo: cached to assets/logos/SOUN.png
+Massive logo: using cached asset assets/logos/SOUN.png
 Massive related companies: GET https://api.massive.com/v1/related-companies/SOUN?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/SOUN?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 2 entries.
@@ -329,86 +387,130 @@ Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
 Running supplementary searches...
-  google_custom_search search -&gt; SOUN core business
+  google_custom_search search -&gt; SOUN core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
-Google Custom Search failed for &#x27;SOUN core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN product portfolio
+Google Custom Search failed for &#x27;SOUN core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+  google_custom_search search -&gt; SOUN product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;SOUN product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+product+portfolio&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN business model
+Google Custom Search failed for &#x27;SOUN product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  newsapi search -&gt; SOUN business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN profitability
+    newsapi: 2 result(s)
+  google_custom_search search -&gt; SOUN profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
-Google Custom Search failed for &#x27;SOUN profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN earnings trend
+Google Custom Search failed for &#x27;SOUN profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; SOUN earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;SOUN earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+earnings+trend&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN profit outlook
+Google Custom Search failed for &#x27;SOUN earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN target customers
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
-Google Custom Search failed for &#x27;SOUN target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN market segments
+Google Custom Search failed for &#x27;SOUN target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
+  google_custom_search search -&gt; SOUN market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+segments&amp;num=5
-Google Custom Search failed for &#x27;SOUN market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+segments&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN market expansion
+Google Custom Search failed for &#x27;SOUN market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+  newsapi search -&gt; SOUN market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN competitors
+    newsapi: 2 result(s)
+  google_custom_search search -&gt; SOUN competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
-Google Custom Search failed for &#x27;SOUN competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN market share
+Google Custom Search failed for &#x27;SOUN competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
+  google_custom_search search -&gt; SOUN market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+share&amp;num=5
-Google Custom Search failed for &#x27;SOUN market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+market+share&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN competitive landscape
+Google Custom Search failed for &#x27;SOUN market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
+  newsapi search -&gt; SOUN competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN rumors
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  google_custom_search search -&gt; SOUN rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
-Google Custom Search failed for &#x27;SOUN rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN tariffs news
+Google Custom Search failed for &#x27;SOUN rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  google_custom_search search -&gt; SOUN tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;SOUN tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariffs+news&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN rumor
+Google Custom Search failed for &#x27;SOUN tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+  newsapi search -&gt; SOUN rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  newsapi search -&gt; SOUN tariff
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  newsapi search -&gt; SOUN tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  newsapi search -&gt; SOUN latest news
+    newsapi: 1 result(s)
+  newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN latest rumor
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;SOUN latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
-    -&gt; 0 results
-  newsapi search -&gt; SOUN tariffs
+Google Custom Search failed for &#x27;SOUN latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SOUN+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SOUN+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
+  newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=dd39a59d930a4300a4fbbe55b095586a
-    -&gt; 0 results
-  google_custom_search search -&gt; SOUN tariff impact
+    newsapi: 4 result(s)
+  google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;SOUN tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1?key=AIzaSyBZZiO-IhMubLsg6oQsmsEcj4ChSm76VcY&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
-    -&gt; 0 results
+Google Custom Search failed for &#x27;SOUN tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
