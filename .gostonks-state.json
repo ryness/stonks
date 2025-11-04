@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "last_index": 4,
+=======
+  "last_index": 2,
+>>>>>>> d62fc3f1e57e34d0c31f2a84eb765b9d67e7acb9
   "tickers": [
     "AAPL",
     "CRWV",
