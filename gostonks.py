@@ -54,6 +54,8 @@ except ImportError as exc:
 PROMPT_PATH = Path("stock-expert_prompt.txt")
 OPENAI_KEY_FILE = Path("apikey-openai.txt")
 MASSIVE_KEY_FILE = Path("apikey-massive.txt")
+GNEWS_KEY_FILE = Path("apikey-gnews.txt")
+GUARDIAN_KEY_FILE = Path("apikey-guardian.txt")
 DEFAULT_MASSIVE_KEY = "fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM"
 MASSIVE_API_BASE = "https://api.massive.com"
 LOGO_DIR = Path("assets/logos")
@@ -65,7 +67,20 @@ CACHE_TTL_SECONDS = 6 * 3600
 GOOGLE_CSE_API_KEY = os.getenv("GOOGLE_CSE_API_KEY")
 GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID")
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
+GNEWS_API_KEY = os.getenv("GNEWS_API_KEY") or os.getenv("GNEWS_TOKEN")
+GUARDIAN_API_KEY = os.getenv("GUARDIAN_API_KEY") or os.getenv("THE_GUARDIAN_API_KEY")
 MAX_SEARCH_RESULTS = 5
+SEARCH_PROVIDER_PRIORITY = {
+    "google_custom_search": ["google_custom_search", "newsapi", "gnews", "guardian"],
+    "newsapi": ["newsapi", "gnews", "guardian"],
+    "gnews": ["gnews", "guardian"],
+    "guardian": ["guardian"],
+}
+
+if not GNEWS_API_KEY and GNEWS_KEY_FILE.exists():
+    GNEWS_API_KEY = GNEWS_KEY_FILE.read_text(encoding="utf-8").strip() or None
+if not GUARDIAN_API_KEY and GUARDIAN_KEY_FILE.exists():
+    GUARDIAN_API_KEY = GUARDIAN_KEY_FILE.read_text(encoding="utf-8").strip() or None
 
 try:
     _site_config = yaml.safe_load(Path("_config.yml").read_text(encoding="utf-8"))
@@ -471,6 +486,108 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str,
     return articles
 
 
+def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+    if not GNEWS_API_KEY:
+        return []
+    cache_key = f"gnews::{query}::{num}"
+    cached = _cache_read(cache_key)
+    if cached is not None:
+        return cached
+    params = {
+        "q": query,
+        "lang": "en",
+        "max": min(num, 10),
+        "token": GNEWS_API_KEY,
+    }
+    try:
+        base_url = "https://gnews.io/api/v4/search"
+        log_params = {**params, "token": "***"}
+        log_status(f"GNews search: GET {base_url}?{urlencode(log_params)}")
+        response = requests.get(base_url, params=params, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+    except Exception as exc:
+        log_status(f"GNews search failed for '{query}': {exc}")
+        return []
+    articles: List[Dict[str, Any]] = []
+    for article in data.get("articles", [])[:num]:
+        source_info = article.get("source") or {}
+        articles.append(
+            {
+                "title": article.get("title"),
+                "summary": article.get("description"),
+                "url": article.get("url"),
+                "source": source_info.get("name"),
+                "published": article.get("publishedAt"),
+            }
+        )
+    _cache_write(cache_key, articles)
+    return articles
+
+
+def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+    if not GUARDIAN_API_KEY:
+        return []
+    cache_key = f"guardian::{query}::{num}"
+    cached = _cache_read(cache_key)
+    if cached is not None:
+        return cached
+    params = {
+        "q": query,
+        "api-key": GUARDIAN_API_KEY,
+        "page-size": min(num, 10),
+        "order-by": "newest",
+        "show-fields": "trailText",
+    }
+    try:
+        base_url = "https://content.guardianapis.com/search"
+        log_params = {**params, "api-key": "***"}
+        log_status(f"Guardian search: GET {base_url}?{urlencode(log_params)}")
+        response = requests.get(base_url, params=params, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+    except Exception as exc:
+        log_status(f"Guardian search failed for '{query}': {exc}")
+        return []
+    response_payload = data.get("response") or {}
+    results = response_payload.get("results") or []
+    articles: List[Dict[str, Any]] = []
+    for item in results[:num]:
+        fields = item.get("fields") or {}
+        articles.append(
+            {
+                "title": item.get("webTitle"),
+                "summary": fields.get("trailText"),
+                "url": item.get("webUrl"),
+                "source": "The Guardian",
+                "published": item.get("webPublicationDate"),
+            }
+        )
+    _cache_write(cache_key, articles)
+    return articles
+
+
+def _run_search_with_priority(query: str, providers: Sequence[str]) -> Tuple[List[Dict[str, Any]], Optional[str], List[Tuple[str, int]]]:
+    attempts: List[Tuple[str, int]] = []
+    for provider in providers:
+        provider_lower = provider.lower()
+        if provider_lower == "google_custom_search":
+            results = _google_custom_search(query)
+        elif provider_lower == "newsapi":
+            results = _newsapi_search(query)
+        elif provider_lower == "gnews":
+            results = _gnews_search(query)
+        elif provider_lower == "guardian":
+            results = _guardian_search(query)
+        else:
+            log_status(f"Unknown search provider '{provider}' for query '{query}'")
+            results = []
+        attempts.append((provider_lower, len(results)))
+        if results:
+            return results, provider_lower, attempts
+    return [], providers[-1].lower() if providers else None, attempts
+
+
 def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[Dict[str, Any]]]:
     tasks: List[Tuple[str, str, str]] = []
     placeholder_values = {
@@ -506,20 +623,18 @@ def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[D
             continue
         seen.add(key)
         provider_lower = provider.lower()
-        log_status(f"  {provider_lower} search -> {query}")
-        if provider_lower == "google_custom_search":
-            data = _google_custom_search(query)
-        elif provider_lower == "newsapi":
-            data = _newsapi_search(query)
-        else:
-            log_status(f"Unknown search provider '{provider}' for query '{query}'")
-            data = []
-        log_status(f"    -> {len(data)} results")
+        priority_chain = SEARCH_PROVIDER_PRIORITY.get(provider_lower, [provider_lower])
+        log_status(f"  {provider_lower} search -> {query} (priority: {', '.join(priority_chain)})")
+        data, provider_used, attempts = _run_search_with_priority(query, priority_chain)
+        for attempt_provider, result_count in attempts:
+            log_status(f"    {attempt_provider}: {result_count} results")
         results[provider_lower].append(
             {
                 "query": query,
                 "source": source,
                 "results": data,
+                "provider_used": provider_used,
+                "attempts": attempts,
             }
         )
 
@@ -1624,11 +1739,27 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     provider_labels = {
         "google_custom_search": "Google Custom Search",
         "newsapi": "NewsAPI.org",
+        "gnews": "GNews",
+        "guardian": "The Guardian",
     }
     for provider, provider_results in search_results.items():
         label = provider_labels.get(provider, provider)
-        if provider_results and any(item.get("results") for item in provider_results):
-            data_sources.append(f"Supplementary search: {label}")
+        any_results = False
+        fallback_used: set[str] = set()
+        for entry in provider_results:
+            entry_results = entry.get("results") or []
+            provider_used = entry.get("provider_used")
+            if entry_results:
+                any_results = True
+            if provider_used and provider_used != provider:
+                fallback_used.add(provider_labels.get(provider_used, provider_used))
+        if any_results:
+            if fallback_used:
+                data_sources.append(
+                    f"Supplementary search: {label} (fallback: {', '.join(sorted(fallback_used))})"
+                )
+            else:
+                data_sources.append(f"Supplementary search: {label}")
         else:
             data_sources.append(f"Supplementary search: {label} (no results)")
 

@@ -15,6 +15,8 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `OPENAI_API_KEY` – required for report generation.
 - `GOOGLE_CSE_API_KEY` and `GOOGLE_CSE_ENGINE_ID` – optional, but enable Google Custom Search snippets.
 - `NEWSAPI_KEY` – optional, adds recent news context.
+- `GNEWS_API_KEY` – optional fallback for headline snippets (or place the key in `apikey-gnews.txt`).
+- `GUARDIAN_API_KEY` – optional secondary fallback via The Guardian Open Platform (or use `apikey-guardian.txt`).
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
 With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the rotation state file) back to the default branch, triggering a Pages rebuild.
@@ -34,6 +36,8 @@ To create a report locally, ensure the API key files or environment variables ar
 ```bash
 python gostonks.py AAPL
 ```
+
+You can drop optional provider keys into text files in the repo root (`apikey-openai.txt`, `apikey-massive.txt`, `apikey-gnews.txt`, `apikey-guardian.txt`) if you prefer not to export environment variables. The search pipeline will try Google first, then fall back to NewsAPI, GNews, and finally The Guardian whenever earlier providers rate-limit or return no matches.
 
 Generated markdown lands in `_reports/`. You can commit/push manually or let the workflow handle it.
 
