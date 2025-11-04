@@ -165,6 +165,24 @@ def _cache_write(key: str, payload: Any) -> None:
         pass
 
 
+def _sanitize_message(message: str) -> str:
+    if not message:
+        return ""
+    sanitized = message
+    for pattern in ("key=", "apikey=", "apiKey=", "token=", "cx=", "client_id=", "client_secret="):
+        sanitized = re.sub(rf"{pattern}[^&\s]+", f"{pattern}***", sanitized, flags=re.IGNORECASE)
+    def _shorten(match) -> str:
+        url = match.group(0)
+        try:
+            parsed = urlparse(url)
+            base = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+            return base
+        except Exception:
+            return url
+    sanitized = re.sub(r"https?://[^\s]+", _shorten, sanitized)
+    return sanitized
+
+
 def log_status(message: str) -> None:
     """Emit a progress update for long-running operations."""
 
@@ -400,13 +418,13 @@ def validate_prompt(config: PromptConfig) -> None:
         raise RuntimeError("Prompt template defines no quick facts; at least one is required.")
 
 
-def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[str, Any]], str]:
     if not GOOGLE_CSE_API_KEY or not GOOGLE_CSE_ENGINE_ID:
-        return []
+        return [], "error: missing API key or engine id"
     cache_key = f"google_cse::{query}::{num}"
     cached = _cache_read(cache_key)
     if cached is not None:
-        return cached
+        return cached, f"cached {len(cached)} result(s)"
     params = {
         "key": GOOGLE_CSE_API_KEY,
         "cx": GOOGLE_CSE_ENGINE_ID,
@@ -426,8 +444,9 @@ def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dic
         response.raise_for_status()
         data = response.json()
     except Exception as exc:
-        log_status(f"Google Custom Search failed for '{query}': {exc}")
-        return []
+        message = _sanitize_message(str(exc))
+        log_status(f"Google Custom Search failed for '{query}': {message}")
+        return [], f"error: {message}"
     items: List[Dict[str, Any]] = []
     for item in data.get("items", [])[:num]:
         items.append(
@@ -439,16 +458,16 @@ def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dic
             }
         )
     _cache_write(cache_key, items)
-    return items
+    return items, f"{len(items)} result(s)"
 
 
-def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[str, Any]], str]:
     if not NEWSAPI_KEY:
-        return []
+        return [], "error: missing API key"
     cache_key = f"newsapi::{query}::{num}"
     cached = _cache_read(cache_key)
     if cached is not None:
-        return cached
+        return cached, f"cached {len(cached)} result(s)"
     params = {
         "q": query,
         "pageSize": num,
@@ -469,8 +488,9 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str,
         response.raise_for_status()
         data = response.json()
     except Exception as exc:
-        log_status(f"NewsAPI search failed for '{query}': {exc}")
-        return []
+        message = _sanitize_message(str(exc))
+        log_status(f"NewsAPI search failed for '{query}': {message}")
+        return [], f"error: {message}"
     articles: List[Dict[str, Any]] = []
     for article in data.get("articles", [])[:num]:
         articles.append(
@@ -483,16 +503,16 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str,
             }
         )
     _cache_write(cache_key, articles)
-    return articles
+    return articles, f"{len(articles)} result(s)"
 
 
-def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[str, Any]], str]:
     if not GNEWS_API_KEY:
-        return []
+        return [], "error: missing API token"
     cache_key = f"gnews::{query}::{num}"
     cached = _cache_read(cache_key)
     if cached is not None:
-        return cached
+        return cached, f"cached {len(cached)} result(s)"
     params = {
         "q": query,
         "lang": "en",
@@ -507,8 +527,9 @@ def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, A
         response.raise_for_status()
         data = response.json()
     except Exception as exc:
-        log_status(f"GNews search failed for '{query}': {exc}")
-        return []
+        message = _sanitize_message(str(exc))
+        log_status(f"GNews search failed for '{query}': {message}")
+        return [], f"error: {message}"
     articles: List[Dict[str, Any]] = []
     for article in data.get("articles", [])[:num]:
         source_info = article.get("source") or {}
@@ -522,16 +543,16 @@ def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, A
             }
         )
     _cache_write(cache_key, articles)
-    return articles
+    return articles, f"{len(articles)} result(s)"
 
 
-def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str, Any]]:
+def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[str, Any]], str]:
     if not GUARDIAN_API_KEY:
-        return []
+        return [], "error: missing API key"
     cache_key = f"guardian::{query}::{num}"
     cached = _cache_read(cache_key)
     if cached is not None:
-        return cached
+        return cached, f"cached {len(cached)} result(s)"
     params = {
         "q": query,
         "api-key": GUARDIAN_API_KEY,
@@ -547,8 +568,9 @@ def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str
         response.raise_for_status()
         data = response.json()
     except Exception as exc:
-        log_status(f"Guardian search failed for '{query}': {exc}")
-        return []
+        message = _sanitize_message(str(exc))
+        log_status(f"Guardian search failed for '{query}': {message}")
+        return [], f"error: {message}"
     response_payload = data.get("response") or {}
     results = response_payload.get("results") or []
     articles: List[Dict[str, Any]] = []
@@ -564,28 +586,32 @@ def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> List[Dict[str
             }
         )
     _cache_write(cache_key, articles)
-    return articles
+    return articles, f"{len(articles)} result(s)"
 
 
-def _run_search_with_priority(query: str, providers: Sequence[str]) -> Tuple[List[Dict[str, Any]], Optional[str], List[Tuple[str, int]]]:
-    attempts: List[Tuple[str, int]] = []
+def _run_search_with_priority(
+    query: str, providers: Sequence[str]
+) -> Tuple[List[Dict[str, Any]], Optional[str], List[Tuple[str, str]]]:
+    attempts: List[Tuple[str, str]] = []
     for provider in providers:
         provider_lower = provider.lower()
         if provider_lower == "google_custom_search":
-            results = _google_custom_search(query)
+            results, status = _google_custom_search(query)
         elif provider_lower == "newsapi":
-            results = _newsapi_search(query)
+            results, status = _newsapi_search(query)
         elif provider_lower == "gnews":
-            results = _gnews_search(query)
+            results, status = _gnews_search(query)
         elif provider_lower == "guardian":
-            results = _guardian_search(query)
+            results, status = _guardian_search(query)
         else:
+            status = "error: unknown provider"
             log_status(f"Unknown search provider '{provider}' for query '{query}'")
             results = []
-        attempts.append((provider_lower, len(results)))
+        attempts.append((provider_lower, status))
         if results:
             return results, provider_lower, attempts
-    return [], providers[-1].lower() if providers else None, attempts
+    fallback_provider = providers[-1].lower() if providers else None
+    return [], fallback_provider, attempts
 
 
 def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[Dict[str, Any]]]:
@@ -626,8 +652,8 @@ def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[D
         priority_chain = SEARCH_PROVIDER_PRIORITY.get(provider_lower, [provider_lower])
         log_status(f"  {provider_lower} search -> {query} (priority: {', '.join(priority_chain)})")
         data, provider_used, attempts = _run_search_with_priority(query, priority_chain)
-        for attempt_provider, result_count in attempts:
-            log_status(f"    {attempt_provider}: {result_count} results")
+        for attempt_provider, attempt_status in attempts:
+            log_status(f"    {attempt_provider}: {attempt_status}")
         results[provider_lower].append(
             {
                 "query": query,
@@ -1699,6 +1725,9 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
     quick_facts = build_quick_facts(snapshot, histories, financial_metrics, prompt_config)
     log_status("Collecting latest headlines (massive.com)...")
     news_items = fetch_massive_news(ticker, massive_api_key)
+    massive_news_note: Optional[str] = None
+    if not massive_api_key:
+        massive_news_note = "headlines skipped (missing API key)"
     if news_items:
         log_status(f"  massive.com returned {len(news_items)} headlines")
         news_source = "massive.com"
@@ -1707,6 +1736,8 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         news_items = collect_news(ticker_obj)
         log_status(f"  yfinance returned {len(news_items)} headlines")
         news_source = "yfinance"
+        if massive_api_key and massive_news_note is None:
+            massive_news_note = "headlines (none)"
     log_status("Running supplementary searches...")
     search_results = _execute_search_tasks(ticker, prompt_config)
     volume_metrics = evaluate_volume_label(snapshot)
@@ -1725,43 +1756,62 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         ],
     }
 
-    data_sources: List[str] = []
-    data_sources.append(f"Prices & technicals: {price_source}")
+    source_notes: Dict[str, List[str]] = defaultdict(list)
+
+    def add_source_note(source: Optional[str], description: str) -> None:
+        if not source:
+            source = "unknown"
+        notes = source_notes[source]
+        if description not in notes:
+            notes.append(description)
+
+    add_source_note(price_source, "prices & technicals")
     if massive_profile:
-        data_sources.append("Company profile & branding: massive.com")
+        add_source_note("massive.com", "company profile & branding")
     else:
-        data_sources.append("Company profile: yfinance")
-    data_sources.append("Fundamentals: yfinance")
-    data_sources.append(f"Earnings calendar: {earnings_calendar_source}")
+        add_source_note("yfinance", "company profile")
+    add_source_note("yfinance", "fundamentals")
+    add_source_note(earnings_calendar_source, "earnings calendar")
     if indicator_payloads or open_close_snapshot or previous_close_snapshot:
-        data_sources.append("Technical indicators: massive.com")
-    data_sources.append(f"Headlines: {news_source}")
+        add_source_note("massive.com", "technical indicators")
+    headlines_note = (
+        f"headlines ({len(news_items)} items)" if news_items else "headlines (none)"
+    )
+    add_source_note(news_source, headlines_note)
+    if massive_news_note and news_source != "massive.com":
+        add_source_note("massive.com", massive_news_note)
+
     provider_labels = {
         "google_custom_search": "Google Custom Search",
         "newsapi": "NewsAPI.org",
         "gnews": "GNews",
         "guardian": "The Guardian",
     }
-    for provider, provider_results in search_results.items():
-        label = provider_labels.get(provider, provider)
-        any_results = False
-        fallback_used: set[str] = set()
+
+    for provider_results in search_results.values():
         for entry in provider_results:
-            entry_results = entry.get("results") or []
-            provider_used = entry.get("provider_used")
-            if entry_results:
-                any_results = True
-            if provider_used and provider_used != provider:
-                fallback_used.add(provider_labels.get(provider_used, provider_used))
-        if any_results:
-            if fallback_used:
-                data_sources.append(
-                    f"Supplementary search: {label} (fallback: {', '.join(sorted(fallback_used))})"
-                )
-            else:
-                data_sources.append(f"Supplementary search: {label}")
-        else:
-            data_sources.append(f"Supplementary search: {label} (no results)")
+            query = (entry.get("query") or "").strip()
+            attempts = entry.get("attempts") or []
+            for attempt_provider, attempt_status in attempts:
+                friendly = provider_labels.get(attempt_provider, attempt_provider)
+                note = f"{query} ({attempt_status})" if query else attempt_status
+                add_source_note(friendly, note)
+
+    data_sources: List[str] = []
+    source_order = [
+        "massive.com",
+        "yfinance",
+        "Google Custom Search",
+        "NewsAPI.org",
+        "GNews",
+        "The Guardian",
+    ]
+    remaining_sources = [source for source in source_notes.keys() if source not in source_order]
+    for source in source_order + sorted(remaining_sources):
+        notes = source_notes.get(source)
+        if not notes:
+            continue
+        data_sources.append(f"{source}: {', '.join(notes)}")
 
     return {
         "ticker": ticker.upper(),
