@@ -9,7 +9,6 @@ const state = {
 const elements = {
   links: document.querySelector('#reportLinks'),
   rerun: document.querySelector('#rerunLink'),
-  newLink: document.querySelector('#newLink'),
   content: document.querySelector('#reportContent'),
   status: document.querySelector('#statusMessage'),
 };
@@ -65,35 +64,6 @@ function formatDateLabel(isoDate) {
   }
 }
 
-function buildActionUrl(ticker, force = false) {
-  if (!state.workflowUrl) return '#';
-  const url = new URL(state.workflowUrl, window.location.origin);
-  if (!state.workflowUrl.startsWith('http')) {
-    return '#';
-  }
-  url.searchParams.set('inputs[ticker]', ticker);
-  if (force) {
-    url.searchParams.set('inputs[force]', 'true');
-  }
-  return url.toString();
-}
-
-function updateButtons(report) {
-  if (!report) {
-    elements.rerun.setAttribute('aria-disabled', 'true');
-    elements.rerun.dataset.disabled = 'true';
-    elements.rerun.removeAttribute('href');
-    elements.rerun.setAttribute('tabindex', '-1');
-    delete elements.rerun.dataset.ticker;
-    return;
-  }
-  elements.rerun.removeAttribute('aria-disabled');
-  delete elements.rerun.dataset.disabled;
-  elements.rerun.href = buildActionUrl(report.ticker, true);
-  elements.rerun.removeAttribute('tabindex');
-  elements.rerun.dataset.ticker = report.ticker;
-}
-
 function renderMarkdown(markdown) {
   if (window.marked && typeof window.marked.parse === 'function') {
     elements.content.innerHTML = window.marked.parse(markdown);
@@ -126,7 +96,6 @@ function clearSelection(preserveStatus = false) {
   state.activeIndex = null;
   clearStoredSelection();
   state.linkElements.forEach((link) => delete link.dataset.active);
-  updateButtons(null);
   if (!preserveStatus) {
     elements.status.textContent = '';
   }
@@ -178,7 +147,6 @@ function showReport(index) {
   state.activeIndex = index;
   storeActiveSelection(index, report.ticker || '');
   highlightActiveLink();
-  updateButtons(report);
   renderReport(report);
 }
 
@@ -353,11 +321,39 @@ async function loadReports() {
   }
 }
 
-elements.rerun?.addEventListener('click', (event) => {
-  const href = event.currentTarget.getAttribute('href');
-  if (!href || href === '#') {
-    event.preventDefault();
+function configureWorkflowLink() {
+  const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
+  if (!elements.rerun) {
+    return;
   }
+  if (url) {
+    elements.rerun.href = url;
+    elements.rerun.removeAttribute('aria-disabled');
+    delete elements.rerun.dataset.disabled;
+    elements.rerun.removeAttribute('tabindex');
+  } else {
+    elements.rerun.href = '#';
+    elements.rerun.setAttribute('aria-disabled', 'true');
+    elements.rerun.dataset.disabled = 'true';
+    elements.rerun.setAttribute('tabindex', '-1');
+  }
+}
+
+elements.rerun?.addEventListener('click', (event) => {
+  const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
+  if (!url) {
+    event.preventDefault();
+    alert('Workflow URL is not configured. Update _config.yml with your repository name.');
+    return;
+  }
+  if (event.defaultPrevented) {
+    return;
+  }
+  if (event.button === 1 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+    return;
+  }
+  event.preventDefault();
+  window.open(url, '_blank', 'noopener');
 });
 
 function updateSortLinkIndicators() {
@@ -395,16 +391,6 @@ function initializeSortOrder() {
   setSortOrder(restoredOrder || state.sortOrder);
 }
 
-elements.newLink?.addEventListener('click', (event) => {
-  event.preventDefault();
-  const url = (state.workflowUrl && state.workflowUrl.startsWith('http')) ? state.workflowUrl : '#';
-  if (url === '#') {
-    alert('Workflow URL is not configured. Update _config.yml with your repository name.');
-    return;
-  }
-  window.open(url, '_blank', 'noopener');
-});
-
 sortLinks.forEach((link) => {
   link.addEventListener('click', (event) => {
     event.preventDefault();
@@ -412,6 +398,6 @@ sortLinks.forEach((link) => {
   });
 });
 
-updateButtons(null);
+configureWorkflowLink();
 initializeSortOrder();
 loadReports();
