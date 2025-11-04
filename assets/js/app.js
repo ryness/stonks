@@ -151,10 +151,14 @@ function showReport(index) {
 }
 
 function getDateValue(report) {
-  if (!report || !report.date) {
+  if (!report) {
     return null;
   }
-  const timestamp = new Date(report.date).getTime();
+  const raw = report.generated_at || report.date;
+  if (!raw) {
+    return null;
+  }
+  const timestamp = new Date(raw).getTime();
   return Number.isNaN(timestamp) ? null : timestamp;
 }
 
