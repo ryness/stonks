@@ -87,6 +87,12 @@ label {
   margin-top: 0;
 }
 
+#reportContent img[alt$="logo"] {
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}
+
 #reportContent h1,
 #reportContent h2,
 #reportContent h3,
