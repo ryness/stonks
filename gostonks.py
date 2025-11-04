@@ -1783,7 +1783,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
 
     provider_labels = {
         "google_custom_search": "Google Custom Search",
-        "newsapi": "NewsAPI.org",
+        "newsapi": "NewsAPI",
         "gnews": "GNews",
         "guardian": "The Guardian",
     }
@@ -1792,17 +1792,29 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         for entry in provider_results:
             query = (entry.get("query") or "").strip()
             attempts = entry.get("attempts") or []
+            results = entry.get("results") or []
+            provider_used = entry.get("provider_used")
             for attempt_provider, attempt_status in attempts:
                 friendly = provider_labels.get(attempt_provider, attempt_provider)
-                note = f"{query} ({attempt_status})" if query else attempt_status
-                add_source_note(friendly, note)
+                status_lower = (attempt_status or "").lower()
+                is_success = bool(results and attempt_provider == provider_used and not status_lower.startswith("error"))
+                is_error = (
+                    status_lower.startswith("error")
+                    or "missing" in status_lower
+                    or "failed" in status_lower
+                    or "0 result" in status_lower
+                )
+                label = query or "(unspecified query)"
+                if is_error or (not results and attempt_provider == provider_used and not is_success):
+                    label = f"{label}*"
+                add_source_note(friendly, label)
 
     data_sources: List[str] = []
     source_order = [
         "massive.com",
         "yfinance",
         "Google Custom Search",
-        "NewsAPI.org",
+        "NewsAPI",
         "GNews",
         "The Guardian",
     ]
