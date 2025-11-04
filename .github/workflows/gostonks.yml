@@ -24,6 +24,8 @@ jobs:
       GOOGLE_CSE_ENGINE_ID: ${{ secrets.GOOGLE_CSE_ENGINE_ID }}
       NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       MASSIVE_API_KEY: ${{ secrets.MASSIVE_API_KEY }}
+      GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+      GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
