@@ -166,6 +166,63 @@ def discover_tickers() -> List[str]:
     return sorted(tickers)
 
 
+def _parse_iso_datetime(value: Any) -> Optional[dt.datetime]:
+    """Return an aware datetime parsed from a supported representation."""
+
+    if isinstance(value, dt.datetime):
+        candidate = value
+    elif isinstance(value, (int, float)):
+        return dt.datetime.fromtimestamp(float(value), tz=dt.timezone.utc)
+    elif isinstance(value, str):
+        text = value.strip()
+        if not text:
+            return None
+        normalized = text.replace("Z", "+00:00")
+        try:
+            candidate = dt.datetime.fromisoformat(normalized)
+        except ValueError:
+            try:
+                candidate = dt.datetime.strptime(text, "%Y-%m-%d")
+            except ValueError:
+                return None
+    else:
+        return None
+    if candidate.tzinfo is None:
+        candidate = candidate.replace(tzinfo=dt.timezone.utc)
+    return candidate
+
+
+def _load_report_front_matter(ticker: str) -> Optional[Mapping[str, Any]]:
+    path = REPORTS_DIR / f"{ticker}.md"
+    try:
+        raw_text = path.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        return None
+    lines = raw_text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return None
+    for idx, line in enumerate(lines[1:], start=1):
+        if line.strip() == "---":
+            front_matter_text = "\n".join(lines[1:idx])
+            try:
+                data = yaml.safe_load(front_matter_text) or {}
+            except Exception:
+                return None
+            return data if isinstance(data, Mapping) else None
+    return None
+
+
+def _report_generated_timestamp(ticker: str) -> Optional[float]:
+    metadata = _load_report_front_matter(ticker)
+    if isinstance(metadata, Mapping):
+        for key in ("generated_at", "generated", "date"):
+            if key in metadata:
+                dt_value = _parse_iso_datetime(metadata[key])
+                if dt_value is not None:
+                    return dt_value.timestamp()
+    return None
+
+
 def _load_cycle_state() -> Dict[str, Any]:
     if not STATE_FILE.exists():
         return {}
@@ -188,16 +245,19 @@ def select_next_ticker() -> str:
             "No reports found in _reports/. Add at least one report before using --cycle."
         )
 
-    def modified_time(ticker: str) -> float:
-        path = REPORTS_DIR / f"{ticker}.md"
-        try:
-            return path.stat().st_mtime
-        except FileNotFoundError:
-            return float("-inf")  # Prioritize missing reports.
-        except OSError:
-            return float("inf")  # Deprioritize if metadata unavailable.
+    def recency_key(ticker: str) -> Tuple[float, str]:
+        timestamp = _report_generated_timestamp(ticker)
+        if timestamp is None:
+            path = REPORTS_DIR / f"{ticker}.md"
+            try:
+                timestamp = path.stat().st_mtime
+            except FileNotFoundError:
+                timestamp = float("-inf")
+            except OSError:
+                timestamp = float("inf")
+        return (timestamp, ticker)
 
-    return min(tickers, key=lambda ticker: (modified_time(ticker), ticker))
+    return min(tickers, key=recency_key)
 
 
 def update_cycle_state(ticker: str) -> None:
