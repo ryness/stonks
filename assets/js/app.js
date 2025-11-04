@@ -8,6 +8,7 @@ const state = {
 
 const elements = {
   links: document.querySelector('#reportLinks'),
+  refresh: document.querySelector('#refreshLink'),
   rerun: document.querySelector('#rerunLink'),
   content: document.querySelector('#reportContent'),
   status: document.querySelector('#statusMessage'),
@@ -264,10 +265,17 @@ function populateLinks(reports) {
   highlightActiveLink();
 }
 
-async function loadReports() {
+async function loadReports({ bustCache = false } = {}) {
   try {
     elements.status.textContent = 'Loading reports...';
-    const response = await fetch(`${window.__baseUrl || ''}/reports.json`);
+    const baseUrl = window.__baseUrl || '';
+    const reportsUrl = `${baseUrl}/reports.json`;
+    const requestUrl = bustCache
+      ? `${reportsUrl}${reportsUrl.includes('?') ? '&' : '?'}_=${Date.now()}`
+      : reportsUrl;
+    const response = await fetch(requestUrl, {
+      cache: bustCache ? 'reload' : 'default',
+    });
     if (!response.ok) {
       throw new Error(`Failed to load reports.json (${response.status})`);
     }
@@ -358,6 +366,11 @@ elements.rerun?.addEventListener('click', (event) => {
   }
   event.preventDefault();
   window.open(url, '_blank', 'noopener');
+});
+
+elements.refresh?.addEventListener('click', (event) => {
+  event.preventDefault();
+  loadReports({ bustCache: true });
 });
 
 function updateSortLinkIndicators() {
