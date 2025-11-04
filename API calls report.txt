@@ -1,0 +1,17 @@
+API Call Counts
+
+massive.com – 10 requests on a normal run: price history /v2/aggs… (1), latest session /v1/open-close (1), previous close /v2/…/prev (1), indicators SMA/EMA/MACD/RSI (4), Benzinga earnings /benzinga/v1/earnings (1), company profile /v3/reference/tickers (1), related companies /v1/related-companies (1), news /v2/reference/news (1); plus an extra logo download the first time a ticker’s image is cached.
+
+yfinance – 4 baseline calls (the .info payload, .quarterly_financials, .get_earnings_dates, and .news). If the massive price fetch fails, four additional .history calls are made for 1 mo/3 mo/1 yr/5 yr windows.
+
+OpenAI – 1 responses.create call to GPT‑5.
+
+Google Custom Search – 12 distinct queries per report (2 each for section 1 bullets, 2 section-level context queries, plus 2 more inside section 4); cached results short-circuit repeats.
+
+NewsAPI – 8 direct queries (one per newsapi search listed in the prompt); extra calls occur only when a Google query falls back.
+
+GNews – only queried when both Google CSE and NewsAPI return no data for a task; it mirrors the failing query count (including cached responses).
+
+The Guardian – only hit if the entire Google → NewsAPI → GNews chain fails; likewise matches the number of unresolved queries.
+
+Assets/logos CDN – 1 GET for the logo file the first time a ticker is processed (subsequent runs reuse the cached file).
