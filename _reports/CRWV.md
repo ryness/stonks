@@ -3,45 +3,45 @@ layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
 date: 2025-11-04
-generated_at: 2025-11-04T03:37:16.707384+00:00
-runtime_seconds: 92.54
+generated_at: 2025-11-04T15:24:36.482521+00:00
+runtime_seconds: 109.41
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-04T03:37:16.707384+00:00">2025-11-04 03:37 UTC</time> (runtime 1m 33s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-04T15:24:36.482521+00:00">2025-11-04 15:24 UTC</time> (runtime 1m 49s)
   
   ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform—proprietary software and cloud services that automate and manage complex AI infrastructure at scale. It provides specialized GPU computing to support training and deployment of cutting-edge models and power next-generation AI applications.
+  1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform—proprietary software and GPU/CPU cloud services—to automate and run complex AI infrastructure at scale. Its products include GPU compute, CPU compute, and storage services that support training and serving next-generation AI models and applications.
   
-  1.2. **Profitable?:** No — it is not profitable, with negative net income (Last Q4: -$1.02B) and a -28.8% profit margin; coverage cites potential profitability by late 2026/early 2027.
+  1.2. **Profitable?:** No—CoreWeave is loss-making with a negative profit margin (-28.8%) and cumulative net losses (~$1.02B), with coverage citing a potential path to profitability by late 2026/early 2027.
   
-  1.3. **Customer & Markets:** Primary customers are organizations building and deploying AI models and applications that require high-performance compute. It serves the AI infrastructure/cloud market from the United States with global reach for AI workloads.
+  1.3. **Customer & Markets:** Primary customers are large AI and hyperscale users (e.g., Microsoft and Meta cited by analysts) needing high-performance GPU cloud for training and inference. Markets span AI infrastructure and data-center workloads supporting next‑gen AI applications across the globe, with operations based in the United States.
   
-  1.4. **Competition:** Competitors include Nvidia (AI/GPU compute ecosystem), Microsoft (Azure/AI cloud), and Meta (AI infrastructure). CoreWeave is a specialized AI infrastructure provider alongside these larger players.
+  1.4. **Competition:** Competitors include major AI/cloud players such as NVIDIA, Microsoft, and Meta, alongside other software infrastructure peers. CoreWeave positions as a specialized AI cloud; specific market share rankings are not disclosed.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down; price closed 126.32 below the 20-DMA (133.76) and nearer 7d support (125.88) than resistance (141.79).
+  2.1. **7d Trend?:** down — shares slipped from a local high near 138.36 and the latest close 121.81 sits below the 20‑DMA (133.41) and near 7‑day support 118.43.
   
-  2.2. **7d Buy/Sell Points?:** Buys looked better near 125.88–130.41 (7d support/suggested buy zone), while sells were near 138.36–141.79 (local high/7d resistance).
+  2.2. **7d Buy/Sell Points?:** Good buys were near support around 118.43–130.41, while rallies toward 138.36 and up to 141.79 were favorable sell/trim zones.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** CoreWeave is a U.S.-based technology company focused on AI infrastructure. It is currently loss-making (profit margin -28.8% and Last Q4 at -$1.02B), which adds risk. However, operating cash flow is positive ($637.9M), indicating meaningful operating scale despite heavy investment. Volatility is high, so overall stability appears moderate rather than firmly established.
+  3.1. **Stability?:** Founded in 2017 and publicly listed on Nasdaq in March 2025, CoreWeave is young but rapidly scaling. It remains unprofitable (cumulative net loss about $1.02B, margin -28.8%) yet generated positive operating cash flow of $637.9M, indicating improving cash generation. The business targets mission-critical AI workloads, but capital intensity and recent IPO status add execution and funding risk. Overall it is more established than a fly‑by‑night startup, though still in a build‑out phase.
   
-  3.2. **Innovating?:** Yes—its platform targets complex AI infrastructure and next‑gen models, and revenue growth is strong (about 206.7%), with coverage highlighting rapid AI data center expansion.
+  3.2. **Innovating?:** Innovating and growing—revenue growth is strong (about 206% YoY) and the platform underpins development and deployment of ground‑breaking AI models and applications.
   
   ## 4. Context
   
-  4.1. **News:** Recent articles positioned CoreWeave as an AI infrastructure stock to buy and even one that could potentially triple, reflecting bullish sentiment. An Investing.com piece noted insider selling and short interest driving volatility but maintained a strong growth outlook, with potential profitability by late 2026/early 2027. Sector peers like Applied Digital also showed big moves and insider sales, underscoring momentum and churn in AI data centers. Given the hype and volatility, caution fits the ‘buy the rumor, sell the news’ lens, though quick facts flag ‘no’ for both buy-the-rumor and sell-the-news.
+  4.1. **News:** Coverage names CoreWeave among AI infrastructure stocks to buy and suggests it could potentially triple, while an Evercore ISI note reiterated Outperform with a $175 target. Investing.com reported insider selling and short interest driving volatility but cited potential profitability by late 2026/early 2027. Headlines also referenced its Core Scientific bid, with the CEO later saying a rejected offer came down to price. With bullish projections and deal chatter, buy‑the‑rumor/sell‑the‑news risk may rise around positive headlines.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariff headlines have weighed on CRWV, with tech stocks including CoreWeave selling off and the stock extending losses on tariff news days; the impact appears sentiment-driven rather than operational. Overall effect: negative for near-term stock performance when tariff fears spike.
   
   ## 5. QuickRef
   
@@ -50,9 +50,9 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-1.02B</td></tr>
-  <tr><td>Price</td><td>126.32</td></tr>
+  <tr><td>Price</td><td>121.81</td></tr>
   <tr><td>7d Resistance</td><td>141.79</td></tr>
-  <tr><td>7d Support</td><td>125.88</td></tr>
+  <tr><td>7d Support</td><td>118.43</td></tr>
   <tr><td>30d Resistance</td><td>153.20</td></tr>
   <tr><td>30d Support</td><td>114.17</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
@@ -66,16 +66,20 @@ raw_markdown: |
   </div>
   
   
-  **Sources**
-  - massive.com: company profile & branding, technical indicators, headlines (5 items)
-  - yfinance: prices & technicals, fundamentals, earnings calendar
-  - Google Custom Search: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*
-  - NewsAPI: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
-  - GNews: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
-  - The Guardian: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
+  <div class="sources-list">
+  <strong>Sources</strong>
+  <ul>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: competitive landscape, rumor</li>
+  </ul>
+  </div>
+  
   
   <details class="cli-log">
-  <summary>Show generation log</summary>
+  <summary>Show generation log^</summary>
   <pre><code>
   Gathering context for CRWV...
   Gathering market data...
@@ -84,8 +88,8 @@ raw_markdown: |
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-04?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-04?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -120,160 +124,72 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
-  Google Custom Search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; CRWV product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
-  Google Custom Search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; CRWV market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
-  Google Custom Search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; CRWV market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
-  Google Custom Search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
-  Google Custom Search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; CRWV tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; CRWV latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; CRWV tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -295,42 +211,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-04T03:37:16.707384+00:00">2025-11-04 03:37 UTC</time> (runtime 1m 33s)
+**Generated:** <time class="js-local-time" datetime="2025-11-04T15:24:36.482521+00:00">2025-11-04 15:24 UTC</time> (runtime 1m 49s)
 
 ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform—proprietary software and cloud services that automate and manage complex AI infrastructure at scale. It provides specialized GPU computing to support training and deployment of cutting-edge models and power next-generation AI applications.
+1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform—proprietary software and GPU/CPU cloud services—to automate and run complex AI infrastructure at scale. Its products include GPU compute, CPU compute, and storage services that support training and serving next-generation AI models and applications.
 
-1.2. **Profitable?:** No — it is not profitable, with negative net income (Last Q4: -$1.02B) and a -28.8% profit margin; coverage cites potential profitability by late 2026/early 2027.
+1.2. **Profitable?:** No—CoreWeave is loss-making with a negative profit margin (-28.8%) and cumulative net losses (~$1.02B), with coverage citing a potential path to profitability by late 2026/early 2027.
 
-1.3. **Customer & Markets:** Primary customers are organizations building and deploying AI models and applications that require high-performance compute. It serves the AI infrastructure/cloud market from the United States with global reach for AI workloads.
+1.3. **Customer & Markets:** Primary customers are large AI and hyperscale users (e.g., Microsoft and Meta cited by analysts) needing high-performance GPU cloud for training and inference. Markets span AI infrastructure and data-center workloads supporting next‑gen AI applications across the globe, with operations based in the United States.
 
-1.4. **Competition:** Competitors include Nvidia (AI/GPU compute ecosystem), Microsoft (Azure/AI cloud), and Meta (AI infrastructure). CoreWeave is a specialized AI infrastructure provider alongside these larger players.
+1.4. **Competition:** Competitors include major AI/cloud players such as NVIDIA, Microsoft, and Meta, alongside other software infrastructure peers. CoreWeave positions as a specialized AI cloud; specific market share rankings are not disclosed.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down; price closed 126.32 below the 20-DMA (133.76) and nearer 7d support (125.88) than resistance (141.79).
+2.1. **7d Trend?:** down — shares slipped from a local high near 138.36 and the latest close 121.81 sits below the 20‑DMA (133.41) and near 7‑day support 118.43.
 
-2.2. **7d Buy/Sell Points?:** Buys looked better near 125.88–130.41 (7d support/suggested buy zone), while sells were near 138.36–141.79 (local high/7d resistance).
+2.2. **7d Buy/Sell Points?:** Good buys were near support around 118.43–130.41, while rallies toward 138.36 and up to 141.79 were favorable sell/trim zones.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** CoreWeave is a U.S.-based technology company focused on AI infrastructure. It is currently loss-making (profit margin -28.8% and Last Q4 at -$1.02B), which adds risk. However, operating cash flow is positive ($637.9M), indicating meaningful operating scale despite heavy investment. Volatility is high, so overall stability appears moderate rather than firmly established.
+3.1. **Stability?:** Founded in 2017 and publicly listed on Nasdaq in March 2025, CoreWeave is young but rapidly scaling. It remains unprofitable (cumulative net loss about $1.02B, margin -28.8%) yet generated positive operating cash flow of $637.9M, indicating improving cash generation. The business targets mission-critical AI workloads, but capital intensity and recent IPO status add execution and funding risk. Overall it is more established than a fly‑by‑night startup, though still in a build‑out phase.
 
-3.2. **Innovating?:** Yes—its platform targets complex AI infrastructure and next‑gen models, and revenue growth is strong (about 206.7%), with coverage highlighting rapid AI data center expansion.
+3.2. **Innovating?:** Innovating and growing—revenue growth is strong (about 206% YoY) and the platform underpins development and deployment of ground‑breaking AI models and applications.
 
 ## 4. Context
 
-4.1. **News:** Recent articles positioned CoreWeave as an AI infrastructure stock to buy and even one that could potentially triple, reflecting bullish sentiment. An Investing.com piece noted insider selling and short interest driving volatility but maintained a strong growth outlook, with potential profitability by late 2026/early 2027. Sector peers like Applied Digital also showed big moves and insider sales, underscoring momentum and churn in AI data centers. Given the hype and volatility, caution fits the ‘buy the rumor, sell the news’ lens, though quick facts flag ‘no’ for both buy-the-rumor and sell-the-news.
+4.1. **News:** Coverage names CoreWeave among AI infrastructure stocks to buy and suggests it could potentially triple, while an Evercore ISI note reiterated Outperform with a $175 target. Investing.com reported insider selling and short interest driving volatility but cited potential profitability by late 2026/early 2027. Headlines also referenced its Core Scientific bid, with the CEO later saying a rejected offer came down to price. With bullish projections and deal chatter, buy‑the‑rumor/sell‑the‑news risk may rise around positive headlines.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariff headlines have weighed on CRWV, with tech stocks including CoreWeave selling off and the stock extending losses on tariff news days; the impact appears sentiment-driven rather than operational. Overall effect: negative for near-term stock performance when tariff fears spike.
 
 ## 5. QuickRef
 
@@ -339,9 +255,9 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-1.02B</td></tr>
-<tr><td>Price</td><td>126.32</td></tr>
+<tr><td>Price</td><td>121.81</td></tr>
 <tr><td>7d Resistance</td><td>141.79</td></tr>
-<tr><td>7d Support</td><td>125.88</td></tr>
+<tr><td>7d Support</td><td>118.43</td></tr>
 <tr><td>30d Resistance</td><td>153.20</td></tr>
 <tr><td>30d Support</td><td>114.17</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
@@ -355,16 +271,20 @@ raw_markdown: |
 </div>
 
 
-**Sources**
-- massive.com: company profile & branding, technical indicators, headlines (5 items)
-- yfinance: prices & technicals, fundamentals, earnings calendar
-- Google Custom Search: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*
-- NewsAPI: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
-- GNews: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
-- The Guardian: CRWV core business*, CRWV product portfolio*, CRWV profitability*, CRWV earnings trend*, CRWV target customers*, CRWV market segments*, CRWV competitors*, CRWV market share*, CRWV rumors*, CRWV tariffs news*, CRWV latest rumor*, CRWV tariff impact*, CRWV business model*, CRWV profit outlook*, CRWV market expansion*, CRWV competitive landscape*, CRWV rumor*, CRWV tariff*, CRWV latest news*, CRWV tariffs*
+<div class="sources-list">
+<strong>Sources</strong>
+<ul>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: competitive landscape, rumor</li>
+</ul>
+</div>
+
 
 <details class="cli-log">
-<summary>Show generation log</summary>
+<summary>Show generation log^</summary>
 <pre><code>
 Gathering context for CRWV...
 Gathering market data...
@@ -373,8 +293,8 @@ Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/tick
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-03?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-04?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-04?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -409,160 +329,72 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
-Google Custom Search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; CRWV product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
-Google Custom Search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
-Google Custom Search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; CRWV market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
-Google Custom Search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
-Google Custom Search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; CRWV market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
-Google Custom Search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
-Google Custom Search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; CRWV tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; CRWV latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; CRWV tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;CRWV tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
