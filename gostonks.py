@@ -1895,9 +1895,12 @@ def format_report(
     if cli_log:
         log_block = "\n".join(html.escape(entry) for entry in cli_log)
         lines.append("")
-        lines.append("<div class=\"cli-log\"><pre><code>")
+        lines.append("<details class=\"cli-log\">")
+        lines.append("<summary>Show generation log</summary>")
+        lines.append("<pre><code>")
         lines.append(log_block)
-        lines.append("</code></pre></div>")
+        lines.append("</code></pre>")
+        lines.append("</details>")
     return "\n".join(lines).strip()
 
 
