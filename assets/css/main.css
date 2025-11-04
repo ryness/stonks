@@ -12,7 +12,8 @@ footer {
 }
 
 main {
-  max-width: 70ch;
+  width: 100%;
+  max-width: none;
 }
 
 label {
@@ -83,6 +84,10 @@ label {
   margin-left: 0.25rem;
 }
 
+#reportContent {
+  width: 100%;
+}
+
 #reportContent > *:first-child {
   margin-top: 0;
 }
@@ -90,6 +95,7 @@ label {
 #reportContent img[alt$="logo"] {
   max-height: 100px;
   width: auto;
+  max-width: 100%;
   height: auto;
 }
 
@@ -134,6 +140,9 @@ label {
   background: #f5f5f5;
   padding: 0.75rem;
   overflow: auto;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .cli-log {
@@ -155,11 +164,22 @@ label {
   padding: 0.75rem;
   border-radius: 6px;
   overflow-x: auto;
-  width: calc(100vw - 3rem);
-  max-width: none;
+  width: 100%;
+  max-width: 100%;
   margin: 0;
 }
 
 .cli-log code {
   font-family: ui-monospace, SFMono-Regular, SFMono, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.quickref-table {
+  max-width: 600px;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.quickref-table table {
+  width: 100%;
+  margin: 0;
 }

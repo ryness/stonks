@@ -2035,15 +2035,23 @@ def format_report(
 
         bullets = [prompt_config.bullets.get(num) for num in section.item_numbers]
         if bullets and all(bullet and bullet.role == "quick_fact" for bullet in bullets):
-            lines.append("| Metric | Answer |")
-            lines.append("| --- | --- |")
+            lines.append('<div class="quickref-table">')
+            lines.append("<table>")
+            lines.append("<thead><tr><th>Metric</th><th>Answer</th></tr></thead>")
+            lines.append("<tbody>")
             for bullet in bullets:
                 if bullet is None:
                     continue
                 row = quick_fact_lookup.get(bullet.number, {})
                 label_text = bullet.label or bullet.prompt or bullet.number
                 value_text = row.get("value", "unknown")
-                lines.append(f"| {label_text} | {value_text} |")
+                lines.append(
+                    "<tr><td>{label}</td><td>{value}</td></tr>".format(
+                        label=html.escape(label_text), value=html.escape(value_text)
+                    )
+                )
+            lines.append("</tbody></table>")
+            lines.append("</div>")
             lines.append("")
             continue
 
