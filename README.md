@@ -30,7 +30,7 @@ Pages now builds from GitHub Actions. In **Settings → Pages** set “Build and
 - uploads `_site/` as a Pages artifact, and
 - deploys with `actions/deploy-pages@v4`.
 
-Whenever `main` changes—or you run the workflow manually—the site is rebuilt and deployed without committing `_site/` back to the repo.
+Whenever `main` changes—or you run the workflow manually—the site is rebuilt and deployed without committing `_site/` back to the repo. A successful run of `gostonks.yml` also triggers this deployment automatically via a `workflow_run` hook.
 
 ### Scheduled rotation
 
