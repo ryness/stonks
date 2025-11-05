@@ -2,44 +2,44 @@
 layout: default
 title: "FI Stock Report"
 ticker: "FI"
-date: 2025-11-04
-generated_at: 2025-11-04T03:56:41.861137+00:00
-runtime_seconds: 68.73
+date: 2025-11-05
+generated_at: 2025-11-05T01:40:45.302891+00:00
+runtime_seconds: 90.32
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-04T03:56:41.861137+00:00">2025-11-04 03:56 UTC</time> (runtime 1m 9s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-05T01:40:45.302891+00:00">2025-11-05 01:40 UTC</time> (runtime 1m 30s)
   
   ![Fiserv, Inc. logo](https://ryness.github.io/stonks/assets/logos/FI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Fiserv provides core processing and complementary services, including electronic funds transfer, payment processing, and loan processing, to U.S. banks and credit unions with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also delivers payment processing services to merchants. About 10% of its revenue is generated internationally.
+  1.1. **Activities:** Fiserv provides core banking processing and complementary services—electronic funds transfer, payment processing, and loan processing—to U.S. banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also offers merchant payment processing, and about 10% of revenue is generated internationally.
   
-  1.2. **Profitable?:** Yes — it posts positive net income, a ~17% profit margin, and robust free and operating cash flow despite recent guidance cuts.
+  1.2. **Profitable?:** Yes—Fiserv is profitable, with positive net income (sum $3.379B), roughly 17% profit margin, and strong free cash flow ($4.19B), despite recent guidance cuts.
   
-  1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants via the First Data platform. Its markets are predominantly U.S. financial institutions and merchant acquiring, with roughly 10% of revenue from international markets.
+  1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants needing payment processing. Its markets are predominantly U.S.-focused, with about 10% of revenue from international markets.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** Competitors include Fidelity National Information Services (FIS) and business services/payroll firms like ADP and Paychex (per MarketBeat). Fiserv is a leading provider in core and payments, but specific market-share rankings are not provided.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price closed at 65.14 near 7d support (64.52) and far below the 20-day average (≈112.71) following a sharp post-earnings selloff.
+  2.1. **7d Trend?:** down — shares drifted toward support at 63.71 and closed 64.45, well below the 20-day average and far from recent highs.
   
-  2.2. **7d Buy/Sell Points?:** Buying near support around 64.52 looked favorable; selling into resistance near 128.78 was the key exit level. The recent 64.66–67.48 intraday range offered tactical entries/exits close to support after the gap down.
+  2.2. **7d Buy/Sell Points?:** Buys near 63.71–64.52 (support/suggested buy zone) were favorable; sells near 128.78 (resistance/suggested sell zone) were optimal exits.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Fiserv is a leading, established provider of banking and payments technology, bolstered by the 2019 First Data merger. It generates solid cash flows (operating cash flow ~$6.34B and free cash flow ~$4.19B) and maintains profitability with a ~17% margin. Earnings growth is strong while revenue growth is modest, suggesting resilience but slower top-line expansion. However, the recent stock plunge tied to weak Q3 results and leadership changes adds near-term execution risk.
+  3.1. **Stability?:** Fiserv is a leading provider of banking and payments technology, bolstered by its 2019 First Data merger. It generates substantial operating cash flow ($6.34B) and free cash flow ($4.19B) and has posted positive net income across recent periods. However, Q3 2025 disappointments, leadership changes, and a large shareholder value loss indicate elevated near-term risk. Overall, it remains a sizable incumbent with cash-generative operations, suggesting underlying stability despite current turbulence.
   
-  3.2. **Innovating?:** Mixed: earnings growth (~40%) indicates progress, but low revenue growth (~1%) and reduced guidance point to growth headwinds and a strategic recalibration.
+  3.2. **Innovating?:** Earnings growth is strong (~40%) but revenue growth is modest (~0.9%), and management is recalibrating after guidance cuts and leadership changes. This points to mixed momentum rather than clear innovation-led acceleration.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight a sharp selloff after disappointing Q3 results, lowered full-year targets, and leadership changes, with shares down roughly 30–47% and about $32B in value erased. Multiple law firms announced investigations following the miss and recalibration. Coverage emphasizes a major strategic overhaul amid revenue and earnings shortfalls. This was not a ‘buy the rumor, sell the news’ setup; instead, bad news drove heavy selling, aligning with quick-fact cues of ‘no’ for buy-the-rumor and sell-the-news.
+  4.1. **News:** Recent headlines cite disappointing Q3 2025 results, slashed growth expectations, leadership changes, and investigations by law firms, with shares dropping 30%–47% and about $32B in value erased. Coverage from Motley Fool and Investing.com highlights revenue and earnings misses and a strategic overhaul. The legal notices (Bragar Eagel & Squire; Hagens Berman) underscore investor backlash. This was a news-driven selloff with no preceding positive rumor setup, so the classic ‘buy the rumor, sell the news’ dynamic did not apply.
   
   4.2. **Tarrifs:** unknown
   
@@ -50,11 +50,11 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$3.38B</td></tr>
-  <tr><td>Price</td><td>65.14</td></tr>
+  <tr><td>Price</td><td>64.45</td></tr>
   <tr><td>7d Resistance</td><td>128.78</td></tr>
-  <tr><td>7d Support</td><td>64.52</td></tr>
-  <tr><td>30d Resistance</td><td>131.72</td></tr>
-  <tr><td>30d Support</td><td>64.52</td></tr>
+  <tr><td>7d Support</td><td>63.71</td></tr>
+  <tr><td>30d Resistance</td><td>130.85</td></tr>
+  <tr><td>30d Support</td><td>63.71</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
@@ -66,26 +66,29 @@ raw_markdown: |
   </div>
   
   
-  **Sources**
-  - massive.com: company profile & branding, technical indicators, headlines (5 items)
-  - yfinance: prices & technicals, fundamentals, earnings calendar
-  - Google Custom Search: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*
-  - NewsAPI: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
-  - GNews: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
-  - The Guardian: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
+  <div class="sources-list">
+  <strong>Sources</strong>
+  <ul>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  </ul>
+  </div>
+  
   
   <details class="cli-log">
-  <summary>Show generation log</summary>
+  <summary>Show generation log^</summary>
   <pre><code>
   Gathering context for FI...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-03?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/FI/2025-11-03?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-04?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/FI/2025-11-04?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/FI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -120,160 +123,64 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; FI core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+core+business&amp;num=5
-  Google Custom Search failed for &#x27;FI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; FI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;FI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+profitability&amp;num=5
-  Google Custom Search failed for &#x27;FI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; FI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;FI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;FI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; FI market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;FI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+competitors&amp;num=5
-  Google Custom Search failed for &#x27;FI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; FI market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+market+share&amp;num=5
-  Google Custom Search failed for &#x27;FI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+rumors&amp;num=5
-  Google Custom Search failed for &#x27;FI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; FI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;FI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 4 result(s)
     newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;FI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
     newsapi search -&gt; FI tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;FI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;FI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: missing API token
-      guardian: error: missing API key
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -295,40 +202,40 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-04T03:56:41.861137+00:00">2025-11-04 03:56 UTC</time> (runtime 1m 9s)
+**Generated:** <time class="js-local-time" datetime="2025-11-05T01:40:45.302891+00:00">2025-11-05 01:40 UTC</time> (runtime 1m 30s)
 
 ![Fiserv, Inc. logo](https://ryness.github.io/stonks/assets/logos/FI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Fiserv provides core processing and complementary services, including electronic funds transfer, payment processing, and loan processing, to U.S. banks and credit unions with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also delivers payment processing services to merchants. About 10% of its revenue is generated internationally.
+1.1. **Activities:** Fiserv provides core banking processing and complementary services—electronic funds transfer, payment processing, and loan processing—to U.S. banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also offers merchant payment processing, and about 10% of revenue is generated internationally.
 
-1.2. **Profitable?:** Yes — it posts positive net income, a ~17% profit margin, and robust free and operating cash flow despite recent guidance cuts.
+1.2. **Profitable?:** Yes—Fiserv is profitable, with positive net income (sum $3.379B), roughly 17% profit margin, and strong free cash flow ($4.19B), despite recent guidance cuts.
 
-1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants via the First Data platform. Its markets are predominantly U.S. financial institutions and merchant acquiring, with roughly 10% of revenue from international markets.
+1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants needing payment processing. Its markets are predominantly U.S.-focused, with about 10% of revenue from international markets.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** Competitors include Fidelity National Information Services (FIS) and business services/payroll firms like ADP and Paychex (per MarketBeat). Fiserv is a leading provider in core and payments, but specific market-share rankings are not provided.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price closed at 65.14 near 7d support (64.52) and far below the 20-day average (≈112.71) following a sharp post-earnings selloff.
+2.1. **7d Trend?:** down — shares drifted toward support at 63.71 and closed 64.45, well below the 20-day average and far from recent highs.
 
-2.2. **7d Buy/Sell Points?:** Buying near support around 64.52 looked favorable; selling into resistance near 128.78 was the key exit level. The recent 64.66–67.48 intraday range offered tactical entries/exits close to support after the gap down.
+2.2. **7d Buy/Sell Points?:** Buys near 63.71–64.52 (support/suggested buy zone) were favorable; sells near 128.78 (resistance/suggested sell zone) were optimal exits.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Fiserv is a leading, established provider of banking and payments technology, bolstered by the 2019 First Data merger. It generates solid cash flows (operating cash flow ~$6.34B and free cash flow ~$4.19B) and maintains profitability with a ~17% margin. Earnings growth is strong while revenue growth is modest, suggesting resilience but slower top-line expansion. However, the recent stock plunge tied to weak Q3 results and leadership changes adds near-term execution risk.
+3.1. **Stability?:** Fiserv is a leading provider of banking and payments technology, bolstered by its 2019 First Data merger. It generates substantial operating cash flow ($6.34B) and free cash flow ($4.19B) and has posted positive net income across recent periods. However, Q3 2025 disappointments, leadership changes, and a large shareholder value loss indicate elevated near-term risk. Overall, it remains a sizable incumbent with cash-generative operations, suggesting underlying stability despite current turbulence.
 
-3.2. **Innovating?:** Mixed: earnings growth (~40%) indicates progress, but low revenue growth (~1%) and reduced guidance point to growth headwinds and a strategic recalibration.
+3.2. **Innovating?:** Earnings growth is strong (~40%) but revenue growth is modest (~0.9%), and management is recalibrating after guidance cuts and leadership changes. This points to mixed momentum rather than clear innovation-led acceleration.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight a sharp selloff after disappointing Q3 results, lowered full-year targets, and leadership changes, with shares down roughly 30–47% and about $32B in value erased. Multiple law firms announced investigations following the miss and recalibration. Coverage emphasizes a major strategic overhaul amid revenue and earnings shortfalls. This was not a ‘buy the rumor, sell the news’ setup; instead, bad news drove heavy selling, aligning with quick-fact cues of ‘no’ for buy-the-rumor and sell-the-news.
+4.1. **News:** Recent headlines cite disappointing Q3 2025 results, slashed growth expectations, leadership changes, and investigations by law firms, with shares dropping 30%–47% and about $32B in value erased. Coverage from Motley Fool and Investing.com highlights revenue and earnings misses and a strategic overhaul. The legal notices (Bragar Eagel & Squire; Hagens Berman) underscore investor backlash. This was a news-driven selloff with no preceding positive rumor setup, so the classic ‘buy the rumor, sell the news’ dynamic did not apply.
 
 4.2. **Tarrifs:** unknown
 
@@ -339,11 +246,11 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$3.38B</td></tr>
-<tr><td>Price</td><td>65.14</td></tr>
+<tr><td>Price</td><td>64.45</td></tr>
 <tr><td>7d Resistance</td><td>128.78</td></tr>
-<tr><td>7d Support</td><td>64.52</td></tr>
-<tr><td>30d Resistance</td><td>131.72</td></tr>
-<tr><td>30d Support</td><td>64.52</td></tr>
+<tr><td>7d Support</td><td>63.71</td></tr>
+<tr><td>30d Resistance</td><td>130.85</td></tr>
+<tr><td>30d Support</td><td>63.71</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
@@ -355,26 +262,29 @@ raw_markdown: |
 </div>
 
 
-**Sources**
-- massive.com: company profile & branding, technical indicators, headlines (5 items)
-- yfinance: prices & technicals, fundamentals, earnings calendar
-- Google Custom Search: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*
-- NewsAPI: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
-- GNews: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
-- The Guardian: FI core business*, FI product portfolio*, FI profitability*, FI earnings trend*, FI target customers*, FI market segments*, FI competitors*, FI market share*, FI rumors*, FI tariffs news*, FI latest rumor*, FI tariff impact*, FI business model*, FI profit outlook*, FI market expansion*, FI competitive landscape*, FI rumor*, FI tariff*, FI latest news*, FI tariffs*
+<div class="sources-list">
+<strong>Sources</strong>
+<ul>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+</ul>
+</div>
+
 
 <details class="cli-log">
-<summary>Show generation log</summary>
+<summary>Show generation log^</summary>
 <pre><code>
 Gathering context for FI...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-03?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/FI/2025-11-03?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-04?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/FI/2025-11-04?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/FI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -409,160 +319,64 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; FI core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+core+business&amp;num=5
-Google Custom Search failed for &#x27;FI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; FI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;FI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+profitability&amp;num=5
-Google Custom Search failed for &#x27;FI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; FI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;FI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+target+customers&amp;num=5
-Google Custom Search failed for &#x27;FI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; FI market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+market+segments&amp;num=5
-Google Custom Search failed for &#x27;FI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+competitors&amp;num=5
-Google Custom Search failed for &#x27;FI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; FI market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+market+share&amp;num=5
-Google Custom Search failed for &#x27;FI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+rumors&amp;num=5
-Google Custom Search failed for &#x27;FI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; FI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;FI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 4 result(s)
   newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;FI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
   newsapi search -&gt; FI tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;FI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;FI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: missing API token
-    guardian: error: missing API key
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
