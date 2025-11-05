@@ -312,7 +312,9 @@ class StonksStorage:
         histories: Mapping[str, "pd.DataFrame"],
         provider: str,
     ) -> None:
-        history = histories.get("5y") or histories.get("1y")
+        history = histories.get("5y")
+        if history is None or getattr(history, "empty", True):
+            history = histories.get("1y")
         if history is None or getattr(history, "empty", True):
             return
         rows = []
