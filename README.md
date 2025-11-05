@@ -19,7 +19,18 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `GUARDIAN_API_KEY` – optional secondary fallback via The Guardian Open Platform (or use `apikey-guardian.txt`).
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
-With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the rotation state file) back to the default branch, triggering a Pages rebuild.
+With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the rotation state file) back to the default branch.
+
+### GitHub Pages deployment
+
+Pages now builds from GitHub Actions. In **Settings → Pages** set “Build and deployment” to **GitHub Actions**, then rely on `.github/workflows/pages.yml`. That workflow:
+
+- checks out `main` and installs gems via Bundler (Ruby 3.3),
+- runs `bundle exec jekyll build --destination _site`,
+- uploads `_site/` as a Pages artifact, and
+- deploys with `actions/deploy-pages@v4`.
+
+Whenever `main` changes—or you run the workflow manually—the site is rebuilt and deployed without committing `_site/` back to the repo.
 
 ### Scheduled rotation
 
