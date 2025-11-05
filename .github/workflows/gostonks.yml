@@ -50,6 +50,9 @@ jobs:
           if [ -f .gostonks-state.json ]; then
             git add .gostonks-state.json
           fi
+          if [ -f data/stonks.db ]; then
+            git add data/stonks.db
+          fi
           TICKER_MSG="${{ github.event.inputs.ticker }}"
           if [ -z "$TICKER_MSG" ] && [ -f .gostonks-state.json ]; then
             TICKER_MSG=$(python -c 'import json

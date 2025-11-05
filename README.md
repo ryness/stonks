@@ -32,6 +32,10 @@ Pages now builds from GitHub Actions. In **Settings → Pages** set “Build and
 
 Whenever `main` changes—or you run the workflow manually—the site is rebuilt and deployed without committing `_site/` back to the repo. A successful run of `gostonks.yml` also triggers this deployment automatically via a `workflow_run` hook.
 
+### Historical data storage
+
+Each run now appends structured market data to `data/stonks.db` (SQLite). The database tracks the raw OHLCV bars pulled from Massive.com/yfinance, the technical indicator payloads, and the derived snapshot metrics written into each report. `gostonks.yml` adds the database to its commit so the history stays with the repo; locally you can inspect it with commands like `sqlite3 data/stonks.db 'SELECT * FROM daily_snapshots ORDER BY trading_day DESC LIMIT 5'`.
+
 ### Scheduled rotation
 
 The action also runs automatically every four hours. When invoked without a specific ticker it calls `gostonks.py --cycle`, which:

@@ -43,6 +43,7 @@ except ImportError as pandas_error:
 import requests
 import yfinance as yf
 from openai import OpenAI
+from stonks_storage import StonksStorage
 try:
     import yaml
 except ImportError as exc:
@@ -98,6 +99,7 @@ PUBLIC_BASE_PATH = SITE_BASEURL or ""
 PUBLIC_BASE_URL = f"{SITE_URL}{PUBLIC_BASE_PATH}" if SITE_URL else ""
 
 _run_log: List[str] = []
+STORAGE = StonksStorage()
 
 
 @dataclass(frozen=True)
@@ -1680,8 +1682,8 @@ def collect_news(ticker_obj: yf.Ticker, limit: int = 5) -> List[Dict[str, Option
     return items
 
 
-def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
-    """Collect pricing, fundamentals, and news data for the LLM."""
+def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, Any], Dict[str, Any]]:
+    """Collect pricing, fundamentals, and news data for the LLM and storage."""
 
     log_status("Gathering market data...")
     ticker_upper = ticker.upper()
@@ -1826,7 +1828,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
             continue
         data_sources.append(f"{source}: {', '.join(notes)}")
 
-    return {
+    context_data = {
         "ticker": ticker_upper,
         "company": {
             "long_name": (massive_profile or {}).get("name") or info.get("longName"),
@@ -1889,6 +1891,12 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Dict[str, Any]:
         "price_data_source": price_source,
         "data_sources": data_sources,
     }
+    storage_payload = {
+        "histories": histories,
+        "latest_trading_day": latest_session_date,
+        "price_source": price_source,
+    }
+    return context_data, storage_payload
 
 
 def _extract_json_object(raw_text: str) -> Dict[str, Any]:
@@ -2113,17 +2121,20 @@ def format_report(
     return "\n".join(lines).strip()
 
 
-def build_report(ticker: str, prompt_config: PromptConfig) -> str:
-    """Assemble context, call GPT-5 for targeted bullets, and format the report."""
+def build_report(
+    ticker: str, prompt_config: PromptConfig
+) -> Tuple[str, Dict[str, Any], Dict[str, Any]]:
+    """Assemble context, call GPT-5 for targeted bullets, and prepare storage payload."""
 
     _run_log.clear()
     log_status(f"Gathering context for {ticker.upper()}...")
-    context = gather_context(ticker, prompt_config)
+    context, storage_payload = gather_context(ticker, prompt_config)
     log_status("Synthesizing narrative from OpenAI response...")
     llm_answers = call_llm(context, prompt_config)
     context["cli_log"] = list(_run_log)
     log_status("Formatting final report...")
-    return format_report(context, prompt_config, llm_answers)
+    report_body = format_report(context, prompt_config, llm_answers)
+    return report_body, context, storage_payload
 
 
 def write_jekyll_report(
@@ -2176,26 +2187,52 @@ def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None
     if not ticker_clean:
         raise ValueError("Ticker symbol is required.")
     log_status(f"Starting report generation for {ticker_clean}...")
+    run_started_at = dt.datetime.now(dt.timezone.utc)
+    run_id = STORAGE.start_run(ticker_clean, run_started_at)
     start_time = time.perf_counter()
-    report = build_report(ticker_clean, prompt_config)
-    elapsed_seconds = time.perf_counter() - start_time
-    generated_at = dt.datetime.now(dt.timezone.utc)
-    timestamp_display = generated_at.strftime("%Y-%m-%d %H:%M %Z")
-    timestamp_iso = generated_at.isoformat()
-    duration_display = format_duration(elapsed_seconds)
-    header_line = (
-        f"**Generated:** <time class=\"js-local-time\" datetime=\"{timestamp_iso}\">{timestamp_display}</time> "
-        f"(runtime {duration_display})"
-    )
-    trimmed_body = report.strip()
-    if trimmed_body:
-        report = f"{header_line}\n\n{trimmed_body}"
+    elapsed_seconds: Optional[float] = None
+    generated_at: Optional[dt.datetime] = None
+    report_body: str
+    context: Dict[str, Any] = {}
+    storage_payload: Dict[str, Any] = {}
+    try:
+        report_body, context, storage_payload = build_report(ticker_clean, prompt_config)
+        elapsed_seconds = time.perf_counter() - start_time
+        generated_at = dt.datetime.now(dt.timezone.utc)
+        timestamp_display = generated_at.strftime("%Y-%m-%d %H:%M %Z")
+        timestamp_iso = generated_at.isoformat()
+        duration_display = format_duration(elapsed_seconds)
+        header_line = (
+            f"**Generated:** <time class=\"js-local-time\" datetime=\"{timestamp_iso}\">{timestamp_display}</time> "
+            f"(runtime {duration_display})"
+        )
+        trimmed_body = report_body.strip()
+        if trimmed_body:
+            report_body = f"{header_line}\n\n{trimmed_body}"
+        else:
+            report_body = header_line
+        output_path = REPORTS_DIR / f"{ticker_clean}.md"
+        write_jekyll_report(ticker_clean, report_body, generated_at, elapsed_seconds, output_path)
+        log_status("Persisting structured data snapshot...")
+        STORAGE.persist_run_data(
+            run_id=run_id,
+            symbol=ticker_clean,
+            company=context.get("company") or {},
+            histories=storage_payload.get("histories") or {},
+            price_provider=storage_payload.get("price_source") or context.get("price_data_source") or "unknown",
+            latest_trading_day=storage_payload.get("latest_trading_day"),
+            context=context,
+            generated_at=generated_at,
+            runtime_seconds=elapsed_seconds,
+        )
+    except Exception as exc:
+        STORAGE.finish_run(run_id, dt.datetime.now(dt.timezone.utc), "failed", error_message=str(exc))
+        raise
     else:
-        report = header_line
-    output_path = REPORTS_DIR / f"{ticker_clean}.md"
-    write_jekyll_report(ticker_clean, report, generated_at, elapsed_seconds, output_path)
-    update_cycle_state(ticker_clean)
-    print(f"Saved Jekyll report to {output_path}")
+        assert generated_at is not None and elapsed_seconds is not None
+        STORAGE.finish_run(run_id, generated_at, "success", elapsed_seconds)
+        update_cycle_state(ticker_clean)
+        print(f"Saved Jekyll report to {output_path}")
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
