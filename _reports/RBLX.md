@@ -2,46 +2,46 @@
 layout: default
 title: "RBLX Stock Report"
 ticker: "RBLX"
-date: 2025-11-04
-generated_at: 2025-11-04T05:21:47.413487+00:00
-runtime_seconds: 69.56
+date: 2025-11-05
+generated_at: 2025-11-05T17:21:53.031411+00:00
+runtime_seconds: 68.99
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-04T05:21:47.413487+00:00">2025-11-04 05:21 UTC</time> (runtime 1m 10s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-05T17:21:53.031411+00:00">2025-11-05 17:21 UTC</time> (runtime 1m 9s)
   
   ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Roblox operates a free-to-play online gaming platform and virtual economy anchored by its Robux currency. It provides creation tools, publishing, and monetization for millions of games made by creators ranging from young gamers to professional studios. Roblox earns revenue primarily by taking a cut of optional in-game purchases and from advertising.
+  1.1. **Activities:** Roblox operates a free-to-play online platform and virtual economy (Robux) that hosts millions of user-created games for about 110 million daily active users. It provides creator tools and publishing capabilities, monetizing primarily via a revenue share on in-game purchases and advertising. Key offerings span the client platform, creator tools, and ads/commerce around experiences.
   
-  1.2. **Profitable?:** No — it remains unprofitable, with negative net income across recent quarters and a profit margin around -21.7%, though it generates positive operating cash flow and over $1.0B in free cash flow.
+  1.2. **Profitable?:** No — GAAP net income is negative (last four quarters sum −$952.33M) with a −21.7% profit margin; while operating and free cash flow are positive, timing to profitability is not indicated.
   
-  1.3. **Customer & Markets:** Primary customers are players who engage with experiences on the platform and the creators/developers who build them, along with brands that advertise in-game. It serves the electronic gaming and multimedia market through its creator ecosystem and advertising within its platform.
+  1.3. **Customer & Markets:** Primary customers are players and a broad spectrum of creators, from individual gamers to professional studios; advertisers also participate within experiences. Markets include electronic gaming and multimedia, monetized through digital purchases and advertising across the platform.
   
-  1.4. **Competition:** Competitors include Unity (U) for creator tools, Meta (META) and Microsoft (MSFT) for social/gaming platforms, and Alphabet/Google (GOOGL/GOOG) and Netflix (NFLX) for consumer attention. Relative ranking among these peers is not specified in the provided data.
+  1.4. **Competition:** Competitors include Unity (U), Meta (META), Alphabet/Google (GOOGL/GOOG), Microsoft (MSFT), and Netflix (NFLX). Relative positioning or rank among them is not specified in the provided data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares fell to 107.66, trading below the 20-day average (127.65) and sliding from highs near 134.67 toward support at 106.10.
+  2.1. **7d Trend?:** down — price slid toward support at 102.34 and remains below the 20-day average (~125.47) after a recent 134.67 local high.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 106.10 (7d support) or the suggested buy zone around 125.81 looked favorable, while selling near 134.67 (7d resistance/suggested sell zone) offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near the 102.34 support looked favorable; selling into rebounds toward 134.67 resistance offered exits.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Roblox is an established platform with about 110 million daily active users, indicating meaningful network effects. Financially, GAAP profitability is negative, but operating cash flow ($1.37B) and free cash flow (~$1.02B) are positive, supporting ongoing investment. Volatility is high and losses are material, but the scale and cash generation suggest a more stable institution than a fly-by-night operator.
+  3.1. **Stability?:** Roblox is an established platform with about 110 million daily active users and a large creator ecosystem. It generates strong cash flow (operating cash flow ~$1.37B; free cash flow ~$1.01B) despite ongoing GAAP losses, which supports operations. Revenue growth is rapid (+48%), but net income remains negative, indicating execution and profitability risk. Overall, it appears more durable than a fly-by-night firm, though profitability is still a work in progress.
   
-  3.2. **Innovating?:** Innovating and growing — recent reports highlight AI-powered features and a viral hit driving engagement, with strong user and bookings growth despite continued losses.
+  3.2. **Innovating?:** Innovating and growing—recent coverage highlights AI-powered features and strong engagement/bookings, including a viral game that boosted platform hours and bookings. Analysts have issued upbeat views and higher targets alongside these trends.
   
   ## 4. Context
   
-  4.1. **News:** Coverage highlights explosive engagement and bookings growth, including a viral game (“Grow a Garden”) and AI-driven features to boost monetization. Q3 2025 showed wider-than-expected losses, and the stock fell about 11% as investors focused on profitability. Commentary also notes Roblox leveraging AI to lift user engagement. In a buy-the-rumor, sell-the-news frame, upbeat narratives preceded earnings while the loss print triggered selling, though quick facts mark “Sell the news? no,” implying the pattern was mixed.
+  4.1. **News:** Recent reports note strong growth (e.g., 24% revenue and 70% bookings in Q3) but a share pullback on wider-than-expected losses and higher expenses. Articles also highlight AI-driven features and engagement gains, including a viral title that lifted platform hours and bookings. Analyst upgrades and higher price targets frame the post-earnings dip as a buying opportunity. The pullback despite solid metrics echoes a sell-the-news reaction, though bullish commentary suggests dip-buying interest.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Coverage indicates bookings guidance increased even as spending defied tariff uncertainty, and commentary notes tariffs have limited direct impact on Roblox’s virtual goods model. The company cites tariffs among general risk factors.
   
   ## 5. QuickRef
   
@@ -50,11 +50,11 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-952.33M</td></tr>
-  <tr><td>Price</td><td>107.66</td></tr>
+  <tr><td>Price</td><td>103.23</td></tr>
   <tr><td>7d Resistance</td><td>134.67</td></tr>
-  <tr><td>7d Support</td><td>106.10</td></tr>
+  <tr><td>7d Support</td><td>102.34</td></tr>
   <tr><td>30d Resistance</td><td>142.00</td></tr>
-  <tr><td>30d Support</td><td>106.10</td></tr>
+  <tr><td>30d Support</td><td>102.34</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
@@ -71,12 +71,10 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
-  <li>NewsAPI: core business, product portfolio^, profitability, earnings trend, target customers, market segments, competitors, market share, rumors^, tariffs news, latest rumor^, tariff impact, business model, profit outlook, market expansion, competitive landscape^, rumor^, tariff, latest news, tariffs</li>
-  <li>GNews: product portfolio^, rumors^, latest rumor^, competitive landscape^, rumor^</li>
-  <li>The Guardian: product portfolio, rumors, latest rumor, competitive landscape, rumor</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: competitive landscape, rumor</li>
   </ul>
-  <p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
   </div>
   
   
@@ -86,12 +84,12 @@ raw_markdown: |
   Gathering context for RBLX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-03?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-03?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-05?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/RBLX/2025-11-05?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/RBLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -126,65 +124,37 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; RBLX core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+core+business&amp;num=5
-  Google Custom Search failed for &#x27;RBLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RBLX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;RBLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=RBLX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=RBLX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 4 result(s)
     google_custom_search search -&gt; RBLX profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+profitability&amp;num=5
-  Google Custom Search failed for &#x27;RBLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 3 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RBLX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;RBLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; RBLX target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;RBLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RBLX market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;RBLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 2 result(s)
     google_custom_search search -&gt; RBLX competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+competitors&amp;num=5
-  Google Custom Search failed for &#x27;RBLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RBLX market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+market+share&amp;num=5
-  Google Custom Search failed for &#x27;RBLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=RBLX+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -194,20 +164,10 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; RBLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+rumors&amp;num=5
-  Google Custom Search failed for &#x27;RBLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=RBLX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=RBLX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RBLX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;RBLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=RBLX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -223,23 +183,13 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; RBLX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;RBLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=RBLX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=RBLX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RBLX tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; RBLX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;RBLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -261,42 +211,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-04T05:21:47.413487+00:00">2025-11-04 05:21 UTC</time> (runtime 1m 10s)
+**Generated:** <time class="js-local-time" datetime="2025-11-05T17:21:53.031411+00:00">2025-11-05 17:21 UTC</time> (runtime 1m 9s)
 
 ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Roblox operates a free-to-play online gaming platform and virtual economy anchored by its Robux currency. It provides creation tools, publishing, and monetization for millions of games made by creators ranging from young gamers to professional studios. Roblox earns revenue primarily by taking a cut of optional in-game purchases and from advertising.
+1.1. **Activities:** Roblox operates a free-to-play online platform and virtual economy (Robux) that hosts millions of user-created games for about 110 million daily active users. It provides creator tools and publishing capabilities, monetizing primarily via a revenue share on in-game purchases and advertising. Key offerings span the client platform, creator tools, and ads/commerce around experiences.
 
-1.2. **Profitable?:** No — it remains unprofitable, with negative net income across recent quarters and a profit margin around -21.7%, though it generates positive operating cash flow and over $1.0B in free cash flow.
+1.2. **Profitable?:** No — GAAP net income is negative (last four quarters sum −$952.33M) with a −21.7% profit margin; while operating and free cash flow are positive, timing to profitability is not indicated.
 
-1.3. **Customer & Markets:** Primary customers are players who engage with experiences on the platform and the creators/developers who build them, along with brands that advertise in-game. It serves the electronic gaming and multimedia market through its creator ecosystem and advertising within its platform.
+1.3. **Customer & Markets:** Primary customers are players and a broad spectrum of creators, from individual gamers to professional studios; advertisers also participate within experiences. Markets include electronic gaming and multimedia, monetized through digital purchases and advertising across the platform.
 
-1.4. **Competition:** Competitors include Unity (U) for creator tools, Meta (META) and Microsoft (MSFT) for social/gaming platforms, and Alphabet/Google (GOOGL/GOOG) and Netflix (NFLX) for consumer attention. Relative ranking among these peers is not specified in the provided data.
+1.4. **Competition:** Competitors include Unity (U), Meta (META), Alphabet/Google (GOOGL/GOOG), Microsoft (MSFT), and Netflix (NFLX). Relative positioning or rank among them is not specified in the provided data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares fell to 107.66, trading below the 20-day average (127.65) and sliding from highs near 134.67 toward support at 106.10.
+2.1. **7d Trend?:** down — price slid toward support at 102.34 and remains below the 20-day average (~125.47) after a recent 134.67 local high.
 
-2.2. **7d Buy/Sell Points?:** Buying near 106.10 (7d support) or the suggested buy zone around 125.81 looked favorable, while selling near 134.67 (7d resistance/suggested sell zone) offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near the 102.34 support looked favorable; selling into rebounds toward 134.67 resistance offered exits.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Roblox is an established platform with about 110 million daily active users, indicating meaningful network effects. Financially, GAAP profitability is negative, but operating cash flow ($1.37B) and free cash flow (~$1.02B) are positive, supporting ongoing investment. Volatility is high and losses are material, but the scale and cash generation suggest a more stable institution than a fly-by-night operator.
+3.1. **Stability?:** Roblox is an established platform with about 110 million daily active users and a large creator ecosystem. It generates strong cash flow (operating cash flow ~$1.37B; free cash flow ~$1.01B) despite ongoing GAAP losses, which supports operations. Revenue growth is rapid (+48%), but net income remains negative, indicating execution and profitability risk. Overall, it appears more durable than a fly-by-night firm, though profitability is still a work in progress.
 
-3.2. **Innovating?:** Innovating and growing — recent reports highlight AI-powered features and a viral hit driving engagement, with strong user and bookings growth despite continued losses.
+3.2. **Innovating?:** Innovating and growing—recent coverage highlights AI-powered features and strong engagement/bookings, including a viral game that boosted platform hours and bookings. Analysts have issued upbeat views and higher targets alongside these trends.
 
 ## 4. Context
 
-4.1. **News:** Coverage highlights explosive engagement and bookings growth, including a viral game (“Grow a Garden”) and AI-driven features to boost monetization. Q3 2025 showed wider-than-expected losses, and the stock fell about 11% as investors focused on profitability. Commentary also notes Roblox leveraging AI to lift user engagement. In a buy-the-rumor, sell-the-news frame, upbeat narratives preceded earnings while the loss print triggered selling, though quick facts mark “Sell the news? no,” implying the pattern was mixed.
+4.1. **News:** Recent reports note strong growth (e.g., 24% revenue and 70% bookings in Q3) but a share pullback on wider-than-expected losses and higher expenses. Articles also highlight AI-driven features and engagement gains, including a viral title that lifted platform hours and bookings. Analyst upgrades and higher price targets frame the post-earnings dip as a buying opportunity. The pullback despite solid metrics echoes a sell-the-news reaction, though bullish commentary suggests dip-buying interest.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Coverage indicates bookings guidance increased even as spending defied tariff uncertainty, and commentary notes tariffs have limited direct impact on Roblox’s virtual goods model. The company cites tariffs among general risk factors.
 
 ## 5. QuickRef
 
@@ -305,11 +255,11 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-952.33M</td></tr>
-<tr><td>Price</td><td>107.66</td></tr>
+<tr><td>Price</td><td>103.23</td></tr>
 <tr><td>7d Resistance</td><td>134.67</td></tr>
-<tr><td>7d Support</td><td>106.10</td></tr>
+<tr><td>7d Support</td><td>102.34</td></tr>
 <tr><td>30d Resistance</td><td>142.00</td></tr>
-<tr><td>30d Support</td><td>106.10</td></tr>
+<tr><td>30d Support</td><td>102.34</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
@@ -326,12 +276,10 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business^, product portfolio^, profitability^, earnings trend^, target customers^, market segments^, competitors^, market share^, rumors^, tariffs news^, latest rumor^, tariff impact^</li>
-<li>NewsAPI: core business, product portfolio^, profitability, earnings trend, target customers, market segments, competitors, market share, rumors^, tariffs news, latest rumor^, tariff impact, business model, profit outlook, market expansion, competitive landscape^, rumor^, tariff, latest news, tariffs</li>
-<li>GNews: product portfolio^, rumors^, latest rumor^, competitive landscape^, rumor^</li>
-<li>The Guardian: product portfolio, rumors, latest rumor, competitive landscape, rumor</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: competitive landscape, rumor</li>
 </ul>
-<p class="sources-footnote">^ indicates an API issue or empty result (see generation log^).</p>
 </div>
 
 
@@ -341,12 +289,12 @@ raw_markdown: |
 Gathering context for RBLX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-06/2025-11-04?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-03?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-03?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-05?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/RBLX/2025-11-05?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/RBLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -381,65 +329,37 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; RBLX core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+core+business&amp;num=5
-Google Custom Search failed for &#x27;RBLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RBLX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;RBLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=RBLX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=RBLX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 4 result(s)
   google_custom_search search -&gt; RBLX profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+profitability&amp;num=5
-Google Custom Search failed for &#x27;RBLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 3 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RBLX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;RBLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; RBLX target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+target+customers&amp;num=5
-Google Custom Search failed for &#x27;RBLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RBLX market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+market+segments&amp;num=5
-Google Custom Search failed for &#x27;RBLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 2 result(s)
   google_custom_search search -&gt; RBLX competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+competitors&amp;num=5
-Google Custom Search failed for &#x27;RBLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RBLX market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+market+share&amp;num=5
-Google Custom Search failed for &#x27;RBLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=RBLX+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -449,20 +369,10 @@ Guardian search: GET https://content.guardianapis.com/search?q=RBLX+competitive+
     guardian: 5 result(s)
   google_custom_search search -&gt; RBLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+rumors&amp;num=5
-Google Custom Search failed for &#x27;RBLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=RBLX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=RBLX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RBLX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;RBLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=RBLX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -478,23 +388,13 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+latest+news&amp;pag
     newsapi: 5 result(s)
   google_custom_search search -&gt; RBLX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;RBLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=RBLX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=RBLX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RBLX tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; RBLX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;RBLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=RBLX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
