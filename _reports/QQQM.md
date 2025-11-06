@@ -2,43 +2,43 @@
 layout: default
 title: "QQQM Stock Report"
 ticker: "QQQM"
-date: 2025-11-05
-generated_at: 2025-11-05T10:24:51.386034+00:00
-runtime_seconds: 94.17
+date: 2025-11-06
+generated_at: 2025-11-06T16:32:01.728710+00:00
+runtime_seconds: 91.67
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-05T10:24:51.386034+00:00">2025-11-05 10:24 UTC</time> (runtime 1m 34s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-06T16:32:01.728710+00:00">2025-11-06 16:32 UTC</time> (runtime 1m 32s)
   
   ## 1. The Biz
   
-  1.1. **Activities:** The Invesco NASDAQ 100 ETF (QQQM) is a passive fund that invests at least 90% of its assets in the Nasdaq-100, which includes 100 of the largest domestic and international nonfinancial companies listed on Nasdaq. It tracks the index compiled and maintained by Nasdaq, offering concentrated, non-diversified exposure primarily to large-cap growth areas like technology alongside other nonfinancial sectors.
+  1.1. **Activities:** Invesco NASDAQ 100 ETF (QQQM) is a passively managed ETF that seeks to track the Nasdaq-100 Index by investing at least 90% of its assets in the index’s constituents. The index includes 100 of the largest domestic and international nonfinancial companies listed on Nasdaq, making the fund a concentrated (non-diversified) vehicle for large-cap growth exposure.
   
   1.2. **Profitable?:** unknown
   
-  1.3. **Customer & Markets:** Primary customers are retail and institutional investors seeking low-cost exposure to U.S. large-cap growth via the Nasdaq-100 index. The fund covers 100 large nonfinancial companies listed on Nasdaq, including both domestic and international issuers with notable technology weightings.
+  1.3. **Customer & Markets:** Primary customers include retail investors and financial advisors/institutional allocators seeking low-cost exposure to tech and AI-led growth, as highlighted by coverage recommending QQQM for new and small-stake investors and reported advisor purchases. The ETF targets the U.S. market and provides exposure to large nonfinancial Nasdaq-listed companies with significant representation from technology leaders.
   
-  1.4. **Competition:** Key competitors include Invesco QQQ Trust (which also tracks the Nasdaq-100) and tech-heavy ETFs such as XLK and VGT cited as alternatives. QQQM is positioned as a lower-cost Nasdaq-100 tracker relative to QQQ in recent coverage.
+  1.4. **Competition:** Competitors include other Nasdaq-100 and tech-focused ETFs such as Invesco QQQ (QQQ) and sector funds like XLK, VGT, and IYW. QQQM tracks the same Nasdaq-100 index as QQQ, offering an alternative path to similar exposure.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the price faded from a 7d local high near 261.75 with resistance at 262.23 and closed at 254.95 near support 254.61.
+  2.1. **7d Trend?:** down — price pressed toward 7d support at 252.05, sits below the 20DMA (252.75), and could not sustain moves near the 261.75 resistance.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 257.71 and the 7d support at 254.61 looked favorable, while selling into strength around 261.75–262.23 aligned with resistance.
+  2.2. **7d Buy/Sell Points?:** Buys looked favorable near the 252.05 support or around the suggested buy zone at 257.71; sells looked prudent near the 261.75 resistance/suggested sell zone.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** low
   
   ## 3. Longterm
   
-  3.1. **Stability?:** QQQM is an index-tracking ETF from Invesco tied to the long-established Nasdaq-100 methodology compiled by Nasdaq. It is non-diversified but holds 100 large-cap nonfinancial constituents. Recent week data show medium volume and low volatility, and quick facts note 1-year performance is near-peak. Institutional purchases reported in filings further suggest acceptance and stability.
+  3.1. **Stability?:** QQQM is an index-tracking ETF that holds the securities of the Nasdaq-100 in accordance with Nasdaq’s guidelines, providing structural stability versus a single operating company. It invests at least 90% in index constituents and does not maintain a traditional operating balance sheet, instead holding a portfolio of large, liquid stocks. The fund is legally non-diversified, implying concentration risk in Nasdaq-100 nonfinancials despite broad large-cap exposure. Recent technicals show low volatility (ATR ~1.4% of price), suggesting currently stable trading conditions.
   
-  3.2. **Innovating?:** The ETF itself is not innovating; growth is driven by the innovation of its Nasdaq-100 constituents (e.g., tech and AI leaders). Coverage highlights low-cost exposure and outperformance versus the S&P 500 over the past year.
+  3.2. **Innovating?:** As a passive ETF, QQQM itself is not an operating innovator, but it provides targeted exposure to innovative tech and AI leaders within the Nasdaq-100. Recent coverage cites 24%–25.4% 1-year outperformance versus the S&P 500 and advisor allocations, indicating growth in interest and performance tied to those innovators.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage from The Motley Fool highlighted QQQM as a smart, low-cost way to access tech and AI leaders with significant Magnificent Seven exposure. Institutions such as Congress Park Capital and Walker Financial disclosed sizable purchases, while articles cited roughly 24%–25% 1-year returns outperforming the S&P 500. Related pieces compare QQQM with QQQ and emphasize the Nasdaq-100’s long-run strength. With upbeat narratives and inflows, a “sell the news” reaction is plausible, aligning with quick facts indicating sell the news and not buy the rumor.
+  4.1. **News:** Recent coverage highlights advisor purchases (Congress Park Capital, Walker Financial) and endorsements positioning QQQM as a low-cost way to access tech/AI growth, with 24%–25.4% 1-year returns outpacing the S&P 500. Articles emphasize Magnificent Seven exposure and the Nasdaq-100’s strong decade-long performance. The context suggests positive sentiment and inflows rather than rumor-driven spikes. Given quick facts indicating “Buy the rumor? no” and “Sell the news? no,” there’s little evidence of a “buy the rumor, sell the news” dynamic in recent trading.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariff headlines have influenced broader market sentiment (e.g., reports of market moves tied to tariff policies), but the supplied data does not detail a specific, measurable impact on QQQM.
   
   ## 5. QuickRef
   
@@ -47,14 +47,14 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>unknown</td></tr>
-  <tr><td>Price</td><td>254.95</td></tr>
+  <tr><td>Price</td><td>252.42</td></tr>
   <tr><td>7d Resistance</td><td>262.23</td></tr>
-  <tr><td>7d Support</td><td>254.61</td></tr>
+  <tr><td>7d Support</td><td>252.05</td></tr>
   <tr><td>30d Resistance</td><td>262.23</td></tr>
   <tr><td>30d Support</td><td>242.26</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>yes</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
   <tr><td>1yr</td><td>near-peak</td></tr>
@@ -80,12 +80,12 @@ raw_markdown: |
   Gathering context for QQQM...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting QQQM prices from massive.com... (https://api.massive.com/v2/aggs/ticker/QQQM/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting QQQM prices from massive.com... (https://api.massive.com/v2/aggs/ticker/QQQM/range/1/day/2020-10-08/2025-11-06?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/QQQM/2025-11-04?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/QQQM/2025-11-04?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/QQQM/2025-11-06?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/QQQM/2025-11-06?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/QQQM/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/QQQM/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/QQQM?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -230,39 +230,39 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-05T10:24:51.386034+00:00">2025-11-05 10:24 UTC</time> (runtime 1m 34s)
+**Generated:** <time class="js-local-time" datetime="2025-11-06T16:32:01.728710+00:00">2025-11-06 16:32 UTC</time> (runtime 1m 32s)
 
 ## 1. The Biz
 
-1.1. **Activities:** The Invesco NASDAQ 100 ETF (QQQM) is a passive fund that invests at least 90% of its assets in the Nasdaq-100, which includes 100 of the largest domestic and international nonfinancial companies listed on Nasdaq. It tracks the index compiled and maintained by Nasdaq, offering concentrated, non-diversified exposure primarily to large-cap growth areas like technology alongside other nonfinancial sectors.
+1.1. **Activities:** Invesco NASDAQ 100 ETF (QQQM) is a passively managed ETF that seeks to track the Nasdaq-100 Index by investing at least 90% of its assets in the index’s constituents. The index includes 100 of the largest domestic and international nonfinancial companies listed on Nasdaq, making the fund a concentrated (non-diversified) vehicle for large-cap growth exposure.
 
 1.2. **Profitable?:** unknown
 
-1.3. **Customer & Markets:** Primary customers are retail and institutional investors seeking low-cost exposure to U.S. large-cap growth via the Nasdaq-100 index. The fund covers 100 large nonfinancial companies listed on Nasdaq, including both domestic and international issuers with notable technology weightings.
+1.3. **Customer & Markets:** Primary customers include retail investors and financial advisors/institutional allocators seeking low-cost exposure to tech and AI-led growth, as highlighted by coverage recommending QQQM for new and small-stake investors and reported advisor purchases. The ETF targets the U.S. market and provides exposure to large nonfinancial Nasdaq-listed companies with significant representation from technology leaders.
 
-1.4. **Competition:** Key competitors include Invesco QQQ Trust (which also tracks the Nasdaq-100) and tech-heavy ETFs such as XLK and VGT cited as alternatives. QQQM is positioned as a lower-cost Nasdaq-100 tracker relative to QQQ in recent coverage.
+1.4. **Competition:** Competitors include other Nasdaq-100 and tech-focused ETFs such as Invesco QQQ (QQQ) and sector funds like XLK, VGT, and IYW. QQQM tracks the same Nasdaq-100 index as QQQ, offering an alternative path to similar exposure.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the price faded from a 7d local high near 261.75 with resistance at 262.23 and closed at 254.95 near support 254.61.
+2.1. **7d Trend?:** down — price pressed toward 7d support at 252.05, sits below the 20DMA (252.75), and could not sustain moves near the 261.75 resistance.
 
-2.2. **7d Buy/Sell Points?:** Buying near 257.71 and the 7d support at 254.61 looked favorable, while selling into strength around 261.75–262.23 aligned with resistance.
+2.2. **7d Buy/Sell Points?:** Buys looked favorable near the 252.05 support or around the suggested buy zone at 257.71; sells looked prudent near the 261.75 resistance/suggested sell zone.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** low
 
 ## 3. Longterm
 
-3.1. **Stability?:** QQQM is an index-tracking ETF from Invesco tied to the long-established Nasdaq-100 methodology compiled by Nasdaq. It is non-diversified but holds 100 large-cap nonfinancial constituents. Recent week data show medium volume and low volatility, and quick facts note 1-year performance is near-peak. Institutional purchases reported in filings further suggest acceptance and stability.
+3.1. **Stability?:** QQQM is an index-tracking ETF that holds the securities of the Nasdaq-100 in accordance with Nasdaq’s guidelines, providing structural stability versus a single operating company. It invests at least 90% in index constituents and does not maintain a traditional operating balance sheet, instead holding a portfolio of large, liquid stocks. The fund is legally non-diversified, implying concentration risk in Nasdaq-100 nonfinancials despite broad large-cap exposure. Recent technicals show low volatility (ATR ~1.4% of price), suggesting currently stable trading conditions.
 
-3.2. **Innovating?:** The ETF itself is not innovating; growth is driven by the innovation of its Nasdaq-100 constituents (e.g., tech and AI leaders). Coverage highlights low-cost exposure and outperformance versus the S&P 500 over the past year.
+3.2. **Innovating?:** As a passive ETF, QQQM itself is not an operating innovator, but it provides targeted exposure to innovative tech and AI leaders within the Nasdaq-100. Recent coverage cites 24%–25.4% 1-year outperformance versus the S&P 500 and advisor allocations, indicating growth in interest and performance tied to those innovators.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage from The Motley Fool highlighted QQQM as a smart, low-cost way to access tech and AI leaders with significant Magnificent Seven exposure. Institutions such as Congress Park Capital and Walker Financial disclosed sizable purchases, while articles cited roughly 24%–25% 1-year returns outperforming the S&P 500. Related pieces compare QQQM with QQQ and emphasize the Nasdaq-100’s long-run strength. With upbeat narratives and inflows, a “sell the news” reaction is plausible, aligning with quick facts indicating sell the news and not buy the rumor.
+4.1. **News:** Recent coverage highlights advisor purchases (Congress Park Capital, Walker Financial) and endorsements positioning QQQM as a low-cost way to access tech/AI growth, with 24%–25.4% 1-year returns outpacing the S&P 500. Articles emphasize Magnificent Seven exposure and the Nasdaq-100’s strong decade-long performance. The context suggests positive sentiment and inflows rather than rumor-driven spikes. Given quick facts indicating “Buy the rumor? no” and “Sell the news? no,” there’s little evidence of a “buy the rumor, sell the news” dynamic in recent trading.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariff headlines have influenced broader market sentiment (e.g., reports of market moves tied to tariff policies), but the supplied data does not detail a specific, measurable impact on QQQM.
 
 ## 5. QuickRef
 
@@ -271,14 +271,14 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>unknown</td></tr>
-<tr><td>Price</td><td>254.95</td></tr>
+<tr><td>Price</td><td>252.42</td></tr>
 <tr><td>7d Resistance</td><td>262.23</td></tr>
-<tr><td>7d Support</td><td>254.61</td></tr>
+<tr><td>7d Support</td><td>252.05</td></tr>
 <tr><td>30d Resistance</td><td>262.23</td></tr>
 <tr><td>30d Support</td><td>242.26</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>yes</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
 <tr><td>1yr</td><td>near-peak</td></tr>
@@ -304,12 +304,12 @@ raw_markdown: |
 Gathering context for QQQM...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting QQQM prices from massive.com... (https://api.massive.com/v2/aggs/ticker/QQQM/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting QQQM prices from massive.com... (https://api.massive.com/v2/aggs/ticker/QQQM/range/1/day/2020-10-08/2025-11-06?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/QQQM/2025-11-04?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/QQQM/2025-11-04?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/QQQM/2025-11-06?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/QQQM/2025-11-06?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/QQQM/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/QQQM/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/QQQM?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
