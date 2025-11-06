@@ -158,18 +158,4 @@ sections:
       - number: "5.8"
         label: "Buy the rumor?"
         role: quick_fact
-      - number: "5.9"
-        label: "Sell the news?"
-        role: quick_fact
-      - number: "5.10"
-        label: "7d Trend:"
-        role: quick_fact
-      - number: "5.11"
-        label: "3mo"
-        role: quick_fact
-      - number: "5.12"
-        label: "1yr"
-        role: quick_fact
-      - number: "5.13"
-        label: "5yr"
-        role: quick_fact
+***
