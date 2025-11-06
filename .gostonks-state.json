@@ -1,5 +1,5 @@
 {
-  "last_index": 13,
+  "last_index": 2,
   "tickers": [
     "AAPL",
     "CRWV",
@@ -8,6 +8,7 @@
     "GLD",
     "HOOD",
     "META",
+    "NVO",
     "OKLO",
     "PLTR",
     "PLUG",
@@ -15,6 +16,7 @@
     "QQQM",
     "RBLX",
     "RGTI",
+    "SMCI",
     "SOUN",
     "VKTX"
   ]
