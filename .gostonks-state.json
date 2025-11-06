@@ -1,5 +1,5 @@
 {
-  "last_index": 7,
+  "last_index": 15,
   "tickers": [
     "AAPL",
     "CRWV",
@@ -16,6 +16,7 @@
     "QQQM",
     "RBLX",
     "RGTI",
+    "SMCI",
     "SOUN",
     "VKTX"
   ]
