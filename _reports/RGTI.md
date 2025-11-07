@@ -2,30 +2,30 @@
 layout: default
 title: "RGTI Stock Report"
 ticker: "RGTI"
-date: 2025-11-05
-generated_at: 2025-11-05T18:32:59.456239+00:00
-runtime_seconds: 74.58
+date: 2025-11-07
+generated_at: 2025-11-07T15:22:41.602737+00:00
+runtime_seconds: 106.61
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-05T18:32:59.456239+00:00">2025-11-05 18:32 UTC</time> (runtime 1m 15s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-07T15:22:41.602737+00:00">2025-11-07 15:22 UTC</time> (runtime 1m 47s)
   
   ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company offering a cloud-based platform via its Rigetti QCS and through major cloud providers. Its proprietary quantum-classical infrastructure enables ultra-low-latency integration with public and private clouds, and it has developed the industry's first multi-chip quantum processor; the majority of revenue is from the United States.
+  1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has built the industry’s first multi‑chip quantum processor to scale systems.
   
-  1.2. **Profitable?:** No — the company is not profitable, with cumulative net income of -$164.83M, negative operating and free cash flow, and revenue contracting (-41.6%); a timeline to profitability is not indicated.
+  1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative −$164.83M), negative operating cash flow, and negative free cash flow; no timing to profitability is provided in the data.
   
-  1.3. **Customer & Markets:** Rigetti serves a wide range of end-users who access its quantum computing via the Rigetti QCS platform and through third-party cloud providers. Geographically, most revenue comes from the United States.
+  1.3. **Customer & Markets:** Primary customers are end‑users accessing its quantum computing via the Rigetti QCS platform and through third‑party cloud providers for practical quantum workloads. Most revenue is derived from the United States.
   
-  1.4. **Competition:** Primary competitors include pure-play quantum firms such as IonQ (IONQ), D-Wave Quantum (QBTS), and Quantum Computing Inc. (QUBT), as well as platforms from Microsoft, Google, and Nvidia. The data does not specify Rigetti’s market rank among these competitors.
+  1.4. **Competition:** Competitors include pure‑play quantum firms like IonQ and D‑Wave Quantum (QBTS), as well as big tech players Alphabet, Microsoft, and Nvidia active in quantum computing. Rigetti is a smaller pure‑play competing against these larger incumbents.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — fell from a 7d high near 44.52 toward the 35.00–36.90 area and sits below the 20-DMA (43.66).
+  2.1. **7d Trend?:** down — shares fell from a recent 7d high near 44.52 to about 33.15 and trade well below the 20‑DMA (~42.11).
   
-  2.2. **7d Buy/Sell Points?:** Buys were better near 36.90 and around the 35.00 support; sells were favorable near the 44.52 resistance.
+  2.2. **7d Buy/Sell Points?:** Buying near 34.65 or closer to 32.13 support looked favorable, while selling into 44.52 resistance offered a good exit.
   
   2.3.1. **7d Volume:** low
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Rigetti is an emerging U.S. technology company focused on cloud-delivered quantum computing. Recent results show sustained losses (net income sum -$164.83M) with negative operating and free cash flow, signaling financial pressure. Shares exhibit high volatility and recent volume has been relatively low, adding market risk. Overall, it appears less stable than mature, profitable peers.
+  3.1. **Stability?:** Rigetti is an early‑stage U.S. quantum computing company rather than a fly‑by‑night, and it was set to join the Russell 3000 Index in 2024. However, it remains financially fragile with sustained losses (net income sum −$164.83M), negative operating cash flow, and negative free cash flow. Revenue contracted year over year (−41.6%), and the stock exhibits high volatility, underscoring elevated risk. Overall, its financial profile points to a speculative, higher‑risk company.
   
-  3.2. **Innovating?:** Yes — it is innovating, with an industry-first multi-chip quantum processor and proprietary quantum-classical infrastructure, plus a partnership with Nvidia for interconnection. However, reported revenue growth is currently negative.
+  3.2. **Innovating?:** Yes — it is innovating, evidenced by developing the industry’s first multi‑chip quantum processor and collaborating with Nvidia on NVQLink quantum interconnection. Growth interest is reflected in October’s stock surge tied to analyst support and broader sector investment signals.
   
   ## 4. Context
   
-  4.1. **News:** Shares surged 48.6% in October on bullish analyst commentary, JPMorgan’s tech investment plans citing quantum computing, and a new Nvidia partnership for interconnection. Coverage highlights broader investor interest via a quantum ETF and frames quantum stocks as high-upside but risky. Other pieces warn of a potential bubble after outsized sector gains, tempering exuberance. Elon Musk’s positive reaction to Alphabet’s Echoes algorithm and ‘verifiable quantum advantage’ adds supportive sentiment, but the mix of hype and caution suggests the classic ‘sell the news’ risk after sharp run-ups.
+  4.1. **News:** Recent coverage highlighted Nvidia’s NVQLink announcement and Rigetti’s October rally driven by bullish analyst reports, JPMorgan’s quantum spending commentary, and a partnership with Nvidia for interconnection. Other articles frame the stock as highly speculative despite gains and note broader quantum interest via ETFs. Through a ‘buy the rumor, sell the news’ lens, the move appears buzz‑aided, but quick‑facts indicate ‘buy the rumor? no’ and ‘sell the news? no,’ suggesting no clear fade‑the‑news setup in the supplied data.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Reports indicate quantum‑computing stocks, including RGTI, have swung on tariff headlines, adding short‑term volatility to the group. Coverage also notes tariffs could pressure costs tied to China‑related manufacturing and assembly.
   
   ## 5. QuickRef
   
@@ -50,9 +50,9 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-164.83M</td></tr>
-  <tr><td>Price</td><td>36.82</td></tr>
+  <tr><td>Price</td><td>33.15</td></tr>
   <tr><td>7d Resistance</td><td>44.52</td></tr>
-  <tr><td>7d Support</td><td>35.00</td></tr>
+  <tr><td>7d Support</td><td>32.13</td></tr>
   <tr><td>30d Resistance</td><td>58.15</td></tr>
   <tr><td>30d Support</td><td>28.45</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
@@ -71,7 +71,9 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>The Guardian: rumor</li>
   </ul>
   </div>
   
@@ -82,12 +84,12 @@ raw_markdown: |
   Gathering context for RGTI...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-05?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-05?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -121,97 +123,69 @@ raw_markdown: |
     massive.com returned 5 headlines
   Running supplementary searches...
     google_custom_search search -&gt; RGTI core business (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+core+business&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RGTI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+product+portfolio&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI business model (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 2 result(s)
     google_custom_search search -&gt; RGTI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+profitability&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RGTI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+earnings+trend&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI profit outlook (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; RGTI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+target+customers&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RGTI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+market+segments&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI market expansion (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 2 result(s)
     google_custom_search search -&gt; RGTI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+competitors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RGTI market share (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+market+share&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI competitive landscape (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 1 result(s)
     google_custom_search search -&gt; RGTI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+rumors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; RGTI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+tariffs+news&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI rumor (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=RGTI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=RGTI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; RGTI tariff (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     newsapi search -&gt; RGTI latest news (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; RGTI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+latest+rumor&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI tariffs (priority: newsapi, gnews, guardian)
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; RGTI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: cached 0 result(s)
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+tariff+impact&amp;num=5
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -233,26 +207,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-05T18:32:59.456239+00:00">2025-11-05 18:32 UTC</time> (runtime 1m 15s)
+**Generated:** <time class="js-local-time" datetime="2025-11-07T15:22:41.602737+00:00">2025-11-07 15:22 UTC</time> (runtime 1m 47s)
 
 ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company offering a cloud-based platform via its Rigetti QCS and through major cloud providers. Its proprietary quantum-classical infrastructure enables ultra-low-latency integration with public and private clouds, and it has developed the industry's first multi-chip quantum processor; the majority of revenue is from the United States.
+1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has built the industry’s first multi‑chip quantum processor to scale systems.
 
-1.2. **Profitable?:** No — the company is not profitable, with cumulative net income of -$164.83M, negative operating and free cash flow, and revenue contracting (-41.6%); a timeline to profitability is not indicated.
+1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative −$164.83M), negative operating cash flow, and negative free cash flow; no timing to profitability is provided in the data.
 
-1.3. **Customer & Markets:** Rigetti serves a wide range of end-users who access its quantum computing via the Rigetti QCS platform and through third-party cloud providers. Geographically, most revenue comes from the United States.
+1.3. **Customer & Markets:** Primary customers are end‑users accessing its quantum computing via the Rigetti QCS platform and through third‑party cloud providers for practical quantum workloads. Most revenue is derived from the United States.
 
-1.4. **Competition:** Primary competitors include pure-play quantum firms such as IonQ (IONQ), D-Wave Quantum (QBTS), and Quantum Computing Inc. (QUBT), as well as platforms from Microsoft, Google, and Nvidia. The data does not specify Rigetti’s market rank among these competitors.
+1.4. **Competition:** Competitors include pure‑play quantum firms like IonQ and D‑Wave Quantum (QBTS), as well as big tech players Alphabet, Microsoft, and Nvidia active in quantum computing. Rigetti is a smaller pure‑play competing against these larger incumbents.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — fell from a 7d high near 44.52 toward the 35.00–36.90 area and sits below the 20-DMA (43.66).
+2.1. **7d Trend?:** down — shares fell from a recent 7d high near 44.52 to about 33.15 and trade well below the 20‑DMA (~42.11).
 
-2.2. **7d Buy/Sell Points?:** Buys were better near 36.90 and around the 35.00 support; sells were favorable near the 44.52 resistance.
+2.2. **7d Buy/Sell Points?:** Buying near 34.65 or closer to 32.13 support looked favorable, while selling into 44.52 resistance offered a good exit.
 
 2.3.1. **7d Volume:** low
 
@@ -260,15 +234,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Rigetti is an emerging U.S. technology company focused on cloud-delivered quantum computing. Recent results show sustained losses (net income sum -$164.83M) with negative operating and free cash flow, signaling financial pressure. Shares exhibit high volatility and recent volume has been relatively low, adding market risk. Overall, it appears less stable than mature, profitable peers.
+3.1. **Stability?:** Rigetti is an early‑stage U.S. quantum computing company rather than a fly‑by‑night, and it was set to join the Russell 3000 Index in 2024. However, it remains financially fragile with sustained losses (net income sum −$164.83M), negative operating cash flow, and negative free cash flow. Revenue contracted year over year (−41.6%), and the stock exhibits high volatility, underscoring elevated risk. Overall, its financial profile points to a speculative, higher‑risk company.
 
-3.2. **Innovating?:** Yes — it is innovating, with an industry-first multi-chip quantum processor and proprietary quantum-classical infrastructure, plus a partnership with Nvidia for interconnection. However, reported revenue growth is currently negative.
+3.2. **Innovating?:** Yes — it is innovating, evidenced by developing the industry’s first multi‑chip quantum processor and collaborating with Nvidia on NVQLink quantum interconnection. Growth interest is reflected in October’s stock surge tied to analyst support and broader sector investment signals.
 
 ## 4. Context
 
-4.1. **News:** Shares surged 48.6% in October on bullish analyst commentary, JPMorgan’s tech investment plans citing quantum computing, and a new Nvidia partnership for interconnection. Coverage highlights broader investor interest via a quantum ETF and frames quantum stocks as high-upside but risky. Other pieces warn of a potential bubble after outsized sector gains, tempering exuberance. Elon Musk’s positive reaction to Alphabet’s Echoes algorithm and ‘verifiable quantum advantage’ adds supportive sentiment, but the mix of hype and caution suggests the classic ‘sell the news’ risk after sharp run-ups.
+4.1. **News:** Recent coverage highlighted Nvidia’s NVQLink announcement and Rigetti’s October rally driven by bullish analyst reports, JPMorgan’s quantum spending commentary, and a partnership with Nvidia for interconnection. Other articles frame the stock as highly speculative despite gains and note broader quantum interest via ETFs. Through a ‘buy the rumor, sell the news’ lens, the move appears buzz‑aided, but quick‑facts indicate ‘buy the rumor? no’ and ‘sell the news? no,’ suggesting no clear fade‑the‑news setup in the supplied data.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Reports indicate quantum‑computing stocks, including RGTI, have swung on tariff headlines, adding short‑term volatility to the group. Coverage also notes tariffs could pressure costs tied to China‑related manufacturing and assembly.
 
 ## 5. QuickRef
 
@@ -277,9 +251,9 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-164.83M</td></tr>
-<tr><td>Price</td><td>36.82</td></tr>
+<tr><td>Price</td><td>33.15</td></tr>
 <tr><td>7d Resistance</td><td>44.52</td></tr>
-<tr><td>7d Support</td><td>35.00</td></tr>
+<tr><td>7d Support</td><td>32.13</td></tr>
 <tr><td>30d Resistance</td><td>58.15</td></tr>
 <tr><td>30d Support</td><td>28.45</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
@@ -298,7 +272,9 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>The Guardian: rumor</li>
 </ul>
 </div>
 
@@ -309,12 +285,12 @@ raw_markdown: |
 Gathering context for RGTI...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-05?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-05?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -348,97 +324,69 @@ Massive news: collected 5 articles.
   massive.com returned 5 headlines
 Running supplementary searches...
   google_custom_search search -&gt; RGTI core business (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+core+business&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RGTI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+product+portfolio&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI business model (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 2 result(s)
   google_custom_search search -&gt; RGTI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+profitability&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RGTI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+earnings+trend&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI profit outlook (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; RGTI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+target+customers&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RGTI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+market+segments&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI market expansion (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 2 result(s)
   google_custom_search search -&gt; RGTI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+competitors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RGTI market share (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+market+share&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI competitive landscape (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 1 result(s)
   google_custom_search search -&gt; RGTI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+rumors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; RGTI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+tariffs+news&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI rumor (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=RGTI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=RGTI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; RGTI tariff (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   newsapi search -&gt; RGTI latest news (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; RGTI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+latest+rumor&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI tariffs (priority: newsapi, gnews, guardian)
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; RGTI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: cached 0 result(s)
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+tariff+impact&amp;num=5
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
