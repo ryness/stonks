@@ -52,20 +52,6 @@ function applyLocalTimes(root) {
   });
 }
 
-function formatDateLabel(isoDate) {
-  if (!isoDate) return 'Unknown date';
-  try {
-    const date = new Date(isoDate);
-    return date.toLocaleDateString(undefined, {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric',
-    });
-  } catch (error) {
-    return isoDate;
-  }
-}
-
 function renderMarkdown(markdown) {
   if (window.marked && typeof window.marked.parse === 'function') {
     elements.content.innerHTML = window.marked.parse(markdown);
@@ -81,7 +67,7 @@ function renderReport(report) {
     elements.status.textContent = '';
     return;
   }
-  elements.status.textContent = `${report.title} • ${formatDateLabel(report.date)}`;
+  elements.status.textContent = report.title || '';
   if (report.content_html) {
     elements.content.innerHTML = report.content_html;
   } else if (report.content_markdown) {
