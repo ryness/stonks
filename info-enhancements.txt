@@ -1,3 +1,1 @@
-Make an addition to the quick_fact table, updating both the prompt txt and gostonks script as necessary, an answer to the question of whether the stock is over-bought, over-sold, or just right.
-
-Get rid of --cycle and --all. The only switches should be "godseye", "<ticker>", and nothing. Nothing updates the oldest report AND godseye. 
+Make an addition to the quick_fact table, updating both the prompt txt and gostonks script as necessary, to proovide an answer to the question of whether the stock is over-bought, over-sold, or just right.

@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+		"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+		"files.autoSave": "afterDelay"
 	}
 }

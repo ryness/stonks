@@ -19,7 +19,7 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `GUARDIAN_API_KEY` – optional secondary fallback via The Guardian Open Platform (or use `apikey-guardian.txt`).
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
-With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the rotation state file) back to the default branch.
+With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the SQLite database) back to the default branch.
 
 ### GitHub Pages deployment
 
@@ -38,29 +38,34 @@ Each run now appends structured market data to `data/stonks.db` (SQLite). The da
 
 ### Scheduled rotation
 
-The action also runs automatically every four hours. When invoked without a specific ticker it calls `gostonks.py --cycle`, which:
+The action also runs automatically every four hours. When invoked without a specific ticker it now runs `python gostonks.py` (no arguments), which:
 
-- looks at `_reports/*.md` to determine the sorted ticker list,
-- reads/writes `.gostonks-state.json` to remember progress, and
-- generates the next ticker in the queue before pushing the updated report.
+- scans `_reports/*.md` and rebuilds whichever ticker report is oldest, and
+- immediately follows up with `python gostonks.py GodsEye` to refresh the macro dashboard.
 
 ## Local Report Generation
 
-To create a report locally, ensure the API key files or environment variables are present, then run:
+To refresh everything the automation would (oldest ticker + GodsEye), run:
+
+```bash
+python gostonks.py
+```
+
+To build a specific ticker report, run:
 
 ```bash
 python gostonks.py AAPL
 ```
 
+To build only the macro dashboard:
+
+```bash
+python gostonks.py GodsEye
+```
+
 You can drop optional provider keys into text files in the repo root (`apikey-openai.txt`, `apikey-massive.txt`, `apikey-gnews.txt`, `apikey-guardian.txt`) if you prefer not to export environment variables. The search pipeline will try Google first, then fall back to NewsAPI, GNews, and finally The Guardian whenever earlier providers rate-limit or return no matches.
 
 Generated markdown lands in `_reports/`. You can commit/push manually or let the workflow handle it.
-
-To mimic the scheduled behaviour locally (cycling through tracked tickers), run:
-
-```bash
-python gostonks.py --cycle
-```
 
 ### GodsEye (market overview)
 

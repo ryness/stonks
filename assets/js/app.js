@@ -252,6 +252,9 @@ function populateLinks(reports) {
     return;
   }
   reports.forEach((report, index) => {
+    if ((report.ticker || '').toUpperCase() === 'GODSEYE') {
+      return;
+    }
     const link = document.createElement('a');
     link.href = '#';
     link.textContent = `[${report.ticker}]`;

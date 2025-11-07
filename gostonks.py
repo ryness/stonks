@@ -83,7 +83,6 @@ LOGO_DIR = Path("assets/logos")
 
 CACHE_DIR = Path(".cache")
 REPORTS_DIR = Path("_reports")
-STATE_FILE = Path(".gostonks-state.json")
 FOOTNOTE_MARKER = "^"
 FOOTNOTE_NOTE = f"{FOOTNOTE_MARKER} indicates an API issue or empty result (see generation log{FOOTNOTE_MARKER})."
 CACHE_TTL_SECONDS = 6 * 3600
@@ -280,26 +279,13 @@ def _report_generated_timestamp(ticker: str) -> Optional[float]:
     return None
 
 
-def _load_cycle_state() -> Dict[str, Any]:
-    if not STATE_FILE.exists():
-        return {}
-    try:
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    except Exception:
-        return {}
-
-
-def _save_cycle_state(state: Mapping[str, Any]) -> None:
-    STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-
-
 def select_next_ticker() -> str:
     """Return the ticker whose report was generated longest ago."""
 
-    tickers = discover_tickers()
+    tickers = [ticker for ticker in discover_tickers() if ticker.upper() != GODSEYE_TICKER]
     if not tickers:
         raise RuntimeError(
-            "No reports found in _reports/. Add at least one report before using --cycle."
+            "No non-GodsEye reports found in _reports/. Generate at least one ticker-specific report first."
         )
 
     def recency_key(ticker: str) -> Tuple[float, str]:
@@ -315,20 +301,6 @@ def select_next_ticker() -> str:
         return (timestamp, ticker)
 
     return min(tickers, key=recency_key)
-
-
-def update_cycle_state(ticker: str) -> None:
-    """Record the most recently generated ticker so future cycles advance correctly."""
-
-    ticker_upper = ticker.upper()
-    tickers = discover_tickers()
-    if ticker_upper not in tickers:
-        tickers.append(ticker_upper)
-        tickers.sort()
-    state = dict(_load_cycle_state())
-    state["tickers"] = tickers
-    state["last_index"] = tickers.index(ticker_upper)
-    _save_cycle_state(state)
 
 
 def _parse_llm_instruction(config: Optional[Mapping[str, Any]]) -> Optional[LLMInstruction]:
@@ -2440,17 +2412,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     """Configure command-line arguments for the report generator."""
 
     parser = argparse.ArgumentParser(description="Generate a Jekyll-ready GPT-5 stock report.")
-    parser.add_argument("ticker", nargs="?", help="Ticker symbol to analyse")
-    parser.add_argument(
-        "--cycle",
-        action="store_true",
-        help="Cycle through the next ticker discovered in _reports/ instead of prompting.",
-    )
-    parser.add_argument(
-        "--all",
-        action="store_true",
-        help="Regenerate reports for every ticker already present in _reports/.",
-    )
+    parser.add_argument("target", nargs="?", help="Ticker symbol to analyze (or 'GodsEye')")
     return parser.parse_args(argv)
 
 
@@ -2515,7 +2477,6 @@ def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None
     else:
         assert generated_at is not None and elapsed_seconds is not None
         STORAGE.finish_run(run_id, generated_at, "success", elapsed_seconds)
-        update_cycle_state(ticker_clean)
         print(f"Saved Jekyll report to {output_path}")
 
 
@@ -2523,35 +2484,23 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     """Entry point that generates and writes the Markdown report."""
 
     args = parse_args(argv)
-    if args.all and args.cycle:
-        raise SystemExit("Do not combine --all with --cycle.")
-    if args.cycle and args.ticker:
-        raise SystemExit("Do not pass a ticker when using --cycle.")
-    if args.all and args.ticker:
-        raise SystemExit("Do not pass a ticker when using --all.")
-    if args.all:
-        tickers = discover_tickers()
-        if not tickers:
-            raise SystemExit("No existing reports found in _reports/ to rebuild.")
-        exit_code = 0
-        for ticker in tickers:
-            try:
-                prompt_config = load_prompt_for_ticker(ticker)
-                generate_report_for_ticker(ticker, prompt_config)
-            except Exception as exc:  # pylint: disable=broad-except
-                exit_code = 1
-                log_status(f"Error generating report for {ticker}: {exc}")
-        return exit_code
+    target = (args.target or "").strip()
+    if target:
+        ticker = target.upper()
+        prompt_config = load_prompt_for_ticker(ticker)
+        generate_report_for_ticker(ticker, prompt_config)
+        return 0
 
-    if args.cycle:
-        ticker = select_next_ticker()
-        log_status(f"Cycling to next tracked ticker: {ticker}")
-    else:
-        ticker = args.ticker or input("Enter ticker symbol: ").strip()
-    if not ticker:
-        raise SystemExit("Ticker symbol is required.")
-    prompt_config = load_prompt_for_ticker(ticker)
-    generate_report_for_ticker(ticker, prompt_config)
+    try:
+        oldest_ticker = select_next_ticker()
+    except RuntimeError as exc:
+        raise SystemExit(str(exc)) from exc
+    log_status(f"No ticker specified; refreshing oldest report: {oldest_ticker}")
+    prompt_config = load_prompt_for_ticker(oldest_ticker)
+    generate_report_for_ticker(oldest_ticker, prompt_config)
+    log_status("Refreshing GodsEye market report...")
+    godseye_config = load_prompt_for_ticker(GODSEYE_TICKER)
+    generate_report_for_ticker(GODSEYE_TICKER, godseye_config)
     return 0
 
 
