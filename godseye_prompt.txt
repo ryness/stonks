@@ -1,0 +1,130 @@
+sections:
+  - number: "1"
+    title: "Pulse"
+    searches:
+      newsapi:
+        - "US stock market breadth today"
+        - "global futures market snapshot"
+      google_custom_search:
+        - "what is driving S&P 500 today"
+    summary:
+      number: "1.0"
+      label: "Topline"
+      prompt: "Summarize the current tone across equities, volatility, futures, and rates."
+      llm:
+        type: paragraphs
+        min: 2
+        max: 3
+        guidance: "Highlight whether risk appetite is improving or fading and quantify using provided metrics."
+    items:
+      - number: "1.1"
+        prompt: "How healthy is the market right now based on the benchmark changes?"
+        label: "Market Health"
+        llm:
+          type: string
+          guidance: "Reference breadth, average index change, and volatility/treasury context in 3-4 sentences."
+      - number: "1.2"
+        prompt: "Which benchmarks are leading or lagging over the last day and week?"
+        label: "Leadership"
+        llm:
+          type: string
+          guidance: "Name at least one positive and one negative standout with their 1d % move."
+
+  - number: "2"
+    title: "Drivers"
+    searches:
+      newsapi:
+        - "stock market catalysts today"
+        - "federal reserve commentary today"
+      google_custom_search:
+        - "investors focus today stock market"
+    items:
+      - number: "2.1"
+        prompt: "What macro or geopolitical themes are driving tape?"
+        label: "Catalysts"
+        llm:
+          type: paragraphs
+          min: 2
+          max: 3
+          guidance: "Tie each catalyst to potential impact (risk-on/off) using provided news summaries."
+      - number: "2.2"
+        prompt: "What events or data releases over the next 24h could move the market?"
+        label: "Upcoming Triggers"
+        llm:
+          type: string
+          guidance: "List concrete events (earnings, data, policy) with a short note on expected effect."
+
+  - number: "3"
+    title: "Next 24h"
+    searches:
+      newsapi:
+        - "stock market tomorrow outlook"
+        - "S&P 500 futures overnight"
+    items:
+      - number: "3.1"
+        prompt: "Given everything provided, what is the most likely market direction in the next 24 hours?"
+        label: "Next 24h Bias"
+        instruction: "Respond with 'up', 'down', or 'flat' followed by confidence % and reasoning."
+        llm:
+          type: string
+          guidance: "Ground the call in benchmark changes plus catalysts."
+      - number: "3.2"
+        prompt: "What should traders watch overnight and into the next session?"
+        label: "Watch List"
+        llm:
+          type: paragraphs
+          min: 2
+          max: 3
+          guidance: "Include levels, sectors, or macro prints that align with the predicted move."
+
+  - number: "4"
+    title: "QuickRef"
+    notes:
+      - "Each row shows 1d/7d/30d % change plus the latest close."
+      - "Use it to quickly size up risk-on/risk-off tone."
+    items:
+      - number: "4.1"
+        label: "S&P 500"
+        role: quick_fact
+      - number: "4.2"
+        label: "Dow 30"
+        role: quick_fact
+      - number: "4.3"
+        label: "Nasdaq Composite"
+        role: quick_fact
+      - number: "4.4"
+        label: "Russell 2000"
+        role: quick_fact
+      - number: "4.5"
+        label: "SPY ETF"
+        role: quick_fact
+      - number: "4.6"
+        label: "QQQ ETF"
+        role: quick_fact
+      - number: "4.7"
+        label: "VIX"
+        role: quick_fact
+      - number: "4.8"
+        label: "S&P Fut"
+        role: quick_fact
+      - number: "4.9"
+        label: "Nasdaq Fut"
+        role: quick_fact
+      - number: "4.10"
+        label: "Dow Fut"
+        role: quick_fact
+      - number: "4.11"
+        label: "Russell Fut"
+        role: quick_fact
+      - number: "4.12"
+        label: "10Y Treasury"
+        role: quick_fact
+      - number: "4.13"
+        label: "Gold Fut"
+        role: quick_fact
+      - number: "4.14"
+        label: "WTI Crude"
+        role: quick_fact
+      - number: "4.15"
+        label: "US Dollar"
+        role: quick_fact

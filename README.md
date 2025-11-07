@@ -61,6 +61,10 @@ To mimic the scheduled behaviour locally (cycling through tracked tickers), run:
 ```bash
 python gostonks.py --cycle
 ```
+
+### GodsEye (market overview)
+
+Run `python gostonks.py GodsEye` to build the aggregate *GodsEye Market Report*. It fetches one-, seven-, and thirty-day change data for major equity indices, ETFs, futures, volatility, treasuries, commodities, and the US dollar, then summarises the tone with an LLM plus curated headlines aimed at the next 24 hours. The resulting Markdown lives in `_reports/GODSEYE.md`, complete with a QuickRef table showing the precomputed change stack so you can tweak the prompt later if needed.
 # stonks
 ## Setup
 

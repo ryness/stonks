@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import functools
 import hashlib
 import html
 import json
@@ -53,6 +54,25 @@ except ImportError as exc:
 
 
 PROMPT_PATH = Path("stock-expert_prompt.txt")
+GODSEYE_PROMPT_PATH = Path("godseye_prompt.txt")
+GODSEYE_TICKER = "GODSEYE"
+MARKET_BENCHMARKS = [
+    {"symbol": "^GSPC", "label": "S&P 500", "category": "index"},
+    {"symbol": "^DJI", "label": "Dow 30", "category": "index"},
+    {"symbol": "^IXIC", "label": "Nasdaq Composite", "category": "index"},
+    {"symbol": "^RUT", "label": "Russell 2000", "category": "index"},
+    {"symbol": "SPY", "label": "SPY ETF", "category": "etf"},
+    {"symbol": "QQQ", "label": "QQQ ETF", "category": "etf"},
+    {"symbol": "^VIX", "label": "VIX", "category": "volatility"},
+    {"symbol": "ES=F", "label": "S&P Fut", "category": "futures"},
+    {"symbol": "NQ=F", "label": "Nasdaq Fut", "category": "futures"},
+    {"symbol": "YM=F", "label": "Dow Fut", "category": "futures"},
+    {"symbol": "RTY=F", "label": "Russell Fut", "category": "futures"},
+    {"symbol": "^TNX", "label": "10Y Treasury", "category": "treasury"},
+    {"symbol": "GC=F", "label": "Gold Fut", "category": "commodity"},
+    {"symbol": "CL=F", "label": "WTI Crude", "category": "commodity"},
+    {"symbol": "DX-Y.NYB", "label": "US Dollar", "category": "fx"},
+]
 OPENAI_KEY_FILE = Path("apikey-openai.txt")
 MASSIVE_KEY_FILE = Path("apikey-massive.txt")
 GNEWS_KEY_FILE = Path("apikey-gnews.txt")
@@ -341,10 +361,7 @@ def _parse_searches(raw: Optional[Mapping[str, Any]]) -> Dict[str, List[str]]:
     return searches
 
 
-def load_prompt() -> PromptConfig:
-    """Load the YAML prompt specification into structured configuration."""
-
-    raw = yaml.safe_load(PROMPT_PATH.read_text(encoding="utf-8"))
+def _parse_prompt_payload(raw: Mapping[str, Any]) -> PromptConfig:
     sections: List[SectionSpec] = []
     bullets: Dict[str, BulletSpec] = {}
     llm_tasks: List[BulletSpec] = []
@@ -411,6 +428,35 @@ def load_prompt() -> PromptConfig:
         llm_tasks=llm_tasks,
         quick_fact_numbers=quick_fact_numbers,
     )
+
+
+@functools.lru_cache(maxsize=None)
+def _load_prompt_from_path(path_str: str) -> PromptConfig:
+    path = Path(path_str)
+    if not path.exists():
+        raise RuntimeError(f"Prompt template not found: {path}")
+    raw = yaml.safe_load(path.read_text(encoding="utf-8"))
+    return _parse_prompt_payload(raw or {})
+
+
+def load_prompt(path: Path | str = PROMPT_PATH) -> PromptConfig:
+    """Load the YAML prompt specification into structured configuration."""
+
+    return _load_prompt_from_path(str(path))
+
+
+def prompt_path_for_ticker(ticker: str) -> Path:
+    """Return the correct prompt template for a ticker."""
+
+    if ticker.strip().upper() == GODSEYE_TICKER:
+        return GODSEYE_PROMPT_PATH
+    return PROMPT_PATH
+
+
+def load_prompt_for_ticker(ticker: str) -> PromptConfig:
+    config = load_prompt(prompt_path_for_ticker(ticker))
+    validate_prompt(config)
+    return config
 
 
 def validate_prompt(config: PromptConfig) -> None:
@@ -618,12 +664,22 @@ def _run_search_with_priority(
     return [], fallback_provider, attempts
 
 
-def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[Dict[str, Any]]]:
+def _execute_search_tasks(
+    ticker: str,
+    config: PromptConfig,
+    extra_placeholders: Optional[Mapping[str, str]] = None,
+) -> Dict[str, List[Dict[str, Any]]]:
     tasks: List[Tuple[str, str, str]] = []
     placeholder_values = {
         "ticker": ticker.upper(),
         "ticker_lower": ticker.lower(),
     }
+    if extra_placeholders:
+        for key, value in extra_placeholders.items():
+            try:
+                placeholder_values[str(key)] = str(value)
+            except Exception:
+                continue
 
     def add_tasks(search_map: Dict[str, List[str]], source: str) -> None:
         for provider, phrases in search_map.items():
@@ -669,6 +725,29 @@ def _execute_search_tasks(ticker: str, config: PromptConfig) -> Dict[str, List[D
         )
 
     return results
+
+
+def gather_market_headlines(max_articles: int = 8) -> Tuple[List[Dict[str, Optional[str]]], List[str]]:
+    queries = [
+        "US stock market today",
+        "S&P 500 futures outlook",
+        "Wall Street catalysts next 24 hours",
+    ]
+    per_query = max(1, max_articles // len(queries) or 1)
+    headlines: List[Dict[str, Optional[str]]] = []
+    provider_notes: List[str] = []
+    for query in queries:
+        log_status(f"Market headlines search -> {query}")
+        results, provider_used, attempts = _run_search_with_priority(query, ["newsapi", "gnews", "guardian"])
+        for attempt_provider, status in attempts:
+            log_status(f"    {attempt_provider}: {status}")
+        if results:
+            headlines.extend(results[:per_query])
+            label = (provider_used or "unknown").lower()
+            provider_notes.append(f"{label} ({query})")
+        if len(headlines) >= max_articles:
+            break
+    return headlines[:max_articles], provider_notes
 
 
 def _load_openai_api_key() -> Optional[str]:
@@ -1664,6 +1743,206 @@ def build_quick_facts(
     return facts
 
 
+def _collect_prompt_notes(prompt_config: PromptConfig) -> Dict[str, Any]:
+    return {
+        "sections": [
+            {"number": section.number, "title": section.title, "notes": section.notes}
+            for section in prompt_config.sections
+            if section.notes
+        ],
+        "bullet_instructions": [
+            {"number": bullet.number, "instruction": bullet.instruction}
+            for bullet in prompt_config.bullets.values()
+            if bullet.instruction
+        ],
+    }
+
+
+def _compute_market_metric(spec: Mapping[str, str]) -> Optional[Dict[str, Any]]:
+    symbol = spec.get("symbol")
+    label = spec.get("label") or symbol
+    category = spec.get("category") or "other"
+    if not symbol:
+        return None
+    ticker_obj = yf.Ticker(symbol)
+    try:
+        history = ticker_obj.history(period="2mo", interval="1d")
+    except Exception as exc:
+        log_status(f"Failed to fetch history for {label} ({symbol}): {exc}")
+        return None
+    if history.empty or "Close" not in history:
+        log_status(f"No closing prices available for {label} ({symbol}); skipping.")
+        return None
+    closes = history["Close"].dropna()
+    if closes.empty:
+        log_status(f"All closing prices missing for {label} ({symbol}); skipping.")
+        return None
+    latest_close = float(closes.iloc[-1])
+    latest_timestamp = closes.index[-1]
+    if isinstance(latest_timestamp, dt.datetime):
+        latest_date = latest_timestamp.date().isoformat()
+    else:
+        latest_date = str(latest_timestamp)
+    changes: Dict[str, Dict[str, Optional[float]]] = {}
+    for window, key in ((1, "1d"), (7, "7d"), (30, "30d")):
+        if len(closes) <= window:
+            changes[key] = {"absolute": None, "percent": None, "reference": None}
+            continue
+        prior = float(closes.iloc[-(window + 1)])
+        absolute = latest_close - prior
+        percent = (absolute / prior * 100) if prior else None
+        changes[key] = {
+            "absolute": absolute,
+            "percent": percent,
+            "reference": prior,
+        }
+    return {
+        "symbol": symbol,
+        "label": label,
+        "category": category,
+        "last_close": latest_close,
+        "last_updated": latest_date,
+        "changes": changes,
+    }
+
+
+def _describe_market_metric(metric: Mapping[str, Any]) -> str:
+    def format_change(key: str) -> str:
+        payload = metric.get("changes", {}).get(key) or {}
+        pct = payload.get("percent")
+        if pct is None or math.isnan(pct):
+            return f"{key} n/a"
+        return f"{key} {pct:+.2f}%"
+
+    value_parts = [
+        format_change("1d"),
+        format_change("7d"),
+        format_change("30d"),
+    ]
+    last_close = metric.get("last_close")
+    if isinstance(last_close, (int, float)) and not math.isnan(last_close):
+        value_parts.append(f"last {last_close:,.2f}")
+    return " | ".join(value_parts)
+
+
+def build_market_quick_facts(
+    metrics: Sequence[Mapping[str, Any]],
+    prompt_config: PromptConfig,
+) -> "OrderedDict[str, Dict[str, str]]":
+    lookup = {metric.get("label"): metric for metric in metrics}
+    facts: "OrderedDict[str, Dict[str, str]]" = OrderedDict()
+    for number in prompt_config.quick_fact_numbers:
+        bullet = prompt_config.bullets.get(number)
+        label = (bullet.label if bullet else None) or (bullet.prompt if bullet else None) or number
+        metric = lookup.get(label)
+        value = _describe_market_metric(metric) if metric else "unknown"
+        facts[number] = {"label": label, "value": value}
+    return facts
+
+
+def gather_market_context(prompt_config: PromptConfig) -> Tuple[Dict[str, Any], Dict[str, Any]]:
+    """Collect multi-asset data for the GodsEye aggregate report."""
+
+    log_status("Collecting benchmark performance for GodsEye...")
+    metrics: List[Dict[str, Any]] = []
+    missing_series: List[str] = []
+    latest_trading_day: Optional[str] = None
+    for spec in MARKET_BENCHMARKS:
+        metric = _compute_market_metric(spec)
+        if metric:
+            metrics.append(metric)
+            latest_trading_day = latest_trading_day or metric.get("last_updated")
+        else:
+            missing_series.append(spec.get("label") or spec.get("symbol"))
+    if not metrics:
+        raise RuntimeError("Failed to compute benchmark metrics for GodsEye.")
+
+    log_status(f"Computed {len(metrics)} benchmark series; building quick facts...")
+    quick_facts = build_market_quick_facts(metrics, prompt_config)
+    quick_fact_map = {meta["label"]: meta["value"] for meta in quick_facts.values()}
+    quick_fact_rows = [
+        {"number": number, "label": data["label"], "value": data["value"]}
+        for number, data in quick_facts.items()
+    ]
+
+    news_items, headline_notes = gather_market_headlines()
+    news_source = ", ".join(
+        sorted({note.split()[0].upper() for note in headline_notes if note})
+    ) or "newsapi/gnews/guardian"
+
+    search_results = _execute_search_tasks(
+        GODSEYE_TICKER,
+        prompt_config,
+        extra_placeholders={"ticker": "market", "ticker_lower": "market"},
+    )
+    prompt_notes = _collect_prompt_notes(prompt_config)
+
+    breadth_counts = {"up": 0, "down": 0, "flat": 0}
+    index_changes: List[float] = []
+    for metric in metrics:
+        change = metric.get("changes", {}).get("1d", {}).get("percent")
+        if change is None or math.isnan(change):
+            continue
+        if metric.get("category") in {"index", "etf"}:
+            index_changes.append(change)
+        if change > 0:
+            breadth_counts["up"] += 1
+        elif change < 0:
+            breadth_counts["down"] += 1
+        else:
+            breadth_counts["flat"] += 1
+    average_index_change = statistics.fmean(index_changes) if index_changes else None
+    vix_metric = next((metric for metric in metrics if metric.get("symbol") == "^VIX"), None)
+    treasury_metric = next((metric for metric in metrics if metric.get("symbol") == "^TNX"), None)
+
+    market_health = {
+        "breadth": breadth_counts,
+        "avg_index_change_1d": average_index_change,
+        "vix": vix_metric,
+        "treasury_10y": treasury_metric,
+    }
+
+    data_sources = [
+        "yfinance: benchmark closes & change calculations",
+        f"market headlines: {news_source}",
+    ]
+    if missing_series:
+        data_sources.append(f"missing series: {', '.join(missing_series)}")
+
+    context = {
+        "ticker": GODSEYE_TICKER,
+        "company": {
+            "long_name": "GodsEye Market Monitor",
+            "sector": "Macro Overview",
+            "industry": "Multi-asset",
+            "summary": "Aggregate read on equities, futures, rates, commodities, and volatility.",
+        },
+        "market_metrics": metrics,
+        "market_health": market_health,
+        "market_notes": {"missing_series": missing_series},
+        "news": news_items,
+        "news_source": news_source,
+        "quick_facts": quick_fact_map,
+        "quick_fact_rows": quick_fact_rows,
+        "search_results": search_results,
+        "prompt_notes": prompt_notes,
+        "data_sources": data_sources,
+        "price_data_source": "yfinance",
+        "price_snapshot": {},
+        "buy_sell_levels": {},
+        "volume_assessment": {},
+        "volatility_assessment": {},
+        "massive_technicals": {},
+        "market_prediction_window_hours": 24,
+    }
+    storage_payload = {
+        "histories": {},
+        "latest_trading_day": latest_trading_day,
+        "price_source": "yfinance",
+    }
+    return context, storage_payload
+
+
 def collect_news(ticker_obj: yf.Ticker, limit: int = 5) -> List[Dict[str, Optional[str]]]:
     """Fetch a handful of the latest headlines for the LLM to summarize."""
 
@@ -1748,18 +2027,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
     volume_metrics = evaluate_volume_label(snapshot)
     volatility_metrics = evaluate_volatility_label(snapshot)
     quick_fact_map = {meta["label"]: meta["value"] for meta in quick_facts.values()}
-    prompt_notes = {
-        "sections": [
-            {"number": section.number, "title": section.title, "notes": section.notes}
-            for section in prompt_config.sections
-            if section.notes
-        ],
-        "bullet_instructions": [
-            {"number": bullet.number, "instruction": bullet.instruction}
-            for bullet in prompt_config.bullets.values()
-            if bullet.instruction
-        ],
-    }
+    prompt_notes = _collect_prompt_notes(prompt_config)
 
     source_notes: Dict[str, List[str]] = defaultdict(list)
 
@@ -2128,7 +2396,10 @@ def build_report(
 
     _run_log.clear()
     log_status(f"Gathering context for {ticker.upper()}...")
-    context, storage_payload = gather_context(ticker, prompt_config)
+    if ticker.upper() == GODSEYE_TICKER:
+        context, storage_payload = gather_market_context(prompt_config)
+    else:
+        context, storage_payload = gather_context(ticker, prompt_config)
     log_status("Synthesizing narrative from OpenAI response...")
     llm_answers = call_llm(context, prompt_config)
     context["cli_log"] = list(_run_log)
@@ -2143,13 +2414,16 @@ def write_jekyll_report(
     generated_at: dt.datetime,
     elapsed_seconds: float,
     output_path: Path,
+    *,
+    title: Optional[str] = None,
 ) -> None:
     sanitized = report_body.strip()
     raw_lines = sanitized.splitlines()
+    display_title = title or f"{ticker.upper()} Stock Report"
     front_matter_lines = [
         "---",
         "layout: default",
-        f'title: "{ticker.upper()} Stock Report"',
+        f'title: "{display_title}"',
         f'ticker: "{ticker.upper()}"',
         f"date: {generated_at.date().isoformat()}",
         f"generated_at: {generated_at.isoformat()}",
@@ -2212,7 +2486,17 @@ def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None
         else:
             report_body = header_line
         output_path = REPORTS_DIR / f"{ticker_clean}.md"
-        write_jekyll_report(ticker_clean, report_body, generated_at, elapsed_seconds, output_path)
+        report_title = f"{ticker_clean.upper()} Stock Report"
+        if ticker_clean == GODSEYE_TICKER:
+            report_title = "GodsEye Market Report"
+        write_jekyll_report(
+            ticker_clean,
+            report_body,
+            generated_at,
+            elapsed_seconds,
+            output_path,
+            title=report_title,
+        )
         log_status("Persisting structured data snapshot...")
         STORAGE.persist_run_data(
             run_id=run_id,
@@ -2245,9 +2529,6 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         raise SystemExit("Do not pass a ticker when using --cycle.")
     if args.all and args.ticker:
         raise SystemExit("Do not pass a ticker when using --all.")
-    log_status("Loading prompt template...")
-    prompt_config = load_prompt()
-    validate_prompt(prompt_config)
     if args.all:
         tickers = discover_tickers()
         if not tickers:
@@ -2255,6 +2536,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         exit_code = 0
         for ticker in tickers:
             try:
+                prompt_config = load_prompt_for_ticker(ticker)
                 generate_report_for_ticker(ticker, prompt_config)
             except Exception as exc:  # pylint: disable=broad-except
                 exit_code = 1
@@ -2268,6 +2550,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         ticker = args.ticker or input("Enter ticker symbol: ").strip()
     if not ticker:
         raise SystemExit("Ticker symbol is required.")
+    prompt_config = load_prompt_for_ticker(ticker)
     generate_report_for_ticker(ticker, prompt_config)
     return 0
 
