@@ -17,4 +17,3 @@ The Guardian – only hit if the entire Google → NewsAPI → GNews cha
 Assets/logos CDN – 1 GET for the logo file the first time a ticker is processed (subsequent runs reuse the cached file).
 
 
-Make an addition to the quick_fact table, updating both the prompt txt and gostonks script as necessary, an answer to the question of whether the stock is over-bought, over-sold, or just right.
