@@ -2,46 +2,46 @@
 layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
-date: 2025-11-05
-generated_at: 2025-11-05T15:21:37.703762+00:00
-runtime_seconds: 71.36
+date: 2025-11-07
+generated_at: 2025-11-07T05:14:27.730796+00:00
+runtime_seconds: 73.69
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-05T15:21:37.703762+00:00">2025-11-05 15:21 UTC</time> (runtime 1m 11s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-07T05:14:27.730796+00:00">2025-11-07 05:14 UTC</time> (runtime 1m 14s)
   
   ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Apple designs and sells consumer electronics and software centered on the iPhone, with complementary products including Mac, iPad, and Apple Watch integrated into a cohesive ecosystem. It also offers services such as streaming video and subscription bundles, designs its own software and semiconductors, and manufactures via partners like Foxconn and TSMC, selling through both direct stores and third-party distribution.
+  1.1. **Activities:** Apple designs and sells consumer electronics centered on the iPhone, alongside Mac, iPad, and Apple Watch, all integrated through its software ecosystem and in‑house semiconductors. It monetizes services including streaming video, subscription bundles, AppleCare, cloud, advertising, and payments, while partnering with Foxconn and TSMC for manufacturing and selling via both Apple stores and third‑party distribution.
   
-  1.2. **Profitable?:** Yes — Apple is highly profitable, with ~26.9% profit margin, about $99.3B in recent net income, and $78.9B in free cash flow.
+  1.2. **Profitable?:** Yes — Apple is profitable, with a profit margin about 26.9%, strong free cash flow (about $78.9B), and roughly $99.3B in net income over recent quarters.
   
-  1.3. **Customer & Markets:** Apple serves consumers as well as small and mid-sized businesses, plus the education, enterprise, and government markets. Sales flow through a mix of direct flagship stores and indirect partners/distributors across its consumer electronics and digital services offerings.
+  1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as the education, enterprise, and government markets. Sales are split between direct channels (flagship stores) and a majority through partners and distribution.
   
-  1.4. **Competition:** Apple competes with Microsoft, Alphabet/Google, Amazon, Meta, Nvidia, Netflix, and Disney across devices, operating systems, cloud/content, and services. It ranks among the largest global tech peers alongside these companies.
+  1.4. **Competition:** Principal competitors include Microsoft, Alphabet/Google, Amazon, Meta, Nvidia, Netflix, Disney, and Tesla. Apple ranks among the largest companies in the world alongside these mega-cap peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares are below 7d resistance (277.32) and hovering near support around 266.25.
+  2.1. **7d Trend?:** down - price failed near 277.32 resistance and eased toward the 266-270 area, closing at 269.77.
   
-  2.2. **7d Buy/Sell Points?:** Notable levels were a buy near support around 266.25 and a sell near the local high/resistance around 271.49.
+  2.2. **7d Buy/Sell Points?:** Pullbacks near 266.93-266.25 (support) offered buys, while bounces toward 277.32 (resistance) were sells.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** low
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Apple is a long-established, mega-cap technology company and one of the largest globally. Stability is supported by consistent profitability (about $99B recent net income) and strong cash generation ($111.5B operating cash flow and $78.9B free cash flow). Its diversified hardware-and-services ecosystem and broad distribution underpin durable revenues and margins.
+  3.1. **Stability?:** Apple is a long-tenured, mega-cap firm and is described as among the largest companies in the world. It shows durable profitability (profit margin about 26.9%) with strong cash generation (free cash flow about $78.9B; operating cash flow about $111.5B). Distribution is diversified, with slightly less than half of sales direct and the majority via partners. These factors indicate a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Yes — it is innovating via services (streaming, subscription bundles) and augmented reality while designing its own semiconductors and software. Recent 7.9% revenue growth and 86.4% earnings growth point to ongoing execution.
+  3.2. **Innovating?:** Apple is innovating, adding services like streaming, subscription bundles, and augmented reality while designing its own chips. Recent coverage notes a cautious AI strategy that may be advantageous.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines emphasize market context and AI: Berkshire’s portfolio highlights Apple among its AI plays, while Microsoft reported a large cloud/AI backlog; a separate piece argues bubble risk is low. Futures commentary flags short‑term S&P 500 E‑mini weakness, suggesting caution for mega-caps. With little Apple-specific catalyst in the headlines, the ‘buy the rumor, sell the news’ setup looks muted, aligning with quick facts indicating no for both.
+  4.1. **News:** Recent coverage highlights Apple's cautious approach to AI that could be an advantage (Investing.com). Broader market pieces flag concentration risk in mega-cap tech and put Apple in focus as futures reacted to Supreme Court questions around tariff authority (Motley Fool, Benzinga). Live earnings coverage also kept Apple in the spotlight into the holiday season. Given quick facts showing 'Buy the rumor? no,' the setup favors reacting to actual results over chasing rumor-driven spikes.
   
-  4.2. **Tarrifs:** Tariffs have intermittently pressured AAPL, with reports of potential gross margin/EPS impact and management citing up to about a $900M quarterly hit, while pauses or potential exemptions have buoyed the stock.
+  4.2. **Tarrifs:** Tariff headlines have moved AAPL: pauses or exemption hopes boosted shares, while analysts and management flagged margin pressure and around a $900M quarterly hit. Court scrutiny of tariff authority adds uncertainty around future impacts.
   
   ## 5. QuickRef
   
@@ -50,18 +50,13 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$99.28B</td></tr>
-  <tr><td>Price</td><td>268.95</td></tr>
+  <tr><td>Price</td><td>269.77</td></tr>
   <tr><td>7d Resistance</td><td>277.32</td></tr>
   <tr><td>7d Support</td><td>266.25</td></tr>
   <tr><td>30d Resistance</td><td>277.32</td></tr>
   <tr><td>30d Support</td><td>244.00</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>near-peak</td></tr>
-  <tr><td>1yr</td><td>near-peak</td></tr>
-  <tr><td>5yr</td><td>peak</td></tr>
   </tbody></table>
   </div>
   
@@ -84,12 +79,12 @@ raw_markdown: |
   Gathering context for AAPL...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-05?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/AAPL/2025-11-05?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-06?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/AAPL/2025-11-06?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -207,42 +202,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-05T15:21:37.703762+00:00">2025-11-05 15:21 UTC</time> (runtime 1m 11s)
+**Generated:** <time class="js-local-time" datetime="2025-11-07T05:14:27.730796+00:00">2025-11-07 05:14 UTC</time> (runtime 1m 14s)
 
 ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Apple designs and sells consumer electronics and software centered on the iPhone, with complementary products including Mac, iPad, and Apple Watch integrated into a cohesive ecosystem. It also offers services such as streaming video and subscription bundles, designs its own software and semiconductors, and manufactures via partners like Foxconn and TSMC, selling through both direct stores and third-party distribution.
+1.1. **Activities:** Apple designs and sells consumer electronics centered on the iPhone, alongside Mac, iPad, and Apple Watch, all integrated through its software ecosystem and in‑house semiconductors. It monetizes services including streaming video, subscription bundles, AppleCare, cloud, advertising, and payments, while partnering with Foxconn and TSMC for manufacturing and selling via both Apple stores and third‑party distribution.
 
-1.2. **Profitable?:** Yes — Apple is highly profitable, with ~26.9% profit margin, about $99.3B in recent net income, and $78.9B in free cash flow.
+1.2. **Profitable?:** Yes — Apple is profitable, with a profit margin about 26.9%, strong free cash flow (about $78.9B), and roughly $99.3B in net income over recent quarters.
 
-1.3. **Customer & Markets:** Apple serves consumers as well as small and mid-sized businesses, plus the education, enterprise, and government markets. Sales flow through a mix of direct flagship stores and indirect partners/distributors across its consumer electronics and digital services offerings.
+1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as the education, enterprise, and government markets. Sales are split between direct channels (flagship stores) and a majority through partners and distribution.
 
-1.4. **Competition:** Apple competes with Microsoft, Alphabet/Google, Amazon, Meta, Nvidia, Netflix, and Disney across devices, operating systems, cloud/content, and services. It ranks among the largest global tech peers alongside these companies.
+1.4. **Competition:** Principal competitors include Microsoft, Alphabet/Google, Amazon, Meta, Nvidia, Netflix, Disney, and Tesla. Apple ranks among the largest companies in the world alongside these mega-cap peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares are below 7d resistance (277.32) and hovering near support around 266.25.
+2.1. **7d Trend?:** down - price failed near 277.32 resistance and eased toward the 266-270 area, closing at 269.77.
 
-2.2. **7d Buy/Sell Points?:** Notable levels were a buy near support around 266.25 and a sell near the local high/resistance around 271.49.
+2.2. **7d Buy/Sell Points?:** Pullbacks near 266.93-266.25 (support) offered buys, while bounces toward 277.32 (resistance) were sells.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** low
 
 ## 3. Longterm
 
-3.1. **Stability?:** Apple is a long-established, mega-cap technology company and one of the largest globally. Stability is supported by consistent profitability (about $99B recent net income) and strong cash generation ($111.5B operating cash flow and $78.9B free cash flow). Its diversified hardware-and-services ecosystem and broad distribution underpin durable revenues and margins.
+3.1. **Stability?:** Apple is a long-tenured, mega-cap firm and is described as among the largest companies in the world. It shows durable profitability (profit margin about 26.9%) with strong cash generation (free cash flow about $78.9B; operating cash flow about $111.5B). Distribution is diversified, with slightly less than half of sales direct and the majority via partners. These factors indicate a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Yes — it is innovating via services (streaming, subscription bundles) and augmented reality while designing its own semiconductors and software. Recent 7.9% revenue growth and 86.4% earnings growth point to ongoing execution.
+3.2. **Innovating?:** Apple is innovating, adding services like streaming, subscription bundles, and augmented reality while designing its own chips. Recent coverage notes a cautious AI strategy that may be advantageous.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines emphasize market context and AI: Berkshire’s portfolio highlights Apple among its AI plays, while Microsoft reported a large cloud/AI backlog; a separate piece argues bubble risk is low. Futures commentary flags short‑term S&P 500 E‑mini weakness, suggesting caution for mega-caps. With little Apple-specific catalyst in the headlines, the ‘buy the rumor, sell the news’ setup looks muted, aligning with quick facts indicating no for both.
+4.1. **News:** Recent coverage highlights Apple's cautious approach to AI that could be an advantage (Investing.com). Broader market pieces flag concentration risk in mega-cap tech and put Apple in focus as futures reacted to Supreme Court questions around tariff authority (Motley Fool, Benzinga). Live earnings coverage also kept Apple in the spotlight into the holiday season. Given quick facts showing 'Buy the rumor? no,' the setup favors reacting to actual results over chasing rumor-driven spikes.
 
-4.2. **Tarrifs:** Tariffs have intermittently pressured AAPL, with reports of potential gross margin/EPS impact and management citing up to about a $900M quarterly hit, while pauses or potential exemptions have buoyed the stock.
+4.2. **Tarrifs:** Tariff headlines have moved AAPL: pauses or exemption hopes boosted shares, while analysts and management flagged margin pressure and around a $900M quarterly hit. Court scrutiny of tariff authority adds uncertainty around future impacts.
 
 ## 5. QuickRef
 
@@ -251,18 +246,13 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$99.28B</td></tr>
-<tr><td>Price</td><td>268.95</td></tr>
+<tr><td>Price</td><td>269.77</td></tr>
 <tr><td>7d Resistance</td><td>277.32</td></tr>
 <tr><td>7d Support</td><td>266.25</td></tr>
 <tr><td>30d Resistance</td><td>277.32</td></tr>
 <tr><td>30d Support</td><td>244.00</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>near-peak</td></tr>
-<tr><td>1yr</td><td>near-peak</td></tr>
-<tr><td>5yr</td><td>peak</td></tr>
 </tbody></table>
 </div>
 
@@ -285,12 +275,12 @@ raw_markdown: |
 Gathering context for AAPL...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-05?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/AAPL/2025-11-05?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-06?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/AAPL/2025-11-06?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
