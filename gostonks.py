@@ -19,7 +19,7 @@ import time
 from collections import OrderedDict, defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
+from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple, cast
 from urllib.parse import urlencode, urlparse, parse_qs
 
 try:
@@ -1685,6 +1685,22 @@ def build_quick_facts(
     else:
         trend_answer = "flat"
 
+    def classify_overbought_state() -> str:
+        def has_value(value: Optional[float]) -> bool:
+            return value is not None and not math.isnan(value)
+
+        if not has_value(close):
+            return "unknown"
+        is_overbought = has_value(resistance) and close >= cast(float, resistance) * 0.99
+        is_oversold = has_value(support) and close <= cast(float, support) * 1.01
+        if is_overbought and not is_oversold:
+            return "overbought"
+        if is_oversold and not is_overbought:
+            return "oversold"
+        if is_overbought and is_oversold:
+            return "unknown"
+        return "in the middle"
+
     computed: Dict[str, str] = {}
     if prompt_config.quick_fact_numbers:
         first_key = prompt_config.quick_fact_numbers[0]
@@ -1702,6 +1718,7 @@ def build_quick_facts(
         "3mo": position_for("3mo"),
         "1yr": position_for("1y"),
         "5yr": position_for("5y"),
+        "Overbought/Sold?": classify_overbought_state(),
     }
 
     facts: "OrderedDict[str, Dict[str, str]]" = OrderedDict()
