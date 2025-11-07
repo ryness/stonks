@@ -3,29 +3,29 @@ layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
 date: 2025-11-07
-generated_at: 2025-11-07T07:14:42.516547+00:00
-runtime_seconds: 84.70
+generated_at: 2025-11-07T08:13:24.364804+00:00
+runtime_seconds: 89.14
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-07T07:14:42.516547+00:00">2025-11-07 07:14 UTC</time> (runtime 1m 25s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-07T08:13:24.364804+00:00">2025-11-07 08:13 UTC</time> (runtime 1m 29s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform that powers natural-language interactions for enterprises and product creators. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents serving sectors such as automotive, restaurants, smart devices, retail, financial services, and healthcare.
+  1.1. **Activities:** SoundHound AI provides an independent voice AI platform that delivers conversational experiences across industries including retail, financial services, healthcare, automotive, smart devices, and restaurants. Its product suite includes Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents sold to product creators and service providers.
   
-  1.2. **Profitable?:** No — it remains unprofitable with negative net income (aggregate −$225.14M), a −1.71 profit margin, and negative operating cash flow; while prior commentary pointed to profitability by 2025, recent coverage still highlights cash burn and no current profitability.
+  1.2. **Profitable?:** No — it is not profitable, with cumulative net losses of $225.1M, a -171% profit margin, and negative operating/free cash flow; recent coverage also cites ongoing cash burn and operating losses.
   
-  1.3. **Customer & Markets:** Primary customers are enterprises and product creators across automotive, restaurants/QSR, smart devices, retail, financial services, and healthcare. Partnerships cited include Stellantis and Mercedes, indicating deep ties in automotive alongside enterprise call answering and ordering use cases.
+  1.3. **Customer & Markets:** Primary customers are enterprises and OEMs/product creators across automotive (e.g., partnerships with Stellantis and Mercedes), restaurants, retailers, financial services, healthcare, and smart device makers. It serves multiple industry verticals globally, with U.S.-based operations.
   
-  1.4. **Competition:** Competitor sets cited include large ecosystem players like NVIDIA and Stellantis. SoundHound is a smaller, specialized voice-AI provider relative to these larger competitors, with no clear market-leader status indicated.
+  1.4. **Competition:** Listed competitors/alternatives include NVIDIA and Stellantis per MarketBeat and the provided competitor list. Relative market ranking versus these larger peers is not specified in the data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the stock closed at 14.23 near 7d support, below its 20-DMA (18.03) and off a local high of 17.85.
+  2.1. **7d Trend?:** down, as price slid from a local high near 17.85 to close at 14.23 below the 20-day average and near stated 7-day support.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 14.23 (support/suggested buy zone) and selling into 17.85 (resistance/suggested sell zone) offered favorable risk-reward during this window.
+  2.2. **7d Buy/Sell Points?:** Pullbacks near 14.23 (support/suggested buy zone ~14.225) were attractive buys, while rallies toward 17.85 (suggested sell/local high) or resistance near 18.76 offered sell opportunities.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** While growing quickly, the company shows limited financial stability at present: cumulative net income is negative (−$225.14M) with a −1.71 profit margin and −$112M operating cash flow. News cites cash burn and dilution concerns despite strong revenue growth (e.g., Q2 revenue tripled to $42.7M). Partnerships with large brands like Stellantis and Mercedes and diversified vertical exposure add some durability, but the overall profile is still speculative rather than steady.
+  3.1. **Stability?:** SoundHound is a publicly traded U.S. technology company with enterprise partnerships such as Stellantis and Mercedes, indicating commercial traction. Financially, it remains loss-making with a -$225.1M cumulative net income, -171% profit margin, and negative operating and free cash flow. Coverage highlights cash burn and stock dilution despite rapid revenue growth. Overall, it is a high-growth but financially fragile company rather than a mature, cash-generative institution.
   
-  3.2. **Innovating?:** Yes — it is actively innovating, shifting to voice-first agentic AI via the Amelia acquisition and exploring generative AI synergies. Rapid revenue growth (e.g., 217% y/y in a recent quarter) underscores momentum.
+  3.2. **Innovating?:** Yes — it is innovating, combining generative AI with speech recognition and shifting to voice-first agentic AI after acquiring Amelia; it also reported Q2 revenue tripling to $42.7M year over year.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights rapid growth (Q2 revenue tripled to $42.7M; 217% quarterly growth) and new directions (agentic AI via the Amelia acquisition) alongside partnerships with Stellantis and Mercedes. However, multiple pieces flag ongoing cash burn, operating losses, and dilution, with one article calling the stock a hold and another noting a ~30% pullback. Other commentary referenced a 143% six‑month surge earlier and ambitious growth plans, but also potential challenges ahead. This mix suggests classic buy-the-rumor, sell-the-news dynamics: enthusiasm on growth headlines followed by selling on profitability concerns.
+  4.1. **News:** Recent articles note Q2 revenue tripled to $42.7M but flag cash burn, dilution, and an ongoing lack of profitability, leading to a cautious 'hold' stance. The company is pursuing generative AI and speech-recognition synergies with partnerships like Stellantis and Mercedes, and is transitioning after acquiring Amelia. Coverage highlights a prior 143% six-month surge and a subsequent near-30% pullback, framing SOUN as speculative. In the context of 'buy the rumor, sell the news,' strong partnership and growth headlines appear to have been followed by selling on profitability and dilution concerns.
   
-  4.2. **Tarrifs:** Reports indicate tariff headlines accelerated a stock decline in early April 2025, adding pressure even as shares were already falling. Net effect: negative sentiment and incremental downside tied to tariff news.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -51,12 +51,17 @@ raw_markdown: |
   <tbody>
   <tr><td>Last Q4</td><td>$-225.14M</td></tr>
   <tr><td>Price</td><td>14.23</td></tr>
-  <tr><td>7d Resistance</td><td>18.36</td></tr>
+  <tr><td>7d Resistance</td><td>18.76</td></tr>
   <tr><td>7d Support</td><td>14.23</td></tr>
   <tr><td>30d Resistance</td><td>22.17</td></tr>
   <tr><td>30d Support</td><td>14.23</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
+  <tr><td>5yr</td><td>middle</td></tr>
   </tbody></table>
   </div>
   
@@ -206,26 +211,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-07T07:14:42.516547+00:00">2025-11-07 07:14 UTC</time> (runtime 1m 25s)
+**Generated:** <time class="js-local-time" datetime="2025-11-07T08:13:24.364804+00:00">2025-11-07 08:13 UTC</time> (runtime 1m 29s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform that powers natural-language interactions for enterprises and product creators. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents serving sectors such as automotive, restaurants, smart devices, retail, financial services, and healthcare.
+1.1. **Activities:** SoundHound AI provides an independent voice AI platform that delivers conversational experiences across industries including retail, financial services, healthcare, automotive, smart devices, and restaurants. Its product suite includes Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents sold to product creators and service providers.
 
-1.2. **Profitable?:** No — it remains unprofitable with negative net income (aggregate −$225.14M), a −1.71 profit margin, and negative operating cash flow; while prior commentary pointed to profitability by 2025, recent coverage still highlights cash burn and no current profitability.
+1.2. **Profitable?:** No — it is not profitable, with cumulative net losses of $225.1M, a -171% profit margin, and negative operating/free cash flow; recent coverage also cites ongoing cash burn and operating losses.
 
-1.3. **Customer & Markets:** Primary customers are enterprises and product creators across automotive, restaurants/QSR, smart devices, retail, financial services, and healthcare. Partnerships cited include Stellantis and Mercedes, indicating deep ties in automotive alongside enterprise call answering and ordering use cases.
+1.3. **Customer & Markets:** Primary customers are enterprises and OEMs/product creators across automotive (e.g., partnerships with Stellantis and Mercedes), restaurants, retailers, financial services, healthcare, and smart device makers. It serves multiple industry verticals globally, with U.S.-based operations.
 
-1.4. **Competition:** Competitor sets cited include large ecosystem players like NVIDIA and Stellantis. SoundHound is a smaller, specialized voice-AI provider relative to these larger competitors, with no clear market-leader status indicated.
+1.4. **Competition:** Listed competitors/alternatives include NVIDIA and Stellantis per MarketBeat and the provided competitor list. Relative market ranking versus these larger peers is not specified in the data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the stock closed at 14.23 near 7d support, below its 20-DMA (18.03) and off a local high of 17.85.
+2.1. **7d Trend?:** down, as price slid from a local high near 17.85 to close at 14.23 below the 20-day average and near stated 7-day support.
 
-2.2. **7d Buy/Sell Points?:** Buying near 14.23 (support/suggested buy zone) and selling into 17.85 (resistance/suggested sell zone) offered favorable risk-reward during this window.
+2.2. **7d Buy/Sell Points?:** Pullbacks near 14.23 (support/suggested buy zone ~14.225) were attractive buys, while rallies toward 17.85 (suggested sell/local high) or resistance near 18.76 offered sell opportunities.
 
 2.3.1. **7d Volume:** med
 
@@ -233,15 +238,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** While growing quickly, the company shows limited financial stability at present: cumulative net income is negative (−$225.14M) with a −1.71 profit margin and −$112M operating cash flow. News cites cash burn and dilution concerns despite strong revenue growth (e.g., Q2 revenue tripled to $42.7M). Partnerships with large brands like Stellantis and Mercedes and diversified vertical exposure add some durability, but the overall profile is still speculative rather than steady.
+3.1. **Stability?:** SoundHound is a publicly traded U.S. technology company with enterprise partnerships such as Stellantis and Mercedes, indicating commercial traction. Financially, it remains loss-making with a -$225.1M cumulative net income, -171% profit margin, and negative operating and free cash flow. Coverage highlights cash burn and stock dilution despite rapid revenue growth. Overall, it is a high-growth but financially fragile company rather than a mature, cash-generative institution.
 
-3.2. **Innovating?:** Yes — it is actively innovating, shifting to voice-first agentic AI via the Amelia acquisition and exploring generative AI synergies. Rapid revenue growth (e.g., 217% y/y in a recent quarter) underscores momentum.
+3.2. **Innovating?:** Yes — it is innovating, combining generative AI with speech recognition and shifting to voice-first agentic AI after acquiring Amelia; it also reported Q2 revenue tripling to $42.7M year over year.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights rapid growth (Q2 revenue tripled to $42.7M; 217% quarterly growth) and new directions (agentic AI via the Amelia acquisition) alongside partnerships with Stellantis and Mercedes. However, multiple pieces flag ongoing cash burn, operating losses, and dilution, with one article calling the stock a hold and another noting a ~30% pullback. Other commentary referenced a 143% six‑month surge earlier and ambitious growth plans, but also potential challenges ahead. This mix suggests classic buy-the-rumor, sell-the-news dynamics: enthusiasm on growth headlines followed by selling on profitability concerns.
+4.1. **News:** Recent articles note Q2 revenue tripled to $42.7M but flag cash burn, dilution, and an ongoing lack of profitability, leading to a cautious 'hold' stance. The company is pursuing generative AI and speech-recognition synergies with partnerships like Stellantis and Mercedes, and is transitioning after acquiring Amelia. Coverage highlights a prior 143% six-month surge and a subsequent near-30% pullback, framing SOUN as speculative. In the context of 'buy the rumor, sell the news,' strong partnership and growth headlines appear to have been followed by selling on profitability and dilution concerns.
 
-4.2. **Tarrifs:** Reports indicate tariff headlines accelerated a stock decline in early April 2025, adding pressure even as shares were already falling. Net effect: negative sentiment and incremental downside tied to tariff news.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -251,12 +256,17 @@ raw_markdown: |
 <tbody>
 <tr><td>Last Q4</td><td>$-225.14M</td></tr>
 <tr><td>Price</td><td>14.23</td></tr>
-<tr><td>7d Resistance</td><td>18.36</td></tr>
+<tr><td>7d Resistance</td><td>18.76</td></tr>
 <tr><td>7d Support</td><td>14.23</td></tr>
 <tr><td>30d Resistance</td><td>22.17</td></tr>
 <tr><td>30d Support</td><td>14.23</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
+<tr><td>5yr</td><td>middle</td></tr>
 </tbody></table>
 </div>
 
