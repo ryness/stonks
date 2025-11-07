@@ -2,46 +2,46 @@
 layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
-date: 2025-11-05
-generated_at: 2025-11-05T17:30:05.678494+00:00
-runtime_seconds: 94.47
+date: 2025-11-07
+generated_at: 2025-11-07T07:14:42.516547+00:00
+runtime_seconds: 84.70
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-05T17:30:05.678494+00:00">2025-11-05 17:30 UTC</time> (runtime 1m 34s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-07T07:14:42.516547+00:00">2025-11-07 07:14 UTC</time> (runtime 1m 25s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI provides an independent voice AI platform that powers conversational experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
+  1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform that powers natural-language interactions for enterprises and product creators. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents serving sectors such as automotive, restaurants, smart devices, retail, financial services, and healthcare.
   
-  1.2. **Profitable?:** No — it remains unprofitable with a -171% profit margin, negative operating cash flow, and negative free cash flow; coverage also notes ongoing cash burn and no current profitability.
+  1.2. **Profitable?:** No — it remains unprofitable with negative net income (aggregate −$225.14M), a −1.71 profit margin, and negative operating cash flow; while prior commentary pointed to profitability by 2025, recent coverage still highlights cash burn and no current profitability.
   
-  1.3. **Customer & Markets:** Primary customers are enterprise product creators and service providers in retail, financial services, healthcare, automotive, smart devices, and restaurant sectors. It serves these markets with multilingual voice AI solutions, with operations based in the United States.
+  1.3. **Customer & Markets:** Primary customers are enterprises and product creators across automotive, restaurants/QSR, smart devices, retail, financial services, and healthcare. Partnerships cited include Stellantis and Mercedes, indicating deep ties in automotive alongside enterprise call answering and ordering use cases.
   
-  1.4. **Competition:** Listed competitor candidates include NVIDIA and Stellantis. Relative positioning versus these larger players isn't specified in the data.
+  1.4. **Competition:** Competitor sets cited include large ecosystem players like NVIDIA and Stellantis. SoundHound is a smaller, specialized voice-AI provider relative to these larger competitors, with no clear market-leader status indicated.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, with price sliding from a local high ~17.85 toward support ~15.01 and closing below the 20-day average.
+  2.1. **7d Trend?:** down — the stock closed at 14.23 near 7d support, below its 20-DMA (18.03) and off a local high of 17.85.
   
-  2.2. **7d Buy/Sell Points?:** Buying near support around 15.01 looked favorable, while selling into 17.85 to 18.76 resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 14.23 (support/suggested buy zone) and selling into 17.85 (resistance/suggested sell zone) offered favorable risk-reward during this window.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SoundHound is a publicly listed U.S. technology company, but its financial profile is early-stage. It posted cumulative net losses of about -$225.14M, with negative operating cash flow (-$112.1M) and negative free cash flow, which pressures stability. Revenue growth is strong (217% YoY and a Q2 jump to $42.7M per coverage), indicating traction. The stock shows high volatility (ATR ~8.45% of price), implying elevated risk.
+  3.1. **Stability?:** While growing quickly, the company shows limited financial stability at present: cumulative net income is negative (−$225.14M) with a −1.71 profit margin and −$112M operating cash flow. News cites cash burn and dilution concerns despite strong revenue growth (e.g., Q2 revenue tripled to $42.7M). Partnerships with large brands like Stellantis and Mercedes and diversified vertical exposure add some durability, but the overall profile is still speculative rather than steady.
   
-  3.2. **Innovating?:** Innovating and growing — it expanded into agentic voice AI via the Amelia acquisition and offers products like Smart Answering and Dynamic Drive-Thru, with reported revenue up 217% year over year.
+  3.2. **Innovating?:** Yes — it is actively innovating, shifting to voice-first agentic AI via the Amelia acquisition and exploring generative AI synergies. Rapid revenue growth (e.g., 217% y/y in a recent quarter) underscores momentum.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights a near-30% pullback amid strong revenue growth (Q2 revenue tripled to $42.7M) but ongoing cash burn and dilution, with some viewing the stock as a hold. Other pieces tout potential upside, citing 217% quarterly revenue growth and expansion across autos, restaurants, and enterprise. There are speculative forecasts about gains into 2026 alongside acknowledgment of execution risks. Given the mixed tone, the “buy the rumor, sell the news” setup is not clearly in play, aligning with quick facts indicating no for both.
+  4.1. **News:** Recent coverage highlights rapid growth (Q2 revenue tripled to $42.7M; 217% quarterly growth) and new directions (agentic AI via the Amelia acquisition) alongside partnerships with Stellantis and Mercedes. However, multiple pieces flag ongoing cash burn, operating losses, and dilution, with one article calling the stock a hold and another noting a ~30% pullback. Other commentary referenced a 143% six‑month surge earlier and ambitious growth plans, but also potential challenges ahead. This mix suggests classic buy-the-rumor, sell-the-news dynamics: enthusiasm on growth headlines followed by selling on profitability concerns.
   
-  4.2. **Tarrifs:** Reports from April 2025 indicate tariff headlines accelerated a selloff in SOUN, though shares were already declining beforehand. Net effect in the data points to short-term negative sentiment rather than a standalone driver.
+  4.2. **Tarrifs:** Reports indicate tariff headlines accelerated a stock decline in early April 2025, adding pressure even as shares were already falling. Net effect: negative sentiment and incremental downside tied to tariff news.
   
   ## 5. QuickRef
   
@@ -50,18 +50,13 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-225.14M</td></tr>
-  <tr><td>Price</td><td>15.38</td></tr>
-  <tr><td>7d Resistance</td><td>18.76</td></tr>
-  <tr><td>7d Support</td><td>15.01</td></tr>
+  <tr><td>Price</td><td>14.23</td></tr>
+  <tr><td>7d Resistance</td><td>18.36</td></tr>
+  <tr><td>7d Support</td><td>14.23</td></tr>
   <tr><td>30d Resistance</td><td>22.17</td></tr>
-  <tr><td>30d Support</td><td>15.01</td></tr>
+  <tr><td>30d Support</td><td>14.23</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>middle</td></tr>
-  <tr><td>1yr</td><td>middle</td></tr>
-  <tr><td>5yr</td><td>middle</td></tr>
   </tbody></table>
   </div>
   
@@ -84,12 +79,12 @@ raw_markdown: |
   Gathering context for SOUN...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-05?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/SOUN/2025-11-05?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-06?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/SOUN/2025-11-06?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/SOUN?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -180,13 +175,13 @@ raw_markdown: |
       newsapi: 1 result(s)
     newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -211,42 +206,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-05T17:30:05.678494+00:00">2025-11-05 17:30 UTC</time> (runtime 1m 34s)
+**Generated:** <time class="js-local-time" datetime="2025-11-07T07:14:42.516547+00:00">2025-11-07 07:14 UTC</time> (runtime 1m 25s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI provides an independent voice AI platform that powers conversational experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, serving creators and service providers across retail, financial services, healthcare, automotive, smart devices, and restaurants.
+1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform that powers natural-language interactions for enterprises and product creators. Its offerings include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents serving sectors such as automotive, restaurants, smart devices, retail, financial services, and healthcare.
 
-1.2. **Profitable?:** No — it remains unprofitable with a -171% profit margin, negative operating cash flow, and negative free cash flow; coverage also notes ongoing cash burn and no current profitability.
+1.2. **Profitable?:** No — it remains unprofitable with negative net income (aggregate −$225.14M), a −1.71 profit margin, and negative operating cash flow; while prior commentary pointed to profitability by 2025, recent coverage still highlights cash burn and no current profitability.
 
-1.3. **Customer & Markets:** Primary customers are enterprise product creators and service providers in retail, financial services, healthcare, automotive, smart devices, and restaurant sectors. It serves these markets with multilingual voice AI solutions, with operations based in the United States.
+1.3. **Customer & Markets:** Primary customers are enterprises and product creators across automotive, restaurants/QSR, smart devices, retail, financial services, and healthcare. Partnerships cited include Stellantis and Mercedes, indicating deep ties in automotive alongside enterprise call answering and ordering use cases.
 
-1.4. **Competition:** Listed competitor candidates include NVIDIA and Stellantis. Relative positioning versus these larger players isn't specified in the data.
+1.4. **Competition:** Competitor sets cited include large ecosystem players like NVIDIA and Stellantis. SoundHound is a smaller, specialized voice-AI provider relative to these larger competitors, with no clear market-leader status indicated.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, with price sliding from a local high ~17.85 toward support ~15.01 and closing below the 20-day average.
+2.1. **7d Trend?:** down — the stock closed at 14.23 near 7d support, below its 20-DMA (18.03) and off a local high of 17.85.
 
-2.2. **7d Buy/Sell Points?:** Buying near support around 15.01 looked favorable, while selling into 17.85 to 18.76 resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near 14.23 (support/suggested buy zone) and selling into 17.85 (resistance/suggested sell zone) offered favorable risk-reward during this window.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** SoundHound is a publicly listed U.S. technology company, but its financial profile is early-stage. It posted cumulative net losses of about -$225.14M, with negative operating cash flow (-$112.1M) and negative free cash flow, which pressures stability. Revenue growth is strong (217% YoY and a Q2 jump to $42.7M per coverage), indicating traction. The stock shows high volatility (ATR ~8.45% of price), implying elevated risk.
+3.1. **Stability?:** While growing quickly, the company shows limited financial stability at present: cumulative net income is negative (−$225.14M) with a −1.71 profit margin and −$112M operating cash flow. News cites cash burn and dilution concerns despite strong revenue growth (e.g., Q2 revenue tripled to $42.7M). Partnerships with large brands like Stellantis and Mercedes and diversified vertical exposure add some durability, but the overall profile is still speculative rather than steady.
 
-3.2. **Innovating?:** Innovating and growing — it expanded into agentic voice AI via the Amelia acquisition and offers products like Smart Answering and Dynamic Drive-Thru, with reported revenue up 217% year over year.
+3.2. **Innovating?:** Yes — it is actively innovating, shifting to voice-first agentic AI via the Amelia acquisition and exploring generative AI synergies. Rapid revenue growth (e.g., 217% y/y in a recent quarter) underscores momentum.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights a near-30% pullback amid strong revenue growth (Q2 revenue tripled to $42.7M) but ongoing cash burn and dilution, with some viewing the stock as a hold. Other pieces tout potential upside, citing 217% quarterly revenue growth and expansion across autos, restaurants, and enterprise. There are speculative forecasts about gains into 2026 alongside acknowledgment of execution risks. Given the mixed tone, the “buy the rumor, sell the news” setup is not clearly in play, aligning with quick facts indicating no for both.
+4.1. **News:** Recent coverage highlights rapid growth (Q2 revenue tripled to $42.7M; 217% quarterly growth) and new directions (agentic AI via the Amelia acquisition) alongside partnerships with Stellantis and Mercedes. However, multiple pieces flag ongoing cash burn, operating losses, and dilution, with one article calling the stock a hold and another noting a ~30% pullback. Other commentary referenced a 143% six‑month surge earlier and ambitious growth plans, but also potential challenges ahead. This mix suggests classic buy-the-rumor, sell-the-news dynamics: enthusiasm on growth headlines followed by selling on profitability concerns.
 
-4.2. **Tarrifs:** Reports from April 2025 indicate tariff headlines accelerated a selloff in SOUN, though shares were already declining beforehand. Net effect in the data points to short-term negative sentiment rather than a standalone driver.
+4.2. **Tarrifs:** Reports indicate tariff headlines accelerated a stock decline in early April 2025, adding pressure even as shares were already falling. Net effect: negative sentiment and incremental downside tied to tariff news.
 
 ## 5. QuickRef
 
@@ -255,18 +250,13 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-225.14M</td></tr>
-<tr><td>Price</td><td>15.38</td></tr>
-<tr><td>7d Resistance</td><td>18.76</td></tr>
-<tr><td>7d Support</td><td>15.01</td></tr>
+<tr><td>Price</td><td>14.23</td></tr>
+<tr><td>7d Resistance</td><td>18.36</td></tr>
+<tr><td>7d Support</td><td>14.23</td></tr>
 <tr><td>30d Resistance</td><td>22.17</td></tr>
-<tr><td>30d Support</td><td>15.01</td></tr>
+<tr><td>30d Support</td><td>14.23</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>middle</td></tr>
-<tr><td>1yr</td><td>middle</td></tr>
-<tr><td>5yr</td><td>middle</td></tr>
 </tbody></table>
 </div>
 
@@ -289,12 +279,12 @@ raw_markdown: |
 Gathering context for SOUN...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-07/2025-11-05?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-05?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/SOUN/2025-11-05?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/SOUN/2025-11-06?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/SOUN/2025-11-06?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SOUN/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/SOUN?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -385,13 +375,13 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize
     newsapi: 1 result(s)
   newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
