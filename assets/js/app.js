@@ -10,6 +10,7 @@ const elements = {
   links: document.querySelector('#reportLinks'),
   refresh: document.querySelector('#refreshLink'),
   rerun: document.querySelector('#rerunLink'),
+  godseye: document.querySelector('#godseyeLink'),
   content: document.querySelector('#reportContent'),
   status: document.querySelector('#statusMessage'),
 };
@@ -371,6 +372,31 @@ elements.rerun?.addEventListener('click', (event) => {
 elements.refresh?.addEventListener('click', (event) => {
   event.preventDefault();
   loadReports({ bustCache: true });
+});
+
+elements.godseye?.addEventListener('click', (event) => {
+  const ticker = 'GODSEYE';
+  const reportIndex = state.reports.findIndex(
+    (report) => (report.ticker || '').toUpperCase() === ticker,
+  );
+  if (reportIndex === -1) {
+    event.preventDefault();
+    elements.status.textContent =
+      'GodsEye report not found. Run `python gostonks.py GodsEye` to generate it.';
+    return;
+  }
+  if (
+    event.defaultPrevented ||
+    event.button === 1 ||
+    event.metaKey ||
+    event.ctrlKey ||
+    event.shiftKey ||
+    event.altKey
+  ) {
+    return;
+  }
+  event.preventDefault();
+  showReport(reportIndex);
 });
 
 function updateSortLinkIndicators() {
