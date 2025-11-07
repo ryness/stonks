@@ -158,4 +158,3 @@ sections:
       - number: "5.8"
         label: "Buy the rumor?"
         role: quick_fact
-***
