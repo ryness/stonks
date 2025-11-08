@@ -2,30 +2,30 @@
 layout: default
 title: "VKTX Stock Report"
 ticker: "VKTX"
-date: 2025-11-06
-generated_at: 2025-11-06T01:41:45.776856+00:00
-runtime_seconds: 174.18
+date: 2025-11-08
+generated_at: 2025-11-08T05:20:18.846730+00:00
+runtime_seconds: 90.37
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-06T01:41:45.776856+00:00">2025-11-06 01:41 UTC</time> (runtime 2m 54s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-08T05:20:18.846730+00:00">2025-11-08 05:20 UTC</time> (runtime 1m 30s)
   
   ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company focused on metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (oral, thyroid hormone receptor beta–selective agonists) and VK5211 (an oral selective androgen receptor modulator). Recent coverage also highlights VK2735, a weight-loss candidate progressing through clinical trials.
+  1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (thyroid hormone receptor-β agonists), VK5211 (a selective androgen receptor modulator), and VK2735, a dual GLP-1/GIP agonist in obesity trials.
   
-  1.2. **Profitable?:** No — it is pre-revenue and reports recurring net losses (cumulative net income about -$171.55M with negative operating and free cash flow), and any path to profitability depends on future approvals/commercialization with no timeline provided.
+  1.2. **Profitable?:** No; it is pre-revenue with consecutive net losses (profit margin 0%, negative operating and free cash flow) and no approved products, and a timeline to profitability is not provided.
   
-  1.3. **Customer & Markets:** Its programs target patients with metabolic and endocrine disorders, including obesity, addressed via the healthcare market. The company is U.S.-based, and recent coverage centers on the rapidly growing obesity drug market.
+  1.3. **Customer & Markets:** As a clinical-stage company with no marketed products, primary customers are not yet applicable. It targets the obesity and broader metabolic/endocrine therapeutics markets, reflected by VK2735 in obesity and thyroid hormone receptor-β programs (VK2809/VK0214).
   
-  1.4. **Competition:** Primary competitors include Eli Lilly (obesity/weight-loss drugs) and Madrigal Pharmaceuticals (metabolic/THR-beta space). As a clinical-stage, pre-revenue player, Viking is a smaller contender relative to commercial incumbents.
+  1.4. **Competition:** Key competitors include Eli Lilly in obesity drugs and Madrigal Pharmaceuticals in metabolic liver disease. Viking is a smaller clinical-stage player versus these established peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — closed at 36.47 above the 20-DMA (34.74) and 7d support (34.15), with a recent local high at 39.57.
+  2.1. **7d Trend?:** down; shares traded off a local high near 38.02 toward support at 34.15 and closed 36.77 below 7d resistance 39.57.
   
-  2.2. **7d Buy/Sell Points?:** Buying near ~33.00 (suggested buy zone/local low) looked favorable. Selling near ~39.57 (resistance/local high) offered better exits.
+  2.2. **7d Buy/Sell Points?:** Buying near the 34.15 support looked favorable, while selling into the 38.02–39.57 resistance zone offered better exits.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Viking is a clinical-stage biotech with no product revenue and cumulative net losses of about $171.55M across the provided periods. Operating cash flow (-$224.6M) and free cash flow (-$150.9M) are negative, implying reliance on external funding while trials advance. No upcoming earnings date is listed, so stability hinges on trial execution and financing typical of development-stage biotechs.
+  3.1. **Stability?:** Viking is a clinical-stage biotech listed on Nasdaq with an approximate $4.16B market cap. It reports recurring net losses (last Q4 -$171.55M) and negative operating and free cash flow, typical of pre-revenue R&D companies. Stability hinges on cash runway and clinical outcomes; detailed balance sheet metrics are not provided here. The company maintains active operations and investor outreach, including scheduled November 2025 conference appearances.
   
-  3.2. **Innovating?:** Yes — it is advancing VK2735 for obesity with positive clinical updates and conference participation, alongside THR-beta agents VK2809 and VK0214. Recent coverage points to growth potential tied to the weight-loss market.
+  3.2. **Innovating?:** Yes—its pipeline is advancing, with VK2735 in Phase 3 for obesity and recent positive updates highlighted in coverage. It is actively engaging at investor and medical conferences, signaling ongoing development momentum.
   
   ## 4. Context
   
-  4.1. **News:** Shares surged ~45% in October on takeover speculation in obesity drugs and positive VK2735 updates with confirmed clinical progress. High-profile investor interest (e.g., Stanley Druckenmiller adding VKTX alongside Eli Lilly) reinforced the weight-loss theme. The company plans November presentations at Stifel and Jefferies, while commentary frames VKTX as high risk/high reward in the GLP-1 market amid recent gains. Quick facts flag no clear buy-the-rumor or sell-the-news setup.
+  4.1. **News:** Recent coverage cites a 44.9% October surge tied to takeover speculation in the obesity space and positive VK2735 updates, along with confirmed trial progress. High-profile investor interest (e.g., Druckenmiller adding VKTX alongside Eli Lilly) underscores exposure to a rapidly growing weight-loss market. The company announced participation in Stifel and Jefferies conferences, and articles note VK2735’s reported weight-loss data up to 13.1% and a high-risk/high-reward profile given pre-revenue status. With rumor-driven gains already realized, the setup suggests potential “buy the rumor” effects and the risk of “sell the news” if expectations aren’t met.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Uncertain; management commentary references potential tariff impacts on future operations without quantifying or linking a direct effect to the stock.
   
   ## 5. QuickRef
   
@@ -50,18 +50,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-171.55M</td></tr>
-  <tr><td>Price</td><td>36.47</td></tr>
+  <tr><td>Price</td><td>36.77</td></tr>
   <tr><td>7d Resistance</td><td>39.57</td></tr>
   <tr><td>7d Support</td><td>34.15</td></tr>
   <tr><td>30d Resistance</td><td>39.57</td></tr>
-  <tr><td>30d Support</td><td>24.88</td></tr>
+  <tr><td>30d Support</td><td>25.04</td></tr>
   <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>up</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
   
@@ -71,9 +72,9 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, target customers</li>
-  <li>NewsAPI: profitability, market share, tariffs news, profit outlook, market expansion, competitive landscape, latest news, tariffs</li>
-  <li>The Guardian: product portfolio, earnings trend, market segments, competitors, rumors, latest rumor, tariff impact, business model, rumor, tariff</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: profit outlook, market expansion, competitive landscape, tariffs</li>
+  <li>The Guardian: business model, rumor, tariff, latest news</li>
   </ul>
   </div>
   
@@ -84,12 +85,12 @@ raw_markdown: |
   Gathering context for VKTX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-08/2025-11-06?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-05?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/VKTX/2025-11-05?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/VKTX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -127,14 +128,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     google_custom_search search -&gt; VKTX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;VKTX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=VKTX+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -144,20 +138,10 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; VKTX profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+profitability&amp;num=5
-  Google Custom Search failed for &#x27;VKTX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; VKTX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;VKTX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 2 result(s)
@@ -166,52 +150,25 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     google_custom_search search -&gt; VKTX market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;VKTX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 1 result(s)
     google_custom_search search -&gt; VKTX competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+competitors&amp;num=5
-  Google Custom Search failed for &#x27;VKTX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; VKTX market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+market+share&amp;num=5
-  Google Custom Search failed for &#x27;VKTX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 1 result(s)
     google_custom_search search -&gt; VKTX rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+rumors&amp;num=5
-  Google Custom Search failed for &#x27;VKTX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; VKTX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;VKTX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=VKTX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -228,30 +185,20 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; VKTX latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; VKTX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;VKTX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;VKTX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=VKTX+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=VKTX+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -273,26 +220,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-06T01:41:45.776856+00:00">2025-11-06 01:41 UTC</time> (runtime 2m 54s)
+**Generated:** <time class="js-local-time" datetime="2025-11-08T05:20:18.846730+00:00">2025-11-08 05:20 UTC</time> (runtime 1m 30s)
 
 ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company focused on metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (oral, thyroid hormone receptor beta–selective agonists) and VK5211 (an oral selective androgen receptor modulator). Recent coverage also highlights VK2735, a weight-loss candidate progressing through clinical trials.
+1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (thyroid hormone receptor-β agonists), VK5211 (a selective androgen receptor modulator), and VK2735, a dual GLP-1/GIP agonist in obesity trials.
 
-1.2. **Profitable?:** No — it is pre-revenue and reports recurring net losses (cumulative net income about -$171.55M with negative operating and free cash flow), and any path to profitability depends on future approvals/commercialization with no timeline provided.
+1.2. **Profitable?:** No; it is pre-revenue with consecutive net losses (profit margin 0%, negative operating and free cash flow) and no approved products, and a timeline to profitability is not provided.
 
-1.3. **Customer & Markets:** Its programs target patients with metabolic and endocrine disorders, including obesity, addressed via the healthcare market. The company is U.S.-based, and recent coverage centers on the rapidly growing obesity drug market.
+1.3. **Customer & Markets:** As a clinical-stage company with no marketed products, primary customers are not yet applicable. It targets the obesity and broader metabolic/endocrine therapeutics markets, reflected by VK2735 in obesity and thyroid hormone receptor-β programs (VK2809/VK0214).
 
-1.4. **Competition:** Primary competitors include Eli Lilly (obesity/weight-loss drugs) and Madrigal Pharmaceuticals (metabolic/THR-beta space). As a clinical-stage, pre-revenue player, Viking is a smaller contender relative to commercial incumbents.
+1.4. **Competition:** Key competitors include Eli Lilly in obesity drugs and Madrigal Pharmaceuticals in metabolic liver disease. Viking is a smaller clinical-stage player versus these established peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — closed at 36.47 above the 20-DMA (34.74) and 7d support (34.15), with a recent local high at 39.57.
+2.1. **7d Trend?:** down; shares traded off a local high near 38.02 toward support at 34.15 and closed 36.77 below 7d resistance 39.57.
 
-2.2. **7d Buy/Sell Points?:** Buying near ~33.00 (suggested buy zone/local low) looked favorable. Selling near ~39.57 (resistance/local high) offered better exits.
+2.2. **7d Buy/Sell Points?:** Buying near the 34.15 support looked favorable, while selling into the 38.02–39.57 resistance zone offered better exits.
 
 2.3.1. **7d Volume:** med
 
@@ -300,15 +247,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Viking is a clinical-stage biotech with no product revenue and cumulative net losses of about $171.55M across the provided periods. Operating cash flow (-$224.6M) and free cash flow (-$150.9M) are negative, implying reliance on external funding while trials advance. No upcoming earnings date is listed, so stability hinges on trial execution and financing typical of development-stage biotechs.
+3.1. **Stability?:** Viking is a clinical-stage biotech listed on Nasdaq with an approximate $4.16B market cap. It reports recurring net losses (last Q4 -$171.55M) and negative operating and free cash flow, typical of pre-revenue R&D companies. Stability hinges on cash runway and clinical outcomes; detailed balance sheet metrics are not provided here. The company maintains active operations and investor outreach, including scheduled November 2025 conference appearances.
 
-3.2. **Innovating?:** Yes — it is advancing VK2735 for obesity with positive clinical updates and conference participation, alongside THR-beta agents VK2809 and VK0214. Recent coverage points to growth potential tied to the weight-loss market.
+3.2. **Innovating?:** Yes—its pipeline is advancing, with VK2735 in Phase 3 for obesity and recent positive updates highlighted in coverage. It is actively engaging at investor and medical conferences, signaling ongoing development momentum.
 
 ## 4. Context
 
-4.1. **News:** Shares surged ~45% in October on takeover speculation in obesity drugs and positive VK2735 updates with confirmed clinical progress. High-profile investor interest (e.g., Stanley Druckenmiller adding VKTX alongside Eli Lilly) reinforced the weight-loss theme. The company plans November presentations at Stifel and Jefferies, while commentary frames VKTX as high risk/high reward in the GLP-1 market amid recent gains. Quick facts flag no clear buy-the-rumor or sell-the-news setup.
+4.1. **News:** Recent coverage cites a 44.9% October surge tied to takeover speculation in the obesity space and positive VK2735 updates, along with confirmed trial progress. High-profile investor interest (e.g., Druckenmiller adding VKTX alongside Eli Lilly) underscores exposure to a rapidly growing weight-loss market. The company announced participation in Stifel and Jefferies conferences, and articles note VK2735’s reported weight-loss data up to 13.1% and a high-risk/high-reward profile given pre-revenue status. With rumor-driven gains already realized, the setup suggests potential “buy the rumor” effects and the risk of “sell the news” if expectations aren’t met.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Uncertain; management commentary references potential tariff impacts on future operations without quantifying or linking a direct effect to the stock.
 
 ## 5. QuickRef
 
@@ -317,18 +264,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-171.55M</td></tr>
-<tr><td>Price</td><td>36.47</td></tr>
+<tr><td>Price</td><td>36.77</td></tr>
 <tr><td>7d Resistance</td><td>39.57</td></tr>
 <tr><td>7d Support</td><td>34.15</td></tr>
 <tr><td>30d Resistance</td><td>39.57</td></tr>
-<tr><td>30d Support</td><td>24.88</td></tr>
+<tr><td>30d Support</td><td>25.04</td></tr>
 <tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>up</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
 
@@ -338,9 +286,9 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, target customers</li>
-<li>NewsAPI: profitability, market share, tariffs news, profit outlook, market expansion, competitive landscape, latest news, tariffs</li>
-<li>The Guardian: product portfolio, earnings trend, market segments, competitors, rumors, latest rumor, tariff impact, business model, rumor, tariff</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: profit outlook, market expansion, competitive landscape, tariffs</li>
+<li>The Guardian: business model, rumor, tariff, latest news</li>
 </ul>
 </div>
 
@@ -351,12 +299,12 @@ raw_markdown: |
 Gathering context for VKTX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-08/2025-11-06?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-05?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/VKTX/2025-11-05?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/VKTX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -394,14 +342,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   google_custom_search search -&gt; VKTX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;VKTX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=VKTX+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -411,20 +352,10 @@ Guardian search: GET https://content.guardianapis.com/search?q=VKTX+business+mod
     guardian: 5 result(s)
   google_custom_search search -&gt; VKTX profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+profitability&amp;num=5
-Google Custom Search failed for &#x27;VKTX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; VKTX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;VKTX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 2 result(s)
@@ -433,52 +364,25 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   google_custom_search search -&gt; VKTX market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+market+segments&amp;num=5
-Google Custom Search failed for &#x27;VKTX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 1 result(s)
   google_custom_search search -&gt; VKTX competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+competitors&amp;num=5
-Google Custom Search failed for &#x27;VKTX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; VKTX market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+market+share&amp;num=5
-Google Custom Search failed for &#x27;VKTX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 1 result(s)
   google_custom_search search -&gt; VKTX rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+rumors&amp;num=5
-Google Custom Search failed for &#x27;VKTX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; VKTX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;VKTX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=VKTX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
@@ -495,30 +399,20 @@ Guardian search: GET https://content.guardianapis.com/search?q=VKTX+tariff&amp;a
     guardian: 5 result(s)
   newsapi search -&gt; VKTX latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=VKTX+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=VKTX+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; VKTX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;VKTX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;VKTX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=VKTX+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=VKTX+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
