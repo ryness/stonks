@@ -34,10 +34,11 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Generate report
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.ticker }}" ]; then
-            python gostonks.py "${{ github.event.inputs.ticker }}"
+          TARGET="${{ github.event.inputs.ticker }}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "$TARGET" ]; then
+            python gostonks.py "$TARGET"
           else
-            python gostonks.py --cycle
+            python gostonks.py
           fi
       - name: Commit report
         run: |
@@ -47,29 +48,12 @@ jobs:
           if [ -d assets/logos ]; then
             git add assets/logos
           fi
-          if [ -f .gostonks-state.json ]; then
-            git add .gostonks-state.json
-          fi
           if [ -f data/stonks.db ]; then
             git add data/stonks.db
           fi
           TICKER_MSG="${{ github.event.inputs.ticker }}"
-          if [ -z "$TICKER_MSG" ] && [ -f .gostonks-state.json ]; then
-            TICKER_MSG=$(python -c 'import json
-          import sys
-          from pathlib import Path
-          
-          try:
-              data = json.loads(Path(".gostonks-state.json").read_text())
-              tickers = data.get("tickers") or []
-              idx = data.get("last_index")
-              if isinstance(idx, int) and 0 <= idx < len(tickers):
-                  sys.stdout.write(tickers[idx])
-          except Exception:
-              pass')
-          fi
           if [ -z "$TICKER_MSG" ]; then
-            TICKER_MSG="cycle"
+            TICKER_MSG="rotation+GodsEye"
           fi
           git commit -m "Update report: ${TICKER_MSG}" || echo "No changes"
           git push
