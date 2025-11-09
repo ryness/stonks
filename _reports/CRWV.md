@@ -2,30 +2,30 @@
 layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
-date: 2025-11-07
-generated_at: 2025-11-07T05:22:05.199510+00:00
-runtime_seconds: 83.93
+date: 2025-11-09
+generated_at: 2025-11-09T15:18:51.457622+00:00
+runtime_seconds: 82.98
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-07T05:22:05.199510+00:00">2025-11-07 05:22 UTC</time> (runtime 1m 24s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-09T15:18:51.457622+00:00">2025-11-09 15:18 UTC</time> (runtime 1m 23s)
   
   ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave is a modern cloud infrastructure provider offering the CoreWeave Cloud Platform—proprietary software and cloud services designed to automate and run complex AI infrastructure at scale. Its platform supports training and serving cutting-edge AI models and applications, delivering GPU-centric compute and related infrastructure services for AI workloads.
+  1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform, a proprietary software and cloud services stack purpose-built to automate and run complex AI infrastructure at scale. The platform supports building, training, and serving cutting-edge AI models and applications globally. It also underpins AI data services through partnerships such as a $1.17 billion agreement with VAST Data to provide the data foundation for its AI cloud.
   
-  1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative -$1.02B) and a profit margin of -28.8%, though it is scaling rapidly (revenue growth ~207% YoY) and generating positive operating cash flow.
+  1.2. **Profitable?:** No — it is not profitable, with cumulative net losses of about $1.02B and a -28.8% profit margin; while revenue growth is strong (about 206.7%), losses persist.
   
-  1.3. **Customer & Markets:** Primary customers are enterprises, AI developers, and platforms building, training, and serving AI models; analyst commentary also references large tech customers like Microsoft and Meta. The company is U.S.-based and serves AI application markets globally, per its platform focus on next‑generation AI use cases.
+  1.3. **Customer & Markets:** Primary customers are organizations developing and deploying AI workloads—teams building, training, and serving models that require specialized GPU cloud infrastructure. The company operates from the United States and supports AI applications across global markets. Recent coverage and partnerships indicate focus on AI-intensive industries requiring scalable compute and data services.
   
-  1.4. **Competition:** Competitors include Nvidia, Microsoft, and Meta in AI infrastructure and hyperscale cloud. CoreWeave is a specialized AI cloud player competing alongside these much larger firms.
+  1.4. **Competition:** Principal competitors cited include Nvidia, Microsoft, and Meta per the provided competitor candidates. Relative market positioning or share versus these peers is not specified in the data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares closed at 106.93, well below the 20‑day average (131.46) and near 7‑day support (104.10) after sliding from higher levels.
+  2.1. **7d Trend?:** down, with shares closing at 104.01 near 7d support (100.02) and well below the 20-DMA (~128.30).
   
-  2.2. **7d Buy/Sell Points?:** Buy near 104.10 support and sell into 141.79 resistance; an earlier range also flagged ~130.41 (buy) and ~138.36 (sell) as tactical levels.
+  2.2. **7d Buy/Sell Points?:** Notable buy areas were near ~130.41 and on dips toward support around 100.02, while selling into strength near ~138.36 aligned with resistance.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** CoreWeave was established in 2017 and listed on Nasdaq in March 2025, indicating operating history beyond a fly‑by‑night profile. The company has sizable operating cash inflow ($638M) but remains loss‑making with cumulative net losses of about $1.02B and a negative profit margin. Rapid revenue growth (~207% YoY) and large commercial partnerships (e.g., a $1.17B deal with VAST Data) support business durability. Elevated volatility suggests the equity remains higher risk even as the operating footprint expands.
+  3.1. **Stability?:** CoreWeave was established in 2017 and listed on Nasdaq in March 2025, indicating a relatively young but rapidly scaling enterprise. It generated positive operating cash flow ($637.9M) yet remains loss-making, with cumulative net losses of about $1.02B and a negative profit margin. Large-scale agreements like the $1.17B VAST Data partnership and strong revenue growth suggest operational scale. Overall, it appears more established than a fly-by-night firm but not yet a profit-stable institution.
   
-  3.2. **Innovating?:** Yes—CoreWeave is innovating and growing, as evidenced by its AI‑focused cloud platform, strong revenue growth, and a $1.17B partnership with VAST Data to scale next‑generation AI infrastructure.
+  3.2. **Innovating?:** It is innovating and growing, evidenced by 206.7% revenue growth and expansion of AI infrastructure via major partnerships and new data center projects. Recent coverage highlights it as a direct play on AI infrastructure buildout.
   
   ## 4. Context
   
-  4.1. **News:** Recent news includes a $1.17B commercial partnership with VAST Data to underpin CoreWeave’s AI cloud data foundation. Commentary pieces highlight CoreWeave among AI infrastructure names to buy and even project outsized upside, while broader sector news (e.g., Microsoft’s $9.7B GPU access deal with Iren) underscores demand for AI compute. There are also signs of profit‑taking and mixed sentiment in adjacent AI infra stocks (e.g., insider sales at Applied Digital). Given the hype‑leaning headlines followed by concrete deal announcements and the stock’s current downtrend/high volatility, the setup aligns with buy the rumor, sell the news dynamics.
+  4.1. **News:** Recent headlines highlight a $1.17B VAST Data partnership to serve as the data foundation for CoreWeave’s AI cloud and coverage naming CoreWeave among AI infrastructure stocks to buy, with some projecting outsized growth. Sector context includes Microsoft’s multibillion-dollar GPU-access deal with Iren, underscoring demand for AI compute. CoreWeave’s attempted acquisition of Core Scientific was reportedly rejected, while it is involved in building a massive data center in Texas. Despite bullish sector and partnership news, the stock shows a 7d downtrend, suggesting news may be getting faded near-term. The quick facts flag “Buy the rumor? no” and “Sell the news? no,” implying no clear rumor/news trading setup at present.
   
-  4.2. **Tarrifs:** Effects are unclear; headlines link broader market swings to tariff news and mention CRWV among movers, but no company‑specific, sustained tariff impact is provided.
+  4.2. **Tarrifs:** Tariff headlines have pressured the stock, with reports noting CRWV “tanked” or “extended losses” on tariff news. Overall, tariffs appear to introduce negative sentiment and added volatility rather than a clearly quantified fundamental impact.
   
   ## 5. QuickRef
   
@@ -50,13 +50,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-1.02B</td></tr>
-  <tr><td>Price</td><td>106.93</td></tr>
-  <tr><td>7d Resistance</td><td>141.79</td></tr>
-  <tr><td>7d Support</td><td>104.10</td></tr>
+  <tr><td>Price</td><td>104.01</td></tr>
+  <tr><td>7d Resistance</td><td>138.36</td></tr>
+  <tr><td>7d Support</td><td>100.02</td></tr>
   <tr><td>30d Resistance</td><td>153.20</td></tr>
-  <tr><td>30d Support</td><td>104.10</td></tr>
+  <tr><td>30d Support</td><td>100.02</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
+  <tr><td>5yr</td><td>middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
   
@@ -79,12 +85,12 @@ raw_markdown: |
   Gathering context for CRWV...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-11/2025-11-09?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-06?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-06?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-07?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-07?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -206,26 +212,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-07T05:22:05.199510+00:00">2025-11-07 05:22 UTC</time> (runtime 1m 24s)
+**Generated:** <time class="js-local-time" datetime="2025-11-09T15:18:51.457622+00:00">2025-11-09 15:18 UTC</time> (runtime 1m 23s)
 
 ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave is a modern cloud infrastructure provider offering the CoreWeave Cloud Platform—proprietary software and cloud services designed to automate and run complex AI infrastructure at scale. Its platform supports training and serving cutting-edge AI models and applications, delivering GPU-centric compute and related infrastructure services for AI workloads.
+1.1. **Activities:** CoreWeave is a modern cloud infrastructure company offering the CoreWeave Cloud Platform, a proprietary software and cloud services stack purpose-built to automate and run complex AI infrastructure at scale. The platform supports building, training, and serving cutting-edge AI models and applications globally. It also underpins AI data services through partnerships such as a $1.17 billion agreement with VAST Data to provide the data foundation for its AI cloud.
 
-1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative -$1.02B) and a profit margin of -28.8%, though it is scaling rapidly (revenue growth ~207% YoY) and generating positive operating cash flow.
+1.2. **Profitable?:** No — it is not profitable, with cumulative net losses of about $1.02B and a -28.8% profit margin; while revenue growth is strong (about 206.7%), losses persist.
 
-1.3. **Customer & Markets:** Primary customers are enterprises, AI developers, and platforms building, training, and serving AI models; analyst commentary also references large tech customers like Microsoft and Meta. The company is U.S.-based and serves AI application markets globally, per its platform focus on next‑generation AI use cases.
+1.3. **Customer & Markets:** Primary customers are organizations developing and deploying AI workloads—teams building, training, and serving models that require specialized GPU cloud infrastructure. The company operates from the United States and supports AI applications across global markets. Recent coverage and partnerships indicate focus on AI-intensive industries requiring scalable compute and data services.
 
-1.4. **Competition:** Competitors include Nvidia, Microsoft, and Meta in AI infrastructure and hyperscale cloud. CoreWeave is a specialized AI cloud player competing alongside these much larger firms.
+1.4. **Competition:** Principal competitors cited include Nvidia, Microsoft, and Meta per the provided competitor candidates. Relative market positioning or share versus these peers is not specified in the data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares closed at 106.93, well below the 20‑day average (131.46) and near 7‑day support (104.10) after sliding from higher levels.
+2.1. **7d Trend?:** down, with shares closing at 104.01 near 7d support (100.02) and well below the 20-DMA (~128.30).
 
-2.2. **7d Buy/Sell Points?:** Buy near 104.10 support and sell into 141.79 resistance; an earlier range also flagged ~130.41 (buy) and ~138.36 (sell) as tactical levels.
+2.2. **7d Buy/Sell Points?:** Notable buy areas were near ~130.41 and on dips toward support around 100.02, while selling into strength near ~138.36 aligned with resistance.
 
 2.3.1. **7d Volume:** med
 
@@ -233,15 +239,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** CoreWeave was established in 2017 and listed on Nasdaq in March 2025, indicating operating history beyond a fly‑by‑night profile. The company has sizable operating cash inflow ($638M) but remains loss‑making with cumulative net losses of about $1.02B and a negative profit margin. Rapid revenue growth (~207% YoY) and large commercial partnerships (e.g., a $1.17B deal with VAST Data) support business durability. Elevated volatility suggests the equity remains higher risk even as the operating footprint expands.
+3.1. **Stability?:** CoreWeave was established in 2017 and listed on Nasdaq in March 2025, indicating a relatively young but rapidly scaling enterprise. It generated positive operating cash flow ($637.9M) yet remains loss-making, with cumulative net losses of about $1.02B and a negative profit margin. Large-scale agreements like the $1.17B VAST Data partnership and strong revenue growth suggest operational scale. Overall, it appears more established than a fly-by-night firm but not yet a profit-stable institution.
 
-3.2. **Innovating?:** Yes—CoreWeave is innovating and growing, as evidenced by its AI‑focused cloud platform, strong revenue growth, and a $1.17B partnership with VAST Data to scale next‑generation AI infrastructure.
+3.2. **Innovating?:** It is innovating and growing, evidenced by 206.7% revenue growth and expansion of AI infrastructure via major partnerships and new data center projects. Recent coverage highlights it as a direct play on AI infrastructure buildout.
 
 ## 4. Context
 
-4.1. **News:** Recent news includes a $1.17B commercial partnership with VAST Data to underpin CoreWeave’s AI cloud data foundation. Commentary pieces highlight CoreWeave among AI infrastructure names to buy and even project outsized upside, while broader sector news (e.g., Microsoft’s $9.7B GPU access deal with Iren) underscores demand for AI compute. There are also signs of profit‑taking and mixed sentiment in adjacent AI infra stocks (e.g., insider sales at Applied Digital). Given the hype‑leaning headlines followed by concrete deal announcements and the stock’s current downtrend/high volatility, the setup aligns with buy the rumor, sell the news dynamics.
+4.1. **News:** Recent headlines highlight a $1.17B VAST Data partnership to serve as the data foundation for CoreWeave’s AI cloud and coverage naming CoreWeave among AI infrastructure stocks to buy, with some projecting outsized growth. Sector context includes Microsoft’s multibillion-dollar GPU-access deal with Iren, underscoring demand for AI compute. CoreWeave’s attempted acquisition of Core Scientific was reportedly rejected, while it is involved in building a massive data center in Texas. Despite bullish sector and partnership news, the stock shows a 7d downtrend, suggesting news may be getting faded near-term. The quick facts flag “Buy the rumor? no” and “Sell the news? no,” implying no clear rumor/news trading setup at present.
 
-4.2. **Tarrifs:** Effects are unclear; headlines link broader market swings to tariff news and mention CRWV among movers, but no company‑specific, sustained tariff impact is provided.
+4.2. **Tarrifs:** Tariff headlines have pressured the stock, with reports noting CRWV “tanked” or “extended losses” on tariff news. Overall, tariffs appear to introduce negative sentiment and added volatility rather than a clearly quantified fundamental impact.
 
 ## 5. QuickRef
 
@@ -250,13 +256,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-1.02B</td></tr>
-<tr><td>Price</td><td>106.93</td></tr>
-<tr><td>7d Resistance</td><td>141.79</td></tr>
-<tr><td>7d Support</td><td>104.10</td></tr>
+<tr><td>Price</td><td>104.01</td></tr>
+<tr><td>7d Resistance</td><td>138.36</td></tr>
+<tr><td>7d Support</td><td>100.02</td></tr>
 <tr><td>30d Resistance</td><td>153.20</td></tr>
-<tr><td>30d Support</td><td>104.10</td></tr>
+<tr><td>30d Support</td><td>100.02</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
+<tr><td>5yr</td><td>middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
 
@@ -279,12 +291,12 @@ raw_markdown: |
 Gathering context for CRWV...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-11/2025-11-09?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-06?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-06?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-07?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-07?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
