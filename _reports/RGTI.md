@@ -2,46 +2,46 @@
 layout: default
 title: "RGTI Stock Report"
 ticker: "RGTI"
-date: 2025-11-07
-generated_at: 2025-11-07T15:22:41.602737+00:00
-runtime_seconds: 106.61
+date: 2025-11-10
+generated_at: 2025-11-10T10:26:11.310764+00:00
+runtime_seconds: 133.04
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-07T15:22:41.602737+00:00">2025-11-07 15:22 UTC</time> (runtime 1m 47s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-10T10:26:11.310764+00:00">2025-11-10 10:26 UTC</time> (runtime 2m 13s)
   
   ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has built the industry’s first multi‑chip quantum processor to scale systems.
+  1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company delivering its quantum platform as a cloud service via Rigetti QCS and through major cloud providers. It designs and operates proprietary quantum‑classical infrastructure with ultra‑low‑latency integration and has built a multi‑chip quantum processor for scalable systems. The company also offers professional services such as algorithm development, benchmarking, application programming, and software support.
   
-  1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative −$164.83M), negative operating cash flow, and negative free cash flow; no timing to profitability is provided in the data.
+  1.2. **Profitable?:** No — the company remains unprofitable, with cumulative net losses (-$164.83M), negative operating cash flow (-$53.8M) and free cash flow (-$39.5M); no timeline to profitability is provided in the data.
   
-  1.3. **Customer & Markets:** Primary customers are end‑users accessing its quantum computing via the Rigetti QCS platform and through third‑party cloud providers for practical quantum workloads. Most revenue is derived from the United States.
+  1.3. **Customer & Markets:** Rigetti serves a wide range of end users accessing its quantum computing capabilities via the Rigetti QCS platform and partner cloud providers. Customers also engage via professional services (e.g., algorithm development and benchmarking). The majority of revenue comes from the United States.
   
-  1.4. **Competition:** Competitors include pure‑play quantum firms like IonQ and D‑Wave Quantum (QBTS), as well as big tech players Alphabet, Microsoft, and Nvidia active in quantum computing. Rigetti is a smaller pure‑play competing against these larger incumbents.
+  1.4. **Competition:** Primary competitors include pure‑play quantum firms IonQ (IONQ) and D‑Wave (QBTS), and large tech companies with quantum efforts such as Alphabet/Google (GOOGL/GOOG), Microsoft (MSFT), and Nvidia (NVDA). The data do not indicate a definitive market share ranking.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares fell from a recent 7d high near 44.52 to about 33.15 and trade well below the 20‑DMA (~42.11).
+  2.1. **7d Trend?:** down — price closed at 33.77 below its 20‑day average (42.14) and MACD is slightly negative.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 34.65 or closer to 32.13 support looked favorable, while selling into 44.52 resistance offered a good exit.
+  2.2. **7d Buy/Sell Points?:** Better buy entries appeared near 34.65 and around support at 30.62, while selling into strength near 44.52 resistance looked favorable.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Rigetti is an early‑stage U.S. quantum computing company rather than a fly‑by‑night, and it was set to join the Russell 3000 Index in 2024. However, it remains financially fragile with sustained losses (net income sum −$164.83M), negative operating cash flow, and negative free cash flow. Revenue contracted year over year (−41.6%), and the stock exhibits high volatility, underscoring elevated risk. Overall, its financial profile points to a speculative, higher‑risk company.
+  3.1. **Stability?:** Rigetti is a U.S. quantum computing company, but its financial profile is early‑stage with ongoing losses and negative cash flow. The shares are highly volatile (ATR ~13% of price; 52‑week range ~$1.21–$58.15). Inclusion in the Russell 3000 Index in 2024 adds institutional visibility. Overall, the data suggest it is more speculative than a stable, cash‑generative institution.
   
-  3.2. **Innovating?:** Yes — it is innovating, evidenced by developing the industry’s first multi‑chip quantum processor and collaborating with Nvidia on NVQLink quantum interconnection. Growth interest is reflected in October’s stock surge tied to analyst support and broader sector investment signals.
+  3.2. **Innovating?:** Yes — it is innovating, having developed a multi‑chip quantum processor and supporting NVIDIA’s NVQLink for quantum‑classical interconnection. Recent momentum tied to the Nvidia partnership and analyst enthusiasm underscores active development.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlighted Nvidia’s NVQLink announcement and Rigetti’s October rally driven by bullish analyst reports, JPMorgan’s quantum spending commentary, and a partnership with Nvidia for interconnection. Other articles frame the stock as highly speculative despite gains and note broader quantum interest via ETFs. Through a ‘buy the rumor, sell the news’ lens, the move appears buzz‑aided, but quick‑facts indicate ‘buy the rumor? no’ and ‘sell the news? no,’ suggesting no clear fade‑the‑news setup in the supplied data.
+  4.1. **News:** Recent coverage notes Rigetti’s stock jumped 48.6% in October on bullish analyst reports, JPMorgan’s tech investment comments including quantum, and a partnership with Nvidia for interconnection. Nvidia separately announced NVQLink, highlighting growing quantum‑AI links. Other analysis calls Rigetti highly speculative amid competition from big tech. Sector context shows mixed sentiment, with a peer (QCi) down sharply and an ETF pitch highlighting diversification. These headline‑driven surges can invite buy‑the‑rumor/sell‑the‑news behavior around announcements.
   
-  4.2. **Tarrifs:** Reports indicate quantum‑computing stocks, including RGTI, have swung on tariff headlines, adding short‑term volatility to the group. Coverage also notes tariffs could pressure costs tied to China‑related manufacturing and assembly.
+  4.2. **Tarrifs:** Tariff headlines have coincided with sector‑wide pressure on quantum computing stocks, with RGTI cited alongside peers during tariff‑related selloffs. Specific, lasting company‑level impacts are not detailed.
   
   ## 5. QuickRef
   
@@ -50,18 +50,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-164.83M</td></tr>
-  <tr><td>Price</td><td>33.15</td></tr>
+  <tr><td>Price</td><td>33.77</td></tr>
   <tr><td>7d Resistance</td><td>44.52</td></tr>
-  <tr><td>7d Support</td><td>32.13</td></tr>
+  <tr><td>7d Support</td><td>30.62</td></tr>
   <tr><td>30d Resistance</td><td>58.15</td></tr>
   <tr><td>30d Support</td><td>28.45</td></tr>
-  <tr><td>Buy the dip?</td><td>yes</td></tr>
+  <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
   
@@ -84,12 +85,12 @@ raw_markdown: |
   Gathering context for RGTI...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: response 404 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -97,9 +98,9 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive RSI: response 200 from https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
   Fetching company profile (massive.com)...
   Massive profile: GET https://api.massive.com/v3/reference/tickers/RGTI?apiKey=%2A%2A%2A
@@ -148,7 +149,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; RGTI competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -207,42 +208,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-07T15:22:41.602737+00:00">2025-11-07 15:22 UTC</time> (runtime 1m 47s)
+**Generated:** <time class="js-local-time" datetime="2025-11-10T10:26:11.310764+00:00">2025-11-10 10:26 UTC</time> (runtime 2m 13s)
 
 ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Rigetti Computing provides a full-stack quantum computing platform delivered as a cloud service via its Rigetti QCS and through cloud service providers. Its proprietary quantum‑classical infrastructure enables ultra‑low latency integration with public and private clouds, and it has built the industry’s first multi‑chip quantum processor to scale systems.
+1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company delivering its quantum platform as a cloud service via Rigetti QCS and through major cloud providers. It designs and operates proprietary quantum‑classical infrastructure with ultra‑low‑latency integration and has built a multi‑chip quantum processor for scalable systems. The company also offers professional services such as algorithm development, benchmarking, application programming, and software support.
 
-1.2. **Profitable?:** No — it is not profitable, with negative net income (cumulative −$164.83M), negative operating cash flow, and negative free cash flow; no timing to profitability is provided in the data.
+1.2. **Profitable?:** No — the company remains unprofitable, with cumulative net losses (-$164.83M), negative operating cash flow (-$53.8M) and free cash flow (-$39.5M); no timeline to profitability is provided in the data.
 
-1.3. **Customer & Markets:** Primary customers are end‑users accessing its quantum computing via the Rigetti QCS platform and through third‑party cloud providers for practical quantum workloads. Most revenue is derived from the United States.
+1.3. **Customer & Markets:** Rigetti serves a wide range of end users accessing its quantum computing capabilities via the Rigetti QCS platform and partner cloud providers. Customers also engage via professional services (e.g., algorithm development and benchmarking). The majority of revenue comes from the United States.
 
-1.4. **Competition:** Competitors include pure‑play quantum firms like IonQ and D‑Wave Quantum (QBTS), as well as big tech players Alphabet, Microsoft, and Nvidia active in quantum computing. Rigetti is a smaller pure‑play competing against these larger incumbents.
+1.4. **Competition:** Primary competitors include pure‑play quantum firms IonQ (IONQ) and D‑Wave (QBTS), and large tech companies with quantum efforts such as Alphabet/Google (GOOGL/GOOG), Microsoft (MSFT), and Nvidia (NVDA). The data do not indicate a definitive market share ranking.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares fell from a recent 7d high near 44.52 to about 33.15 and trade well below the 20‑DMA (~42.11).
+2.1. **7d Trend?:** down — price closed at 33.77 below its 20‑day average (42.14) and MACD is slightly negative.
 
-2.2. **7d Buy/Sell Points?:** Buying near 34.65 or closer to 32.13 support looked favorable, while selling into 44.52 resistance offered a good exit.
+2.2. **7d Buy/Sell Points?:** Better buy entries appeared near 34.65 and around support at 30.62, while selling into strength near 44.52 resistance looked favorable.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Rigetti is an early‑stage U.S. quantum computing company rather than a fly‑by‑night, and it was set to join the Russell 3000 Index in 2024. However, it remains financially fragile with sustained losses (net income sum −$164.83M), negative operating cash flow, and negative free cash flow. Revenue contracted year over year (−41.6%), and the stock exhibits high volatility, underscoring elevated risk. Overall, its financial profile points to a speculative, higher‑risk company.
+3.1. **Stability?:** Rigetti is a U.S. quantum computing company, but its financial profile is early‑stage with ongoing losses and negative cash flow. The shares are highly volatile (ATR ~13% of price; 52‑week range ~$1.21–$58.15). Inclusion in the Russell 3000 Index in 2024 adds institutional visibility. Overall, the data suggest it is more speculative than a stable, cash‑generative institution.
 
-3.2. **Innovating?:** Yes — it is innovating, evidenced by developing the industry’s first multi‑chip quantum processor and collaborating with Nvidia on NVQLink quantum interconnection. Growth interest is reflected in October’s stock surge tied to analyst support and broader sector investment signals.
+3.2. **Innovating?:** Yes — it is innovating, having developed a multi‑chip quantum processor and supporting NVIDIA’s NVQLink for quantum‑classical interconnection. Recent momentum tied to the Nvidia partnership and analyst enthusiasm underscores active development.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlighted Nvidia’s NVQLink announcement and Rigetti’s October rally driven by bullish analyst reports, JPMorgan’s quantum spending commentary, and a partnership with Nvidia for interconnection. Other articles frame the stock as highly speculative despite gains and note broader quantum interest via ETFs. Through a ‘buy the rumor, sell the news’ lens, the move appears buzz‑aided, but quick‑facts indicate ‘buy the rumor? no’ and ‘sell the news? no,’ suggesting no clear fade‑the‑news setup in the supplied data.
+4.1. **News:** Recent coverage notes Rigetti’s stock jumped 48.6% in October on bullish analyst reports, JPMorgan’s tech investment comments including quantum, and a partnership with Nvidia for interconnection. Nvidia separately announced NVQLink, highlighting growing quantum‑AI links. Other analysis calls Rigetti highly speculative amid competition from big tech. Sector context shows mixed sentiment, with a peer (QCi) down sharply and an ETF pitch highlighting diversification. These headline‑driven surges can invite buy‑the‑rumor/sell‑the‑news behavior around announcements.
 
-4.2. **Tarrifs:** Reports indicate quantum‑computing stocks, including RGTI, have swung on tariff headlines, adding short‑term volatility to the group. Coverage also notes tariffs could pressure costs tied to China‑related manufacturing and assembly.
+4.2. **Tarrifs:** Tariff headlines have coincided with sector‑wide pressure on quantum computing stocks, with RGTI cited alongside peers during tariff‑related selloffs. Specific, lasting company‑level impacts are not detailed.
 
 ## 5. QuickRef
 
@@ -251,18 +252,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-164.83M</td></tr>
-<tr><td>Price</td><td>33.15</td></tr>
+<tr><td>Price</td><td>33.77</td></tr>
 <tr><td>7d Resistance</td><td>44.52</td></tr>
-<tr><td>7d Support</td><td>32.13</td></tr>
+<tr><td>7d Support</td><td>30.62</td></tr>
 <tr><td>30d Resistance</td><td>58.15</td></tr>
 <tr><td>30d Support</td><td>28.45</td></tr>
-<tr><td>Buy the dip?</td><td>yes</td></tr>
+<tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
 
@@ -285,12 +287,12 @@ raw_markdown: |
 Gathering context for RGTI...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-09/2025-11-07?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting RGTI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RGTI/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: response 404 from https://api.massive.com/v1/open-close/RGTI/2025-11-07?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RGTI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -298,9 +300,9 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/RGTI?ti
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/RGTI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/RGTI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive RSI: response 200 from https://api.massive.com/v1/indicators/rsi/RGTI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
 Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/RGTI?apiKey=%2A%2A%2A
@@ -349,7 +351,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; RGTI competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+competitors&amp;num=5
     google_custom_search: 5 result(s)
