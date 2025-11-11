@@ -2,46 +2,46 @@
 layout: default
 title: "NVO Stock Report"
 ticker: "NVO"
-date: 2025-11-08
-generated_at: 2025-11-08T15:19:59.988880+00:00
-runtime_seconds: 119.44
+date: 2025-11-11
+generated_at: 2025-11-11T10:25:07.869268+00:00
+runtime_seconds: 99.25
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-08T15:19:59.988880+00:00">2025-11-08 15:19 UTC</time> (runtime 1m 59s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-11T10:25:07.869268+00:00">2025-11-11 10:25 UTC</time> (runtime 1m 39s)
   
   ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Novo Nordisk develops, manufactures, and markets therapies for diabetes and obesity, including human and modern insulins, GLP-1 treatments, and oral antidiabetic agents. It also operates a smaller biopharmaceutical segment (under 10% of revenue) focused on protein therapies for hemophilia and other disorders.
+  1.1. **Activities:** Novo Nordisk develops, manufactures, and markets diabetes and obesity treatments, including human and modern insulins, GLP-1 therapies, and oral antidiabetic agents. It also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders. The company operates primarily through Diabetes & Obesity Care and Rare Disease segments.
   
-  1.2. **Profitable?:** Yes—NVO is profitable, with a ~32.9% profit margin, sustained positive net income across recent periods, and strong free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with a ~32.9% profit margin, strong free cash flow, and consistent positive net income, despite recent negative earnings growth.
   
-  1.3. **Customer & Markets:** Its primary customers are patients with diabetes, obesity, and select rare diseases served through healthcare providers and health systems. It operates globally with leadership in the branded diabetes market and recent activity in China via an AI-powered diabetes and weight-management partnership with Fangzhou.
+  1.3. **Customer & Markets:** Novo Nordisk primarily serves patients with diabetes, obesity, and certain rare diseases across global markets. It operates in the Diabetes & Obesity Care and Rare Disease segments, holding roughly one-third of the global branded diabetes treatment market.
   
-  1.4. **Competition:** Key competitors include Eli Lilly (GLP-1/obesity), Sanofi, AstraZeneca, and other large pharma. Novo Nordisk is the leading provider in global branded diabetes care (~one-third share) but faces strong competition from Eli Lilly in obesity drugs.
+  1.4. **Competition:** Key competitors include Eli Lilly and Pfizer in GLP-1/obesity, with broader pharma peers like Sanofi and AstraZeneca. Novo Nordisk remains a market leader, holding about one-third of the global branded diabetes market.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, as shares trade below the 20-DMA (52.26) and drifted toward support at 45.15 after a 49.56 local high.
+  2.1. **7d Trend?:** down — shares fell from a local high near 49.56 toward support around 45.15 and remain below the 20-DMA.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 46.16 and the 45.15 support looked favorable, while selling into 49.56–50.54 resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near the 45.15 support looked favorable, while selling into 49.56–49.90 resistance offered better exits.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Novo Nordisk is a long-established company with more than 90 years in chronic disease treatment and a global leadership position in diabetes care. Financially it appears stable, posting a ~32.9% profit margin, consistent net income, and strong operating and free cash flow. Its diversified, though smaller, biopharma segment adds resilience. Overall, it resembles a stable, mature institution rather than a fly-by-night operator.
+  3.1. **Stability?:** Novo Nordisk is a long-standing, global healthcare company with more than 90 years of history and a leading position in diabetes care. It shows strong financial stability with sustained profitability, robust operating cash flow, and healthy free cash flow. Its dominant market share in branded diabetes care further supports durability, though near-term earnings growth has softened. Overall, it appears to be a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Yes—innovation and growth are evident, including a new AI-powered diabetes and weight management initiative with Fangzhou and a 5.1% revenue growth rate. It is also expanding its portfolio via deals such as the announced Akero Therapeutics acquisition.
+  3.2. **Innovating?:** It is actively innovating and expanding in GLP-1 therapies for diabetes and obesity, supported by a visible R&D pipeline. Revenue is growing (5.1% YoY), though recent earnings growth is negative.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight a strategic partnership with Fangzhou to co-develop AI-driven diabetes and weight-management solutions announced at CIIE. Policy news shows a major pricing deal with the U.S. administration that will cut out-of-pocket costs and bring Medicare/Medicaid coverage for GLP-1s starting April 2026. Competitive pressure remains intense, with Eli Lilly reporting Phase 2 obesity data showing up to 20% weight loss. Overall, the mix of access expansion and pricing pressure suggests limited buy-the-rumor, sell-the-news dynamics in the near term.
+  4.1. **News:** Recent headlines highlight the intense GLP-1 race among Eli Lilly, Novo Nordisk, and Pfizer, with the market expected to expand significantly. Novo Nordisk’s withdrawal from a $10B Metsera bid was framed as restoring investor trust through financial discipline. The company also agreed with the U.S. administration to lower prices for weight-loss treatments in exchange for reduced tariffs and expanded access, and Hims & Hers discussed potential collaboration for Wegovy injections. Quick facts indicate ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting muted payoff from trading headlines alone.
   
-  4.2. **Tarrifs:** Tariff impacts appear muted at present: reports indicate a tariff reprieve under the recent U.S. drug pricing deal and management has stated limited concern, though prior headlines noted uncertainty. Net effect in the supplied data is that tariffs are a watch item but not a primary current driver.
+  4.2. **Tarrifs:** Tariff impacts appear supportive following an agreement to lower prices in exchange for reduced tariffs and broader U.S. access, though price cuts could temper margin benefits. Management has also indicated limited concern about tariffs.
   
   ## 5. QuickRef
   
@@ -49,9 +49,9 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$111.07B</td></tr>
-  <tr><td>Price</td><td>45.68</td></tr>
-  <tr><td>7d Resistance</td><td>50.54</td></tr>
+  <tr><td>Last Q4</td><td>$103.77B</td></tr>
+  <tr><td>Price</td><td>45.94</td></tr>
+  <tr><td>7d Resistance</td><td>49.90</td></tr>
   <tr><td>7d Support</td><td>45.15</td></tr>
   <tr><td>30d Resistance</td><td>60.90</td></tr>
   <tr><td>30d Support</td><td>45.15</td></tr>
@@ -73,8 +73,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-  <li>The Guardian: competitive landscape, rumor</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news</li>
+  <li>The Guardian: competitive landscape, rumor, tariffs</li>
   </ul>
   </div>
   
@@ -85,12 +85,12 @@ raw_markdown: |
   Gathering context for NVO...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-10?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-10?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -149,7 +149,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; NVO market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; NVO competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -187,7 +187,12 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; NVO tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NVO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -212,42 +217,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-08T15:19:59.988880+00:00">2025-11-08 15:19 UTC</time> (runtime 1m 59s)
+**Generated:** <time class="js-local-time" datetime="2025-11-11T10:25:07.869268+00:00">2025-11-11 10:25 UTC</time> (runtime 1m 39s)
 
 ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Novo Nordisk develops, manufactures, and markets therapies for diabetes and obesity, including human and modern insulins, GLP-1 treatments, and oral antidiabetic agents. It also operates a smaller biopharmaceutical segment (under 10% of revenue) focused on protein therapies for hemophilia and other disorders.
+1.1. **Activities:** Novo Nordisk develops, manufactures, and markets diabetes and obesity treatments, including human and modern insulins, GLP-1 therapies, and oral antidiabetic agents. It also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders. The company operates primarily through Diabetes & Obesity Care and Rare Disease segments.
 
-1.2. **Profitable?:** Yes—NVO is profitable, with a ~32.9% profit margin, sustained positive net income across recent periods, and strong free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with a ~32.9% profit margin, strong free cash flow, and consistent positive net income, despite recent negative earnings growth.
 
-1.3. **Customer & Markets:** Its primary customers are patients with diabetes, obesity, and select rare diseases served through healthcare providers and health systems. It operates globally with leadership in the branded diabetes market and recent activity in China via an AI-powered diabetes and weight-management partnership with Fangzhou.
+1.3. **Customer & Markets:** Novo Nordisk primarily serves patients with diabetes, obesity, and certain rare diseases across global markets. It operates in the Diabetes & Obesity Care and Rare Disease segments, holding roughly one-third of the global branded diabetes treatment market.
 
-1.4. **Competition:** Key competitors include Eli Lilly (GLP-1/obesity), Sanofi, AstraZeneca, and other large pharma. Novo Nordisk is the leading provider in global branded diabetes care (~one-third share) but faces strong competition from Eli Lilly in obesity drugs.
+1.4. **Competition:** Key competitors include Eli Lilly and Pfizer in GLP-1/obesity, with broader pharma peers like Sanofi and AstraZeneca. Novo Nordisk remains a market leader, holding about one-third of the global branded diabetes market.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, as shares trade below the 20-DMA (52.26) and drifted toward support at 45.15 after a 49.56 local high.
+2.1. **7d Trend?:** down — shares fell from a local high near 49.56 toward support around 45.15 and remain below the 20-DMA.
 
-2.2. **7d Buy/Sell Points?:** Buying near 46.16 and the 45.15 support looked favorable, while selling into 49.56–50.54 resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near the 45.15 support looked favorable, while selling into 49.56–49.90 resistance offered better exits.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Novo Nordisk is a long-established company with more than 90 years in chronic disease treatment and a global leadership position in diabetes care. Financially it appears stable, posting a ~32.9% profit margin, consistent net income, and strong operating and free cash flow. Its diversified, though smaller, biopharma segment adds resilience. Overall, it resembles a stable, mature institution rather than a fly-by-night operator.
+3.1. **Stability?:** Novo Nordisk is a long-standing, global healthcare company with more than 90 years of history and a leading position in diabetes care. It shows strong financial stability with sustained profitability, robust operating cash flow, and healthy free cash flow. Its dominant market share in branded diabetes care further supports durability, though near-term earnings growth has softened. Overall, it appears to be a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Yes—innovation and growth are evident, including a new AI-powered diabetes and weight management initiative with Fangzhou and a 5.1% revenue growth rate. It is also expanding its portfolio via deals such as the announced Akero Therapeutics acquisition.
+3.2. **Innovating?:** It is actively innovating and expanding in GLP-1 therapies for diabetes and obesity, supported by a visible R&D pipeline. Revenue is growing (5.1% YoY), though recent earnings growth is negative.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight a strategic partnership with Fangzhou to co-develop AI-driven diabetes and weight-management solutions announced at CIIE. Policy news shows a major pricing deal with the U.S. administration that will cut out-of-pocket costs and bring Medicare/Medicaid coverage for GLP-1s starting April 2026. Competitive pressure remains intense, with Eli Lilly reporting Phase 2 obesity data showing up to 20% weight loss. Overall, the mix of access expansion and pricing pressure suggests limited buy-the-rumor, sell-the-news dynamics in the near term.
+4.1. **News:** Recent headlines highlight the intense GLP-1 race among Eli Lilly, Novo Nordisk, and Pfizer, with the market expected to expand significantly. Novo Nordisk’s withdrawal from a $10B Metsera bid was framed as restoring investor trust through financial discipline. The company also agreed with the U.S. administration to lower prices for weight-loss treatments in exchange for reduced tariffs and expanded access, and Hims & Hers discussed potential collaboration for Wegovy injections. Quick facts indicate ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting muted payoff from trading headlines alone.
 
-4.2. **Tarrifs:** Tariff impacts appear muted at present: reports indicate a tariff reprieve under the recent U.S. drug pricing deal and management has stated limited concern, though prior headlines noted uncertainty. Net effect in the supplied data is that tariffs are a watch item but not a primary current driver.
+4.2. **Tarrifs:** Tariff impacts appear supportive following an agreement to lower prices in exchange for reduced tariffs and broader U.S. access, though price cuts could temper margin benefits. Management has also indicated limited concern about tariffs.
 
 ## 5. QuickRef
 
@@ -255,9 +260,9 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$111.07B</td></tr>
-<tr><td>Price</td><td>45.68</td></tr>
-<tr><td>7d Resistance</td><td>50.54</td></tr>
+<tr><td>Last Q4</td><td>$103.77B</td></tr>
+<tr><td>Price</td><td>45.94</td></tr>
+<tr><td>7d Resistance</td><td>49.90</td></tr>
 <tr><td>7d Support</td><td>45.15</td></tr>
 <tr><td>30d Resistance</td><td>60.90</td></tr>
 <tr><td>30d Support</td><td>45.15</td></tr>
@@ -279,8 +284,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-<li>The Guardian: competitive landscape, rumor</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news</li>
+<li>The Guardian: competitive landscape, rumor, tariffs</li>
 </ul>
 </div>
 
@@ -291,12 +296,12 @@ raw_markdown: |
 Gathering context for NVO...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-10?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-10?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -355,7 +360,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; NVO market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; NVO competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -393,7 +398,12 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; NVO tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NVO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
