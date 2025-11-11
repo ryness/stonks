@@ -2,30 +2,30 @@
 layout: default
 title: "VKTX Stock Report"
 ticker: "VKTX"
-date: 2025-11-08
-generated_at: 2025-11-08T05:20:18.846730+00:00
-runtime_seconds: 90.37
+date: 2025-11-11
+generated_at: 2025-11-11T01:41:02.972095+00:00
+runtime_seconds: 82.88
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-08T05:20:18.846730+00:00">2025-11-08 05:20 UTC</time> (runtime 1m 30s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-11T01:41:02.972095+00:00">2025-11-11 01:41 UTC</time> (runtime 1m 23s)
   
   ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (thyroid hormone receptor-β agonists), VK5211 (a selective androgen receptor modulator), and VK2735, a dual GLP-1/GIP agonist in obesity trials.
+  1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company focused on metabolic and endocrine disorders. Its pipeline includes VK2735 (a dual GLP-1/GIP agonist for obesity in Phase 3), VK2809 and VK0214 (oral, tissue-selective thyroid hormone receptor beta agonists), and VK5211 (an oral selective androgen receptor modulator).
   
-  1.2. **Profitable?:** No; it is pre-revenue with consecutive net losses (profit margin 0%, negative operating and free cash flow) and no approved products, and a timeline to profitability is not provided.
+  1.2. **Profitable?:** No—Viking is pre-revenue with recurring net losses and a 0.0% profit margin, alongside negative free cash flow and operating cash flow; timing to profitability is unknown.
   
-  1.3. **Customer & Markets:** As a clinical-stage company with no marketed products, primary customers are not yet applicable. It targets the obesity and broader metabolic/endocrine therapeutics markets, reflected by VK2735 in obesity and thyroid hormone receptor-β programs (VK2809/VK0214).
+  1.3. **Customer & Markets:** As a clinical-stage company, it has no commercial customers yet. It targets the obesity and broader metabolic/endocrine therapeutics markets, with activities centered in the United States through clinical development and investor outreach.
   
-  1.4. **Competition:** Key competitors include Eli Lilly in obesity drugs and Madrigal Pharmaceuticals in metabolic liver disease. Viking is a smaller clinical-stage player versus these established peers.
+  1.4. **Competition:** Key competitors include Eli Lilly in obesity therapeutics and Madrigal Pharmaceuticals in metabolic/THR-β programs; Viking is a smaller, clinical-stage player relative to these peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down; shares traded off a local high near 38.02 toward support at 34.15 and closed 36.77 below 7d resistance 39.57.
+  2.1. **7d Trend?:** up, with price rising from the recent local low (34.67) toward resistance (38.88) and closing above the 20-day average.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the 34.15 support looked favorable, while selling into the 38.02–39.57 resistance zone offered better exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 34.67–34.15 (local low/support) and selling near 38.02–38.88 (local high/resistance) offered favorable levels.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Viking is a clinical-stage biotech listed on Nasdaq with an approximate $4.16B market cap. It reports recurring net losses (last Q4 -$171.55M) and negative operating and free cash flow, typical of pre-revenue R&D companies. Stability hinges on cash runway and clinical outcomes; detailed balance sheet metrics are not provided here. The company maintains active operations and investor outreach, including scheduled November 2025 conference appearances.
+  3.1. **Stability?:** This is a clinical-stage biotech rather than a fly-by-night entity, but it is not yet a stable, cash-generating business. It has posted ongoing net losses (last four quarters totaling roughly -$171.55M) with negative operating cash flow (-$224.6M) and free cash flow (-$150.9M), indicating reliance on external financing. Participation in investor conferences and an advancing pipeline support operational continuity, yet balance-sheet risk remains elevated until approvals or partnerships materialize.
   
-  3.2. **Innovating?:** Yes—its pipeline is advancing, with VK2735 in Phase 3 for obesity and recent positive updates highlighted in coverage. It is actively engaging at investor and medical conferences, signaling ongoing development momentum.
+  3.2. **Innovating?:** Yes—its VK2735 obesity candidate is in Phase 3 with reported clinical updates showing meaningful weight loss, and it continues to advance multiple metabolic programs. This indicates active innovation and growth efforts.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage cites a 44.9% October surge tied to takeover speculation in the obesity space and positive VK2735 updates, along with confirmed trial progress. High-profile investor interest (e.g., Druckenmiller adding VKTX alongside Eli Lilly) underscores exposure to a rapidly growing weight-loss market. The company announced participation in Stifel and Jefferies conferences, and articles note VK2735’s reported weight-loss data up to 13.1% and a high-risk/high-reward profile given pre-revenue status. With rumor-driven gains already realized, the setup suggests potential “buy the rumor” effects and the risk of “sell the news” if expectations aren’t met.
+  4.1. **News:** Shares surged in October on takeover speculation in the obesity drug space and positive VK2735 updates, with continued progress confirmed in clinical trials. High-profile investor interest (e.g., Stanley Druckenmiller adding VKTX alongside LLY) highlights the market’s focus on weight-loss therapies. The company is presenting at Stifel and Jefferies conferences, while coverage labels VKTX a high-risk, high-reward, pre-revenue play with recent strong stock gains. Given the speculation-driven moves, the setup aligns more with “sell the news” than “buy the rumor,” consistent with the quick facts.
   
-  4.2. **Tarrifs:** Uncertain; management commentary references potential tariff impacts on future operations without quantifying or linking a direct effect to the stock.
+  4.2. **Tarrifs:** Unclear—management commentary cited uncertainty about potential tariff impacts on future operations, with no specific or quantified effect reported.
   
   ## 5. QuickRef
   
@@ -50,15 +50,15 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-171.55M</td></tr>
-  <tr><td>Price</td><td>36.77</td></tr>
-  <tr><td>7d Resistance</td><td>39.57</td></tr>
+  <tr><td>Price</td><td>37.77</td></tr>
+  <tr><td>7d Resistance</td><td>38.88</td></tr>
   <tr><td>7d Support</td><td>34.15</td></tr>
   <tr><td>30d Resistance</td><td>39.57</td></tr>
   <tr><td>30d Support</td><td>25.04</td></tr>
   <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>Sell the news?</td><td>yes</td></tr>
+  <tr><td>7d Trend:</td><td>up</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
@@ -85,12 +85,12 @@ raw_markdown: |
   Gathering context for VKTX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-10?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/VKTX/2025-11-10?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/VKTX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -195,7 +195,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -220,26 +220,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-08T05:20:18.846730+00:00">2025-11-08 05:20 UTC</time> (runtime 1m 30s)
+**Generated:** <time class="js-local-time" datetime="2025-11-11T01:41:02.972095+00:00">2025-11-11 01:41 UTC</time> (runtime 1m 23s)
 
 ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214 (thyroid hormone receptor-β agonists), VK5211 (a selective androgen receptor modulator), and VK2735, a dual GLP-1/GIP agonist in obesity trials.
+1.1. **Activities:** Viking Therapeutics is a clinical-stage biopharmaceutical company focused on metabolic and endocrine disorders. Its pipeline includes VK2735 (a dual GLP-1/GIP agonist for obesity in Phase 3), VK2809 and VK0214 (oral, tissue-selective thyroid hormone receptor beta agonists), and VK5211 (an oral selective androgen receptor modulator).
 
-1.2. **Profitable?:** No; it is pre-revenue with consecutive net losses (profit margin 0%, negative operating and free cash flow) and no approved products, and a timeline to profitability is not provided.
+1.2. **Profitable?:** No—Viking is pre-revenue with recurring net losses and a 0.0% profit margin, alongside negative free cash flow and operating cash flow; timing to profitability is unknown.
 
-1.3. **Customer & Markets:** As a clinical-stage company with no marketed products, primary customers are not yet applicable. It targets the obesity and broader metabolic/endocrine therapeutics markets, reflected by VK2735 in obesity and thyroid hormone receptor-β programs (VK2809/VK0214).
+1.3. **Customer & Markets:** As a clinical-stage company, it has no commercial customers yet. It targets the obesity and broader metabolic/endocrine therapeutics markets, with activities centered in the United States through clinical development and investor outreach.
 
-1.4. **Competition:** Key competitors include Eli Lilly in obesity drugs and Madrigal Pharmaceuticals in metabolic liver disease. Viking is a smaller clinical-stage player versus these established peers.
+1.4. **Competition:** Key competitors include Eli Lilly in obesity therapeutics and Madrigal Pharmaceuticals in metabolic/THR-β programs; Viking is a smaller, clinical-stage player relative to these peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down; shares traded off a local high near 38.02 toward support at 34.15 and closed 36.77 below 7d resistance 39.57.
+2.1. **7d Trend?:** up, with price rising from the recent local low (34.67) toward resistance (38.88) and closing above the 20-day average.
 
-2.2. **7d Buy/Sell Points?:** Buying near the 34.15 support looked favorable, while selling into the 38.02–39.57 resistance zone offered better exits.
+2.2. **7d Buy/Sell Points?:** Buying near 34.67–34.15 (local low/support) and selling near 38.02–38.88 (local high/resistance) offered favorable levels.
 
 2.3.1. **7d Volume:** med
 
@@ -247,15 +247,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Viking is a clinical-stage biotech listed on Nasdaq with an approximate $4.16B market cap. It reports recurring net losses (last Q4 -$171.55M) and negative operating and free cash flow, typical of pre-revenue R&D companies. Stability hinges on cash runway and clinical outcomes; detailed balance sheet metrics are not provided here. The company maintains active operations and investor outreach, including scheduled November 2025 conference appearances.
+3.1. **Stability?:** This is a clinical-stage biotech rather than a fly-by-night entity, but it is not yet a stable, cash-generating business. It has posted ongoing net losses (last four quarters totaling roughly -$171.55M) with negative operating cash flow (-$224.6M) and free cash flow (-$150.9M), indicating reliance on external financing. Participation in investor conferences and an advancing pipeline support operational continuity, yet balance-sheet risk remains elevated until approvals or partnerships materialize.
 
-3.2. **Innovating?:** Yes—its pipeline is advancing, with VK2735 in Phase 3 for obesity and recent positive updates highlighted in coverage. It is actively engaging at investor and medical conferences, signaling ongoing development momentum.
+3.2. **Innovating?:** Yes—its VK2735 obesity candidate is in Phase 3 with reported clinical updates showing meaningful weight loss, and it continues to advance multiple metabolic programs. This indicates active innovation and growth efforts.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage cites a 44.9% October surge tied to takeover speculation in the obesity space and positive VK2735 updates, along with confirmed trial progress. High-profile investor interest (e.g., Druckenmiller adding VKTX alongside Eli Lilly) underscores exposure to a rapidly growing weight-loss market. The company announced participation in Stifel and Jefferies conferences, and articles note VK2735’s reported weight-loss data up to 13.1% and a high-risk/high-reward profile given pre-revenue status. With rumor-driven gains already realized, the setup suggests potential “buy the rumor” effects and the risk of “sell the news” if expectations aren’t met.
+4.1. **News:** Shares surged in October on takeover speculation in the obesity drug space and positive VK2735 updates, with continued progress confirmed in clinical trials. High-profile investor interest (e.g., Stanley Druckenmiller adding VKTX alongside LLY) highlights the market’s focus on weight-loss therapies. The company is presenting at Stifel and Jefferies conferences, while coverage labels VKTX a high-risk, high-reward, pre-revenue play with recent strong stock gains. Given the speculation-driven moves, the setup aligns more with “sell the news” than “buy the rumor,” consistent with the quick facts.
 
-4.2. **Tarrifs:** Uncertain; management commentary references potential tariff impacts on future operations without quantifying or linking a direct effect to the stock.
+4.2. **Tarrifs:** Unclear—management commentary cited uncertainty about potential tariff impacts on future operations, with no specific or quantified effect reported.
 
 ## 5. QuickRef
 
@@ -264,15 +264,15 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-171.55M</td></tr>
-<tr><td>Price</td><td>36.77</td></tr>
-<tr><td>7d Resistance</td><td>39.57</td></tr>
+<tr><td>Price</td><td>37.77</td></tr>
+<tr><td>7d Resistance</td><td>38.88</td></tr>
 <tr><td>7d Support</td><td>34.15</td></tr>
 <tr><td>30d Resistance</td><td>39.57</td></tr>
 <tr><td>30d Support</td><td>25.04</td></tr>
 <tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>Sell the news?</td><td>yes</td></tr>
+<tr><td>7d Trend:</td><td>up</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
@@ -299,12 +299,12 @@ raw_markdown: |
 Gathering context for VKTX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting VKTX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/VKTX/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/VKTX/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/VKTX/2025-11-10?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/VKTX/2025-11-10?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/VKTX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/VKTX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -409,7 +409,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
