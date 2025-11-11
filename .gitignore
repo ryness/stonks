@@ -5,3 +5,11 @@ _site
 __pycache__/
 apikey*
 .DS_Store
+.vscode
+.jekyll-cache/
+.bundle
+stonks.code-workspace
+info-api-call-counts.txt
+info-enhancements.txt
+Gemfile
+Gemfile.lock

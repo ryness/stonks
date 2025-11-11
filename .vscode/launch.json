@@ -7,7 +7,35 @@
       "request": "launch",
       "command": "bundle exec jekyll serve",
       "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "gostonks: Auto cycle",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/gostonks.py",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "gostonks: Specific ticker",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/gostonks.py",
+      "args": [
+        "${input:gostonksTicker}"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "cwd": "${workspaceFolder}"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "gostonksTicker",
+      "type": "promptString",
+      "description": "Ticker symbol to refresh (e.g. AAPL, GODSEYE)",
+      "default": "AAPL"
     }
   ]
 }
-
