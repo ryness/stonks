@@ -2,46 +2,46 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2025-11-08
-generated_at: 2025-11-08T20:20:48.354622+00:00
-runtime_seconds: 85.22
+date: 2025-11-11
+generated_at: 2025-11-11T15:23:10.750082+00:00
+runtime_seconds: 84.42
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-08T20:20:48.354622+00:00">2025-11-08 20:20 UTC</time> (runtime 1m 25s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-11T15:23:10.750082+00:00">2025-11-11 15:23 UTC</time> (runtime 1m 24s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer designs and sells high-performance server and storage solutions, including modular blade servers, full-rack systems, networking devices, server sub-systems, and management software. Its turnkey platforms are developed and installed for AI data centers and serve cloud computing, data centers, high-performance computing, and IoT/embedded markets. The company reports one operating segment built on a modular, open-standard architecture.
+  1.1. **Activities:** Super Micro Computer designs and manufactures high-performance server, storage, and networking solutions, including GPU servers, modular blade systems, full rack-scale platforms, and management software. It delivers turnkey, validated systems for AI data centers and workloads across cloud, enterprise, HPC, and IoT/edge markets. The company operates as a single segment built on a modular, open-standard architecture.
   
-  1.2. **Profitable?:** Yes — it has positive net income and a ~3.8% profit margin, though recent revenue and earnings declined and margins have compressed.
+  1.2. **Profitable?:** Yes; it has positive net income ($792.81M across recent periods) and a 3.77% profit margin, though free cash flow is negative and revenue/earnings growth have declined.
   
-  1.3. **Customer & Markets:** Primary customers include cloud providers, data center operators, HPC users, and IoT/embedded markets, with turn-key solutions for AI datacenters. More than half of revenue comes from the United States, with the balance from Europe, Asia, and other regions.
+  1.3. **Customer & Markets:** Primary customers are enterprise data centers, cloud providers, AI data center operators, and organizations running HPC and edge/IoT workloads. More than half of revenue is generated in the United States, with the rest from Europe, Asia, and other regions.
   
-  1.4. **Competition:** Key competitors include Dell and HPE in server hardware, with ecosystem overlap against Nvidia and AMD in AI infrastructure. Per CSIMarket (Q2 2025), SMCI’s share (~10.5%) trails Dell (~45%), indicating a smaller player by market share.
+  1.4. **Competition:** Key competitors include Dell Technologies and Hewlett Packard Enterprise in servers and data center hardware, with networking overlap from Arista. SMCI is smaller than Dell but has been taking share in AI-optimized servers per industry coverage.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — it fell from the ~53.01 area toward 38.14 support and closed at 39.76, well below the 20-day average (~50.28).
+  2.1. **7d Trend?:** down, with price near support (38.14), below the 20-DMA (~48.84), and capped by a local high at 41.63.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 50.33 and selling around 53.01 stood out during the period; subsequent tests near 38.14 marked the key support level.
+  2.2. **7d Buy/Sell Points?:** Buying near the 38.14 support/suggested buy zone and selling into the 41.63 local high/suggested sell zone were favorable levels.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This is a long-standing company that celebrated 30 years and is included in the S&P 500, indicating scale and institutional footing. Profitability is positive (cumulative net income and a positive profit margin), and operating cash flow is positive, though free cash flow is modest. The business operates a single, focused segment with broad product breadth in servers and AI datacenter solutions. Recent data highlight revenue and earnings declines and margin compression, which are watch items but not indicative of a fly-by-night profile.
+  3.1. **Stability?:** This is a long-established server vendor, celebrating 30 years of operations and recognized for growth, including joining the S&P 500. It generates positive operating cash flow but posted negative free cash flow, reflecting investment and cash management pressures. Profitability is positive at a modest margin, with recent revenue and earnings growth declines. Geographically diversified sales (majority U.S., with Europe and Asia exposure) add resilience, suggesting a stable institution rather than a fly-by-night.
   
-  3.2. **Innovating?:** It is actively innovating and growing in AI infrastructure, including expanding NVIDIA-based platforms and turnkey AI datacenter solutions. Management raised full-year guidance to $36B on strong AI platform orders and cited a >$13B order book.
+  3.2. **Innovating?:** Innovating and growing: it is expanding AI-optimized platforms (including NVIDIA-based systems) and raised full-year guidance to $36B, though margins are compressed. A strong order book and new AI hardware platforms support continued innovation.
   
   ## 4. Context
   
-  4.1. **News:** Shares dropped after Q1 FY2026 results missed on revenue and EPS, with pre-market declines reported and a broader selloff noted by multiple outlets. Investing.com reported revenue of $5.0B missing expectations but full-year guidance raised to $36B, alongside margin compression and cash flow management challenges. Management highlighted an order book exceeding $13B featuring Nvidia GPUs. In the context of “buy the rumor, sell the news,” the miss drove selling despite positive guidance, fitting a sell-the-news reaction rather than rumor-driven buying.
+  4.1. **News:** Recent reports noted a Q1 revenue miss (about -15% y/y) and margin/cash flow pressures, but management raised full-year revenue guidance to $36B on strong AI platform orders and a >$13B order book tied to NVIDIA GPUs. Shares fell pre-market on the earnings miss and then tested support, despite the bullish guidance and backlog. Commentary frames the setup as near-term execution and cash discipline versus long-term AI demand. Given the selloff on a miss alongside a guidance raise, this looks less like a classic “buy the rumor, sell the news” and more like fundamentals driving the reaction.
   
-  4.2. **Tarrifs:** Tariffs have been cited by the company as a short-term headwind around earnings, and coverage links tariff concerns to stock pressure. Company communications in May 2025 referenced tariff impacts as a near-term factor.
+  4.2. **Tarrifs:** Tariffs have been cited by management as a short-term headwind and have coincided with post-earnings share declines, weighing on sentiment. Coverage links tariff concerns to pressure on SMCI’s AI server business, even as a global supply chain helps mitigate some impact.
   
   ## 5. QuickRef
   
@@ -49,8 +49,8 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$1.05B</td></tr>
-  <tr><td>Price</td><td>39.76</td></tr>
+  <tr><td>Last Q4</td><td>$792.81M</td></tr>
+  <tr><td>Price</td><td>38.91</td></tr>
   <tr><td>7d Resistance</td><td>53.01</td></tr>
   <tr><td>7d Support</td><td>38.14</td></tr>
   <tr><td>30d Resistance</td><td>58.78</td></tr>
@@ -85,12 +85,12 @@ raw_markdown: |
   Gathering context for SMCI...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting SMCI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMCI/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting SMCI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMCI/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMCI/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-11?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/SMCI/2025-11-11?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -212,42 +212,42 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-08T20:20:48.354622+00:00">2025-11-08 20:20 UTC</time> (runtime 1m 25s)
+**Generated:** <time class="js-local-time" datetime="2025-11-11T15:23:10.750082+00:00">2025-11-11 15:23 UTC</time> (runtime 1m 24s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer designs and sells high-performance server and storage solutions, including modular blade servers, full-rack systems, networking devices, server sub-systems, and management software. Its turnkey platforms are developed and installed for AI data centers and serve cloud computing, data centers, high-performance computing, and IoT/embedded markets. The company reports one operating segment built on a modular, open-standard architecture.
+1.1. **Activities:** Super Micro Computer designs and manufactures high-performance server, storage, and networking solutions, including GPU servers, modular blade systems, full rack-scale platforms, and management software. It delivers turnkey, validated systems for AI data centers and workloads across cloud, enterprise, HPC, and IoT/edge markets. The company operates as a single segment built on a modular, open-standard architecture.
 
-1.2. **Profitable?:** Yes — it has positive net income and a ~3.8% profit margin, though recent revenue and earnings declined and margins have compressed.
+1.2. **Profitable?:** Yes; it has positive net income ($792.81M across recent periods) and a 3.77% profit margin, though free cash flow is negative and revenue/earnings growth have declined.
 
-1.3. **Customer & Markets:** Primary customers include cloud providers, data center operators, HPC users, and IoT/embedded markets, with turn-key solutions for AI datacenters. More than half of revenue comes from the United States, with the balance from Europe, Asia, and other regions.
+1.3. **Customer & Markets:** Primary customers are enterprise data centers, cloud providers, AI data center operators, and organizations running HPC and edge/IoT workloads. More than half of revenue is generated in the United States, with the rest from Europe, Asia, and other regions.
 
-1.4. **Competition:** Key competitors include Dell and HPE in server hardware, with ecosystem overlap against Nvidia and AMD in AI infrastructure. Per CSIMarket (Q2 2025), SMCI’s share (~10.5%) trails Dell (~45%), indicating a smaller player by market share.
+1.4. **Competition:** Key competitors include Dell Technologies and Hewlett Packard Enterprise in servers and data center hardware, with networking overlap from Arista. SMCI is smaller than Dell but has been taking share in AI-optimized servers per industry coverage.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — it fell from the ~53.01 area toward 38.14 support and closed at 39.76, well below the 20-day average (~50.28).
+2.1. **7d Trend?:** down, with price near support (38.14), below the 20-DMA (~48.84), and capped by a local high at 41.63.
 
-2.2. **7d Buy/Sell Points?:** Buying near 50.33 and selling around 53.01 stood out during the period; subsequent tests near 38.14 marked the key support level.
+2.2. **7d Buy/Sell Points?:** Buying near the 38.14 support/suggested buy zone and selling into the 41.63 local high/suggested sell zone were favorable levels.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** This is a long-standing company that celebrated 30 years and is included in the S&P 500, indicating scale and institutional footing. Profitability is positive (cumulative net income and a positive profit margin), and operating cash flow is positive, though free cash flow is modest. The business operates a single, focused segment with broad product breadth in servers and AI datacenter solutions. Recent data highlight revenue and earnings declines and margin compression, which are watch items but not indicative of a fly-by-night profile.
+3.1. **Stability?:** This is a long-established server vendor, celebrating 30 years of operations and recognized for growth, including joining the S&P 500. It generates positive operating cash flow but posted negative free cash flow, reflecting investment and cash management pressures. Profitability is positive at a modest margin, with recent revenue and earnings growth declines. Geographically diversified sales (majority U.S., with Europe and Asia exposure) add resilience, suggesting a stable institution rather than a fly-by-night.
 
-3.2. **Innovating?:** It is actively innovating and growing in AI infrastructure, including expanding NVIDIA-based platforms and turnkey AI datacenter solutions. Management raised full-year guidance to $36B on strong AI platform orders and cited a >$13B order book.
+3.2. **Innovating?:** Innovating and growing: it is expanding AI-optimized platforms (including NVIDIA-based systems) and raised full-year guidance to $36B, though margins are compressed. A strong order book and new AI hardware platforms support continued innovation.
 
 ## 4. Context
 
-4.1. **News:** Shares dropped after Q1 FY2026 results missed on revenue and EPS, with pre-market declines reported and a broader selloff noted by multiple outlets. Investing.com reported revenue of $5.0B missing expectations but full-year guidance raised to $36B, alongside margin compression and cash flow management challenges. Management highlighted an order book exceeding $13B featuring Nvidia GPUs. In the context of “buy the rumor, sell the news,” the miss drove selling despite positive guidance, fitting a sell-the-news reaction rather than rumor-driven buying.
+4.1. **News:** Recent reports noted a Q1 revenue miss (about -15% y/y) and margin/cash flow pressures, but management raised full-year revenue guidance to $36B on strong AI platform orders and a >$13B order book tied to NVIDIA GPUs. Shares fell pre-market on the earnings miss and then tested support, despite the bullish guidance and backlog. Commentary frames the setup as near-term execution and cash discipline versus long-term AI demand. Given the selloff on a miss alongside a guidance raise, this looks less like a classic “buy the rumor, sell the news” and more like fundamentals driving the reaction.
 
-4.2. **Tarrifs:** Tariffs have been cited by the company as a short-term headwind around earnings, and coverage links tariff concerns to stock pressure. Company communications in May 2025 referenced tariff impacts as a near-term factor.
+4.2. **Tarrifs:** Tariffs have been cited by management as a short-term headwind and have coincided with post-earnings share declines, weighing on sentiment. Coverage links tariff concerns to pressure on SMCI’s AI server business, even as a global supply chain helps mitigate some impact.
 
 ## 5. QuickRef
 
@@ -255,8 +255,8 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$1.05B</td></tr>
-<tr><td>Price</td><td>39.76</td></tr>
+<tr><td>Last Q4</td><td>$792.81M</td></tr>
+<tr><td>Price</td><td>38.91</td></tr>
 <tr><td>7d Resistance</td><td>53.01</td></tr>
 <tr><td>7d Support</td><td>38.14</td></tr>
 <tr><td>30d Resistance</td><td>58.78</td></tr>
@@ -291,12 +291,12 @@ raw_markdown: |
 Gathering context for SMCI...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting SMCI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMCI/range/1/day/2020-10-10/2025-11-08?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting SMCI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMCI/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMCI/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-11?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/SMCI/2025-11-11?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
