@@ -1,0 +1,51 @@
+Stonks Feature Inventory
+========================
+
+Report Generation Pipeline (`gostonks.py`)
+-----------------------------------------
+- GPT-5 powered report builder that can target a specific ticker (`python gostonks.py AAPL`), refresh the stalest ticker when no argument is supplied, and automatically follow up with the macro **GodsEye** dashboard (`gostonks.py`, lines 250-330, 2470-2550).
+- YAML-driven prompt system (`stock-expert_prompt.txt`, `godseye_prompt.txt`) parsed into sections, bullets, quick facts, and LLM instructions so each bullet can define its own search inputs, formatting notes, or paragraph expectations (lines 306-420).
+- Pluggable search stack with provider priority + caching: tries Google Custom Search first, then NewsAPI, then GNews, then The Guardian. Every query result is cached under `.cache/` for six hours to avoid rate limits (lines 430-640, `CACHE_TTL_SECONDS = 6 * 3600`).
+- Market data aggregation from Massive.com (aggregates, open/close, prior close, SMA/EMA/MACD/RSI endpoints) with yfinance serving as the fallback for OHLC history, company fundamentals, quarterly financials, earnings dates, and news (lines 670-1400).
+- Company profile enrichment + logo caching: Massive profile payloads are cached locally and the company logo is downloaded once into `assets/logos/` for reuse.
+- Calculates support/resistance windows, ATR, DMA, buy/sell zones, multi-period positioning, overbought/oversold labels, and populates quick-reference answers that feed the `QuickRef` table in the rendered Markdown (lines 1500-1730).
+- Specialized GodsEye builder that tracks benchmark indices/ETFs/futures/commodities/treasuries/FX, computes 1d/7d/30d deltas, and summarizes the macro tone with dedicated prompt instructions (lines 1730-1940).
+- Consolidates bullet answers, renders Markdown with numbered sections, quick facts tables, sources list (with API failure footnotes), and an expandable CLI log for troubleshooting (lines 2100-2400).
+- Structured CLI logging with sensitive token scrubbing, automatic runtime headers, and per-run status updates to `_run_log` for the log appendix.
+
+Data Persistence (`stonks_storage.py`, `data/stonks.db`)
+--------------------------------------------------------
+- SQLite-backed persistence layer that initializes tables for tickers, source runs, price bars, technical indicators, and derived daily snapshots; enforces FK relationships and useful indexes at start-up (lines 49-172).
+- `start_run` / `finish_run` APIs wrap each generation cycle so GitHub Actions or local runs record duration, status, and errors (lines 175-210).
+- `persist_run_data` (later in the file) stores cleansed OHLC rows, indicator payloads, computed support/resistance, and contextual metadata; helper functions sanitize floats, timestamps, and JSON blobs before insertion.
+- Database file lives at `data/stonks.db` and is committed by automation so historical analytics travel with the repo (README.md lines 35-38).
+
+Automation & Scheduling
+-----------------------
+- GitHub Actions workflow (`gostonks.yml`, referenced in README) runs `gostonks.py <TICKER>`, commits `_reports/*.md` plus the SQLite DB, and can be launched via “new/rerun” links on GitHub Pages (README.md lines 13-34).
+- A separate `pages.yml` workflow builds the Jekyll site with Bundler, uploads `_site/`, and deploys via `actions/deploy-pages@v4`, keeping generated HTML out of the repo (README.md lines 24-34).
+- Scheduled runs every four hours refresh the stalest ticker then GodsEye, mirroring the CLI’s default behavior to keep reports rolling without manual input (README.md lines 39-45).
+
+Configuration, Secrets, and Setup
+---------------------------------
+- Optional API keys can be provided via both environment variables and plaintext files (`apikey-openai.txt`, `apikey-massive.txt`, `apikey-gnews.txt`, `apikey-guardian.txt`); missing keys gracefully skip dependent providers (README.md lines 13-21, 66-68).
+- `_config.yml` registers a `reports` collection with pretty permalinks, sets the site URL/baseurl, and excludes sensitive generator inputs (`gostonks.py`, prompt files, API key files) from the Jekyll build.
+- Cross-platform setup scripts (`bin/setup.sh`, `bin/setup.ps1`) bootstrap a Python venv, install `requirements.txt`, install Bundler 2.7.1, and run `bundle install`, matching the toolchain pinned in `.ruby-version` and `Gemfile.lock`.
+
+Frontend & Site Delivery
+------------------------
+- Minimal default layout injects `assets/css/main.css`, the Markdown renderer (`marked`), and the ES-module `assets/js/app.js`, plus embeds a data attribute pointing at the `gostonks.yml` workflow so the UI can open the run page in a new tab (`_layouts/default.html`).
+- `index.html` provides placeholder containers for the toolbar, sortable ticker links, status messaging, and the report body; everything else is populated by JavaScript at runtime.
+- `assets/js/app.js` fetches `reports.json`, sorts reports (alpha/date toggle), remembers the active ticker + sort order via `sessionStorage`/`localStorage`, renders Markdown or pre-baked HTML, rewrites `<time>` stamps to the viewer’s locale, and wires toolbar actions: bust-cache refresh, “rerun” workflow launcher, and inline GodsEye view (entire file).
+- `reports.json` is a Liquid/JSON hybrid feed that emits each report’s title, ticker, generated date, permalink, and both HTML + raw Markdown for the frontend to consume.
+
+Content & Assets
+----------------
+- `_reports/` stores Jekyll-ready Markdown with YAML front matter (ticker, timestamps, runtime) so Pages can serve each ticker at `/reports/<symbol>/`.
+- `assets/logos/` caches downloaded corporate logos referenced by generated markdown.
+- `info-api-call-counts.txt` documents the baseline API-call volume per provider, handy for quota planning; `info-enhancements.txt` is reserved for future improvements.
+
+Developer Experience
+--------------------
+- `stonks.code-workspace` (VS Code) and `.bundle/config` keep Ruby gems vendored under `vendor/bundle`.
+- `.gitignore` drops build artifacts (`.venv`, `_site`, `.cache`, `.jekyll-cache`, vendor gems), API key files, and local workspace metadata; Jekyll `exclude` ensures the generator inputs never ship to Pages.
