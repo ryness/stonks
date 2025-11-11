@@ -49,12 +49,14 @@ try:
     import yaml
 except ImportError as exc:
     raise RuntimeError(
-        "PyYAML is required to parse stock-expert_prompt.txt. Install with `pip install PyYAML`."
+        "PyYAML is required to parse config/stock-expert_prompt.txt. Install with `pip install PyYAML`."
     ) from exc
 
 
-PROMPT_PATH = Path("stock-expert_prompt.txt")
-GODSEYE_PROMPT_PATH = Path("godseye_prompt.txt")
+ROOT_DIR = Path(__file__).resolve().parents[1]
+CONFIG_DIR = ROOT_DIR / "config"
+PROMPT_PATH = CONFIG_DIR / "stock-expert_prompt.txt"
+GODSEYE_PROMPT_PATH = CONFIG_DIR / "godseye_prompt.txt"
 GODSEYE_TICKER = "GODSEYE"
 MARKET_BENCHMARKS = [
     {"symbol": "^GSPC", "label": "S&P 500", "category": "index"},
@@ -73,16 +75,16 @@ MARKET_BENCHMARKS = [
     {"symbol": "CL=F", "label": "WTI Crude", "category": "commodity"},
     {"symbol": "DX-Y.NYB", "label": "US Dollar", "category": "fx"},
 ]
-OPENAI_KEY_FILE = Path("apikey-openai.txt")
-MASSIVE_KEY_FILE = Path("apikey-massive.txt")
-GNEWS_KEY_FILE = Path("apikey-gnews.txt")
-GUARDIAN_KEY_FILE = Path("apikey-guardian.txt")
+OPENAI_KEY_FILE = CONFIG_DIR / "apikey-openai.txt"
+MASSIVE_KEY_FILE = CONFIG_DIR / "apikey-massive.txt"
+GNEWS_KEY_FILE = CONFIG_DIR / "apikey-gnews.txt"
+GUARDIAN_KEY_FILE = CONFIG_DIR / "apikey-guardian.txt"
 DEFAULT_MASSIVE_KEY = "fAYaxuq5a46MwqYZYlYcsM0BccqrLXEM"
 MASSIVE_API_BASE = "https://api.massive.com"
-LOGO_DIR = Path("assets/logos")
+LOGO_DIR = ROOT_DIR / "assets/logos"
 
-CACHE_DIR = Path(".cache")
-REPORTS_DIR = Path("_reports")
+CACHE_DIR = ROOT_DIR / ".cache"
+REPORTS_DIR = ROOT_DIR / "_reports"
 FOOTNOTE_MARKER = "^"
 FOOTNOTE_NOTE = f"{FOOTNOTE_MARKER} indicates an API issue or empty result (see generation log{FOOTNOTE_MARKER})."
 CACHE_TTL_SECONDS = 6 * 3600
@@ -104,8 +106,9 @@ if not GNEWS_API_KEY and GNEWS_KEY_FILE.exists():
 if not GUARDIAN_API_KEY and GUARDIAN_KEY_FILE.exists():
     GUARDIAN_API_KEY = GUARDIAN_KEY_FILE.read_text(encoding="utf-8").strip() or None
 
+CONFIG_FILE = ROOT_DIR / "_config.yml"
 try:
-    _site_config = yaml.safe_load(Path("_config.yml").read_text(encoding="utf-8"))
+    _site_config = yaml.safe_load(CONFIG_FILE.read_text(encoding="utf-8"))
 except Exception:
     _site_config = {}
 
@@ -118,7 +121,7 @@ PUBLIC_BASE_PATH = SITE_BASEURL or ""
 PUBLIC_BASE_URL = f"{SITE_URL}{PUBLIC_BASE_PATH}" if SITE_URL else ""
 
 _run_log: List[str] = []
-STORAGE = StonksStorage()
+STORAGE = StonksStorage(ROOT_DIR / "data/stonks.db")
 
 
 @dataclass(frozen=True)

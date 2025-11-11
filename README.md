@@ -6,7 +6,7 @@ Static site that renders AI-generated stock reports via Jekyll. The “new” an
 
 - Ruby 3.x with Bundler for local Jekyll builds (`bundle install`, then `bundle exec jekyll serve`).
 - Python 3.11 for the report generator (`python3.11 -m venv .venv && source .venv/bin/activate`).
-- Install Python deps: `pip install -r requirements.txt`.
+- Install Python deps: `pip install -r config/requirements.txt`.
 
 ## GitHub Actions Setup
 
@@ -19,7 +19,7 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `GUARDIAN_API_KEY` – optional secondary fallback via The Guardian Open Platform (or use `apikey-guardian.txt`).
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
-With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the SQLite database) back to the default branch.
+With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `src/gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the SQLite database) back to the default branch.
 
 ### GitHub Pages deployment
 
@@ -38,38 +38,38 @@ Each run now appends structured market data to `data/stonks.db` (SQLite). The da
 
 ### Scheduled rotation
 
-The action also runs automatically every four hours. When invoked without a specific ticker it now runs `python gostonks.py` (no arguments), which:
+The action also runs automatically every four hours. When invoked without a specific ticker it now runs `python src/gostonks.py` (no arguments), which:
 
 - scans `_reports/*.md` and rebuilds whichever ticker report is oldest, and
-- immediately follows up with `python gostonks.py GodsEye` to refresh the macro dashboard.
+- immediately follows up with `python src/gostonks.py GodsEye` to refresh the macro dashboard.
 
 ## Local Report Generation
 
 To refresh everything the automation would (oldest ticker + GodsEye), run:
 
 ```bash
-python gostonks.py
+python src/gostonks.py
 ```
 
 To build a specific ticker report, run:
 
 ```bash
-python gostonks.py AAPL
+python src/gostonks.py AAPL
 ```
 
 To build only the macro dashboard:
 
 ```bash
-python gostonks.py GodsEye
+python src/gostonks.py GodsEye
 ```
 
-You can drop optional provider keys into text files in the repo root (`apikey-openai.txt`, `apikey-massive.txt`, `apikey-gnews.txt`, `apikey-guardian.txt`) if you prefer not to export environment variables. The search pipeline will try Google first, then fall back to NewsAPI, GNews, and finally The Guardian whenever earlier providers rate-limit or return no matches.
+You can drop optional provider keys into text files under `config/` (for example `config/apikey-openai.txt`, `config/apikey-massive.txt`, `config/apikey-gnews.txt`, `config/apikey-guardian.txt`) if you prefer not to export environment variables. The search pipeline will try Google first, then fall back to NewsAPI, GNews, and finally The Guardian whenever earlier providers rate-limit or return no matches.
 
 Generated markdown lands in `_reports/`. You can commit/push manually or let the workflow handle it.
 
 ### GodsEye (market overview)
 
-Run `python gostonks.py GodsEye` to build the aggregate *GodsEye Market Report*. It fetches one-, seven-, and thirty-day change data for major equity indices, ETFs, futures, volatility, treasuries, commodities, and the US dollar, then summarises the tone with an LLM plus curated headlines aimed at the next 24 hours. The resulting Markdown lives in `_reports/GODSEYE.md`, complete with a QuickRef table showing the precomputed change stack so you can tweak the prompt later if needed.
+Run `python src/gostonks.py GodsEye` to build the aggregate *GodsEye Market Report*. It fetches one-, seven-, and thirty-day change data for major equity indices, ETFs, futures, volatility, treasuries, commodities, and the US dollar, then summarises the tone with an LLM plus curated headlines aimed at the next 24 hours. The resulting Markdown lives in `_reports/GODSEYE.md`, complete with a QuickRef table showing the precomputed change stack so you can tweak the prompt later if needed.
 # stonks
 ## Setup
 
@@ -80,7 +80,7 @@ Use the provided setup scripts to install both Python and Ruby dependencies loca
 - macOS/Linux: `bash bin/setup.sh`
 
 This will:
-- Create `.venv` and install `requirements.txt` via pip
+- Create `.venv` and install `config/requirements.txt` via pip
 - Install Bundler (version from `Gemfile.lock`) and run `bundle install`
 
 Serve the site: `bundle exec jekyll serve` then open http://127.0.0.1:4000

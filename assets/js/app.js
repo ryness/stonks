@@ -371,7 +371,7 @@ elements.godseye?.addEventListener('click', (event) => {
   if (reportIndex === -1) {
     event.preventDefault();
     elements.status.textContent =
-      'GodsEye report not found. Run `python gostonks.py GodsEye` to generate it.';
+      'GodsEye report not found. Run `python src/gostonks.py GodsEye` to generate it.';
     return;
   }
   if (

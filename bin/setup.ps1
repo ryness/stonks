@@ -2,7 +2,7 @@
 Cross-platform friendly project setup for Windows PowerShell.
 
 Does:
-- Ensures a local Python venv at .venv and installs requirements.txt
+- Ensures a local Python venv at .venv and installs config/requirements.txt
 - Ensures Bundler (matching Gemfile.lock) and installs Ruby gems to vendor/bundle
 
 Run:  ./bin/setup.ps1
@@ -31,11 +31,12 @@ if (-not (Test-Path '.venv')) {
 }
 
 $venvPython = Join-Path '.venv' 'Scripts/python.exe'
+$requirementsFile = 'config/requirements.txt'
 if (Test-Path $venvPython) {
   & $venvPython -m pip install -U pip setuptools wheel
-  if (Test-Path 'requirements.txt') {
-    Write-Info "Installing Python requirements"
-    & $venvPython -m pip install -r requirements.txt
+  if (Test-Path $requirementsFile) {
+    Write-Info "Installing Python requirements ($requirementsFile)"
+    & $venvPython -m pip install -r $requirementsFile
   }
 } else {
   Write-Warn "Skipping Python deps; .venv Python not found at $venvPython"
@@ -59,4 +60,3 @@ if (-not (Get-Command ruby -ErrorAction SilentlyContinue)) {
 Write-Host "\nAll set. Common commands:" -ForegroundColor Green
 Write-Host "  - Activate Python:  .\\.venv\\Scripts\\Activate.ps1"
 Write-Host "  - Serve Jekyll:    bundle exec jekyll serve"
-

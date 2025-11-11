@@ -12,7 +12,7 @@
       "name": "gostonks: Auto cycle",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/gostonks.py",
+      "program": "${workspaceFolder}/src/gostonks.py",
       "console": "integratedTerminal",
       "justMyCode": false,
       "cwd": "${workspaceFolder}"
@@ -21,7 +21,7 @@
       "name": "gostonks: Specific ticker",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/gostonks.py",
+      "program": "${workspaceFolder}/src/gostonks.py",
       "args": [
         "${input:gostonksTicker}"
       ],

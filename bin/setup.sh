@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Cross-platform friendly project setup for macOS/Linux.
-# - Creates .venv and installs requirements.txt
+# - Creates .venv and installs config/requirements.txt
 # - Installs Bundler (matching Gemfile.lock) and runs bundle install
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
@@ -23,11 +23,12 @@ if [[ ! -d .venv ]]; then
   fi
 fi
 
+REQUIREMENTS_FILE="config/requirements.txt"
 if [[ -x .venv/bin/python ]]; then
   .venv/bin/python -m pip install -U pip setuptools wheel
-  if [[ -f requirements.txt ]]; then
-    echo "==> Installing Python requirements"
-    .venv/bin/python -m pip install -r requirements.txt
+  if [[ -f "$REQUIREMENTS_FILE" ]]; then
+    echo "==> Installing Python requirements ($REQUIREMENTS_FILE)"
+    .venv/bin/python -m pip install -r "$REQUIREMENTS_FILE"
   fi
 else
   echo "[warn] Skipping Python deps; .venv/bin/python not found" >&2
@@ -50,4 +51,3 @@ echo
 echo "All set. Common commands:"
 echo "  - Activate Python:  source .venv/bin/activate"
 echo "  - Serve Jekyll:    bundle exec jekyll serve"
-

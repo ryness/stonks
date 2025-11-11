@@ -31,14 +31,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r requirements.txt
+      - run: pip install -r config/requirements.txt
       - name: Generate report
         run: |
           TARGET="${{ github.event.inputs.ticker }}"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "$TARGET" ]; then
-            python gostonks.py "$TARGET"
+            python src/gostonks.py "$TARGET"
           else
-            python gostonks.py
+            python src/gostonks.py
           fi
       - name: Commit report
         run: |

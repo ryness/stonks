@@ -9,10 +9,9 @@ collections:
     permalink: /reports/:name/
 permalink: pretty
 exclude:
+  - config
+  - notes
+  - src
   - tools
   - __pycache__
-  - apikey-openai.txt
-  - apikey-massive.txt
-  - stock-expert_prompt.txt
-  - gostonks.py
 repository: ryness/stonks

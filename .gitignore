@@ -9,8 +9,7 @@ apikey*
 .jekyll-cache/
 .bundle
 stonks.code-workspace
-info-api-call-counts.txt
-info-enhancements.txt
 Gemfile
 Gemfile.lock
-.DS_Store
+notes/
+config/apikey*
