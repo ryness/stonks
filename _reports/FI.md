@@ -2,30 +2,30 @@
 layout: default
 title: "FI Stock Report"
 ticker: "FI"
-date: 2025-11-09
-generated_at: 2025-11-09T05:20:26.289294+00:00
-runtime_seconds: 88.28
+date: 2025-11-12
+generated_at: 2025-11-12T01:39:45.441340+00:00
+runtime_seconds: 53.50
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-09T05:20:26.289294+00:00">2025-11-09 05:20 UTC</time> (runtime 1m 28s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-12T01:39:45.441340+00:00">2025-11-12 01:39 UTC</time> (runtime 53.50s)
   
   ![Fiserv, Inc. logo](https://ryness.github.io/stonks/assets/logos/FI.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** Fiserv provides core banking processing and complementary services such as electronic funds transfer, payment processing, and loan processing to US banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also offers merchant payment processing, with about 10% of revenue generated internationally.
+  1.1. **Activities:** Fiserv provides core processing and complementary services (electronic funds transfer, payment processing, loan processing) to U.S. banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also delivers merchant payment processing, with roughly 10% of revenue generated internationally.
   
-  1.2. **Profitable?:** Yes—Fiserv is profitable, with recent positive net income and an approximate 17% profit margin, supported by strong free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with a ~17% profit margin, positive net income, and strong free cash flow (~$4.19B).
   
-  1.3. **Customer & Markets:** Primary customers are US banks and credit unions (especially small and midsize) and merchants via its First Data–derived payment services. Its business is primarily US-based, with roughly 10% of revenue from international markets.
+  1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants using its payment processing. Its markets are predominantly the United States with about 10% of revenue from international regions.
   
-  1.4. **Competition:** Competitors include Fidelity National Information Services (FIS), Automatic Data Processing (ADP), Paychex, and Broadridge Financial (MarketBeat). Fiserv is positioned as a leading provider in core processing and payments.
+  1.4. **Competition:** Competitors cited include Fidelity National Information Services (FIS), ADP, Paychex, and Broadridge. Fiserv is described as a leading provider of core processing, placing it among the top players.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, below the 20-day average and under 7d resistance (70.10) while testing support around 60.95.
+  2.1. **7d Trend?:** down — trading around 63.80, below 68.00 resistance and leaning toward 60.95 support.
   
-  2.2. **7d Buy/Sell Points?:** Buys looked favorable near 60.95–64.52 (7d support and suggested buy zone). Potential sells were near 70.10 (7d resistance) and, on rebounds, the longer-term sell zone around 128.78.
+  2.2. **7d Buy/Sell Points?:** Buying near the 60.95 support looked attractive, while selling into rebounds toward the 68.00 resistance offered a prudent exit.
   
   2.3.1. **7d Volume:** low
   
@@ -33,13 +33,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Fiserv is a Fortune 500, long-established payments and financial technology provider that expanded materially with the 2019 First Data merger. It shows stability through consistent profitability (positive net income and ~17% margin) and robust cash generation (operating cash flow ~$6.34B and free cash flow ~$4.19B). The business is diversified across bank technology and merchant acquiring, with modest international exposure (about 10% of revenue). However, recent weak Q3 2025 results and leadership changes triggered a sharp share price decline and investor investigations, which increase near-term risk.
+  3.1. **Stability?:** Fiserv is an established banking and payments technology company, strengthened by its 2019 First Data merger. It generates solid operating cash flow (~$6.34B) and free cash flow (~$4.19B) and remains profitable (~17% margin). However, disappointing Q3 2025 results, reduced guidance, leadership changes, and ensuing legal investigations have driven a sharp share-price decline and add near-term risk. The franchise appears durable, but execution and sentiment are currently pressured.
   
-  3.2. **Innovating?:** Mixed: while recent data show strong earnings growth, the company cut guidance and is undergoing a strategic overhaul after disappointing Q3 2025 results. This points to recalibration rather than clear acceleration in innovation.
+  3.2. **Innovating?:** Growth looks pressured: the company cut full-year targets and revenue growth is modest at 0.9%, even as earnings growth is 40.4%. Recent headlines indicate recalibration rather than clear product-led innovation momentum.
   
   ## 4. Context
   
-  4.1. **News:** Headlines report Fiserv’s Q3 2025 revenue and earnings misses, reduced guidance, and major leadership changes, leading to a 30%–47% stock collapse and an estimated $32B loss in shareholder value (Motley Fool, Investing.com, Hagens Berman). Law firms (e.g., Bragar Eagel & Squire) announced investigations following the sharp decline. The market reaction was decisively negative on the news, with no evident pre-announcement rally. In this context, the classic buy the rumor, sell the news setup did not materialize; instead, shares sold off on bad news without a preceding rumor-driven run-up.
+  4.1. **News:** Fiserv’s Q3 2025 miss on revenue and earnings, lowered growth outlook, and leadership changes triggered a 43%–47% stock plunge, erasing about $32B in value. Law firms including Hagens Berman, Bragar Eagel & Squire, and Scott+Scott announced investigations following the decline. Coverage emphasized reduced full-year forecasts and investor concern. The sharp post-earnings drop reflects a sell-the-news reaction, with no evident buy-the-rumor bounce in the supplied reports.
   
   4.2. **Tarrifs:** unknown
   
@@ -49,11 +49,11 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$3.38B</td></tr>
-  <tr><td>Price</td><td>63.70</td></tr>
-  <tr><td>7d Resistance</td><td>70.10</td></tr>
+  <tr><td>Last Q4</td><td>$3.61B</td></tr>
+  <tr><td>Price</td><td>63.80</td></tr>
+  <tr><td>7d Resistance</td><td>68.00</td></tr>
   <tr><td>7d Support</td><td>60.95</td></tr>
-  <tr><td>30d Resistance</td><td>130.64</td></tr>
+  <tr><td>30d Resistance</td><td>130.40</td></tr>
   <tr><td>30d Support</td><td>60.95</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
@@ -84,12 +84,12 @@ raw_markdown: |
   Gathering context for FI...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-11/2025-11-09?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/FI/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-10?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/FI/2025-11-10?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/FI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -105,7 +105,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/FI?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/FI?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: using cached asset assets/logos/FI.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/FI.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/FI?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/FI?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 0 entries.
@@ -166,10 +166,10 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; FI rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
     newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -203,26 +203,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-09T05:20:26.289294+00:00">2025-11-09 05:20 UTC</time> (runtime 1m 28s)
+**Generated:** <time class="js-local-time" datetime="2025-11-12T01:39:45.441340+00:00">2025-11-12 01:39 UTC</time> (runtime 53.50s)
 
 ![Fiserv, Inc. logo](https://ryness.github.io/stonks/assets/logos/FI.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** Fiserv provides core banking processing and complementary services such as electronic funds transfer, payment processing, and loan processing to US banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also offers merchant payment processing, with about 10% of revenue generated internationally.
+1.1. **Activities:** Fiserv provides core processing and complementary services (electronic funds transfer, payment processing, loan processing) to U.S. banks and credit unions, with a focus on small and midsize institutions. Following its 2019 merger with First Data, it also delivers merchant payment processing, with roughly 10% of revenue generated internationally.
 
-1.2. **Profitable?:** Yes—Fiserv is profitable, with recent positive net income and an approximate 17% profit margin, supported by strong free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with a ~17% profit margin, positive net income, and strong free cash flow (~$4.19B).
 
-1.3. **Customer & Markets:** Primary customers are US banks and credit unions (especially small and midsize) and merchants via its First Data–derived payment services. Its business is primarily US-based, with roughly 10% of revenue from international markets.
+1.3. **Customer & Markets:** Primary customers are U.S. banks and credit unions (especially small and midsize) and merchants using its payment processing. Its markets are predominantly the United States with about 10% of revenue from international regions.
 
-1.4. **Competition:** Competitors include Fidelity National Information Services (FIS), Automatic Data Processing (ADP), Paychex, and Broadridge Financial (MarketBeat). Fiserv is positioned as a leading provider in core processing and payments.
+1.4. **Competition:** Competitors cited include Fidelity National Information Services (FIS), ADP, Paychex, and Broadridge. Fiserv is described as a leading provider of core processing, placing it among the top players.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, below the 20-day average and under 7d resistance (70.10) while testing support around 60.95.
+2.1. **7d Trend?:** down — trading around 63.80, below 68.00 resistance and leaning toward 60.95 support.
 
-2.2. **7d Buy/Sell Points?:** Buys looked favorable near 60.95–64.52 (7d support and suggested buy zone). Potential sells were near 70.10 (7d resistance) and, on rebounds, the longer-term sell zone around 128.78.
+2.2. **7d Buy/Sell Points?:** Buying near the 60.95 support looked attractive, while selling into rebounds toward the 68.00 resistance offered a prudent exit.
 
 2.3.1. **7d Volume:** low
 
@@ -230,13 +230,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Fiserv is a Fortune 500, long-established payments and financial technology provider that expanded materially with the 2019 First Data merger. It shows stability through consistent profitability (positive net income and ~17% margin) and robust cash generation (operating cash flow ~$6.34B and free cash flow ~$4.19B). The business is diversified across bank technology and merchant acquiring, with modest international exposure (about 10% of revenue). However, recent weak Q3 2025 results and leadership changes triggered a sharp share price decline and investor investigations, which increase near-term risk.
+3.1. **Stability?:** Fiserv is an established banking and payments technology company, strengthened by its 2019 First Data merger. It generates solid operating cash flow (~$6.34B) and free cash flow (~$4.19B) and remains profitable (~17% margin). However, disappointing Q3 2025 results, reduced guidance, leadership changes, and ensuing legal investigations have driven a sharp share-price decline and add near-term risk. The franchise appears durable, but execution and sentiment are currently pressured.
 
-3.2. **Innovating?:** Mixed: while recent data show strong earnings growth, the company cut guidance and is undergoing a strategic overhaul after disappointing Q3 2025 results. This points to recalibration rather than clear acceleration in innovation.
+3.2. **Innovating?:** Growth looks pressured: the company cut full-year targets and revenue growth is modest at 0.9%, even as earnings growth is 40.4%. Recent headlines indicate recalibration rather than clear product-led innovation momentum.
 
 ## 4. Context
 
-4.1. **News:** Headlines report Fiserv’s Q3 2025 revenue and earnings misses, reduced guidance, and major leadership changes, leading to a 30%–47% stock collapse and an estimated $32B loss in shareholder value (Motley Fool, Investing.com, Hagens Berman). Law firms (e.g., Bragar Eagel & Squire) announced investigations following the sharp decline. The market reaction was decisively negative on the news, with no evident pre-announcement rally. In this context, the classic buy the rumor, sell the news setup did not materialize; instead, shares sold off on bad news without a preceding rumor-driven run-up.
+4.1. **News:** Fiserv’s Q3 2025 miss on revenue and earnings, lowered growth outlook, and leadership changes triggered a 43%–47% stock plunge, erasing about $32B in value. Law firms including Hagens Berman, Bragar Eagel & Squire, and Scott+Scott announced investigations following the decline. Coverage emphasized reduced full-year forecasts and investor concern. The sharp post-earnings drop reflects a sell-the-news reaction, with no evident buy-the-rumor bounce in the supplied reports.
 
 4.2. **Tarrifs:** unknown
 
@@ -246,11 +246,11 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$3.38B</td></tr>
-<tr><td>Price</td><td>63.70</td></tr>
-<tr><td>7d Resistance</td><td>70.10</td></tr>
+<tr><td>Last Q4</td><td>$3.61B</td></tr>
+<tr><td>Price</td><td>63.80</td></tr>
+<tr><td>7d Resistance</td><td>68.00</td></tr>
 <tr><td>7d Support</td><td>60.95</td></tr>
-<tr><td>30d Resistance</td><td>130.64</td></tr>
+<tr><td>30d Resistance</td><td>130.40</td></tr>
 <tr><td>30d Support</td><td>60.95</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
@@ -281,12 +281,12 @@ raw_markdown: |
 Gathering context for FI...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-11/2025-11-09?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting FI prices from massive.com... (https://api.massive.com/v2/aggs/ticker/FI/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/FI/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/FI/2025-11-10?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/FI/2025-11-10?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/FI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/FI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -302,7 +302,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/FI?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/FI?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: using cached asset assets/logos/FI.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/FI.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/FI?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/FI?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 0 entries.
@@ -363,10 +363,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; FI rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
   newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
