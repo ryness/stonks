@@ -2,43 +2,43 @@
 layout: default
 title: "GLD Stock Report"
 ticker: "GLD"
-date: 2025-11-10
-generated_at: 2025-11-10T05:22:39.414681+00:00
-runtime_seconds: 88.65
+date: 2025-11-12
+generated_at: 2025-11-12T20:25:07.016704+00:00
+runtime_seconds: 116.97
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-10T05:22:39.414681+00:00">2025-11-10 05:22 UTC</time> (runtime 1m 29s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-12T20:25:07.016704+00:00">2025-11-12 20:25 UTC</time> (runtime 1m 57s)
   
   ## 1. The Biz
   
-  1.1. **Activities:** The SPDR Gold Trust holds physical gold bars and issues baskets of shares in exchange for deposits of gold, distributing gold upon basket redemptions. Its objective is for the shares (GLD) to reflect the price of gold bullion, less the trust’s expenses, providing a cost-effective way for investors to access gold exposure.
+  1.1. **Activities:** SPDR Gold Trust holds physical gold bars and issues/redeems Baskets in exchange for deposits of gold so its Shares reflect the price of gold bullion, less expenses. Its core product is SPDR Gold Shares, providing investors a cost-effective, physically backed exposure to gold.
   
-  1.2. **Profitable?:** No; it is a physically backed trust designed to mirror bullion prices minus expenses, not to generate operating profits, and the provided financials show no profitability metrics.
+  1.2. **Profitable?:** No — it is not a traditional profit-seeking operating company; its objective is to mirror gold bullion’s price less expenses, and no profitability metrics are provided.
   
-  1.3. **Customer & Markets:** Primary customers are investors seeking exposure to gold through an exchange-traded vehicle. The market focus is the gold bullion market, serving ETF investors who want cost-effective gold exposure.
+  1.3. **Customer & Markets:** Primary customers are investors seeking cost-effective exposure to gold prices. The market is the gold bullion market via exchange-traded Shares, with demand driven by investor allocation to gold.
   
-  1.4. **Competition:** GLD competes with other physical gold ETFs such as iShares Gold Trust (IAU), SPDR Gold MiniShares (GLDM), and Perth Mint Physical Gold ETF (AAAU). It is a long-established offering and noted as the first US-listed ETF backed by a physical asset, positioning it among category leaders.
+  1.4. **Competition:** It competes with other physically backed gold funds such as iShares Gold Trust (IAU), SPDR Gold MiniShares (GLDM), and Perth Mint Physical Gold ETF (AAAU). It is positioned alongside these major gold-backed products.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, with the close below the 20-day average and price capped near 370.84 while leaning toward support around 361.39.
+  2.1. **7d Trend?:** up — price advanced from support near 361.39 toward 387.46 resistance and sits above the 20-day moving average.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the 7-day support around 361.39 and selling into resistance near 370.84 were favorable levels. Intraday swings between roughly 366.42 and 370.42 offered additional trading windows.
+  2.2. **7d Buy/Sell Points?:** Buying near 361.39 (support/suggested buy zone) looked favorable, while selling into 370.84 and up toward 387.46 resistance offered attractive exits.
   
   2.3.1. **7d Volume:** med
   
-  2.3.2. **7d Volatility:** med
+  2.3.2. **7d Volatility:** low
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This is a stable, asset-backed trust that holds physical gold and aligns share value with bullion through basket creations and redemptions. It is not an operating company and the dataset shows no traditional revenue or earnings figures, reducing business-model risk but tying outcomes to gold prices. Stability rests on custody of gold and the well-established ETF structure rather than cash-flow generation. Overall, it is far from a fly-by-night but its value will fluctuate with the gold market.
+  3.1. **Stability?:** This is a physically backed trust that holds gold bars and issues/redeems Baskets, indicating a straightforward, established structure rather than a fly-by-night operation. Its objective is to track gold prices less expenses, implying a balance sheet dominated by bullion holdings. Operational complexity appears low, with stability primarily tied to movements in the underlying gold price. No leverage or cash flow details are provided in the supplied data.
   
-  3.2. **Innovating?:** GLD is a mature, straightforward vehicle tracking bullion rather than an innovator, with no new product or R&D signals in the supplied data. Growth is driven by investor demand for gold exposure.
+  3.2. **Innovating?:** It is a passive vehicle designed to track gold; no specific innovation or growth initiatives are noted in the provided data.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage centers on macro drivers: election uncertainty, Fed rate-cut expectations, and inflation data (PCE) shaping ETF performance, with gold noted to rebound ahead of key reports. Zacks highlighted the case for gold ETFs amid rising geopolitical tensions and potential rate cuts, even suggesting a path toward higher gold prices. Benzinga noted markets’ caution ahead of PCE while gold and Bitcoin rebounded. These headlines reflect classic buy-the-rumor dynamics around inflation prints, with potential for sell-the-news reactions once data are released.
+  4.1. **News:** Recent coverage focuses on macro drivers: PCE inflation reports and rate-cut expectations, with traders cautious ahead of data while gold and bitcoin rebounded (Benzinga). Zacks highlighted gold ETFs amid talk of gold potentially breaking higher on geopolitical tensions and possible rate cuts, and offered ETF strategies for 2H 2024. This backdrop suggests rallies can build on anticipation of favorable data, but once news lands, moves may fade, aligning with the ‘buy the rumor, sell the news’ dynamic observed in the headlines.
   
-  4.2. **Tarrifs:** Tariffs indirectly impact GLD via gold prices; industry commentary notes gold itself isn’t directly targeted, but trade uncertainty and tariff threats have coincided with stronger gold demand and GLD outperformance.
+  4.2. **Tarrifs:** Headlines indicate tariff threats have supported safe-haven demand for gold, with GLD rising as tariffs were discussed (etf.com). Overall, tariff-related uncertainty has been a positive catalyst for GLD in the cited coverage.
   
   ## 5. QuickRef
   
@@ -47,17 +47,17 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>unknown</td></tr>
-  <tr><td>Price</td><td>368.31</td></tr>
-  <tr><td>7d Resistance</td><td>370.84</td></tr>
+  <tr><td>Price</td><td>385.93</td></tr>
+  <tr><td>7d Resistance</td><td>387.46</td></tr>
   <tr><td>7d Support</td><td>361.39</td></tr>
   <tr><td>30d Resistance</td><td>403.30</td></tr>
-  <tr><td>30d Support</td><td>350.87</td></tr>
-  <tr><td>Buy the dip?</td><td>yes</td></tr>
+  <tr><td>30d Support</td><td>351.40</td></tr>
+  <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>yes</td></tr>
-  <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>middle</td></tr>
-  <tr><td>1yr</td><td>middle</td></tr>
+  <tr><td>7d Trend:</td><td>up</td></tr>
+  <tr><td>3mo</td><td>near-peak</td></tr>
+  <tr><td>1yr</td><td>near-peak</td></tr>
   <tr><td>5yr</td><td>near-peak</td></tr>
   <tr><td>Overbought/Sold?</td><td>overbought</td></tr>
   </tbody></table>
@@ -82,12 +82,12 @@ raw_markdown: |
   Gathering context for GLD...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-07?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/GLD/2025-11-07?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-12?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/GLD/2025-11-12?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/GLD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -136,7 +136,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; GLD profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; GLD target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -145,7 +145,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; GLD market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; GLD competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -177,7 +177,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; GLD latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; GLD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -208,39 +208,39 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-10T05:22:39.414681+00:00">2025-11-10 05:22 UTC</time> (runtime 1m 29s)
+**Generated:** <time class="js-local-time" datetime="2025-11-12T20:25:07.016704+00:00">2025-11-12 20:25 UTC</time> (runtime 1m 57s)
 
 ## 1. The Biz
 
-1.1. **Activities:** The SPDR Gold Trust holds physical gold bars and issues baskets of shares in exchange for deposits of gold, distributing gold upon basket redemptions. Its objective is for the shares (GLD) to reflect the price of gold bullion, less the trust’s expenses, providing a cost-effective way for investors to access gold exposure.
+1.1. **Activities:** SPDR Gold Trust holds physical gold bars and issues/redeems Baskets in exchange for deposits of gold so its Shares reflect the price of gold bullion, less expenses. Its core product is SPDR Gold Shares, providing investors a cost-effective, physically backed exposure to gold.
 
-1.2. **Profitable?:** No; it is a physically backed trust designed to mirror bullion prices minus expenses, not to generate operating profits, and the provided financials show no profitability metrics.
+1.2. **Profitable?:** No — it is not a traditional profit-seeking operating company; its objective is to mirror gold bullion’s price less expenses, and no profitability metrics are provided.
 
-1.3. **Customer & Markets:** Primary customers are investors seeking exposure to gold through an exchange-traded vehicle. The market focus is the gold bullion market, serving ETF investors who want cost-effective gold exposure.
+1.3. **Customer & Markets:** Primary customers are investors seeking cost-effective exposure to gold prices. The market is the gold bullion market via exchange-traded Shares, with demand driven by investor allocation to gold.
 
-1.4. **Competition:** GLD competes with other physical gold ETFs such as iShares Gold Trust (IAU), SPDR Gold MiniShares (GLDM), and Perth Mint Physical Gold ETF (AAAU). It is a long-established offering and noted as the first US-listed ETF backed by a physical asset, positioning it among category leaders.
+1.4. **Competition:** It competes with other physically backed gold funds such as iShares Gold Trust (IAU), SPDR Gold MiniShares (GLDM), and Perth Mint Physical Gold ETF (AAAU). It is positioned alongside these major gold-backed products.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, with the close below the 20-day average and price capped near 370.84 while leaning toward support around 361.39.
+2.1. **7d Trend?:** up — price advanced from support near 361.39 toward 387.46 resistance and sits above the 20-day moving average.
 
-2.2. **7d Buy/Sell Points?:** Buying near the 7-day support around 361.39 and selling into resistance near 370.84 were favorable levels. Intraday swings between roughly 366.42 and 370.42 offered additional trading windows.
+2.2. **7d Buy/Sell Points?:** Buying near 361.39 (support/suggested buy zone) looked favorable, while selling into 370.84 and up toward 387.46 resistance offered attractive exits.
 
 2.3.1. **7d Volume:** med
 
-2.3.2. **7d Volatility:** med
+2.3.2. **7d Volatility:** low
 
 ## 3. Longterm
 
-3.1. **Stability?:** This is a stable, asset-backed trust that holds physical gold and aligns share value with bullion through basket creations and redemptions. It is not an operating company and the dataset shows no traditional revenue or earnings figures, reducing business-model risk but tying outcomes to gold prices. Stability rests on custody of gold and the well-established ETF structure rather than cash-flow generation. Overall, it is far from a fly-by-night but its value will fluctuate with the gold market.
+3.1. **Stability?:** This is a physically backed trust that holds gold bars and issues/redeems Baskets, indicating a straightforward, established structure rather than a fly-by-night operation. Its objective is to track gold prices less expenses, implying a balance sheet dominated by bullion holdings. Operational complexity appears low, with stability primarily tied to movements in the underlying gold price. No leverage or cash flow details are provided in the supplied data.
 
-3.2. **Innovating?:** GLD is a mature, straightforward vehicle tracking bullion rather than an innovator, with no new product or R&D signals in the supplied data. Growth is driven by investor demand for gold exposure.
+3.2. **Innovating?:** It is a passive vehicle designed to track gold; no specific innovation or growth initiatives are noted in the provided data.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage centers on macro drivers: election uncertainty, Fed rate-cut expectations, and inflation data (PCE) shaping ETF performance, with gold noted to rebound ahead of key reports. Zacks highlighted the case for gold ETFs amid rising geopolitical tensions and potential rate cuts, even suggesting a path toward higher gold prices. Benzinga noted markets’ caution ahead of PCE while gold and Bitcoin rebounded. These headlines reflect classic buy-the-rumor dynamics around inflation prints, with potential for sell-the-news reactions once data are released.
+4.1. **News:** Recent coverage focuses on macro drivers: PCE inflation reports and rate-cut expectations, with traders cautious ahead of data while gold and bitcoin rebounded (Benzinga). Zacks highlighted gold ETFs amid talk of gold potentially breaking higher on geopolitical tensions and possible rate cuts, and offered ETF strategies for 2H 2024. This backdrop suggests rallies can build on anticipation of favorable data, but once news lands, moves may fade, aligning with the ‘buy the rumor, sell the news’ dynamic observed in the headlines.
 
-4.2. **Tarrifs:** Tariffs indirectly impact GLD via gold prices; industry commentary notes gold itself isn’t directly targeted, but trade uncertainty and tariff threats have coincided with stronger gold demand and GLD outperformance.
+4.2. **Tarrifs:** Headlines indicate tariff threats have supported safe-haven demand for gold, with GLD rising as tariffs were discussed (etf.com). Overall, tariff-related uncertainty has been a positive catalyst for GLD in the cited coverage.
 
 ## 5. QuickRef
 
@@ -249,17 +249,17 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>unknown</td></tr>
-<tr><td>Price</td><td>368.31</td></tr>
-<tr><td>7d Resistance</td><td>370.84</td></tr>
+<tr><td>Price</td><td>385.93</td></tr>
+<tr><td>7d Resistance</td><td>387.46</td></tr>
 <tr><td>7d Support</td><td>361.39</td></tr>
 <tr><td>30d Resistance</td><td>403.30</td></tr>
-<tr><td>30d Support</td><td>350.87</td></tr>
-<tr><td>Buy the dip?</td><td>yes</td></tr>
+<tr><td>30d Support</td><td>351.40</td></tr>
+<tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>yes</td></tr>
-<tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>middle</td></tr>
-<tr><td>1yr</td><td>middle</td></tr>
+<tr><td>7d Trend:</td><td>up</td></tr>
+<tr><td>3mo</td><td>near-peak</td></tr>
+<tr><td>1yr</td><td>near-peak</td></tr>
 <tr><td>5yr</td><td>near-peak</td></tr>
 <tr><td>Overbought/Sold?</td><td>overbought</td></tr>
 </tbody></table>
@@ -284,12 +284,12 @@ raw_markdown: |
 Gathering context for GLD...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-07?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/GLD/2025-11-07?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-12?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/GLD/2025-11-12?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/GLD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -338,7 +338,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; GLD profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; GLD target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -347,7 +347,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; GLD market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; GLD competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -379,7 +379,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariff&amp;pageSize=
     newsapi: 5 result(s)
   newsapi search -&gt; GLD latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; GLD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
