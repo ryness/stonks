@@ -3,34 +3,34 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2025-11-13
-generated_at: 2025-11-13T01:41:30.713854+00:00
-runtime_seconds: 50.26
+generated_at: 2025-11-13T05:23:28.434568+00:00
+runtime_seconds: 84.13
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-13T01:41:30.713854+00:00">2025-11-13 01:41 UTC</time> (runtime 50.26s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-13T05:23:28.434568+00:00">2025-11-13 05:23 UTC</time> (runtime 1m 24s)
   
   ## 1. Pulse
   
-  Equities finished mixed with a modest positive tilt: S&P 500 +0.06%, Dow 30 +0.68% leading, while the Nasdaq Composite -0.26% and Russell 2000 -0.30% lagged. Breadth was slightly risk-on at 9 up vs 6 down and the average index change was a mild +0.03%, pointing to selective risk appetite skewed toward blue chips as growth and small caps faded on the day.
+  Equities show a mixed tone with the Dow 30 up 0.68% and the S&P 500 marginally higher at 0.06%, while the Nasdaq Composite fell 0.26% and the Russell 2000 slipped 0.30%. Breadth was positive at 9 up vs 6 down and the average index change was a modest +0.026%, indicating risk appetite is present but selective rather than broad-based. On a 7-day view, leadership remains with the Dow (+1.94%) as growth benchmarks lag (Nasdaq −1.80%), underscoring rotation toward blue chips.
   
-  Volatility firmed, with VIX +1.33% to 17.51, signaling a cautious backdrop even as equity gains persisted in the Dow. Futures reflect this split: S&P futures +0.15% and Dow futures +0.85% are constructive, but Russell futures -0.33% and only a modest Nasdaq futures +0.13% suggest risk appetite is tentative rather than broadening.
+  Volatility edged higher with the VIX up 1.33% to 17.51 even as the 10Y Treasury yield fell 1.33% to 4.07, a mix that tempers risk-on conviction despite rate support. Commodities were divergent: gold rallied 2.73% and WTI crude fell 4.28%, alongside a nearly unchanged US Dollar on the day (+0.05%), a pattern consistent with defensive hedging and easing inflation impulse rather than a full-throated reach for risk.
   
-  Rates eased as the 10Y Treasury yield fell 1.33% to 4.07, typically supportive for equities, yet haven dynamics were evident with Gold +2.04% and the US Dollar +0.11%, while WTI Crude dropped -4.59%. Taken together—lower yields, higher vol, and stronger gold—risk appetite is improving in select areas but fading in higher-beta pockets, with hedging demand still present.
+  Futures skew constructive into the next session: S&P futures +0.24%, Nasdaq futures +0.23%, and Dow futures +0.94%, while Russell futures remain soft at −0.13%. This setup points to a modestly improving risk appetite concentrated in large-cap/industrial leadership, but the elevated VIX and small-cap underperformance signal a narrow advance.
   
-  1.1. **Market Health:** Market health is neutral to slightly positive. Breadth shows 9 up and 6 down with an average index change of only +0.03%, indicating gains were narrow and dominated by the Dow. The VIX rising to 17.51 (+1.33%) tempers the tone and points to lingering caution. A 10Y yield at 4.07% (-1.33% on the day) provides a supportive rates backdrop, but the mix of higher volatility and safe-haven strength argues for only modest confidence in the tape.
+  1.1. **Market Health:** Market health is cautiously constructive. Breadth of 9 up vs 6 down and a small average index gain of +0.026% show a positive but muted advance. The VIX at 17.51 (+1.33% 1d) signals lingering caution even as the 10Y Treasury yield declined to 4.07% (−1.33% 1d), providing valuation support. Overall, conditions are stable with defensive undertones rather than broad risk-on.
   
-  1.2. **Leadership:** Leadership favored the Dow 30, which gained +0.68% on the day and is up +1.94% over the week, while the S&P 500 was nearly flat at +0.06%. Laggards were the Nasdaq Composite at -0.26% and the Russell 2000 at -0.30% on the day; over the last week the Nasdaq (-1.80%) underperformed, with small caps also softer (-0.83%). This split underscores large-cap cyclicals/defensives leading and growth/small caps lagging.
+  1.2. **Leadership:** Leadership favored the Dow 30 (+0.68% 1d) as a positive standout, while the Russell 2000 (−0.30% 1d) and Nasdaq Composite (−0.26% 1d) lagged. Over the last week, the Dow 30 (+1.94% 7d) leads, whereas the Nasdaq Composite (−1.80% 7d) and Russell 2000 (−0.83% 7d) are notable underperformers. Among futures, Dow futures (+0.94% 1d) are strongest and Russell futures (−0.13% 1d) weakest.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** Hopes around a US House vote to end the government shutdown are a key macro driver, with reports noting investors are awaiting a decision that could reopen the government. This has supported risk sentiment in large caps, as reflected in the Dow’s outperformance, and leans risk-on if resolution materializes. At the same time, multiple headlines point to an AI trade cooldown (including references to AI rally cooling and related positioning shifts), which has weighed on tech sentiment. This aligns with the Nasdaq’s -0.26% decline and only modest Nasdaq futures bid (+0.13%), signaling a risk-off skew within growth and AI-linked pockets. Commodity and cross-asset signals add to the cautious read: WTI fell sharply (-4.59%) despite prior mixed oil headlines, while Gold surged (+2.04%). CoinDesk’s note on macro jitters and outflows in digital assets reinforces a hedging tone, suggesting investors are balancing shutdown optimism with caution toward higher-beta trades.
+  2.1. **Catalysts:** Policy headlines around a potential US government reopening are a key driver, with reports noting trading ahead of a House vote to end the longest shutdown. This has supported cyclicals and the Dow on the day (+0.68%) and lifted Dow futures (+0.94%), a risk-on catalyst if resolution is confirmed. An AI trade pullback and related headlines weighed on growth risk, aligning with Nasdaq softness (−0.26% 1d; QQQ −1.74% 7d) and Nasdaq futures’ weaker 7-day profile (−1.55%). Crypto coverage also flagged profit-taking as AI enthusiasm cooled, reinforcing a risk-off tilt in higher-beta tech segments even as broader indices held up. Commodity moves added a mixed macro signal: WTI crude fell 4.28% on the day while gold rose 2.73%. The oil slide eases the near-term inflation impulse, which can be risk-on for rates-sensitive equities, but the gold bid and a firmer VIX suggest concurrent defensive positioning, keeping overall risk tone balanced.
   
-  2.2. **Upcoming Triggers:** The key near-term catalyst is the anticipated US House vote on ending the government shutdown, which could swing risk sentiment and leadership if it passes. Additionally, continued headlines and investor reactions around AI/semiconductor updates tied to AMD’s recent Analyst Day could influence tech momentum. No other specific data releases or earnings catalysts are identified in the provided context.
+  2.2. **Upcoming Triggers:** US House vote on ending the government shutdown—passage would be risk-on for cyclicals and the Dow, while delay or failure would be risk-off for beta.
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** flat 55% Mixed internals and catalysts point to a sideways bias: the Dow’s +0.68% strength and lower 10Y yield (to 4.07) are supportive, but the Nasdaq (-0.26%), Russell (-0.30%), and a higher VIX (+1.33% to 17.51) flag caution. Futures are modestly positive for large caps (ES +0.15%, YM +0.85%) but soft for small caps (RTY -0.33%), and the next 24h hinges on the House shutdown vote and AI sentiment.
+  3.1. **Next 24h Bias:** up 60% - Equity futures are positive (ES +0.24%, NQ +0.23%, YM +0.94%) and the 10Y yield is lower (−1.33% to 4.07%), with policy optimism around a House vote supporting the Dow. Confidence is tempered by an uptick in VIX (+1.33% to 17.51) and ongoing tech/small-cap lag (Nasdaq −0.26%, Russell −0.30%).
   
-  3.2. **Watch List:** Watch the US House shutdown vote timing and immediate cross-asset reactions: S&P futures near 6,881.5 versus S&P 500 cash 6,850.9, VIX at 17.5, and the 10Y yield around 4.07. Holding above the S&P 500 cash area near 6,850 with a stable-to-lower VIX would support a sideways-to-firm tone; a vol pop above 17.5–18 alongside a yield drop would argue for de-risking. Monitor tech and AI proxies given cooling headlines: QQQ at 621.08 and Nasdaq futures at 25,673.5 are key reference marks. Stabilization or a rebound here would help broaden risk-on beyond the Dow; further weakness would keep leadership narrow and cap index upside. Track cyclicals and commodity-linked signals for confirmation: WTI at 58.24 after -4.59% is a pressure point for energy sentiment, while Gold at 4,190.7 and the US Dollar at 99.57 reflect hedging. Russell 2000 at 2,450.8 remains a barometer for breadth; sustained weakness there would be consistent with a flat, range-bound session.
+  3.2. **Watch List:** Watch S&P futures near 6,888 versus the S&P 500 cash at 6,850.92 for follow-through, and Dow futures around 48,481 versus the Dow at 48,254.82 to confirm large-cap leadership. Sustained strength in YM=F alongside positive breadth (improving from 9/6) would align with an up-bias. Monitor growth vs value dynamics: Nasdaq Composite at 23,406.46 and QQQ at 621.08 for signs of stabilization in tech, while the Russell 2000 at 2,450.80 and RTY=F at 2,463.00 gauge small-cap participation. Energy sensitivity is high with WTI at 58.43 (−4.28% 1d); further crude weakness would likely extend sector underperformance, while gold at 4,219.10 (+2.73% 1d) flags ongoing defensive interest. Track macro risk markers: VIX at 17.51—fading toward prior levels would validate an equity grind higher, while a push higher would challenge the bid. The 10Y at 4.07% is supportive; continued softening in yields would underpin equities, and a steady to weaker US Dollar (99.53; −0.69% 7d) would aid global risk appetite.
   
   ## 4. QuickRef
   
@@ -45,14 +45,14 @@ raw_markdown: |
   <tr><td>SPY ETF</td><td>1d +0.06% | 7d +0.01% | 30d +2.23% | last 683.38</td></tr>
   <tr><td>QQQ ETF</td><td>1d -0.08% | 7d -1.74% | 30d +2.96% | last 621.08</td></tr>
   <tr><td>VIX</td><td>1d +1.33% | 7d +1.98% | 30d +7.49% | last 17.51</td></tr>
-  <tr><td>S&amp;P Fut</td><td>1d +0.15% | 7d -0.02% | 30d +1.77% | last 6,881.50</td></tr>
-  <tr><td>Nasdaq Fut</td><td>1d +0.13% | 7d -1.65% | 30d +2.62% | last 25,673.50</td></tr>
-  <tr><td>Dow Fut</td><td>1d +0.85% | 7d +2.03% | 30d +3.66% | last 48,437.00</td></tr>
-  <tr><td>Russell Fut</td><td>1d -0.33% | 7d -0.88% | 30d -0.09% | last 2,458.00</td></tr>
+  <tr><td>S&amp;P Fut</td><td>1d +0.24% | 7d +0.08% | 30d +1.87% | last 6,888.25</td></tr>
+  <tr><td>Nasdaq Fut</td><td>1d +0.23% | 7d -1.55% | 30d +2.73% | last 25,699.50</td></tr>
+  <tr><td>Dow Fut</td><td>1d +0.94% | 7d +2.12% | 30d +3.76% | last 48,481.00</td></tr>
+  <tr><td>Russell Fut</td><td>1d -0.13% | 7d -0.67% | 30d +0.12% | last 2,463.00</td></tr>
   <tr><td>10Y Treasury</td><td>1d -1.33% | 7d -1.00% | 30d -1.00% | last 4.07</td></tr>
-  <tr><td>Gold Fut</td><td>1d +2.04% | 7d +4.76% | 30d +8.36% | last 4,190.70</td></tr>
-  <tr><td>WTI Crude</td><td>1d -4.59% | 7d -4.60% | 30d -5.73% | last 58.24</td></tr>
-  <tr><td>US Dollar</td><td>1d +0.11% | 7d -0.30% | 30d +1.91% | last 99.57</td></tr>
+  <tr><td>Gold Fut</td><td>1d +2.73% | 7d +5.47% | 30d +9.09% | last 4,219.10</td></tr>
+  <tr><td>WTI Crude</td><td>1d -4.28% | 7d -4.29% | 30d -5.42% | last 58.43</td></tr>
+  <tr><td>US Dollar</td><td>1d +0.05% | 7d -0.69% | 30d +1.71% | last 99.53</td></tr>
   </tbody></table>
   </div>
   
@@ -89,7 +89,10 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -98,7 +101,10 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -121,31 +127,31 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-13T01:41:30.713854+00:00">2025-11-13 01:41 UTC</time> (runtime 50.26s)
+**Generated:** <time class="js-local-time" datetime="2025-11-13T05:23:28.434568+00:00">2025-11-13 05:23 UTC</time> (runtime 1m 24s)
 
 ## 1. Pulse
 
-Equities finished mixed with a modest positive tilt: S&P 500 +0.06%, Dow 30 +0.68% leading, while the Nasdaq Composite -0.26% and Russell 2000 -0.30% lagged. Breadth was slightly risk-on at 9 up vs 6 down and the average index change was a mild +0.03%, pointing to selective risk appetite skewed toward blue chips as growth and small caps faded on the day.
+Equities show a mixed tone with the Dow 30 up 0.68% and the S&P 500 marginally higher at 0.06%, while the Nasdaq Composite fell 0.26% and the Russell 2000 slipped 0.30%. Breadth was positive at 9 up vs 6 down and the average index change was a modest +0.026%, indicating risk appetite is present but selective rather than broad-based. On a 7-day view, leadership remains with the Dow (+1.94%) as growth benchmarks lag (Nasdaq −1.80%), underscoring rotation toward blue chips.
 
-Volatility firmed, with VIX +1.33% to 17.51, signaling a cautious backdrop even as equity gains persisted in the Dow. Futures reflect this split: S&P futures +0.15% and Dow futures +0.85% are constructive, but Russell futures -0.33% and only a modest Nasdaq futures +0.13% suggest risk appetite is tentative rather than broadening.
+Volatility edged higher with the VIX up 1.33% to 17.51 even as the 10Y Treasury yield fell 1.33% to 4.07, a mix that tempers risk-on conviction despite rate support. Commodities were divergent: gold rallied 2.73% and WTI crude fell 4.28%, alongside a nearly unchanged US Dollar on the day (+0.05%), a pattern consistent with defensive hedging and easing inflation impulse rather than a full-throated reach for risk.
 
-Rates eased as the 10Y Treasury yield fell 1.33% to 4.07, typically supportive for equities, yet haven dynamics were evident with Gold +2.04% and the US Dollar +0.11%, while WTI Crude dropped -4.59%. Taken together—lower yields, higher vol, and stronger gold—risk appetite is improving in select areas but fading in higher-beta pockets, with hedging demand still present.
+Futures skew constructive into the next session: S&P futures +0.24%, Nasdaq futures +0.23%, and Dow futures +0.94%, while Russell futures remain soft at −0.13%. This setup points to a modestly improving risk appetite concentrated in large-cap/industrial leadership, but the elevated VIX and small-cap underperformance signal a narrow advance.
 
-1.1. **Market Health:** Market health is neutral to slightly positive. Breadth shows 9 up and 6 down with an average index change of only +0.03%, indicating gains were narrow and dominated by the Dow. The VIX rising to 17.51 (+1.33%) tempers the tone and points to lingering caution. A 10Y yield at 4.07% (-1.33% on the day) provides a supportive rates backdrop, but the mix of higher volatility and safe-haven strength argues for only modest confidence in the tape.
+1.1. **Market Health:** Market health is cautiously constructive. Breadth of 9 up vs 6 down and a small average index gain of +0.026% show a positive but muted advance. The VIX at 17.51 (+1.33% 1d) signals lingering caution even as the 10Y Treasury yield declined to 4.07% (−1.33% 1d), providing valuation support. Overall, conditions are stable with defensive undertones rather than broad risk-on.
 
-1.2. **Leadership:** Leadership favored the Dow 30, which gained +0.68% on the day and is up +1.94% over the week, while the S&P 500 was nearly flat at +0.06%. Laggards were the Nasdaq Composite at -0.26% and the Russell 2000 at -0.30% on the day; over the last week the Nasdaq (-1.80%) underperformed, with small caps also softer (-0.83%). This split underscores large-cap cyclicals/defensives leading and growth/small caps lagging.
+1.2. **Leadership:** Leadership favored the Dow 30 (+0.68% 1d) as a positive standout, while the Russell 2000 (−0.30% 1d) and Nasdaq Composite (−0.26% 1d) lagged. Over the last week, the Dow 30 (+1.94% 7d) leads, whereas the Nasdaq Composite (−1.80% 7d) and Russell 2000 (−0.83% 7d) are notable underperformers. Among futures, Dow futures (+0.94% 1d) are strongest and Russell futures (−0.13% 1d) weakest.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** Hopes around a US House vote to end the government shutdown are a key macro driver, with reports noting investors are awaiting a decision that could reopen the government. This has supported risk sentiment in large caps, as reflected in the Dow’s outperformance, and leans risk-on if resolution materializes. At the same time, multiple headlines point to an AI trade cooldown (including references to AI rally cooling and related positioning shifts), which has weighed on tech sentiment. This aligns with the Nasdaq’s -0.26% decline and only modest Nasdaq futures bid (+0.13%), signaling a risk-off skew within growth and AI-linked pockets. Commodity and cross-asset signals add to the cautious read: WTI fell sharply (-4.59%) despite prior mixed oil headlines, while Gold surged (+2.04%). CoinDesk’s note on macro jitters and outflows in digital assets reinforces a hedging tone, suggesting investors are balancing shutdown optimism with caution toward higher-beta trades.
+2.1. **Catalysts:** Policy headlines around a potential US government reopening are a key driver, with reports noting trading ahead of a House vote to end the longest shutdown. This has supported cyclicals and the Dow on the day (+0.68%) and lifted Dow futures (+0.94%), a risk-on catalyst if resolution is confirmed. An AI trade pullback and related headlines weighed on growth risk, aligning with Nasdaq softness (−0.26% 1d; QQQ −1.74% 7d) and Nasdaq futures’ weaker 7-day profile (−1.55%). Crypto coverage also flagged profit-taking as AI enthusiasm cooled, reinforcing a risk-off tilt in higher-beta tech segments even as broader indices held up. Commodity moves added a mixed macro signal: WTI crude fell 4.28% on the day while gold rose 2.73%. The oil slide eases the near-term inflation impulse, which can be risk-on for rates-sensitive equities, but the gold bid and a firmer VIX suggest concurrent defensive positioning, keeping overall risk tone balanced.
 
-2.2. **Upcoming Triggers:** The key near-term catalyst is the anticipated US House vote on ending the government shutdown, which could swing risk sentiment and leadership if it passes. Additionally, continued headlines and investor reactions around AI/semiconductor updates tied to AMD’s recent Analyst Day could influence tech momentum. No other specific data releases or earnings catalysts are identified in the provided context.
+2.2. **Upcoming Triggers:** US House vote on ending the government shutdown—passage would be risk-on for cyclicals and the Dow, while delay or failure would be risk-off for beta.
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** flat 55% Mixed internals and catalysts point to a sideways bias: the Dow’s +0.68% strength and lower 10Y yield (to 4.07) are supportive, but the Nasdaq (-0.26%), Russell (-0.30%), and a higher VIX (+1.33% to 17.51) flag caution. Futures are modestly positive for large caps (ES +0.15%, YM +0.85%) but soft for small caps (RTY -0.33%), and the next 24h hinges on the House shutdown vote and AI sentiment.
+3.1. **Next 24h Bias:** up 60% - Equity futures are positive (ES +0.24%, NQ +0.23%, YM +0.94%) and the 10Y yield is lower (−1.33% to 4.07%), with policy optimism around a House vote supporting the Dow. Confidence is tempered by an uptick in VIX (+1.33% to 17.51) and ongoing tech/small-cap lag (Nasdaq −0.26%, Russell −0.30%).
 
-3.2. **Watch List:** Watch the US House shutdown vote timing and immediate cross-asset reactions: S&P futures near 6,881.5 versus S&P 500 cash 6,850.9, VIX at 17.5, and the 10Y yield around 4.07. Holding above the S&P 500 cash area near 6,850 with a stable-to-lower VIX would support a sideways-to-firm tone; a vol pop above 17.5–18 alongside a yield drop would argue for de-risking. Monitor tech and AI proxies given cooling headlines: QQQ at 621.08 and Nasdaq futures at 25,673.5 are key reference marks. Stabilization or a rebound here would help broaden risk-on beyond the Dow; further weakness would keep leadership narrow and cap index upside. Track cyclicals and commodity-linked signals for confirmation: WTI at 58.24 after -4.59% is a pressure point for energy sentiment, while Gold at 4,190.7 and the US Dollar at 99.57 reflect hedging. Russell 2000 at 2,450.8 remains a barometer for breadth; sustained weakness there would be consistent with a flat, range-bound session.
+3.2. **Watch List:** Watch S&P futures near 6,888 versus the S&P 500 cash at 6,850.92 for follow-through, and Dow futures around 48,481 versus the Dow at 48,254.82 to confirm large-cap leadership. Sustained strength in YM=F alongside positive breadth (improving from 9/6) would align with an up-bias. Monitor growth vs value dynamics: Nasdaq Composite at 23,406.46 and QQQ at 621.08 for signs of stabilization in tech, while the Russell 2000 at 2,450.80 and RTY=F at 2,463.00 gauge small-cap participation. Energy sensitivity is high with WTI at 58.43 (−4.28% 1d); further crude weakness would likely extend sector underperformance, while gold at 4,219.10 (+2.73% 1d) flags ongoing defensive interest. Track macro risk markers: VIX at 17.51—fading toward prior levels would validate an equity grind higher, while a push higher would challenge the bid. The 10Y at 4.07% is supportive; continued softening in yields would underpin equities, and a steady to weaker US Dollar (99.53; −0.69% 7d) would aid global risk appetite.
 
 ## 4. QuickRef
 
@@ -160,14 +166,14 @@ Rates eased as the 10Y Treasury yield fell 1.33% to 4.07, typically supportive f
 <tr><td>SPY ETF</td><td>1d +0.06% | 7d +0.01% | 30d +2.23% | last 683.38</td></tr>
 <tr><td>QQQ ETF</td><td>1d -0.08% | 7d -1.74% | 30d +2.96% | last 621.08</td></tr>
 <tr><td>VIX</td><td>1d +1.33% | 7d +1.98% | 30d +7.49% | last 17.51</td></tr>
-<tr><td>S&amp;P Fut</td><td>1d +0.15% | 7d -0.02% | 30d +1.77% | last 6,881.50</td></tr>
-<tr><td>Nasdaq Fut</td><td>1d +0.13% | 7d -1.65% | 30d +2.62% | last 25,673.50</td></tr>
-<tr><td>Dow Fut</td><td>1d +0.85% | 7d +2.03% | 30d +3.66% | last 48,437.00</td></tr>
-<tr><td>Russell Fut</td><td>1d -0.33% | 7d -0.88% | 30d -0.09% | last 2,458.00</td></tr>
+<tr><td>S&amp;P Fut</td><td>1d +0.24% | 7d +0.08% | 30d +1.87% | last 6,888.25</td></tr>
+<tr><td>Nasdaq Fut</td><td>1d +0.23% | 7d -1.55% | 30d +2.73% | last 25,699.50</td></tr>
+<tr><td>Dow Fut</td><td>1d +0.94% | 7d +2.12% | 30d +3.76% | last 48,481.00</td></tr>
+<tr><td>Russell Fut</td><td>1d -0.13% | 7d -0.67% | 30d +0.12% | last 2,463.00</td></tr>
 <tr><td>10Y Treasury</td><td>1d -1.33% | 7d -1.00% | 30d -1.00% | last 4.07</td></tr>
-<tr><td>Gold Fut</td><td>1d +2.04% | 7d +4.76% | 30d +8.36% | last 4,190.70</td></tr>
-<tr><td>WTI Crude</td><td>1d -4.59% | 7d -4.60% | 30d -5.73% | last 58.24</td></tr>
-<tr><td>US Dollar</td><td>1d +0.11% | 7d -0.30% | 30d +1.91% | last 99.57</td></tr>
+<tr><td>Gold Fut</td><td>1d +2.73% | 7d +5.47% | 30d +9.09% | last 4,219.10</td></tr>
+<tr><td>WTI Crude</td><td>1d -4.28% | 7d -4.29% | 30d -5.42% | last 58.43</td></tr>
+<tr><td>US Dollar</td><td>1d +0.05% | 7d -0.69% | 30d +1.71% | last 99.53</td></tr>
 </tbody></table>
 </div>
 
@@ -204,7 +210,10 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=global+futures+market+sn
     newsapi: 5 result(s)
   google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -213,7 +222,10 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commenta
     newsapi: 5 result(s)
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
