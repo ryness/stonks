@@ -2,30 +2,30 @@
 layout: default
 title: "PYPL Stock Report"
 ticker: "PYPL"
-date: 2025-11-10
-generated_at: 2025-11-10T20:25:39.349641+00:00
-runtime_seconds: 71.93
+date: 2025-11-13
+generated_at: 2025-11-13T20:24:13.362107+00:00
+runtime_seconds: 43.41
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-10T20:25:39.349641+00:00">2025-11-10 20:25 UTC</time> (runtime 1m 12s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-13T20:24:13.362107+00:00">2025-11-13 20:24 UTC</time> (runtime 43.41s)
   
   ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
   
   
   ## 1. The Biz
   
-  1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, focused on online transactions. Core offerings include the PayPal digital wallet and checkout, merchant payment processing, and Venmo for person-to-person payments, serving 434 million active accounts as of 2024.
+  1.1. **Activities:** PayPal provides digital payment solutions for online transactions, serving merchants and consumers through its PayPal wallet and checkout services. It also owns Venmo for peer-to-peer payments and had 434 million active accounts at the end of 2024. The company’s offerings span online payments and newer services such as buy now, pay later in certain markets.
   
-  1.2. **Profitable?:** Yes — PayPal is profitable, with positive net income each recent quarter (totaling about $4.68B across the last four) and a 14.96% profit margin alongside 23.6% earnings growth.
+  1.2. **Profitable?:** Yes — PayPal is profitable, with a ~15% profit margin and $4.92B in net income over the last four quarters, alongside positive earnings growth and strong free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are online merchants and consumers using digital wallets and P2P payments (Venmo). The company operates globally, processing transactions in more than 200 markets and over 100 currencies.
+  1.3. **Customer & Markets:** Its primary customers are merchants (online sellers and platforms) and consumers using digital wallets and P2P payments. PayPal operates globally, processing transactions in more than 200 markets and over 100 currencies, with significant presence in U.S. and international e-commerce and digital payments.
   
-  1.4. **Competition:** Competitors include Apple (Apple Pay), Amazon, Shopify, Affirm, Coinbase, and Visa. PayPal remains a large-scale incumbent in online payments with 434 million active accounts but faces strong competition across wallets, checkout, BNPL, and crypto.
+  1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Block (Square), Adyen, Affirm, Amazon/Shopify payment offerings, and others. Third-party estimates cite PayPal as a leading online payments provider by market share.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares pulled back from a local high of 68.21 toward support at 64.78 and closed at 66.29 below the 20-DMA (68.44).
+  2.1. **7d Trend?:** down — price slipped from a local high near 67.99 to 65.18 and remains below the 20-day moving average (68.26).
   
-  2.2. **7d Buy/Sell Points?:** Buying near support around 64.78 looked attractive, while selling or trimming into 68.21–70.35 (local high/resistance) offered favorable risk-reward.
+  2.2. **7d Buy/Sell Points?:** Buying near support around 64.78 and selling near 67.99–68.21 resistance offered favorable entries/exits. The range trade between support and resistance dominated the period.
   
   2.3.1. **7d Volume:** low
   
@@ -33,15 +33,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** PayPal is a seasoned fintech, spun off from eBay in 2015, with 434 million active accounts and consistent profitability. It generates strong cash flows (operating cash flow ~$6.43B and free cash flow ~$3.13B), supporting ongoing operations and shareholder returns. These metrics indicate a stable institution rather than a fly-by-night company.
+  3.1. **Stability?:** PayPal is a mature fintech platform spun off from eBay in 2015 and now serves 434 million active accounts, indicating substantial scale. It generates solid operating cash flow ($6.43B) and free cash flow ($3.13B), with a consistent profit margin near 15%. Positive earnings growth and cash generation support balance-sheet resilience. Overall, it appears as a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** It is innovating and growing, highlighted by its first-ever dividend and AI partnerships with Google and OpenAI, plus new “agentic commerce” services. Revenue and earnings growth (7.3% and 23.6%) reinforce this trajectory.
+  3.2. **Innovating?:** It is actively innovating, expanding BNPL offerings (e.g., no-fee BNPL in Canada) and launching AI-driven “agentic commerce” services. Venmo feature updates and ongoing crypto functionality via PayPal also signal continued product evolution.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines frame PayPal as a cheap growth stock, note its crypto functionality among alternative trading venues, and highlight bullish reactions to Q3 results along with the first-ever dividend and AI tie-ups with Google and OpenAI. Coverage suggests improving sentiment despite prior underperformance. With quick facts indicating “Buy the rumor? no” and “Sell the news? no,” recent news has not produced classic rumor-driven surges or post-news selloffs. This points to muted reactions and potential interest in buying dips rather than chasing headlines.
+  4.1. **News:** Recent coverage highlighted PayPal as a cheap growth stock and noted its role as a venue to buy and sell cryptocurrency. Company updates included Venmo Stash and a no-fee BNPL offering in Canada, plus new AI-driven “agentic commerce” services. Tariff-related headlines weighed on fintech sentiment at times. Given the quick facts indicating “Buy the rumor? no” and “Sell the news? no,” recent moves did not exhibit a classic buy-the-rumor, sell-the-news pattern.
   
-  4.2. **Tarrifs:** Reports in April 2025 said fintech stocks including PayPal fell on concerns tariffs would curb consumer spending, with analysts warning of recession risk; impacts are chiefly indirect via sentiment and transaction volumes rather than direct tariff costs.
+  4.2. **Tarrifs:** Tariff headlines have pressured PYPL as investors worry about weaker consumer spending and macro risks, with multiple reports citing fintech sell-offs on tariff concerns. The effect has been sentiment-driven rather than company-specific policy impacts.
   
   ## 5. QuickRef
   
@@ -49,9 +49,9 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$4.68B</td></tr>
-  <tr><td>Price</td><td>66.29</td></tr>
-  <tr><td>7d Resistance</td><td>70.35</td></tr>
+  <tr><td>Last Q4</td><td>$4.92B</td></tr>
+  <tr><td>Price</td><td>65.18</td></tr>
+  <tr><td>7d Resistance</td><td>68.21</td></tr>
   <tr><td>7d Support</td><td>64.78</td></tr>
   <tr><td>30d Resistance</td><td>79.21</td></tr>
   <tr><td>30d Support</td><td>64.78</td></tr>
@@ -59,10 +59,10 @@ raw_markdown: |
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>near-bottom</td></tr>
+  <tr><td>3mo</td><td>bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
-  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
   </tbody></table>
   </div>
   
@@ -85,12 +85,12 @@ raw_markdown: |
   Gathering context for PYPL...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-15/2025-11-13?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-10?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-10?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-13?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-13?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -106,7 +106,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/PYPL?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/PYPL?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: using cached asset assets/logos/PYPL.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/PYPL.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/PYPL?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/PYPL?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 10 entries.
@@ -212,26 +212,26 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-10T20:25:39.349641+00:00">2025-11-10 20:25 UTC</time> (runtime 1m 12s)
+**Generated:** <time class="js-local-time" datetime="2025-11-13T20:24:13.362107+00:00">2025-11-13 20:24 UTC</time> (runtime 43.41s)
 
 ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
 
 
 ## 1. The Biz
 
-1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, focused on online transactions. Core offerings include the PayPal digital wallet and checkout, merchant payment processing, and Venmo for person-to-person payments, serving 434 million active accounts as of 2024.
+1.1. **Activities:** PayPal provides digital payment solutions for online transactions, serving merchants and consumers through its PayPal wallet and checkout services. It also owns Venmo for peer-to-peer payments and had 434 million active accounts at the end of 2024. The company’s offerings span online payments and newer services such as buy now, pay later in certain markets.
 
-1.2. **Profitable?:** Yes — PayPal is profitable, with positive net income each recent quarter (totaling about $4.68B across the last four) and a 14.96% profit margin alongside 23.6% earnings growth.
+1.2. **Profitable?:** Yes — PayPal is profitable, with a ~15% profit margin and $4.92B in net income over the last four quarters, alongside positive earnings growth and strong free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are online merchants and consumers using digital wallets and P2P payments (Venmo). The company operates globally, processing transactions in more than 200 markets and over 100 currencies.
+1.3. **Customer & Markets:** Its primary customers are merchants (online sellers and platforms) and consumers using digital wallets and P2P payments. PayPal operates globally, processing transactions in more than 200 markets and over 100 currencies, with significant presence in U.S. and international e-commerce and digital payments.
 
-1.4. **Competition:** Competitors include Apple (Apple Pay), Amazon, Shopify, Affirm, Coinbase, and Visa. PayPal remains a large-scale incumbent in online payments with 434 million active accounts but faces strong competition across wallets, checkout, BNPL, and crypto.
+1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Block (Square), Adyen, Affirm, Amazon/Shopify payment offerings, and others. Third-party estimates cite PayPal as a leading online payments provider by market share.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares pulled back from a local high of 68.21 toward support at 64.78 and closed at 66.29 below the 20-DMA (68.44).
+2.1. **7d Trend?:** down — price slipped from a local high near 67.99 to 65.18 and remains below the 20-day moving average (68.26).
 
-2.2. **7d Buy/Sell Points?:** Buying near support around 64.78 looked attractive, while selling or trimming into 68.21–70.35 (local high/resistance) offered favorable risk-reward.
+2.2. **7d Buy/Sell Points?:** Buying near support around 64.78 and selling near 67.99–68.21 resistance offered favorable entries/exits. The range trade between support and resistance dominated the period.
 
 2.3.1. **7d Volume:** low
 
@@ -239,15 +239,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** PayPal is a seasoned fintech, spun off from eBay in 2015, with 434 million active accounts and consistent profitability. It generates strong cash flows (operating cash flow ~$6.43B and free cash flow ~$3.13B), supporting ongoing operations and shareholder returns. These metrics indicate a stable institution rather than a fly-by-night company.
+3.1. **Stability?:** PayPal is a mature fintech platform spun off from eBay in 2015 and now serves 434 million active accounts, indicating substantial scale. It generates solid operating cash flow ($6.43B) and free cash flow ($3.13B), with a consistent profit margin near 15%. Positive earnings growth and cash generation support balance-sheet resilience. Overall, it appears as a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** It is innovating and growing, highlighted by its first-ever dividend and AI partnerships with Google and OpenAI, plus new “agentic commerce” services. Revenue and earnings growth (7.3% and 23.6%) reinforce this trajectory.
+3.2. **Innovating?:** It is actively innovating, expanding BNPL offerings (e.g., no-fee BNPL in Canada) and launching AI-driven “agentic commerce” services. Venmo feature updates and ongoing crypto functionality via PayPal also signal continued product evolution.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines frame PayPal as a cheap growth stock, note its crypto functionality among alternative trading venues, and highlight bullish reactions to Q3 results along with the first-ever dividend and AI tie-ups with Google and OpenAI. Coverage suggests improving sentiment despite prior underperformance. With quick facts indicating “Buy the rumor? no” and “Sell the news? no,” recent news has not produced classic rumor-driven surges or post-news selloffs. This points to muted reactions and potential interest in buying dips rather than chasing headlines.
+4.1. **News:** Recent coverage highlighted PayPal as a cheap growth stock and noted its role as a venue to buy and sell cryptocurrency. Company updates included Venmo Stash and a no-fee BNPL offering in Canada, plus new AI-driven “agentic commerce” services. Tariff-related headlines weighed on fintech sentiment at times. Given the quick facts indicating “Buy the rumor? no” and “Sell the news? no,” recent moves did not exhibit a classic buy-the-rumor, sell-the-news pattern.
 
-4.2. **Tarrifs:** Reports in April 2025 said fintech stocks including PayPal fell on concerns tariffs would curb consumer spending, with analysts warning of recession risk; impacts are chiefly indirect via sentiment and transaction volumes rather than direct tariff costs.
+4.2. **Tarrifs:** Tariff headlines have pressured PYPL as investors worry about weaker consumer spending and macro risks, with multiple reports citing fintech sell-offs on tariff concerns. The effect has been sentiment-driven rather than company-specific policy impacts.
 
 ## 5. QuickRef
 
@@ -255,9 +255,9 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$4.68B</td></tr>
-<tr><td>Price</td><td>66.29</td></tr>
-<tr><td>7d Resistance</td><td>70.35</td></tr>
+<tr><td>Last Q4</td><td>$4.92B</td></tr>
+<tr><td>Price</td><td>65.18</td></tr>
+<tr><td>7d Resistance</td><td>68.21</td></tr>
 <tr><td>7d Support</td><td>64.78</td></tr>
 <tr><td>30d Resistance</td><td>79.21</td></tr>
 <tr><td>30d Support</td><td>64.78</td></tr>
@@ -265,10 +265,10 @@ raw_markdown: |
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>near-bottom</td></tr>
+<tr><td>3mo</td><td>bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
-<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
 </tbody></table>
 </div>
 
@@ -291,12 +291,12 @@ raw_markdown: |
 Gathering context for PYPL...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-12/2025-11-10?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-15/2025-11-13?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-10?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-10?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-13?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-13?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -312,7 +312,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/PYPL?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/PYPL?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: using cached asset assets/logos/PYPL.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/PYPL.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/PYPL?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/PYPL?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 10 entries.
