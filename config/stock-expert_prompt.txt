@@ -1,4 +1,18 @@
 sections:
+  - number: "0"
+    title: "Entry Radar"
+    notes:
+      - "Start with a single-word verdict: 'yes', 'no', or 'maybe'."
+      - "Back the verdict with 2 concise clauses referencing price history/quick facts, macro froth or bubble risk, and positioning versus support/resistance or moving averages."
+      - "If macro froth context is unavailable, explicitly flag that visibility is limited."
+    items:
+      - number: "0.1"
+        prompt: "Given the stock's history, macro bubble/froth risks, and where it sits versus its averages/support, is this a good moment to initiate or add to a long position?"
+        label: "Long Entry?"
+        instruction: "Lead with 'yes', 'no', or 'maybe', then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance."
+        llm:
+          type: string
+          guidance: "Return one sentence formatted as '<verdict> — <supporting clause>; <supporting clause>' referencing the provided data only."
   - number: "1"
     title: "The Biz"
     items:
