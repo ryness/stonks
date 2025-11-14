@@ -2,30 +2,34 @@
 layout: default
 title: "PLTR Stock Report"
 ticker: "PLTR"
-date: 2025-11-11
-generated_at: 2025-11-11T20:23:44.014070+00:00
-runtime_seconds: 89.04
+date: 2025-11-14
+generated_at: 2025-11-14T17:46:40.701547+00:00
+runtime_seconds: 75.20
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-11T20:23:44.014070+00:00">2025-11-11 20:23 UTC</time> (runtime 1m 29s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-14T17:46:40.701547+00:00">2025-11-14 17:46 UTC</time> (runtime 1m 15s)
   
   ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — 5yr is near-peak and headlines flag AI bubble/froth concerns; price 176.45 is below the 20-DMA/SMA (186.62/180.05) and closer to support 164.50 than resistance 194.93
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Palantir develops data analytics infrastructure software that helps organizations integrate, analyze, and act on their data. It serves commercial clients via Foundry and government customers via Gotham. The company focuses on entities in Western‑allied nations.
+  1.1. **Activities:** Palantir develops analytical software platforms that integrate data and decision workflows to improve organizational efficiency. It serves commercial customers via Foundry and government clients via Gotham. The company works with entities in Western-allied nations.
   
-  1.2. **Profitable?:** Yes — Palantir is profitable, with a 28.11% profit margin, about $1.10B in cumulative net income over recent periods, and strong free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with a 28.11% profit margin, positive net income over the last four periods totaling $1.10B, and $1.18B in free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are government agencies and commercial enterprises that need advanced data analytics and decision support. Markets are concentrated in the U.S. and Western‑allied countries, with notable strength in U.S. commercial, which grew 120% year over year per recent coverage.
+  1.3. **Customer & Markets:** Its primary customers are government agencies and defense/intelligence organizations, alongside large commercial enterprises. Markets are the United States and other Western-allied nations across industries, delivered through Gotham (government) and Foundry (commercial).
   
-  1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, and C3.ai. Palantir is well established in government/defense analytics and is often characterized as a leader in defense AI.
+  1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, C3.ai, Nvidia, Meta, and others listed. Relative positioning or rank versus these peers is not specified in the provided data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price retreated from the 207.52 resistance, set a local high at 194.93, and remains above 168.91 support.
+  2.1. **7d Trend?:** down — the 7d trend is labeled down/downtrend and price made a local low at 168.91 with the close 176.45 below the 20-DMA 186.62
   
-  2.2. **7d Buy/Sell Points?:** Good buy entries appeared near 168.91; logical sells were around 194.93. These align with the suggested buy/sell zones for the period.
+  2.2. **7d Buy/Sell Points?:** Buying near 168.91–164.50 (local low to support) looked favorable; selling into 194.93 (7d resistance/local high) offered exits.
   
   2.3.1. **7d Volume:** low
   
@@ -33,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has a two‑decade operating history. It is profitable with positive net income and robust cash generation (operating cash flow ~$1.82B and free cash flow ~$1.18B). Its diversified base across government and commercial segments adds resilience. Overall, the company appears financially and operationally stable based on the provided metrics.
+  3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has an extended operating history for a software firm. It shows sustained profitability (28.11% margin) with strong cash generation ($1.82B operating cash flow and $1.18B free cash flow). Net income over the last four periods totals $1.10B, indicating durable earnings. These metrics point to a relatively stable institution rather than a fly-by-night operation.
   
-  3.2. **Innovating?:** Innovating and growing — revenue grew ~63% year over year and earnings grew ~231%, with U.S. commercial up 120% according to recent coverage. Partnerships and new platform uses also point to active expansion.
+  3.2. **Innovating?:** It is innovating and growing—revenue growth of 62.8% and earnings growth of 231% indicate strong momentum, with recent coverage citing commercial strength. This supports ongoing expansion of its Foundry and Gotham platforms.
   
   ## 4. Context
   
-  4.1. **News:** Recent articles highlight a 205% one‑year stock gain, supported by 63% YoY revenue growth and 120% U.S. commercial growth. Another piece posits Palantir as a potential future peer to Tesla’s market cap, while a separate article discusses an 11% pullback and whether it’s a buy‑the‑dip opportunity. Broader market notes cite beaten‑down large‑cap techs with upside after volatility. This mix suggests enthusiasm tempered by profit‑taking; consistent with quick facts, there is no clear ‘buy the rumor, sell the news’ setup flagged.
+  4.1. **News:** Recent coverage is mixed: one article highlights Palantir as a growth stock to buy after a strong 2025 run despite a pullback, and another notes billionaire hedge funds buying shares. CEO Alex Karp defended the company’s valuation and operations at Yahoo Finance Invest, pushing back on critics. Conversely, a piece argues Meta may be a smarter AI bet than Nvidia or Palantir, signaling AI-bubble concerns. In this context, the ‘buy the rumor, sell the news’ effect seems muted (quick facts also say no) as sentiment swings between enthusiasm and skepticism.
   
-  4.2. **Tarrifs:** Several articles suggest tariffs have had limited direct impact on Palantir, with some arguing tariff news could even catalyze demand; the stock has shown resilience during tariff‑related market moves. No direct operational tariff exposure is cited in the provided data.
+  4.2. **Tarrifs:** Coverage around tariff headlines suggests limited direct exposure for Palantir, with commentary noting it handled tariff news with little impact and shares even surged on an earnings day amid tariff fears. Overall, tariff effects appear limited in the provided data.
   
   ## 5. QuickRef
   
@@ -50,17 +54,17 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$1.10B</td></tr>
-  <tr><td>Price</td><td>191.83</td></tr>
-  <tr><td>7d Resistance</td><td>207.52</td></tr>
-  <tr><td>7d Support</td><td>168.91</td></tr>
+  <tr><td>Price</td><td>176.45</td></tr>
+  <tr><td>7d Resistance</td><td>194.93</td></tr>
+  <tr><td>7d Support</td><td>164.50</td></tr>
   <tr><td>30d Resistance</td><td>207.52</td></tr>
-  <tr><td>30d Support</td><td>168.91</td></tr>
+  <tr><td>30d Support</td><td>164.50</td></tr>
   <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
-  <tr><td>1yr</td><td>near-peak</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>near-peak</td></tr>
   <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
@@ -85,12 +89,12 @@ raw_markdown: |
   Gathering context for PLTR...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/PLTR/2025-11-11?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PLTR/2025-11-11?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/PLTR/2025-11-14?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PLTR/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PLTR/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PLTR/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PLTR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -190,6 +194,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -208,26 +213,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-11T20:23:44.014070+00:00">2025-11-11 20:23 UTC</time> (runtime 1m 29s)
+**Generated:** <time class="js-local-time" datetime="2025-11-14T17:46:40.701547+00:00">2025-11-14 17:46 UTC</time> (runtime 1m 15s)
 
 ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — 5yr is near-peak and headlines flag AI bubble/froth concerns; price 176.45 is below the 20-DMA/SMA (186.62/180.05) and closer to support 164.50 than resistance 194.93
+
 ## 1. The Biz
 
-1.1. **Activities:** Palantir develops data analytics infrastructure software that helps organizations integrate, analyze, and act on their data. It serves commercial clients via Foundry and government customers via Gotham. The company focuses on entities in Western‑allied nations.
+1.1. **Activities:** Palantir develops analytical software platforms that integrate data and decision workflows to improve organizational efficiency. It serves commercial customers via Foundry and government clients via Gotham. The company works with entities in Western-allied nations.
 
-1.2. **Profitable?:** Yes — Palantir is profitable, with a 28.11% profit margin, about $1.10B in cumulative net income over recent periods, and strong free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with a 28.11% profit margin, positive net income over the last four periods totaling $1.10B, and $1.18B in free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are government agencies and commercial enterprises that need advanced data analytics and decision support. Markets are concentrated in the U.S. and Western‑allied countries, with notable strength in U.S. commercial, which grew 120% year over year per recent coverage.
+1.3. **Customer & Markets:** Its primary customers are government agencies and defense/intelligence organizations, alongside large commercial enterprises. Markets are the United States and other Western-allied nations across industries, delivered through Gotham (government) and Foundry (commercial).
 
-1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, and C3.ai. Palantir is well established in government/defense analytics and is often characterized as a leader in defense AI.
+1.4. **Competition:** Competitors include Microsoft, Amazon, Google, Snowflake, C3.ai, Nvidia, Meta, and others listed. Relative positioning or rank versus these peers is not specified in the provided data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price retreated from the 207.52 resistance, set a local high at 194.93, and remains above 168.91 support.
+2.1. **7d Trend?:** down — the 7d trend is labeled down/downtrend and price made a local low at 168.91 with the close 176.45 below the 20-DMA 186.62
 
-2.2. **7d Buy/Sell Points?:** Good buy entries appeared near 168.91; logical sells were around 194.93. These align with the suggested buy/sell zones for the period.
+2.2. **7d Buy/Sell Points?:** Buying near 168.91–164.50 (local low to support) looked favorable; selling into 194.93 (7d resistance/local high) offered exits.
 
 2.3.1. **7d Volume:** low
 
@@ -235,15 +244,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has a two‑decade operating history. It is profitable with positive net income and robust cash generation (operating cash flow ~$1.82B and free cash flow ~$1.18B). Its diversified base across government and commercial segments adds resilience. Overall, the company appears financially and operationally stable based on the provided metrics.
+3.1. **Stability?:** Founded in 2003 and public since 2020, Palantir has an extended operating history for a software firm. It shows sustained profitability (28.11% margin) with strong cash generation ($1.82B operating cash flow and $1.18B free cash flow). Net income over the last four periods totals $1.10B, indicating durable earnings. These metrics point to a relatively stable institution rather than a fly-by-night operation.
 
-3.2. **Innovating?:** Innovating and growing — revenue grew ~63% year over year and earnings grew ~231%, with U.S. commercial up 120% according to recent coverage. Partnerships and new platform uses also point to active expansion.
+3.2. **Innovating?:** It is innovating and growing—revenue growth of 62.8% and earnings growth of 231% indicate strong momentum, with recent coverage citing commercial strength. This supports ongoing expansion of its Foundry and Gotham platforms.
 
 ## 4. Context
 
-4.1. **News:** Recent articles highlight a 205% one‑year stock gain, supported by 63% YoY revenue growth and 120% U.S. commercial growth. Another piece posits Palantir as a potential future peer to Tesla’s market cap, while a separate article discusses an 11% pullback and whether it’s a buy‑the‑dip opportunity. Broader market notes cite beaten‑down large‑cap techs with upside after volatility. This mix suggests enthusiasm tempered by profit‑taking; consistent with quick facts, there is no clear ‘buy the rumor, sell the news’ setup flagged.
+4.1. **News:** Recent coverage is mixed: one article highlights Palantir as a growth stock to buy after a strong 2025 run despite a pullback, and another notes billionaire hedge funds buying shares. CEO Alex Karp defended the company’s valuation and operations at Yahoo Finance Invest, pushing back on critics. Conversely, a piece argues Meta may be a smarter AI bet than Nvidia or Palantir, signaling AI-bubble concerns. In this context, the ‘buy the rumor, sell the news’ effect seems muted (quick facts also say no) as sentiment swings between enthusiasm and skepticism.
 
-4.2. **Tarrifs:** Several articles suggest tariffs have had limited direct impact on Palantir, with some arguing tariff news could even catalyze demand; the stock has shown resilience during tariff‑related market moves. No direct operational tariff exposure is cited in the provided data.
+4.2. **Tarrifs:** Coverage around tariff headlines suggests limited direct exposure for Palantir, with commentary noting it handled tariff news with little impact and shares even surged on an earnings day amid tariff fears. Overall, tariff effects appear limited in the provided data.
 
 ## 5. QuickRef
 
@@ -252,17 +261,17 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$1.10B</td></tr>
-<tr><td>Price</td><td>191.83</td></tr>
-<tr><td>7d Resistance</td><td>207.52</td></tr>
-<tr><td>7d Support</td><td>168.91</td></tr>
+<tr><td>Price</td><td>176.45</td></tr>
+<tr><td>7d Resistance</td><td>194.93</td></tr>
+<tr><td>7d Support</td><td>164.50</td></tr>
 <tr><td>30d Resistance</td><td>207.52</td></tr>
-<tr><td>30d Support</td><td>168.91</td></tr>
+<tr><td>30d Support</td><td>164.50</td></tr>
 <tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
-<tr><td>1yr</td><td>near-peak</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>near-peak</td></tr>
 <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
@@ -287,12 +296,12 @@ raw_markdown: |
 Gathering context for PLTR...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-13/2025-11-11?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PLTR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PLTR/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/PLTR/2025-11-11?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PLTR/2025-11-11?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/PLTR/2025-11-14?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/PLTR/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PLTR/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PLTR/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PLTR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -392,6 +401,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets
