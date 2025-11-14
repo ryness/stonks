@@ -2,46 +2,50 @@
 layout: default
 title: "PFE Stock Report"
 ticker: "PFE"
-date: 2025-11-12
-generated_at: 2025-11-12T17:16:03.715672+00:00
-runtime_seconds: 78.42
+date: 2025-11-14
+generated_at: 2025-11-14T22:45:32.035207+00:00
+runtime_seconds: 108.73
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-12T17:16:03.715672+00:00">2025-11-12 17:16 UTC</time> (runtime 1m 18s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-14T22:45:32.035207+00:00">2025-11-14 22:45 UTC</time> (runtime 1m 49s)
   
   ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom with a 7d uptrend and overbought/sold reading in the middle; macro froth cues are limited in the provided data, and price 25.06 is above the 20DMA 24.48 and between support 23.91 and resistance 26.48
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Pfizer is a global biopharmaceutical company focused on developing, manufacturing, and marketing prescription drugs and vaccines. Top products include Prevnar 13 (pneumococcal vaccine), Ibrance (oncology), and Eliquis (cardiovascular), with prescription drugs and vaccines comprising the majority of sales. It sells globally, with roughly 40% of revenue from international markets and significant contribution from emerging markets.
+  1.1. **Activities:** Pfizer is one of the world’s largest pharmaceutical companies focused on prescription drugs and vaccines. Key products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. It operates across global markets with a significant international footprint.
   
-  1.2. **Profitable?:** Yes — Pfizer is profitable, with recent positive net income (e.g., $410 million in the latest quarter) and a profit margin of about 15.7%, supported by strong free cash flow.
+  1.2. **Profitable?:** yes — it shows a 15.7% profit margin with positive recent net income and strong free cash flow.
   
-  1.3. **Customer & Markets:** Primary customer types are not specified in the provided data. Pfizer sells prescription medicines and vaccines globally, with about 40% of sales outside the U.S. Emerging markets are a major contributor.
+  1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Emerging markets are a major contributor. Primary customer types are not specified in the provided data.
   
-  1.4. **Competition:** Key competitors include Johnson & Johnson, Merck, Eli Lilly, AbbVie, Bristol Myers Squibb, Amgen, Gilead, Moderna, and Novavax. Pfizer remains one of the world’s largest pharmaceutical firms by sales, placing it among industry leaders.
+  1.4. **Competition:** Primary competitors include large drug makers such as MRNA, MRK, JNJ, NVAX, LLY, ABBV, BMY, AMGN, GILD, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up; price rose from a local low around 23.91 to a 25.85 close near 7d resistance at 25.90 and above the 20-DMA.
+  2.1. **7d Trend?:** up — price has risen off 7d support 23.91 toward resistance 26.48 and sits above the 20DMA 24.48.
   
-  2.2. **7d Buy/Sell Points?:** Buying near support/suggested buy around 23.91 and selling near 24.70 (suggested sell) or into resistance around 25.90 were favorable levels.
+  2.2. **7d Buy/Sell Points?:** Buy dips near 23.91; sell or trim into strength around 26.48.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company with roughly $60 billion in annual sales and global operations. Its profitability (profit margin ~15.7%) and substantial cash generation (operating cash flow ~$13.1B, free cash flow ~$14.3B) indicate a solid financial base. International diversification, with about 40% of sales outside the U.S. and notable exposure to emerging markets, adds resilience. Recent revenue (-5.9%) and earnings (-20.7%) declines signal near-term headwinds. Overall, it appears to be a stable institution rather than a fly-by-night operator.
+  3.1. **Stability?:** Pfizer appears to be a stable, mature institution, described as one of the world’s largest pharmaceutical firms. It generates substantial operating cash flow and free cash flow, and maintains positive profitability. Global diversification is significant, with 40% of sales from international markets and notable exposure to emerging markets. While revenue and earnings growth are currently negative, the company’s scale and cash generation support overall stability.
   
-  3.2. **Innovating?:** Pfizer is actively pursuing growth and innovation, highlighted by participation in the GLP-1 market and M&A such as the proposed Metsera deal under scrutiny. Coverage underscores intense competition but ongoing strategic moves to expand its portfolio.
+  3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, highlighted by a proposed acquisition of Metsera and an exit from its BioNTech stake. Despite negative near-term growth metrics, these actions indicate ongoing innovation and strategic repositioning.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines center on Pfizer’s pursuit of Metsera, with Novo Nordisk losing the bidding war and a law firm investigating whether Metsera’s board accepted too low a price. Commentary highlights uncertainty from patent expirations expected in 2027–2028 and complications around the Metsera transaction. Competition in GLP-1s is intense as Eli Lilly and Novo Nordisk expand, with Novo cutting Wegovy prices in India, and Novo also reported positive Phase 2 data for an ATTR-CM antibody. Given quick-facts indicating “Sell the news? yes” and “Buy the rumor? no,” confirmation of deals or trial updates could prompt selling into news rather than sustained rallies.
+  4.1. **News:** Recent headlines note Pfizer’s plan to sell its remaining BioNTech stake via an overnight block trade (~$508M), signaling portfolio reallocation. Pfizer is the proposed buyer of Metsera at $47.50 per share, though a law firm is investigating the deal’s fairness, adding some uncertainty. Novo Nordisk’s price cut for Wegovy in India after losing Metsera to Pfizer underscores competitive dynamics in obesity treatments. An Investing.com piece frames Pfizer as a discounted stock heading into 2026. Given quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no,’ these events may not fit a classic rumor/news trade setup.
   
-  4.2. **Tarrifs:** Tariffs have been a headwind, with management citing about $150 million in annual costs and vulnerability to potential European measures, while tariff exemptions or policy deals have driven positive stock reactions. Net effect: episodic cost pressure and volatility tied to tariff developments.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -50,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$9.83B</td></tr>
-  <tr><td>Price</td><td>25.85</td></tr>
-  <tr><td>7d Resistance</td><td>25.90</td></tr>
-  <tr><td>7d Support</td><td>23.74</td></tr>
-  <tr><td>30d Resistance</td><td>27.21</td></tr>
+  <tr><td>Price</td><td>25.06</td></tr>
+  <tr><td>7d Resistance</td><td>26.48</td></tr>
+  <tr><td>7d Support</td><td>23.91</td></tr>
+  <tr><td>30d Resistance</td><td>26.89</td></tr>
   <tr><td>30d Support</td><td>23.73</td></tr>
-  <tr><td>Buy the dip?</td><td>no</td></tr>
+  <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>yes</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>up</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
-  <tr><td>1yr</td><td>near-peak</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
-  <tr><td>Overbought/Sold?</td><td>overbought</td></tr>
+  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
   
@@ -72,9 +76,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-  <li>The Guardian: competitive landscape, rumor</li>
+  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -85,12 +87,12 @@ raw_markdown: |
   Gathering context for PFE...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-12?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-12?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -106,8 +108,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/PFE?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/PFE?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/cGZpemVyLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/PFE.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/PFE.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/PFE?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/PFE?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 10 entries.
@@ -126,75 +127,224 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; PFE core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;PFE business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;PFE profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search failed for &#x27;PFE market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PFE+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PFE+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PFE rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PFE+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PFE+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PFE tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;PFE tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;PFE latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PFE tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;PFE tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PFE tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PFE tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PFE tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PFE tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -213,42 +363,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-12T17:16:03.715672+00:00">2025-11-12 17:16 UTC</time> (runtime 1m 18s)
+**Generated:** <time class="js-local-time" datetime="2025-11-14T22:45:32.035207+00:00">2025-11-14 22:45 UTC</time> (runtime 1m 49s)
 
 ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom with a 7d uptrend and overbought/sold reading in the middle; macro froth cues are limited in the provided data, and price 25.06 is above the 20DMA 24.48 and between support 23.91 and resistance 26.48
+
 ## 1. The Biz
 
-1.1. **Activities:** Pfizer is a global biopharmaceutical company focused on developing, manufacturing, and marketing prescription drugs and vaccines. Top products include Prevnar 13 (pneumococcal vaccine), Ibrance (oncology), and Eliquis (cardiovascular), with prescription drugs and vaccines comprising the majority of sales. It sells globally, with roughly 40% of revenue from international markets and significant contribution from emerging markets.
+1.1. **Activities:** Pfizer is one of the world’s largest pharmaceutical companies focused on prescription drugs and vaccines. Key products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. It operates across global markets with a significant international footprint.
 
-1.2. **Profitable?:** Yes — Pfizer is profitable, with recent positive net income (e.g., $410 million in the latest quarter) and a profit margin of about 15.7%, supported by strong free cash flow.
+1.2. **Profitable?:** yes — it shows a 15.7% profit margin with positive recent net income and strong free cash flow.
 
-1.3. **Customer & Markets:** Primary customer types are not specified in the provided data. Pfizer sells prescription medicines and vaccines globally, with about 40% of sales outside the U.S. Emerging markets are a major contributor.
+1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Emerging markets are a major contributor. Primary customer types are not specified in the provided data.
 
-1.4. **Competition:** Key competitors include Johnson & Johnson, Merck, Eli Lilly, AbbVie, Bristol Myers Squibb, Amgen, Gilead, Moderna, and Novavax. Pfizer remains one of the world’s largest pharmaceutical firms by sales, placing it among industry leaders.
+1.4. **Competition:** Primary competitors include large drug makers such as MRNA, MRK, JNJ, NVAX, LLY, ABBV, BMY, AMGN, GILD, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up; price rose from a local low around 23.91 to a 25.85 close near 7d resistance at 25.90 and above the 20-DMA.
+2.1. **7d Trend?:** up — price has risen off 7d support 23.91 toward resistance 26.48 and sits above the 20DMA 24.48.
 
-2.2. **7d Buy/Sell Points?:** Buying near support/suggested buy around 23.91 and selling near 24.70 (suggested sell) or into resistance around 25.90 were favorable levels.
+2.2. **7d Buy/Sell Points?:** Buy dips near 23.91; sell or trim into strength around 26.48.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company with roughly $60 billion in annual sales and global operations. Its profitability (profit margin ~15.7%) and substantial cash generation (operating cash flow ~$13.1B, free cash flow ~$14.3B) indicate a solid financial base. International diversification, with about 40% of sales outside the U.S. and notable exposure to emerging markets, adds resilience. Recent revenue (-5.9%) and earnings (-20.7%) declines signal near-term headwinds. Overall, it appears to be a stable institution rather than a fly-by-night operator.
+3.1. **Stability?:** Pfizer appears to be a stable, mature institution, described as one of the world’s largest pharmaceutical firms. It generates substantial operating cash flow and free cash flow, and maintains positive profitability. Global diversification is significant, with 40% of sales from international markets and notable exposure to emerging markets. While revenue and earnings growth are currently negative, the company’s scale and cash generation support overall stability.
 
-3.2. **Innovating?:** Pfizer is actively pursuing growth and innovation, highlighted by participation in the GLP-1 market and M&A such as the proposed Metsera deal under scrutiny. Coverage underscores intense competition but ongoing strategic moves to expand its portfolio.
+3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, highlighted by a proposed acquisition of Metsera and an exit from its BioNTech stake. Despite negative near-term growth metrics, these actions indicate ongoing innovation and strategic repositioning.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines center on Pfizer’s pursuit of Metsera, with Novo Nordisk losing the bidding war and a law firm investigating whether Metsera’s board accepted too low a price. Commentary highlights uncertainty from patent expirations expected in 2027–2028 and complications around the Metsera transaction. Competition in GLP-1s is intense as Eli Lilly and Novo Nordisk expand, with Novo cutting Wegovy prices in India, and Novo also reported positive Phase 2 data for an ATTR-CM antibody. Given quick-facts indicating “Sell the news? yes” and “Buy the rumor? no,” confirmation of deals or trial updates could prompt selling into news rather than sustained rallies.
+4.1. **News:** Recent headlines note Pfizer’s plan to sell its remaining BioNTech stake via an overnight block trade (~$508M), signaling portfolio reallocation. Pfizer is the proposed buyer of Metsera at $47.50 per share, though a law firm is investigating the deal’s fairness, adding some uncertainty. Novo Nordisk’s price cut for Wegovy in India after losing Metsera to Pfizer underscores competitive dynamics in obesity treatments. An Investing.com piece frames Pfizer as a discounted stock heading into 2026. Given quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no,’ these events may not fit a classic rumor/news trade setup.
 
-4.2. **Tarrifs:** Tariffs have been a headwind, with management citing about $150 million in annual costs and vulnerability to potential European measures, while tariff exemptions or policy deals have driven positive stock reactions. Net effect: episodic cost pressure and volatility tied to tariff developments.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -257,19 +411,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$9.83B</td></tr>
-<tr><td>Price</td><td>25.85</td></tr>
-<tr><td>7d Resistance</td><td>25.90</td></tr>
-<tr><td>7d Support</td><td>23.74</td></tr>
-<tr><td>30d Resistance</td><td>27.21</td></tr>
+<tr><td>Price</td><td>25.06</td></tr>
+<tr><td>7d Resistance</td><td>26.48</td></tr>
+<tr><td>7d Support</td><td>23.91</td></tr>
+<tr><td>30d Resistance</td><td>26.89</td></tr>
 <tr><td>30d Support</td><td>23.73</td></tr>
-<tr><td>Buy the dip?</td><td>no</td></tr>
+<tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>yes</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>up</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
-<tr><td>1yr</td><td>near-peak</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
-<tr><td>Overbought/Sold?</td><td>overbought</td></tr>
+<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
 
@@ -279,9 +433,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-<li>The Guardian: competitive landscape, rumor</li>
+<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -292,12 +444,12 @@ raw_markdown: |
 Gathering context for PFE...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-12?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-12?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -313,8 +465,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/PFE?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/PFE?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/cGZpemVyLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/PFE.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/PFE.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/PFE?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/PFE?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 10 entries.
@@ -333,75 +484,224 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; PFE core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;PFE business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;PFE profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search failed for &#x27;PFE market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PFE+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PFE+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PFE rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PFE+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PFE+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PFE tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;PFE tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;PFE latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PFE tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;PFE tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PFE tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PFE tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PFE tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PFE+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PFE tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PFE+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets
