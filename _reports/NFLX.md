@@ -3,29 +3,33 @@ layout: default
 title: "NFLX Stock Report"
 ticker: "NFLX"
 date: 2025-11-14
-generated_at: 2025-11-14T17:13:21.969103+00:00
-runtime_seconds: 123.62
+generated_at: 2025-11-14T17:40:51.145088+00:00
+runtime_seconds: 72.48
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T17:13:21.969103+00:00">2025-11-14 17:13 UTC</time> (runtime 2m 4s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-14T17:40:51.145088+00:00">2025-11-14 17:40 UTC</time> (runtime 1m 12s)
   
   ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — history shows 5yr near-peak but 3mo near-bottom and 1yr middle; macro froth visibility is limited and price sits above 7d support 1085.13 but below the 20-DMA/EMA (close 1118.81 vs 1124.46/1162.11) with resistance at 1167.33
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Netflix operates a global subscription streaming service focused on on-demand TV series, movies, and documentaries, historically avoiding live programming and sports. It monetizes primarily through subscriptions and, since 2022, an ad-supported tier that adds advertising revenue. It has the largest TV entertainment subscriber base in the U.S. and internationally, exceeding 300 million globally.
+  1.1. **Activities:** Netflix runs a global subscription streaming service focused on on-demand TV series, films, and documentaries. It added ad-supported plans in 2022, creating an advertising revenue stream alongside subscriptions. The company serves over 300 million subscribers worldwide.
   
-  1.2. **Profitable?:** Yes — Netflix is profitable, with roughly a 24% profit margin, over $10.4B in recent cumulative net income, and $23.4B in free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable with ~24% profit margin, consistent positive net income, and strong free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are global consumers streaming TV and films, plus brands/advertisers buying inventory on its ad-supported plans. It serves the U.S. and nearly all international markets outside China, with over 300 million subscribers and growing engagement, including in emerging economies like India per recent coverage.
+  1.3. **Customer & Markets:** Primary customers are consumers streaming television entertainment and advertisers using its ad-supported tier. Netflix operates in the U.S. and across international markets, reaching most of the world outside China and serving 300M+ subscribers.
   
-  1.4. **Competition:** Key competitors include Disney (Disney+/Hulu), Amazon (Prime Video), Warner Bros. Discovery (Max), Alphabet/YouTube, Apple TV+, Comcast/Peacock, Roku, and Meta. In the U.S., Netflix is near the top with about a 21% streaming market share, second to Amazon’s ~22%.
+  1.4. **Competition:** Competitors include Disney, Amazon, Alphabet/YouTube, Apple, Warner Bros. Discovery, Comcast, Roku, and Meta. Netflix ranks as the leader by subscriber base in the U.S. and collectively internationally.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — rose off the ~1073 local low toward 1167 resistance and closed at 1117, aligning with the stated uptrend.
+  2.1. **7d Trend?:** up — price held above 7d support 1085.13 and tested 1167.33 resistance with an uptrend label
   
-  2.2. **7d Buy/Sell Points?:** Buys looked favorable near support/suggested buy around 1073–1085; sells or trims near resistance/suggested sell around 1167.
+  2.2. **7d Buy/Sell Points?:** Buy levels were near 1085.13–1073.37; sell levels were near 1167.33.
   
   2.3.1. **7d Volume:** low
   
@@ -33,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Netflix is a scaled, long-standing streaming leader with more than 300 million subscribers and reach across nearly all markets outside China. It demonstrates durable profitability (about 24% margin) and strong cash generation ($23.4B free cash flow and $9.6B operating cash flow). Recent net income totals over $10.4B, supporting financial resilience. Overall, it appears a stable institution rather than a fly-by-night operator.
+  3.1. **Stability?:** Netflix is a large, established streaming leader with over 300 million subscribers and global reach outside China. Financials show stability with positive net income totaling $10.43B across recent periods, 17.2% revenue growth, and $23.36B in free cash flow. Its recurring subscription model is augmented by advertising since 2022. These metrics indicate a durable, cash-generative institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** It is innovating and growing via the ad-supported tier and new advertiser metrics, with ads reaching 190 million viewers in October. Growth metrics are solid, including ~17% revenue growth and positive earnings growth.
+  3.2. **Innovating?:** It is innovating and growing, adding ad-supported plans in 2022 and posting 17.2% revenue growth. Recent reporting also highlights strong ad engagement (ads reaching 190 million viewers in October).
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage spotlights a 10-for-1 stock split set for Nov. 17 and arguments to buy ahead of it, alongside strong global growth and a successful ad-supported tier. Netflix also reported that ads reached 190 million viewers in October and rolled out a new advertiser-facing engagement metric. Competitors are active, with Paramount Skydance announcing a $3B transformation and Disney’s Q4 preview pointing to a potential 2026 recovery. Quick_facts indicate “Buy the rumor? no; Sell the news? no,” suggesting limited classic rumor/news trading around these headlines.
+  4.1. **News:** Recent headlines focus on a 10-for-1 stock split (with pieces advocating buying before the Nov. 17 split) and continued global growth and ad-tier momentum. Yahoo reported ads reaching 190 million viewers in October, underscoring advertising expansion. Competitor developments (Paramount Skydance’s $3B plan and Disney’s Q4 2025 preview) frame a competitive backdrop. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited classic rumor/news trading effects.
   
-  4.2. **Tarrifs:** Reports on proposed U.S. tariffs on foreign-made films pressured media stocks, including NFLX, when announced. Analysts estimated such tariffs could reduce earnings by roughly 10%–20% and add up to about $3B in annual costs, signaling a potential headwind if enacted.
+  4.2. **Tarrifs:** Proposed 100% tariffs on foreign-made films pressured media stocks and were cited as potential headwinds to Netflix, with reports flagging possible EPS and cost impacts if enacted. These tariff risks therefore represent a negative overhang for the stock.
   
   ## 5. QuickRef
   
@@ -50,7 +54,7 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$10.43B</td></tr>
-  <tr><td>Price</td><td>1117.42</td></tr>
+  <tr><td>Price</td><td>1118.81</td></tr>
   <tr><td>7d Resistance</td><td>1167.33</td></tr>
   <tr><td>7d Support</td><td>1085.13</td></tr>
   <tr><td>30d Resistance</td><td>1248.60</td></tr>
@@ -106,8 +110,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/NFLX?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NFLX?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/bmV0ZmxpeC5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/NFLX?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NFLX?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 10 entries.
@@ -191,6 +194,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -209,26 +213,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T17:13:21.969103+00:00">2025-11-14 17:13 UTC</time> (runtime 2m 4s)
+**Generated:** <time class="js-local-time" datetime="2025-11-14T17:40:51.145088+00:00">2025-11-14 17:40 UTC</time> (runtime 1m 12s)
 
 ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — history shows 5yr near-peak but 3mo near-bottom and 1yr middle; macro froth visibility is limited and price sits above 7d support 1085.13 but below the 20-DMA/EMA (close 1118.81 vs 1124.46/1162.11) with resistance at 1167.33
+
 ## 1. The Biz
 
-1.1. **Activities:** Netflix operates a global subscription streaming service focused on on-demand TV series, movies, and documentaries, historically avoiding live programming and sports. It monetizes primarily through subscriptions and, since 2022, an ad-supported tier that adds advertising revenue. It has the largest TV entertainment subscriber base in the U.S. and internationally, exceeding 300 million globally.
+1.1. **Activities:** Netflix runs a global subscription streaming service focused on on-demand TV series, films, and documentaries. It added ad-supported plans in 2022, creating an advertising revenue stream alongside subscriptions. The company serves over 300 million subscribers worldwide.
 
-1.2. **Profitable?:** Yes — Netflix is profitable, with roughly a 24% profit margin, over $10.4B in recent cumulative net income, and $23.4B in free cash flow.
+1.2. **Profitable?:** Yes — it is profitable with ~24% profit margin, consistent positive net income, and strong free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are global consumers streaming TV and films, plus brands/advertisers buying inventory on its ad-supported plans. It serves the U.S. and nearly all international markets outside China, with over 300 million subscribers and growing engagement, including in emerging economies like India per recent coverage.
+1.3. **Customer & Markets:** Primary customers are consumers streaming television entertainment and advertisers using its ad-supported tier. Netflix operates in the U.S. and across international markets, reaching most of the world outside China and serving 300M+ subscribers.
 
-1.4. **Competition:** Key competitors include Disney (Disney+/Hulu), Amazon (Prime Video), Warner Bros. Discovery (Max), Alphabet/YouTube, Apple TV+, Comcast/Peacock, Roku, and Meta. In the U.S., Netflix is near the top with about a 21% streaming market share, second to Amazon’s ~22%.
+1.4. **Competition:** Competitors include Disney, Amazon, Alphabet/YouTube, Apple, Warner Bros. Discovery, Comcast, Roku, and Meta. Netflix ranks as the leader by subscriber base in the U.S. and collectively internationally.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — rose off the ~1073 local low toward 1167 resistance and closed at 1117, aligning with the stated uptrend.
+2.1. **7d Trend?:** up — price held above 7d support 1085.13 and tested 1167.33 resistance with an uptrend label
 
-2.2. **7d Buy/Sell Points?:** Buys looked favorable near support/suggested buy around 1073–1085; sells or trims near resistance/suggested sell around 1167.
+2.2. **7d Buy/Sell Points?:** Buy levels were near 1085.13–1073.37; sell levels were near 1167.33.
 
 2.3.1. **7d Volume:** low
 
@@ -236,15 +244,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Netflix is a scaled, long-standing streaming leader with more than 300 million subscribers and reach across nearly all markets outside China. It demonstrates durable profitability (about 24% margin) and strong cash generation ($23.4B free cash flow and $9.6B operating cash flow). Recent net income totals over $10.4B, supporting financial resilience. Overall, it appears a stable institution rather than a fly-by-night operator.
+3.1. **Stability?:** Netflix is a large, established streaming leader with over 300 million subscribers and global reach outside China. Financials show stability with positive net income totaling $10.43B across recent periods, 17.2% revenue growth, and $23.36B in free cash flow. Its recurring subscription model is augmented by advertising since 2022. These metrics indicate a durable, cash-generative institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** It is innovating and growing via the ad-supported tier and new advertiser metrics, with ads reaching 190 million viewers in October. Growth metrics are solid, including ~17% revenue growth and positive earnings growth.
+3.2. **Innovating?:** It is innovating and growing, adding ad-supported plans in 2022 and posting 17.2% revenue growth. Recent reporting also highlights strong ad engagement (ads reaching 190 million viewers in October).
 
 ## 4. Context
 
-4.1. **News:** Recent coverage spotlights a 10-for-1 stock split set for Nov. 17 and arguments to buy ahead of it, alongside strong global growth and a successful ad-supported tier. Netflix also reported that ads reached 190 million viewers in October and rolled out a new advertiser-facing engagement metric. Competitors are active, with Paramount Skydance announcing a $3B transformation and Disney’s Q4 preview pointing to a potential 2026 recovery. Quick_facts indicate “Buy the rumor? no; Sell the news? no,” suggesting limited classic rumor/news trading around these headlines.
+4.1. **News:** Recent headlines focus on a 10-for-1 stock split (with pieces advocating buying before the Nov. 17 split) and continued global growth and ad-tier momentum. Yahoo reported ads reaching 190 million viewers in October, underscoring advertising expansion. Competitor developments (Paramount Skydance’s $3B plan and Disney’s Q4 2025 preview) frame a competitive backdrop. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited classic rumor/news trading effects.
 
-4.2. **Tarrifs:** Reports on proposed U.S. tariffs on foreign-made films pressured media stocks, including NFLX, when announced. Analysts estimated such tariffs could reduce earnings by roughly 10%–20% and add up to about $3B in annual costs, signaling a potential headwind if enacted.
+4.2. **Tarrifs:** Proposed 100% tariffs on foreign-made films pressured media stocks and were cited as potential headwinds to Netflix, with reports flagging possible EPS and cost impacts if enacted. These tariff risks therefore represent a negative overhang for the stock.
 
 ## 5. QuickRef
 
@@ -253,7 +261,7 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$10.43B</td></tr>
-<tr><td>Price</td><td>1117.42</td></tr>
+<tr><td>Price</td><td>1118.81</td></tr>
 <tr><td>7d Resistance</td><td>1167.33</td></tr>
 <tr><td>7d Support</td><td>1085.13</td></tr>
 <tr><td>30d Resistance</td><td>1248.60</td></tr>
@@ -309,8 +317,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/NFLX?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NFLX?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/bmV0ZmxpeC5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/NFLX?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NFLX?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 10 entries.
@@ -394,6 +401,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets
