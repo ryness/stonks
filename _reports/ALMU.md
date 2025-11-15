@@ -2,34 +2,34 @@
 layout: default
 title: "ALMU Stock Report"
 ticker: "ALMU"
-date: 2025-11-14
-generated_at: 2025-11-14T22:26:34.181989+00:00
-runtime_seconds: 118.99
+date: 2025-11-15
+generated_at: 2025-11-15T12:48:08.825660+00:00
+runtime_seconds: 74.76
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T22:26:34.181989+00:00">2025-11-14 22:26 UTC</time> (runtime 1m 59s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T12:48:08.825660+00:00">2025-11-15 12:48 UTC</time> (runtime 1m 15s)
   
   ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — 3mo positioning is near-bottom (1yr/5yr middle) and macro froth visibility is limited; shares are in a downtrend near 7d support 12.97 and below the 20-DMA 15.34 and SMA/EMA ~16.5
+  0.1. **Long Entry?:** maybe — 3mo is near-bottom while 1yr is middle, suggesting no extreme historical froth/extension; macro froth visibility is limited; price is below the 20DMA (15.34) and SMA/EMA (~16.6/16.4) and sits just above support 12.97 with resistance 15.95.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Aeluma designs and manufactures optoelectronic devices for sensing and communications using high-performance compound semiconductor materials on large-diameter substrates. It is developing sensor technology for mobile devices and vehicles and broader communications applications. End-use areas include mobile, automotive, AI, defense & aerospace, communications, AR/VR, and quantum computing.
+  1.1. **Activities:** Aeluma develops novel optoelectronic semiconductor devices for sensing and communications, manufacturing on large-diameter substrates using high-performance compound materials. Its technology targets mobile devices and vehicles and extends to applications in AI, defense & aerospace, communications, AR/VR, and quantum computing. The company focuses on sensors and communications components that enable high-performance detection and data links.
   
-  1.2. **Profitable?:** no — profit margin is -67.97% and free cash flow is negative; timing to profitability is not provided.
+  1.2. **Profitable?:** No — it has a negative profit margin (-0.67966) and negative free and operating cash flow, with no stated timeline to profitability in the provided data.
   
-  1.3. **Customer & Markets:** Its primary customers are in mobile devices, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing applications. Markets served include the United States, focused on sensing and communications use cases.
+  1.3. **Customer & Markets:** Aeluma serves customers in mobile, automotive, communications, and defense & aerospace, with recent revenue driven by R&D and government contracts. Its primary markets are U.S.-based technology and defense sectors spanning AI, AR/VR, and quantum computing applications.
   
-  1.4. **Competition:** Primary competitors include NVIDIA, AMD, Intel, and Qualcomm; relative market ranking for Aeluma is not disclosed.
+  1.4. **Competition:** Primary competitors include NVIDIA, AMD, Intel, and Qualcomm in semiconductors and sensing/communications. Aeluma operates as a specialized optoelectronic sensor developer alongside these larger, diversified peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price slipped from a local high ~15.80 toward 13.65 and remains below the 20-DMA 15.34.
+  2.1. **7d Trend?:** down — shares slid from a local high near 15.80 to 13.65 and trade below the 20DMA (15.34).
   
-  2.2. **7d Buy/Sell Points?:** Good buy levels were near 13.53 (close to 7d support 12.97); good sell zones were near 15.80–15.95 resistance.
+  2.2. **7d Buy/Sell Points?:** Buys: near 13.53 and the 7d/30d support at 12.97. Sells: around 15.80–15.95 near recent local highs/resistance.
   
   2.3.1. **7d Volume:** med
   
@@ -37,13 +37,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Aeluma is a U.S. semiconductor company developing optoelectronic sensors and communications devices. It strengthened its balance sheet with an oversubscribed $25.4M offering, bringing cash to $39.2M, and acquired capital equipment to accelerate manufacturing readiness. However, profitability metrics are negative (profit margin -0.68, free cash flow -$2.30M) and operating cash flow is negative. With no upcoming earnings date listed, it appears better capitalized but not yet financially stable as it transitions toward commercialization.
+  3.1. **Stability?:** Aeluma is an early-stage U.S. semiconductor company that recently strengthened its capital base with an oversubscribed $25.4M offering, lifting cash to $39.2M. It remains unprofitable with negative operating and free cash flow, indicating reliance on external funding as it scales. Price action shows high volatility (ATR ~8.3% of price), which adds risk. Overall, it is better-capitalized post-raise but not yet a mature, cash-generating institution.
   
-  3.2. **Innovating?:** It is innovating and growing, developing novel optoelectronic devices and adding manufacturing/test capability. Revenue jumped about 367% in fiscal Q4, supported by R&D contracts.
+  3.2. **Innovating?:** It is innovating and scaling, evidenced by acquiring significant capital equipment to accelerate manufacturing readiness and a 366.7% year-over-year revenue jump driven by R&D contracts. This points to active development and early commercial traction.
   
   ## 4. Context
   
-  4.1. **News:** Recent updates highlight execution toward commercialization: an oversubscribed public offering raised $25.4M (cash to $39.2M), the acquisition of capital equipment to speed manufacturing readiness, and Q4 FY2025 revenue up ~366.7% to $1.3M driven by R&D contracts, alongside government wins and a NASDAQ uplisting. These are solid operational milestones that improve capacity and liquidity. Despite this, the 7d trend is down and shares sit below key moving averages. In the context of ‘buy the rumor, sell the news,’ quick facts indicate ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting neither rumor-driven spikes nor post-news selloffs have dominated.
+  4.1. **News:** Recent updates highlight execution: an oversubscribed public offering raised $25.4M (cash to $39.2M) to support commercialization, acquisition of major capital equipment to speed manufacturing readiness, and a 366.7% year-over-year Q4 FY2025 revenue jump driven by R&D and government contracts. A NASDAQ uplisting and capital raise improved its financial position while new tools target wafer-scale testing and prototyping. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no', implying limited rumor-driven pops and no immediate sell-the-news reaction to these milestones.
   
   4.2. **Tarrifs:** unknown
   
@@ -53,7 +53,7 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$-3.02M</td></tr>
+  <tr><td>Last Q4</td><td>$-2.29M</td></tr>
   <tr><td>Price</td><td>13.65</td></tr>
   <tr><td>7d Resistance</td><td>15.95</td></tr>
   <tr><td>7d Support</td><td>12.97</td></tr>
@@ -76,7 +76,8 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, rumors</li>
+  <li>The Guardian: market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -87,12 +88,12 @@ raw_markdown: |
   Gathering context for ALMU...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/ALMU?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -127,28 +128,10 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; ALMU core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+core+business&amp;num=5
-  Google Custom Search failed for &#x27;ALMU core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; ALMU product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;ALMU product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; ALMU business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ALMU business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -160,28 +143,10 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; ALMU profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+profitability&amp;num=5
-  Google Custom Search failed for &#x27;ALMU profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; ALMU earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;ALMU earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; ALMU profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ALMU profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -193,28 +158,10 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; ALMU target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;ALMU target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; ALMU market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;ALMU market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; ALMU market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ALMU market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -226,16 +173,7 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; ALMU competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+competitors&amp;num=5
-  Google Custom Search failed for &#x27;ALMU competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; ALMU market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+market+share&amp;num=5
   Google Custom Search failed for &#x27;ALMU market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -259,16 +197,7 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; ALMU rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+rumors&amp;num=5
-  Google Custom Search failed for &#x27;ALMU rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=ALMU+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=ALMU+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; ALMU tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariffs+news&amp;num=5
   Google Custom Search failed for &#x27;ALMU tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -363,30 +292,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T22:26:34.181989+00:00">2025-11-14 22:26 UTC</time> (runtime 1m 59s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T12:48:08.825660+00:00">2025-11-15 12:48 UTC</time> (runtime 1m 15s)
 
 ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — 3mo positioning is near-bottom (1yr/5yr middle) and macro froth visibility is limited; shares are in a downtrend near 7d support 12.97 and below the 20-DMA 15.34 and SMA/EMA ~16.5
+0.1. **Long Entry?:** maybe — 3mo is near-bottom while 1yr is middle, suggesting no extreme historical froth/extension; macro froth visibility is limited; price is below the 20DMA (15.34) and SMA/EMA (~16.6/16.4) and sits just above support 12.97 with resistance 15.95.
 
 ## 1. The Biz
 
-1.1. **Activities:** Aeluma designs and manufactures optoelectronic devices for sensing and communications using high-performance compound semiconductor materials on large-diameter substrates. It is developing sensor technology for mobile devices and vehicles and broader communications applications. End-use areas include mobile, automotive, AI, defense & aerospace, communications, AR/VR, and quantum computing.
+1.1. **Activities:** Aeluma develops novel optoelectronic semiconductor devices for sensing and communications, manufacturing on large-diameter substrates using high-performance compound materials. Its technology targets mobile devices and vehicles and extends to applications in AI, defense & aerospace, communications, AR/VR, and quantum computing. The company focuses on sensors and communications components that enable high-performance detection and data links.
 
-1.2. **Profitable?:** no — profit margin is -67.97% and free cash flow is negative; timing to profitability is not provided.
+1.2. **Profitable?:** No — it has a negative profit margin (-0.67966) and negative free and operating cash flow, with no stated timeline to profitability in the provided data.
 
-1.3. **Customer & Markets:** Its primary customers are in mobile devices, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing applications. Markets served include the United States, focused on sensing and communications use cases.
+1.3. **Customer & Markets:** Aeluma serves customers in mobile, automotive, communications, and defense & aerospace, with recent revenue driven by R&D and government contracts. Its primary markets are U.S.-based technology and defense sectors spanning AI, AR/VR, and quantum computing applications.
 
-1.4. **Competition:** Primary competitors include NVIDIA, AMD, Intel, and Qualcomm; relative market ranking for Aeluma is not disclosed.
+1.4. **Competition:** Primary competitors include NVIDIA, AMD, Intel, and Qualcomm in semiconductors and sensing/communications. Aeluma operates as a specialized optoelectronic sensor developer alongside these larger, diversified peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price slipped from a local high ~15.80 toward 13.65 and remains below the 20-DMA 15.34.
+2.1. **7d Trend?:** down — shares slid from a local high near 15.80 to 13.65 and trade below the 20DMA (15.34).
 
-2.2. **7d Buy/Sell Points?:** Good buy levels were near 13.53 (close to 7d support 12.97); good sell zones were near 15.80–15.95 resistance.
+2.2. **7d Buy/Sell Points?:** Buys: near 13.53 and the 7d/30d support at 12.97. Sells: around 15.80–15.95 near recent local highs/resistance.
 
 2.3.1. **7d Volume:** med
 
@@ -394,13 +323,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Aeluma is a U.S. semiconductor company developing optoelectronic sensors and communications devices. It strengthened its balance sheet with an oversubscribed $25.4M offering, bringing cash to $39.2M, and acquired capital equipment to accelerate manufacturing readiness. However, profitability metrics are negative (profit margin -0.68, free cash flow -$2.30M) and operating cash flow is negative. With no upcoming earnings date listed, it appears better capitalized but not yet financially stable as it transitions toward commercialization.
+3.1. **Stability?:** Aeluma is an early-stage U.S. semiconductor company that recently strengthened its capital base with an oversubscribed $25.4M offering, lifting cash to $39.2M. It remains unprofitable with negative operating and free cash flow, indicating reliance on external funding as it scales. Price action shows high volatility (ATR ~8.3% of price), which adds risk. Overall, it is better-capitalized post-raise but not yet a mature, cash-generating institution.
 
-3.2. **Innovating?:** It is innovating and growing, developing novel optoelectronic devices and adding manufacturing/test capability. Revenue jumped about 367% in fiscal Q4, supported by R&D contracts.
+3.2. **Innovating?:** It is innovating and scaling, evidenced by acquiring significant capital equipment to accelerate manufacturing readiness and a 366.7% year-over-year revenue jump driven by R&D contracts. This points to active development and early commercial traction.
 
 ## 4. Context
 
-4.1. **News:** Recent updates highlight execution toward commercialization: an oversubscribed public offering raised $25.4M (cash to $39.2M), the acquisition of capital equipment to speed manufacturing readiness, and Q4 FY2025 revenue up ~366.7% to $1.3M driven by R&D contracts, alongside government wins and a NASDAQ uplisting. These are solid operational milestones that improve capacity and liquidity. Despite this, the 7d trend is down and shares sit below key moving averages. In the context of ‘buy the rumor, sell the news,’ quick facts indicate ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting neither rumor-driven spikes nor post-news selloffs have dominated.
+4.1. **News:** Recent updates highlight execution: an oversubscribed public offering raised $25.4M (cash to $39.2M) to support commercialization, acquisition of major capital equipment to speed manufacturing readiness, and a 366.7% year-over-year Q4 FY2025 revenue jump driven by R&D and government contracts. A NASDAQ uplisting and capital raise improved its financial position while new tools target wafer-scale testing and prototyping. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no', implying limited rumor-driven pops and no immediate sell-the-news reaction to these milestones.
 
 4.2. **Tarrifs:** unknown
 
@@ -410,7 +339,7 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$-3.02M</td></tr>
+<tr><td>Last Q4</td><td>$-2.29M</td></tr>
 <tr><td>Price</td><td>13.65</td></tr>
 <tr><td>7d Resistance</td><td>15.95</td></tr>
 <tr><td>7d Support</td><td>12.97</td></tr>
@@ -433,7 +362,8 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, rumors</li>
+<li>The Guardian: market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -444,12 +374,12 @@ raw_markdown: |
 Gathering context for ALMU...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/ALMU/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/ALMU?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -484,28 +414,10 @@ Massive news: collected 4 articles.
 Running supplementary searches...
   google_custom_search search -&gt; ALMU core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+core+business&amp;num=5
-Google Custom Search failed for &#x27;ALMU core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; ALMU product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;ALMU product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; ALMU business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ALMU business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -517,28 +429,10 @@ Guardian search: GET https://content.guardianapis.com/search?q=ALMU+business+mod
     guardian: 5 result(s)
   google_custom_search search -&gt; ALMU profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+profitability&amp;num=5
-Google Custom Search failed for &#x27;ALMU profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; ALMU earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;ALMU earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; ALMU profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ALMU profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -550,28 +444,10 @@ Guardian search: GET https://content.guardianapis.com/search?q=ALMU+profit+outlo
     guardian: 5 result(s)
   google_custom_search search -&gt; ALMU target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+target+customers&amp;num=5
-Google Custom Search failed for &#x27;ALMU target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; ALMU market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+market+segments&amp;num=5
-Google Custom Search failed for &#x27;ALMU market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; ALMU market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ALMU market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -583,16 +459,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=ALMU+market+expan
     guardian: 5 result(s)
   google_custom_search search -&gt; ALMU competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+competitors&amp;num=5
-Google Custom Search failed for &#x27;ALMU competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; ALMU market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+market+share&amp;num=5
 Google Custom Search failed for &#x27;ALMU market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -616,16 +483,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=ALMU+competitive+
     guardian: 5 result(s)
   google_custom_search search -&gt; ALMU rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+rumors&amp;num=5
-Google Custom Search failed for &#x27;ALMU rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=ALMU+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=ALMU+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; ALMU tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariffs+news&amp;num=5
 Google Custom Search failed for &#x27;ALMU tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
