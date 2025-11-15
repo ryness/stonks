@@ -3,33 +3,33 @@ layout: default
 title: "PYPL Stock Report"
 ticker: "PYPL"
 date: 2025-11-15
-generated_at: 2025-11-15T04:30:06.261641+00:00
-runtime_seconds: 89.10
+generated_at: 2025-11-15T16:29:08.115376+00:00
+runtime_seconds: 74.88
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T04:30:06.261641+00:00">2025-11-15 04:30 UTC</time> (runtime 1m 29s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T16:29:08.115376+00:00">2025-11-15 16:29 UTC</time> (runtime 1m 15s)
   
   ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — at a 1yr/5yr near-bottom with oversold readings per quick facts and a 7d downtrend; macro froth visibility is limited, and price sits at 62.81 on 62.75 support and well below the ~20-DMA/EMA (~68) with nearby resistance ~68.07.
+  0.1. **Long Entry?:** maybe — shares sit near 1yr/5yr near-bottom levels and are oversold with price 62.81 parked around support 62.75; macro froth visibility is limited, and it trades below the 20DMA/SMA/EMA (~68.0–68.5) and resistance 68.07 in a downtrend
   
   ## 1. The Biz
   
-  1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers focused on online transactions. Its platform includes checkout, digital wallets, and processing, and it owns Venmo for person-to-person payments. The company reported 434 million active accounts at the end of 2024.
+  1.1. **Activities:** PayPal provides electronic payment solutions to merchants and consumers for online transactions and owns Venmo for person-to-person payments. Spun off from eBay in 2015, it reported 434 million active accounts at the end of 2024. Its platforms facilitate checkout and money movement across its ecosystem.
   
-  1.2. **Profitable?:** Yes — it is profitable, with recent positive net income totaling about $4.92B, a ~15% profit margin, and positive free cash flow.
+  1.2. **Profitable?:** yes — it is profitable with recent net income totaling $4.917B, a ~15% profit margin, and positive free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are merchants/e-commerce sellers and consumers transacting online via PayPal and Venmo. It serves online retail and digital services markets, with operations based in the United States.
+  1.3. **Customer & Markets:** Primary customers are merchants and consumers transacting online, along with Venmo users for peer-to-peer payments. Markets include digital payments and P2P payments; the company is based in the United States and reported 434 million active accounts at the end of 2024.
   
-  1.4. **Competition:** Competitors include Apple (AAPL), Visa (V), Shopify (SHOP), Coinbase (COIN), and Affirm (AFRM). With 434M active accounts, it is one of the large players in online payments among these rivals.
+  1.4. **Competition:** Competitors include Visa (V), Apple (AAPL), Amazon (AMZN), Shopify (SHOP), Affirm (AFRM), Coinbase (COIN), and platforms like eBay, Robinhood (HOOD), and SoFi (SOFI). Relative ranking versus these rivals is not provided in the data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares closed at 62.81 below the 20-day average (~68.04) and near 7d support at 62.75.
+  2.1. **7d Trend?:** down — the stock closed at 62.81 near 7d support 62.75 and below ~68.07 resistance, with a trend label of downtrend.
   
-  2.2. **7d Buy/Sell Points?:** Buys near 64.78 or the 62.75 support looked favorable; sells into 67.99–68.07 resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 62.75–64.78 (support/suggested buy zone) and selling near 67.99–68.07 (local high/7d resistance) were favorable levels.
   
   2.3.1. **7d Volume:** high
   
@@ -37,13 +37,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** PayPal is a standalone company since its 2015 spin-off from eBay, with 434 million active accounts indicating scale. It generates solid profitability ($4.92B recent net income) and strong cash flow ($6.43B operating and $3.13B free cash flow), supporting durability. As a U.S.-based Financial Services firm in Credit Services, it operates at scale across online payments. While balance sheet specifics aren’t provided, sustained profits and cash generation point to a generally stable institution.
+  3.1. **Stability?:** PayPal has operated as a standalone public company since its 2015 spin-off, with 434 million active accounts reported at the end of 2024. It generates consistent profitability (recent net income values positive; ~15% profit margin) and strong cash generation (operating cash flow ~$6.43B and free cash flow ~$3.13B). These fundamentals suggest a durable, scaled platform rather than a fly-by-night operation. No upcoming earnings date is listed in the provided data.
   
-  3.2. **Innovating?:** It is innovating and growing, evidenced by Venmo and support for crypto buy/sell via PayPal, alongside 7.3% revenue growth and 23.6% earnings growth.
+  3.2. **Innovating?:** It is innovating and growing, including enabling cryptocurrency buy/sell via PayPal and expanding Venmo, with revenue growth of 7.3% and earnings growth of 23.6%. Coverage also highlights PayPal among the cheapest growth stocks, underscoring product and growth focus.
   
   ## 4. Context
   
-  4.1. **News:** Recent mentions frame PayPal as a cheap growth stock and note that users can buy and sell cryptocurrency via PayPal. Prior coverage urged caution into its late-October earnings given past post-report drops. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited rumor-driven spikes. In this context, the adage cautions against chasing headlines, and recent news hasn’t consistently produced sell-the-news reactions.
+  4.1. **News:** Recent coverage highlights PayPal as one of the “cheapest growth stocks to buy right now” and notes that PayPal is among the platforms where investors can buy and sell cryptocurrency. Broader crypto headlines (e.g., XRP’s rally discussion) keep digital payments in focus but do not present a PayPal-specific catalyst. The quick facts show “Buy the rumor? no” and “Sell the news? no,” implying little actionable rumor/news skew. With high recent volume and a downtrend, any headline-driven moves may be fleeting, and the items lean more toward valuation commentary than discrete news triggers.
   
   4.2. **Tarrifs:** unknown
   
@@ -76,8 +76,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>NewsAPI: core business, profitability, earnings trend, target customers, business model, profit outlook</li>
-  <li>The Guardian: product portfolio, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -93,7 +92,7 @@ raw_markdown: |
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -130,60 +129,100 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+core+business&amp;num=5
   Google Custom Search failed for &#x27;PYPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PYPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+product+portfolio&amp;num=5
   Google Custom Search failed for &#x27;PYPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search failed for &#x27;PYPL business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PYPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+profitability&amp;num=5
   Google Custom Search failed for &#x27;PYPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PYPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+earnings+trend&amp;num=5
   Google Custom Search failed for &#x27;PYPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search failed for &#x27;PYPL profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
   Google Custom Search failed for &#x27;PYPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; PYPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+segments&amp;num=5
   Google Custom Search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
@@ -191,10 +230,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+share&amp;num=5
@@ -202,18 +242,20 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
@@ -221,10 +263,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariffs+news&amp;num=5
@@ -232,34 +275,38 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+latest+rumor&amp;num=5
@@ -267,18 +314,20 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; PYPL tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; PYPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariff+impact&amp;num=5
@@ -286,10 +335,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;PYPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -313,30 +363,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T04:30:06.261641+00:00">2025-11-15 04:30 UTC</time> (runtime 1m 29s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T16:29:08.115376+00:00">2025-11-15 16:29 UTC</time> (runtime 1m 15s)
 
 ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — at a 1yr/5yr near-bottom with oversold readings per quick facts and a 7d downtrend; macro froth visibility is limited, and price sits at 62.81 on 62.75 support and well below the ~20-DMA/EMA (~68) with nearby resistance ~68.07.
+0.1. **Long Entry?:** maybe — shares sit near 1yr/5yr near-bottom levels and are oversold with price 62.81 parked around support 62.75; macro froth visibility is limited, and it trades below the 20DMA/SMA/EMA (~68.0–68.5) and resistance 68.07 in a downtrend
 
 ## 1. The Biz
 
-1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers focused on online transactions. Its platform includes checkout, digital wallets, and processing, and it owns Venmo for person-to-person payments. The company reported 434 million active accounts at the end of 2024.
+1.1. **Activities:** PayPal provides electronic payment solutions to merchants and consumers for online transactions and owns Venmo for person-to-person payments. Spun off from eBay in 2015, it reported 434 million active accounts at the end of 2024. Its platforms facilitate checkout and money movement across its ecosystem.
 
-1.2. **Profitable?:** Yes — it is profitable, with recent positive net income totaling about $4.92B, a ~15% profit margin, and positive free cash flow.
+1.2. **Profitable?:** yes — it is profitable with recent net income totaling $4.917B, a ~15% profit margin, and positive free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are merchants/e-commerce sellers and consumers transacting online via PayPal and Venmo. It serves online retail and digital services markets, with operations based in the United States.
+1.3. **Customer & Markets:** Primary customers are merchants and consumers transacting online, along with Venmo users for peer-to-peer payments. Markets include digital payments and P2P payments; the company is based in the United States and reported 434 million active accounts at the end of 2024.
 
-1.4. **Competition:** Competitors include Apple (AAPL), Visa (V), Shopify (SHOP), Coinbase (COIN), and Affirm (AFRM). With 434M active accounts, it is one of the large players in online payments among these rivals.
+1.4. **Competition:** Competitors include Visa (V), Apple (AAPL), Amazon (AMZN), Shopify (SHOP), Affirm (AFRM), Coinbase (COIN), and platforms like eBay, Robinhood (HOOD), and SoFi (SOFI). Relative ranking versus these rivals is not provided in the data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares closed at 62.81 below the 20-day average (~68.04) and near 7d support at 62.75.
+2.1. **7d Trend?:** down — the stock closed at 62.81 near 7d support 62.75 and below ~68.07 resistance, with a trend label of downtrend.
 
-2.2. **7d Buy/Sell Points?:** Buys near 64.78 or the 62.75 support looked favorable; sells into 67.99–68.07 resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near 62.75–64.78 (support/suggested buy zone) and selling near 67.99–68.07 (local high/7d resistance) were favorable levels.
 
 2.3.1. **7d Volume:** high
 
@@ -344,13 +394,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** PayPal is a standalone company since its 2015 spin-off from eBay, with 434 million active accounts indicating scale. It generates solid profitability ($4.92B recent net income) and strong cash flow ($6.43B operating and $3.13B free cash flow), supporting durability. As a U.S.-based Financial Services firm in Credit Services, it operates at scale across online payments. While balance sheet specifics aren’t provided, sustained profits and cash generation point to a generally stable institution.
+3.1. **Stability?:** PayPal has operated as a standalone public company since its 2015 spin-off, with 434 million active accounts reported at the end of 2024. It generates consistent profitability (recent net income values positive; ~15% profit margin) and strong cash generation (operating cash flow ~$6.43B and free cash flow ~$3.13B). These fundamentals suggest a durable, scaled platform rather than a fly-by-night operation. No upcoming earnings date is listed in the provided data.
 
-3.2. **Innovating?:** It is innovating and growing, evidenced by Venmo and support for crypto buy/sell via PayPal, alongside 7.3% revenue growth and 23.6% earnings growth.
+3.2. **Innovating?:** It is innovating and growing, including enabling cryptocurrency buy/sell via PayPal and expanding Venmo, with revenue growth of 7.3% and earnings growth of 23.6%. Coverage also highlights PayPal among the cheapest growth stocks, underscoring product and growth focus.
 
 ## 4. Context
 
-4.1. **News:** Recent mentions frame PayPal as a cheap growth stock and note that users can buy and sell cryptocurrency via PayPal. Prior coverage urged caution into its late-October earnings given past post-report drops. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited rumor-driven spikes. In this context, the adage cautions against chasing headlines, and recent news hasn’t consistently produced sell-the-news reactions.
+4.1. **News:** Recent coverage highlights PayPal as one of the “cheapest growth stocks to buy right now” and notes that PayPal is among the platforms where investors can buy and sell cryptocurrency. Broader crypto headlines (e.g., XRP’s rally discussion) keep digital payments in focus but do not present a PayPal-specific catalyst. The quick facts show “Buy the rumor? no” and “Sell the news? no,” implying little actionable rumor/news skew. With high recent volume and a downtrend, any headline-driven moves may be fleeting, and the items lean more toward valuation commentary than discrete news triggers.
 
 4.2. **Tarrifs:** unknown
 
@@ -383,8 +433,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>NewsAPI: core business, profitability, earnings trend, target customers, business model, profit outlook</li>
-<li>The Guardian: product portfolio, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -400,7 +449,7 @@ massive.com request failed (massive.com returned no price data); switching to yf
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/PYPL/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -437,60 +486,100 @@ Running supplementary searches...
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+core+business&amp;num=5
 Google Custom Search failed for &#x27;PYPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PYPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+product+portfolio&amp;num=5
 Google Custom Search failed for &#x27;PYPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search failed for &#x27;PYPL business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PYPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+profitability&amp;num=5
 Google Custom Search failed for &#x27;PYPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PYPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+earnings+trend&amp;num=5
 Google Custom Search failed for &#x27;PYPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search failed for &#x27;PYPL profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
 Google Custom Search failed for &#x27;PYPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; PYPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+segments&amp;num=5
 Google Custom Search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
@@ -498,10 +587,11 @@ Google Custom Search failed for &#x27;PYPL competitors&#x27;: 429 Client Error: 
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+share&amp;num=5
@@ -509,18 +599,20 @@ Google Custom Search failed for &#x27;PYPL market share&#x27;: 429 Client Error:
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
@@ -528,10 +620,11 @@ Google Custom Search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too M
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariffs+news&amp;num=5
@@ -539,34 +632,38 @@ Google Custom Search failed for &#x27;PYPL tariffs news&#x27;: 429 Client Error:
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+latest+rumor&amp;num=5
@@ -574,18 +671,20 @@ Google Custom Search failed for &#x27;PYPL latest rumor&#x27;: 429 Client Error:
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; PYPL tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; PYPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariff+impact&amp;num=5
@@ -593,10 +692,11 @@ Google Custom Search failed for &#x27;PYPL tariff impact&#x27;: 429 Client Error
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;PYPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
