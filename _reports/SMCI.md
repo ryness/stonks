@@ -3,33 +3,33 @@ layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
 date: 2025-11-15
-generated_at: 2025-11-15T06:36:09.140562+00:00
-runtime_seconds: 83.57
+generated_at: 2025-11-15T18:33:59.438123+00:00
+runtime_seconds: 99.80
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T06:36:09.140562+00:00">2025-11-15 06:36 UTC</time> (runtime 1m 24s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T18:33:59.438123+00:00">2025-11-15 18:33 UTC</time> (runtime 1m 40s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — tech froth risk is elevated as October saw heavy shorting and stretched valuations in tech, and shares trade at 36.42 well below the 20-DMA/EMA (46.31/46.81) in a downtrend; while 3mo positioning is near-bottom and price sits above 33.69 support, it remains under 42.82 resistance.
+  0.1. **Long Entry?:** maybe — positioned near its 3mo near-bottom while tech froth risk is flagged by October shorting/valuation concerns; trading well below the 20DMA/SMA (~46–48) and just above 7d/30d support at 33.69 with resistance at 42.82.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer provides high-performance server and storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and server management, with turnkey solutions designed for AI datacenters. It operates as a single segment focused on developing and delivering server solutions based on a modular, open-standard architecture to cloud computing, data center, high-performance computing, and IoT embedded markets.
+  1.1. **Activities:** Super Micro Computer provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio spans servers, storage systems, modular blades, workstations, full-rack solutions, networking devices, server sub-systems, and management, with turnkey systems designed, developed, validated, and installed for AI datacenters. It operates as a single segment built on a modular, open-standard architecture.
   
-  1.2. **Profitable?:** Yes — it reports positive net income and a ~3.8% profit margin, though earnings growth is -60% and free cash flow is slightly negative.
+  1.2. **Profitable?:** Yes — it is profitable with positive net income totaling $792.81M and a 3.77% profit margin, though revenue (-15.5%) and earnings (-60.3%) growth are negative.
   
-  1.3. **Customer & Markets:** Primary customers span cloud service providers, enterprise/data centers, high-performance computing users, and IoT/embedded deployments. More than half of revenue is generated in the United States, with the remainder from Europe, Asia, and other regions.
+  1.3. **Customer & Markets:** Primary customers are cloud providers, enterprise/data-center operators, high-performance computing users, and IoT/embedded system buyers. More than half of revenue comes from the United States, with the remainder from Europe, Asia, and other regions.
   
-  1.4. **Competition:** Competitors include server hardware providers such as Dell (DELL) and Hewlett Packard Enterprise (HPE), alongside broader AI/data center ecosystem players (e.g., NVDA, INTC, AMD); relative market rank is not specified in the provided data.
+  1.4. **Competition:** Primary competitors include DELL and HPE in server hardware, with overlap against NVDA and AMD (AI compute) and platforms from GOOGL, MSFT, and META in AI datacenter infrastructure. SMCI is a specialized high-performance server provider rather than a diversified mega-cap peer.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d trend is down and price closed 36.42 below the recent local low 38.14 and under the 20-DMA/EMA.
+  2.1. **7d Trend?:** down — the 7d trend is down and price slid from a local high of 41.63 to 36.42 while testing 33.69 support.
   
-  2.2. **7d Buy/Sell Points?:** Buys looked better near 33.69–38.14 (support/local lows), while 41.63–42.82 (local high/near-term resistance) offered logical sells.
+  2.2. **7d Buy/Sell Points?:** Buys near 33.69–38.14 (7d support/suggested buy zone); sells near 41.63–42.82 (suggested sell zone/7d resistance).
   
   2.3.1. **7d Volume:** med
   
@@ -37,13 +37,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This appears to be a relatively established U.S.-based server hardware provider with a diversified revenue base (majority U.S., plus Europe/Asia/other). Profitability is positive (profit margin ~3.8% and cumulative net income of ~$792.8M across recent periods), and operating cash flow is positive. However, revenue (-15.5%) and earnings (-60.3%) are declining and free cash flow is slightly negative, indicating near-term pressure. Balance sheet details (debt/cash) are not provided in the data, limiting a full stability assessment.
+  3.1. **Stability?:** Super Micro Computer appears more established than a fly-by-night, with ongoing profitability (3.77% margin) and positive operating cash flow of $333.10M. It serves diversified end-markets across the U.S., Europe, Asia, and other regions, and offers a broad portfolio of high-performance server solutions. However, free cash flow was slightly negative and revenue/earnings declined (-15.5%/-60.3%), signaling near-term pressure. Its shares exhibit high volatility (ATR ~7.6% of price), which may add risk despite fundamental scale.
   
-  3.2. **Innovating?:** It is innovating and expanding, highlighted by AI datacenter turnkey solutions, expanded collaboration with NVIDIA, and the creation of Super Micro Federal LLC to target federal markets; management has also outlined an up to $11B next-quarter sales outlook and at least $36B for fiscal 2026, albeit with margin pressure noted.
+  3.2. **Innovating?:** It is innovating and targeting growth in AI datacenters, with turnkey systems for new Nvidia-equipped hardware and a strong order backdrop. Management projected up to $11B in next-quarter sales and at least $36B for fiscal 2026 despite near-term margin pressure.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage points to a 2025 comeback narrative while also noting a tough quarter with a 15% revenue decline and short-term margin pressure. Management and analysts highlight strong AI-driven demand with guidance of up to $11B in next-quarter sales and at least $36B for fiscal 2026, supported by NVIDIA-equipped systems and backlog. At the same time, tech stocks faced heavy shorting in October amid stretched valuations, signaling caution. Considering the buy-the-rumor, sell-the-news adage, bullish forecasts could face skepticism given macro froth, and quick facts flag no clear buy-the-rumor or sell-the-news signals.
+  4.1. **News:** Recent coverage highlights SMCI as part of 2025 comeback names and notes guidance for up to $11B in next-quarter revenue and a minimum $36B for fiscal 2026. Conversely, the latest quarter showed a 15% revenue decline and margin pressure, even as new Nvidia-based systems and backlog support future growth. Broader tech faced elevated short interest and valuation stretch in October, adding macro headwinds. Quick Facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting the adage is not clearly driving the stock now.
   
   4.2. **Tarrifs:** unknown
   
@@ -76,9 +76,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, business model, profit outlook</li>
-  <li>GNews: competitors, market expansion, latest news</li>
-  <li>The Guardian: market segments, market share, rumors, tariffs news, latest rumor, tariff impact, competitive landscape, rumor, tariff, tariffs</li>
+  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -131,82 +129,133 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
   Google Custom Search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
   Google Custom Search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;SMCI business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
   Google Custom Search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
   Google Custom Search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
   Google Custom Search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
   Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 3 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
   Google Custom Search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
   Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
@@ -214,10 +263,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
@@ -225,54 +275,59 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;SMCI tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;SMCI tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 4 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
   Google Custom Search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;SMCI latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
@@ -280,10 +335,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;SMCI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -307,30 +363,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T06:36:09.140562+00:00">2025-11-15 06:36 UTC</time> (runtime 1m 24s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T18:33:59.438123+00:00">2025-11-15 18:33 UTC</time> (runtime 1m 40s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — tech froth risk is elevated as October saw heavy shorting and stretched valuations in tech, and shares trade at 36.42 well below the 20-DMA/EMA (46.31/46.81) in a downtrend; while 3mo positioning is near-bottom and price sits above 33.69 support, it remains under 42.82 resistance.
+0.1. **Long Entry?:** maybe — positioned near its 3mo near-bottom while tech froth risk is flagged by October shorting/valuation concerns; trading well below the 20DMA/SMA (~46–48) and just above 7d/30d support at 33.69 with resistance at 42.82.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer provides high-performance server and storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and server management, with turnkey solutions designed for AI datacenters. It operates as a single segment focused on developing and delivering server solutions based on a modular, open-standard architecture to cloud computing, data center, high-performance computing, and IoT embedded markets.
+1.1. **Activities:** Super Micro Computer provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio spans servers, storage systems, modular blades, workstations, full-rack solutions, networking devices, server sub-systems, and management, with turnkey systems designed, developed, validated, and installed for AI datacenters. It operates as a single segment built on a modular, open-standard architecture.
 
-1.2. **Profitable?:** Yes — it reports positive net income and a ~3.8% profit margin, though earnings growth is -60% and free cash flow is slightly negative.
+1.2. **Profitable?:** Yes — it is profitable with positive net income totaling $792.81M and a 3.77% profit margin, though revenue (-15.5%) and earnings (-60.3%) growth are negative.
 
-1.3. **Customer & Markets:** Primary customers span cloud service providers, enterprise/data centers, high-performance computing users, and IoT/embedded deployments. More than half of revenue is generated in the United States, with the remainder from Europe, Asia, and other regions.
+1.3. **Customer & Markets:** Primary customers are cloud providers, enterprise/data-center operators, high-performance computing users, and IoT/embedded system buyers. More than half of revenue comes from the United States, with the remainder from Europe, Asia, and other regions.
 
-1.4. **Competition:** Competitors include server hardware providers such as Dell (DELL) and Hewlett Packard Enterprise (HPE), alongside broader AI/data center ecosystem players (e.g., NVDA, INTC, AMD); relative market rank is not specified in the provided data.
+1.4. **Competition:** Primary competitors include DELL and HPE in server hardware, with overlap against NVDA and AMD (AI compute) and platforms from GOOGL, MSFT, and META in AI datacenter infrastructure. SMCI is a specialized high-performance server provider rather than a diversified mega-cap peer.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d trend is down and price closed 36.42 below the recent local low 38.14 and under the 20-DMA/EMA.
+2.1. **7d Trend?:** down — the 7d trend is down and price slid from a local high of 41.63 to 36.42 while testing 33.69 support.
 
-2.2. **7d Buy/Sell Points?:** Buys looked better near 33.69–38.14 (support/local lows), while 41.63–42.82 (local high/near-term resistance) offered logical sells.
+2.2. **7d Buy/Sell Points?:** Buys near 33.69–38.14 (7d support/suggested buy zone); sells near 41.63–42.82 (suggested sell zone/7d resistance).
 
 2.3.1. **7d Volume:** med
 
@@ -338,13 +394,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** This appears to be a relatively established U.S.-based server hardware provider with a diversified revenue base (majority U.S., plus Europe/Asia/other). Profitability is positive (profit margin ~3.8% and cumulative net income of ~$792.8M across recent periods), and operating cash flow is positive. However, revenue (-15.5%) and earnings (-60.3%) are declining and free cash flow is slightly negative, indicating near-term pressure. Balance sheet details (debt/cash) are not provided in the data, limiting a full stability assessment.
+3.1. **Stability?:** Super Micro Computer appears more established than a fly-by-night, with ongoing profitability (3.77% margin) and positive operating cash flow of $333.10M. It serves diversified end-markets across the U.S., Europe, Asia, and other regions, and offers a broad portfolio of high-performance server solutions. However, free cash flow was slightly negative and revenue/earnings declined (-15.5%/-60.3%), signaling near-term pressure. Its shares exhibit high volatility (ATR ~7.6% of price), which may add risk despite fundamental scale.
 
-3.2. **Innovating?:** It is innovating and expanding, highlighted by AI datacenter turnkey solutions, expanded collaboration with NVIDIA, and the creation of Super Micro Federal LLC to target federal markets; management has also outlined an up to $11B next-quarter sales outlook and at least $36B for fiscal 2026, albeit with margin pressure noted.
+3.2. **Innovating?:** It is innovating and targeting growth in AI datacenters, with turnkey systems for new Nvidia-equipped hardware and a strong order backdrop. Management projected up to $11B in next-quarter sales and at least $36B for fiscal 2026 despite near-term margin pressure.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage points to a 2025 comeback narrative while also noting a tough quarter with a 15% revenue decline and short-term margin pressure. Management and analysts highlight strong AI-driven demand with guidance of up to $11B in next-quarter sales and at least $36B for fiscal 2026, supported by NVIDIA-equipped systems and backlog. At the same time, tech stocks faced heavy shorting in October amid stretched valuations, signaling caution. Considering the buy-the-rumor, sell-the-news adage, bullish forecasts could face skepticism given macro froth, and quick facts flag no clear buy-the-rumor or sell-the-news signals.
+4.1. **News:** Recent coverage highlights SMCI as part of 2025 comeback names and notes guidance for up to $11B in next-quarter revenue and a minimum $36B for fiscal 2026. Conversely, the latest quarter showed a 15% revenue decline and margin pressure, even as new Nvidia-based systems and backlog support future growth. Broader tech faced elevated short interest and valuation stretch in October, adding macro headwinds. Quick Facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting the adage is not clearly driving the stock now.
 
 4.2. **Tarrifs:** unknown
 
@@ -377,9 +433,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, business model, profit outlook</li>
-<li>GNews: competitors, market expansion, latest news</li>
-<li>The Guardian: market segments, market share, rumors, tariffs news, latest rumor, tariff impact, competitive landscape, rumor, tariff, tariffs</li>
+<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -432,82 +486,133 @@ Running supplementary searches...
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
 Google Custom Search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
 Google Custom Search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;SMCI business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
 Google Custom Search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
 Google Custom Search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
 Google Custom Search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
 Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 3 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
 Google Custom Search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
 Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
@@ -515,10 +620,11 @@ Google Custom Search failed for &#x27;SMCI rumors&#x27;: 429 Client Error: Too M
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
@@ -526,54 +632,59 @@ Google Custom Search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error:
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;SMCI tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;SMCI tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 4 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
 Google Custom Search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;SMCI latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
@@ -581,10 +692,11 @@ Google Custom Search failed for &#x27;SMCI tariff impact&#x27;: 429 Client Error
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;SMCI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
