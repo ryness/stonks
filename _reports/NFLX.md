@@ -2,50 +2,50 @@
 layout: default
 title: "NFLX Stock Report"
 ticker: "NFLX"
-date: 2025-11-14
-generated_at: 2025-11-14T17:40:51.145088+00:00
-runtime_seconds: 72.48
+date: 2025-11-15
+generated_at: 2025-11-15T07:41:03.051454+00:00
+runtime_seconds: 89.78
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T17:40:51.145088+00:00">2025-11-14 17:40 UTC</time> (runtime 1m 12s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T07:41:03.051454+00:00">2025-11-15 07:41 UTC</time> (runtime 1m 30s)
   
   ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — history shows 5yr near-peak but 3mo near-bottom and 1yr middle; macro froth visibility is limited and price sits above 7d support 1085.13 but below the 20-DMA/EMA (close 1118.81 vs 1124.46/1162.11) with resistance at 1167.33
+  0.1. **Long Entry?:** maybe — 5yr near-peak but 3mo near-bottom with a 7d up trend and overbought/sold in the middle; price 1112.17 sits just above 7d support 1085.13 yet below the 20-DMA 1124.12 and EMA/SMA ~1160–1174, and macro froth visibility is limited in the provided data
   
   ## 1. The Biz
   
-  1.1. **Activities:** Netflix runs a global subscription streaming service focused on on-demand TV series, films, and documentaries. It added ad-supported plans in 2022, creating an advertising revenue stream alongside subscriptions. The company serves over 300 million subscribers worldwide.
+  1.1. **Activities:** Netflix runs a single core business: a global streaming service offering on-demand TV series, movies, and documentaries. It earns primarily from subscriptions and, since 2022, from an ad-supported tier that adds advertising revenue. The company generally avoids live programming and sports.
   
-  1.2. **Profitable?:** Yes — it is profitable with ~24% profit margin, consistent positive net income, and strong free cash flow.
+  1.2. **Profitable?:** yes — positive net income with ~24.0% profit margin and $23.36B free cash flow, alongside revenue and earnings growth (17.2% and 7.8%).
   
-  1.3. **Customer & Markets:** Primary customers are consumers streaming television entertainment and advertisers using its ad-supported tier. Netflix operates in the U.S. and across international markets, reaching most of the world outside China and serving 300M+ subscribers.
+  1.3. **Customer & Markets:** Primary customers are consumers subscribing to its streaming service and advertisers using its ad-supported plan. Markets are global with the biggest TV entertainment subscriber base in the U.S. and collectively international, with exposure to nearly the entire world outside China.
   
-  1.4. **Competition:** Competitors include Disney, Amazon, Alphabet/YouTube, Apple, Warner Bros. Discovery, Comcast, Roku, and Meta. Netflix ranks as the leader by subscriber base in the U.S. and collectively internationally.
+  1.4. **Competition:** Competitors include Disney (Disney+), Amazon (Prime Video), Warner Bros. Discovery (Max), Apple (Apple TV+), and Comcast (Peacock), with YouTube also vying for attention. Netflix ranks as the leader by having the biggest television entertainment subscriber base in the U.S. and collectively internationally.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price held above 7d support 1085.13 and tested 1167.33 resistance with an uptrend label
+  2.1. **7d Trend?:** up — 7d Trend: up and price rebounded from 1073.37 toward 1167.33, closing 1112.17 above 1085.13 support.
   
-  2.2. **7d Buy/Sell Points?:** Buy levels were near 1085.13–1073.37; sell levels were near 1167.33.
+  2.2. **7d Buy/Sell Points?:** Buy near 1073.37–1085.13 (suggested buy zone/support); sell or trim near 1167.33 (7d resistance/suggested sell zone).
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Netflix is a large, established streaming leader with over 300 million subscribers and global reach outside China. Financials show stability with positive net income totaling $10.43B across recent periods, 17.2% revenue growth, and $23.36B in free cash flow. Its recurring subscription model is augmented by advertising since 2022. These metrics indicate a durable, cash-generative institution rather than a fly-by-night operator.
+  3.1. **Stability?:** Netflix appears to be a stable, scaled institution rather than a fly-by-night. It shows sustained profitability (~24% margin) with strong free cash flow ($23.36B) and operating cash flow ($9.57B). With 300M+ subscribers and leading share across the U.S. and international markets, its revenue base is diversified. While detailed balance sheet data aren’t provided, cash generation and global footprint support overall stability.
   
-  3.2. **Innovating?:** It is innovating and growing, adding ad-supported plans in 2022 and posting 17.2% revenue growth. Recent reporting also highlights strong ad engagement (ads reaching 190 million viewers in October).
+  3.2. **Innovating?:** It is innovating and growing, evidenced by the 2022 launch of ad-supported plans expanding into advertising and double-digit revenue growth (17.2%) with earnings growth (7.8%).
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines focus on a 10-for-1 stock split (with pieces advocating buying before the Nov. 17 split) and continued global growth and ad-tier momentum. Yahoo reported ads reaching 190 million viewers in October, underscoring advertising expansion. Competitor developments (Paramount Skydance’s $3B plan and Disney’s Q4 2025 preview) frame a competitive backdrop. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited classic rumor/news trading effects.
+  4.1. **News:** Recent coverage centers on a 10-for-1 stock split (articles urging buys before Nov. 17 and assessing post-split appeal), with industry context from Paramount/Skydance’s $3B streaming overhaul and Disney’s upcoming streaming-focused earnings preview. The split headlines highlight attention on accessibility, global growth, and the ad tier. In light of “buy the rumor, sell the news,” pre-split optimism could be sensitive, though quick facts flag “Buy the rumor? no” and “Sell the news? no,” implying a muted rumor/news setup. Peer moves may influence sentiment, but the split is the most direct near-term catalyst noted.
   
-  4.2. **Tarrifs:** Proposed 100% tariffs on foreign-made films pressured media stocks and were cited as potential headwinds to Netflix, with reports flagging possible EPS and cost impacts if enacted. These tariff risks therefore represent a negative overhang for the stock.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -54,7 +54,7 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$10.43B</td></tr>
-  <tr><td>Price</td><td>1118.81</td></tr>
+  <tr><td>Price</td><td>1112.17</td></tr>
   <tr><td>7d Resistance</td><td>1167.33</td></tr>
   <tr><td>7d Support</td><td>1085.13</td></tr>
   <tr><td>30d Resistance</td><td>1248.60</td></tr>
@@ -76,9 +76,8 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-  <li>The Guardian: rumor</li>
+  <li>GNews: core business</li>
+  <li>The Guardian: product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -89,12 +88,12 @@ raw_markdown: |
   Gathering context for NFLX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/NFLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -129,68 +128,200 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; NFLX core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 1 result(s)
     google_custom_search search -&gt; NFLX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search failed for &#x27;NFLX business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NFLX profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NFLX market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  NewsAPI search failed for &#x27;NFLX competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NFLX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NFLX+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: 5 result(s)
     newsapi search -&gt; NFLX tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NFLX tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NFLX latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; NFLX tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NFLX tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NFLX tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
     google_custom_search search -&gt; NFLX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NFLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NFLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NFLX tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -213,46 +344,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T17:40:51.145088+00:00">2025-11-14 17:40 UTC</time> (runtime 1m 12s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T07:41:03.051454+00:00">2025-11-15 07:41 UTC</time> (runtime 1m 30s)
 
 ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — history shows 5yr near-peak but 3mo near-bottom and 1yr middle; macro froth visibility is limited and price sits above 7d support 1085.13 but below the 20-DMA/EMA (close 1118.81 vs 1124.46/1162.11) with resistance at 1167.33
+0.1. **Long Entry?:** maybe — 5yr near-peak but 3mo near-bottom with a 7d up trend and overbought/sold in the middle; price 1112.17 sits just above 7d support 1085.13 yet below the 20-DMA 1124.12 and EMA/SMA ~1160–1174, and macro froth visibility is limited in the provided data
 
 ## 1. The Biz
 
-1.1. **Activities:** Netflix runs a global subscription streaming service focused on on-demand TV series, films, and documentaries. It added ad-supported plans in 2022, creating an advertising revenue stream alongside subscriptions. The company serves over 300 million subscribers worldwide.
+1.1. **Activities:** Netflix runs a single core business: a global streaming service offering on-demand TV series, movies, and documentaries. It earns primarily from subscriptions and, since 2022, from an ad-supported tier that adds advertising revenue. The company generally avoids live programming and sports.
 
-1.2. **Profitable?:** Yes — it is profitable with ~24% profit margin, consistent positive net income, and strong free cash flow.
+1.2. **Profitable?:** yes — positive net income with ~24.0% profit margin and $23.36B free cash flow, alongside revenue and earnings growth (17.2% and 7.8%).
 
-1.3. **Customer & Markets:** Primary customers are consumers streaming television entertainment and advertisers using its ad-supported tier. Netflix operates in the U.S. and across international markets, reaching most of the world outside China and serving 300M+ subscribers.
+1.3. **Customer & Markets:** Primary customers are consumers subscribing to its streaming service and advertisers using its ad-supported plan. Markets are global with the biggest TV entertainment subscriber base in the U.S. and collectively international, with exposure to nearly the entire world outside China.
 
-1.4. **Competition:** Competitors include Disney, Amazon, Alphabet/YouTube, Apple, Warner Bros. Discovery, Comcast, Roku, and Meta. Netflix ranks as the leader by subscriber base in the U.S. and collectively internationally.
+1.4. **Competition:** Competitors include Disney (Disney+), Amazon (Prime Video), Warner Bros. Discovery (Max), Apple (Apple TV+), and Comcast (Peacock), with YouTube also vying for attention. Netflix ranks as the leader by having the biggest television entertainment subscriber base in the U.S. and collectively internationally.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price held above 7d support 1085.13 and tested 1167.33 resistance with an uptrend label
+2.1. **7d Trend?:** up — 7d Trend: up and price rebounded from 1073.37 toward 1167.33, closing 1112.17 above 1085.13 support.
 
-2.2. **7d Buy/Sell Points?:** Buy levels were near 1085.13–1073.37; sell levels were near 1167.33.
+2.2. **7d Buy/Sell Points?:** Buy near 1073.37–1085.13 (suggested buy zone/support); sell or trim near 1167.33 (7d resistance/suggested sell zone).
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Netflix is a large, established streaming leader with over 300 million subscribers and global reach outside China. Financials show stability with positive net income totaling $10.43B across recent periods, 17.2% revenue growth, and $23.36B in free cash flow. Its recurring subscription model is augmented by advertising since 2022. These metrics indicate a durable, cash-generative institution rather than a fly-by-night operator.
+3.1. **Stability?:** Netflix appears to be a stable, scaled institution rather than a fly-by-night. It shows sustained profitability (~24% margin) with strong free cash flow ($23.36B) and operating cash flow ($9.57B). With 300M+ subscribers and leading share across the U.S. and international markets, its revenue base is diversified. While detailed balance sheet data aren’t provided, cash generation and global footprint support overall stability.
 
-3.2. **Innovating?:** It is innovating and growing, adding ad-supported plans in 2022 and posting 17.2% revenue growth. Recent reporting also highlights strong ad engagement (ads reaching 190 million viewers in October).
+3.2. **Innovating?:** It is innovating and growing, evidenced by the 2022 launch of ad-supported plans expanding into advertising and double-digit revenue growth (17.2%) with earnings growth (7.8%).
 
 ## 4. Context
 
-4.1. **News:** Recent headlines focus on a 10-for-1 stock split (with pieces advocating buying before the Nov. 17 split) and continued global growth and ad-tier momentum. Yahoo reported ads reaching 190 million viewers in October, underscoring advertising expansion. Competitor developments (Paramount Skydance’s $3B plan and Disney’s Q4 2025 preview) frame a competitive backdrop. Quick facts indicate “Buy the rumor? no” and “Sell the news? no,” suggesting limited classic rumor/news trading effects.
+4.1. **News:** Recent coverage centers on a 10-for-1 stock split (articles urging buys before Nov. 17 and assessing post-split appeal), with industry context from Paramount/Skydance’s $3B streaming overhaul and Disney’s upcoming streaming-focused earnings preview. The split headlines highlight attention on accessibility, global growth, and the ad tier. In light of “buy the rumor, sell the news,” pre-split optimism could be sensitive, though quick facts flag “Buy the rumor? no” and “Sell the news? no,” implying a muted rumor/news setup. Peer moves may influence sentiment, but the split is the most direct near-term catalyst noted.
 
-4.2. **Tarrifs:** Proposed 100% tariffs on foreign-made films pressured media stocks and were cited as potential headwinds to Netflix, with reports flagging possible EPS and cost impacts if enacted. These tariff risks therefore represent a negative overhang for the stock.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -261,7 +392,7 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$10.43B</td></tr>
-<tr><td>Price</td><td>1118.81</td></tr>
+<tr><td>Price</td><td>1112.17</td></tr>
 <tr><td>7d Resistance</td><td>1167.33</td></tr>
 <tr><td>7d Support</td><td>1085.13</td></tr>
 <tr><td>30d Resistance</td><td>1248.60</td></tr>
@@ -283,9 +414,8 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-<li>The Guardian: rumor</li>
+<li>GNews: core business</li>
+<li>The Guardian: product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -296,12 +426,12 @@ raw_markdown: |
 Gathering context for NFLX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/NFLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -336,68 +466,200 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; NFLX core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 1 result(s)
   google_custom_search search -&gt; NFLX product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search failed for &#x27;NFLX business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NFLX profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NFLX market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+NewsAPI search failed for &#x27;NFLX competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NFLX+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NFLX+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: 5 result(s)
   newsapi search -&gt; NFLX tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NFLX tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NFLX latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; NFLX tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NFLX tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NFLX tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
   google_custom_search search -&gt; NFLX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NFLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NFLX tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NFLX+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NFLX tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NFLX+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
