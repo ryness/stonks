@@ -2,34 +2,34 @@
 layout: default
 title: "PFE Stock Report"
 ticker: "PFE"
-date: 2025-11-14
-generated_at: 2025-11-14T22:45:32.035207+00:00
-runtime_seconds: 108.73
+date: 2025-11-15
+generated_at: 2025-11-15T13:29:59.535123+00:00
+runtime_seconds: 84.45
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T22:45:32.035207+00:00">2025-11-14 22:45 UTC</time> (runtime 1m 49s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T13:29:59.535123+00:00">2025-11-15 13:29 UTC</time> (runtime 1m 24s)
   
   ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom with a 7d uptrend and overbought/sold reading in the middle; macro froth cues are limited in the provided data, and price 25.06 is above the 20DMA 24.48 and between support 23.91 and resistance 26.48
+  0.1. **Long Entry?:** maybe — shares are near the 5yr near-bottom and in an uptrend above the 20DMA (25.06 vs 24.48); macro froth visibility is limited and price sits between 7d support 23.91 and resistance 26.48
   
   ## 1. The Biz
   
-  1.1. **Activities:** Pfizer is one of the world’s largest pharmaceutical companies focused on prescription drugs and vaccines. Key products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. It operates across global markets with a significant international footprint.
+  1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical firms, with roughly $60 billion in annual sales, focused primarily on prescription drugs and vaccines. Top products include the pneumococcal vaccine Prevnar 13, cancer drug Ibrance, and cardiovascular treatment Eliquis. It operates globally, with international sales representing about 40% and strong contributions from emerging markets.
   
-  1.2. **Profitable?:** yes — it shows a 15.7% profit margin with positive recent net income and strong free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with a 15.65% profit margin, positive recent net income (~$9.83B sum), and strong free cash flow, though revenue (-5.9%) and earnings (-20.7%) growth are negative.
   
-  1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Emerging markets are a major contributor. Primary customer types are not specified in the provided data.
+  1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales comprising 40% of revenue and emerging markets a major contributor. Its markets include vaccines, oncology (Ibrance), and cardiovascular treatments (Eliquis); specific customer types are not detailed in the provided data.
   
-  1.4. **Competition:** Primary competitors include large drug makers such as MRNA, MRK, JNJ, NVAX, LLY, ABBV, BMY, AMGN, GILD, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
+  1.4. **Competition:** Primary competitors include MRK, JNJ, LLY, ABBV, BMY, AMGN, GILD, MRNA, NVAX, and VTRS; Pfizer is one of the world's largest pharma firms, placing it among top-tier peers by scale.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price has risen off 7d support 23.91 toward resistance 26.48 and sits above the 20DMA 24.48.
+  2.1. **7d Trend?:** up — the trend_label is uptrend and the stock closed at 25.06 above the 20DMA 24.48, advancing off the 7d support 23.91.
   
-  2.2. **7d Buy/Sell Points?:** Buy dips near 23.91; sell or trim into strength around 26.48.
+  2.2. **7d Buy/Sell Points?:** Buying near 23.91 (suggested buy zone/7d support) and selling near 26.48 (suggested sell zone/local high) were favorable levels.
   
   2.3.1. **7d Volume:** med
   
@@ -37,13 +37,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Pfizer appears to be a stable, mature institution, described as one of the world’s largest pharmaceutical firms. It generates substantial operating cash flow and free cash flow, and maintains positive profitability. Global diversification is significant, with 40% of sales from international markets and notable exposure to emerging markets. While revenue and earnings growth are currently negative, the company’s scale and cash generation support overall stability.
+  3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company generating roughly $60B in annual sales. It produces positive net income and robust cash flow (free cash flow ~$14.30B; operating cash flow ~$13.08B), supporting stability. A diversified portfolio across vaccines and therapeutics, with 40% international sales and meaningful emerging-market exposure, adds resilience. Although growth has softened (revenue -5.9%, earnings -20.7%), the overall profile appears stable.
   
-  3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, highlighted by a proposed acquisition of Metsera and an exit from its BioNTech stake. Despite negative near-term growth metrics, these actions indicate ongoing innovation and strategic repositioning.
+  3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, evidenced by exiting its BioNTech stake and pursuing the Metsera acquisition; however, near-term growth metrics are under pressure (revenue -5.9%, earnings -20.7%).
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines note Pfizer’s plan to sell its remaining BioNTech stake via an overnight block trade (~$508M), signaling portfolio reallocation. Pfizer is the proposed buyer of Metsera at $47.50 per share, though a law firm is investigating the deal’s fairness, adding some uncertainty. Novo Nordisk’s price cut for Wegovy in India after losing Metsera to Pfizer underscores competitive dynamics in obesity treatments. An Investing.com piece frames Pfizer as a discounted stock heading into 2026. Given quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no,’ these events may not fit a classic rumor/news trade setup.
+  4.1. **News:** Pfizer plans to sell its remaining BioNTech stake via an overnight block trade (~$508M) after their COVID-19 vaccine collaboration. It has been highlighted as a discounted stock heading into 2026. Novo Nordisk reportedly lost a bidding war for Metsera to Pfizer, while a law firm is investigating the fairness of Metsera’s proposed sale price to Pfizer. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting limited buy-the-rumor/sell-the-news dynamics around these items.
   
   4.2. **Tarrifs:** unknown
   
@@ -76,7 +76,8 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, profitability</li>
+  <li>The Guardian: product portfolio, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -87,12 +88,12 @@ raw_markdown: |
   Gathering context for PFE...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -127,16 +128,7 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; PFE core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+core+business&amp;num=5
-  Google Custom Search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=PFE+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PFE core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=PFE+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; PFE product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+product+portfolio&amp;num=5
   Google Custom Search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -160,16 +152,7 @@ raw_markdown: |
       guardian: 5 result(s)
     google_custom_search search -&gt; PFE profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+profitability&amp;num=5
-  Google Custom Search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=PFE+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PFE profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=PFE+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; PFE earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+earnings+trend&amp;num=5
   Google Custom Search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -363,30 +346,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T22:45:32.035207+00:00">2025-11-14 22:45 UTC</time> (runtime 1m 49s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T13:29:59.535123+00:00">2025-11-15 13:29 UTC</time> (runtime 1m 24s)
 
 ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom with a 7d uptrend and overbought/sold reading in the middle; macro froth cues are limited in the provided data, and price 25.06 is above the 20DMA 24.48 and between support 23.91 and resistance 26.48
+0.1. **Long Entry?:** maybe — shares are near the 5yr near-bottom and in an uptrend above the 20DMA (25.06 vs 24.48); macro froth visibility is limited and price sits between 7d support 23.91 and resistance 26.48
 
 ## 1. The Biz
 
-1.1. **Activities:** Pfizer is one of the world’s largest pharmaceutical companies focused on prescription drugs and vaccines. Key products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. It operates across global markets with a significant international footprint.
+1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical firms, with roughly $60 billion in annual sales, focused primarily on prescription drugs and vaccines. Top products include the pneumococcal vaccine Prevnar 13, cancer drug Ibrance, and cardiovascular treatment Eliquis. It operates globally, with international sales representing about 40% and strong contributions from emerging markets.
 
-1.2. **Profitable?:** yes — it shows a 15.7% profit margin with positive recent net income and strong free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with a 15.65% profit margin, positive recent net income (~$9.83B sum), and strong free cash flow, though revenue (-5.9%) and earnings (-20.7%) growth are negative.
 
-1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Emerging markets are a major contributor. Primary customer types are not specified in the provided data.
+1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales comprising 40% of revenue and emerging markets a major contributor. Its markets include vaccines, oncology (Ibrance), and cardiovascular treatments (Eliquis); specific customer types are not detailed in the provided data.
 
-1.4. **Competition:** Primary competitors include large drug makers such as MRNA, MRK, JNJ, NVAX, LLY, ABBV, BMY, AMGN, GILD, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
+1.4. **Competition:** Primary competitors include MRK, JNJ, LLY, ABBV, BMY, AMGN, GILD, MRNA, NVAX, and VTRS; Pfizer is one of the world's largest pharma firms, placing it among top-tier peers by scale.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price has risen off 7d support 23.91 toward resistance 26.48 and sits above the 20DMA 24.48.
+2.1. **7d Trend?:** up — the trend_label is uptrend and the stock closed at 25.06 above the 20DMA 24.48, advancing off the 7d support 23.91.
 
-2.2. **7d Buy/Sell Points?:** Buy dips near 23.91; sell or trim into strength around 26.48.
+2.2. **7d Buy/Sell Points?:** Buying near 23.91 (suggested buy zone/7d support) and selling near 26.48 (suggested sell zone/local high) were favorable levels.
 
 2.3.1. **7d Volume:** med
 
@@ -394,13 +377,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Pfizer appears to be a stable, mature institution, described as one of the world’s largest pharmaceutical firms. It generates substantial operating cash flow and free cash flow, and maintains positive profitability. Global diversification is significant, with 40% of sales from international markets and notable exposure to emerging markets. While revenue and earnings growth are currently negative, the company’s scale and cash generation support overall stability.
+3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company generating roughly $60B in annual sales. It produces positive net income and robust cash flow (free cash flow ~$14.30B; operating cash flow ~$13.08B), supporting stability. A diversified portfolio across vaccines and therapeutics, with 40% international sales and meaningful emerging-market exposure, adds resilience. Although growth has softened (revenue -5.9%, earnings -20.7%), the overall profile appears stable.
 
-3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, highlighted by a proposed acquisition of Metsera and an exit from its BioNTech stake. Despite negative near-term growth metrics, these actions indicate ongoing innovation and strategic repositioning.
+3.2. **Innovating?:** It is actively reshaping and investing in its portfolio, evidenced by exiting its BioNTech stake and pursuing the Metsera acquisition; however, near-term growth metrics are under pressure (revenue -5.9%, earnings -20.7%).
 
 ## 4. Context
 
-4.1. **News:** Recent headlines note Pfizer’s plan to sell its remaining BioNTech stake via an overnight block trade (~$508M), signaling portfolio reallocation. Pfizer is the proposed buyer of Metsera at $47.50 per share, though a law firm is investigating the deal’s fairness, adding some uncertainty. Novo Nordisk’s price cut for Wegovy in India after losing Metsera to Pfizer underscores competitive dynamics in obesity treatments. An Investing.com piece frames Pfizer as a discounted stock heading into 2026. Given quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no,’ these events may not fit a classic rumor/news trade setup.
+4.1. **News:** Pfizer plans to sell its remaining BioNTech stake via an overnight block trade (~$508M) after their COVID-19 vaccine collaboration. It has been highlighted as a discounted stock heading into 2026. Novo Nordisk reportedly lost a bidding war for Metsera to Pfizer, while a law firm is investigating the fairness of Metsera’s proposed sale price to Pfizer. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting limited buy-the-rumor/sell-the-news dynamics around these items.
 
 4.2. **Tarrifs:** unknown
 
@@ -433,7 +416,8 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, profitability</li>
+<li>The Guardian: product portfolio, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -444,12 +428,12 @@ raw_markdown: |
 Gathering context for PFE...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/PFE/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -484,16 +468,7 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; PFE core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+core+business&amp;num=5
-Google Custom Search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PFE core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=PFE+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PFE core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=PFE+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; PFE product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+product+portfolio&amp;num=5
 Google Custom Search failed for &#x27;PFE product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -517,16 +492,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=PFE+business+mode
     guardian: 5 result(s)
   google_custom_search search -&gt; PFE profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+profitability&amp;num=5
-Google Custom Search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;PFE profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=PFE+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PFE profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=PFE+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; PFE earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+earnings+trend&amp;num=5
 Google Custom Search failed for &#x27;PFE earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
