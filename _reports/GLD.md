@@ -2,31 +2,31 @@
 layout: default
 title: "GLD Stock Report"
 ticker: "GLD"
-date: 2025-11-14
-generated_at: 2025-11-14T23:24:44.232913+00:00
-runtime_seconds: 77.00
+date: 2025-11-15
+generated_at: 2025-11-15T13:44:04.669020+00:00
+runtime_seconds: 49.10
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T23:24:44.232913+00:00">2025-11-14 23:24 UTC</time> (runtime 1m 17s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T13:44:04.669020+00:00">2025-11-15 13:44 UTC</time> (runtime 49.10s)
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — 1yr/5yr positioning is near-peak and overbought/sold is in the middle with macro froth cues limited in the data; price is above the 20-dma (374.08) and 7d support (364.70) but below resistance (388.18).
+  0.1. **Long Entry?:** maybe — 1yr/5yr positioning is near-peak, so upside may be limited and macro froth cues are not clearly indicated in the supplied data; price is in an uptrend above the 20-DMA (374.08) and SMA (362.36) but closer to 7d resistance (388.18) than support (364.70).
   
   ## 1. The Biz
   
-  1.1. **Activities:** SPDR Gold Trust holds physical gold bars and issues/redeems Baskets in exchange for deposits of gold. Its objective is for the shares to reflect the performance of gold bullion, less the Trust’s expenses. The Sponsor positions the shares as a cost-effective way for investors to access gold.
+  1.1. **Activities:** The SPDR Gold Trust holds physical gold bars and creates/redeems Baskets in exchange for deposits/redemptions of gold. Its objective is for the shares to reflect the performance of gold bullion less the Trust’s expenses, offering investors a cost-effective, physically backed exposure to gold.
   
-  1.2. **Profitable?:** no — it seeks to track gold rather than operate a profit-generating business, and the provided financials show no net income data.
+  1.2. **Profitable?:** unknown
   
-  1.3. **Customer & Markets:** Primary customers are investors seeking exposure to gold bullion via exchange-traded shares intended to mirror gold’s price. Markets are investment vehicles tied to the gold bullion market; geographic specifics are not provided.
+  1.3. **Customer & Markets:** Primary customers are investors seeking direct exposure to gold prices and portfolio diversification via exchange-traded shares. Its market is the financial market for gold bullion exposure, with returns tied to the price of gold.
   
   1.4. **Competition:** unknown
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price advanced from the local low 361.39 to a 375.96 close and sits above its 20-dma 374.08.
+  2.1. **7d Trend?:** up — labeled in an uptrend with the close at 375.96 above the 20-DMA 374.08 and above SMA/EMA.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 361.39–364.70 support looked attractive; selling or trimming near 388.18 resistance was prudent.
+  2.2. **7d Buy/Sell Points?:** Buy levels were near 361.39–364.70 (local low/7d support); sell or trim near 388.18 (7d resistance/local high) and 403.30 (30d resistance).
   
   2.3.1. **7d Volume:** med
   
@@ -34,13 +34,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SPDR Gold Trust is an asset-backed vehicle that holds physical gold bars and aims to mirror bullion prices less expenses. Its creation/redemption of Baskets against gold deposits supports liquidity and alignment with the underlying metal. Detailed balance sheet and earnings data are not provided here. Overall, its asset-backed structure points to stability relative to operating companies because value is tied to gold holdings.
+  3.1. **Stability?:** This is a physically backed trust that holds gold bars and issues/redeems baskets, tying its value directly to bullion holdings rather than operating cash flows. Its mandate is to track the price of gold less expenses, a straightforward and transparent structure. Financial statement details are not provided here, but the creation/redemption mechanism reflects an established ETF-like framework that generally supports stability.
   
-  3.2. **Innovating?:** It is a passive product designed to track gold, so innovation signals are limited. Growth in value depends on bullion prices rather than new products or services.
+  3.2. **Innovating?:** Innovation is not the focus; the product is a passive vehicle designed to mirror gold prices, and no new initiatives are cited in the supplied data.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights macro drivers: focus on the Fed’s PCE inflation report and rate-cut expectations, with gold rebounding alongside broader markets ahead of data releases. Zacks notes rising geopolitical tensions, potential rate cuts, and central-bank buying as supports for gold ETFs, and Benzinga mentions gold rebounding while traders awaited PCE. Such setups can invite buy-the-rumor behavior into inflation prints and policy headlines, with risk of sell-the-news if outcomes meet expectations. There are no company-specific catalysts, underscoring GLD’s macro-driven nature.
+  4.1. **News:** Recent headlines point to supportive macro context for gold ETFs, citing potential Fed rate cuts, central bank buying, and geopolitical tensions (e.g., Zacks: 'Gold Set to Break $3,000? ETFs to Consider'). Market coverage notes gold rebounded alongside Bitcoin while traders awaited the PCE inflation report, and prior PCE data helped fuel rallies. Strategy pieces for H2 2024 discuss election dynamics and rate-cut prospects influencing ETFs, keeping gold in focus. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting the adage is not a dominant driver here.
   
   4.2. **Tarrifs:** unknown
   
@@ -84,12 +84,12 @@ raw_markdown: |
   Gathering context for GLD...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/GLD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -359,27 +359,27 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T23:24:44.232913+00:00">2025-11-14 23:24 UTC</time> (runtime 1m 17s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T13:44:04.669020+00:00">2025-11-15 13:44 UTC</time> (runtime 49.10s)
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — 1yr/5yr positioning is near-peak and overbought/sold is in the middle with macro froth cues limited in the data; price is above the 20-dma (374.08) and 7d support (364.70) but below resistance (388.18).
+0.1. **Long Entry?:** maybe — 1yr/5yr positioning is near-peak, so upside may be limited and macro froth cues are not clearly indicated in the supplied data; price is in an uptrend above the 20-DMA (374.08) and SMA (362.36) but closer to 7d resistance (388.18) than support (364.70).
 
 ## 1. The Biz
 
-1.1. **Activities:** SPDR Gold Trust holds physical gold bars and issues/redeems Baskets in exchange for deposits of gold. Its objective is for the shares to reflect the performance of gold bullion, less the Trust’s expenses. The Sponsor positions the shares as a cost-effective way for investors to access gold.
+1.1. **Activities:** The SPDR Gold Trust holds physical gold bars and creates/redeems Baskets in exchange for deposits/redemptions of gold. Its objective is for the shares to reflect the performance of gold bullion less the Trust’s expenses, offering investors a cost-effective, physically backed exposure to gold.
 
-1.2. **Profitable?:** no — it seeks to track gold rather than operate a profit-generating business, and the provided financials show no net income data.
+1.2. **Profitable?:** unknown
 
-1.3. **Customer & Markets:** Primary customers are investors seeking exposure to gold bullion via exchange-traded shares intended to mirror gold’s price. Markets are investment vehicles tied to the gold bullion market; geographic specifics are not provided.
+1.3. **Customer & Markets:** Primary customers are investors seeking direct exposure to gold prices and portfolio diversification via exchange-traded shares. Its market is the financial market for gold bullion exposure, with returns tied to the price of gold.
 
 1.4. **Competition:** unknown
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price advanced from the local low 361.39 to a 375.96 close and sits above its 20-dma 374.08.
+2.1. **7d Trend?:** up — labeled in an uptrend with the close at 375.96 above the 20-DMA 374.08 and above SMA/EMA.
 
-2.2. **7d Buy/Sell Points?:** Buying near 361.39–364.70 support looked attractive; selling or trimming near 388.18 resistance was prudent.
+2.2. **7d Buy/Sell Points?:** Buy levels were near 361.39–364.70 (local low/7d support); sell or trim near 388.18 (7d resistance/local high) and 403.30 (30d resistance).
 
 2.3.1. **7d Volume:** med
 
@@ -387,13 +387,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SPDR Gold Trust is an asset-backed vehicle that holds physical gold bars and aims to mirror bullion prices less expenses. Its creation/redemption of Baskets against gold deposits supports liquidity and alignment with the underlying metal. Detailed balance sheet and earnings data are not provided here. Overall, its asset-backed structure points to stability relative to operating companies because value is tied to gold holdings.
+3.1. **Stability?:** This is a physically backed trust that holds gold bars and issues/redeems baskets, tying its value directly to bullion holdings rather than operating cash flows. Its mandate is to track the price of gold less expenses, a straightforward and transparent structure. Financial statement details are not provided here, but the creation/redemption mechanism reflects an established ETF-like framework that generally supports stability.
 
-3.2. **Innovating?:** It is a passive product designed to track gold, so innovation signals are limited. Growth in value depends on bullion prices rather than new products or services.
+3.2. **Innovating?:** Innovation is not the focus; the product is a passive vehicle designed to mirror gold prices, and no new initiatives are cited in the supplied data.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights macro drivers: focus on the Fed’s PCE inflation report and rate-cut expectations, with gold rebounding alongside broader markets ahead of data releases. Zacks notes rising geopolitical tensions, potential rate cuts, and central-bank buying as supports for gold ETFs, and Benzinga mentions gold rebounding while traders awaited PCE. Such setups can invite buy-the-rumor behavior into inflation prints and policy headlines, with risk of sell-the-news if outcomes meet expectations. There are no company-specific catalysts, underscoring GLD’s macro-driven nature.
+4.1. **News:** Recent headlines point to supportive macro context for gold ETFs, citing potential Fed rate cuts, central bank buying, and geopolitical tensions (e.g., Zacks: 'Gold Set to Break $3,000? ETFs to Consider'). Market coverage notes gold rebounded alongside Bitcoin while traders awaited the PCE inflation report, and prior PCE data helped fuel rallies. Strategy pieces for H2 2024 discuss election dynamics and rate-cut prospects influencing ETFs, keeping gold in focus. Quick facts indicate 'Buy the rumor? no' and 'Sell the news? no,' suggesting the adage is not a dominant driver here.
 
 4.2. **Tarrifs:** unknown
 
@@ -437,12 +437,12 @@ raw_markdown: |
 Gathering context for GLD...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting GLD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/GLD/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/GLD/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/GLD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/GLD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
