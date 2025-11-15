@@ -3,34 +3,34 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2025-11-15
-generated_at: 2025-11-15T09:42:32.782202+00:00
-runtime_seconds: 59.71
+generated_at: 2025-11-15T10:27:11.269741+00:00
+runtime_seconds: 101.19
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T09:42:32.782202+00:00">2025-11-15 09:42 UTC</time> (runtime 59.71s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T10:27:11.269741+00:00">2025-11-15 10:27 UTC</time> (runtime 1m 41s)
   
   ## 1. Pulse
   
-  Equities finished mixed with a slight negative tilt: S&P 500 -0.05%, Dow -0.65%, Nasdaq +0.13%, and Russell 2000 +0.22%. Breadth was marginally negative at 7 up vs 8 down with an average index change of -0.05%, signaling only tentative buying interest after a weak week where the Nasdaq is -2.55% and Russell is -3.11%. On balance, risk appetite looks fragile rather than firming.
+  Equities finished mixed: S&P 500 -0.05% on the day (7d -0.91%), Dow 30 -0.65%, Nasdaq Composite +0.13%, and Russell 2000 +0.22%, while ETFs echoed the split (SPY -0.02%, QQQ +0.08%). On a weekly basis, risk appetite has faded with tech and small caps weak (Nasdaq -2.55% 7d; Russell 2000 -3.11% 7d), despite modest 30d gains in the large-cap complexes.
   
-  Volatility eased on the day (VIX -0.85% to 19.83) but remains elevated on a 7- and 30-day basis (+10.11% and +19.10%), indicating lingering risk aversion. Rates were a headwind intraday with the 10Y Treasury yield up 0.88% to 4.15, while the US dollar inched higher (+0.09%), both consistent with a cautious tone.
+  Volatility eased day over day but remains elevated: VIX at 19.83 fell 0.85% today but is up 10.11% over 7d and 19.10% over 30d, signaling lingering caution. Equity futures were subdued to mixed, with S&P futures -0.07% 1d, Nasdaq futures essentially flat (0.00%), Dow futures -0.67%, and Russell futures +0.25%, pointing to only tentative risk-taking.
   
-  Futures point to a neutral-to-soft setup into the next session: ES -0.07%, NQ flat, YM -0.67%, and RTY +0.25%. Cross-asset signals were mixed as well, with WTI crude +2.39% and gold -2.37% on the day, suggesting rotation rather than broad-based risk-on.
+  Rates were a headwind intraday, with the 10Y Treasury yield up 0.88% on the day to 4.15 (30d +0.70%), while the US Dollar was marginally higher 0.09% 1d. Taken together, day-to-day risk appetite is stabilizing, but the weekly deterioration across growth and small caps alongside higher realized vol suggests a cautious tone.
   
-  1.1. **Market Health:** Market health is lukewarm. Breadth was slightly negative (7 up, 8 down) and the average index change was modestly red at -0.05%, pointing to a market that is stabilizing but not broadly bid. The VIX at 19.83 is down on the day yet elevated versus the past week and month, while the 10Y Treasury yield rose to 4.15%, both consistent with ongoing caution. Together, these indicate a market that is not dislocated but remains vulnerable to downside catalysts.
+  1.1. **Market Health:** Market breadth was slightly negative (7 up, 8 down), and the average 1d index change was -0.05%, implying a modestly risk-off skew beneath the mixed headline moves. Volatility is still elevated even after today’s dip, with VIX at 19.83 (-0.85% 1d but +10.11% 7d), which argues for choppy conditions. The 10Y Treasury at 4.15 rose 0.88% on the day, a tightening impulse for equities. Overall health is fair but fragile, with weakness concentrated in small caps and a soft 7d profile.
   
-  1.2. **Leadership:** Leadership skewed to growth and small caps on the day, with the Russell 2000 up +0.22% and the Nasdaq Composite up +0.13%, while the Dow lagged at -0.65%. Over the last week, small caps and tech have been the clear laggards (Russell 2000 -3.11%, Nasdaq -2.55%), while the Dow held up best at -0.35%.
+  1.2. **Leadership:** Leadership rotated toward growth and small caps on the day: Russell 2000 was a positive standout at +0.22% and the Nasdaq Composite rose +0.13% (QQQ +0.08%), while the Dow 30 lagged at -0.65%. Over the last week, small caps and tech underperformed (Russell 2000 -3.11%, Nasdaq -2.55%), whereas the Dow was comparatively resilient at -0.35%.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** Reports of global markets struggling after a tech sell-off and fears over the Chinese economy point to a risk-off macro backdrop. This aligns with the weekly drawdown in the Nasdaq (-2.53% for futures) and higher VIX on a 7- and 30-day basis, reinforcing tighter risk budgets and selective buying. US markets also faced pressure amid tech valuation concerns and economic uncertainty, which helps explain the defensive rotation and mixed breadth. The day’s small dip in the VIX and modest green prints in the Nasdaq and Russell suggest stabilization, but the broader narrative remains cautious, favoring risk-off positioning on rallies. A trade policy bright spot came as Australia welcomed the removal of US tariffs on beef and other food imports, which is incrementally risk-on for trade-sensitive cyclicals and commodities. The day’s WTI crude gain (+2.39%) is consistent with that supportive trade tone, though it has not yet translated into broad equity strength.
+  2.1. **Catalysts:** According to the Guardian, global markets have struggled after a tech sell-off and fears over the Chinese economy, which aligns with the past week’s weakness in US growth and small caps (Nasdaq -2.55% 7d; Russell 2000 -3.11% 7d). This backdrop skews risk-off by pressuring higher-beta segments. The Guardian also noted US markets struggling amid tech valuation concerns and economic uncertainty, consistent with a higher VIX on the week (+10.11% 7d to 19.83). Elevated volatility tends to curb risk appetite, matching the S&P 500’s softer 7d move (-0.91%). Trade policy headlines were mixed but narrow in scope, with Australia welcoming the removal of US tariffs on beef and other food imports; the broader cross-asset tape showed limited response, as S&P futures fell 1.03% over 7d during the same window.
   
   2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** flat 60% Mixed signals point to a sideways bias: ES is near unchanged (-0.07%) with NQ flat, breadth is slightly negative (7 up/8 down), and the VIX is down on the day but elevated over the week and month. Tech/China worries in the headlines cap upside, while modest intraday resilience (Nasdaq +0.13%, Russell +0.22%) argues against a decisive downdraft absent a fresh catalyst.
+  3.1. **Next 24h Bias:** flat 55%: Equities and futures were mixed on the day (S&P 500 -0.05%, Nasdaq +0.13%; ES -0.07%, NQ 0.00%), VIX eased 0.85% but remains elevated on the week (+10.11%), and breadth was near balanced (7 up, 8 down). Rising 10Y yields to 4.15 (+0.88% 1d) offset small rebounds in growth, while recent news flow highlights lingering tech and China-related caution, arguing for range-bound trade.
   
-  3.2. **Watch List:** Watch the VIX around the 20 level (last 19.83); a sustained move higher would validate risk-off and pressure equities, while a drift lower would support stabilization. Track the 10Y Treasury yield near 4.15% for rate sensitivity; further backing up in yields would likely weigh on the Dow (recent laggard at -0.65% 1d). Monitor futures pivots: ES around 6,755, NQ near 25,094, YM near 47,229, and RTY around 2,396; holding these zones would support a flat tape. Sector-wise, keep an eye on mega-cap tech given the recent sell-off narrative and small caps for confirmation of breadth (Russell 2000 +0.22% 1d but -3.11% 7d). Cross-asset tells include WTI crude at 60.09 (up 2.39% 1d), gold at 4,087.60 (down 2.37% 1d), and the US dollar at 99.27 (+0.09% 1d); continued oil strength with a steady dollar could tighten financial conditions at the margin, reinforcing a neutral-to-cautious equity stance.
+  3.2. **Watch List:** Watch S&P futures versus the prior day reference around 6,760 (ES=F last 6,755.25, 1d reference 6,760.00) and whether VIX holds below the 20 handle (last 19.83); sustained moves above/below these marks would tip the intraday bias. Also track the 10Y Treasury near 4.15 and whether yields extend higher, as the day’s 0.88% rise coincided with pressure on cyclicals. Monitor leadership for confirmation of a flat, range-bound tape: QQQ holding near 608.86 (+0.08% 1d) alongside Russell futures stabilizing above 2,390 (RTY=F last 2,396.00, 1d reference 2,390.00), while Dow futures recover toward 47,547 (YM=F last 47,229.00, 1d reference 47,547.00). Cross-asset context from WTI at 60.09 (+2.39% 1d), Gold at 4,087.60 (-2.37% 1d), and the US Dollar at 99.27 (+0.09% 1d, -0.93% 7d) will help gauge risk tone into the next session.
   
   ## 4. QuickRef
   
@@ -175,31 +175,31 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T09:42:32.782202+00:00">2025-11-15 09:42 UTC</time> (runtime 59.71s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T10:27:11.269741+00:00">2025-11-15 10:27 UTC</time> (runtime 1m 41s)
 
 ## 1. Pulse
 
-Equities finished mixed with a slight negative tilt: S&P 500 -0.05%, Dow -0.65%, Nasdaq +0.13%, and Russell 2000 +0.22%. Breadth was marginally negative at 7 up vs 8 down with an average index change of -0.05%, signaling only tentative buying interest after a weak week where the Nasdaq is -2.55% and Russell is -3.11%. On balance, risk appetite looks fragile rather than firming.
+Equities finished mixed: S&P 500 -0.05% on the day (7d -0.91%), Dow 30 -0.65%, Nasdaq Composite +0.13%, and Russell 2000 +0.22%, while ETFs echoed the split (SPY -0.02%, QQQ +0.08%). On a weekly basis, risk appetite has faded with tech and small caps weak (Nasdaq -2.55% 7d; Russell 2000 -3.11% 7d), despite modest 30d gains in the large-cap complexes.
 
-Volatility eased on the day (VIX -0.85% to 19.83) but remains elevated on a 7- and 30-day basis (+10.11% and +19.10%), indicating lingering risk aversion. Rates were a headwind intraday with the 10Y Treasury yield up 0.88% to 4.15, while the US dollar inched higher (+0.09%), both consistent with a cautious tone.
+Volatility eased day over day but remains elevated: VIX at 19.83 fell 0.85% today but is up 10.11% over 7d and 19.10% over 30d, signaling lingering caution. Equity futures were subdued to mixed, with S&P futures -0.07% 1d, Nasdaq futures essentially flat (0.00%), Dow futures -0.67%, and Russell futures +0.25%, pointing to only tentative risk-taking.
 
-Futures point to a neutral-to-soft setup into the next session: ES -0.07%, NQ flat, YM -0.67%, and RTY +0.25%. Cross-asset signals were mixed as well, with WTI crude +2.39% and gold -2.37% on the day, suggesting rotation rather than broad-based risk-on.
+Rates were a headwind intraday, with the 10Y Treasury yield up 0.88% on the day to 4.15 (30d +0.70%), while the US Dollar was marginally higher 0.09% 1d. Taken together, day-to-day risk appetite is stabilizing, but the weekly deterioration across growth and small caps alongside higher realized vol suggests a cautious tone.
 
-1.1. **Market Health:** Market health is lukewarm. Breadth was slightly negative (7 up, 8 down) and the average index change was modestly red at -0.05%, pointing to a market that is stabilizing but not broadly bid. The VIX at 19.83 is down on the day yet elevated versus the past week and month, while the 10Y Treasury yield rose to 4.15%, both consistent with ongoing caution. Together, these indicate a market that is not dislocated but remains vulnerable to downside catalysts.
+1.1. **Market Health:** Market breadth was slightly negative (7 up, 8 down), and the average 1d index change was -0.05%, implying a modestly risk-off skew beneath the mixed headline moves. Volatility is still elevated even after today’s dip, with VIX at 19.83 (-0.85% 1d but +10.11% 7d), which argues for choppy conditions. The 10Y Treasury at 4.15 rose 0.88% on the day, a tightening impulse for equities. Overall health is fair but fragile, with weakness concentrated in small caps and a soft 7d profile.
 
-1.2. **Leadership:** Leadership skewed to growth and small caps on the day, with the Russell 2000 up +0.22% and the Nasdaq Composite up +0.13%, while the Dow lagged at -0.65%. Over the last week, small caps and tech have been the clear laggards (Russell 2000 -3.11%, Nasdaq -2.55%), while the Dow held up best at -0.35%.
+1.2. **Leadership:** Leadership rotated toward growth and small caps on the day: Russell 2000 was a positive standout at +0.22% and the Nasdaq Composite rose +0.13% (QQQ +0.08%), while the Dow 30 lagged at -0.65%. Over the last week, small caps and tech underperformed (Russell 2000 -3.11%, Nasdaq -2.55%), whereas the Dow was comparatively resilient at -0.35%.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** Reports of global markets struggling after a tech sell-off and fears over the Chinese economy point to a risk-off macro backdrop. This aligns with the weekly drawdown in the Nasdaq (-2.53% for futures) and higher VIX on a 7- and 30-day basis, reinforcing tighter risk budgets and selective buying. US markets also faced pressure amid tech valuation concerns and economic uncertainty, which helps explain the defensive rotation and mixed breadth. The day’s small dip in the VIX and modest green prints in the Nasdaq and Russell suggest stabilization, but the broader narrative remains cautious, favoring risk-off positioning on rallies. A trade policy bright spot came as Australia welcomed the removal of US tariffs on beef and other food imports, which is incrementally risk-on for trade-sensitive cyclicals and commodities. The day’s WTI crude gain (+2.39%) is consistent with that supportive trade tone, though it has not yet translated into broad equity strength.
+2.1. **Catalysts:** According to the Guardian, global markets have struggled after a tech sell-off and fears over the Chinese economy, which aligns with the past week’s weakness in US growth and small caps (Nasdaq -2.55% 7d; Russell 2000 -3.11% 7d). This backdrop skews risk-off by pressuring higher-beta segments. The Guardian also noted US markets struggling amid tech valuation concerns and economic uncertainty, consistent with a higher VIX on the week (+10.11% 7d to 19.83). Elevated volatility tends to curb risk appetite, matching the S&P 500’s softer 7d move (-0.91%). Trade policy headlines were mixed but narrow in scope, with Australia welcoming the removal of US tariffs on beef and other food imports; the broader cross-asset tape showed limited response, as S&P futures fell 1.03% over 7d during the same window.
 
 2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** flat 60% Mixed signals point to a sideways bias: ES is near unchanged (-0.07%) with NQ flat, breadth is slightly negative (7 up/8 down), and the VIX is down on the day but elevated over the week and month. Tech/China worries in the headlines cap upside, while modest intraday resilience (Nasdaq +0.13%, Russell +0.22%) argues against a decisive downdraft absent a fresh catalyst.
+3.1. **Next 24h Bias:** flat 55%: Equities and futures were mixed on the day (S&P 500 -0.05%, Nasdaq +0.13%; ES -0.07%, NQ 0.00%), VIX eased 0.85% but remains elevated on the week (+10.11%), and breadth was near balanced (7 up, 8 down). Rising 10Y yields to 4.15 (+0.88% 1d) offset small rebounds in growth, while recent news flow highlights lingering tech and China-related caution, arguing for range-bound trade.
 
-3.2. **Watch List:** Watch the VIX around the 20 level (last 19.83); a sustained move higher would validate risk-off and pressure equities, while a drift lower would support stabilization. Track the 10Y Treasury yield near 4.15% for rate sensitivity; further backing up in yields would likely weigh on the Dow (recent laggard at -0.65% 1d). Monitor futures pivots: ES around 6,755, NQ near 25,094, YM near 47,229, and RTY around 2,396; holding these zones would support a flat tape. Sector-wise, keep an eye on mega-cap tech given the recent sell-off narrative and small caps for confirmation of breadth (Russell 2000 +0.22% 1d but -3.11% 7d). Cross-asset tells include WTI crude at 60.09 (up 2.39% 1d), gold at 4,087.60 (down 2.37% 1d), and the US dollar at 99.27 (+0.09% 1d); continued oil strength with a steady dollar could tighten financial conditions at the margin, reinforcing a neutral-to-cautious equity stance.
+3.2. **Watch List:** Watch S&P futures versus the prior day reference around 6,760 (ES=F last 6,755.25, 1d reference 6,760.00) and whether VIX holds below the 20 handle (last 19.83); sustained moves above/below these marks would tip the intraday bias. Also track the 10Y Treasury near 4.15 and whether yields extend higher, as the day’s 0.88% rise coincided with pressure on cyclicals. Monitor leadership for confirmation of a flat, range-bound tape: QQQ holding near 608.86 (+0.08% 1d) alongside Russell futures stabilizing above 2,390 (RTY=F last 2,396.00, 1d reference 2,390.00), while Dow futures recover toward 47,547 (YM=F last 47,229.00, 1d reference 47,547.00). Cross-asset context from WTI at 60.09 (+2.39% 1d), Gold at 4,087.60 (-2.37% 1d), and the US Dollar at 99.27 (+0.09% 1d, -0.93% 7d) will help gauge risk tone into the next session.
 
 ## 4. QuickRef
 
