@@ -2,50 +2,50 @@
 layout: default
 title: "ORCL Stock Report"
 ticker: "ORCL"
-date: 2025-11-14
-generated_at: 2025-11-14T19:22:00.212037+00:00
-runtime_seconds: 87.67
+date: 2025-11-15
+generated_at: 2025-11-15T09:24:44.016968+00:00
+runtime_seconds: 85.95
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T19:22:00.212037+00:00">2025-11-14 19:22 UTC</time> (runtime 1m 28s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-15T09:24:44.016968+00:00">2025-11-15 09:24 UTC</time> (runtime 1m 26s)
   
   ![Oracle Corp logo](https://ryness.github.io/stonks/assets/logos/ORCL.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — 3mo positioning is near-bottom while 1yr/5yr are middle; AI-related unwind and tight liquidity raise froth risk, and shares sit well below the 20-DMA/EMA/SMA and between 7d support 210.82 and resistance 249.07.
+  0.1. **Long Entry?:** no — shares are in a 7d downtrend and trade well below the 20-DMA (256.46), EMA (262.62) and SMA (279.51), sitting closer to 7d/30d support (210.77) than resistance (249.07); macro AI froth is unwinding per headlines (Nasdaq 100 worst November, AI unwind/liquidity strain) and quick facts flag 'Buy the dip? no' with 3mo near-bottom/1yr middle.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Oracle provides enterprise applications and infrastructure delivered on-premises, in the cloud, and in hybrid models. Its core products include the Oracle SQL-based relational database, enterprise resource planning platforms, and Oracle Cloud Infrastructure for high-volume transaction processing and increasingly for large language model training and inferencing.
+  1.1. **Activities:** Oracle provides enterprise databases, ERP applications, and a full stack of cloud infrastructure and applications delivered on-premises, in the cloud, and hybrid. Its flagship is a commercial SQL-based relational database used by the world’s largest companies for high-volume transaction processing. It also sells Oracle Cloud Infrastructure and apps that support workloads such as large language model training and inferencing.
   
-  1.2. **Profitable?:** Yes — it generated $12.44B in net income with ~21.1% profit margin, though free cash flow was negative over the period.
+  1.2. **Profitable?:** Yes — it is GAAP profitable, with a 21.08% profit margin and about $12.44B in recent net income; earnings growth is roughly flat (-0.1%).
   
-  1.3. **Customer & Markets:** Primary customers are large enterprises running databases, ERP, and cloud infrastructure for high-volume transaction processing and LLM workloads. Markets span enterprise applications across finance, HR, supply chain, sales, and marketing.
+  1.3. **Customer & Markets:** Primary customers are large enterprises using Oracle’s databases and Fusion Cloud Applications across finance, HR, supply chain, sales, and marketing. Markets span global enterprise IT infrastructure and applications with on‑premises, cloud, and hybrid deployments.
   
-  1.4. **Competition:** Oracle competes with Microsoft, Amazon, and Google in cloud infrastructure and with Salesforce and SAP in enterprise applications, alongside IBM in databases; it is a long-standing database and ERP incumbent but specific ranking is not provided.
+  1.4. **Competition:** Competitors include Microsoft, Amazon, and Google in cloud infrastructure and Salesforce and Adobe in enterprise applications; Oracle is a longtime database incumbent while a challenger versus hyperscalers in AI/cloud.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price fell from a 7d local high of 247.24 toward 225.95 and remains below the 20-DMA 256.62 amid a downtrend label.
+  2.1. **7d Trend?:** down — the close at 222.85 is below the 20-DMA 256.46 and under 7d resistance 249.07 while price gravitated toward 210.77 support.
   
-  2.2. **7d Buy/Sell Points?:** Buys near ~232.35 (suggested buy zone/near recent lows) and sells near 247.24–249.07 (sell zone/7d resistance) were the notable levels.
+  2.2. **7d Buy/Sell Points?:** Buying near 232.35 (suggested buy zone) or on tests of 210.77 support offered better entries; selling into 247.24–249.07 aligned with the suggested sell zone and nearby resistance.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** high
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oracle was founded in 1977 and pioneered the first commercial SQL-based RDBMS, signaling long operating history. It is consistently profitable with recent net income of $12.44B and ~21% profit margin. Operating cash flow is strong at ~$21.53B, though free cash flow was negative. Overall, it appears to be a mature, stable enterprise software company rather than a fly-by-night outfit.
+  3.1. **Stability?:** Oracle was founded in 1977 and is a long‑tenured enterprise software company. It reports consistent GAAP profitability (21.08% profit margin) with ~$12.44B in recent net income. Operating cash flow is $21.53B, while recent free cash flow was -$2.83B. These factors, along with its large enterprise customer base, indicate a stable, established institution rather than a fly‑by‑night.
   
-  3.2. **Innovating?:** Oracle is actively investing in cloud infrastructure for AI training and inferencing and posted 12.2% revenue growth, indicating ongoing innovation. Headlines note very large AI cloud deals alongside scrutiny of backlog quality and margins.
+  3.2. **Innovating?:** It is innovating in AI and cloud infrastructure (OCI supporting LLM training/inferencing), with headlines about large AI cloud deals, though one analyst questioned the margins and credibility of its AI backlog.
   
   ## 4. Context
   
-  4.1. **News:** Reports flag an AI-related unwind and tight liquidity across markets, with the Nasdaq 100 facing its worst November since 2008. An analyst criticized Oracle’s AI push as low-margin and questioned a large backlog, while another piece cast Oracle as a potential dark horse after a massive OpenAI cloud deal. Broader AI infrastructure supply constraints are cited as drivers of sector volatility. In this setting, chasing rumors looks risky, and reactions may skew toward skepticism rather than classic ‘sell the news’ spikes.
+  4.1. **News:** Recent headlines highlight AI-related strain: AI infrastructure demand is overwhelming supply, the Nasdaq 100 is having its worst November since 2008, and broader liquidity concerns accompany an AI unwind. For Oracle, one analyst called its AI bet low‑margin and questioned backlog credibility, while another article cast it as a potential ‘dark horse’ tied to a massive OpenAI cloud deal. This mix suggests that AI hype has been vulnerable to selloffs, consistent with ‘buy the rumor, sell the news’ dynamics. Quick facts also flag ‘Buy the rumor? no’ and ‘Sell the news? no,’ indicating cautious positioning.
   
-  4.2. **Tarrifs:** No direct stock impact from tariffs is specified; available items note Oracle tools that help customers navigate tariff complexity rather than effects on ORCL shares.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -54,11 +54,11 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$12.44B</td></tr>
-  <tr><td>Price</td><td>225.95</td></tr>
+  <tr><td>Price</td><td>222.85</td></tr>
   <tr><td>7d Resistance</td><td>249.07</td></tr>
-  <tr><td>7d Support</td><td>210.82</td></tr>
+  <tr><td>7d Support</td><td>210.77</td></tr>
   <tr><td>30d Resistance</td><td>322.54</td></tr>
-  <tr><td>30d Support</td><td>210.82</td></tr>
+  <tr><td>30d Support</td><td>210.77</td></tr>
   <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
@@ -88,12 +88,12 @@ raw_markdown: |
   Gathering context for ORCL...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting ORCL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ORCL/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting ORCL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ORCL/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
   Massive open-close: GET https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ORCL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ORCL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/ORCL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -136,9 +136,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+profitability&amp;num=5
@@ -150,9 +151,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+target+customers&amp;num=5
@@ -164,9 +166,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+competitors&amp;num=5
@@ -178,9 +181,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+rumors&amp;num=5
@@ -192,25 +196,28 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; ORCL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; ORCL latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+latest+rumor&amp;num=5
@@ -219,9 +226,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;ORCL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ORCL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;ORCL tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ORCL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     google_custom_search search -&gt; ORCL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+tariff+impact&amp;num=5
@@ -248,46 +256,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T19:22:00.212037+00:00">2025-11-14 19:22 UTC</time> (runtime 1m 28s)
+**Generated:** <time class="js-local-time" datetime="2025-11-15T09:24:44.016968+00:00">2025-11-15 09:24 UTC</time> (runtime 1m 26s)
 
 ![Oracle Corp logo](https://ryness.github.io/stonks/assets/logos/ORCL.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — 3mo positioning is near-bottom while 1yr/5yr are middle; AI-related unwind and tight liquidity raise froth risk, and shares sit well below the 20-DMA/EMA/SMA and between 7d support 210.82 and resistance 249.07.
+0.1. **Long Entry?:** no — shares are in a 7d downtrend and trade well below the 20-DMA (256.46), EMA (262.62) and SMA (279.51), sitting closer to 7d/30d support (210.77) than resistance (249.07); macro AI froth is unwinding per headlines (Nasdaq 100 worst November, AI unwind/liquidity strain) and quick facts flag 'Buy the dip? no' with 3mo near-bottom/1yr middle.
 
 ## 1. The Biz
 
-1.1. **Activities:** Oracle provides enterprise applications and infrastructure delivered on-premises, in the cloud, and in hybrid models. Its core products include the Oracle SQL-based relational database, enterprise resource planning platforms, and Oracle Cloud Infrastructure for high-volume transaction processing and increasingly for large language model training and inferencing.
+1.1. **Activities:** Oracle provides enterprise databases, ERP applications, and a full stack of cloud infrastructure and applications delivered on-premises, in the cloud, and hybrid. Its flagship is a commercial SQL-based relational database used by the world’s largest companies for high-volume transaction processing. It also sells Oracle Cloud Infrastructure and apps that support workloads such as large language model training and inferencing.
 
-1.2. **Profitable?:** Yes — it generated $12.44B in net income with ~21.1% profit margin, though free cash flow was negative over the period.
+1.2. **Profitable?:** Yes — it is GAAP profitable, with a 21.08% profit margin and about $12.44B in recent net income; earnings growth is roughly flat (-0.1%).
 
-1.3. **Customer & Markets:** Primary customers are large enterprises running databases, ERP, and cloud infrastructure for high-volume transaction processing and LLM workloads. Markets span enterprise applications across finance, HR, supply chain, sales, and marketing.
+1.3. **Customer & Markets:** Primary customers are large enterprises using Oracle’s databases and Fusion Cloud Applications across finance, HR, supply chain, sales, and marketing. Markets span global enterprise IT infrastructure and applications with on‑premises, cloud, and hybrid deployments.
 
-1.4. **Competition:** Oracle competes with Microsoft, Amazon, and Google in cloud infrastructure and with Salesforce and SAP in enterprise applications, alongside IBM in databases; it is a long-standing database and ERP incumbent but specific ranking is not provided.
+1.4. **Competition:** Competitors include Microsoft, Amazon, and Google in cloud infrastructure and Salesforce and Adobe in enterprise applications; Oracle is a longtime database incumbent while a challenger versus hyperscalers in AI/cloud.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price fell from a 7d local high of 247.24 toward 225.95 and remains below the 20-DMA 256.62 amid a downtrend label.
+2.1. **7d Trend?:** down — the close at 222.85 is below the 20-DMA 256.46 and under 7d resistance 249.07 while price gravitated toward 210.77 support.
 
-2.2. **7d Buy/Sell Points?:** Buys near ~232.35 (suggested buy zone/near recent lows) and sells near 247.24–249.07 (sell zone/7d resistance) were the notable levels.
+2.2. **7d Buy/Sell Points?:** Buying near 232.35 (suggested buy zone) or on tests of 210.77 support offered better entries; selling into 247.24–249.07 aligned with the suggested sell zone and nearby resistance.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** high
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oracle was founded in 1977 and pioneered the first commercial SQL-based RDBMS, signaling long operating history. It is consistently profitable with recent net income of $12.44B and ~21% profit margin. Operating cash flow is strong at ~$21.53B, though free cash flow was negative. Overall, it appears to be a mature, stable enterprise software company rather than a fly-by-night outfit.
+3.1. **Stability?:** Oracle was founded in 1977 and is a long‑tenured enterprise software company. It reports consistent GAAP profitability (21.08% profit margin) with ~$12.44B in recent net income. Operating cash flow is $21.53B, while recent free cash flow was -$2.83B. These factors, along with its large enterprise customer base, indicate a stable, established institution rather than a fly‑by‑night.
 
-3.2. **Innovating?:** Oracle is actively investing in cloud infrastructure for AI training and inferencing and posted 12.2% revenue growth, indicating ongoing innovation. Headlines note very large AI cloud deals alongside scrutiny of backlog quality and margins.
+3.2. **Innovating?:** It is innovating in AI and cloud infrastructure (OCI supporting LLM training/inferencing), with headlines about large AI cloud deals, though one analyst questioned the margins and credibility of its AI backlog.
 
 ## 4. Context
 
-4.1. **News:** Reports flag an AI-related unwind and tight liquidity across markets, with the Nasdaq 100 facing its worst November since 2008. An analyst criticized Oracle’s AI push as low-margin and questioned a large backlog, while another piece cast Oracle as a potential dark horse after a massive OpenAI cloud deal. Broader AI infrastructure supply constraints are cited as drivers of sector volatility. In this setting, chasing rumors looks risky, and reactions may skew toward skepticism rather than classic ‘sell the news’ spikes.
+4.1. **News:** Recent headlines highlight AI-related strain: AI infrastructure demand is overwhelming supply, the Nasdaq 100 is having its worst November since 2008, and broader liquidity concerns accompany an AI unwind. For Oracle, one analyst called its AI bet low‑margin and questioned backlog credibility, while another article cast it as a potential ‘dark horse’ tied to a massive OpenAI cloud deal. This mix suggests that AI hype has been vulnerable to selloffs, consistent with ‘buy the rumor, sell the news’ dynamics. Quick facts also flag ‘Buy the rumor? no’ and ‘Sell the news? no,’ indicating cautious positioning.
 
-4.2. **Tarrifs:** No direct stock impact from tariffs is specified; available items note Oracle tools that help customers navigate tariff complexity rather than effects on ORCL shares.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -296,11 +304,11 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$12.44B</td></tr>
-<tr><td>Price</td><td>225.95</td></tr>
+<tr><td>Price</td><td>222.85</td></tr>
 <tr><td>7d Resistance</td><td>249.07</td></tr>
-<tr><td>7d Support</td><td>210.82</td></tr>
+<tr><td>7d Support</td><td>210.77</td></tr>
 <tr><td>30d Resistance</td><td>322.54</td></tr>
-<tr><td>30d Support</td><td>210.82</td></tr>
+<tr><td>30d Support</td><td>210.77</td></tr>
 <tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
@@ -330,12 +338,12 @@ raw_markdown: |
 Gathering context for ORCL...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting ORCL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ORCL/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting ORCL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ORCL/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
 Massive open-close: GET https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/ORCL/2025-11-14?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ORCL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ORCL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/ORCL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -378,9 +386,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+profitability&amp;num=5
@@ -392,9 +401,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+target+customers&amp;num=5
@@ -406,9 +416,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+competitors&amp;num=5
@@ -420,9 +431,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+rumors&amp;num=5
@@ -434,25 +446,28 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; ORCL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; ORCL latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+latest+rumor&amp;num=5
@@ -461,9 +476,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;ORCL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ORCL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;ORCL tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ORCL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   google_custom_search search -&gt; ORCL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+tariff+impact&amp;num=5
