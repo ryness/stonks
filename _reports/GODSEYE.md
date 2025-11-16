@@ -3,34 +3,34 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2025-11-16
-generated_at: 2025-11-16T05:21:45.757965+00:00
-runtime_seconds: 107.64
+generated_at: 2025-11-16T10:23:00.442580+00:00
+runtime_seconds: 99.70
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-16T05:21:45.757965+00:00">2025-11-16 05:21 UTC</time> (runtime 1m 48s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-16T10:23:00.442580+00:00">2025-11-16 10:23 UTC</time> (runtime 1m 40s)
   
   ## 1. Pulse
   
-  Equities closed mixed with a slight negative tilt as average index change was -0.05% and breadth was narrowly negative (7 up, 8 down). The S&P 500 slipped 0.05% and the Dow fell 0.65%, while the Nasdaq Composite rose 0.13% and the Russell 2000 added 0.22%, signaling selective buying rather than broad risk-on. On a 7-day basis, declines are more pronounced (S&P 500 -0.91%, Nasdaq -2.55%, Russell 2000 -3.11%), indicating risk appetite has been fading over the week.
+  Equities closed mixed with a slightly negative tilt: the S&P 500 slipped 0.05% and the Dow fell 0.65%, while the Nasdaq rose 0.13% and the Russell 2000 gained 0.22%. Breadth was nearly even (7 up, 8 down) and the average index change was -0.05%, signaling tepid risk-taking rather than a decisive shift.
   
-  Volatility eased intraday with the VIX down 0.85% to 19.83, but it remains elevated versus recent history, up 10.11% over the last week and 19.10% over the last month. This profile suggests only a modest improvement in near-term risk tone today against a still-defensive backdrop at the weekly and monthly horizons.
+  Across volatility and futures, the tone remained cautious. The VIX eased 0.85% on the day to 19.83 but is up 10.11% week over week and 19.10% over 30 days, indicating risk appetite has faded on a multi-session basis. S&P futures were off 0.07%, Dow futures -0.67%, Nasdaq futures flat, and Russell futures +0.25%, reinforcing a fragile, range-bound setup.
   
-  Futures conveyed a similar mixed tone: S&P futures -0.07%, Nasdaq futures essentially flat, Dow futures -0.67%, and Russell futures +0.25%. Rates firmed, with the 10Y Treasury yield up 0.88% on the day to 4.15% (down 0.22% on the week), which coincided with Dow underperformance; taken together, today’s risk appetite was marginally constructive in pockets but remains weaker when judged by the week’s cumulative losses.
+  Rates leaned risk-off at the margin, with the 10Y Treasury yield up 0.88% on the day to 4.15% (slightly higher over 30 days), which can pressure equities’ multiples. Commodities were mixed—gold fell 2.21% while WTI crude rose 2.39%—and the US Dollar ticked up 0.09%. Net-net, risk appetite is stabilizing intraday but has deteriorated over the past week.
   
-  1.1. **Market Health:** Market health is cautious-neutral. Breadth was slightly negative at 7 advancers versus 8 decliners, and the average index change of -0.05% underscores a lack of broad participation. The VIX at 19.83 is down on the day but up double-digits over the week and month, keeping stress elevated. With the 10Y yield up to 4.15% on the day, the rates backdrop is a headwind to a clean risk-on, and the 7-day equity declines point to fragile underlying momentum.
+  1.1. **Market Health:** Market health is cautious-neutral. Breadth was nearly balanced at 7 advancers to 8 decliners, and the average index change was a mild -0.05%, pointing to a choppy tape. The VIX at 19.83 dipped 0.85% today but remains elevated versus a week (+10.11%), while the 10Y yield rose 0.88% to 4.15%, a headwind to equities. Together, these suggest a market that’s not breaking down but remains fragile.
   
-  1.2. **Leadership:** Leadership was mixed on the day, with the Russell 2000 +0.22% and Nasdaq Composite +0.13% as relative bright spots, while the Dow 30 lagged at -0.65%. Over the last week, small caps and tech led the downside, with the Russell 2000 -3.11% and the Nasdaq Composite -2.55%, while the Dow 30 was the relative outperformer at -0.35% despite still being negative.
+  1.2. **Leadership:** Leadership rotated intraday toward growth and small caps, with the Russell 2000 up 0.22% and the Nasdaq Composite up 0.13%, while the Dow lagged at -0.65%. Over the last week, defensiveness shows in relative terms: the Dow is the least negative at -0.35%, whereas the Nasdaq (-2.55%) and Russell 2000 (-3.11%) are clear laggards. A positive standout today is the Russell 2000 (+0.22%) and a negative standout is the Dow 30 (-0.65%).
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** A key macro theme is the ‘data fog’ and valuation angst in AI-related names, as highlighted by reports of investors paring risk amid uncertainty about economic data and stretched tech valuations. This aligns with the Nasdaq’s 7-day decline of -2.55% and the VIX’s 10.11% weekly rise, reinforcing a risk-off tilt centered on growth and AI exposures. Investors are looking to Nvidia’s upcoming earnings for direction, with coverage emphasizing the company’s outsized influence on the AI trade and sector volatility. The 7-day pullbacks in the Nasdaq futures (-2.53%) and QQQ (-2.31%) illustrate heightened sensitivity to this single catalyst, which keeps risk appetite tentative until clarity emerges. Rate expectations remain a swing factor, with headlines noting fading hopes for imminent Fed cuts and others citing bond-market stability despite uncertainty. The 10Y yield’s 0.88% rise on the day to 4.15%, alongside WTI’s 2.39% gain and gold’s 2.21% drop, points to a cross-asset mix that can pressure duration-sensitive equities and favor a more defensive posture.
+  2.1. **Catalysts:** Renewed uncertainty around the policy outlook and data continuity is weighing on sentiment. Reports highlight a “data fog” stemming from the US government shutdown and fading confidence in near-term Fed rate cuts, which has coincided with a global risk-off tilt and higher volatility; this aligns with the VIX’s 10.11% rise over the week and broad weekly equity declines. AI- and mega-cap-tech sensitivity remains a central theme, with investor focus coalescing around Nvidia’s upcoming earnings as the next cue for the tech complex. The recent pressure on AI valuations and skittish tech flows map to the week’s declines in Nasdaq-linked benchmarks (Nasdaq Composite -2.55% and Nasdaq futures -2.53% over 7 days), implying a risk-off bias if results or guidance disappoint. Energy dynamics add a cross-current: oil-related headlines note firmer fuel markets, and WTI rose 2.39% on the day, potentially supporting energy shares. However, higher crude can complicate the inflation backdrop and is consistent with today’s uptick in the 10Y yield to 4.15%, a mix that can temper broader risk appetite.
   
   2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** flat 55% Mixed equity performance (S&P 500 -0.05%, Dow -0.65%, Nasdaq +0.13%, Russell +0.22%), narrowly negative breadth (7 up/8 down), and a slight VIX downtick against elevated weekly levels argue for balance rather than trend. Futures are similarly split (ES -0.07%, NQ flat, RTY +0.25%, YM -0.67%) while the 10Y yield moved up to 4.15%, creating offsetting forces. With catalysts centered on valuation concerns and rate-cut doubts but no specific near-term trigger in the provided data, a flat bias with moderate confidence is warranted.
+  3.1. **Next 24h Bias:** flat 55% given mixed index moves (S&P 500 -0.05%, Nasdaq +0.13%, Russell 2000 +0.22%), balanced breadth (7 up/8 down), a small VIX pullback on the day but elevated on the week (+10.11%), and a 10Y yield uptick to 4.15% that caps multiple expansion; futures are similarly mixed (ES -0.07%, NQ flat, RTY +0.25%).
   
-  3.2. **Watch List:** Watch the VIX around the 20 handle (last 19.83) and the 10Y yield near 4.15%; stability below 20 on the VIX and a contained move in yields would support a flat tape, while a push higher in either could pressure equities. Given weekly volatility remains elevated, confirming whether intraday softness persists or recedes will be key to tone. Track index and futures levels for confirmation of relative strength or weakness: ES around 6,755, NQ near 25,094, RTY roughly 2,396 (cash Russell 2,388), and YM about 47,229. Small caps showed a marginal edge today; holding the 2,390–2,400 zone on Russell futures would signal ongoing resilience, while renewed slippage would warn that weekly downside pressure is reasserting. Monitor sector tone in AI/semis given the focus on Nvidia, and cross-asset cues from commodities: WTI above $60.09 and gold at $4,094 after a -2.21% drop. Firm crude alongside higher yields tends to weigh on rate-sensitive areas, so any further rise could challenge cyclicals and keep the broader tape range-bound.
+  3.2. **Watch List:** Watch whether the S&P 500 can stabilize around 6,734 and whether S&P futures hold near 6,755; sustained trade above these areas would support a flat-to-range tone, while a break lower alongside a VIX push above 20 would skew risk lower. Keep an eye on the 10Y yield near 4.15%—further upside would likely pressure equities. Track leadership between tech and small caps: Nasdaq futures around 25,094 and Russell futures near 2,396 are key reference points. If small caps and growth maintain a bid while the Dow underperforms, the tape likely remains choppy rather than directional. Monitor cross-asset tells: WTI crude’s strength (60.09, +2.39% 1d) versus gold’s drop (4,094, -2.21% 1d) and the US Dollar at 99.27 (+0.09% 1d). Continued oil firmness with a firm dollar and rising yields would argue for defensive posture, while a cooling in yields and volatility would favor a steadier equity range.
   
   ## 4. QuickRef
   
@@ -89,10 +89,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
-  Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -101,10 +98,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
-  Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -127,31 +121,31 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-16T05:21:45.757965+00:00">2025-11-16 05:21 UTC</time> (runtime 1m 48s)
+**Generated:** <time class="js-local-time" datetime="2025-11-16T10:23:00.442580+00:00">2025-11-16 10:23 UTC</time> (runtime 1m 40s)
 
 ## 1. Pulse
 
-Equities closed mixed with a slight negative tilt as average index change was -0.05% and breadth was narrowly negative (7 up, 8 down). The S&P 500 slipped 0.05% and the Dow fell 0.65%, while the Nasdaq Composite rose 0.13% and the Russell 2000 added 0.22%, signaling selective buying rather than broad risk-on. On a 7-day basis, declines are more pronounced (S&P 500 -0.91%, Nasdaq -2.55%, Russell 2000 -3.11%), indicating risk appetite has been fading over the week.
+Equities closed mixed with a slightly negative tilt: the S&P 500 slipped 0.05% and the Dow fell 0.65%, while the Nasdaq rose 0.13% and the Russell 2000 gained 0.22%. Breadth was nearly even (7 up, 8 down) and the average index change was -0.05%, signaling tepid risk-taking rather than a decisive shift.
 
-Volatility eased intraday with the VIX down 0.85% to 19.83, but it remains elevated versus recent history, up 10.11% over the last week and 19.10% over the last month. This profile suggests only a modest improvement in near-term risk tone today against a still-defensive backdrop at the weekly and monthly horizons.
+Across volatility and futures, the tone remained cautious. The VIX eased 0.85% on the day to 19.83 but is up 10.11% week over week and 19.10% over 30 days, indicating risk appetite has faded on a multi-session basis. S&P futures were off 0.07%, Dow futures -0.67%, Nasdaq futures flat, and Russell futures +0.25%, reinforcing a fragile, range-bound setup.
 
-Futures conveyed a similar mixed tone: S&P futures -0.07%, Nasdaq futures essentially flat, Dow futures -0.67%, and Russell futures +0.25%. Rates firmed, with the 10Y Treasury yield up 0.88% on the day to 4.15% (down 0.22% on the week), which coincided with Dow underperformance; taken together, today’s risk appetite was marginally constructive in pockets but remains weaker when judged by the week’s cumulative losses.
+Rates leaned risk-off at the margin, with the 10Y Treasury yield up 0.88% on the day to 4.15% (slightly higher over 30 days), which can pressure equities’ multiples. Commodities were mixed—gold fell 2.21% while WTI crude rose 2.39%—and the US Dollar ticked up 0.09%. Net-net, risk appetite is stabilizing intraday but has deteriorated over the past week.
 
-1.1. **Market Health:** Market health is cautious-neutral. Breadth was slightly negative at 7 advancers versus 8 decliners, and the average index change of -0.05% underscores a lack of broad participation. The VIX at 19.83 is down on the day but up double-digits over the week and month, keeping stress elevated. With the 10Y yield up to 4.15% on the day, the rates backdrop is a headwind to a clean risk-on, and the 7-day equity declines point to fragile underlying momentum.
+1.1. **Market Health:** Market health is cautious-neutral. Breadth was nearly balanced at 7 advancers to 8 decliners, and the average index change was a mild -0.05%, pointing to a choppy tape. The VIX at 19.83 dipped 0.85% today but remains elevated versus a week (+10.11%), while the 10Y yield rose 0.88% to 4.15%, a headwind to equities. Together, these suggest a market that’s not breaking down but remains fragile.
 
-1.2. **Leadership:** Leadership was mixed on the day, with the Russell 2000 +0.22% and Nasdaq Composite +0.13% as relative bright spots, while the Dow 30 lagged at -0.65%. Over the last week, small caps and tech led the downside, with the Russell 2000 -3.11% and the Nasdaq Composite -2.55%, while the Dow 30 was the relative outperformer at -0.35% despite still being negative.
+1.2. **Leadership:** Leadership rotated intraday toward growth and small caps, with the Russell 2000 up 0.22% and the Nasdaq Composite up 0.13%, while the Dow lagged at -0.65%. Over the last week, defensiveness shows in relative terms: the Dow is the least negative at -0.35%, whereas the Nasdaq (-2.55%) and Russell 2000 (-3.11%) are clear laggards. A positive standout today is the Russell 2000 (+0.22%) and a negative standout is the Dow 30 (-0.65%).
 
 ## 2. Drivers
 
-2.1. **Catalysts:** A key macro theme is the ‘data fog’ and valuation angst in AI-related names, as highlighted by reports of investors paring risk amid uncertainty about economic data and stretched tech valuations. This aligns with the Nasdaq’s 7-day decline of -2.55% and the VIX’s 10.11% weekly rise, reinforcing a risk-off tilt centered on growth and AI exposures. Investors are looking to Nvidia’s upcoming earnings for direction, with coverage emphasizing the company’s outsized influence on the AI trade and sector volatility. The 7-day pullbacks in the Nasdaq futures (-2.53%) and QQQ (-2.31%) illustrate heightened sensitivity to this single catalyst, which keeps risk appetite tentative until clarity emerges. Rate expectations remain a swing factor, with headlines noting fading hopes for imminent Fed cuts and others citing bond-market stability despite uncertainty. The 10Y yield’s 0.88% rise on the day to 4.15%, alongside WTI’s 2.39% gain and gold’s 2.21% drop, points to a cross-asset mix that can pressure duration-sensitive equities and favor a more defensive posture.
+2.1. **Catalysts:** Renewed uncertainty around the policy outlook and data continuity is weighing on sentiment. Reports highlight a “data fog” stemming from the US government shutdown and fading confidence in near-term Fed rate cuts, which has coincided with a global risk-off tilt and higher volatility; this aligns with the VIX’s 10.11% rise over the week and broad weekly equity declines. AI- and mega-cap-tech sensitivity remains a central theme, with investor focus coalescing around Nvidia’s upcoming earnings as the next cue for the tech complex. The recent pressure on AI valuations and skittish tech flows map to the week’s declines in Nasdaq-linked benchmarks (Nasdaq Composite -2.55% and Nasdaq futures -2.53% over 7 days), implying a risk-off bias if results or guidance disappoint. Energy dynamics add a cross-current: oil-related headlines note firmer fuel markets, and WTI rose 2.39% on the day, potentially supporting energy shares. However, higher crude can complicate the inflation backdrop and is consistent with today’s uptick in the 10Y yield to 4.15%, a mix that can temper broader risk appetite.
 
 2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** flat 55% Mixed equity performance (S&P 500 -0.05%, Dow -0.65%, Nasdaq +0.13%, Russell +0.22%), narrowly negative breadth (7 up/8 down), and a slight VIX downtick against elevated weekly levels argue for balance rather than trend. Futures are similarly split (ES -0.07%, NQ flat, RTY +0.25%, YM -0.67%) while the 10Y yield moved up to 4.15%, creating offsetting forces. With catalysts centered on valuation concerns and rate-cut doubts but no specific near-term trigger in the provided data, a flat bias with moderate confidence is warranted.
+3.1. **Next 24h Bias:** flat 55% given mixed index moves (S&P 500 -0.05%, Nasdaq +0.13%, Russell 2000 +0.22%), balanced breadth (7 up/8 down), a small VIX pullback on the day but elevated on the week (+10.11%), and a 10Y yield uptick to 4.15% that caps multiple expansion; futures are similarly mixed (ES -0.07%, NQ flat, RTY +0.25%).
 
-3.2. **Watch List:** Watch the VIX around the 20 handle (last 19.83) and the 10Y yield near 4.15%; stability below 20 on the VIX and a contained move in yields would support a flat tape, while a push higher in either could pressure equities. Given weekly volatility remains elevated, confirming whether intraday softness persists or recedes will be key to tone. Track index and futures levels for confirmation of relative strength or weakness: ES around 6,755, NQ near 25,094, RTY roughly 2,396 (cash Russell 2,388), and YM about 47,229. Small caps showed a marginal edge today; holding the 2,390–2,400 zone on Russell futures would signal ongoing resilience, while renewed slippage would warn that weekly downside pressure is reasserting. Monitor sector tone in AI/semis given the focus on Nvidia, and cross-asset cues from commodities: WTI above $60.09 and gold at $4,094 after a -2.21% drop. Firm crude alongside higher yields tends to weigh on rate-sensitive areas, so any further rise could challenge cyclicals and keep the broader tape range-bound.
+3.2. **Watch List:** Watch whether the S&P 500 can stabilize around 6,734 and whether S&P futures hold near 6,755; sustained trade above these areas would support a flat-to-range tone, while a break lower alongside a VIX push above 20 would skew risk lower. Keep an eye on the 10Y yield near 4.15%—further upside would likely pressure equities. Track leadership between tech and small caps: Nasdaq futures around 25,094 and Russell futures near 2,396 are key reference points. If small caps and growth maintain a bid while the Dow underperforms, the tape likely remains choppy rather than directional. Monitor cross-asset tells: WTI crude’s strength (60.09, +2.39% 1d) versus gold’s drop (4,094, -2.21% 1d) and the US Dollar at 99.27 (+0.09% 1d). Continued oil firmness with a firm dollar and rising yields would argue for defensive posture, while a cooling in yields and volatility would favor a steadier equity range.
 
 ## 4. QuickRef
 
@@ -210,10 +204,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=global+futures+market+sn
     newsapi: 5 result(s)
   google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
-Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -222,10 +213,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commenta
     newsapi: 5 result(s)
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
-Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
