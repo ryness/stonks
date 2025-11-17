@@ -2,34 +2,34 @@
 layout: default
 title: "AMD Stock Report"
 ticker: "AMD"
-date: 2025-11-15
-generated_at: 2025-11-15T10:44:09.797135+00:00
-runtime_seconds: 100.90
+date: 2025-11-17
+generated_at: 2025-11-17T01:29:28.265948+00:00
+runtime_seconds: 91.94
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T10:44:09.797135+00:00">2025-11-15 10:44 UTC</time> (runtime 1m 41s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-17T01:29:28.265948+00:00">2025-11-17 01:29 UTC</time> (runtime 1m 32s)
   
   ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are near multi-period highs (3mo/1yr/5yr: near-peak) with a 7d uptrend and 'in the middle' on overbought/sold; macro AI-froth worries appear in recent headlines, and price is just below the 20DMA (246.81 vs 248.11), ~7% under 7d resistance (263.51) and ~9% above support (224.64).
+  0.1. **Long Entry?:** maybe — shares are near multi-period peaks (3mo/1yr/5yr: near-peak) with AI froth concerns in headlines (“valuation problem” and pre-Nvidia-earnings jitters); price sits just below the 20-DMA (246.81 vs 248.11) and between support 224.64 and resistance 263.51.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, AI accelerators, and adaptive computing chips for PCs, gaming consoles, data centers (including AI), industrial, and automotive applications. It also supplies semi-custom SoCs for Sony PlayStation and Microsoft Xbox, and operates across Data Center, Client, Gaming, and Embedded segments.
+  1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and accelerators for PCs, gaming consoles, and data centers (including AI), as well as industrial and automotive applications. It is a fabless semiconductor company and a growing player in AI GPUs and related hardware. Reportable segments include Data Center, Client, Gaming, and Embedded.
   
-  1.2. **Profitable?:** yes — net income was positive in each of the last four quarters (totaling ~$3.31B) with ~10.3% profit margin and strong free cash flow.
+  1.2. **Profitable?:** yes — net income is positive across recent periods (sum ~$3.31B) with a ~10% profit margin, strong earnings growth (61%), and positive free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers include PC OEMs, cloud/data-center operators, and console makers such as Sony and Microsoft, along with industrial and automotive device manufacturers. Markets span PCs, gaming, AI/data centers, industrial, and automotive semiconductors.
+  1.3. **Customer & Markets:** Primary customers include PC OEMs, hyperscale/cloud data centers, and game console partners (Sony PlayStation and Microsoft Xbox), plus industrial/automotive and embedded OEMs. Key markets span PCs, gaming, data center AI, industrial, and automotive applications.
   
-  1.4. **Competition:** Competitors include Nvidia (GPUs/AI), Intel (CPUs), and Broadcom (custom AI accelerators); AMD is an established CPU/GPU vendor and an emerging AI GPU player, while Broadcom holds 75% share in custom AI accelerators per the cited article.
+  1.4. **Competition:** AMD competes primarily with Nvidia in AI/data center GPUs and Intel in x86 CPUs, with Broadcom also relevant in infrastructure. Nvidia leads AI GPUs, while AMD is positioning to expand share and growth in data center and maintains a strong CPU rivalry with Intel.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price climbed off the 7d local low (234.64) to close at 246.81 and remains below the 7d high (263.51).
+  2.1. **7d Trend?:** up — price advanced off a 234.64 local low toward a 263.51 local high, closing 246.81 in an uptrend.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 234.64 (suggested buy zone/local low) and selling or trimming near 263.51 (suggested sell zone/resistance) were favorable levels.
+  2.2. **7d Buy/Sell Points?:** Buys near support around 234.64 looked favorable; sells into resistance around 263.51/local highs offered exits.
   
   2.3.1. **7d Volume:** med
   
@@ -37,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** AMD is a long-established U.S. semiconductor designer with diversified exposure across PCs, gaming, data center/AI, industrial, and automotive. Recent results show consistent profitability (net income in each of the last four quarters, 10.3% margin) and solid cash generation ($6.41B operating cash flow and $3.25B free cash flow). Operations span four segments (Data Center, Client, Gaming, Embedded), reducing single-market dependence. While volatility is high (ATR ~5.6% of price), its growth and cash flow profile reflect a generally stable institution.
+  3.1. **Stability?:** AMD appears to be a stable, established semiconductor designer with diversified end markets across PCs, gaming, data center AI, industrial, and automotive. It is profitable (profit margin ~10%) with positive operating cash flow ($6.41B) and free cash flow (~$3.25B). Recent revenue and earnings growth are robust (revenue +35.6%, earnings +61.2%). Its broad product portfolio and positive cash generation suggest resilience rather than a fly-by-night profile.
   
-  3.2. **Innovating?:** Yes — it is expanding in AI GPUs and related hardware, with strong growth metrics (revenue +35.6%, earnings +61.2%) and partnerships noted with OpenAI and the U.S. Department of Energy.
+  3.2. **Innovating?:** Yes—AMD is innovating, highlighted by its push into AI GPUs/accelerators (e.g., Instinct MI350 MLPerf results) and an upbeat data center/AI growth outlook from its investor day. Newsflow points to an aggressive roadmap to challenge incumbents in AI computing.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights a volatile session where AMD fell on geopolitical and rate worries before recovering as AI stocks attracted buyers. A separate piece spotlights Broadcom’s 75% share in custom AI accelerators, framing competitive dynamics in AI infrastructure. AMD Ventures’ participation in Classiq’s funding round underscores ongoing bets on next-wave compute (quantum). Another article cites AMD’s expansion into AI/data centers with 36% revenue growth and partnerships with OpenAI and the U.S. Department of Energy. In this context, quick facts flag no clear ‘buy the rumor’ or ‘sell the news’ setup, suggesting moves are more macro/sector-driven than event-driven.
+  4.1. **News:** Recent coverage notes AMD rose 5.7% during a volatile week on a strong investor day and expectations for AI data center GPU and CPU share gains. Additional reports highlight first MLPerf training results on Instinct MI350 GPUs and an upbeat AI/data center growth roadmap. Broader sentiment shows AI valuation jitters and attention on Nvidia’s upcoming earnings, which can sway peer sentiment. Given quick facts indicating ‘Buy the rumor? no’ and ‘Sell the news? no,’ there’s limited evidence of a classic buy-the-rumor, sell-the-news setup in the latest move.
   
-  4.2. **Tarrifs:** Tariff headlines suggest potential short-term cost impacts (AMD’s CEO flagged possible near-term effects), while reports indicate some large tech firms have mitigated exposure via arrangements, leaving the net stock impact uncertain.
+  4.2. **Tarrifs:** AMD’s CEO indicated tariffs could have a short-term impact on semiconductors; some commentary suggests AMD may be less exposed than certain peers due to supply chain layout. Overall, the direct effect on the stock is noted but not quantified in the provided data.
   
   ## 5. QuickRef
   
@@ -77,7 +77,7 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   </ul>
   </div>
   
@@ -88,7 +88,7 @@ raw_markdown: |
   Gathering context for AMD...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
@@ -134,13 +134,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -149,13 +143,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -164,13 +152,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -179,13 +161,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -194,43 +170,19 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; AMD tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; AMD latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; AMD tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;AMD tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=AMD+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;AMD tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=AMD+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AMD tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -256,30 +208,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T10:44:09.797135+00:00">2025-11-15 10:44 UTC</time> (runtime 1m 41s)
+**Generated:** <time class="js-local-time" datetime="2025-11-17T01:29:28.265948+00:00">2025-11-17 01:29 UTC</time> (runtime 1m 32s)
 
 ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are near multi-period highs (3mo/1yr/5yr: near-peak) with a 7d uptrend and 'in the middle' on overbought/sold; macro AI-froth worries appear in recent headlines, and price is just below the 20DMA (246.81 vs 248.11), ~7% under 7d resistance (263.51) and ~9% above support (224.64).
+0.1. **Long Entry?:** maybe — shares are near multi-period peaks (3mo/1yr/5yr: near-peak) with AI froth concerns in headlines (“valuation problem” and pre-Nvidia-earnings jitters); price sits just below the 20-DMA (246.81 vs 248.11) and between support 224.64 and resistance 263.51.
 
 ## 1. The Biz
 
-1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, AI accelerators, and adaptive computing chips for PCs, gaming consoles, data centers (including AI), industrial, and automotive applications. It also supplies semi-custom SoCs for Sony PlayStation and Microsoft Xbox, and operates across Data Center, Client, Gaming, and Embedded segments.
+1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and accelerators for PCs, gaming consoles, and data centers (including AI), as well as industrial and automotive applications. It is a fabless semiconductor company and a growing player in AI GPUs and related hardware. Reportable segments include Data Center, Client, Gaming, and Embedded.
 
-1.2. **Profitable?:** yes — net income was positive in each of the last four quarters (totaling ~$3.31B) with ~10.3% profit margin and strong free cash flow.
+1.2. **Profitable?:** yes — net income is positive across recent periods (sum ~$3.31B) with a ~10% profit margin, strong earnings growth (61%), and positive free cash flow.
 
-1.3. **Customer & Markets:** Primary customers include PC OEMs, cloud/data-center operators, and console makers such as Sony and Microsoft, along with industrial and automotive device manufacturers. Markets span PCs, gaming, AI/data centers, industrial, and automotive semiconductors.
+1.3. **Customer & Markets:** Primary customers include PC OEMs, hyperscale/cloud data centers, and game console partners (Sony PlayStation and Microsoft Xbox), plus industrial/automotive and embedded OEMs. Key markets span PCs, gaming, data center AI, industrial, and automotive applications.
 
-1.4. **Competition:** Competitors include Nvidia (GPUs/AI), Intel (CPUs), and Broadcom (custom AI accelerators); AMD is an established CPU/GPU vendor and an emerging AI GPU player, while Broadcom holds 75% share in custom AI accelerators per the cited article.
+1.4. **Competition:** AMD competes primarily with Nvidia in AI/data center GPUs and Intel in x86 CPUs, with Broadcom also relevant in infrastructure. Nvidia leads AI GPUs, while AMD is positioning to expand share and growth in data center and maintains a strong CPU rivalry with Intel.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price climbed off the 7d local low (234.64) to close at 246.81 and remains below the 7d high (263.51).
+2.1. **7d Trend?:** up — price advanced off a 234.64 local low toward a 263.51 local high, closing 246.81 in an uptrend.
 
-2.2. **7d Buy/Sell Points?:** Buying near 234.64 (suggested buy zone/local low) and selling or trimming near 263.51 (suggested sell zone/resistance) were favorable levels.
+2.2. **7d Buy/Sell Points?:** Buys near support around 234.64 looked favorable; sells into resistance around 263.51/local highs offered exits.
 
 2.3.1. **7d Volume:** med
 
@@ -287,15 +239,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** AMD is a long-established U.S. semiconductor designer with diversified exposure across PCs, gaming, data center/AI, industrial, and automotive. Recent results show consistent profitability (net income in each of the last four quarters, 10.3% margin) and solid cash generation ($6.41B operating cash flow and $3.25B free cash flow). Operations span four segments (Data Center, Client, Gaming, Embedded), reducing single-market dependence. While volatility is high (ATR ~5.6% of price), its growth and cash flow profile reflect a generally stable institution.
+3.1. **Stability?:** AMD appears to be a stable, established semiconductor designer with diversified end markets across PCs, gaming, data center AI, industrial, and automotive. It is profitable (profit margin ~10%) with positive operating cash flow ($6.41B) and free cash flow (~$3.25B). Recent revenue and earnings growth are robust (revenue +35.6%, earnings +61.2%). Its broad product portfolio and positive cash generation suggest resilience rather than a fly-by-night profile.
 
-3.2. **Innovating?:** Yes — it is expanding in AI GPUs and related hardware, with strong growth metrics (revenue +35.6%, earnings +61.2%) and partnerships noted with OpenAI and the U.S. Department of Energy.
+3.2. **Innovating?:** Yes—AMD is innovating, highlighted by its push into AI GPUs/accelerators (e.g., Instinct MI350 MLPerf results) and an upbeat data center/AI growth outlook from its investor day. Newsflow points to an aggressive roadmap to challenge incumbents in AI computing.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights a volatile session where AMD fell on geopolitical and rate worries before recovering as AI stocks attracted buyers. A separate piece spotlights Broadcom’s 75% share in custom AI accelerators, framing competitive dynamics in AI infrastructure. AMD Ventures’ participation in Classiq’s funding round underscores ongoing bets on next-wave compute (quantum). Another article cites AMD’s expansion into AI/data centers with 36% revenue growth and partnerships with OpenAI and the U.S. Department of Energy. In this context, quick facts flag no clear ‘buy the rumor’ or ‘sell the news’ setup, suggesting moves are more macro/sector-driven than event-driven.
+4.1. **News:** Recent coverage notes AMD rose 5.7% during a volatile week on a strong investor day and expectations for AI data center GPU and CPU share gains. Additional reports highlight first MLPerf training results on Instinct MI350 GPUs and an upbeat AI/data center growth roadmap. Broader sentiment shows AI valuation jitters and attention on Nvidia’s upcoming earnings, which can sway peer sentiment. Given quick facts indicating ‘Buy the rumor? no’ and ‘Sell the news? no,’ there’s limited evidence of a classic buy-the-rumor, sell-the-news setup in the latest move.
 
-4.2. **Tarrifs:** Tariff headlines suggest potential short-term cost impacts (AMD’s CEO flagged possible near-term effects), while reports indicate some large tech firms have mitigated exposure via arrangements, leaving the net stock impact uncertain.
+4.2. **Tarrifs:** AMD’s CEO indicated tariffs could have a short-term impact on semiconductors; some commentary suggests AMD may be less exposed than certain peers due to supply chain layout. Overall, the direct effect on the stock is noted but not quantified in the provided data.
 
 ## 5. QuickRef
 
@@ -327,7 +279,7 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 </ul>
 </div>
 
@@ -338,7 +290,7 @@ raw_markdown: |
 Gathering context for AMD...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
@@ -384,13 +336,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -399,13 +345,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -414,13 +354,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -429,13 +363,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -444,43 +372,19 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; AMD tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; AMD latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; AMD tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;AMD tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=AMD+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;AMD tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=AMD+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AMD tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
