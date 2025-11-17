@@ -2,34 +2,34 @@
 layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
-date: 2025-11-15
-generated_at: 2025-11-15T11:20:31.795358+00:00
-runtime_seconds: 86.06
+date: 2025-11-17
+generated_at: 2025-11-17T05:22:01.020642+00:00
+runtime_seconds: 103.30
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T11:20:31.795358+00:00">2025-11-15 11:20 UTC</time> (runtime 1m 26s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-17T05:22:01.020642+00:00">2025-11-17 05:22 UTC</time> (runtime 1m 43s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — history shows a down 7d trend and 'Buy the dip?' = no, with limited macro froth visibility; shares trade below the 20-DMA (16.09) and sit just above 7d support at 11.55 versus resistance at 15.68
+  0.1. **Long Entry?:** no — in a 7d downtrend, shares closed 12.17 well below the 20-DMA 16.09/EMA 15.79/SMA 16.64 and under 7d resistance 15.68 while sitting just above support 11.55; macro froth visibility is limited in the supplied data, and 3mo positioning is 'near-bottom' rather than extended.
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI provides an independent voice AI platform enabling high-quality conversational experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents. It serves retail, financial services, healthcare, automotive, smart devices, and restaurants.
+  1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform enabling natural, multi-language interactions. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents for enterprises and device makers. It serves sectors such as automotive, restaurants, retail, financial services, healthcare, and smart devices.
   
-  1.2. **Profitable?:** No — profit margin is -210.7% with negative free and operating cash flow, though it recently raised its 2025 outlook indicating a path toward profitability.
+  1.2. **Profitable?:** No — it remains unprofitable with a -210.7% profit margin and negative free and operating cash flow, though it recently raised its 2025 outlook indicating a trajectory toward profitability.
   
-  1.3. **Customer & Markets:** Primary customers are product creators and service providers in retail, financial services, healthcare, automotive, smart devices, and restaurants; automotive partners include Stellantis and Mercedes. As a U.S.-based provider offering multilingual voice AI, it targets enterprise deployments across these verticals.
+  1.3. **Customer & Markets:** Primary customers are product creators and service providers across automotive, restaurants, retail, financial services, healthcare, and smart devices. Markets include the United States, Korea, France, Japan, and Germany, with partnerships noted with Stellantis and Mercedes.
   
-  1.4. **Competition:** Primary competitor/peer listings provided are NVIDIA (NVDA) and Stellantis (STLA); relative ranking versus these names is unknown.
+  1.4. **Competition:** Competitors noted in the dataset include NVIDIA and Stellantis; SoundHound is a niche voice-AI provider among larger players, with no explicit market rank provided.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price is in a labeled downtrend, below the 20-DMA (16.09) and ranging roughly 11.55–12.49.
+  2.1. **7d Trend?:** down — the stock closed at 12.17 below the suggested 13.72–14.98 buy/sell range and under the 20-DMA 16.09.
   
-  2.2. **7d Buy/Sell Points?:** Buys looked best near 7d support around 11.55; sells near the 14.98 suggested sell zone and the 15.68 resistance.
+  2.2. **7d Buy/Sell Points?:** Buying near 13.72 (suggested buy zone) and selling near 14.98 (suggested sell zone) were favorable levels; 11.55 acted as nearby support for risk management or opportunistic entries.
   
   2.3.1. **7d Volume:** med
   
@@ -37,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SoundHound AI appears more emerging than established, with ongoing losses and cash burn. Net income across recent periods sums to -$312.66M, profit margin is -210.7%, and both free cash flow and operating cash flow are negative. Revenue growth of 67.6% and partnerships with brands like Stellantis and Mercedes suggest commercial traction. High volatility and a downtrend indicate higher risk than a mature, stable institution.
+  3.1. **Stability?:** SoundHound AI is an established voice-AI platform company but not yet a mature, cash-generative business. Its recent net income history sums to a loss (-$312.66M), profit margin is deeply negative, and both operating cash flow and free cash flow are negative, indicating balance-sheet strain. However, it shows strong revenue growth (67.6% y/y cited) and partnerships with major automakers (Stellantis, Mercedes), which add commercial validation. Overall stability is moderate-to-weak versus established tech incumbents, with execution and funding risks still present.
   
-  3.2. **Innovating?:** Innovating and growing — revenue growth is strong (67.6%), and it is advancing agentic/generative voice AI via the Amelia acquisition and products like Dynamic Drive-Thru.
+  3.2. **Innovating?:** Yes — it is innovating and growing, integrating generative AI with speech recognition and expanding offerings like Dynamic Drive-Thru and Amelia AI Agents, with a raised outlook and rapid revenue growth noted.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights record growth and a raised 2025 outlook, with Q2 revenue reportedly tripling to $42.7M. Other pieces caution about cash burn, dilution, and operating losses, framing the stock as speculative or a hold. The stock was down nearly 30% earlier in the month amid a shift toward voice-first agentic AI and partnerships (e.g., Stellantis, Mercedes). With quick facts showing 'Buy the rumor?' and 'Sell the news?' both set to 'no,' rumor/news-driven trades may have limited follow-through.
+  4.1. **News:** Recent coverage highlights record growth and a raised 2025 outlook, suggesting momentum and a path toward profitability. Other analyses emphasize rapid revenue expansion but ongoing cash burn, dilution, and operating losses, framing the stock as speculative. The company is shifting to a voice-first agentic AI posture after acquiring Amelia and has partnerships with brands like Stellantis and Mercedes. Considering 'buy the rumor, sell the news,' the sizable drawdowns despite upbeat headlines suggest good news may have been partly priced in or outweighed by profitability concerns.
   
-  4.2. **Tarrifs:** Reports indicate tariffs accelerated a selloff in early April 2025 for SOUN, adding pressure even as shares had been weakening beforehand.
+  4.2. **Tarrifs:** Tariff headlines have been a headwind, with SOUN’s decline accelerating around tariff news in April 2025, though weakness preceded the announcements.
   
   ## 5. QuickRef
   
@@ -77,7 +77,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>The Guardian: rumor</li>
   </ul>
   </div>
   
@@ -88,7 +89,7 @@ raw_markdown: |
   Gathering context for SOUN...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
@@ -134,13 +135,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; SOUN profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -149,13 +144,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -164,13 +153,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SOUN competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -179,13 +162,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; SOUN rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -194,43 +171,23 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
       guardian: 5 result(s)
     newsapi search -&gt; SOUN tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 3 result(s)
     newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SOUN tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SOUN tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -256,30 +213,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T11:20:31.795358+00:00">2025-11-15 11:20 UTC</time> (runtime 1m 26s)
+**Generated:** <time class="js-local-time" datetime="2025-11-17T05:22:01.020642+00:00">2025-11-17 05:22 UTC</time> (runtime 1m 43s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — history shows a down 7d trend and 'Buy the dip?' = no, with limited macro froth visibility; shares trade below the 20-DMA (16.09) and sit just above 7d support at 11.55 versus resistance at 15.68
+0.1. **Long Entry?:** no — in a 7d downtrend, shares closed 12.17 well below the 20-DMA 16.09/EMA 15.79/SMA 16.64 and under 7d resistance 15.68 while sitting just above support 11.55; macro froth visibility is limited in the supplied data, and 3mo positioning is 'near-bottom' rather than extended.
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI provides an independent voice AI platform enabling high-quality conversational experiences for businesses. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents. It serves retail, financial services, healthcare, automotive, smart devices, and restaurants.
+1.1. **Activities:** SoundHound AI provides an independent voice and conversational AI platform enabling natural, multi-language interactions. Its products include Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents for enterprises and device makers. It serves sectors such as automotive, restaurants, retail, financial services, healthcare, and smart devices.
 
-1.2. **Profitable?:** No — profit margin is -210.7% with negative free and operating cash flow, though it recently raised its 2025 outlook indicating a path toward profitability.
+1.2. **Profitable?:** No — it remains unprofitable with a -210.7% profit margin and negative free and operating cash flow, though it recently raised its 2025 outlook indicating a trajectory toward profitability.
 
-1.3. **Customer & Markets:** Primary customers are product creators and service providers in retail, financial services, healthcare, automotive, smart devices, and restaurants; automotive partners include Stellantis and Mercedes. As a U.S.-based provider offering multilingual voice AI, it targets enterprise deployments across these verticals.
+1.3. **Customer & Markets:** Primary customers are product creators and service providers across automotive, restaurants, retail, financial services, healthcare, and smart devices. Markets include the United States, Korea, France, Japan, and Germany, with partnerships noted with Stellantis and Mercedes.
 
-1.4. **Competition:** Primary competitor/peer listings provided are NVIDIA (NVDA) and Stellantis (STLA); relative ranking versus these names is unknown.
+1.4. **Competition:** Competitors noted in the dataset include NVIDIA and Stellantis; SoundHound is a niche voice-AI provider among larger players, with no explicit market rank provided.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price is in a labeled downtrend, below the 20-DMA (16.09) and ranging roughly 11.55–12.49.
+2.1. **7d Trend?:** down — the stock closed at 12.17 below the suggested 13.72–14.98 buy/sell range and under the 20-DMA 16.09.
 
-2.2. **7d Buy/Sell Points?:** Buys looked best near 7d support around 11.55; sells near the 14.98 suggested sell zone and the 15.68 resistance.
+2.2. **7d Buy/Sell Points?:** Buying near 13.72 (suggested buy zone) and selling near 14.98 (suggested sell zone) were favorable levels; 11.55 acted as nearby support for risk management or opportunistic entries.
 
 2.3.1. **7d Volume:** med
 
@@ -287,15 +244,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SoundHound AI appears more emerging than established, with ongoing losses and cash burn. Net income across recent periods sums to -$312.66M, profit margin is -210.7%, and both free cash flow and operating cash flow are negative. Revenue growth of 67.6% and partnerships with brands like Stellantis and Mercedes suggest commercial traction. High volatility and a downtrend indicate higher risk than a mature, stable institution.
+3.1. **Stability?:** SoundHound AI is an established voice-AI platform company but not yet a mature, cash-generative business. Its recent net income history sums to a loss (-$312.66M), profit margin is deeply negative, and both operating cash flow and free cash flow are negative, indicating balance-sheet strain. However, it shows strong revenue growth (67.6% y/y cited) and partnerships with major automakers (Stellantis, Mercedes), which add commercial validation. Overall stability is moderate-to-weak versus established tech incumbents, with execution and funding risks still present.
 
-3.2. **Innovating?:** Innovating and growing — revenue growth is strong (67.6%), and it is advancing agentic/generative voice AI via the Amelia acquisition and products like Dynamic Drive-Thru.
+3.2. **Innovating?:** Yes — it is innovating and growing, integrating generative AI with speech recognition and expanding offerings like Dynamic Drive-Thru and Amelia AI Agents, with a raised outlook and rapid revenue growth noted.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights record growth and a raised 2025 outlook, with Q2 revenue reportedly tripling to $42.7M. Other pieces caution about cash burn, dilution, and operating losses, framing the stock as speculative or a hold. The stock was down nearly 30% earlier in the month amid a shift toward voice-first agentic AI and partnerships (e.g., Stellantis, Mercedes). With quick facts showing 'Buy the rumor?' and 'Sell the news?' both set to 'no,' rumor/news-driven trades may have limited follow-through.
+4.1. **News:** Recent coverage highlights record growth and a raised 2025 outlook, suggesting momentum and a path toward profitability. Other analyses emphasize rapid revenue expansion but ongoing cash burn, dilution, and operating losses, framing the stock as speculative. The company is shifting to a voice-first agentic AI posture after acquiring Amelia and has partnerships with brands like Stellantis and Mercedes. Considering 'buy the rumor, sell the news,' the sizable drawdowns despite upbeat headlines suggest good news may have been partly priced in or outweighed by profitability concerns.
 
-4.2. **Tarrifs:** Reports indicate tariffs accelerated a selloff in early April 2025 for SOUN, adding pressure even as shares had been weakening beforehand.
+4.2. **Tarrifs:** Tariff headlines have been a headwind, with SOUN’s decline accelerating around tariff news in April 2025, though weakness preceded the announcements.
 
 ## 5. QuickRef
 
@@ -327,7 +284,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>The Guardian: rumor</li>
 </ul>
 </div>
 
@@ -338,7 +296,7 @@ raw_markdown: |
 Gathering context for SOUN...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting SOUN prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SOUN/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
@@ -384,13 +342,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; SOUN profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -399,13 +351,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -414,13 +360,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SOUN competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -429,13 +369,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; SOUN rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -444,43 +378,23 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SOUN+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SOUN+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
     guardian: 5 result(s)
   newsapi search -&gt; SOUN tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 3 result(s)
   newsapi search -&gt; SOUN latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; SOUN latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SOUN tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SOUN tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
