@@ -2,50 +2,50 @@
 layout: default
 title: "OKLO Stock Report"
 ticker: "OKLO"
-date: 2025-11-15
-generated_at: 2025-11-15T17:41:10.287472+00:00
-runtime_seconds: 82.59
+date: 2025-11-19
+generated_at: 2025-11-19T15:22:56.072417+00:00
+runtime_seconds: 104.01
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-15T17:41:10.287472+00:00">2025-11-15 17:41 UTC</time> (runtime 1m 23s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-19T15:22:56.072417+00:00">2025-11-19 15:22 UTC</time> (runtime 1m 44s)
   
   ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a short-term downtrend and trading below the 20-day SMA/EMA (~123/117) and well under 7d/30d resistance (120.95/193.84) while hovering near 7d support 93.49; sector froth/whipsaw risk is elevated with the uranium/nuclear ETF up 71.7% YTD and recent nuclear stock sell-offs.
+  0.1. **Long Entry?:** maybe — at 105.45 the stock sits below the 20-DMA 117.36 and EMA 115.20 in a 7d downtrend, between support 92.63 and resistance 116.98; macro froth is evident with the VanEck Uranium & Nuclear ETF up 71.7% in 2025 and OKLO’s own ninefold surge then ~40% pullback, making entries high-risk.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Oklo develops advanced fission power plants using liquid metal fast reactor technology. Its Aurora powerhouse microreactor is designed to produce up to 15 MWe using recycled or fresh nuclear fuel. The company plans to sell clean power to commercial customers and provide used nuclear fuel recycling services in the U.S.
+  1.1. **Activities:** Oklo develops advanced fission power plants using a liquid metal fast reactor, commercialized as the Aurora powerhouse product line. It aims to provide clean, reliable electricity (up to 15 MWe) and to sell used nuclear fuel recycling services in the U.S. Aurora can run on recycled or fresh fuel.
   
-  1.2. **Profitable?:** no — it is pre-revenue with recurring net losses (Last Q4 -$74.51M; cumulative net income -$74.5M) and targets first commercial deployment by 2027 per recent coverage.
+  1.2. **Profitable?:** No — net income and operating cash flow are negative with a 0.0% profit margin, and coverage notes no current revenue and profitability not expected until 2030.
   
-  1.3. **Customer & Markets:** Primary customers include commercial and industrial users needing reliable power, including AI/data center and remote power applications, per recent coverage. Markets are the United States for both energy delivery and used nuclear fuel recycling services. The focus is on commercial-scale energy contracts rather than retail consumers.
+  1.3. **Customer & Markets:** Primary customers include commercial buyers of reliable power such as AI data centers, along with U.S. customers for used nuclear fuel recycling services. Its markets are centered on U.S. clean power generation and nuclear fuel recycling.
   
-  1.4. **Competition:** Competitors include NuScale Power (SMR) among advanced small reactor developers; versus larger nuclear names cited in coverage (e.g., Cameco), Oklo is earlier-stage and more speculative.
+  1.4. **Competition:** Competitors include NuScale Power (SMR) among advanced reactor developers, while comparisons also cite Cameco as an established nuclear sector player; Oklo is positioned as a more speculative, earlier-stage developer relative to these peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — closed 97.57 and remains below the 20DMA (~123) after failing to hold an intraday bounce to 106.83.
+  2.1. **7d Trend?:** down — 7d Trend: down and price retreated from the 116.98 local high toward 105.45.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 93.49–103.64 (7d support and suggested buy zone) offered favorable risk; selling near 116.98–120.95 (suggested sell zone and 7d resistance) was the clear exit area.
+  2.2. **7d Buy/Sell Points?:** Buying near 92.63 support and selling near 116.98 resistance were favorable levels, matching the suggested buy/sell zones.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oklo is an early-stage company rather than a legacy utility, with no revenue and cumulative net losses of about -$74.5M. Cash metrics show strain (operating cash flow -$62.2M; free cash flow -$40.5M), implying reliance on external funding. Its shares exhibit high volatility (ATR ~12.82; ~13.14% ATR%), and the 7-day trend is down. Overall, it is not yet a stable cash-generating institution.
+  3.1. **Stability?:** Oklo is an early-stage advanced nuclear company with no current revenue and cumulative net losses of about $74.5M and negative operating cash flow (-$62.2M). Its business is pre-commercial, indicating higher execution and financing risk. Recent trading shows high volatility (ATR ~10.8% of price) and low recent volume, underscoring stock instability. Overall, it appears more speculative than a mature, stable utility.
   
-  3.2. **Innovating?:** Yes — it is pursuing innovative liquid metal fast reactors via the Aurora powerhouse and a used nuclear fuel recycling service; it aims for initial commercialization by 2027 per recent coverage.
+  3.2. **Innovating?:** Oklo is innovating with its liquid metal fast reactor (Aurora) and a used-fuel recycling offering; industry coverage notes a 93% jump in its microreactor project pipeline ahead of planned deployments, signaling growth momentum.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights strong sector momentum (VanEck Uranium & Nuclear ETF +71.7% YTD 2025) alongside volatility, with nuclear stocks selling off and NuScale cut on delays. Articles frame Oklo as a speculative, pre-revenue microreactor play targeting AI and remote power needs, with a first reactor goal around 2027. In a 'buy the rumor, sell the news' context, profit-taking across the group suggests headline-driven swings, yet the quick facts flag 'Buy the dip? yes; Buy the rumor? no; Sell the news? no'.
+  4.1. **News:** Recent coverage highlights a ninefold surge in OKLO shares followed by about a 40% decline, with no current revenue and profitability not expected until 2030. Sector context is buoyant, as the VanEck Uranium & Nuclear ETF is up 71.7% in 2025, while peer NuScale fell after lowered targets and project delays. Another piece contrasts Cameco’s established strength with Oklo’s speculative status. In this environment, rumor-driven pops can fade, and quick facts indicate 'Buy the rumor?' and 'Sell the news?' are both 'no.'
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Some reports tie tariff headlines to a 12.8% two-day drop in OKLO, suggesting sensitivity to perceived fuel/input costs; otherwise, direct, durable impacts are unclear in the provided data.
   
   ## 5. QuickRef
   
@@ -54,12 +54,12 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-74.51M</td></tr>
-  <tr><td>Price</td><td>97.57</td></tr>
-  <tr><td>7d Resistance</td><td>120.95</td></tr>
-  <tr><td>7d Support</td><td>93.49</td></tr>
+  <tr><td>Price</td><td>105.45</td></tr>
+  <tr><td>7d Resistance</td><td>116.98</td></tr>
+  <tr><td>7d Support</td><td>92.63</td></tr>
   <tr><td>30d Resistance</td><td>193.84</td></tr>
-  <tr><td>30d Support</td><td>93.49</td></tr>
-  <tr><td>Buy the dip?</td><td>yes</td></tr>
+  <tr><td>30d Support</td><td>92.63</td></tr>
+  <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
@@ -76,7 +76,9 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: competitive landscape, rumor</li>
   </ul>
   </div>
   
@@ -87,12 +89,12 @@ raw_markdown: |
   Gathering context for OKLO...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-21/2025-11-19?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-19?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/OKLO/2025-11-19?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/OKLO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -127,220 +129,72 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
-  Google Custom Search failed for &#x27;OKLO core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; OKLO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;OKLO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
-  Google Custom Search failed for &#x27;OKLO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; OKLO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;OKLO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; OKLO target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;OKLO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;OKLO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
-  Google Custom Search failed for &#x27;OKLO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=5
-  Google Custom Search failed for &#x27;OKLO market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
       guardian: 5 result(s)
     google_custom_search search -&gt; OKLO rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=5
-  Google Custom Search failed for &#x27;OKLO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; OKLO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;OKLO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
       guardian: 5 result(s)
     newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; OKLO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;OKLO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; OKLO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;OKLO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;OKLO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;OKLO tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -363,46 +217,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-15T17:41:10.287472+00:00">2025-11-15 17:41 UTC</time> (runtime 1m 23s)
+**Generated:** <time class="js-local-time" datetime="2025-11-19T15:22:56.072417+00:00">2025-11-19 15:22 UTC</time> (runtime 1m 44s)
 
 ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a short-term downtrend and trading below the 20-day SMA/EMA (~123/117) and well under 7d/30d resistance (120.95/193.84) while hovering near 7d support 93.49; sector froth/whipsaw risk is elevated with the uranium/nuclear ETF up 71.7% YTD and recent nuclear stock sell-offs.
+0.1. **Long Entry?:** maybe — at 105.45 the stock sits below the 20-DMA 117.36 and EMA 115.20 in a 7d downtrend, between support 92.63 and resistance 116.98; macro froth is evident with the VanEck Uranium & Nuclear ETF up 71.7% in 2025 and OKLO’s own ninefold surge then ~40% pullback, making entries high-risk.
 
 ## 1. The Biz
 
-1.1. **Activities:** Oklo develops advanced fission power plants using liquid metal fast reactor technology. Its Aurora powerhouse microreactor is designed to produce up to 15 MWe using recycled or fresh nuclear fuel. The company plans to sell clean power to commercial customers and provide used nuclear fuel recycling services in the U.S.
+1.1. **Activities:** Oklo develops advanced fission power plants using a liquid metal fast reactor, commercialized as the Aurora powerhouse product line. It aims to provide clean, reliable electricity (up to 15 MWe) and to sell used nuclear fuel recycling services in the U.S. Aurora can run on recycled or fresh fuel.
 
-1.2. **Profitable?:** no — it is pre-revenue with recurring net losses (Last Q4 -$74.51M; cumulative net income -$74.5M) and targets first commercial deployment by 2027 per recent coverage.
+1.2. **Profitable?:** No — net income and operating cash flow are negative with a 0.0% profit margin, and coverage notes no current revenue and profitability not expected until 2030.
 
-1.3. **Customer & Markets:** Primary customers include commercial and industrial users needing reliable power, including AI/data center and remote power applications, per recent coverage. Markets are the United States for both energy delivery and used nuclear fuel recycling services. The focus is on commercial-scale energy contracts rather than retail consumers.
+1.3. **Customer & Markets:** Primary customers include commercial buyers of reliable power such as AI data centers, along with U.S. customers for used nuclear fuel recycling services. Its markets are centered on U.S. clean power generation and nuclear fuel recycling.
 
-1.4. **Competition:** Competitors include NuScale Power (SMR) among advanced small reactor developers; versus larger nuclear names cited in coverage (e.g., Cameco), Oklo is earlier-stage and more speculative.
+1.4. **Competition:** Competitors include NuScale Power (SMR) among advanced reactor developers, while comparisons also cite Cameco as an established nuclear sector player; Oklo is positioned as a more speculative, earlier-stage developer relative to these peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — closed 97.57 and remains below the 20DMA (~123) after failing to hold an intraday bounce to 106.83.
+2.1. **7d Trend?:** down — 7d Trend: down and price retreated from the 116.98 local high toward 105.45.
 
-2.2. **7d Buy/Sell Points?:** Buying near 93.49–103.64 (7d support and suggested buy zone) offered favorable risk; selling near 116.98–120.95 (suggested sell zone and 7d resistance) was the clear exit area.
+2.2. **7d Buy/Sell Points?:** Buying near 92.63 support and selling near 116.98 resistance were favorable levels, matching the suggested buy/sell zones.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oklo is an early-stage company rather than a legacy utility, with no revenue and cumulative net losses of about -$74.5M. Cash metrics show strain (operating cash flow -$62.2M; free cash flow -$40.5M), implying reliance on external funding. Its shares exhibit high volatility (ATR ~12.82; ~13.14% ATR%), and the 7-day trend is down. Overall, it is not yet a stable cash-generating institution.
+3.1. **Stability?:** Oklo is an early-stage advanced nuclear company with no current revenue and cumulative net losses of about $74.5M and negative operating cash flow (-$62.2M). Its business is pre-commercial, indicating higher execution and financing risk. Recent trading shows high volatility (ATR ~10.8% of price) and low recent volume, underscoring stock instability. Overall, it appears more speculative than a mature, stable utility.
 
-3.2. **Innovating?:** Yes — it is pursuing innovative liquid metal fast reactors via the Aurora powerhouse and a used nuclear fuel recycling service; it aims for initial commercialization by 2027 per recent coverage.
+3.2. **Innovating?:** Oklo is innovating with its liquid metal fast reactor (Aurora) and a used-fuel recycling offering; industry coverage notes a 93% jump in its microreactor project pipeline ahead of planned deployments, signaling growth momentum.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights strong sector momentum (VanEck Uranium & Nuclear ETF +71.7% YTD 2025) alongside volatility, with nuclear stocks selling off and NuScale cut on delays. Articles frame Oklo as a speculative, pre-revenue microreactor play targeting AI and remote power needs, with a first reactor goal around 2027. In a 'buy the rumor, sell the news' context, profit-taking across the group suggests headline-driven swings, yet the quick facts flag 'Buy the dip? yes; Buy the rumor? no; Sell the news? no'.
+4.1. **News:** Recent coverage highlights a ninefold surge in OKLO shares followed by about a 40% decline, with no current revenue and profitability not expected until 2030. Sector context is buoyant, as the VanEck Uranium & Nuclear ETF is up 71.7% in 2025, while peer NuScale fell after lowered targets and project delays. Another piece contrasts Cameco’s established strength with Oklo’s speculative status. In this environment, rumor-driven pops can fade, and quick facts indicate 'Buy the rumor?' and 'Sell the news?' are both 'no.'
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Some reports tie tariff headlines to a 12.8% two-day drop in OKLO, suggesting sensitivity to perceived fuel/input costs; otherwise, direct, durable impacts are unclear in the provided data.
 
 ## 5. QuickRef
 
@@ -411,12 +265,12 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-74.51M</td></tr>
-<tr><td>Price</td><td>97.57</td></tr>
-<tr><td>7d Resistance</td><td>120.95</td></tr>
-<tr><td>7d Support</td><td>93.49</td></tr>
+<tr><td>Price</td><td>105.45</td></tr>
+<tr><td>7d Resistance</td><td>116.98</td></tr>
+<tr><td>7d Support</td><td>92.63</td></tr>
 <tr><td>30d Resistance</td><td>193.84</td></tr>
-<tr><td>30d Support</td><td>93.49</td></tr>
-<tr><td>Buy the dip?</td><td>yes</td></tr>
+<tr><td>30d Support</td><td>92.63</td></tr>
+<tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
@@ -433,7 +287,9 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: competitive landscape, rumor</li>
 </ul>
 </div>
 
@@ -444,12 +300,12 @@ raw_markdown: |
 Gathering context for OKLO...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-17/2025-11-15?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-21/2025-11-19?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-19?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/OKLO/2025-11-19?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/OKLO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -484,220 +340,72 @@ Massive news: collected 5 articles.
 Running supplementary searches...
   google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
-Google Custom Search failed for &#x27;OKLO core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; OKLO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;OKLO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
-Google Custom Search failed for &#x27;OKLO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; OKLO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;OKLO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; OKLO target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=5
-Google Custom Search failed for &#x27;OKLO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=5
-Google Custom Search failed for &#x27;OKLO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
-Google Custom Search failed for &#x27;OKLO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=5
-Google Custom Search failed for &#x27;OKLO market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+share&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
     guardian: 5 result(s)
   google_custom_search search -&gt; OKLO rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=5
-Google Custom Search failed for &#x27;OKLO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; OKLO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;OKLO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
     guardian: 5 result(s)
   newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; OKLO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;OKLO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; OKLO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;OKLO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;OKLO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;OKLO tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
