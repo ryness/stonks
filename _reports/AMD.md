@@ -2,34 +2,34 @@
 layout: default
 title: "AMD Stock Report"
 ticker: "AMD"
-date: 2025-11-17
-generated_at: 2025-11-17T01:29:28.265948+00:00
-runtime_seconds: 91.94
+date: 2025-11-21
+generated_at: 2025-11-21T05:21:23.461488+00:00
+runtime_seconds: 75.99
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-17T01:29:28.265948+00:00">2025-11-17 01:29 UTC</time> (runtime 1m 32s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T05:21:23.461488+00:00">2025-11-21 05:21 UTC</time> (runtime 1m 16s)
   
   ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are near multi-period peaks (3mo/1yr/5yr: near-peak) with AI froth concerns in headlines (“valuation problem” and pre-Nvidia-earnings jitters); price sits just below the 20-DMA (246.81 vs 248.11) and between support 224.64 and resistance 263.51.
+  0.1. **Long Entry?:** maybe — sits near 7d/30d support at 204.53 with 'oversold' quick fact and 1yr/5yr marked 'middle'; macro froth risk is flagged by Amazon selling its AMD stake, and price is below the 20DMA (245.93), SMA (213.61) and EMA (218.98) amid a downtrend
   
   ## 1. The Biz
   
-  1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and accelerators for PCs, gaming consoles, and data centers (including AI), as well as industrial and automotive applications. It is a fabless semiconductor company and a growing player in AI GPUs and related hardware. Reportable segments include Data Center, Client, Gaming, and Embedded.
+  1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and adaptive computing chips for PCs, gaming consoles, data centers (including AI), industrial, and automotive uses. It also supplies semi-custom SoCs for the Sony PlayStation and Microsoft Xbox. Its reportable segments include Data Center, Client, Gaming, and Embedded.
   
-  1.2. **Profitable?:** yes — net income is positive across recent periods (sum ~$3.31B) with a ~10% profit margin, strong earnings growth (61%), and positive free cash flow.
+  1.2. **Profitable?:** yes — net income is positive across recent periods ($1.243B, $872M, $709M, $482M) with a ~10.3% profit margin and positive free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers include PC OEMs, hyperscale/cloud data centers, and game console partners (Sony PlayStation and Microsoft Xbox), plus industrial/automotive and embedded OEMs. Key markets span PCs, gaming, data center AI, industrial, and automotive applications.
+  1.3. **Customer & Markets:** Primary customers include PC OEMs, cloud/data center operators, and gaming console makers like Sony and Microsoft, plus industrial and automotive clients. Markets span data center AI, PCs, gaming, and embedded/industrial/automotive globally.
   
-  1.4. **Competition:** AMD competes primarily with Nvidia in AI/data center GPUs and Intel in x86 CPUs, with Broadcom also relevant in infrastructure. Nvidia leads AI GPUs, while AMD is positioning to expand share and growth in data center and maintains a strong CPU rivalry with Intel.
+  1.4. **Competition:** Key competitors are Nvidia in GPUs/AI accelerators and Intel in x86 CPUs; AMD is cited as the closest hardware challenger to Nvidia in AI. It competes across data center, client, and gaming segments against these peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — price advanced off a 234.64 local low toward a 263.51 local high, closing 246.81 in an uptrend.
+  2.1. **7d Trend?:** down — price slid from 232.70 open to 206.02 close and tested 7d support at 204.53.
   
-  2.2. **7d Buy/Sell Points?:** Buys near support around 234.64 looked favorable; sells into resistance around 263.51/local highs offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 204.53 support looked attractive, while the 263.51 resistance/local high was a prudent sell/trim zone.
   
   2.3.1. **7d Volume:** med
   
@@ -37,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** AMD appears to be a stable, established semiconductor designer with diversified end markets across PCs, gaming, data center AI, industrial, and automotive. It is profitable (profit margin ~10%) with positive operating cash flow ($6.41B) and free cash flow (~$3.25B). Recent revenue and earnings growth are robust (revenue +35.6%, earnings +61.2%). Its broad product portfolio and positive cash generation suggest resilience rather than a fly-by-night profile.
+  3.1. **Stability?:** AMD is a well-established U.S. semiconductor designer serving diversified end markets including PCs, consoles, data centers (AI), industrial, and automotive, and it powers Sony PlayStation and Microsoft Xbox. It generated $6.41B in operating cash flow and $3.25B in free cash flow, with a 10.3% profit margin and $3.31B cumulative net income over recent periods. These cash flows and profitability point to an institution with operational stability rather than a fly-by-night firm. While detailed balance sheet metrics aren’t provided here, the breadth of markets and consistent earnings support its stability.
   
-  3.2. **Innovating?:** Yes—AMD is innovating, highlighted by its push into AI GPUs/accelerators (e.g., Instinct MI350 MLPerf results) and an upbeat data center/AI growth outlook from its investor day. Newsflow points to an aggressive roadmap to challenge incumbents in AI computing.
+  3.2. **Innovating?:** Yes—AMD is innovating, emerging as a prominent player in AI GPUs and related hardware. Strong revenue growth (+35.6%) and earnings growth (+61.2%) underscore ongoing expansion.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage notes AMD rose 5.7% during a volatile week on a strong investor day and expectations for AI data center GPU and CPU share gains. Additional reports highlight first MLPerf training results on Instinct MI350 GPUs and an upbeat AI/data center growth roadmap. Broader sentiment shows AI valuation jitters and attention on Nvidia’s upcoming earnings, which can sway peer sentiment. Given quick facts indicating ‘Buy the rumor? no’ and ‘Sell the news? no,’ there’s limited evidence of a classic buy-the-rumor, sell-the-news setup in the latest move.
+  4.1. **News:** Headlines highlight AMD teaming with Cisco and Saudi AI developer Humain to build AI infrastructure in Saudi Arabia, and U.S. approval enabling G42 to export advanced AI chips, signaling momentum in global AI deployments. Sector sentiment hinges on Nvidia’s earnings and guidance, which can sway AI chip peers like AMD. Notably, Amazon sold its entire AMD stake in Q3, citing valuation/bubble concerns, which can pressure the stock near peaks. In a buy-the-rumor, sell-the-news context, JV and export-approval headlines may have seen pre-news enthusiasm, while large-holder selling reflects profit-taking risk on good news.
   
-  4.2. **Tarrifs:** AMD’s CEO indicated tariffs could have a short-term impact on semiconductors; some commentary suggests AMD may be less exposed than certain peers due to supply chain layout. Overall, the direct effect on the stock is noted but not quantified in the provided data.
+  4.2. **Tarrifs:** Tariffs have been cited by AMD’s CEO as a potential short-term headwind via higher production costs that can bleed into end-product pricing, and prior tariff actions affected AMD/Nvidia gaming GPUs; such dynamics can weigh on margins and investor sentiment.
   
   ## 5. QuickRef
   
@@ -54,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$3.31B</td></tr>
-  <tr><td>Price</td><td>246.81</td></tr>
+  <tr><td>Price</td><td>206.02</td></tr>
   <tr><td>7d Resistance</td><td>263.51</td></tr>
-  <tr><td>7d Support</td><td>224.64</td></tr>
+  <tr><td>7d Support</td><td>204.53</td></tr>
   <tr><td>30d Resistance</td><td>267.08</td></tr>
-  <tr><td>30d Support</td><td>203.01</td></tr>
-  <tr><td>Buy the dip?</td><td>no</td></tr>
+  <tr><td>30d Support</td><td>204.53</td></tr>
+  <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>up</td></tr>
-  <tr><td>3mo</td><td>near-peak</td></tr>
-  <tr><td>1yr</td><td>near-peak</td></tr>
-  <tr><td>5yr</td><td>near-peak</td></tr>
-  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>1yr</td><td>middle</td></tr>
+  <tr><td>5yr</td><td>middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
   </tbody></table>
   </div>
   
@@ -88,12 +88,12 @@ raw_markdown: |
   Gathering context for AMD...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/AMD/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/AMD/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/AMD/2025-11-20?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/AMD/2025-11-20?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AMD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AMD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/AMD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -208,30 +208,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-17T01:29:28.265948+00:00">2025-11-17 01:29 UTC</time> (runtime 1m 32s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T05:21:23.461488+00:00">2025-11-21 05:21 UTC</time> (runtime 1m 16s)
 
 ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are near multi-period peaks (3mo/1yr/5yr: near-peak) with AI froth concerns in headlines (“valuation problem” and pre-Nvidia-earnings jitters); price sits just below the 20-DMA (246.81 vs 248.11) and between support 224.64 and resistance 263.51.
+0.1. **Long Entry?:** maybe — sits near 7d/30d support at 204.53 with 'oversold' quick fact and 1yr/5yr marked 'middle'; macro froth risk is flagged by Amazon selling its AMD stake, and price is below the 20DMA (245.93), SMA (213.61) and EMA (218.98) amid a downtrend
 
 ## 1. The Biz
 
-1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and accelerators for PCs, gaming consoles, and data centers (including AI), as well as industrial and automotive applications. It is a fabless semiconductor company and a growing player in AI GPUs and related hardware. Reportable segments include Data Center, Client, Gaming, and Embedded.
+1.1. **Activities:** Advanced Micro Devices designs high-performance CPUs, GPUs, and adaptive computing chips for PCs, gaming consoles, data centers (including AI), industrial, and automotive uses. It also supplies semi-custom SoCs for the Sony PlayStation and Microsoft Xbox. Its reportable segments include Data Center, Client, Gaming, and Embedded.
 
-1.2. **Profitable?:** yes — net income is positive across recent periods (sum ~$3.31B) with a ~10% profit margin, strong earnings growth (61%), and positive free cash flow.
+1.2. **Profitable?:** yes — net income is positive across recent periods ($1.243B, $872M, $709M, $482M) with a ~10.3% profit margin and positive free cash flow.
 
-1.3. **Customer & Markets:** Primary customers include PC OEMs, hyperscale/cloud data centers, and game console partners (Sony PlayStation and Microsoft Xbox), plus industrial/automotive and embedded OEMs. Key markets span PCs, gaming, data center AI, industrial, and automotive applications.
+1.3. **Customer & Markets:** Primary customers include PC OEMs, cloud/data center operators, and gaming console makers like Sony and Microsoft, plus industrial and automotive clients. Markets span data center AI, PCs, gaming, and embedded/industrial/automotive globally.
 
-1.4. **Competition:** AMD competes primarily with Nvidia in AI/data center GPUs and Intel in x86 CPUs, with Broadcom also relevant in infrastructure. Nvidia leads AI GPUs, while AMD is positioning to expand share and growth in data center and maintains a strong CPU rivalry with Intel.
+1.4. **Competition:** Key competitors are Nvidia in GPUs/AI accelerators and Intel in x86 CPUs; AMD is cited as the closest hardware challenger to Nvidia in AI. It competes across data center, client, and gaming segments against these peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — price advanced off a 234.64 local low toward a 263.51 local high, closing 246.81 in an uptrend.
+2.1. **7d Trend?:** down — price slid from 232.70 open to 206.02 close and tested 7d support at 204.53.
 
-2.2. **7d Buy/Sell Points?:** Buys near support around 234.64 looked favorable; sells into resistance around 263.51/local highs offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near 204.53 support looked attractive, while the 263.51 resistance/local high was a prudent sell/trim zone.
 
 2.3.1. **7d Volume:** med
 
@@ -239,15 +239,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** AMD appears to be a stable, established semiconductor designer with diversified end markets across PCs, gaming, data center AI, industrial, and automotive. It is profitable (profit margin ~10%) with positive operating cash flow ($6.41B) and free cash flow (~$3.25B). Recent revenue and earnings growth are robust (revenue +35.6%, earnings +61.2%). Its broad product portfolio and positive cash generation suggest resilience rather than a fly-by-night profile.
+3.1. **Stability?:** AMD is a well-established U.S. semiconductor designer serving diversified end markets including PCs, consoles, data centers (AI), industrial, and automotive, and it powers Sony PlayStation and Microsoft Xbox. It generated $6.41B in operating cash flow and $3.25B in free cash flow, with a 10.3% profit margin and $3.31B cumulative net income over recent periods. These cash flows and profitability point to an institution with operational stability rather than a fly-by-night firm. While detailed balance sheet metrics aren’t provided here, the breadth of markets and consistent earnings support its stability.
 
-3.2. **Innovating?:** Yes—AMD is innovating, highlighted by its push into AI GPUs/accelerators (e.g., Instinct MI350 MLPerf results) and an upbeat data center/AI growth outlook from its investor day. Newsflow points to an aggressive roadmap to challenge incumbents in AI computing.
+3.2. **Innovating?:** Yes—AMD is innovating, emerging as a prominent player in AI GPUs and related hardware. Strong revenue growth (+35.6%) and earnings growth (+61.2%) underscore ongoing expansion.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage notes AMD rose 5.7% during a volatile week on a strong investor day and expectations for AI data center GPU and CPU share gains. Additional reports highlight first MLPerf training results on Instinct MI350 GPUs and an upbeat AI/data center growth roadmap. Broader sentiment shows AI valuation jitters and attention on Nvidia’s upcoming earnings, which can sway peer sentiment. Given quick facts indicating ‘Buy the rumor? no’ and ‘Sell the news? no,’ there’s limited evidence of a classic buy-the-rumor, sell-the-news setup in the latest move.
+4.1. **News:** Headlines highlight AMD teaming with Cisco and Saudi AI developer Humain to build AI infrastructure in Saudi Arabia, and U.S. approval enabling G42 to export advanced AI chips, signaling momentum in global AI deployments. Sector sentiment hinges on Nvidia’s earnings and guidance, which can sway AI chip peers like AMD. Notably, Amazon sold its entire AMD stake in Q3, citing valuation/bubble concerns, which can pressure the stock near peaks. In a buy-the-rumor, sell-the-news context, JV and export-approval headlines may have seen pre-news enthusiasm, while large-holder selling reflects profit-taking risk on good news.
 
-4.2. **Tarrifs:** AMD’s CEO indicated tariffs could have a short-term impact on semiconductors; some commentary suggests AMD may be less exposed than certain peers due to supply chain layout. Overall, the direct effect on the stock is noted but not quantified in the provided data.
+4.2. **Tarrifs:** Tariffs have been cited by AMD’s CEO as a potential short-term headwind via higher production costs that can bleed into end-product pricing, and prior tariff actions affected AMD/Nvidia gaming GPUs; such dynamics can weigh on margins and investor sentiment.
 
 ## 5. QuickRef
 
@@ -256,19 +256,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$3.31B</td></tr>
-<tr><td>Price</td><td>246.81</td></tr>
+<tr><td>Price</td><td>206.02</td></tr>
 <tr><td>7d Resistance</td><td>263.51</td></tr>
-<tr><td>7d Support</td><td>224.64</td></tr>
+<tr><td>7d Support</td><td>204.53</td></tr>
 <tr><td>30d Resistance</td><td>267.08</td></tr>
-<tr><td>30d Support</td><td>203.01</td></tr>
-<tr><td>Buy the dip?</td><td>no</td></tr>
+<tr><td>30d Support</td><td>204.53</td></tr>
+<tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>up</td></tr>
-<tr><td>3mo</td><td>near-peak</td></tr>
-<tr><td>1yr</td><td>near-peak</td></tr>
-<tr><td>5yr</td><td>near-peak</td></tr>
-<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>1yr</td><td>middle</td></tr>
+<tr><td>5yr</td><td>middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
 </tbody></table>
 </div>
 
@@ -290,12 +290,12 @@ raw_markdown: |
 Gathering context for AMD...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting AMD prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AMD/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/AMD/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/AMD/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/AMD/2025-11-20?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/AMD/2025-11-20?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AMD/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AMD/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/AMD?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
