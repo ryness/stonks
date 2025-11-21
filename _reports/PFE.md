@@ -2,34 +2,34 @@
 layout: default
 title: "PFE Stock Report"
 ticker: "PFE"
-date: 2025-11-17
-generated_at: 2025-11-17T20:25:47.468596+00:00
-runtime_seconds: 163.74
+date: 2025-11-21
+generated_at: 2025-11-21T20:23:39.711143+00:00
+runtime_seconds: 92.41
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-17T20:25:47.468596+00:00">2025-11-17 20:25 UTC</time> (runtime 2m 44s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T20:23:39.711143+00:00">2025-11-21 20:23 UTC</time> (runtime 1m 32s)
   
   ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom while 1yr/3mo are in the middle and macro froth visibility is limited in the supplied data; shares are in an uptrend above the 20-DMA/SMA (~24.5–24.8) and sit between support at 23.91 and resistance at 26.48.
+  0.1. **Long Entry?:** maybe — shares sit near a 5yr near-bottom/middle of the 1yr range, suggesting value per quick facts; macro froth cues are limited per quick facts; price is just above the 20-DMA/SMA/EMA (24.65/24.82/24.85) and near support 24.28 with resistance at 26.48
   
   ## 1. The Biz
   
-  1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical firms, with annual sales of roughly $60 billion. Prescription drugs and vaccines account for the majority of sales, with top sellers including pneumococcal vaccine Prevnar 13, cancer drug Ibrance, and cardiovascular treatment Eliquis. It operates globally within healthcare as a Drug Manufacturers - General company.
+  1.1. **Activities:** Pfizer develops and sells prescription drugs and vaccines, generating roughly $60 billion in annual sales. Top products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. Its portfolio spans multiple therapeutic areas with a global footprint.
   
-  1.2. **Profitable?:** yes — it reports positive net income totaling about $9.83B, a profit margin of ~15.7%, and $14.3B in free cash flow, despite revenue (-5.9%) and earnings (-20.7%) declines.
+  1.2. **Profitable?:** yes — it is profitable, with positive net income (sum ~$9.83B), a profit margin of ~15.7%, and strong free cash flow.
   
-  1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Within international sales, emerging markets are a major contributor. Its markets span multiple therapeutic areas across both developed and emerging economies.
+  1.3. **Customer & Markets:** Pfizer serves global markets for prescription drugs and vaccines, with international sales representing 40% of total revenue. Emerging markets are a major contributor, and key therapeutic areas include vaccines, oncology, and cardiovascular.
   
-  1.4. **Competition:** Key competitors include JNJ, MRK, ABBV, BMY, AMGN, GILD, LLY, MRNA, NVAX, and VTRS. Pfizer ranks among the largest global pharmaceutical players by sales.
+  1.4. **Competition:** Major competitors include JNJ, MRK, LLY, ABBV, BMY, AMGN, GILD, MRNA, NVAX, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is up and shares trade above the 20-DMA (~24.52), working from 23.91 support toward 26.48 resistance.
+  2.1. **7d Trend?:** down — 7d Trend: down with price capped by 26.48 resistance and testing the 24.28 support area intraday.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 23.91 support (suggested buy zone) offered favorable entries; selling into 26.48 resistance (suggested sell zone) provided logical exits.
+  2.2. **7d Buy/Sell Points?:** Good buy levels appeared near support around 24.28; trims or sells looked better near resistance around 26.48.
   
   2.3.1. **7d Volume:** low
   
@@ -37,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Pfizer is one of the world's largest pharmaceutical firms, generating roughly $60 billion in annual sales. It produced operating cash flow of about $13.1B and free cash flow of about $14.3B, with cumulative net income of ~$9.83B in recent periods. A profit margin near 15.7% and diversified global revenue (40% international, with emerging markets contributing) support stability. Although revenue and earnings fell (-5.9% and -20.7%), its scale and cash generation indicate a generally stable enterprise.
+  3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company with roughly $60B in annual sales, indicating durable scale. It generates solid operating cash flow and free cash flow (~$14.3B) alongside positive net income and a mid-teens profit margin. While recent revenue and earnings growth are negative, its cash generation supports ongoing operations and obligations. A headline also notes a high dividend yield being characterized as safe for now, underscoring perceived stability.
   
-  3.2. **Innovating?:** Pfizer appears to be actively innovating and repositioning, completing the acquisition of Metsera and planning to sell its remaining BioNTech stake. This reflects ongoing strategic investment rather than stagnation.
+  3.2. **Innovating?:** Innovating — a Phase 3 mRNA flu vaccine showed superior efficacy to traditional shots, and news flow highlights continued activity in key therapeutic areas. This, alongside its broad portfolio, indicates ongoing development rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage notes healthcare sector outperformance and that Pfizer's stock is down over 55% from its 2021 peak, with commentary on buying the dip. Pfizer is selling its remaining BioNTech stake via an overnight block (~$508M), and it completed the Metsera acquisition amid a bidding war. Articles also frame Pfizer as a discounted name heading into a potential Santa Claus rally. Given the quick facts (Buy the rumor? no; Sell the news? no), the news flow skews toward repositioning rather than hype, tempering classic buy-the-rumor, sell-the-news dynamics.
+  4.1. **News:** Recent news highlights a Phase 3 mRNA flu vaccine outperforming traditional shots (with higher short-term side effects), and commentary on the sustainability of Pfizer’s 6.9% dividend amid post-COVID demand normalization. Industry deal reports on collaborations/licensing provide broader context on partnering dynamics. Together, the clinical update could be a positive catalyst, but quick facts indicate no clear ‘buy the rumor’ or ‘sell the news’ setup. Investors may remain focused on execution and pipeline readouts rather than trading headlines.
   
-  4.2. **Tarrifs:** Reports indicate tariff exposure has added costs (Pfizer expected about $150M from existing U.S. tariffs) and created policy uncertainty, which can weigh on sentiment. Conversely, exemptions or favorable deals have coincided with share gains, suggesting tariff relief is a positive catalyst.
+  4.2. **Tarrifs:** Tariffs have added costs (Pfizer cited about $150 million from existing tariffs) and management flagged vulnerability to potential European tariffs; however, reports of exemptions/landmark deals and being fairly insulated from tariff impacts suggest the net effect may be moderated.
   
   ## 5. QuickRef
   
@@ -54,15 +54,15 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$9.83B</td></tr>
-  <tr><td>Price</td><td>25.06</td></tr>
+  <tr><td>Price</td><td>25.05</td></tr>
   <tr><td>7d Resistance</td><td>26.48</td></tr>
-  <tr><td>7d Support</td><td>23.91</td></tr>
+  <tr><td>7d Support</td><td>24.28</td></tr>
   <tr><td>30d Resistance</td><td>26.48</td></tr>
   <tr><td>30d Support</td><td>23.73</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>up</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>middle</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
@@ -89,12 +89,12 @@ raw_markdown: |
   Gathering context for PFE...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-17?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-17?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -217,30 +217,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-17T20:25:47.468596+00:00">2025-11-17 20:25 UTC</time> (runtime 2m 44s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T20:23:39.711143+00:00">2025-11-21 20:23 UTC</time> (runtime 1m 32s)
 
 ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — 5yr positioning is near-bottom while 1yr/3mo are in the middle and macro froth visibility is limited in the supplied data; shares are in an uptrend above the 20-DMA/SMA (~24.5–24.8) and sit between support at 23.91 and resistance at 26.48.
+0.1. **Long Entry?:** maybe — shares sit near a 5yr near-bottom/middle of the 1yr range, suggesting value per quick facts; macro froth cues are limited per quick facts; price is just above the 20-DMA/SMA/EMA (24.65/24.82/24.85) and near support 24.28 with resistance at 26.48
 
 ## 1. The Biz
 
-1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical firms, with annual sales of roughly $60 billion. Prescription drugs and vaccines account for the majority of sales, with top sellers including pneumococcal vaccine Prevnar 13, cancer drug Ibrance, and cardiovascular treatment Eliquis. It operates globally within healthcare as a Drug Manufacturers - General company.
+1.1. **Activities:** Pfizer develops and sells prescription drugs and vaccines, generating roughly $60 billion in annual sales. Top products include the pneumococcal vaccine Prevnar 13, cancer therapy Ibrance, and cardiovascular treatment Eliquis. Its portfolio spans multiple therapeutic areas with a global footprint.
 
-1.2. **Profitable?:** yes — it reports positive net income totaling about $9.83B, a profit margin of ~15.7%, and $14.3B in free cash flow, despite revenue (-5.9%) and earnings (-20.7%) declines.
+1.2. **Profitable?:** yes — it is profitable, with positive net income (sum ~$9.83B), a profit margin of ~15.7%, and strong free cash flow.
 
-1.3. **Customer & Markets:** Pfizer sells prescription drugs and vaccines globally, with international sales representing 40% of total sales. Within international sales, emerging markets are a major contributor. Its markets span multiple therapeutic areas across both developed and emerging economies.
+1.3. **Customer & Markets:** Pfizer serves global markets for prescription drugs and vaccines, with international sales representing 40% of total revenue. Emerging markets are a major contributor, and key therapeutic areas include vaccines, oncology, and cardiovascular.
 
-1.4. **Competition:** Key competitors include JNJ, MRK, ABBV, BMY, AMGN, GILD, LLY, MRNA, NVAX, and VTRS. Pfizer ranks among the largest global pharmaceutical players by sales.
+1.4. **Competition:** Major competitors include JNJ, MRK, LLY, ABBV, BMY, AMGN, GILD, MRNA, NVAX, and VTRS; Pfizer ranks among the world’s largest pharmaceutical firms.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is up and shares trade above the 20-DMA (~24.52), working from 23.91 support toward 26.48 resistance.
+2.1. **7d Trend?:** down — 7d Trend: down with price capped by 26.48 resistance and testing the 24.28 support area intraday.
 
-2.2. **7d Buy/Sell Points?:** Buying near 23.91 support (suggested buy zone) offered favorable entries; selling into 26.48 resistance (suggested sell zone) provided logical exits.
+2.2. **7d Buy/Sell Points?:** Good buy levels appeared near support around 24.28; trims or sells looked better near resistance around 26.48.
 
 2.3.1. **7d Volume:** low
 
@@ -248,15 +248,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Pfizer is one of the world's largest pharmaceutical firms, generating roughly $60 billion in annual sales. It produced operating cash flow of about $13.1B and free cash flow of about $14.3B, with cumulative net income of ~$9.83B in recent periods. A profit margin near 15.7% and diversified global revenue (40% international, with emerging markets contributing) support stability. Although revenue and earnings fell (-5.9% and -20.7%), its scale and cash generation indicate a generally stable enterprise.
+3.1. **Stability?:** Pfizer is a long-established, large-cap pharmaceutical company with roughly $60B in annual sales, indicating durable scale. It generates solid operating cash flow and free cash flow (~$14.3B) alongside positive net income and a mid-teens profit margin. While recent revenue and earnings growth are negative, its cash generation supports ongoing operations and obligations. A headline also notes a high dividend yield being characterized as safe for now, underscoring perceived stability.
 
-3.2. **Innovating?:** Pfizer appears to be actively innovating and repositioning, completing the acquisition of Metsera and planning to sell its remaining BioNTech stake. This reflects ongoing strategic investment rather than stagnation.
+3.2. **Innovating?:** Innovating — a Phase 3 mRNA flu vaccine showed superior efficacy to traditional shots, and news flow highlights continued activity in key therapeutic areas. This, alongside its broad portfolio, indicates ongoing development rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage notes healthcare sector outperformance and that Pfizer's stock is down over 55% from its 2021 peak, with commentary on buying the dip. Pfizer is selling its remaining BioNTech stake via an overnight block (~$508M), and it completed the Metsera acquisition amid a bidding war. Articles also frame Pfizer as a discounted name heading into a potential Santa Claus rally. Given the quick facts (Buy the rumor? no; Sell the news? no), the news flow skews toward repositioning rather than hype, tempering classic buy-the-rumor, sell-the-news dynamics.
+4.1. **News:** Recent news highlights a Phase 3 mRNA flu vaccine outperforming traditional shots (with higher short-term side effects), and commentary on the sustainability of Pfizer’s 6.9% dividend amid post-COVID demand normalization. Industry deal reports on collaborations/licensing provide broader context on partnering dynamics. Together, the clinical update could be a positive catalyst, but quick facts indicate no clear ‘buy the rumor’ or ‘sell the news’ setup. Investors may remain focused on execution and pipeline readouts rather than trading headlines.
 
-4.2. **Tarrifs:** Reports indicate tariff exposure has added costs (Pfizer expected about $150M from existing U.S. tariffs) and created policy uncertainty, which can weigh on sentiment. Conversely, exemptions or favorable deals have coincided with share gains, suggesting tariff relief is a positive catalyst.
+4.2. **Tarrifs:** Tariffs have added costs (Pfizer cited about $150 million from existing tariffs) and management flagged vulnerability to potential European tariffs; however, reports of exemptions/landmark deals and being fairly insulated from tariff impacts suggest the net effect may be moderated.
 
 ## 5. QuickRef
 
@@ -265,15 +265,15 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$9.83B</td></tr>
-<tr><td>Price</td><td>25.06</td></tr>
+<tr><td>Price</td><td>25.05</td></tr>
 <tr><td>7d Resistance</td><td>26.48</td></tr>
-<tr><td>7d Support</td><td>23.91</td></tr>
+<tr><td>7d Support</td><td>24.28</td></tr>
 <tr><td>30d Resistance</td><td>26.48</td></tr>
 <tr><td>30d Support</td><td>23.73</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>up</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>middle</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
@@ -300,12 +300,12 @@ raw_markdown: |
 Gathering context for PFE...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PFE prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PFE/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-17?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-17?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/PFE/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/PFE/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PFE/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PFE?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
