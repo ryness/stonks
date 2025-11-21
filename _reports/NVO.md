@@ -2,50 +2,50 @@
 layout: default
 title: "NVO Stock Report"
 ticker: "NVO"
-date: 2025-11-16
-generated_at: 2025-11-16T20:21:51.191459+00:00
-runtime_seconds: 96.10
+date: 2025-11-21
+generated_at: 2025-11-21T01:27:23.803237+00:00
+runtime_seconds: 61.03
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-16T20:21:51.191459+00:00">2025-11-16 20:21 UTC</time> (runtime 1m 36s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T01:27:23.803237+00:00">2025-11-21 01:27 UTC</time> (runtime 1m 1s)
   
   ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are at multi-period 'near-bottom' levels and trade below key averages (48.26 vs 20DMA 50.33, EMA 53.44, SMA 54.55); macro froth cues are limited (Overbought/Sold: in the middle; Buy the rumor?: no) while price holds above 45.15 support with 50.43 resistance overhead.
+  0.1. **Long Entry?:** maybe — shares screen as near-bottom across 3mo/1yr/5yr and oversold, with price 47.6 sitting just above 7d support at 47.20; macro froth cues are limited in the data and the stock remains below the 20-DMA (~49.11), EMA (~52.86) and faces nearby resistance at 49.19–50.43.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Novo Nordisk manufactures and markets diabetes care products including human and modern insulins, GLP-1 injectables, oral antidiabetic agents, and obesity treatments. It also has a smaller biopharmaceutical segment (less than 10% of revenue) focused on protein therapies for hemophilia and other disorders. The company is the leading provider in global branded diabetes care.
+  1.1. **Activities:** Novo Nordisk is a global leader in diabetes care, manufacturing and marketing human and modern insulins, GLP-1 injectables, and oral antidiabetic agents. It also sells obesity treatments. A smaller biopharmaceutical segment (less than 10% of revenue) provides protein therapies for hemophilia and other disorders.
   
-  1.2. **Profitable?:** yes — it is profitable with a 32.9% profit margin, strong free cash flow, and positive net income in recent years.
+  1.2. **Profitable?:** yes — it is profitable, with consistent positive net income and a ~32.9% profit margin alongside strong free cash flow.
   
-  1.3. **Customer & Markets:** Novo Nordisk primarily serves patients with diabetes, obesity, and certain rare diseases worldwide, supplying therapies that are used in clinical care. Its markets are global across Diabetes and Obesity Care and a smaller Rare Disease segment, with roughly one-third share of the global branded diabetes treatment market.
+  1.3. **Customer & Markets:** The company serves global diabetes and obesity care markets, with products used to treat chronic metabolic diseases and certain rare disorders. Based in Denmark, its reach is worldwide across healthcare systems treating diabetes, obesity, and hemophilia.
   
-  1.4. **Competition:** Key competitors include Eli Lilly and large pharma peers such as Sanofi, Novartis, AstraZeneca, and GSK; Novo Nordisk leads in diabetes care with roughly one-third of the global branded market.
+  1.4. **Competition:** Key competitors include Eli Lilly (notably in GLP-1/obesity), Sanofi, and AstraZeneca. Novo Nordisk remains the leading provider in diabetes care with roughly one-third of the global branded diabetes market, though it faces strong GLP-1 rivalry from Eli Lilly.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is up, with price rebounding off 45.15 support toward 50.43 resistance.
+  2.1. **7d Trend?:** down — closed at 47.6 near 7d support (47.20) after lower highs versus the local high at 49.19.
   
-  2.2. **7d Buy/Sell Points?:** A good buy zone was near 45.15 support; a logical sell/trim area was near 50.43 resistance.
+  2.2. **7d Buy/Sell Points?:** Buying near 47.20 (support/suggested buy zone) was favorable; selling into 49.19–50.43 (local high/7d resistance) offered profit-taking levels.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Novo Nordisk is a long-standing global healthcare company with more than 90 years of innovation and roughly one-third share of the global branded diabetes market. Its financials indicate stability, with a 32.9% profit margin, substantial operating cash flow, and strong free cash flow. Net income has been consistently positive across recent periods. Based in Denmark, its scale and cash generation suggest a durable, stable institution.
+  3.1. **Stability?:** This is a long-established, stable institution, described as the leading provider of diabetes care with a large global footprint. Profitability and cash generation are strong (profit margin ~32.9%, substantial operating and free cash flow). Net income has been positive across recent periods with a large cumulative total. Governance has tightened with the Foundation controlling 77% of voting power, which raises minority-holder concerns but does not indicate operational instability.
   
-  3.2. **Innovating?:** It is innovating and growing, evidenced by positive Phase 2 data for Coramitug in ATTR-CM and ongoing GLP-1 and obesity treatment initiatives. Revenue growth is positive, though earnings growth has recently dipped.
+  3.2. **Innovating?:** Innovating and growing: it leads in GLP-1 diabetes/obesity therapies (e.g., Ozempic/Wegovy) and is expanding access via new pricing and collaborations. Growth is evident in revenue (+5.1% YoY), though earnings growth is currently negative, reflecting near-term pressure.
   
   ## 4. Context
   
-  4.1. **News:** Headlines center on potential discounted sales of Wegovy via a planned TrumpRx platform, which could expand access but complicate pricing dynamics. Telehealth channels are also enabling access to FDA-approved GLP-1 drugs like Wegovy, highlighting distribution shifts. A board candidate withdrew his nomination, a modest governance update. Novo reported promising Phase 2 results for Coramitug in ATTR-CM. Given quick facts flagging ‘Buy the rumor? no’ and ‘Sell the news? no’, the typical rumor/news trading setup appears muted.
+  4.1. **News:** Recent headlines focus on price cuts for Wegovy/Ozempic (including a $199/month intro for self-pay) and LifeMD collaboration to expand access, plus governance changes increasing Foundation voting control to 77%. Coverage notes the healthcare sector’s recent outperformance with Novo and Eli Lilly leading. There’s chatter about potential reduced-price distribution via the planned TrumpRx platform, which could broaden access while pressuring pricing. Together, these suggest demand expansion amid pricing pressure; per quick facts, the setup hasn’t favored ‘buy the rumor, sell the news’ (both flagged ‘no’).
   
-  4.2. **Tarrifs:** Mixed and uncertain: management commentary suggests limited concern about tariffs, while other coverage notes potential pricing/tariff risks that could affect profitability. Overall tariff impact on the stock is unclear in the provided data.
+  4.2. **Tarrifs:** Mixed and likely limited near-term: management has said they do not worry much about tariffs, while other analyses flag political/tariff risks that could pressure profitability, implying the stock may be sensitive to policy headlines but not primarily driven by tariffs in recent coverage.
   
   ## 5. QuickRef
   
@@ -54,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$103.77B</td></tr>
-  <tr><td>Price</td><td>48.26</td></tr>
+  <tr><td>Price</td><td>47.60</td></tr>
   <tr><td>7d Resistance</td><td>50.43</td></tr>
-  <tr><td>7d Support</td><td>45.15</td></tr>
-  <tr><td>30d Resistance</td><td>60.90</td></tr>
+  <tr><td>7d Support</td><td>47.20</td></tr>
+  <tr><td>30d Resistance</td><td>58.80</td></tr>
   <tr><td>30d Support</td><td>45.15</td></tr>
-  <tr><td>Buy the dip?</td><td>no</td></tr>
+  <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>up</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>near-bottom</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
-  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
   </tbody></table>
   </div>
   
@@ -89,12 +89,12 @@ raw_markdown: |
   Gathering context for NVO...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-18/2025-11-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -217,46 +217,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-16T20:21:51.191459+00:00">2025-11-16 20:21 UTC</time> (runtime 1m 36s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T01:27:23.803237+00:00">2025-11-21 01:27 UTC</time> (runtime 1m 1s)
 
 ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are at multi-period 'near-bottom' levels and trade below key averages (48.26 vs 20DMA 50.33, EMA 53.44, SMA 54.55); macro froth cues are limited (Overbought/Sold: in the middle; Buy the rumor?: no) while price holds above 45.15 support with 50.43 resistance overhead.
+0.1. **Long Entry?:** maybe — shares screen as near-bottom across 3mo/1yr/5yr and oversold, with price 47.6 sitting just above 7d support at 47.20; macro froth cues are limited in the data and the stock remains below the 20-DMA (~49.11), EMA (~52.86) and faces nearby resistance at 49.19–50.43.
 
 ## 1. The Biz
 
-1.1. **Activities:** Novo Nordisk manufactures and markets diabetes care products including human and modern insulins, GLP-1 injectables, oral antidiabetic agents, and obesity treatments. It also has a smaller biopharmaceutical segment (less than 10% of revenue) focused on protein therapies for hemophilia and other disorders. The company is the leading provider in global branded diabetes care.
+1.1. **Activities:** Novo Nordisk is a global leader in diabetes care, manufacturing and marketing human and modern insulins, GLP-1 injectables, and oral antidiabetic agents. It also sells obesity treatments. A smaller biopharmaceutical segment (less than 10% of revenue) provides protein therapies for hemophilia and other disorders.
 
-1.2. **Profitable?:** yes — it is profitable with a 32.9% profit margin, strong free cash flow, and positive net income in recent years.
+1.2. **Profitable?:** yes — it is profitable, with consistent positive net income and a ~32.9% profit margin alongside strong free cash flow.
 
-1.3. **Customer & Markets:** Novo Nordisk primarily serves patients with diabetes, obesity, and certain rare diseases worldwide, supplying therapies that are used in clinical care. Its markets are global across Diabetes and Obesity Care and a smaller Rare Disease segment, with roughly one-third share of the global branded diabetes treatment market.
+1.3. **Customer & Markets:** The company serves global diabetes and obesity care markets, with products used to treat chronic metabolic diseases and certain rare disorders. Based in Denmark, its reach is worldwide across healthcare systems treating diabetes, obesity, and hemophilia.
 
-1.4. **Competition:** Key competitors include Eli Lilly and large pharma peers such as Sanofi, Novartis, AstraZeneca, and GSK; Novo Nordisk leads in diabetes care with roughly one-third of the global branded market.
+1.4. **Competition:** Key competitors include Eli Lilly (notably in GLP-1/obesity), Sanofi, and AstraZeneca. Novo Nordisk remains the leading provider in diabetes care with roughly one-third of the global branded diabetes market, though it faces strong GLP-1 rivalry from Eli Lilly.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is up, with price rebounding off 45.15 support toward 50.43 resistance.
+2.1. **7d Trend?:** down — closed at 47.6 near 7d support (47.20) after lower highs versus the local high at 49.19.
 
-2.2. **7d Buy/Sell Points?:** A good buy zone was near 45.15 support; a logical sell/trim area was near 50.43 resistance.
+2.2. **7d Buy/Sell Points?:** Buying near 47.20 (support/suggested buy zone) was favorable; selling into 49.19–50.43 (local high/7d resistance) offered profit-taking levels.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Novo Nordisk is a long-standing global healthcare company with more than 90 years of innovation and roughly one-third share of the global branded diabetes market. Its financials indicate stability, with a 32.9% profit margin, substantial operating cash flow, and strong free cash flow. Net income has been consistently positive across recent periods. Based in Denmark, its scale and cash generation suggest a durable, stable institution.
+3.1. **Stability?:** This is a long-established, stable institution, described as the leading provider of diabetes care with a large global footprint. Profitability and cash generation are strong (profit margin ~32.9%, substantial operating and free cash flow). Net income has been positive across recent periods with a large cumulative total. Governance has tightened with the Foundation controlling 77% of voting power, which raises minority-holder concerns but does not indicate operational instability.
 
-3.2. **Innovating?:** It is innovating and growing, evidenced by positive Phase 2 data for Coramitug in ATTR-CM and ongoing GLP-1 and obesity treatment initiatives. Revenue growth is positive, though earnings growth has recently dipped.
+3.2. **Innovating?:** Innovating and growing: it leads in GLP-1 diabetes/obesity therapies (e.g., Ozempic/Wegovy) and is expanding access via new pricing and collaborations. Growth is evident in revenue (+5.1% YoY), though earnings growth is currently negative, reflecting near-term pressure.
 
 ## 4. Context
 
-4.1. **News:** Headlines center on potential discounted sales of Wegovy via a planned TrumpRx platform, which could expand access but complicate pricing dynamics. Telehealth channels are also enabling access to FDA-approved GLP-1 drugs like Wegovy, highlighting distribution shifts. A board candidate withdrew his nomination, a modest governance update. Novo reported promising Phase 2 results for Coramitug in ATTR-CM. Given quick facts flagging ‘Buy the rumor? no’ and ‘Sell the news? no’, the typical rumor/news trading setup appears muted.
+4.1. **News:** Recent headlines focus on price cuts for Wegovy/Ozempic (including a $199/month intro for self-pay) and LifeMD collaboration to expand access, plus governance changes increasing Foundation voting control to 77%. Coverage notes the healthcare sector’s recent outperformance with Novo and Eli Lilly leading. There’s chatter about potential reduced-price distribution via the planned TrumpRx platform, which could broaden access while pressuring pricing. Together, these suggest demand expansion amid pricing pressure; per quick facts, the setup hasn’t favored ‘buy the rumor, sell the news’ (both flagged ‘no’).
 
-4.2. **Tarrifs:** Mixed and uncertain: management commentary suggests limited concern about tariffs, while other coverage notes potential pricing/tariff risks that could affect profitability. Overall tariff impact on the stock is unclear in the provided data.
+4.2. **Tarrifs:** Mixed and likely limited near-term: management has said they do not worry much about tariffs, while other analyses flag political/tariff risks that could pressure profitability, implying the stock may be sensitive to policy headlines but not primarily driven by tariffs in recent coverage.
 
 ## 5. QuickRef
 
@@ -265,19 +265,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$103.77B</td></tr>
-<tr><td>Price</td><td>48.26</td></tr>
+<tr><td>Price</td><td>47.60</td></tr>
 <tr><td>7d Resistance</td><td>50.43</td></tr>
-<tr><td>7d Support</td><td>45.15</td></tr>
-<tr><td>30d Resistance</td><td>60.90</td></tr>
+<tr><td>7d Support</td><td>47.20</td></tr>
+<tr><td>30d Resistance</td><td>58.80</td></tr>
 <tr><td>30d Support</td><td>45.15</td></tr>
-<tr><td>Buy the dip?</td><td>no</td></tr>
+<tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>up</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>near-bottom</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
-<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
 </tbody></table>
 </div>
 
@@ -300,12 +300,12 @@ raw_markdown: |
 Gathering context for NVO...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-18/2025-11-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
