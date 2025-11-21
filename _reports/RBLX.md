@@ -2,50 +2,50 @@
 layout: default
 title: "RBLX Stock Report"
 ticker: "RBLX"
-date: 2025-11-17
-generated_at: 2025-11-17T10:24:36.535386+00:00
-runtime_seconds: 94.71
+date: 2025-11-21
+generated_at: 2025-11-21T10:22:17.436474+00:00
+runtime_seconds: 85.79
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-17T10:24:36.535386+00:00">2025-11-17 10:24 UTC</time> (runtime 1m 35s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T10:22:17.436474+00:00">2025-11-21 10:22 UTC</time> (runtime 1m 26s)
   
   ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — historically it’s near-bottom on 3mo and in the middle on 1yr/5yr; macro froth visibility is limited in the provided data; price is in a downtrend and below the 20DMA/EMA/SMA (115.69/119.70/125.80) while sitting between 7d support 98.05 and resistance 108.29.
+  0.1. **Long Entry?:** maybe — at a 3mo bottom and flagged oversold after a pullback; macro froth visibility is limited, and price is below the 20-DMA/EMA (109.0/116.5) while hugging 7d support at 91.33
   
   ## 1. The Biz
   
-  1.1. **Activities:** Roblox operates a free-to-play platform hosting millions of user-created games and virtual experiences powered by the Robux virtual currency. It provides creator tools and publishing via Roblox Studio, earning revenue by taking a cut of in-experience purchases and by selling real-world advertising space. Core functional areas span the user client/platform, creator tools (Studio), and monetization (marketplace/ads).
+  1.1. **Activities:** Roblox operates a free-to-play online platform where users play and create millions of 3D experiences, powered by its Roblox Client and Roblox Studio creator tools. It monetizes through Robux purchases and advertising, taking a cut of in-experience transactions and ad inventory. The company provides tools, publishing, discovery, and safety infrastructure connecting players, creators, and brands.
   
-  1.2. **Profitable?:** No — GAAP net income is negative over the last four quarters (sum -$968.63M, profit margin -21.7%), though operating cash flow ($1.37B) and free cash flow ($1.01B) are positive; timing to profitability is not provided.
+  1.2. **Profitable?:** No — it posts negative net income (sum -$968.6M; profit margin -21.7%), despite positive operating cash flow ($1.37B) and free cash flow ($1.01B).
   
-  1.3. **Customer & Markets:** Primary customers are gamers/users and creators/developers on the platform, with advertisers targeting those audiences. The user base skews increasingly older (over 13 with a fast‑growing 17–24 segment) and spans a global market, with international expansion highlighted. Monetization centers on optional in-experience purchases and advertising.
+  1.3. **Customer & Markets:** Primary customers are players (consumers), creators/developers, and advertisers across its global platform. Roblox serves a broadening age mix (more than 55% of users are over 13) and is pursuing international expansion, positioning it in global online gaming and digital advertising markets.
   
-  1.4. **Competition:** Competitors include Unity (U) for creator tools/engine, Microsoft (Minecraft), Meta (META), Alphabet/YouTube (GOOGL/GOOG), and Netflix (NFLX) for attention and platform time. It is a leading user-generated gaming platform, but relative market share or rank versus these peers is not provided.
+  1.4. **Competition:** Competitors include Unity (U) for developer tools and platforms, and large ecosystems from Meta (META), Alphabet/YouTube (GOOGL/GOOG), Microsoft (MSFT), and Netflix (NFLX). Relative market ranking versus these peers is not specified in the provided data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares slipped from a 7d/local high of 108.29 to a 102.28 close while testing 98.05 support.
+  2.1. **7d Trend?:** down — price slid from 98.13 open to 91.70 close and sits near 7d support at 91.33
   
-  2.2. **7d Buy/Sell Points?:** Buying near 100.60 and down to support at 98.05 looked favorable; selling or trimming near 108.29 resistance was prudent.
+  2.2. **7d Buy/Sell Points?:** Buying near 98.05 and especially near support at 91.33 looked favorable; selling into 103.78–105.30 offered exits near recent highs/resistance.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** high
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Roblox is an established platform business with a large daily user base and millions of creator-made experiences. It remains GAAP unprofitable over the last four quarters (net income sum -$968.63M, margin -21.7%). However, operating cash flow ($1.37B) and free cash flow ($1.01B) are solidly positive, supporting ongoing operations and investment. While detailed balance sheet items aren’t provided here, scale and cash generation suggest a more durable institution than a fly-by-night.
+  3.1. **Stability?:** Roblox is a scaled platform company, not a fly-by-night, with millions of creator-made experiences and a large daily user base. It generates strong cash flows (operating cash flow $1.37B; free cash flow $1.01B), which supports stability. However, it remains GAAP unprofitable with a -21.7% profit margin and cumulative net losses over recent quarters (-$968.6M), which adds risk. Overall, its cash generation and platform scale indicate resilience despite earnings volatility.
   
-  3.2. **Innovating?:** Yes—recent coverage cites 48% revenue growth and a 70% bookings surge alongside initiatives like immersive advertising, regional pricing, and international expansion. It is still working toward profitability while expanding monetization.
+  3.2. **Innovating?:** Innovating and growing — recent reports cite 48% revenue growth and 70% bookings growth alongside new monetization like regional pricing and advertising.
   
   ## 4. Context
   
-  4.1. **News:** Recent pieces highlight strong momentum: 48% revenue growth, 70% bookings growth, and 151.5M DAUs, plus moves in regional pricing and advertising. Despite a pullback after Q3, analysts were upbeat, including a new Goldman Sachs price target of $180 and multiple bullish features. Forward-looking views emphasize immersive ads, an aging user base, and international expansion, with some comparisons against other recovery names. The post-earnings dip hints at some sell-the-news behavior, though quick facts flag ‘Sell the news? no,’ framing the move more as a buy-the-dip setup.
+  4.1. **News:** Recent coverage highlights strong 2025 momentum: 48% revenue growth, 70% bookings growth, and accelerating monetization experiments (regional pricing, advertising). Despite robust Q3 metrics, shares pulled back after the print even as analysts issued upbeat calls and higher targets (e.g., a $180 target and buy-the-dip framing). Commentary also notes an aging user base and international expansion that could reshape the model over the next five years. In buy-the-rumor/sell-the-news terms, the post-earnings dip shows some sell-the-news risk, but follow-on upgrades and 'buy' lists suggest dip-buying rather than a sustained fade.
   
-  4.2. **Tarrifs:** Limited impact per coverage: Roblox lifted its bookings forecast as spending defied tariff uncertainty, and commentary noted tariffs don’t directly affect virtual goods, though the company still lists tariffs among potential risks.
+  4.2. **Tarrifs:** Headlines indicate limited direct impact: Roblox lifted its bookings outlook even as tariff uncertainty rose, and commentary notes virtual goods temper exposure. Tariffs are cited as a general macro risk rather than a demonstrated drag on results.
   
   ## 5. QuickRef
   
@@ -54,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-968.63M</td></tr>
-  <tr><td>Price</td><td>102.28</td></tr>
-  <tr><td>7d Resistance</td><td>108.29</td></tr>
-  <tr><td>7d Support</td><td>98.05</td></tr>
+  <tr><td>Price</td><td>91.70</td></tr>
+  <tr><td>7d Resistance</td><td>105.30</td></tr>
+  <tr><td>7d Support</td><td>91.33</td></tr>
   <tr><td>30d Resistance</td><td>141.95</td></tr>
-  <tr><td>30d Support</td><td>98.05</td></tr>
+  <tr><td>30d Support</td><td>91.33</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>near-bottom</td></tr>
+  <tr><td>3mo</td><td>bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
-  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
   </tbody></table>
   </div>
   
@@ -89,12 +89,12 @@ raw_markdown: |
   Gathering context for RBLX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-20?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-20?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/RBLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -217,46 +217,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-17T10:24:36.535386+00:00">2025-11-17 10:24 UTC</time> (runtime 1m 35s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T10:22:17.436474+00:00">2025-11-21 10:22 UTC</time> (runtime 1m 26s)
 
 ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — historically it’s near-bottom on 3mo and in the middle on 1yr/5yr; macro froth visibility is limited in the provided data; price is in a downtrend and below the 20DMA/EMA/SMA (115.69/119.70/125.80) while sitting between 7d support 98.05 and resistance 108.29.
+0.1. **Long Entry?:** maybe — at a 3mo bottom and flagged oversold after a pullback; macro froth visibility is limited, and price is below the 20-DMA/EMA (109.0/116.5) while hugging 7d support at 91.33
 
 ## 1. The Biz
 
-1.1. **Activities:** Roblox operates a free-to-play platform hosting millions of user-created games and virtual experiences powered by the Robux virtual currency. It provides creator tools and publishing via Roblox Studio, earning revenue by taking a cut of in-experience purchases and by selling real-world advertising space. Core functional areas span the user client/platform, creator tools (Studio), and monetization (marketplace/ads).
+1.1. **Activities:** Roblox operates a free-to-play online platform where users play and create millions of 3D experiences, powered by its Roblox Client and Roblox Studio creator tools. It monetizes through Robux purchases and advertising, taking a cut of in-experience transactions and ad inventory. The company provides tools, publishing, discovery, and safety infrastructure connecting players, creators, and brands.
 
-1.2. **Profitable?:** No — GAAP net income is negative over the last four quarters (sum -$968.63M, profit margin -21.7%), though operating cash flow ($1.37B) and free cash flow ($1.01B) are positive; timing to profitability is not provided.
+1.2. **Profitable?:** No — it posts negative net income (sum -$968.6M; profit margin -21.7%), despite positive operating cash flow ($1.37B) and free cash flow ($1.01B).
 
-1.3. **Customer & Markets:** Primary customers are gamers/users and creators/developers on the platform, with advertisers targeting those audiences. The user base skews increasingly older (over 13 with a fast‑growing 17–24 segment) and spans a global market, with international expansion highlighted. Monetization centers on optional in-experience purchases and advertising.
+1.3. **Customer & Markets:** Primary customers are players (consumers), creators/developers, and advertisers across its global platform. Roblox serves a broadening age mix (more than 55% of users are over 13) and is pursuing international expansion, positioning it in global online gaming and digital advertising markets.
 
-1.4. **Competition:** Competitors include Unity (U) for creator tools/engine, Microsoft (Minecraft), Meta (META), Alphabet/YouTube (GOOGL/GOOG), and Netflix (NFLX) for attention and platform time. It is a leading user-generated gaming platform, but relative market share or rank versus these peers is not provided.
+1.4. **Competition:** Competitors include Unity (U) for developer tools and platforms, and large ecosystems from Meta (META), Alphabet/YouTube (GOOGL/GOOG), Microsoft (MSFT), and Netflix (NFLX). Relative market ranking versus these peers is not specified in the provided data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares slipped from a 7d/local high of 108.29 to a 102.28 close while testing 98.05 support.
+2.1. **7d Trend?:** down — price slid from 98.13 open to 91.70 close and sits near 7d support at 91.33
 
-2.2. **7d Buy/Sell Points?:** Buying near 100.60 and down to support at 98.05 looked favorable; selling or trimming near 108.29 resistance was prudent.
+2.2. **7d Buy/Sell Points?:** Buying near 98.05 and especially near support at 91.33 looked favorable; selling into 103.78–105.30 offered exits near recent highs/resistance.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** high
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Roblox is an established platform business with a large daily user base and millions of creator-made experiences. It remains GAAP unprofitable over the last four quarters (net income sum -$968.63M, margin -21.7%). However, operating cash flow ($1.37B) and free cash flow ($1.01B) are solidly positive, supporting ongoing operations and investment. While detailed balance sheet items aren’t provided here, scale and cash generation suggest a more durable institution than a fly-by-night.
+3.1. **Stability?:** Roblox is a scaled platform company, not a fly-by-night, with millions of creator-made experiences and a large daily user base. It generates strong cash flows (operating cash flow $1.37B; free cash flow $1.01B), which supports stability. However, it remains GAAP unprofitable with a -21.7% profit margin and cumulative net losses over recent quarters (-$968.6M), which adds risk. Overall, its cash generation and platform scale indicate resilience despite earnings volatility.
 
-3.2. **Innovating?:** Yes—recent coverage cites 48% revenue growth and a 70% bookings surge alongside initiatives like immersive advertising, regional pricing, and international expansion. It is still working toward profitability while expanding monetization.
+3.2. **Innovating?:** Innovating and growing — recent reports cite 48% revenue growth and 70% bookings growth alongside new monetization like regional pricing and advertising.
 
 ## 4. Context
 
-4.1. **News:** Recent pieces highlight strong momentum: 48% revenue growth, 70% bookings growth, and 151.5M DAUs, plus moves in regional pricing and advertising. Despite a pullback after Q3, analysts were upbeat, including a new Goldman Sachs price target of $180 and multiple bullish features. Forward-looking views emphasize immersive ads, an aging user base, and international expansion, with some comparisons against other recovery names. The post-earnings dip hints at some sell-the-news behavior, though quick facts flag ‘Sell the news? no,’ framing the move more as a buy-the-dip setup.
+4.1. **News:** Recent coverage highlights strong 2025 momentum: 48% revenue growth, 70% bookings growth, and accelerating monetization experiments (regional pricing, advertising). Despite robust Q3 metrics, shares pulled back after the print even as analysts issued upbeat calls and higher targets (e.g., a $180 target and buy-the-dip framing). Commentary also notes an aging user base and international expansion that could reshape the model over the next five years. In buy-the-rumor/sell-the-news terms, the post-earnings dip shows some sell-the-news risk, but follow-on upgrades and 'buy' lists suggest dip-buying rather than a sustained fade.
 
-4.2. **Tarrifs:** Limited impact per coverage: Roblox lifted its bookings forecast as spending defied tariff uncertainty, and commentary noted tariffs don’t directly affect virtual goods, though the company still lists tariffs among potential risks.
+4.2. **Tarrifs:** Headlines indicate limited direct impact: Roblox lifted its bookings outlook even as tariff uncertainty rose, and commentary notes virtual goods temper exposure. Tariffs are cited as a general macro risk rather than a demonstrated drag on results.
 
 ## 5. QuickRef
 
@@ -265,19 +265,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-968.63M</td></tr>
-<tr><td>Price</td><td>102.28</td></tr>
-<tr><td>7d Resistance</td><td>108.29</td></tr>
-<tr><td>7d Support</td><td>98.05</td></tr>
+<tr><td>Price</td><td>91.70</td></tr>
+<tr><td>7d Resistance</td><td>105.30</td></tr>
+<tr><td>7d Support</td><td>91.33</td></tr>
 <tr><td>30d Resistance</td><td>141.95</td></tr>
-<tr><td>30d Support</td><td>98.05</td></tr>
+<tr><td>30d Support</td><td>91.33</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>near-bottom</td></tr>
+<tr><td>3mo</td><td>bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
-<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
 </tbody></table>
 </div>
 
@@ -300,12 +300,12 @@ raw_markdown: |
 Gathering context for RBLX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-19/2025-11-17?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting RBLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/RBLX/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/RBLX/2025-11-20?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/RBLX/2025-11-20?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/RBLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/RBLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
