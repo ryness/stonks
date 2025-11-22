@@ -3,34 +3,34 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2025-11-22
-generated_at: 2025-11-22T10:21:45.368495+00:00
-runtime_seconds: 82.55
+generated_at: 2025-11-22T15:20:06.399717+00:00
+runtime_seconds: 70.29
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-22T10:21:45.368495+00:00">2025-11-22 10:21 UTC</time> (runtime 1m 23s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-22T15:20:06.399717+00:00">2025-11-22 15:20 UTC</time> (runtime 1m 10s)
   
   ## 1. Pulse
   
-  Risk appetite improved on the day as equities rebounded broadly: S&P 500 +0.98%, Dow +1.08%, Nasdaq +0.88%, and small caps led with the Russell 2000 +2.80%. Futures echoed the move (ES +0.96%, YM +1.08%, NQ +0.72%, RTY +2.80%), while market breadth was positive (12 up vs 3 down) and the average index change was +1.25%, signaling a risk-on session.
+  Risk appetite improved on the day with broad equity gains: S&P 500 +0.98%, Dow +1.08%, Nasdaq +0.88%, and small caps leading as the Russell 2000 jumped +2.80%. Breadth was strong (12 up, 3 down) and the average index change was +1.25%, indicating buyers stepped back in across the tape.
   
-  Volatility eased but remained elevated: VIX fell 11.32% to 23.43 today, yet it is up 33.81% over the week, aligning with 7-day equity drawdowns (Nasdaq -4.84%, Dow -4.16%, S&P 500 -3.62%). This points to a near-term relief rally within a still-fragile backdrop.
+  Volatility eased but remains elevated: VIX fell 11.32% to 23.43 on the day, though it is still up 33.81% over the week. Futures echoed the rebound tone with S&P futures +0.96%, Dow futures +1.08%, Nasdaq futures +0.72%, and Russell futures +2.80%, while the 10Y Treasury yield slipped 1.05% to 4.06%, providing a tailwind to equities.
   
-  Rates and commodities were supportive for risk taking at the margin: the 10Y Treasury yield slipped 1.05% to 4.06%, oil fell 1.83% to $58.06 on easing geopolitical concerns, the dollar was flat (+0.02%), and gold edged higher (+0.50%). Despite today’s improvement, futures are still lower over 7 days (ES -3.72%, NQ -5.14%), underscoring that overall risk appetite has faded on the week.
+  Despite the bounce, the weekly picture still reflects risk aversion: S&P 500 -3.62% 7d, Nasdaq futures -5.14% 7d, Dow futures -4.23% 7d, and Russell 2000 -3.31% 7d. Commodities were mixed with WTI -1.83% 1d and -0.74% 7d and Gold +0.50% 1d but -3.04% 7d, underscoring that the day’s improvement follows a week of risk-off.
   
-  1.1. **Market Health:** Market health looks constructive tactically but cautious in trend. Breadth skewed positive (12 advancing, 3 declining) and the average index change was +1.25%, indicating broad participation in today’s rebound. However, volatility remains elevated despite a sharp 11% drop in VIX, and the 10Y at 4.06% eased only modestly. Taken together, conditions improved day-over-day but remain less than fully healthy given the week’s losses and higher volatility base.
+  1.1. **Market Health:** Market health looks improved near term given broad participation (12 up vs 3 down) and an average index gain of 1.25% led by small caps. The VIX dropped 11.32% to 23.43, and a 10Y yield easing to 4.06% (-1.05% 1d) supports the rebound context. However, the VIX remains elevated on a 7d basis (+33.81%) and major benchmarks are still down 3–5% over the week. Overall, conditions have stabilized for now, but the recovery is only partial against a still‑fragile volatility backdrop.
   
-  1.2. **Leadership:** Leadership flipped to small caps with the Russell 2000 up 2.80% on the day, while QQQ lagged the bounce at +0.75%. Over the past week, Nasdaq-linked benchmarks underperformed most (Nasdaq futures -5.14%, QQQ -4.99%), whereas the Russell 2000 was the relative leader at -3.31% despite still being negative.
+  1.2. **Leadership:** Leadership rotated to cyclicals and small caps, with the Russell 2000 up +2.80% on the day, while mega-cap tech lagged with QQQ up a smaller +0.75%. A negative standout on the day was WTI Crude at -1.83%, signaling ongoing pressure in energy. Over the week, the tech complex underperformed most with Nasdaq futures -5.14% 7d and the Nasdaq Composite -4.84% 7d, while the Russell 2000 (-3.31% 7d) and Dow 30 (-4.16% 7d) were comparatively less weak.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** A tech-led rebound followed headlines citing Nvidia’s strong results, with U.S. stock futures and cash equities snapping back after a steep prior-day drop, which is a clear risk-on impulse per the Times of India summary. Still, MarketWatch noted that an Nvidia-inspired bounce had previously faltered, highlighting the tape’s sensitivity to AI leadership and momentum factors. Global risk sentiment remained challenged earlier in the week as European stocks slid on concerns about lofty technology valuations and an uncertain U.S. policy path, reinforcing a risk-off tone (Financial Post). Fed commentary skewed cautious, with a Fed official warning that further rate cuts could risk financial stability (Yahoo/Reuters), and Fortune flagging fading hopes for cuts alongside a VIX spike—aligned with the week’s elevated volatility and equity drawdowns. Oil extended its decline on easing geopolitical concerns after Ukraine–U.S. talks (Biztoc), and WTI fell 1.83% today, which can lessen inflation pressures and support risk assets. In contrast, crypto weakness persisted as Bitcoin fell about 4.5% with heavy liquidations (Times of India), a risk-off signal in speculative corners even as equities stabilized.
+  2.1. **Catalysts:** Fed signaling is a key driver: a report noted a rebound after a Federal Reserve official suggested the possibility of a December rate cut, while another Fed voice warned that further cuts could pose risks. This mixed messaging coincides with the 10Y yield easing to 4.06% (-1.05% 1d) and a sharp VIX drop (-11.32% 1d), which together leaned risk-on today but still leave policy expectations uncertain. Positioning and sentiment around AI and high-beta risk remain pivotal as reports highlighted a tech- and crypto-led selloff earlier in the week. That aligns with the 7d drawdowns in Nasdaq futures (-5.14%) and the VIX’s 33.81% weekly surge, suggesting that while today’s bid was constructive, elevated volatility keeps the tape sensitive to reversals. Commodity weakness is another theme, with coverage noting broad declines; WTI fell 1.83% on the day (and 0.74% over the week) and gold is down 3.04% over the week despite a 0.50% daily bounce. Softer energy prices can ease inflation pressure (risk-on for duration and growth equities), but concurrent commodity softness can also signal growth concerns (risk-off for cyclicals), helping explain the ongoing sector and style churn.
   
   2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** up 58% Confidence driven by broad 1-day gains (S&P 500 +0.98%, Dow +1.08%, Russell 2000 +2.80%), positive breadth (12 up, 3 down), and a 11% drop in VIX to 23.43 alongside a softer 10Y yield at 4.06%; tempered by still-negative 7-day returns and an elevated volatility base.
+  3.1. **Next 24h Bias:** up 60% The day’s broad rebound (average index +1.25%) with small-cap leadership (Russell 2000 +2.80%), softer yields (10Y -1.05% to 4.06%), and a sharp VIX pullback (-11.32% to 23.43) points to a constructive near-term tone. Futures were also higher (ES +0.96%, YM +1.08%, NQ +0.72%, RTY +2.80%), supporting follow-through. Confidence is tempered by the still-elevated VIX on a 7d basis (+33.81%) and recent tech-led weakness (Nasdaq futures -5.14% 7d).
   
-  3.2. **Watch List:** Watch whether the S&P 500 (6,602.99) and S&P futures (6,620.25) can build on today’s gains; sustained strength in small caps is important with the Russell 2000 at 2,369.59 and Russell futures at 2,375.30. Continued VIX moderation from 23.43 would validate the risk-on bias, while a reversal higher would challenge it. Track rate dynamics with the 10Y at 4.06%—further drift lower would support equities, while a backup could pressure the bounce. In sectors, monitor AI/large-cap tech leadership given recent sensitivity, and small caps for follow-through; energy may lag if WTI stays soft around $58.06. Stay alert to fresh policy headlines and geopolitical updates given their recent impact: any additional Fed commentary akin to this week’s caution or developments around Ukraine–U.S. talks could sway risk sentiment. Dollar stability near 100.18 and gold’s tone at 4,076.70 will help gauge defensive demand into the next session.
+  3.2. **Watch List:** Watch index and futures marks near today’s closes for confirmation: ES around 6,620, SPX near 6,603, NQ near 24,305, and RTY near 2,375. A sustained bid with VIX holding near or below 23.43 would support the risk-on bias, while a quick reversion higher in volatility would challenge the bounce. Monitor leadership breadth: small caps led strongly (Russell 2000 +2.80%) while QQQ underperformed (+0.75%). If small-cap strength persists relative to mega-cap tech and Nasdaq futures stabilize, it would reinforce the rotation; renewed Nasdaq underperformance would warn of fragile risk appetite. Keep an eye on macro tells: the 10Y near 4.06 (down 1.05% on the day) remains a key support to equities if it drifts lower, while WTI around 58.06 (-1.83% 1d) and the US Dollar at 100.18 (+0.70% 7d) can influence cyclical sentiment. Continued oil weakness alongside a firmer dollar may cap cyclicals even if the broader tape attempts to recover.
   
   ## 4. QuickRef
   
@@ -101,21 +101,10 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 4 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -132,31 +121,31 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-22T10:21:45.368495+00:00">2025-11-22 10:21 UTC</time> (runtime 1m 23s)
+**Generated:** <time class="js-local-time" datetime="2025-11-22T15:20:06.399717+00:00">2025-11-22 15:20 UTC</time> (runtime 1m 10s)
 
 ## 1. Pulse
 
-Risk appetite improved on the day as equities rebounded broadly: S&P 500 +0.98%, Dow +1.08%, Nasdaq +0.88%, and small caps led with the Russell 2000 +2.80%. Futures echoed the move (ES +0.96%, YM +1.08%, NQ +0.72%, RTY +2.80%), while market breadth was positive (12 up vs 3 down) and the average index change was +1.25%, signaling a risk-on session.
+Risk appetite improved on the day with broad equity gains: S&P 500 +0.98%, Dow +1.08%, Nasdaq +0.88%, and small caps leading as the Russell 2000 jumped +2.80%. Breadth was strong (12 up, 3 down) and the average index change was +1.25%, indicating buyers stepped back in across the tape.
 
-Volatility eased but remained elevated: VIX fell 11.32% to 23.43 today, yet it is up 33.81% over the week, aligning with 7-day equity drawdowns (Nasdaq -4.84%, Dow -4.16%, S&P 500 -3.62%). This points to a near-term relief rally within a still-fragile backdrop.
+Volatility eased but remains elevated: VIX fell 11.32% to 23.43 on the day, though it is still up 33.81% over the week. Futures echoed the rebound tone with S&P futures +0.96%, Dow futures +1.08%, Nasdaq futures +0.72%, and Russell futures +2.80%, while the 10Y Treasury yield slipped 1.05% to 4.06%, providing a tailwind to equities.
 
-Rates and commodities were supportive for risk taking at the margin: the 10Y Treasury yield slipped 1.05% to 4.06%, oil fell 1.83% to $58.06 on easing geopolitical concerns, the dollar was flat (+0.02%), and gold edged higher (+0.50%). Despite today’s improvement, futures are still lower over 7 days (ES -3.72%, NQ -5.14%), underscoring that overall risk appetite has faded on the week.
+Despite the bounce, the weekly picture still reflects risk aversion: S&P 500 -3.62% 7d, Nasdaq futures -5.14% 7d, Dow futures -4.23% 7d, and Russell 2000 -3.31% 7d. Commodities were mixed with WTI -1.83% 1d and -0.74% 7d and Gold +0.50% 1d but -3.04% 7d, underscoring that the day’s improvement follows a week of risk-off.
 
-1.1. **Market Health:** Market health looks constructive tactically but cautious in trend. Breadth skewed positive (12 advancing, 3 declining) and the average index change was +1.25%, indicating broad participation in today’s rebound. However, volatility remains elevated despite a sharp 11% drop in VIX, and the 10Y at 4.06% eased only modestly. Taken together, conditions improved day-over-day but remain less than fully healthy given the week’s losses and higher volatility base.
+1.1. **Market Health:** Market health looks improved near term given broad participation (12 up vs 3 down) and an average index gain of 1.25% led by small caps. The VIX dropped 11.32% to 23.43, and a 10Y yield easing to 4.06% (-1.05% 1d) supports the rebound context. However, the VIX remains elevated on a 7d basis (+33.81%) and major benchmarks are still down 3–5% over the week. Overall, conditions have stabilized for now, but the recovery is only partial against a still‑fragile volatility backdrop.
 
-1.2. **Leadership:** Leadership flipped to small caps with the Russell 2000 up 2.80% on the day, while QQQ lagged the bounce at +0.75%. Over the past week, Nasdaq-linked benchmarks underperformed most (Nasdaq futures -5.14%, QQQ -4.99%), whereas the Russell 2000 was the relative leader at -3.31% despite still being negative.
+1.2. **Leadership:** Leadership rotated to cyclicals and small caps, with the Russell 2000 up +2.80% on the day, while mega-cap tech lagged with QQQ up a smaller +0.75%. A negative standout on the day was WTI Crude at -1.83%, signaling ongoing pressure in energy. Over the week, the tech complex underperformed most with Nasdaq futures -5.14% 7d and the Nasdaq Composite -4.84% 7d, while the Russell 2000 (-3.31% 7d) and Dow 30 (-4.16% 7d) were comparatively less weak.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** A tech-led rebound followed headlines citing Nvidia’s strong results, with U.S. stock futures and cash equities snapping back after a steep prior-day drop, which is a clear risk-on impulse per the Times of India summary. Still, MarketWatch noted that an Nvidia-inspired bounce had previously faltered, highlighting the tape’s sensitivity to AI leadership and momentum factors. Global risk sentiment remained challenged earlier in the week as European stocks slid on concerns about lofty technology valuations and an uncertain U.S. policy path, reinforcing a risk-off tone (Financial Post). Fed commentary skewed cautious, with a Fed official warning that further rate cuts could risk financial stability (Yahoo/Reuters), and Fortune flagging fading hopes for cuts alongside a VIX spike—aligned with the week’s elevated volatility and equity drawdowns. Oil extended its decline on easing geopolitical concerns after Ukraine–U.S. talks (Biztoc), and WTI fell 1.83% today, which can lessen inflation pressures and support risk assets. In contrast, crypto weakness persisted as Bitcoin fell about 4.5% with heavy liquidations (Times of India), a risk-off signal in speculative corners even as equities stabilized.
+2.1. **Catalysts:** Fed signaling is a key driver: a report noted a rebound after a Federal Reserve official suggested the possibility of a December rate cut, while another Fed voice warned that further cuts could pose risks. This mixed messaging coincides with the 10Y yield easing to 4.06% (-1.05% 1d) and a sharp VIX drop (-11.32% 1d), which together leaned risk-on today but still leave policy expectations uncertain. Positioning and sentiment around AI and high-beta risk remain pivotal as reports highlighted a tech- and crypto-led selloff earlier in the week. That aligns with the 7d drawdowns in Nasdaq futures (-5.14%) and the VIX’s 33.81% weekly surge, suggesting that while today’s bid was constructive, elevated volatility keeps the tape sensitive to reversals. Commodity weakness is another theme, with coverage noting broad declines; WTI fell 1.83% on the day (and 0.74% over the week) and gold is down 3.04% over the week despite a 0.50% daily bounce. Softer energy prices can ease inflation pressure (risk-on for duration and growth equities), but concurrent commodity softness can also signal growth concerns (risk-off for cyclicals), helping explain the ongoing sector and style churn.
 
 2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** up 58% Confidence driven by broad 1-day gains (S&P 500 +0.98%, Dow +1.08%, Russell 2000 +2.80%), positive breadth (12 up, 3 down), and a 11% drop in VIX to 23.43 alongside a softer 10Y yield at 4.06%; tempered by still-negative 7-day returns and an elevated volatility base.
+3.1. **Next 24h Bias:** up 60% The day’s broad rebound (average index +1.25%) with small-cap leadership (Russell 2000 +2.80%), softer yields (10Y -1.05% to 4.06%), and a sharp VIX pullback (-11.32% to 23.43) points to a constructive near-term tone. Futures were also higher (ES +0.96%, YM +1.08%, NQ +0.72%, RTY +2.80%), supporting follow-through. Confidence is tempered by the still-elevated VIX on a 7d basis (+33.81%) and recent tech-led weakness (Nasdaq futures -5.14% 7d).
 
-3.2. **Watch List:** Watch whether the S&P 500 (6,602.99) and S&P futures (6,620.25) can build on today’s gains; sustained strength in small caps is important with the Russell 2000 at 2,369.59 and Russell futures at 2,375.30. Continued VIX moderation from 23.43 would validate the risk-on bias, while a reversal higher would challenge it. Track rate dynamics with the 10Y at 4.06%—further drift lower would support equities, while a backup could pressure the bounce. In sectors, monitor AI/large-cap tech leadership given recent sensitivity, and small caps for follow-through; energy may lag if WTI stays soft around $58.06. Stay alert to fresh policy headlines and geopolitical updates given their recent impact: any additional Fed commentary akin to this week’s caution or developments around Ukraine–U.S. talks could sway risk sentiment. Dollar stability near 100.18 and gold’s tone at 4,076.70 will help gauge defensive demand into the next session.
+3.2. **Watch List:** Watch index and futures marks near today’s closes for confirmation: ES around 6,620, SPX near 6,603, NQ near 24,305, and RTY near 2,375. A sustained bid with VIX holding near or below 23.43 would support the risk-on bias, while a quick reversion higher in volatility would challenge the bounce. Monitor leadership breadth: small caps led strongly (Russell 2000 +2.80%) while QQQ underperformed (+0.75%). If small-cap strength persists relative to mega-cap tech and Nasdaq futures stabilize, it would reinforce the rotation; renewed Nasdaq underperformance would warn of fragile risk appetite. Keep an eye on macro tells: the 10Y near 4.06 (down 1.05% on the day) remains a key support to equities if it drifts lower, while WTI around 58.06 (-1.83% 1d) and the US Dollar at 100.18 (+0.70% 7d) can influence cyclical sentiment. Continued oil weakness alongside a firmer dollar may cap cyclicals even if the broader tape attempts to recover.
 
 ## 4. QuickRef
 
@@ -227,21 +216,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 4 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
