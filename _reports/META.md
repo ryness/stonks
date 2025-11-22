@@ -2,50 +2,50 @@
 layout: default
 title: "META Stock Report"
 ticker: "META"
-date: 2025-11-18
-generated_at: 2025-11-18T20:24:37.774548+00:00
-runtime_seconds: 81.69
+date: 2025-11-22
+generated_at: 2025-11-22T20:22:09.319956+00:00
+runtime_seconds: 100.59
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-18T20:24:37.774548+00:00">2025-11-18 20:24 UTC</time> (runtime 1m 22s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-22T20:22:09.319956+00:00">2025-11-22 20:22 UTC</time> (runtime 1m 41s)
   
   ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — sitting at a 3mo bottom and near 7d/30d support at 583.78 with a suggested buy zone around 595.20; macro froth cues are present (fund managers’ low cash and a tech selloff) and price is below the 20DMA/EMA/SMA (660/690/711) and capped by 7d resistance 635.
+  0.1. **Long Entry?:** maybe — 3mo is 'near-bottom' and $594.25 is near support 581.25 but below the 20-DMA 638.55 and longer MAs (EMA 676.00, SMA 697.66), with nearby resistance 617.65; AI-bubble/froth headlines and choppy markets limit visibility despite a 'Buy the dip? yes' cue.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Meta operates the world’s largest social media platform through its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It provides these services free to users and monetizes by packaging data signals from its ecosystem to sell digital ads. The company also invests heavily in Reality Labs, though it remains a small part of sales.
+  1.1. **Activities:** Meta operates the Family of Apps—Facebook, Instagram, Messenger, and WhatsApp—serving close to 4 billion monthly active users worldwide. It monetizes by packaging user data from its ecosystem to sell digital advertising to marketers. The company is also investing heavily in Reality Labs, though it remains a small part of overall sales.
   
-  1.2. **Profitable?:** yes — it posts a ~30.9% profit margin with positive net income and strong operating cash flow ($107.6B).
+  1.2. **Profitable?:** yes — profitable with a 30.9% profit margin and strong cash generation (OCF $107.6B, FCF $18.6B).
   
-  1.3. **Customer & Markets:** Its primary customers are digital advertisers across industries looking to reach users on Facebook, Instagram, Messenger, and WhatsApp. End users are individuals and businesses worldwide, totaling close to 4 billion monthly active users. Markets are global with broad industry exposure through its ad platform.
+  1.3. **Customer & Markets:** Primary customers are digital advertisers across industries purchasing ad placements on Meta’s platforms. End users span nearly 4 billion MAUs worldwide, giving the company a global market footprint in internet content and information.
   
-  1.4. **Competition:** Key competitors include YouTube (Alphabet/Google), TikTok, and Snap, among others. Meta remains the largest social media company, with a recent court ruling citing robust competition from platforms like YouTube and TikTok.
+  1.4. **Competition:** Competitors include Alphabet/Google and Snap, among other large internet platforms listed as related companies; Meta ranks as the largest social media company per its profile.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — price fell from a local high of 635.00 toward 595.20 and closed 600.89, sitting below the 20DMA at 660.31.
+  2.1. **7d Trend?:** down — price closed at 594.25 in a downtrend, below the 20-DMA 638.55 and edging between the local high 606.72 and support 581.25.
   
-  2.2. **7d Buy/Sell Points?:** Buys near 595.20 and the stronger support at 583.78 looked attractive; sells around 635.00 at 7d resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Buying near the 581.25 support looked attractive; selling into 606.72–617.65 (local high/7d resistance) offered exits.
   
   2.3.1. **7d Volume:** med
   
-  2.3.2. **7d Volatility:** high
+  2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Meta is a long-established, large-scale platform with close to 4 billion monthly active users, indicating strong durability. Financially, it shows consistent profitability (net income sum $58.53B) and substantial operating cash flow of $107.57B with positive free cash flow. A profit margin near 31% underscores fundamental strength. While short-term trading can be volatile (ATR ~4.09%), the business profile and cash generation point to a stable institution.
+  3.1. **Stability?:** Meta appears to be a stable institution rather than a fly-by-night. It is the largest social media company with close to 4 billion monthly active users. Financially, it posts a 30.9% profit margin and generated $107.6B in operating cash flow and $18.6B in free cash flow. These scale and cash metrics suggest resilience even as it invests in Reality Labs, which is currently a small part of sales.
   
-  3.2. **Innovating?:** It is innovating and growing, with 26.2% revenue growth and ongoing heavy investment in Reality Labs. Reality Labs remains small today but reflects continued product and platform development.
+  3.2. **Innovating?:** Meta is actively innovating, investing heavily in Reality Labs while its core business grows, evidenced by 26.2% revenue growth. This points to ongoing product and platform expansion.
   
   ## 4. Context
   
-  4.1. **News:** Meta won a key FTC antitrust case, with a judge noting strong competition from YouTube and TikTok, which reduces regulatory overhang. A Cloudflare outage that impacted platforms including Facebook contributed to a broader tech selloff. Macro headlines highlight low cash levels among fund managers and rising funding stress, adding pressure to risk assets. Another piece framed Meta as a beaten-down opportunity despite the recent selloff. Given these, the quick facts suggest neither a classic “buy the rumor” nor “sell the news” setup right now.
+  4.1. **News:** Recent coverage highlights Meta as a recommended buy ahead of 2026, with one piece explicitly naming Meta among top picks. Broader market context points to potential rate cuts, AI investment, and M&A in 2026, while other commentary flags AI froth and volatility. Another note indicates MoffettNathanson turned cautious on META due to accelerating AI spend. Given this mix, the classic ‘buy the rumor, sell the news’ isn’t clearly in play, aligning with quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no’.
   
-  4.2. **Tarrifs:** Reports indicate tariffs could weigh on ad demand tied to China-linked retailers, with one estimate citing up to a $7B hit, though other coverage notes Meta has largely shrugged off tariff fears and still expects growth.
+  4.2. **Tarrifs:** Reports suggest tariffs could curb advertiser spending and pressure initiatives (with one estimate up to about $7B impact), yet other coverage notes Meta has largely shrugged off immediate tariff effects.
   
   ## 5. QuickRef
   
@@ -54,16 +54,16 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$58.53B</td></tr>
-  <tr><td>Price</td><td>600.89</td></tr>
-  <tr><td>7d Resistance</td><td>635.00</td></tr>
-  <tr><td>7d Support</td><td>583.78</td></tr>
+  <tr><td>Price</td><td>594.25</td></tr>
+  <tr><td>7d Resistance</td><td>617.65</td></tr>
+  <tr><td>7d Support</td><td>581.25</td></tr>
   <tr><td>30d Resistance</td><td>759.16</td></tr>
-  <tr><td>30d Support</td><td>583.78</td></tr>
+  <tr><td>30d Support</td><td>581.25</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>bottom</td></tr>
+  <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
   <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -88,12 +88,12 @@ raw_markdown: |
   Gathering context for META...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting META prices from massive.com... (https://api.massive.com/v2/aggs/ticker/META/range/1/day/2020-10-20/2025-11-18?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting META prices from massive.com... (https://api.massive.com/v2/aggs/ticker/META/range/1/day/2020-10-24/2025-11-22?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-18?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/META/2025-11-18?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/META/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -134,7 +134,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -143,7 +143,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -170,7 +170,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -208,46 +208,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-18T20:24:37.774548+00:00">2025-11-18 20:24 UTC</time> (runtime 1m 22s)
+**Generated:** <time class="js-local-time" datetime="2025-11-22T20:22:09.319956+00:00">2025-11-22 20:22 UTC</time> (runtime 1m 41s)
 
 ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — sitting at a 3mo bottom and near 7d/30d support at 583.78 with a suggested buy zone around 595.20; macro froth cues are present (fund managers’ low cash and a tech selloff) and price is below the 20DMA/EMA/SMA (660/690/711) and capped by 7d resistance 635.
+0.1. **Long Entry?:** maybe — 3mo is 'near-bottom' and $594.25 is near support 581.25 but below the 20-DMA 638.55 and longer MAs (EMA 676.00, SMA 697.66), with nearby resistance 617.65; AI-bubble/froth headlines and choppy markets limit visibility despite a 'Buy the dip? yes' cue.
 
 ## 1. The Biz
 
-1.1. **Activities:** Meta operates the world’s largest social media platform through its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It provides these services free to users and monetizes by packaging data signals from its ecosystem to sell digital ads. The company also invests heavily in Reality Labs, though it remains a small part of sales.
+1.1. **Activities:** Meta operates the Family of Apps—Facebook, Instagram, Messenger, and WhatsApp—serving close to 4 billion monthly active users worldwide. It monetizes by packaging user data from its ecosystem to sell digital advertising to marketers. The company is also investing heavily in Reality Labs, though it remains a small part of overall sales.
 
-1.2. **Profitable?:** yes — it posts a ~30.9% profit margin with positive net income and strong operating cash flow ($107.6B).
+1.2. **Profitable?:** yes — profitable with a 30.9% profit margin and strong cash generation (OCF $107.6B, FCF $18.6B).
 
-1.3. **Customer & Markets:** Its primary customers are digital advertisers across industries looking to reach users on Facebook, Instagram, Messenger, and WhatsApp. End users are individuals and businesses worldwide, totaling close to 4 billion monthly active users. Markets are global with broad industry exposure through its ad platform.
+1.3. **Customer & Markets:** Primary customers are digital advertisers across industries purchasing ad placements on Meta’s platforms. End users span nearly 4 billion MAUs worldwide, giving the company a global market footprint in internet content and information.
 
-1.4. **Competition:** Key competitors include YouTube (Alphabet/Google), TikTok, and Snap, among others. Meta remains the largest social media company, with a recent court ruling citing robust competition from platforms like YouTube and TikTok.
+1.4. **Competition:** Competitors include Alphabet/Google and Snap, among other large internet platforms listed as related companies; Meta ranks as the largest social media company per its profile.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — price fell from a local high of 635.00 toward 595.20 and closed 600.89, sitting below the 20DMA at 660.31.
+2.1. **7d Trend?:** down — price closed at 594.25 in a downtrend, below the 20-DMA 638.55 and edging between the local high 606.72 and support 581.25.
 
-2.2. **7d Buy/Sell Points?:** Buys near 595.20 and the stronger support at 583.78 looked attractive; sells around 635.00 at 7d resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Buying near the 581.25 support looked attractive; selling into 606.72–617.65 (local high/7d resistance) offered exits.
 
 2.3.1. **7d Volume:** med
 
-2.3.2. **7d Volatility:** high
+2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Meta is a long-established, large-scale platform with close to 4 billion monthly active users, indicating strong durability. Financially, it shows consistent profitability (net income sum $58.53B) and substantial operating cash flow of $107.57B with positive free cash flow. A profit margin near 31% underscores fundamental strength. While short-term trading can be volatile (ATR ~4.09%), the business profile and cash generation point to a stable institution.
+3.1. **Stability?:** Meta appears to be a stable institution rather than a fly-by-night. It is the largest social media company with close to 4 billion monthly active users. Financially, it posts a 30.9% profit margin and generated $107.6B in operating cash flow and $18.6B in free cash flow. These scale and cash metrics suggest resilience even as it invests in Reality Labs, which is currently a small part of sales.
 
-3.2. **Innovating?:** It is innovating and growing, with 26.2% revenue growth and ongoing heavy investment in Reality Labs. Reality Labs remains small today but reflects continued product and platform development.
+3.2. **Innovating?:** Meta is actively innovating, investing heavily in Reality Labs while its core business grows, evidenced by 26.2% revenue growth. This points to ongoing product and platform expansion.
 
 ## 4. Context
 
-4.1. **News:** Meta won a key FTC antitrust case, with a judge noting strong competition from YouTube and TikTok, which reduces regulatory overhang. A Cloudflare outage that impacted platforms including Facebook contributed to a broader tech selloff. Macro headlines highlight low cash levels among fund managers and rising funding stress, adding pressure to risk assets. Another piece framed Meta as a beaten-down opportunity despite the recent selloff. Given these, the quick facts suggest neither a classic “buy the rumor” nor “sell the news” setup right now.
+4.1. **News:** Recent coverage highlights Meta as a recommended buy ahead of 2026, with one piece explicitly naming Meta among top picks. Broader market context points to potential rate cuts, AI investment, and M&A in 2026, while other commentary flags AI froth and volatility. Another note indicates MoffettNathanson turned cautious on META due to accelerating AI spend. Given this mix, the classic ‘buy the rumor, sell the news’ isn’t clearly in play, aligning with quick facts showing ‘Buy the rumor? no’ and ‘Sell the news? no’.
 
-4.2. **Tarrifs:** Reports indicate tariffs could weigh on ad demand tied to China-linked retailers, with one estimate citing up to a $7B hit, though other coverage notes Meta has largely shrugged off tariff fears and still expects growth.
+4.2. **Tarrifs:** Reports suggest tariffs could curb advertiser spending and pressure initiatives (with one estimate up to about $7B impact), yet other coverage notes Meta has largely shrugged off immediate tariff effects.
 
 ## 5. QuickRef
 
@@ -256,16 +256,16 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$58.53B</td></tr>
-<tr><td>Price</td><td>600.89</td></tr>
-<tr><td>7d Resistance</td><td>635.00</td></tr>
-<tr><td>7d Support</td><td>583.78</td></tr>
+<tr><td>Price</td><td>594.25</td></tr>
+<tr><td>7d Resistance</td><td>617.65</td></tr>
+<tr><td>7d Support</td><td>581.25</td></tr>
 <tr><td>30d Resistance</td><td>759.16</td></tr>
-<tr><td>30d Support</td><td>583.78</td></tr>
+<tr><td>30d Support</td><td>581.25</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>bottom</td></tr>
+<tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
 <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -290,12 +290,12 @@ raw_markdown: |
 Gathering context for META...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting META prices from massive.com... (https://api.massive.com/v2/aggs/ticker/META/range/1/day/2020-10-20/2025-11-18?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting META prices from massive.com... (https://api.massive.com/v2/aggs/ticker/META/range/1/day/2020-10-24/2025-11-22?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-18?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/META/2025-11-18?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/META/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -336,7 +336,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -345,7 +345,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -372,7 +372,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
