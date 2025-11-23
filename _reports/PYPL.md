@@ -2,34 +2,34 @@
 layout: default
 title: "PYPL Stock Report"
 ticker: "PYPL"
-date: 2025-11-19
-generated_at: 2025-11-19T01:28:05.506607+00:00
-runtime_seconds: 84.17
+date: 2025-11-23
+generated_at: 2025-11-23T01:47:55.876290+00:00
+runtime_seconds: 78.24
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-19T01:28:05.506607+00:00">2025-11-19 01:28 UTC</time> (runtime 1m 24s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-23T01:47:55.876290+00:00">2025-11-23 01:47 UTC</time> (runtime 1m 18s)
   
   ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are near 1yr/5yr near-bottom and flagged oversold, suggesting a potential dip-buy; macro froth visibility is limited, and price sits well below the 20-DMA/SMA (~67–68) while hovering just above 7d/30d support at 60.47.
+  0.1. **Long Entry?:** maybe — historically near-bottom across 3mo/1yr/5yr and close to 58.00 support with med volatility; macro froth cues are present (AI bubble concerns from Thiel’s Nvidia sale), and shares sit below the 20DMA/SMA/EMA (~65.6–67.7) and under 7d resistance 67.12.
   
   ## 1. The Biz
   
-  1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, enabling online checkout, digital wallets, and peer-to-peer transfers via Venmo. It offers tools like fraud protection and transaction processing across its payments ecosystem. Spun off from eBay in 2015, it had 434 million active accounts at the end of 2024.
+  1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, focused on online checkout and digital wallets. It also operates Venmo for person-to-person payments and reported 434 million active accounts at the end of 2024.
   
-  1.2. **Profitable?:** Yes — it is profitable with ~15% profit margin, ~$4.92B TTM net income, and ~$3.13B in free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with ~$4.92B cumulative net income, ~15% profit margin, and positive free cash flow (~$3.13B).
   
-  1.3. **Customer & Markets:** Primary customers are merchants and consumers transacting online and via Venmo for P2P payments. It serves global e-commerce and digital payments markets, processing transactions in more than 200 markets and over 100 currencies.
+  1.3. **Customer & Markets:** Primary customers are consumers and merchants/online retailers using PayPal and Venmo. It processes transactions in more than 200 markets and over 100 currencies, serving global e-commerce and digital services.
   
-  1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Affirm (BNPL), Shopify/Shop Pay, Amazon, and Coinbase. Reported estimates place PayPal as a leading online payments player with roughly mid-40% market share, positioning it among the top providers.
+  1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Block (Square), Stripe, Affirm, Shopify, Amazon, and Coinbase. PayPal remains a leading online payments player, with sources citing roughly mid-40% online payments share.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the price retreated from the 7d local high 67.99 toward support 60.47 and sits below the 20-DMA (67.21).
+  2.1. **7d Trend?:** down — labeled a downtrend with the price at 60.57 below the 20DMA (65.64) and under 7d resistance 67.12.
   
-  2.2. **7d Buy/Sell Points?:** Attractive entries were near 64.78 and especially around support at 60.47; prudent sells were near the 67.99 resistance.
+  2.2. **7d Buy/Sell Points?:** Buying near the 58.00 support/suggested buy zone looked favorable; selling around 67.12–67.83 (7d resistance/local high) offered exits.
   
   2.3.1. **7d Volume:** med
   
@@ -37,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** PayPal has operated as a standalone public company since its 2015 spinoff and serves 434 million active accounts, signaling scale and durability. It posts consistent profits (~$4.92B TTM net income) with strong operating cash flow (~$6.43B) and free cash flow (~$3.13B. These metrics and its entrenched payments platform indicate a relatively stable institution, not a fly-by-night firm.
+  3.1. **Stability?:** PayPal has operated independently since its 2015 spin-off and serves a large global base of 434 million accounts. It generates consistent profits (~$4.92B cumulative net income) with strong operating cash flow (~$6.43B) and free cash flow (~$3.13B). As a scaled Financial Services/Credit Services platform, it appears financially durable rather than fly-by-night.
   
-  3.2. **Innovating?:** Innovating — recent moves include PayPal USD (with 4% interest and free transfers), AI-driven “agentic commerce” services, and new Venmo features plus no-fee BNPL expansion to Canada, indicating active product development and growth efforts.
+  3.2. **Innovating?:** Innovating — revenue grew 7.3% and earnings grew 23.6%, and headlines cite new AI-driven 'agentic commerce' services.
   
   ## 4. Context
   
-  4.1. **News:** Recent pieces frame PayPal as an undervalued growth stock and spotlight product updates like PayPal USD’s 4% yield, AI-driven “agentic commerce,” Venmo Stash, and no-fee BNPL expansion to Canada. Additional coverage argues the stock deserves a second look before year-end. Quick facts show “Buy the rumor? no” and “Sell the news? no,” suggesting attention is product/value-driven rather than rumor-driven, lowering classic ‘sell the news’ risk. Stablecoin comparisons add context but no imminent rumor catalyst.
+  4.1. **News:** Recent items include PayPal acceptance for deposits at BetWhale’s US online casino, highlighting ongoing integrations. The Financial Technology Association warned about sophisticated holiday scams, underscoring fraud vigilance in digital payments. Macro sentiment features concern about tech froth after Peter Thiel’s fund exited Nvidia, while adjacent e-commerce coverage (e.g., Shopify) remains active. Separately, coverage references PayPal launching AI-driven 'agentic commerce' services. These are mixed signals with limited clear ‘rumor’ catalysts, so the setup does not strongly favor a buy-the-rumor, sell-the-news trade.
   
-  4.2. **Tarrifs:** Tariff headlines pressured fintechs including PayPal on fears of weaker consumer spending (CNBC 4/3/2025; CNBC 4/28/2025), weighing on sentiment and the stock. Net effect in the provided data: a bearish overhang from tariffs rather than a direct operational impact.
+  4.2. **Tarrifs:** Reports in April 2025 noted fintechs including PayPal fell on worries that tariffs would hit consumer spending, weighing on sentiment into earnings. Reuters also flagged trade-tension-related fee risks, reinforcing a cautious tariff overhang for PYPL.
   
   ## 5. QuickRef
   
@@ -54,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$4.92B</td></tr>
-  <tr><td>Price</td><td>60.70</td></tr>
-  <tr><td>7d Resistance</td><td>67.99</td></tr>
-  <tr><td>7d Support</td><td>60.47</td></tr>
-  <tr><td>30d Resistance</td><td>79.21</td></tr>
-  <tr><td>30d Support</td><td>60.47</td></tr>
+  <tr><td>Price</td><td>60.57</td></tr>
+  <tr><td>7d Resistance</td><td>67.12</td></tr>
+  <tr><td>7d Support</td><td>58.00</td></tr>
+  <tr><td>30d Resistance</td><td>79.03</td></tr>
+  <tr><td>30d Support</td><td>58.00</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>bottom</td></tr>
+  <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>near-bottom</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
-  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
+  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
   
@@ -77,8 +77,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-  <li>The Guardian: competitive landscape, rumor</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>The Guardian: rumor</li>
   </ul>
   </div>
   
@@ -89,12 +89,12 @@ raw_markdown: |
   Gathering context for PYPL...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-21/2025-11-19?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-18?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-18?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/PYPL/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -144,7 +144,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -162,11 +162,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -217,30 +213,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-19T01:28:05.506607+00:00">2025-11-19 01:28 UTC</time> (runtime 1m 24s)
+**Generated:** <time class="js-local-time" datetime="2025-11-23T01:47:55.876290+00:00">2025-11-23 01:47 UTC</time> (runtime 1m 18s)
 
 ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are near 1yr/5yr near-bottom and flagged oversold, suggesting a potential dip-buy; macro froth visibility is limited, and price sits well below the 20-DMA/SMA (~67–68) while hovering just above 7d/30d support at 60.47.
+0.1. **Long Entry?:** maybe — historically near-bottom across 3mo/1yr/5yr and close to 58.00 support with med volatility; macro froth cues are present (AI bubble concerns from Thiel’s Nvidia sale), and shares sit below the 20DMA/SMA/EMA (~65.6–67.7) and under 7d resistance 67.12.
 
 ## 1. The Biz
 
-1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, enabling online checkout, digital wallets, and peer-to-peer transfers via Venmo. It offers tools like fraud protection and transaction processing across its payments ecosystem. Spun off from eBay in 2015, it had 434 million active accounts at the end of 2024.
+1.1. **Activities:** PayPal provides electronic payment solutions for merchants and consumers, focused on online checkout and digital wallets. It also operates Venmo for person-to-person payments and reported 434 million active accounts at the end of 2024.
 
-1.2. **Profitable?:** Yes — it is profitable with ~15% profit margin, ~$4.92B TTM net income, and ~$3.13B in free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with ~$4.92B cumulative net income, ~15% profit margin, and positive free cash flow (~$3.13B).
 
-1.3. **Customer & Markets:** Primary customers are merchants and consumers transacting online and via Venmo for P2P payments. It serves global e-commerce and digital payments markets, processing transactions in more than 200 markets and over 100 currencies.
+1.3. **Customer & Markets:** Primary customers are consumers and merchants/online retailers using PayPal and Venmo. It processes transactions in more than 200 markets and over 100 currencies, serving global e-commerce and digital services.
 
-1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Affirm (BNPL), Shopify/Shop Pay, Amazon, and Coinbase. Reported estimates place PayPal as a leading online payments player with roughly mid-40% market share, positioning it among the top providers.
+1.4. **Competition:** Competitors include Apple (Apple Pay), Visa, Block (Square), Stripe, Affirm, Shopify, Amazon, and Coinbase. PayPal remains a leading online payments player, with sources citing roughly mid-40% online payments share.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the price retreated from the 7d local high 67.99 toward support 60.47 and sits below the 20-DMA (67.21).
+2.1. **7d Trend?:** down — labeled a downtrend with the price at 60.57 below the 20DMA (65.64) and under 7d resistance 67.12.
 
-2.2. **7d Buy/Sell Points?:** Attractive entries were near 64.78 and especially around support at 60.47; prudent sells were near the 67.99 resistance.
+2.2. **7d Buy/Sell Points?:** Buying near the 58.00 support/suggested buy zone looked favorable; selling around 67.12–67.83 (7d resistance/local high) offered exits.
 
 2.3.1. **7d Volume:** med
 
@@ -248,15 +244,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** PayPal has operated as a standalone public company since its 2015 spinoff and serves 434 million active accounts, signaling scale and durability. It posts consistent profits (~$4.92B TTM net income) with strong operating cash flow (~$6.43B) and free cash flow (~$3.13B. These metrics and its entrenched payments platform indicate a relatively stable institution, not a fly-by-night firm.
+3.1. **Stability?:** PayPal has operated independently since its 2015 spin-off and serves a large global base of 434 million accounts. It generates consistent profits (~$4.92B cumulative net income) with strong operating cash flow (~$6.43B) and free cash flow (~$3.13B). As a scaled Financial Services/Credit Services platform, it appears financially durable rather than fly-by-night.
 
-3.2. **Innovating?:** Innovating — recent moves include PayPal USD (with 4% interest and free transfers), AI-driven “agentic commerce” services, and new Venmo features plus no-fee BNPL expansion to Canada, indicating active product development and growth efforts.
+3.2. **Innovating?:** Innovating — revenue grew 7.3% and earnings grew 23.6%, and headlines cite new AI-driven 'agentic commerce' services.
 
 ## 4. Context
 
-4.1. **News:** Recent pieces frame PayPal as an undervalued growth stock and spotlight product updates like PayPal USD’s 4% yield, AI-driven “agentic commerce,” Venmo Stash, and no-fee BNPL expansion to Canada. Additional coverage argues the stock deserves a second look before year-end. Quick facts show “Buy the rumor? no” and “Sell the news? no,” suggesting attention is product/value-driven rather than rumor-driven, lowering classic ‘sell the news’ risk. Stablecoin comparisons add context but no imminent rumor catalyst.
+4.1. **News:** Recent items include PayPal acceptance for deposits at BetWhale’s US online casino, highlighting ongoing integrations. The Financial Technology Association warned about sophisticated holiday scams, underscoring fraud vigilance in digital payments. Macro sentiment features concern about tech froth after Peter Thiel’s fund exited Nvidia, while adjacent e-commerce coverage (e.g., Shopify) remains active. Separately, coverage references PayPal launching AI-driven 'agentic commerce' services. These are mixed signals with limited clear ‘rumor’ catalysts, so the setup does not strongly favor a buy-the-rumor, sell-the-news trade.
 
-4.2. **Tarrifs:** Tariff headlines pressured fintechs including PayPal on fears of weaker consumer spending (CNBC 4/3/2025; CNBC 4/28/2025), weighing on sentiment and the stock. Net effect in the provided data: a bearish overhang from tariffs rather than a direct operational impact.
+4.2. **Tarrifs:** Reports in April 2025 noted fintechs including PayPal fell on worries that tariffs would hit consumer spending, weighing on sentiment into earnings. Reuters also flagged trade-tension-related fee risks, reinforcing a cautious tariff overhang for PYPL.
 
 ## 5. QuickRef
 
@@ -265,19 +261,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$4.92B</td></tr>
-<tr><td>Price</td><td>60.70</td></tr>
-<tr><td>7d Resistance</td><td>67.99</td></tr>
-<tr><td>7d Support</td><td>60.47</td></tr>
-<tr><td>30d Resistance</td><td>79.21</td></tr>
-<tr><td>30d Support</td><td>60.47</td></tr>
+<tr><td>Price</td><td>60.57</td></tr>
+<tr><td>7d Resistance</td><td>67.12</td></tr>
+<tr><td>7d Support</td><td>58.00</td></tr>
+<tr><td>30d Resistance</td><td>79.03</td></tr>
+<tr><td>30d Support</td><td>58.00</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>bottom</td></tr>
+<tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>near-bottom</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
-<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
+<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
 
@@ -288,8 +284,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-<li>The Guardian: competitive landscape, rumor</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>The Guardian: rumor</li>
 </ul>
 </div>
 
@@ -300,12 +296,12 @@ raw_markdown: |
 Gathering context for PYPL...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-21/2025-11-19?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting PYPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/PYPL/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-18?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/PYPL/2025-11-18?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/PYPL/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/PYPL/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/PYPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/PYPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -355,7 +351,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -373,11 +369,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
     google_custom_search: 5 result(s)
