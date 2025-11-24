@@ -1735,6 +1735,149 @@ def build_quick_facts(
     return facts
 
 
+def _find_low_point(series: pd.Series) -> Optional[Tuple[pd.Timestamp, float]]:
+    """Return the timestamp and value for the series minimum, if available."""
+
+    if series is None or series.empty:
+        return None
+    try:
+        ts = series.idxmin()
+        value = float(series.loc[ts])
+    except Exception:
+        return None
+    if pd.isna(value):
+        return None
+    return ts, value
+
+
+def _extract_close_series(histories: Mapping[str, pd.DataFrame], key: str) -> Optional[pd.Series]:
+    """Return a cleaned Close series for the requested history key."""
+
+    df = histories.get(key)
+    if df is None or df.empty or "Close" not in df:
+        return None
+    series = df["Close"].dropna()
+    if series.empty:
+        return None
+    return series.sort_index()
+
+
+def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str]:
+    """Render a simple inline SVG sparkline with 1y/5y lows highlighted."""
+
+    closes_5y = _extract_close_series(histories, "5y")
+    if closes_5y is None:
+        return None
+    closes_1y = _extract_close_series(histories, "1y")
+    if closes_1y is None:
+        # Fallback to the trailing 370 days of the 5y series if a dedicated 1y slice is missing.
+        cutoff = closes_5y.index.max() - pd.Timedelta(days=370)
+        subset = closes_5y[closes_5y.index >= cutoff]
+        closes_1y = subset if not subset.empty else closes_5y.tail(252)
+
+    low_5y = _find_low_point(closes_5y)
+    low_1y = _find_low_point(closes_1y)
+    if low_5y is None and low_1y is None:
+        return None
+
+    width, height = 720.0, 260.0
+    padding = 18.0
+    usable_width = width - 2 * padding
+    usable_height = height - 2 * padding
+
+    price_values = [float(v) for v in closes_5y.tolist()]
+    price_min, price_max = min(price_values), max(price_values)
+    if math.isclose(price_min, price_max):
+        price_min -= 1.0
+        price_max += 1.0
+
+    def y_for(price: float) -> float:
+        scale = (price - price_min) / (price_max - price_min)
+        return height - padding - scale * usable_height
+
+    positions_x: List[float] = []
+    path_points: List[str] = []
+    span = max(len(price_values) - 1, 1)
+    for idx, price in enumerate(price_values):
+        x = padding + usable_width * (idx / span)
+        positions_x.append(x)
+        path_points.append(f"{x:.2f},{y_for(price):.2f}")
+
+    date_index = closes_5y.index
+
+    def x_for_timestamp(ts: pd.Timestamp) -> Optional[float]:
+        if ts is None:
+            return None
+        if ts in date_index:
+            idx = date_index.get_loc(ts)
+        else:
+            try:
+                idx = int(date_index.get_indexer([ts], method="nearest")[0])
+            except Exception:
+                idx = -1
+        if idx < 0 or idx >= len(positions_x):
+            return None
+        return positions_x[idx]
+
+    low_1y_ts: Optional[pd.Timestamp]
+    low_1y_val: Optional[float]
+    if low_1y:
+        low_1y_ts, low_1y_val = low_1y
+    else:
+        low_1y_ts, low_1y_val = (None, None)
+    low_5y_ts, low_5y_val = low_5y if low_5y else (None, None)
+
+    svg_lines: List[str] = []
+    svg_lines.append('<figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">')
+    svg_lines.append(f'<svg viewBox="0 0 {width:.0f} {height:.0f}" preserveAspectRatio="none">')
+    svg_lines.append(
+        '<defs>'
+        '<linearGradient id="priceFill" x1="0" y1="0" x2="0" y2="1">'
+        '<stop offset="0%" stop-color="#e8f1ff" stop-opacity="0.8" />'
+        '<stop offset="100%" stop-color="#f5f8ff" stop-opacity="0" />'
+        '</linearGradient>'
+        '</defs>'
+    )
+    svg_lines.append(
+        f'<polyline points="{" ".join(path_points)}" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />'
+    )
+    svg_lines.append(
+        f'<polygon points="{" ".join(path_points)} {positions_x[-1]:.2f},{height - padding:.2f} {positions_x[0]:.2f},{height - padding:.2f}" '
+        'fill="url(#priceFill)" opacity="0.35" />'
+    )
+    if low_1y_val is not None:
+        y_line = y_for(low_1y_val)
+        svg_lines.append(
+            f'<line x1="{padding:.2f}" y1="{y_line:.2f}" x2="{width - padding:.2f}" y2="{y_line:.2f}" '
+            'stroke="#2b6cb0" stroke-width="1.5" stroke-dasharray="6 4" vector-effect="non-scaling-stroke" />'
+        )
+    x_5y = x_for_timestamp(low_5y_ts) if low_5y_ts is not None else None
+    x_1y = x_for_timestamp(low_1y_ts) if low_1y_ts is not None else None
+    if x_5y is not None and x_1y is not None and low_5y_val is not None and low_1y_val is not None:
+        svg_lines.append(
+            f'<line x1="{x_5y:.2f}" y1="{y_for(low_5y_val):.2f}" x2="{x_1y:.2f}" y2="{y_for(low_1y_val):.2f}" '
+            'stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />'
+        )
+    if x_5y is not None and low_5y_val is not None:
+        svg_lines.append(
+            f'<circle cx="{x_5y:.2f}" cy="{y_for(low_5y_val):.2f}" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />'
+        )
+    if x_1y is not None and low_1y_val is not None:
+        svg_lines.append(
+            f'<circle cx="{x_1y:.2f}" cy="{y_for(low_1y_val):.2f}" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />'
+        )
+    svg_lines.append("</svg>")
+    labels: List[str] = []
+    if low_1y_val is not None:
+        labels.append(f"1y low ${low_1y_val:,.2f}")
+    if low_5y_val is not None:
+        labels.append(f"5y low ${low_5y_val:,.2f}")
+    if labels:
+        svg_lines.append(f"<figcaption>{' · '.join(labels)}</figcaption>")
+    svg_lines.append("</figure>")
+    return "\n".join(svg_lines)
+
+
 def _collect_prompt_notes(prompt_config: PromptConfig) -> Dict[str, Any]:
     return {
         "sections": [
@@ -1999,6 +2142,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
         earnings_calendar_source = "yfinance"
     log_status("Assembling quick facts...")
     quick_facts = build_quick_facts(snapshot, histories, financial_metrics, prompt_config)
+    price_low_lines_chart = build_low_lines_chart(histories)
     log_status("Collecting latest headlines (massive.com)...")
     news_items = fetch_massive_news(ticker, massive_api_key)
     massive_news_note: Optional[str] = None
@@ -2127,6 +2271,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
             "atr14": snapshot.atr14,
             "trend_label": snapshot.trend_label,
         },
+        "price_low_lines_chart": price_low_lines_chart,
         "buy_sell_levels": {
             "suggested_buy_zone": snapshot.local_low if not math.isnan(snapshot.local_low) else snapshot.support,
             "suggested_sell_zone": snapshot.local_high if not math.isnan(snapshot.local_high) else snapshot.resistance,
@@ -2295,6 +2440,10 @@ def format_report(
     if logo_path:
         alt_text = f"{company_info.get('long_name') or context.get('ticker') or 'Company'} logo"
         lines.append(f"![{alt_text}]({logo_path})")
+        lines.append("")
+    chart_markup = context.get("price_low_lines_chart")
+    if chart_markup:
+        lines.append(str(chart_markup))
         lines.append("")
     for section in prompt_config.sections:
         heading_text = section.title or section.number
