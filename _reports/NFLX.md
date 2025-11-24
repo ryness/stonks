@@ -2,46 +2,50 @@
 layout: default
 title: "NFLX Stock Report"
 ticker: "NFLX"
-date: 2025-11-14
-generated_at: 2025-11-14T17:13:21.969103+00:00
-runtime_seconds: 123.62
+date: 2025-11-20
+generated_at: 2025-11-20T05:21:13.742097+00:00
+runtime_seconds: 96.66
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T17:13:21.969103+00:00">2025-11-14 17:13 UTC</time> (runtime 2m 4s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-20T05:21:13.742097+00:00">2025-11-20 05:21 UTC</time> (runtime 1m 37s)
   
   ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — price is in a 7d downtrend and 3mo 'near-bottom' at 110 near 7d support 108.61 while below the 20-DMA 111.15 and SMA 116.57; macro froth visibility is limited, with 'Overbought/Sold? in the middle' and quick facts showing 'Buy the rumor? no'/'Sell the news? no'.
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Netflix operates a global subscription streaming service focused on on-demand TV series, movies, and documentaries, historically avoiding live programming and sports. It monetizes primarily through subscriptions and, since 2022, an ad-supported tier that adds advertising revenue. It has the largest TV entertainment subscriber base in the U.S. and internationally, exceeding 300 million globally.
+  1.1. **Activities:** Netflix operates a single business: a global streaming service providing on-demand episodic television, movies, and documentaries. It serves more than 300 million subscribers worldwide (excluding China) and has historically avoided live programming and sports. The company added ad-supported subscription plans in 2022, expanding beyond subscription fees into advertising revenue.
   
-  1.2. **Profitable?:** Yes — Netflix is profitable, with roughly a 24% profit margin, over $10.4B in recent cumulative net income, and $23.4B in free cash flow.
+  1.2. **Profitable?:** Yes — it is profitable, with a 24.05% profit margin, positive net income in recent periods, and strong free cash flow of $23.36B.
   
-  1.3. **Customer & Markets:** Primary customers are global consumers streaming TV and films, plus brands/advertisers buying inventory on its ad-supported plans. It serves the U.S. and nearly all international markets outside China, with over 300 million subscribers and growing engagement, including in emerging economies like India per recent coverage.
+  1.3. **Customer & Markets:** Primary customers are consumers streaming entertainment content across nearly all global markets outside China. Netflix also serves advertisers via its ad-supported plans. Its markets span the United States and international regions, where it holds the largest TV entertainment subscriber base.
   
-  1.4. **Competition:** Key competitors include Disney (Disney+/Hulu), Amazon (Prime Video), Warner Bros. Discovery (Max), Alphabet/YouTube, Apple TV+, Comcast/Peacock, Roku, and Meta. In the U.S., Netflix is near the top with about a 21% streaming market share, second to Amazon’s ~22%.
+  1.4. **Competition:** Competitors include Disney, Amazon, Warner Bros. Discovery, Apple, Alphabet/YouTube, Comcast, Roku, and Meta; Netflix ranks as the leader by TV entertainment subscribers with 300M+ globally.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — rose off the ~1073 local low toward 1167 resistance and closed at 1117, aligning with the stated uptrend.
+  2.1. **7d Trend?:** down — closed 110 after ranging to 113.34 high and 108.61 low, remaining below the 20-DMA 111.15.
   
-  2.2. **7d Buy/Sell Points?:** Buys looked favorable near support/suggested buy around 1073–1085; sells or trims near resistance/suggested sell around 1167.
+  2.2. **7d Buy/Sell Points?:** Buying near the 108.51–108.61 support/suggested buy zone looked favorable; selling into 115.25 and toward 116.73 resistance offered exits.
   
-  2.3.1. **7d Volume:** low
+  2.3.1. **7d Volume:** med
   
   2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Netflix is a scaled, long-standing streaming leader with more than 300 million subscribers and reach across nearly all markets outside China. It demonstrates durable profitability (about 24% margin) and strong cash generation ($23.4B free cash flow and $9.6B operating cash flow). Recent net income totals over $10.4B, supporting financial resilience. Overall, it appears a stable institution rather than a fly-by-night operator.
+  3.1. **Stability?:** Netflix appears stable, operating a large-scale streaming platform with more than 300 million subscribers globally. Profitability and cash generation are solid, with a 24.05% profit margin, $10.43B cumulative net income across recent periods, and $23.36B in free cash flow. Operating cash flow of $9.57B and no upcoming earnings listed provide additional cushion. While headlines include a shareholder legal investigation, the financial profile suggests an entrenched institution rather than a fly-by-night.
   
-  3.2. **Innovating?:** It is innovating and growing via the ad-supported tier and new advertiser metrics, with ads reaching 190 million viewers in October. Growth metrics are solid, including ~17% revenue growth and positive earnings growth.
+  3.2. **Innovating?:** Innovating and growing — revenue rose 17.2% with earnings growth of 7.8%, and the 2022 ad-supported launch expands into advertising alongside subscriptions.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage spotlights a 10-for-1 stock split set for Nov. 17 and arguments to buy ahead of it, alongside strong global growth and a successful ad-supported tier. Netflix also reported that ads reached 190 million viewers in October and rolled out a new advertiser-facing engagement metric. Competitors are active, with Paramount Skydance announcing a $3B transformation and Disney’s Q4 preview pointing to a potential 2026 recovery. Quick_facts indicate “Buy the rumor? no; Sell the news? no,” suggesting limited classic rumor/news trading around these headlines.
+  4.1. **News:** Recent headlines note a law firm investigating potential securities violations at Netflix, which can weigh on sentiment. Coverage also highlighted a 10-for-1 stock split and long-term outperformance tied to subscriber and revenue growth. Sector context shows Disney’s streaming gains amid linear TV pressure, and broader tech volatility in markets. With quick facts showing 'Buy the rumor? no' and 'Sell the news? no,' the adage suggests limited edge from chasing rumors or selling on announced news here.
   
-  4.2. **Tarrifs:** Reports on proposed U.S. tariffs on foreign-made films pressured media stocks, including NFLX, when announced. Analysts estimated such tariffs could reduce earnings by roughly 10%–20% and add up to about $3B in annual costs, signaling a potential headwind if enacted.
+  4.2. **Tarrifs:** Reports in May 2025 of potential 100% U.S. tariffs on foreign-made films pressured media stocks and were framed as a negative for Netflix, with analysts estimating around a 10% earnings hit or several dollars per share of EPS impact. Overall, the coverage portrays tariffs as a cost and EPS risk for NFLX.
   
   ## 5. QuickRef
   
@@ -50,18 +54,18 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$10.43B</td></tr>
-  <tr><td>Price</td><td>1117.42</td></tr>
-  <tr><td>7d Resistance</td><td>1167.33</td></tr>
-  <tr><td>7d Support</td><td>1085.13</td></tr>
-  <tr><td>30d Resistance</td><td>1248.60</td></tr>
-  <tr><td>30d Support</td><td>1073.37</td></tr>
+  <tr><td>Price</td><td>110.00</td></tr>
+  <tr><td>7d Resistance</td><td>116.73</td></tr>
+  <tr><td>7d Support</td><td>108.61</td></tr>
+  <tr><td>30d Resistance</td><td>124.86</td></tr>
+  <tr><td>30d Support</td><td>107.34</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>up</td></tr>
+  <tr><td>7d Trend:</td><td>down</td></tr>
   <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
-  <tr><td>5yr</td><td>near-peak</td></tr>
+  <tr><td>5yr</td><td>middle</td></tr>
   <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
   </tbody></table>
   </div>
@@ -85,12 +89,12 @@ raw_markdown: |
   Gathering context for NFLX...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-22/2025-11-20?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-19?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NFLX/2025-11-19?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/NFLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -106,8 +110,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/NFLX?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NFLX?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/bmV0ZmxpeC5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/NFLX?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NFLX?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 10 entries.
@@ -159,7 +162,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; NFLX competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; NFLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -191,6 +194,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -209,42 +213,46 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T17:13:21.969103+00:00">2025-11-14 17:13 UTC</time> (runtime 2m 4s)
+**Generated:** <time class="js-local-time" datetime="2025-11-20T05:21:13.742097+00:00">2025-11-20 05:21 UTC</time> (runtime 1m 37s)
 
 ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — price is in a 7d downtrend and 3mo 'near-bottom' at 110 near 7d support 108.61 while below the 20-DMA 111.15 and SMA 116.57; macro froth visibility is limited, with 'Overbought/Sold? in the middle' and quick facts showing 'Buy the rumor? no'/'Sell the news? no'.
+
 ## 1. The Biz
 
-1.1. **Activities:** Netflix operates a global subscription streaming service focused on on-demand TV series, movies, and documentaries, historically avoiding live programming and sports. It monetizes primarily through subscriptions and, since 2022, an ad-supported tier that adds advertising revenue. It has the largest TV entertainment subscriber base in the U.S. and internationally, exceeding 300 million globally.
+1.1. **Activities:** Netflix operates a single business: a global streaming service providing on-demand episodic television, movies, and documentaries. It serves more than 300 million subscribers worldwide (excluding China) and has historically avoided live programming and sports. The company added ad-supported subscription plans in 2022, expanding beyond subscription fees into advertising revenue.
 
-1.2. **Profitable?:** Yes — Netflix is profitable, with roughly a 24% profit margin, over $10.4B in recent cumulative net income, and $23.4B in free cash flow.
+1.2. **Profitable?:** Yes — it is profitable, with a 24.05% profit margin, positive net income in recent periods, and strong free cash flow of $23.36B.
 
-1.3. **Customer & Markets:** Primary customers are global consumers streaming TV and films, plus brands/advertisers buying inventory on its ad-supported plans. It serves the U.S. and nearly all international markets outside China, with over 300 million subscribers and growing engagement, including in emerging economies like India per recent coverage.
+1.3. **Customer & Markets:** Primary customers are consumers streaming entertainment content across nearly all global markets outside China. Netflix also serves advertisers via its ad-supported plans. Its markets span the United States and international regions, where it holds the largest TV entertainment subscriber base.
 
-1.4. **Competition:** Key competitors include Disney (Disney+/Hulu), Amazon (Prime Video), Warner Bros. Discovery (Max), Alphabet/YouTube, Apple TV+, Comcast/Peacock, Roku, and Meta. In the U.S., Netflix is near the top with about a 21% streaming market share, second to Amazon’s ~22%.
+1.4. **Competition:** Competitors include Disney, Amazon, Warner Bros. Discovery, Apple, Alphabet/YouTube, Comcast, Roku, and Meta; Netflix ranks as the leader by TV entertainment subscribers with 300M+ globally.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — rose off the ~1073 local low toward 1167 resistance and closed at 1117, aligning with the stated uptrend.
+2.1. **7d Trend?:** down — closed 110 after ranging to 113.34 high and 108.61 low, remaining below the 20-DMA 111.15.
 
-2.2. **7d Buy/Sell Points?:** Buys looked favorable near support/suggested buy around 1073–1085; sells or trims near resistance/suggested sell around 1167.
+2.2. **7d Buy/Sell Points?:** Buying near the 108.51–108.61 support/suggested buy zone looked favorable; selling into 115.25 and toward 116.73 resistance offered exits.
 
-2.3.1. **7d Volume:** low
+2.3.1. **7d Volume:** med
 
 2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** Netflix is a scaled, long-standing streaming leader with more than 300 million subscribers and reach across nearly all markets outside China. It demonstrates durable profitability (about 24% margin) and strong cash generation ($23.4B free cash flow and $9.6B operating cash flow). Recent net income totals over $10.4B, supporting financial resilience. Overall, it appears a stable institution rather than a fly-by-night operator.
+3.1. **Stability?:** Netflix appears stable, operating a large-scale streaming platform with more than 300 million subscribers globally. Profitability and cash generation are solid, with a 24.05% profit margin, $10.43B cumulative net income across recent periods, and $23.36B in free cash flow. Operating cash flow of $9.57B and no upcoming earnings listed provide additional cushion. While headlines include a shareholder legal investigation, the financial profile suggests an entrenched institution rather than a fly-by-night.
 
-3.2. **Innovating?:** It is innovating and growing via the ad-supported tier and new advertiser metrics, with ads reaching 190 million viewers in October. Growth metrics are solid, including ~17% revenue growth and positive earnings growth.
+3.2. **Innovating?:** Innovating and growing — revenue rose 17.2% with earnings growth of 7.8%, and the 2022 ad-supported launch expands into advertising alongside subscriptions.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage spotlights a 10-for-1 stock split set for Nov. 17 and arguments to buy ahead of it, alongside strong global growth and a successful ad-supported tier. Netflix also reported that ads reached 190 million viewers in October and rolled out a new advertiser-facing engagement metric. Competitors are active, with Paramount Skydance announcing a $3B transformation and Disney’s Q4 preview pointing to a potential 2026 recovery. Quick_facts indicate “Buy the rumor? no; Sell the news? no,” suggesting limited classic rumor/news trading around these headlines.
+4.1. **News:** Recent headlines note a law firm investigating potential securities violations at Netflix, which can weigh on sentiment. Coverage also highlighted a 10-for-1 stock split and long-term outperformance tied to subscriber and revenue growth. Sector context shows Disney’s streaming gains amid linear TV pressure, and broader tech volatility in markets. With quick facts showing 'Buy the rumor? no' and 'Sell the news? no,' the adage suggests limited edge from chasing rumors or selling on announced news here.
 
-4.2. **Tarrifs:** Reports on proposed U.S. tariffs on foreign-made films pressured media stocks, including NFLX, when announced. Analysts estimated such tariffs could reduce earnings by roughly 10%–20% and add up to about $3B in annual costs, signaling a potential headwind if enacted.
+4.2. **Tarrifs:** Reports in May 2025 of potential 100% U.S. tariffs on foreign-made films pressured media stocks and were framed as a negative for Netflix, with analysts estimating around a 10% earnings hit or several dollars per share of EPS impact. Overall, the coverage portrays tariffs as a cost and EPS risk for NFLX.
 
 ## 5. QuickRef
 
@@ -253,18 +261,18 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$10.43B</td></tr>
-<tr><td>Price</td><td>1117.42</td></tr>
-<tr><td>7d Resistance</td><td>1167.33</td></tr>
-<tr><td>7d Support</td><td>1085.13</td></tr>
-<tr><td>30d Resistance</td><td>1248.60</td></tr>
-<tr><td>30d Support</td><td>1073.37</td></tr>
+<tr><td>Price</td><td>110.00</td></tr>
+<tr><td>7d Resistance</td><td>116.73</td></tr>
+<tr><td>7d Support</td><td>108.61</td></tr>
+<tr><td>30d Resistance</td><td>124.86</td></tr>
+<tr><td>30d Support</td><td>107.34</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>up</td></tr>
+<tr><td>7d Trend:</td><td>down</td></tr>
 <tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
-<tr><td>5yr</td><td>near-peak</td></tr>
+<tr><td>5yr</td><td>middle</td></tr>
 <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
 </tbody></table>
 </div>
@@ -288,12 +296,12 @@ raw_markdown: |
 Gathering context for NFLX...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting NFLX prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NFLX/range/1/day/2020-10-22/2025-11-20?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/NFLX/2025-11-14?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/NFLX/2025-11-19?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/NFLX/2025-11-19?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NFLX/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/NFLX?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -309,8 +317,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/NFLX?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NFLX?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/bmV0ZmxpeC5jb20/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NFLX.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/NFLX?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NFLX?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 10 entries.
@@ -362,7 +369,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; NFLX competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NFLX+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; NFLX rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -394,6 +401,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets

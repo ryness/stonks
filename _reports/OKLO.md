@@ -2,30 +2,34 @@
 layout: default
 title: "OKLO Stock Report"
 ticker: "OKLO"
-date: 2025-11-14
-generated_at: 2025-11-14T10:24:48.626208+00:00
-runtime_seconds: 104.50
+date: 2025-11-23
+generated_at: 2025-11-23T20:22:24.547005+00:00
+runtime_seconds: 65.03
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T10:24:48.626208+00:00">2025-11-14 10:24 UTC</time> (runtime 1m 45s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-23T20:22:24.547005+00:00">2025-11-23 20:22 UTC</time> (runtime 1m 5s)
   
   ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — price is in a 7d downtrend and trades well below the 20DMA/EMA/SMA (88.17 vs ~113–125) between support 79.01 and resistance 110.38; macro froth cues are limited in the data, while history shows 3mo near-bottom and the stock is neither overbought nor oversold.
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology under its Aurora powerhouse product line. It pursues two businesses: delivering reliable, commercial-scale energy to customers and selling used nuclear fuel recycling services in the U.S., with the first Aurora designed to produce up to 15 MWe on recycled or fresh fuel.
+  1.1. **Activities:** Oklo Inc. is developing advanced fission power plants, centered on its Aurora liquid metal fast reactor designed to deliver up to 15 MWe using recycled or fresh nuclear fuel. It has two tracks: providing reliable, commercial-scale energy to customers and selling used nuclear fuel recycling services in the U.S.
   
-  1.2. **Profitable?:** No — the company is pre-revenue with consecutive net losses (aggregate −$74.5M) and negative operating/free cash flow, and it targets first commercial deployment around 2027 before any path to profitability.
+  1.2. **Profitable?:** No — it has no current revenue and posted losses (e.g., -$74.51M last year with negative operating and free cash flow), and coverage indicates analysts do not expect profitability until 2030.
   
-  1.3. **Customer & Markets:** Primary customers include organizations needing reliable on-site power such as AI/data centers and remote or industrial users. Its markets focus on U.S. commercial power buyers and the U.S. market for nuclear fuel recycling services.
+  1.3. **Customer & Markets:** Primary customers include large power users such as AI-focused data centers and industrials like oil & gas, highlighted by its collaboration with RPower. It aims to supply electricity and heat directly to customers and provide nuclear fuel recycling services to the U.S. market.
   
-  1.4. **Competition:** Principal competitor is NuScale Power (SMR) in advanced/small modular reactors. Oklo ranks as earlier-stage and more speculative relative to peers with established projects, per recent coverage.
+  1.4. **Competition:** Key competitors include NuScale Power (SMR) and broader power producers such as Vistra, with Oklo positioned as an early-stage, pre-revenue contender relative to incumbents.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — shares fell to 101.64 from a 109.45 open, sit below the SMA/EMA, and the period is labeled a downtrend.
+  2.1. **7d Trend?:** down — the trend label is downtrend and the stock closed at 88.17 after testing 7d support near 79.01.
   
-  2.2. **7d Buy/Sell Points?:** Buys near ~103.64 or stronger support around ~97.06 were favorable; sells into ~116.98 up to ~123.44 offered better exits.
+  2.2. **7d Buy/Sell Points?:** Better buys appeared near 92.63 and the 79.01 support; sells were more favorable near 109.70 and the 110.38 resistance.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oklo is an early-stage company rather than a long-established utility, with recurring net losses and negative operating/free cash flow indicating funding needs. It has no reported revenue and depends on regulatory milestones and capital to build its first units. The U.S. Department of Energy’s approval of its Nuclear Safety Design Agreement for the Aurora Fuel Fabrication Facility adds credibility to execution. Overall stability is modest and tied to successful licensing, fabrication, and financing.
+  3.1. **Stability?:** Oklo is a U.S.-based advanced nuclear developer in the Utilities sector that is still pre-revenue and early in commercialization. It reported a -$74.51M loss in 2024 with negative operating (-$62.2M) and free cash flow (-$40.5M). However, recent coverage cites about $1.2 billion in cash, providing runway to execute its plans. Trading remains risky, with high volatility (ATR ~13.8%).
   
-  3.2. **Innovating?:** Innovating and growing — commercializing a liquid metal fast reactor (Aurora) and pursuing fuel recycling, with recent DOE approvals and strategic milestones despite current losses.
+  3.2. **Innovating?:** Innovating — it is commercializing the Aurora fast reactor and nuclear fuel recycling, and it signed a binding contract with Siemens Energy to expedite procurement of the power conversion system for its first commercial plant.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage frames Oklo as a speculative nuclear play versus established peers, with a pre-revenue profile and a 2027 deployment target. Nuclear stocks saw sell-offs amid broader AI-related market corrections, yet Oklo rallied on regulatory progress despite a wider-than-expected loss. DOE greenlit its Aurora fuel plan, enabling fuel production and potentially expediting licensing. In the ‘buy the rumor, sell the news’ context, the mix of sector profit-taking and pops on approvals suggests mixed signals rather than a clean pattern.
+  4.1. **News:** Recent coverage notes steep Q3 losses alongside an asserted $1.2B cash balance and a bullish long-term outlook, including predictions of significant upside. Other articles highlight extreme volatility, noting a ninefold surge followed by a ~40% decline and no expected profitability until 2030. Sector context is supportive with a uranium/nuclear ETF up 71.7% YTD, and Oklo announced a Siemens Energy contract for its Aurora powerhouse. Options flow flagged bearish activity during a drawdown. Given these mixed signals, “buy the rumor, sell the news” hasn’t been a reliable guide here per the quick facts (buy the rumor: no; sell the news: no).
   
-  4.2. **Tarrifs:** Some coverage links tariff headlines to short-term weakness in Oklo’s stock (e.g., an article citing a ~12.8% drop over April 3–4 tied to tariff concerns), but the company has not provided specific impact guidance.
+  4.2. **Tarrifs:** Tariff impacts are unclear; one article tied a double-digit drop in early April to tariff-related worries about fuel costs, but overall evidence in the data is limited.
   
   ## 5. QuickRef
   
@@ -50,16 +54,16 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$-74.51M</td></tr>
-  <tr><td>Price</td><td>101.64</td></tr>
-  <tr><td>7d Resistance</td><td>123.44</td></tr>
-  <tr><td>7d Support</td><td>97.06</td></tr>
+  <tr><td>Price</td><td>88.17</td></tr>
+  <tr><td>7d Resistance</td><td>110.38</td></tr>
+  <tr><td>7d Support</td><td>79.01</td></tr>
   <tr><td>30d Resistance</td><td>193.84</td></tr>
-  <tr><td>30d Support</td><td>97.06</td></tr>
-  <tr><td>Buy the dip?</td><td>yes</td></tr>
+  <tr><td>30d Support</td><td>79.01</td></tr>
+  <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
   <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -85,12 +89,12 @@ raw_markdown: |
   Gathering context for OKLO...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-13?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-13?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/OKLO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -190,6 +194,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -208,26 +213,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T10:24:48.626208+00:00">2025-11-14 10:24 UTC</time> (runtime 1m 45s)
+**Generated:** <time class="js-local-time" datetime="2025-11-23T20:22:24.547005+00:00">2025-11-23 20:22 UTC</time> (runtime 1m 5s)
 
 ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — price is in a 7d downtrend and trades well below the 20DMA/EMA/SMA (88.17 vs ~113–125) between support 79.01 and resistance 110.38; macro froth cues are limited in the data, while history shows 3mo near-bottom and the stock is neither overbought nor oversold.
+
 ## 1. The Biz
 
-1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology under its Aurora powerhouse product line. It pursues two businesses: delivering reliable, commercial-scale energy to customers and selling used nuclear fuel recycling services in the U.S., with the first Aurora designed to produce up to 15 MWe on recycled or fresh fuel.
+1.1. **Activities:** Oklo Inc. is developing advanced fission power plants, centered on its Aurora liquid metal fast reactor designed to deliver up to 15 MWe using recycled or fresh nuclear fuel. It has two tracks: providing reliable, commercial-scale energy to customers and selling used nuclear fuel recycling services in the U.S.
 
-1.2. **Profitable?:** No — the company is pre-revenue with consecutive net losses (aggregate −$74.5M) and negative operating/free cash flow, and it targets first commercial deployment around 2027 before any path to profitability.
+1.2. **Profitable?:** No — it has no current revenue and posted losses (e.g., -$74.51M last year with negative operating and free cash flow), and coverage indicates analysts do not expect profitability until 2030.
 
-1.3. **Customer & Markets:** Primary customers include organizations needing reliable on-site power such as AI/data centers and remote or industrial users. Its markets focus on U.S. commercial power buyers and the U.S. market for nuclear fuel recycling services.
+1.3. **Customer & Markets:** Primary customers include large power users such as AI-focused data centers and industrials like oil & gas, highlighted by its collaboration with RPower. It aims to supply electricity and heat directly to customers and provide nuclear fuel recycling services to the U.S. market.
 
-1.4. **Competition:** Principal competitor is NuScale Power (SMR) in advanced/small modular reactors. Oklo ranks as earlier-stage and more speculative relative to peers with established projects, per recent coverage.
+1.4. **Competition:** Key competitors include NuScale Power (SMR) and broader power producers such as Vistra, with Oklo positioned as an early-stage, pre-revenue contender relative to incumbents.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — shares fell to 101.64 from a 109.45 open, sit below the SMA/EMA, and the period is labeled a downtrend.
+2.1. **7d Trend?:** down — the trend label is downtrend and the stock closed at 88.17 after testing 7d support near 79.01.
 
-2.2. **7d Buy/Sell Points?:** Buys near ~103.64 or stronger support around ~97.06 were favorable; sells into ~116.98 up to ~123.44 offered better exits.
+2.2. **7d Buy/Sell Points?:** Better buys appeared near 92.63 and the 79.01 support; sells were more favorable near 109.70 and the 110.38 resistance.
 
 2.3.1. **7d Volume:** med
 
@@ -235,15 +244,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oklo is an early-stage company rather than a long-established utility, with recurring net losses and negative operating/free cash flow indicating funding needs. It has no reported revenue and depends on regulatory milestones and capital to build its first units. The U.S. Department of Energy’s approval of its Nuclear Safety Design Agreement for the Aurora Fuel Fabrication Facility adds credibility to execution. Overall stability is modest and tied to successful licensing, fabrication, and financing.
+3.1. **Stability?:** Oklo is a U.S.-based advanced nuclear developer in the Utilities sector that is still pre-revenue and early in commercialization. It reported a -$74.51M loss in 2024 with negative operating (-$62.2M) and free cash flow (-$40.5M). However, recent coverage cites about $1.2 billion in cash, providing runway to execute its plans. Trading remains risky, with high volatility (ATR ~13.8%).
 
-3.2. **Innovating?:** Innovating and growing — commercializing a liquid metal fast reactor (Aurora) and pursuing fuel recycling, with recent DOE approvals and strategic milestones despite current losses.
+3.2. **Innovating?:** Innovating — it is commercializing the Aurora fast reactor and nuclear fuel recycling, and it signed a binding contract with Siemens Energy to expedite procurement of the power conversion system for its first commercial plant.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage frames Oklo as a speculative nuclear play versus established peers, with a pre-revenue profile and a 2027 deployment target. Nuclear stocks saw sell-offs amid broader AI-related market corrections, yet Oklo rallied on regulatory progress despite a wider-than-expected loss. DOE greenlit its Aurora fuel plan, enabling fuel production and potentially expediting licensing. In the ‘buy the rumor, sell the news’ context, the mix of sector profit-taking and pops on approvals suggests mixed signals rather than a clean pattern.
+4.1. **News:** Recent coverage notes steep Q3 losses alongside an asserted $1.2B cash balance and a bullish long-term outlook, including predictions of significant upside. Other articles highlight extreme volatility, noting a ninefold surge followed by a ~40% decline and no expected profitability until 2030. Sector context is supportive with a uranium/nuclear ETF up 71.7% YTD, and Oklo announced a Siemens Energy contract for its Aurora powerhouse. Options flow flagged bearish activity during a drawdown. Given these mixed signals, “buy the rumor, sell the news” hasn’t been a reliable guide here per the quick facts (buy the rumor: no; sell the news: no).
 
-4.2. **Tarrifs:** Some coverage links tariff headlines to short-term weakness in Oklo’s stock (e.g., an article citing a ~12.8% drop over April 3–4 tied to tariff concerns), but the company has not provided specific impact guidance.
+4.2. **Tarrifs:** Tariff impacts are unclear; one article tied a double-digit drop in early April to tariff-related worries about fuel costs, but overall evidence in the data is limited.
 
 ## 5. QuickRef
 
@@ -252,16 +261,16 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$-74.51M</td></tr>
-<tr><td>Price</td><td>101.64</td></tr>
-<tr><td>7d Resistance</td><td>123.44</td></tr>
-<tr><td>7d Support</td><td>97.06</td></tr>
+<tr><td>Price</td><td>88.17</td></tr>
+<tr><td>7d Resistance</td><td>110.38</td></tr>
+<tr><td>7d Support</td><td>79.01</td></tr>
 <tr><td>30d Resistance</td><td>193.84</td></tr>
-<tr><td>30d Support</td><td>97.06</td></tr>
-<tr><td>Buy the dip?</td><td>yes</td></tr>
+<tr><td>30d Support</td><td>79.01</td></tr>
+<tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
 <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -287,12 +296,12 @@ raw_markdown: |
 Gathering context for OKLO...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting OKLO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/OKLO/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-13?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-13?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/OKLO/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/OKLO/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/OKLO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/OKLO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -392,6 +401,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets

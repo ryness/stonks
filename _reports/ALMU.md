@@ -2,44 +2,48 @@
 layout: default
 title: "ALMU Stock Report"
 ticker: "ALMU"
-date: 2025-11-12
-generated_at: 2025-11-12T17:01:02.747316+00:00
-runtime_seconds: 107.37
+date: 2025-11-21
+generated_at: 2025-11-21T15:19:47.046512+00:00
+runtime_seconds: 81.99
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-12T17:01:02.747316+00:00">2025-11-12 17:01 UTC</time> (runtime 1m 47s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T15:19:47.046512+00:00">2025-11-21 15:19 UTC</time> (runtime 1m 22s)
   
   ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — shares are at a 3mo bottom/1yr middle with a 7d downtrend, trading near 7d support 11.82 and well below the 20-DMA/EMA/SMA (14.49/15.85/16.31); macro froth cues are present (AI bubble fears in broader market headlines), so entry requires caution.
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Aeluma is a U.S. semiconductor company developing novel optoelectronic sensors and communications devices, including sensor technology for mobile devices and vehicles. It manufactures high-performance compound semiconductor devices on large-diameter substrates for applications across mobile, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing.
+  1.1. **Activities:** Aeluma is a semiconductor company specializing in sensors and communications, developing novel optoelectronic devices. It manufactures high-performance compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Target applications include mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
   
-  1.2. **Profitable?:** No: it is unprofitable with a -64.8% profit margin and negative operating cash flow; while revenue is growing and a recent capital raise supports commercialization, a profitability timeline is not provided.
+  1.2. **Profitable?:** No — it is currently unprofitable with a -67.97% profit margin and negative free (-$2.30M) and operating cash flow (-$1.03M), with no stated timeline to profitability.
   
-  1.3. **Customer & Markets:** Primary customers include government/defense agencies and OEMs needing high-performance sensing and communications chips. Markets span mobile, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing, with recent revenue driven by R&D and government contracts. The company is based in the United States.
+  1.3. **Customer & Markets:** Primary customers span mobile, automotive/ADAS, defense and aerospace, communications, AR/VR, and quantum computing use cases. Markets include U.S. government/defense partners and commercial sectors seeking high-performance compound semiconductor sensing and optoelectronic solutions.
   
-  1.4. **Competition:** Principal competitors include NVIDIA, AMD, Intel, and Qualcomm. Aeluma is an emerging, smaller player transitioning to commercialization with no disclosed market share ranking.
+  1.4. **Competition:** Competitors include NVIDIA, AMD, Intel, and Qualcomm; Aeluma is a small-cap, emerging player relative to these large incumbents.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, falling from a local high near 15.80 to about 13.85, trading near 7-day support 13.53 and below the 20-DMA.
+  2.1. **7d Trend?:** down — price fell from a local high near 14.16 to ~12.11 and sits below the 20-DMA 14.49.
   
-  2.2. **7d Buy/Sell Points?:** Buying near support around 13.53 looked favorable. Selling into 15.80–16.18 resistance zones offered opportunities to trim.
+  2.2. **7d Buy/Sell Points?:** Buys looked best near 12.25 and around support at 11.82; sells were attractive near the 14.16 resistance.
   
-  2.3.1. **7d Volume:** med
+  2.3.1. **7d Volume:** low
   
   2.3.2. **7d Volatility:** high
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Aeluma appears early-stage but is strengthening its footing, having uplisted to NASDAQ and closed an oversubscribed $25.4M offering that raised cash to $39.2M. It remains unprofitable with negative operating and free cash flow, indicating reliance on capital and contracts. The acquisition of significant capital equipment to bolster wafer-scale testing supports manufacturing readiness. High recent volatility (ATR ~8.35% of price) signals elevated risk despite improving resources.
+  3.1. **Stability?:** Aeluma is an early-stage U.S. semiconductor company focused on optoelectronic sensors and communications devices. It bolstered liquidity via an oversubscribed $25.4M public offering, bringing cash to $39.2M, and uplisted to NASDAQ. Nonetheless, it remains loss-making with a -67.97% profit margin and negative free and operating cash flow. Trading characteristics show high volatility and low volume, underscoring elevated risk despite recent consortium participation and equipment investments.
   
-  3.2. **Innovating?:** Yes—Aeluma is innovating with novel optoelectronic devices and large-diameter substrate manufacturing, and it is accelerating manufacturing readiness. Growth is evident with a 366.7% YoY Q4 revenue jump driven by R&D contracts.
+  3.2. **Innovating?:** Yes — it is advancing novel optoelectronic devices on large-diameter compound substrates, acquired capital equipment to accelerate manufacturing readiness, and posted strong revenue growth driven by R&D contracts.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight an oversubscribed $25.4M public offering that lifted cash to $39.2M, a 366.7% YoY Q4 revenue jump largely from R&D contracts and government awards, and an acquisition of capital equipment to accelerate wafer-scale testing and manufacturing readiness. The company also cited a NASDAQ uplisting and capital raise improving its financial position. Despite positive announcements, shares have trended down over the last week, suggesting limited “sell the news” behavior and little evidence of a “buy the rumor” setup in the period described.
+  4.1. **News:** Recent headlines highlight Aeluma joining the Midwest Microelectronics Consortium to accelerate defense and commercial market access, acquiring capital equipment to enhance wafer-scale testing, and closing an oversubscribed $25.4M offering that lifted cash to $39.2M. Q4 revenue rose 366.7% year over year, supported by government R&D contracts. These updates indicate progress toward manufacturing readiness and commercialization. In line with the adage, quick facts flag ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting limited advantage from trading around headlines.
   
   4.2. **Tarrifs:** unknown
   
@@ -49,17 +53,17 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$-3.02M</td></tr>
-  <tr><td>Price</td><td>13.85</td></tr>
-  <tr><td>7d Resistance</td><td>16.18</td></tr>
-  <tr><td>7d Support</td><td>13.53</td></tr>
+  <tr><td>Last Q4</td><td>$-3.79M</td></tr>
+  <tr><td>Price</td><td>12.11</td></tr>
+  <tr><td>7d Resistance</td><td>14.16</td></tr>
+  <tr><td>7d Support</td><td>11.82</td></tr>
   <tr><td>30d Resistance</td><td>22.18</td></tr>
-  <tr><td>30d Support</td><td>13.53</td></tr>
+  <tr><td>30d Support</td><td>11.82</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>near-bottom</td></tr>
+  <tr><td>3mo</td><td>bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
   <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -70,7 +74,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: market expansion</li>
@@ -85,12 +89,12 @@ raw_markdown: |
   Gathering context for ALMU...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-12?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-12?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/ALMU?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -106,8 +110,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/ALMU?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/ALMU?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/YWVsdW1hLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/ALMU.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/ALMU.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/ALMU?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/ALMU?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 0 entries.
@@ -121,8 +124,8 @@ raw_markdown: |
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=ALMU&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=ALMU&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 4 articles.
-    massive.com returned 4 headlines
+  Massive news: collected 5 articles.
+    massive.com returned 5 headlines
   Running supplementary searches...
     google_custom_search search -&gt; ALMU core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+core+business&amp;num=5
@@ -158,7 +161,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; ALMU market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; ALMU competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -215,6 +218,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -233,40 +237,44 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-12T17:01:02.747316+00:00">2025-11-12 17:01 UTC</time> (runtime 1m 47s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T15:19:47.046512+00:00">2025-11-21 15:19 UTC</time> (runtime 1m 22s)
 
 ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — shares are at a 3mo bottom/1yr middle with a 7d downtrend, trading near 7d support 11.82 and well below the 20-DMA/EMA/SMA (14.49/15.85/16.31); macro froth cues are present (AI bubble fears in broader market headlines), so entry requires caution.
+
 ## 1. The Biz
 
-1.1. **Activities:** Aeluma is a U.S. semiconductor company developing novel optoelectronic sensors and communications devices, including sensor technology for mobile devices and vehicles. It manufactures high-performance compound semiconductor devices on large-diameter substrates for applications across mobile, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing.
+1.1. **Activities:** Aeluma is a semiconductor company specializing in sensors and communications, developing novel optoelectronic devices. It manufactures high-performance compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Target applications include mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
 
-1.2. **Profitable?:** No: it is unprofitable with a -64.8% profit margin and negative operating cash flow; while revenue is growing and a recent capital raise supports commercialization, a profitability timeline is not provided.
+1.2. **Profitable?:** No — it is currently unprofitable with a -67.97% profit margin and negative free (-$2.30M) and operating cash flow (-$1.03M), with no stated timeline to profitability.
 
-1.3. **Customer & Markets:** Primary customers include government/defense agencies and OEMs needing high-performance sensing and communications chips. Markets span mobile, automotive, defense & aerospace, communications, AI, AR/VR, and quantum computing, with recent revenue driven by R&D and government contracts. The company is based in the United States.
+1.3. **Customer & Markets:** Primary customers span mobile, automotive/ADAS, defense and aerospace, communications, AR/VR, and quantum computing use cases. Markets include U.S. government/defense partners and commercial sectors seeking high-performance compound semiconductor sensing and optoelectronic solutions.
 
-1.4. **Competition:** Principal competitors include NVIDIA, AMD, Intel, and Qualcomm. Aeluma is an emerging, smaller player transitioning to commercialization with no disclosed market share ranking.
+1.4. **Competition:** Competitors include NVIDIA, AMD, Intel, and Qualcomm; Aeluma is a small-cap, emerging player relative to these large incumbents.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, falling from a local high near 15.80 to about 13.85, trading near 7-day support 13.53 and below the 20-DMA.
+2.1. **7d Trend?:** down — price fell from a local high near 14.16 to ~12.11 and sits below the 20-DMA 14.49.
 
-2.2. **7d Buy/Sell Points?:** Buying near support around 13.53 looked favorable. Selling into 15.80–16.18 resistance zones offered opportunities to trim.
+2.2. **7d Buy/Sell Points?:** Buys looked best near 12.25 and around support at 11.82; sells were attractive near the 14.16 resistance.
 
-2.3.1. **7d Volume:** med
+2.3.1. **7d Volume:** low
 
 2.3.2. **7d Volatility:** high
 
 ## 3. Longterm
 
-3.1. **Stability?:** Aeluma appears early-stage but is strengthening its footing, having uplisted to NASDAQ and closed an oversubscribed $25.4M offering that raised cash to $39.2M. It remains unprofitable with negative operating and free cash flow, indicating reliance on capital and contracts. The acquisition of significant capital equipment to bolster wafer-scale testing supports manufacturing readiness. High recent volatility (ATR ~8.35% of price) signals elevated risk despite improving resources.
+3.1. **Stability?:** Aeluma is an early-stage U.S. semiconductor company focused on optoelectronic sensors and communications devices. It bolstered liquidity via an oversubscribed $25.4M public offering, bringing cash to $39.2M, and uplisted to NASDAQ. Nonetheless, it remains loss-making with a -67.97% profit margin and negative free and operating cash flow. Trading characteristics show high volatility and low volume, underscoring elevated risk despite recent consortium participation and equipment investments.
 
-3.2. **Innovating?:** Yes—Aeluma is innovating with novel optoelectronic devices and large-diameter substrate manufacturing, and it is accelerating manufacturing readiness. Growth is evident with a 366.7% YoY Q4 revenue jump driven by R&D contracts.
+3.2. **Innovating?:** Yes — it is advancing novel optoelectronic devices on large-diameter compound substrates, acquired capital equipment to accelerate manufacturing readiness, and posted strong revenue growth driven by R&D contracts.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight an oversubscribed $25.4M public offering that lifted cash to $39.2M, a 366.7% YoY Q4 revenue jump largely from R&D contracts and government awards, and an acquisition of capital equipment to accelerate wafer-scale testing and manufacturing readiness. The company also cited a NASDAQ uplisting and capital raise improving its financial position. Despite positive announcements, shares have trended down over the last week, suggesting limited “sell the news” behavior and little evidence of a “buy the rumor” setup in the period described.
+4.1. **News:** Recent headlines highlight Aeluma joining the Midwest Microelectronics Consortium to accelerate defense and commercial market access, acquiring capital equipment to enhance wafer-scale testing, and closing an oversubscribed $25.4M offering that lifted cash to $39.2M. Q4 revenue rose 366.7% year over year, supported by government R&D contracts. These updates indicate progress toward manufacturing readiness and commercialization. In line with the adage, quick facts flag ‘Buy the rumor? no’ and ‘Sell the news? no,’ suggesting limited advantage from trading around headlines.
 
 4.2. **Tarrifs:** unknown
 
@@ -276,17 +284,17 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$-3.02M</td></tr>
-<tr><td>Price</td><td>13.85</td></tr>
-<tr><td>7d Resistance</td><td>16.18</td></tr>
-<tr><td>7d Support</td><td>13.53</td></tr>
+<tr><td>Last Q4</td><td>$-3.79M</td></tr>
+<tr><td>Price</td><td>12.11</td></tr>
+<tr><td>7d Resistance</td><td>14.16</td></tr>
+<tr><td>7d Support</td><td>11.82</td></tr>
 <tr><td>30d Resistance</td><td>22.18</td></tr>
-<tr><td>30d Support</td><td>13.53</td></tr>
+<tr><td>30d Support</td><td>11.82</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>near-bottom</td></tr>
+<tr><td>3mo</td><td>bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
 <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
@@ -297,7 +305,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: market expansion</li>
@@ -312,12 +320,12 @@ raw_markdown: |
 Gathering context for ALMU...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting ALMU prices from massive.com... (https://api.massive.com/v2/aggs/ticker/ALMU/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-12?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-12?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/ALMU/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/ALMU/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/ALMU/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/ALMU?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -333,8 +341,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/ALMU?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/ALMU?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/YWVsdW1hLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/ALMU.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/ALMU.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/ALMU?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/ALMU?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 0 entries.
@@ -348,8 +355,8 @@ Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=ALMU&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=ALMU&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 4 articles.
-  massive.com returned 4 headlines
+Massive news: collected 5 articles.
+  massive.com returned 5 headlines
 Running supplementary searches...
   google_custom_search search -&gt; ALMU core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+core+business&amp;num=5
@@ -385,7 +392,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; ALMU market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; ALMU competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -442,6 +449,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets

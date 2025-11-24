@@ -2,30 +2,34 @@
 layout: default
 title: "NVO Stock Report"
 ticker: "NVO"
-date: 2025-11-12
-generated_at: 2025-11-12T07:47:06.759733+00:00
-runtime_seconds: 104.02
+date: 2025-11-21
+generated_at: 2025-11-21T01:27:23.803237+00:00
+runtime_seconds: 61.03
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-12T07:47:06.759733+00:00">2025-11-12 07:47 UTC</time> (runtime 1m 44s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-21T01:27:23.803237+00:00">2025-11-21 01:27 UTC</time> (runtime 1m 1s)
   
   ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — shares screen as near-bottom across 3mo/1yr/5yr and oversold, with price 47.6 sitting just above 7d support at 47.20; macro froth cues are limited in the data and the stock remains below the 20-DMA (~49.11), EMA (~52.86) and faces nearby resistance at 49.19–50.43.
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Novo Nordisk develops, manufactures, and markets diabetes care products including human and modern insulins, GLP-1 therapies, and oral antidiabetic agents, as well as obesity treatments. It also operates a smaller biopharmaceutical segment (less than 10% of revenue) focused on protein therapies for hemophilia and other disorders.
+  1.1. **Activities:** Novo Nordisk is a global leader in diabetes care, manufacturing and marketing human and modern insulins, GLP-1 injectables, and oral antidiabetic agents. It also sells obesity treatments. A smaller biopharmaceutical segment (less than 10% of revenue) provides protein therapies for hemophilia and other disorders.
   
-  1.2. **Profitable?:** Yes. It reports consistent net income with about a 33% profit margin and strong free cash flow.
+  1.2. **Profitable?:** yes — it is profitable, with consistent positive net income and a ~32.9% profit margin alongside strong free cash flow.
   
-  1.3. **Customer & Markets:** Primary customers are patients and healthcare systems treating diabetes, obesity, and certain rare disorders, served through global channels. It leads the global branded diabetes treatment market and is expanding access in markets such as India via Wegovy pricing moves.
+  1.3. **Customer & Markets:** The company serves global diabetes and obesity care markets, with products used to treat chronic metabolic diseases and certain rare disorders. Based in Denmark, its reach is worldwide across healthcare systems treating diabetes, obesity, and hemophilia.
   
-  1.4. **Competition:** Key competitors in diabetes/obesity and GLP-1 include Eli Lilly and Pfizer. Novo Nordisk holds roughly one-third of the global branded diabetes treatment market but has been overtaken by Eli Lilly in GLP-1 weight-loss therapies.
+  1.4. **Competition:** Key competitors include Eli Lilly (notably in GLP-1/obesity), Sanofi, and AstraZeneca. Novo Nordisk remains the leading provider in diabetes care with roughly one-third of the global branded diabetes market, though it faces strong GLP-1 rivalry from Eli Lilly.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — closed 49.15 below the 20-DMA (51.31) and near 7d resistance 49.90 after a local low at 45.15.
+  2.1. **7d Trend?:** down — closed at 47.6 near 7d support (47.20) after lower highs versus the local high at 49.19.
   
-  2.2. **7d Buy/Sell Points?:** Buying near support around 45.15 looked favorable, while selling into 49.56–49.90 (local high/resistance) offered better exits.
+  2.2. **7d Buy/Sell Points?:** Buying near 47.20 (support/suggested buy zone) was favorable; selling into 49.19–50.43 (local high/7d resistance) offered profit-taking levels.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** This is a long-standing global healthcare company with more than 90 years in diabetes and obesity care. It shows strong profitability (profit margin ~33%) and significant cash generation (operating cash flow ~123.8B, free cash flow ~31.4B). With roughly one-third of the global branded diabetes treatment market and a smaller diversified biopharma unit, it appears financially and operationally stable. Recent investor approval of disciplined M&A further supports stability.
+  3.1. **Stability?:** This is a long-established, stable institution, described as the leading provider of diabetes care with a large global footprint. Profitability and cash generation are strong (profit margin ~32.9%, substantial operating and free cash flow). Net income has been positive across recent periods with a large cumulative total. Governance has tightened with the Foundation controlling 77% of voting power, which raises minority-holder concerns but does not indicate operational instability.
   
-  3.2. **Innovating?:** Innovating and growing, evidenced by leadership in GLP-1 therapies, active competition in a rapidly expanding market, and steps to broaden access (e.g., Wegovy price cuts in India). Pricing concessions, however, introduce some near-term earnings uncertainty.
+  3.2. **Innovating?:** Innovating and growing: it leads in GLP-1 diabetes/obesity therapies (e.g., Ozempic/Wegovy) and is expanding access via new pricing and collaborations. Growth is evident in revenue (+5.1% YoY), though earnings growth is currently negative, reflecting near-term pressure.
   
   ## 4. Context
   
-  4.1. **News:** Investors viewed Novo Nordisk’s withdrawal from a $10B Metsera bid as disciplined, restoring trust, while shares rose despite losing the asset to Pfizer. The company cut Wegovy prices in India to compete in the fast-growing obesity market and is in an intensifying GLP-1 battle with Eli Lilly and Pfizer. A reported deal with Trump to lower prices in exchange for reduced tariffs and expanded market access, plus potential Hims & Hers collaboration for Wegovy, highlight access and distribution moves. Given these catalysts and the quick facts flagging “sell the news,” gains on headlines could see profit-taking after initial pops.
+  4.1. **News:** Recent headlines focus on price cuts for Wegovy/Ozempic (including a $199/month intro for self-pay) and LifeMD collaboration to expand access, plus governance changes increasing Foundation voting control to 77%. Coverage notes the healthcare sector’s recent outperformance with Novo and Eli Lilly leading. There’s chatter about potential reduced-price distribution via the planned TrumpRx platform, which could broaden access while pressuring pricing. Together, these suggest demand expansion amid pricing pressure; per quick facts, the setup hasn’t favored ‘buy the rumor, sell the news’ (both flagged ‘no’).
   
-  4.2. **Tarrifs:** Reduced tariffs tied to a deal to lower prices for weight-loss treatments suggest a tailwind via expanded market access, but margin impact from lower pricing could temper stock benefits.
+  4.2. **Tarrifs:** Mixed and likely limited near-term: management has said they do not worry much about tariffs, while other analyses flag political/tariff risks that could pressure profitability, implying the stock may be sensitive to policy headlines but not primarily driven by tariffs in recent coverage.
   
   ## 5. QuickRef
   
@@ -50,19 +54,19 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$103.77B</td></tr>
-  <tr><td>Price</td><td>49.15</td></tr>
-  <tr><td>7d Resistance</td><td>49.90</td></tr>
-  <tr><td>7d Support</td><td>45.15</td></tr>
-  <tr><td>30d Resistance</td><td>60.90</td></tr>
+  <tr><td>Price</td><td>47.60</td></tr>
+  <tr><td>7d Resistance</td><td>50.43</td></tr>
+  <tr><td>7d Support</td><td>47.20</td></tr>
+  <tr><td>30d Resistance</td><td>58.80</td></tr>
   <tr><td>30d Support</td><td>45.15</td></tr>
-  <tr><td>Buy the dip?</td><td>no</td></tr>
+  <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
-  <tr><td>Sell the news?</td><td>yes</td></tr>
+  <tr><td>Sell the news?</td><td>no</td></tr>
   <tr><td>7d Trend:</td><td>down</td></tr>
-  <tr><td>3mo</td><td>middle</td></tr>
+  <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>near-bottom</td></tr>
   <tr><td>5yr</td><td>near-bottom</td></tr>
-  <tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+  <tr><td>Overbought/Sold?</td><td>oversold</td></tr>
   </tbody></table>
   </div>
   
@@ -72,9 +76,9 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, market share</li>
-  <li>NewsAPI: product portfolio, profitability, earnings trend, target customers, business model, profit outlook</li>
-  <li>The Guardian: market segments, competitors, rumors, tariffs news, latest rumor, tariff impact, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: competitive landscape, rumor</li>
   </ul>
   </div>
   
@@ -85,12 +89,12 @@ raw_markdown: |
   Gathering context for NVO...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-11?apiKey=%2A%2A%2A
-  Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-11?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=%2A%2A%2A
+  Massive open-close: response 403 from https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -128,155 +132,73 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     google_custom_search search -&gt; NVO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;NVO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; NVO business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVO profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+profitability&amp;num=5
-  Google Custom Search failed for &#x27;NVO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 3 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; NVO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;NVO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 3 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; NVO profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVO target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;NVO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; NVO market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;NVO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; NVO market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; NVO competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+competitors&amp;num=5
-  Google Custom Search failed for &#x27;NVO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; NVO market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+market+share&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; NVO competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NVO+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NVO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: 5 result(s)
     google_custom_search search -&gt; NVO rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+rumors&amp;num=5
-  Google Custom Search failed for &#x27;NVO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; NVO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;NVO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; NVO rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NVO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NVO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: 5 result(s)
     newsapi search -&gt; NVO tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; NVO latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;NVO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
     newsapi search -&gt; NVO tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;NVO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;NVO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -295,26 +217,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-12T07:47:06.759733+00:00">2025-11-12 07:47 UTC</time> (runtime 1m 44s)
+**Generated:** <time class="js-local-time" datetime="2025-11-21T01:27:23.803237+00:00">2025-11-21 01:27 UTC</time> (runtime 1m 1s)
 
 ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — shares screen as near-bottom across 3mo/1yr/5yr and oversold, with price 47.6 sitting just above 7d support at 47.20; macro froth cues are limited in the data and the stock remains below the 20-DMA (~49.11), EMA (~52.86) and faces nearby resistance at 49.19–50.43.
+
 ## 1. The Biz
 
-1.1. **Activities:** Novo Nordisk develops, manufactures, and markets diabetes care products including human and modern insulins, GLP-1 therapies, and oral antidiabetic agents, as well as obesity treatments. It also operates a smaller biopharmaceutical segment (less than 10% of revenue) focused on protein therapies for hemophilia and other disorders.
+1.1. **Activities:** Novo Nordisk is a global leader in diabetes care, manufacturing and marketing human and modern insulins, GLP-1 injectables, and oral antidiabetic agents. It also sells obesity treatments. A smaller biopharmaceutical segment (less than 10% of revenue) provides protein therapies for hemophilia and other disorders.
 
-1.2. **Profitable?:** Yes. It reports consistent net income with about a 33% profit margin and strong free cash flow.
+1.2. **Profitable?:** yes — it is profitable, with consistent positive net income and a ~32.9% profit margin alongside strong free cash flow.
 
-1.3. **Customer & Markets:** Primary customers are patients and healthcare systems treating diabetes, obesity, and certain rare disorders, served through global channels. It leads the global branded diabetes treatment market and is expanding access in markets such as India via Wegovy pricing moves.
+1.3. **Customer & Markets:** The company serves global diabetes and obesity care markets, with products used to treat chronic metabolic diseases and certain rare disorders. Based in Denmark, its reach is worldwide across healthcare systems treating diabetes, obesity, and hemophilia.
 
-1.4. **Competition:** Key competitors in diabetes/obesity and GLP-1 include Eli Lilly and Pfizer. Novo Nordisk holds roughly one-third of the global branded diabetes treatment market but has been overtaken by Eli Lilly in GLP-1 weight-loss therapies.
+1.4. **Competition:** Key competitors include Eli Lilly (notably in GLP-1/obesity), Sanofi, and AstraZeneca. Novo Nordisk remains the leading provider in diabetes care with roughly one-third of the global branded diabetes market, though it faces strong GLP-1 rivalry from Eli Lilly.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — closed 49.15 below the 20-DMA (51.31) and near 7d resistance 49.90 after a local low at 45.15.
+2.1. **7d Trend?:** down — closed at 47.6 near 7d support (47.20) after lower highs versus the local high at 49.19.
 
-2.2. **7d Buy/Sell Points?:** Buying near support around 45.15 looked favorable, while selling into 49.56–49.90 (local high/resistance) offered better exits.
+2.2. **7d Buy/Sell Points?:** Buying near 47.20 (support/suggested buy zone) was favorable; selling into 49.19–50.43 (local high/7d resistance) offered profit-taking levels.
 
 2.3.1. **7d Volume:** med
 
@@ -322,15 +248,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** This is a long-standing global healthcare company with more than 90 years in diabetes and obesity care. It shows strong profitability (profit margin ~33%) and significant cash generation (operating cash flow ~123.8B, free cash flow ~31.4B). With roughly one-third of the global branded diabetes treatment market and a smaller diversified biopharma unit, it appears financially and operationally stable. Recent investor approval of disciplined M&A further supports stability.
+3.1. **Stability?:** This is a long-established, stable institution, described as the leading provider of diabetes care with a large global footprint. Profitability and cash generation are strong (profit margin ~32.9%, substantial operating and free cash flow). Net income has been positive across recent periods with a large cumulative total. Governance has tightened with the Foundation controlling 77% of voting power, which raises minority-holder concerns but does not indicate operational instability.
 
-3.2. **Innovating?:** Innovating and growing, evidenced by leadership in GLP-1 therapies, active competition in a rapidly expanding market, and steps to broaden access (e.g., Wegovy price cuts in India). Pricing concessions, however, introduce some near-term earnings uncertainty.
+3.2. **Innovating?:** Innovating and growing: it leads in GLP-1 diabetes/obesity therapies (e.g., Ozempic/Wegovy) and is expanding access via new pricing and collaborations. Growth is evident in revenue (+5.1% YoY), though earnings growth is currently negative, reflecting near-term pressure.
 
 ## 4. Context
 
-4.1. **News:** Investors viewed Novo Nordisk’s withdrawal from a $10B Metsera bid as disciplined, restoring trust, while shares rose despite losing the asset to Pfizer. The company cut Wegovy prices in India to compete in the fast-growing obesity market and is in an intensifying GLP-1 battle with Eli Lilly and Pfizer. A reported deal with Trump to lower prices in exchange for reduced tariffs and expanded market access, plus potential Hims & Hers collaboration for Wegovy, highlight access and distribution moves. Given these catalysts and the quick facts flagging “sell the news,” gains on headlines could see profit-taking after initial pops.
+4.1. **News:** Recent headlines focus on price cuts for Wegovy/Ozempic (including a $199/month intro for self-pay) and LifeMD collaboration to expand access, plus governance changes increasing Foundation voting control to 77%. Coverage notes the healthcare sector’s recent outperformance with Novo and Eli Lilly leading. There’s chatter about potential reduced-price distribution via the planned TrumpRx platform, which could broaden access while pressuring pricing. Together, these suggest demand expansion amid pricing pressure; per quick facts, the setup hasn’t favored ‘buy the rumor, sell the news’ (both flagged ‘no’).
 
-4.2. **Tarrifs:** Reduced tariffs tied to a deal to lower prices for weight-loss treatments suggest a tailwind via expanded market access, but margin impact from lower pricing could temper stock benefits.
+4.2. **Tarrifs:** Mixed and likely limited near-term: management has said they do not worry much about tariffs, while other analyses flag political/tariff risks that could pressure profitability, implying the stock may be sensitive to policy headlines but not primarily driven by tariffs in recent coverage.
 
 ## 5. QuickRef
 
@@ -339,19 +265,19 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$103.77B</td></tr>
-<tr><td>Price</td><td>49.15</td></tr>
-<tr><td>7d Resistance</td><td>49.90</td></tr>
-<tr><td>7d Support</td><td>45.15</td></tr>
-<tr><td>30d Resistance</td><td>60.90</td></tr>
+<tr><td>Price</td><td>47.60</td></tr>
+<tr><td>7d Resistance</td><td>50.43</td></tr>
+<tr><td>7d Support</td><td>47.20</td></tr>
+<tr><td>30d Resistance</td><td>58.80</td></tr>
 <tr><td>30d Support</td><td>45.15</td></tr>
-<tr><td>Buy the dip?</td><td>no</td></tr>
+<tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
-<tr><td>Sell the news?</td><td>yes</td></tr>
+<tr><td>Sell the news?</td><td>no</td></tr>
 <tr><td>7d Trend:</td><td>down</td></tr>
-<tr><td>3mo</td><td>middle</td></tr>
+<tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>near-bottom</td></tr>
 <tr><td>5yr</td><td>near-bottom</td></tr>
-<tr><td>Overbought/Sold?</td><td>in the middle</td></tr>
+<tr><td>Overbought/Sold?</td><td>oversold</td></tr>
 </tbody></table>
 </div>
 
@@ -361,9 +287,9 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, market share</li>
-<li>NewsAPI: product portfolio, profitability, earnings trend, target customers, business model, profit outlook</li>
-<li>The Guardian: market segments, competitors, rumors, tariffs news, latest rumor, tariff impact, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: competitive landscape, rumor</li>
 </ul>
 </div>
 
@@ -374,12 +300,12 @@ raw_markdown: |
 Gathering context for NVO...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-14/2025-11-12?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting NVO prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVO/range/1/day/2020-10-23/2025-11-21?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-11?apiKey=%2A%2A%2A
-Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVO/2025-11-11?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=%2A%2A%2A
+Massive open-close: response 403 from https://api.massive.com/v1/open-close/NVO/2025-11-20?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/NVO/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/NVO?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -417,155 +343,73 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   google_custom_search search -&gt; NVO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;NVO product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; NVO business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVO profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+profitability&amp;num=5
-Google Custom Search failed for &#x27;NVO profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 3 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; NVO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;NVO earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 3 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; NVO profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVO target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+target+customers&amp;num=5
-Google Custom Search failed for &#x27;NVO target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; NVO market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+market+segments&amp;num=5
-Google Custom Search failed for &#x27;NVO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; NVO market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; NVO competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+competitors&amp;num=5
-Google Custom Search failed for &#x27;NVO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; NVO market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+market+share&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; NVO competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NVO+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NVO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: 5 result(s)
   google_custom_search search -&gt; NVO rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+rumors&amp;num=5
-Google Custom Search failed for &#x27;NVO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; NVO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;NVO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; NVO rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NVO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NVO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: 5 result(s)
   newsapi search -&gt; NVO tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; NVO latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;NVO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
   newsapi search -&gt; NVO tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVO tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;NVO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;NVO tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=NVO+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=NVO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets

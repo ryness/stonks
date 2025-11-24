@@ -2,30 +2,34 @@
 layout: default
 title: "INTC Stock Report"
 ticker: "INTC"
-date: 2025-11-14
-generated_at: 2025-11-14T01:40:43.081896+00:00
-runtime_seconds: 83.40
+date: 2025-11-23
+generated_at: 2025-11-23T10:20:24.754730+00:00
+runtime_seconds: 86.16
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-14T01:40:43.081896+00:00">2025-11-14 01:40 UTC</time> (runtime 1m 23s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-23T10:20:24.754730+00:00">2025-11-23 10:20 UTC</time> (runtime 1m 26s)
   
   ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
   
   
+  ## 0. Entry Radar
+  
+  0.1. **Long Entry?:** maybe — shares sit mid-range versus 1yr/5yr per quick facts; macro froth visibility is limited in the provided data; price is below the 20-DMA (37.54) and near 7d support (32.89) amid a downtrend
+  
   ## 1. The Biz
   
-  1.1. **Activities:** Intel designs and manufactures microprocessors and platforms for the global PC and data center markets, having pioneered the x86 architecture. It is reinvigorating its manufacturing through Intel Foundry while developing leading-edge products within its Intel Products segment.
+  1.1. **Activities:** Intel designs and manufactures microprocessors for the global personal computer and data center markets. It pioneered the x86 architecture and remains the market share leader in CPUs for PCs and servers. The company is reinvigorating its chip manufacturing via Intel Foundry while developing leading-edge products within its Intel Products segment.
   
-  1.2. **Profitable?:** Yes: Intel is marginally profitable, with a positive net income sum of $198M and a ~0.37% profit margin, though free cash flow is negative.
+  1.2. **Profitable?:** Yes — marginally profitable with $198M net income sum and a 0.37% profit margin, though free cash flow is negative.
   
-  1.3. **Customer & Markets:** Primary customers are PC OEMs, cloud/data center operators, and network/edge equipment makers, along with foundry clients. Intel serves global markets from the U.S. across segments including Client Computing, Data Center & AI, Network & Edge, and Foundry.
+  1.3. **Customer & Markets:** Intel serves customers in the personal computer and data center/server end markets. Its reach is global, and it is a United States–based company.
   
-  1.4. **Competition:** Principal competitors include AMD and Nvidia, with Qualcomm, Apple, and others active in adjacent segments. Intel remains the market share leader in CPUs for PCs and servers.
+  1.4. **Competition:** Key competitors include AMD, Nvidia, Qualcomm, Apple, Micron and other large chip and platform vendors; Intel remains the market share leader in CPUs for both PC and server end markets.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down, as the price slid from a local high near 39.53 to 35.91 and trades near 35.45 support below the 20DMA.
+  2.1. **7d Trend?:** down — the 7d trend is down and price tested 7d support at 32.89 while remaining below the 20-DMA 37.54.
   
-  2.2. **7d Buy/Sell Points?:** Buying near 36.80 or closer to 35.45 support looked favorable; selling into 39.53–39.84 resistance offered exits.
+  2.2. **7d Buy/Sell Points?:** Dips near the suggested buy zone/local low around 33.57 and 7d support at 32.89 were buys; bounces toward the suggested sell zone/local high near 36.68 and 7d resistance at 37.31 were sells.
   
   2.3.1. **7d Volume:** med
   
@@ -33,15 +37,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Intel is a long-established U.S. semiconductor leader and the market-share leader in PC and server CPUs. It generated strong operating cash flow ($8.57B) but has negative free cash flow (-$4.42B), reflecting heavy investment. Profitability is thin (profit margin ~0.37% with $198M cumulative net income) yet positive. Its scale, diversified segments, and ongoing manufacturing initiatives support overall stability rather than a fly-by-night profile.
+  3.1. **Stability?:** Intel is a long-standing, leading semiconductor company and the CPU market share leader in PCs and servers. Recent financials show slim profitability (profit margin ~0.37%, net income sum $198M) and positive operating cash flow ($8.57B) but negative free cash flow (-$4.42B), consistent with heavy investment. The company is reinvigorating manufacturing through Intel Foundry. Overall, this points to a durable institution in an investment-heavy phase.
   
-  3.2. **Innovating?:** Intel appears to be innovating and investing, reinvigorating manufacturing via Intel Foundry and developing leading-edge products, with 2025 coverage noting a comeback tied to strategic investments and AI market growth.
+  3.2. **Innovating?:** Innovating and investing — Intel is rebuilding manufacturing via Intel Foundry and pursuing leading-edge products, with coverage highlighting potential benefits from AI packaging bottlenecks.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights Intel as one of three stocks mounting an epic 2025 comeback after 2024 struggles, citing strategic investments and AI tailwinds. Broader semiconductor headlines emphasize Nvidia and AMD’s AI strength, while market pieces discuss earnings signals and volatility. Against this backdrop, Intel-specific momentum is framed more as recovery than hype-driven spikes. Consistent with the quick facts, there’s no clear ‘buy the rumor, sell the news’ setup (buy the rumor: no; sell the news: no).
+  4.1. **News:** Recent coverage highlights AI supply bottlenecks at TSMC and suggests Intel could benefit as an alternative manufacturer. Nvidia’s record AI-driven revenue underscores strong sector demand, while another piece points to advanced-packaging constraints driving the bottleneck. An IoT forecast to 2030 signals secular tech tailwinds. In this context, the quick facts say “Buy the rumor? no” and “Sell the news? no,” implying limited near-term rumor/news trading setups for INTC.
   
-  4.2. **Tarrifs:** Tariff headlines have driven volatility, including an April 2025 selloff where Intel shares fell about 7% amid tariff concerns, while some commentary suggested pro-U.S. semiconductor policies could be a benefit. Overall, impacts appear mixed and episodic.
+  4.2. **Tarrifs:** Reports indicate tariffs and export controls have pressured the stock, including a noted selloff tied to tariff fears. An Intel press item references tariffs/export controls as impacting business conditions, suggesting continued sensitivity to such policies.
   
   ## 5. QuickRef
   
@@ -50,11 +54,11 @@ raw_markdown: |
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
   <tr><td>Last Q4</td><td>$198.00M</td></tr>
-  <tr><td>Price</td><td>35.91</td></tr>
-  <tr><td>7d Resistance</td><td>39.84</td></tr>
-  <tr><td>7d Support</td><td>35.45</td></tr>
+  <tr><td>Price</td><td>34.50</td></tr>
+  <tr><td>7d Resistance</td><td>37.31</td></tr>
+  <tr><td>7d Support</td><td>32.89</td></tr>
   <tr><td>30d Resistance</td><td>42.48</td></tr>
-  <tr><td>30d Support</td><td>34.69</td></tr>
+  <tr><td>30d Support</td><td>32.89</td></tr>
   <tr><td>Buy the dip?</td><td>yes</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
@@ -84,12 +88,12 @@ raw_markdown: |
   Gathering context for INTC...
   Gathering market data...
   Checking massive.com quota and fetching price history...
-  Requesting INTC prices from massive.com... (https://api.massive.com/v2/aggs/ticker/INTC/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+  Requesting INTC prices from massive.com... (https://api.massive.com/v2/aggs/ticker/INTC/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
   massive.com request failed (massive.com returned no price data); switching to yfinance...
   Requesting prices from yfinance fallback...
   Price data acquired from yfinance.
-  Massive open-close: GET https://api.massive.com/v1/open-close/INTC/2025-11-13?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/INTC/2025-11-13?apiKey=&lt;redacted&gt;
+  Massive open-close: GET https://api.massive.com/v1/open-close/INTC/2025-11-21?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/INTC/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/INTC/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/INTC/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -97,7 +101,7 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/INTC?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/INTC?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
@@ -185,6 +189,7 @@ raw_markdown: |
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
     - 1.1 Activities
     - 1.2 Profitable?
     - 1.3 Customer &amp; Markets
@@ -203,26 +208,30 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-14T01:40:43.081896+00:00">2025-11-14 01:40 UTC</time> (runtime 1m 23s)
+**Generated:** <time class="js-local-time" datetime="2025-11-23T10:20:24.754730+00:00">2025-11-23 10:20 UTC</time> (runtime 1m 26s)
 
 ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
 
 
+## 0. Entry Radar
+
+0.1. **Long Entry?:** maybe — shares sit mid-range versus 1yr/5yr per quick facts; macro froth visibility is limited in the provided data; price is below the 20-DMA (37.54) and near 7d support (32.89) amid a downtrend
+
 ## 1. The Biz
 
-1.1. **Activities:** Intel designs and manufactures microprocessors and platforms for the global PC and data center markets, having pioneered the x86 architecture. It is reinvigorating its manufacturing through Intel Foundry while developing leading-edge products within its Intel Products segment.
+1.1. **Activities:** Intel designs and manufactures microprocessors for the global personal computer and data center markets. It pioneered the x86 architecture and remains the market share leader in CPUs for PCs and servers. The company is reinvigorating its chip manufacturing via Intel Foundry while developing leading-edge products within its Intel Products segment.
 
-1.2. **Profitable?:** Yes: Intel is marginally profitable, with a positive net income sum of $198M and a ~0.37% profit margin, though free cash flow is negative.
+1.2. **Profitable?:** Yes — marginally profitable with $198M net income sum and a 0.37% profit margin, though free cash flow is negative.
 
-1.3. **Customer & Markets:** Primary customers are PC OEMs, cloud/data center operators, and network/edge equipment makers, along with foundry clients. Intel serves global markets from the U.S. across segments including Client Computing, Data Center & AI, Network & Edge, and Foundry.
+1.3. **Customer & Markets:** Intel serves customers in the personal computer and data center/server end markets. Its reach is global, and it is a United States–based company.
 
-1.4. **Competition:** Principal competitors include AMD and Nvidia, with Qualcomm, Apple, and others active in adjacent segments. Intel remains the market share leader in CPUs for PCs and servers.
+1.4. **Competition:** Key competitors include AMD, Nvidia, Qualcomm, Apple, Micron and other large chip and platform vendors; Intel remains the market share leader in CPUs for both PC and server end markets.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down, as the price slid from a local high near 39.53 to 35.91 and trades near 35.45 support below the 20DMA.
+2.1. **7d Trend?:** down — the 7d trend is down and price tested 7d support at 32.89 while remaining below the 20-DMA 37.54.
 
-2.2. **7d Buy/Sell Points?:** Buying near 36.80 or closer to 35.45 support looked favorable; selling into 39.53–39.84 resistance offered exits.
+2.2. **7d Buy/Sell Points?:** Dips near the suggested buy zone/local low around 33.57 and 7d support at 32.89 were buys; bounces toward the suggested sell zone/local high near 36.68 and 7d resistance at 37.31 were sells.
 
 2.3.1. **7d Volume:** med
 
@@ -230,15 +239,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Intel is a long-established U.S. semiconductor leader and the market-share leader in PC and server CPUs. It generated strong operating cash flow ($8.57B) but has negative free cash flow (-$4.42B), reflecting heavy investment. Profitability is thin (profit margin ~0.37% with $198M cumulative net income) yet positive. Its scale, diversified segments, and ongoing manufacturing initiatives support overall stability rather than a fly-by-night profile.
+3.1. **Stability?:** Intel is a long-standing, leading semiconductor company and the CPU market share leader in PCs and servers. Recent financials show slim profitability (profit margin ~0.37%, net income sum $198M) and positive operating cash flow ($8.57B) but negative free cash flow (-$4.42B), consistent with heavy investment. The company is reinvigorating manufacturing through Intel Foundry. Overall, this points to a durable institution in an investment-heavy phase.
 
-3.2. **Innovating?:** Intel appears to be innovating and investing, reinvigorating manufacturing via Intel Foundry and developing leading-edge products, with 2025 coverage noting a comeback tied to strategic investments and AI market growth.
+3.2. **Innovating?:** Innovating and investing — Intel is rebuilding manufacturing via Intel Foundry and pursuing leading-edge products, with coverage highlighting potential benefits from AI packaging bottlenecks.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights Intel as one of three stocks mounting an epic 2025 comeback after 2024 struggles, citing strategic investments and AI tailwinds. Broader semiconductor headlines emphasize Nvidia and AMD’s AI strength, while market pieces discuss earnings signals and volatility. Against this backdrop, Intel-specific momentum is framed more as recovery than hype-driven spikes. Consistent with the quick facts, there’s no clear ‘buy the rumor, sell the news’ setup (buy the rumor: no; sell the news: no).
+4.1. **News:** Recent coverage highlights AI supply bottlenecks at TSMC and suggests Intel could benefit as an alternative manufacturer. Nvidia’s record AI-driven revenue underscores strong sector demand, while another piece points to advanced-packaging constraints driving the bottleneck. An IoT forecast to 2030 signals secular tech tailwinds. In this context, the quick facts say “Buy the rumor? no” and “Sell the news? no,” implying limited near-term rumor/news trading setups for INTC.
 
-4.2. **Tarrifs:** Tariff headlines have driven volatility, including an April 2025 selloff where Intel shares fell about 7% amid tariff concerns, while some commentary suggested pro-U.S. semiconductor policies could be a benefit. Overall, impacts appear mixed and episodic.
+4.2. **Tarrifs:** Reports indicate tariffs and export controls have pressured the stock, including a noted selloff tied to tariff fears. An Intel press item references tariffs/export controls as impacting business conditions, suggesting continued sensitivity to such policies.
 
 ## 5. QuickRef
 
@@ -247,11 +256,11 @@ raw_markdown: |
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
 <tr><td>Last Q4</td><td>$198.00M</td></tr>
-<tr><td>Price</td><td>35.91</td></tr>
-<tr><td>7d Resistance</td><td>39.84</td></tr>
-<tr><td>7d Support</td><td>35.45</td></tr>
+<tr><td>Price</td><td>34.50</td></tr>
+<tr><td>7d Resistance</td><td>37.31</td></tr>
+<tr><td>7d Support</td><td>32.89</td></tr>
 <tr><td>30d Resistance</td><td>42.48</td></tr>
-<tr><td>30d Support</td><td>34.69</td></tr>
+<tr><td>30d Support</td><td>32.89</td></tr>
 <tr><td>Buy the dip?</td><td>yes</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
@@ -281,12 +290,12 @@ raw_markdown: |
 Gathering context for INTC...
 Gathering market data...
 Checking massive.com quota and fetching price history...
-Requesting INTC prices from massive.com... (https://api.massive.com/v2/aggs/ticker/INTC/range/1/day/2020-10-16/2025-11-14?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
+Requesting INTC prices from massive.com... (https://api.massive.com/v2/aggs/ticker/INTC/range/1/day/2020-10-25/2025-11-23?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
 massive.com request failed (massive.com returned no price data); switching to yfinance...
 Requesting prices from yfinance fallback...
 Price data acquired from yfinance.
-Massive open-close: GET https://api.massive.com/v1/open-close/INTC/2025-11-13?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/INTC/2025-11-13?apiKey=&lt;redacted&gt;
+Massive open-close: GET https://api.massive.com/v1/open-close/INTC/2025-11-21?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/INTC/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/INTC/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/INTC/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -294,7 +303,7 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/INTC?ti
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/INTC?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/INTC?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/INTC?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/INTC?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
@@ -382,6 +391,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
   - 1.1 Activities
   - 1.2 Profitable?
   - 1.3 Customer &amp; Markets
