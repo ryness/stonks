@@ -1853,18 +1853,24 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
         )
     x_5y = x_for_timestamp(low_5y_ts) if low_5y_ts is not None else None
     x_1y = x_for_timestamp(low_1y_ts) if low_1y_ts is not None else None
-    if x_5y is not None and x_1y is not None and low_5y_val is not None and low_1y_val is not None:
+    y_5y = y_for(low_5y_val) if low_5y_val is not None else None
+    y_1y = y_for(low_1y_val) if low_1y_val is not None else None
+    if x_5y is not None and x_1y is not None and y_5y is not None and y_1y is not None:
+        slope = (y_1y - y_5y) / (x_1y - x_5y) if not math.isclose(x_1y, x_5y) else 0.0
+        extend_x = positions_x[-1]
+        extend_y = y_5y + slope * (extend_x - x_5y)
+        extend_y = max(padding, min(height - padding, extend_y))
         svg_lines.append(
-            f'<line x1="{x_5y:.2f}" y1="{y_for(low_5y_val):.2f}" x2="{x_1y:.2f}" y2="{y_for(low_1y_val):.2f}" '
+            f'<line x1="{x_5y:.2f}" y1="{y_5y:.2f}" x2="{extend_x:.2f}" y2="{extend_y:.2f}" '
             'stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />'
         )
-    if x_5y is not None and low_5y_val is not None:
+    if x_5y is not None and y_5y is not None:
         svg_lines.append(
-            f'<circle cx="{x_5y:.2f}" cy="{y_for(low_5y_val):.2f}" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />'
+            f'<circle cx="{x_5y:.2f}" cy="{y_5y:.2f}" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />'
         )
-    if x_1y is not None and low_1y_val is not None:
+    if x_1y is not None and y_1y is not None:
         svg_lines.append(
-            f'<circle cx="{x_1y:.2f}" cy="{y_for(low_1y_val):.2f}" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />'
+            f'<circle cx="{x_1y:.2f}" cy="{y_1y:.2f}" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />'
         )
     svg_lines.append("</svg>")
     labels: List[str] = []
