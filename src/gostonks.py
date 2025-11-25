@@ -2102,6 +2102,66 @@ def collect_news(ticker_obj: yf.Ticker, limit: int = 5) -> List[Dict[str, Option
     return items
 
 
+def _parse_published_timestamp(value: Any) -> Optional[dt.datetime]:
+    """Parse assorted published representations into an aware UTC datetime if possible."""
+
+    if value is None:
+        return None
+    if isinstance(value, dt.datetime):
+        return value if value.tzinfo else value.replace(tzinfo=dt.timezone.utc)
+    if isinstance(value, (int, float)):
+        try:
+            return dt.datetime.fromtimestamp(value, tz=dt.timezone.utc)
+        except Exception:
+            return None
+    text = str(value).strip()
+    if not text:
+        return None
+    try:
+        parsed = pd.to_datetime(text, utc=True)
+    except Exception:
+        return None
+    if isinstance(parsed, pd.Timestamp):
+        parsed_dt = parsed.to_pydatetime()
+    else:
+        parsed_dt = None
+    if parsed_dt is None:
+        return None
+    if parsed_dt.tzinfo is None:
+        parsed_dt = parsed_dt.replace(tzinfo=dt.timezone.utc)
+    return parsed_dt
+
+
+def select_recent_headlines(news_items: Sequence[Mapping[str, Any]], days: int = 3, limit: int = 3) -> List[Dict[str, Any]]:
+    """Return up to `limit` unique headlines from the past `days`."""
+
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=days)
+    seen_titles: set[str] = set()
+    selected: List[Dict[str, Any]] = []
+    for item in news_items:
+        title = (item.get("title") or "").strip()
+        if not title:
+            continue
+        title_key = title.casefold()
+        if title_key in seen_titles:
+            continue
+        published_raw = item.get("published")
+        published_at = _parse_published_timestamp(published_raw)
+        if published_at is None or published_at < cutoff:
+            continue
+        seen_titles.add(title_key)
+        selected.append({
+            "title": title,
+            "summary": item.get("summary"),
+            "url": item.get("url"),
+            "source": item.get("source"),
+            "published_at": published_at.isoformat(),
+        })
+        if len(selected) >= limit:
+            break
+    return selected
+
+
 def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Collect pricing, fundamentals, and news data for the LLM and storage."""
 
@@ -2164,6 +2224,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
         news_source = "yfinance"
         if massive_api_key and massive_news_note is None:
             massive_news_note = "headlines (none)"
+    latest_news = select_recent_headlines(news_items, days=3, limit=3)
     log_status("Running supplementary searches...")
     search_results = _execute_search_tasks(ticker, prompt_config)
     volume_metrics = evaluate_volume_label(snapshot)
@@ -2291,6 +2352,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
         },
         "news": news_items,
         "news_source": news_source,
+        "latest_news": latest_news,
         "earnings": {"calendar": earnings_calendar},
         "quick_facts": quick_fact_map,
         "quick_fact_rows": [
@@ -2451,6 +2513,35 @@ def format_report(
     if chart_markup:
         lines.append(str(chart_markup))
         lines.append("")
+    latest_news: List[Dict[str, Any]] = context.get("latest_news") or []
+    lines.append("### Latest news (0-3 days)")
+    lines.append("")
+    if latest_news:
+        for item in latest_news:
+            title = str(item.get("title") or "").strip()
+            source = str(item.get("source") or "").strip()
+            url = str(item.get("url") or "").strip()
+            published_at = item.get("published_at")
+            date_text = ""
+            if published_at:
+                try:
+                    dt_value = dt.datetime.fromisoformat(str(published_at))
+                    if dt_value.tzinfo:
+                        dt_value = dt_value.astimezone(dt.timezone.utc)
+                    date_text = dt_value.date().isoformat()
+                except Exception:
+                    date_text = ""
+            prefix = f"[{title}]({url})" if url else title
+            suffix_parts = []
+            if source:
+                suffix_parts.append(source)
+            if date_text:
+                suffix_parts.append(date_text)
+            suffix = f" — {' · '.join(suffix_parts)}" if suffix_parts else ""
+            lines.append(f"- {prefix}{suffix}")
+    else:
+        lines.append("- no news is good news?")
+    lines.append("")
     for section in prompt_config.sections:
         heading_text = section.title or section.number
         if lines:
