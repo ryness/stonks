@@ -2132,8 +2132,49 @@ def _parse_published_timestamp(value: Any) -> Optional[dt.datetime]:
     return parsed_dt
 
 
-def select_recent_headlines(news_items: Sequence[Mapping[str, Any]], days: int = 3, limit: int = 3) -> List[Dict[str, Any]]:
-    """Return up to `limit` unique headlines from the past `days`."""
+def _matches_entity(text: str, ticker: str, company_name: Optional[str]) -> bool:
+    """Return True if text appears to reference the target ticker or company."""
+
+    text_folded = text.casefold()
+    ticker_pattern = re.compile(rf"\b{re.escape(ticker.casefold())}\b")
+    if ticker_pattern.search(text_folded):
+        return True
+    if company_name:
+        company_folded = company_name.casefold()
+        if company_folded and company_folded in text_folded:
+            return True
+        # Try a simplified company token (strip punctuation/Inc/etc.).
+        simplified = re.sub(r"[^a-z0-9 ]+", " ", company_folded).strip()
+        if simplified and simplified in text_folded:
+            return True
+    return False
+
+
+def _exclude_banned_sources(
+    news_items: Sequence[Mapping[str, Any]],
+    banned_sources: Sequence[str] = ("motley fool",),
+) -> List[Mapping[str, Any]]:
+    """Remove headlines from low-quality or unwanted sources."""
+
+    banned = [source.casefold() for source in banned_sources]
+    filtered: List[Mapping[str, Any]] = []
+    for item in news_items:
+        source_text = (item.get("source") or "").casefold()
+        if source_text and any(bad in source_text for bad in banned):
+            continue
+        filtered.append(item)
+    return filtered
+
+
+def select_recent_headlines(
+    news_items: Sequence[Mapping[str, Any]],
+    *,
+    ticker: str,
+    company_name: Optional[str],
+    days: int = 3,
+    limit: int = 3,
+) -> List[Dict[str, Any]]:
+    """Return up to `limit` unique ticker-specific headlines from the past `days`."""
 
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=days)
     seen_titles: set[str] = set()
@@ -2148,6 +2189,10 @@ def select_recent_headlines(news_items: Sequence[Mapping[str, Any]], days: int =
         published_raw = item.get("published")
         published_at = _parse_published_timestamp(published_raw)
         if published_at is None or published_at < cutoff:
+            continue
+        summary_text = (item.get("summary") or "").strip()
+        combined_text = f"{title} {summary_text}"
+        if not _matches_entity(combined_text, ticker, company_name):
             continue
         seen_titles.add(title_key)
         selected.append({
@@ -2224,7 +2269,12 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
         news_source = "yfinance"
         if massive_api_key and massive_news_note is None:
             massive_news_note = "headlines (none)"
-    latest_news = select_recent_headlines(news_items, days=3, limit=3)
+    filtered_news = _exclude_banned_sources(news_items)
+    if len(filtered_news) != len(news_items):
+        log_status(f"Filtered {len(news_items) - len(filtered_news)} headline(s) from banned sources.")
+    news_items = filtered_news
+    company_name = (massive_profile or {}).get("name") or info.get("longName") or ticker_upper
+    latest_news = select_recent_headlines(news_items, ticker=ticker_upper, company_name=company_name, days=3, limit=3)
     log_status("Running supplementary searches...")
     search_results = _execute_search_tasks(ticker, prompt_config)
     volume_metrics = evaluate_volume_label(snapshot)
@@ -2451,7 +2501,7 @@ def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, 
 
     log_status("Asking OpenAI for analysis...")
     response = client.responses.create(
-        model="gpt-5",
+        model="gpt-5.1",
         input=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
