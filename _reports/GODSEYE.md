@@ -3,34 +3,39 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2025-11-25
-generated_at: 2025-11-25T15:24:53.914719+00:00
-runtime_seconds: 92.14
+generated_at: 2025-11-25T20:23:21.102834+00:00
+runtime_seconds: 30.12
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-25T15:24:53.914719+00:00">2025-11-25 15:24 UTC</time> (runtime 1m 32s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-25T20:23:21.102834+00:00">2025-11-25 20:23 UTC</time> (runtime 30.12s)
+  
+  ### Latest news (0-3 days)
+  
+  - no news is good news?
+  
   
   ## 1. Pulse
   
-  Equities show a mixed tone with rotation under the surface: the S&P 500 fell 0.32% and the Nasdaq Composite dropped 0.81% while the Dow gained 0.44% and small caps outperformed with the Russell 2000 up 0.99%. Breadth leaned negative (6 up, 9 down) and the average index change across benchmarks was -0.13%, indicating risk appetite is tentative rather than broad-based.
+  Across equities the tone is decisively risk-on, with all major US benchmarks up on the day and breadth showing 11 instruments higher versus 4 lower. The S&P 500 gained about 0.83%, the Dow 30 outperformed at +1.44%, and the Nasdaq Composite rose 0.48%, while small caps led with the Russell 2000 up 2.12%. On a 7-day view, gains are modest but positive for S&P (+0.39%), Nasdaq (+0.35%), and Russell (+3.23%), indicating an improving but not euphoric risk appetite.
   
-  Volatility edged higher as the VIX rose 0.68% on the day to 20.66 and is up 4.19% over the week, signaling lingering caution. Futures are split: S&P futures -0.16% and Nasdaq futures -0.76% versus Dow futures +0.35% and Russell futures +1.00%, reinforcing a defensive rotation away from large-cap tech and toward small caps and the Dow.
+  Volatility and rates are reinforcing the pro-risk tone. The VIX dropped 8.92% on the day to 18.69 and is down 10.19% over 30 days, signaling fading demand for downside protection as equities climb. The 10-year Treasury yield fell 0.89% on the day and 3.52% over the week to 4.00%, consistent with the news-driven shift toward December Fed rate-cut hopes and easing policy fears, which typically supports equity multiples.
   
-  Rates eased with the 10Y Treasury yield down 0.74% on the day to 4.01% (and -3.38% over the week), a supportive backdrop for equities that contrasts with the modest uptick in volatility. The US dollar slipped 0.34%, gold rallied 1.71%, and WTI crude fell 2.77%, a mix that suggests hedging and growth concerns persist. Netting these, risk appetite is mixed to fading for growth/tech but improving for small caps, rather than uniformly risk-on.
+  Equity futures confirm the constructive backdrop, with S&P futures up 0.78%, Dow futures up 1.39%, Nasdaq futures up 0.32%, and Russell futures up 2.20% on the day. The strength in Dow and Russell futures, alongside weakness in WTI crude (1d -1.48%) and a softer US dollar (1d -0.44%), points to a rotation into cyclicals and domestic risk assets as macro anxiety recedes. Overall, risk appetite is clearly improving, as evidenced by the +1.13% average index gain on the day, lower volatility, and lower yields.
   
-  1.1. **Market Health:** Market health is modestly soft: breadth was negative at 6 up versus 9 down, and the average index move was a small decline of -0.13%. The VIX at 20.66 and higher on the day and week points to elevated caution compared with recent levels. Offsetting that, the 10Y yield eased to 4.01% (-0.74% 1d, -3.38% 7d), which is typically supportive for equities, but today’s gains were not broad. Overall, conditions are mixed with pockets of strength (small caps) but no broad confirmation.
+  1.1. **Market Health:** Market health looks solidly positive based on the benchmark changes. Breadth is strong, with 11 instruments up versus 4 down and an average 1-day index move of about +1.13%, led by small caps. The VIX sliding nearly 9% today and over 10% in 30 days, combined with a 10-year yield retreat to 4.00% (down 0.89% on the day and 3.52% on the week), indicates reduced stress in both equity and rate markets. Taken together, the tape appears healthy with broad participation and a supportive volatility/treasury backdrop.
   
-  1.2. **Leadership:** Leadership today skewed toward small caps and the Dow: the Russell 2000 led at +0.99% and the Dow rose +0.44%, while laggards were growth/tech with the Nasdaq Composite -0.81% and QQQ -0.85%. Over the past week, the Russell 2000 is the standout at +2.09%, whereas the Dow is the notable laggard at -2.13% and the Nasdaq is down -0.93%.
+  1.2. **Leadership:** Over the last day, the Russell 2000 is a clear leader with a 2.12% gain, and Dow 30 also stands out at +1.44%, while SPY is strong at +1.47%. On the downside, WTI crude lags with a -1.48% move and the US dollar is also weaker at -0.44%, making commodities and the currency the key underperformers. Over the past week, Russell benchmarks lead with the Russell 2000 up 3.23% and Russell futures up 3.17%, whereas Dow 30 (-0.07%) and Dow futures (-0.14%) slightly lag, highlighting a rotation toward smaller caps and away from mega-cap-heavy benchmarks.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** Rate-cut hopes and the Fed outlook remain central after reports noted a rebound tied to such expectations and a week of key data ahead. This aligns with the 10Y yield sliding to 4.01% (-0.74% 1d), a risk-on catalyst that has supported cyclicals and small caps, even as the broader tape remains selective. Tech/AI narratives recently helped sentiment per reports of an Alphabet-led rebound, but today’s market shows rotation away from large-cap tech (Nasdaq -0.81%, QQQ -0.85%) toward small caps (Russell 2000 +0.99%). That divergence dampens aggregate risk appetite in growth-heavy benchmarks while maintaining risk-on pockets in domestically oriented equities. Holiday-thinned liquidity and data timing are also in focus, with mentions of delayed inflation data and a holiday-shortened week. The VIX’s rise (+0.68% 1d, +4.19% 7d) alongside stronger gold (+1.71% 1d) and weaker oil (-2.77% 1d) underscores a cautious bias as traders position around macro releases in a lower-liquidity backdrop.
+  2.1. **Catalysts:** The main macro driver cited in the news is renewed optimism about a potential December Federal Reserve rate cut. Fed officials Christopher Waller and John Williams signaled conditions for a possible cut, which aligns with the 10-year Treasury yield falling 3.52% over the week to 4.00% and the VIX dropping 5.75% over the same period. This easing-rate narrative is clearly risk-on, supporting higher equity prices as seen in the S&P 500’s recent rebound (1d +0.83%, 7d +0.39%) and compressing volatility. A second key theme is the tech and AI-led rebound, highlighted by Alphabet’s surge following its Gemini 3 AI launch, which helped fuel a broader tech comeback. This is consistent with the Nasdaq Composite’s 1-day gain of 0.48% and the QQQ ETF up 0.47% today and 1.67% over 30 days, showing that growth and AI narratives continue to underpin risk-taking in high-beta technology. This tech strength is risk-on and complements the macro tailwind from rate-cut hopes. More broadly, commentary from sources such as Morgan Stanley that the “market pullback is likely ending” dovetails with the observed moves in futures and spot indices. S&P and Dow futures up 0.78% and 1.39% on the day, combined with the Russell futures’ 2.20% gain, suggest investors are leaning into this narrative by adding exposure ahead of the Thanksgiving week. That broad futures strength, alongside lower yields and volatility, indicates a constructive, risk-on tape driven by expectations of easier policy and a stabilizing earnings and sentiment backdrop.
   
-  2.2. **Upcoming Triggers:** Key near-term catalysts include US inflation data and consumer updates flagged for this holiday week, which could sway Fed-cut expectations and volatility; Thanksgiving market hours (closed Thursday, early close Friday per coverage) may thin liquidity and amplify moves; and any scheduled economic data releases tied to the Fed outlook highlighted by markets wrap coverage are likely to influence rate expectations and risk tone.
+  2.2. **Upcoming Triggers:** Upcoming triggers over the next 24 hours are only partially specified, but the news flow highlights the shortened Thanksgiving week in the US and continued focus on Federal Reserve policy signals, including expectations around a December rate cut. Markets may also react to any additional Fed commentary or macro headlines that either reinforce or challenge the current easing narrative referenced in the recent articles. Corporate earnings or major data releases are not explicitly listed in the provided data, so any incremental surprise on rates or growth from unscheduled headlines could have an outsized impact in thinner holiday liquidity.
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** flat 58% Mixed signals argue for a range-bound bias: S&P -0.32% and Nasdaq -0.81% versus Russell +0.99% and Dow +0.44%, average index change -0.13%, and breadth 6/9. VIX is higher (20.66) while the 10Y yield is lower (4.01%), with futures split (ES -0.16%, NQ -0.76% vs YM +0.35%, RTY +1.00%). Upcoming data and holiday-thin liquidity suggest limited directional conviction over the next 24 hours.
+  3.1. **Next 24h Bias:** up 65% confidence. The bias is upward because major equity indices are broadly higher today (S&P 500 +0.83%, Dow 30 +1.44%, Russell 2000 +2.12%) and futures are also in the green (S&P +0.78%, Dow +1.39%, Russell +2.20%), indicating follow-through risk-on momentum. The VIX is down 8.92% on the day and the 10-year yield has declined 0.89%, aligning with news-driven optimism about a possible December Fed rate cut and a tech-led rebound. While the recent 7-day gains are modest, the combination of strong breadth (11 up vs 4 down), lower volatility, and supportive macro headlines tilts the near-term outlook toward further upside rather than a reversal.
   
-  3.2. **Watch List:** Watch the small-cap vs mega-cap tech divergence: Russell 2000 around 2,438 versus Nasdaq near 22,688, as continued small-cap leadership alongside lower yields would support a stable tape, while further tech weakness could cap broader gains. Monitor ES near 6,710 and VIX holding above 20.66; a VIX drift lower would favor stability, while a push higher would threaten a flat bias. Track the 10Y Treasury yield around 4.01% for confirmation that easing rates persist into the next session; sustained sub-4.05% helps maintain a neutral-to-supportive equity backdrop. On the commodity side, oil near 57.21 and gold near 4,161.90 are signaling growth caution and hedging—stabilization in crude would be constructive, while further weakness could weigh on cyclicals. Into the next session, be attentive to the timing of US inflation data and consumer updates highlighted for this week, as well as holiday trading conditions (Thursday closed, Friday early close) that can exaggerate moves. Sector-wise, look for whether financials and domestically oriented cyclicals follow the Russell’s +1.00% futures lead, and whether tech stabilizes given Nasdaq futures at -0.76%.
+  3.2. **Watch List:** Into the next session, traders should watch whether the S&P 500 can build on its recent gains around the 6,760 level and whether S&P futures can hold above roughly 6,770–6,780, which would confirm the current momentum. The Russell 2000 and Russell futures, up 2.12% and 2.20% on the day, are key barometers of risk appetite; sustained strength there would validate the small-cap leadership that has driven the last week’s 3%+ advance. Monitoring the VIX around 18–19 will also be important: continued compression would align with the predicted upside bias, whereas an abrupt spike would signal waning risk appetite. Sector-wise, traders should focus on tech and AI-linked names implied by the Nasdaq and QQQ performance (Nasdaq Composite +0.48% 1d, QQQ +0.47% 1d) to see if the Alphabet-led rebound remains intact. At the macro level, the 10-year Treasury yield near 4.00% is a critical gauge; further easing toward recent lows would support higher equity multiples, consistent with the rate-cut optimism noted in the news, while a backup in yields would challenge the “up” bias. In cross-asset space, weakness in WTI crude (57.97, 1d -1.48%) and the US dollar (99.69, 1d -0.44%) should be tracked as they can reinforce the pro-risk environment if they persist, especially in a lower-liquidity holiday session.
   
   ## 4. QuickRef
   
@@ -38,21 +43,21 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>S&amp;P 500</td><td>1d -0.32% | 7d -0.75% | 30d +0.59% | last 6,683.65</td></tr>
-  <tr><td>Dow 30</td><td>1d +0.44% | 7d -2.13% | 30d +0.83% | last 46,448.27</td></tr>
-  <tr><td>Nasdaq Composite</td><td>1d -0.81% | 7d -0.93% | 30d +0.74% | last 22,687.82</td></tr>
-  <tr><td>Russell 2000</td><td>1d +0.99% | 7d +2.09% | 30d -2.30% | last 2,438.21</td></tr>
-  <tr><td>SPY ETF</td><td>1d -0.26% | 7d -0.74% | 30d +0.72% | last 666.98</td></tr>
-  <tr><td>QQQ ETF</td><td>1d -0.85% | 7d -1.45% | 30d +0.34% | last 600.02</td></tr>
-  <tr><td>VIX</td><td>1d +0.68% | 7d +4.19% | 30d -0.72% | last 20.66</td></tr>
-  <tr><td>S&amp;P Fut</td><td>1d -0.16% | 7d -0.66% | 30d +0.36% | last 6,710.75</td></tr>
-  <tr><td>Nasdaq Fut</td><td>1d -0.76% | 7d -1.33% | 30d -0.01% | last 24,759.00</td></tr>
-  <tr><td>Dow Fut</td><td>1d +0.35% | 7d -1.17% | 30d +0.38% | last 46,675.00</td></tr>
-  <tr><td>Russell Fut</td><td>1d +1.00% | 7d +1.97% | 30d -2.69% | last 2,443.10</td></tr>
-  <tr><td>10Y Treasury</td><td>1d -0.74% | 7d -3.38% | 30d -0.35% | last 4.01</td></tr>
-  <tr><td>Gold Fut</td><td>1d +1.71% | 7d +1.82% | 30d +0.56% | last 4,161.90</td></tr>
-  <tr><td>WTI Crude</td><td>1d -2.77% | 7d -4.79% | 30d -2.54% | last 57.21</td></tr>
-  <tr><td>US Dollar</td><td>1d -0.34% | 7d +0.53% | 30d +0.76% | last 99.80</td></tr>
+  <tr><td>S&amp;P 500</td><td>1d +0.83% | 7d +0.39% | 30d +1.75% | last 6,760.56</td></tr>
+  <tr><td>Dow 30</td><td>1d +1.44% | 7d -0.07% | 30d +1.83% | last 47,116.10</td></tr>
+  <tr><td>Nasdaq Composite</td><td>1d +0.48% | 7d +0.35% | 30d +2.04% | last 22,981.38</td></tr>
+  <tr><td>Russell 2000</td><td>1d +2.12% | 7d +3.23% | 30d -1.21% | last 2,465.36</td></tr>
+  <tr><td>SPY ETF</td><td>1d +1.47% | 7d -0.49% | 30d +0.86% | last 668.73</td></tr>
+  <tr><td>QQQ ETF</td><td>1d +0.47% | 7d -0.14% | 30d +1.67% | last 607.99</td></tr>
+  <tr><td>VIX</td><td>1d -8.92% | 7d -5.75% | 30d -10.19% | last 18.69</td></tr>
+  <tr><td>S&amp;P Fut</td><td>1d +0.78% | 7d +0.28% | 30d +1.31% | last 6,774.00</td></tr>
+  <tr><td>Nasdaq Fut</td><td>1d +0.32% | 7d -0.27% | 30d +1.07% | last 25,027.50</td></tr>
+  <tr><td>Dow Fut</td><td>1d +1.39% | 7d -0.14% | 30d +1.42% | last 47,162.00</td></tr>
+  <tr><td>Russell Fut</td><td>1d +2.20% | 7d +3.17% | 30d -1.55% | last 2,471.90</td></tr>
+  <tr><td>10Y Treasury</td><td>1d -0.89% | 7d -3.52% | 30d -0.50% | last 4.00</td></tr>
+  <tr><td>Gold Fut</td><td>1d +1.91% | 7d +2.01% | 30d +0.75% | last 4,169.90</td></tr>
+  <tr><td>WTI Crude</td><td>1d -1.48% | 7d -3.53% | 30d -1.24% | last 57.97</td></tr>
+  <tr><td>US Dollar</td><td>1d -0.44% | 7d +0.43% | 30d +0.65% | last 99.69</td></tr>
   </tbody></table>
   </div>
   
@@ -61,7 +66,7 @@ raw_markdown: |
   <strong>Sources</strong>
   <ul>
   <li>yfinance: benchmark closes &amp; change calculations</li>
-  <li>market headlines: NEWSAPI</li>
+  <li>market headlines: GNEWS, GUARDIAN</li>
   </ul>
   </div>
   
@@ -74,37 +79,82 @@ raw_markdown: |
   Computed 15 benchmark series; building quick facts...
   Market headlines search -&gt; US stock market today
   NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;US stock market today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
   Market headlines search -&gt; S&amp;P 500 futures outlook
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;S&amp;P 500 futures outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;S&amp;P 500 futures outlook&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
   Market headlines search -&gt; Wall Street catalysts next 24 hours
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;Wall Street catalysts next 24 hours&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Wall+Street+catalysts+next+24+hours&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Wall+Street+catalysts+next+24+hours&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;US stock market breadth today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+breadth+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=US+stock+market+breadth+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; global futures market snapshot (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=global+futures+market+snapshot&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;global futures market snapshot&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=global+futures+market+snapshot&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=global+futures+market+snapshot&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=stock+market+catalysts+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=stock+market+catalysts+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; federal reserve commentary today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commentary+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=federal+reserve+commentary+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -121,31 +171,36 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-25T15:24:53.914719+00:00">2025-11-25 15:24 UTC</time> (runtime 1m 32s)
+**Generated:** <time class="js-local-time" datetime="2025-11-25T20:23:21.102834+00:00">2025-11-25 20:23 UTC</time> (runtime 30.12s)
+
+### Latest news (0-3 days)
+
+- no news is good news?
+
 
 ## 1. Pulse
 
-Equities show a mixed tone with rotation under the surface: the S&P 500 fell 0.32% and the Nasdaq Composite dropped 0.81% while the Dow gained 0.44% and small caps outperformed with the Russell 2000 up 0.99%. Breadth leaned negative (6 up, 9 down) and the average index change across benchmarks was -0.13%, indicating risk appetite is tentative rather than broad-based.
+Across equities the tone is decisively risk-on, with all major US benchmarks up on the day and breadth showing 11 instruments higher versus 4 lower. The S&P 500 gained about 0.83%, the Dow 30 outperformed at +1.44%, and the Nasdaq Composite rose 0.48%, while small caps led with the Russell 2000 up 2.12%. On a 7-day view, gains are modest but positive for S&P (+0.39%), Nasdaq (+0.35%), and Russell (+3.23%), indicating an improving but not euphoric risk appetite.
 
-Volatility edged higher as the VIX rose 0.68% on the day to 20.66 and is up 4.19% over the week, signaling lingering caution. Futures are split: S&P futures -0.16% and Nasdaq futures -0.76% versus Dow futures +0.35% and Russell futures +1.00%, reinforcing a defensive rotation away from large-cap tech and toward small caps and the Dow.
+Volatility and rates are reinforcing the pro-risk tone. The VIX dropped 8.92% on the day to 18.69 and is down 10.19% over 30 days, signaling fading demand for downside protection as equities climb. The 10-year Treasury yield fell 0.89% on the day and 3.52% over the week to 4.00%, consistent with the news-driven shift toward December Fed rate-cut hopes and easing policy fears, which typically supports equity multiples.
 
-Rates eased with the 10Y Treasury yield down 0.74% on the day to 4.01% (and -3.38% over the week), a supportive backdrop for equities that contrasts with the modest uptick in volatility. The US dollar slipped 0.34%, gold rallied 1.71%, and WTI crude fell 2.77%, a mix that suggests hedging and growth concerns persist. Netting these, risk appetite is mixed to fading for growth/tech but improving for small caps, rather than uniformly risk-on.
+Equity futures confirm the constructive backdrop, with S&P futures up 0.78%, Dow futures up 1.39%, Nasdaq futures up 0.32%, and Russell futures up 2.20% on the day. The strength in Dow and Russell futures, alongside weakness in WTI crude (1d -1.48%) and a softer US dollar (1d -0.44%), points to a rotation into cyclicals and domestic risk assets as macro anxiety recedes. Overall, risk appetite is clearly improving, as evidenced by the +1.13% average index gain on the day, lower volatility, and lower yields.
 
-1.1. **Market Health:** Market health is modestly soft: breadth was negative at 6 up versus 9 down, and the average index move was a small decline of -0.13%. The VIX at 20.66 and higher on the day and week points to elevated caution compared with recent levels. Offsetting that, the 10Y yield eased to 4.01% (-0.74% 1d, -3.38% 7d), which is typically supportive for equities, but today’s gains were not broad. Overall, conditions are mixed with pockets of strength (small caps) but no broad confirmation.
+1.1. **Market Health:** Market health looks solidly positive based on the benchmark changes. Breadth is strong, with 11 instruments up versus 4 down and an average 1-day index move of about +1.13%, led by small caps. The VIX sliding nearly 9% today and over 10% in 30 days, combined with a 10-year yield retreat to 4.00% (down 0.89% on the day and 3.52% on the week), indicates reduced stress in both equity and rate markets. Taken together, the tape appears healthy with broad participation and a supportive volatility/treasury backdrop.
 
-1.2. **Leadership:** Leadership today skewed toward small caps and the Dow: the Russell 2000 led at +0.99% and the Dow rose +0.44%, while laggards were growth/tech with the Nasdaq Composite -0.81% and QQQ -0.85%. Over the past week, the Russell 2000 is the standout at +2.09%, whereas the Dow is the notable laggard at -2.13% and the Nasdaq is down -0.93%.
+1.2. **Leadership:** Over the last day, the Russell 2000 is a clear leader with a 2.12% gain, and Dow 30 also stands out at +1.44%, while SPY is strong at +1.47%. On the downside, WTI crude lags with a -1.48% move and the US dollar is also weaker at -0.44%, making commodities and the currency the key underperformers. Over the past week, Russell benchmarks lead with the Russell 2000 up 3.23% and Russell futures up 3.17%, whereas Dow 30 (-0.07%) and Dow futures (-0.14%) slightly lag, highlighting a rotation toward smaller caps and away from mega-cap-heavy benchmarks.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** Rate-cut hopes and the Fed outlook remain central after reports noted a rebound tied to such expectations and a week of key data ahead. This aligns with the 10Y yield sliding to 4.01% (-0.74% 1d), a risk-on catalyst that has supported cyclicals and small caps, even as the broader tape remains selective. Tech/AI narratives recently helped sentiment per reports of an Alphabet-led rebound, but today’s market shows rotation away from large-cap tech (Nasdaq -0.81%, QQQ -0.85%) toward small caps (Russell 2000 +0.99%). That divergence dampens aggregate risk appetite in growth-heavy benchmarks while maintaining risk-on pockets in domestically oriented equities. Holiday-thinned liquidity and data timing are also in focus, with mentions of delayed inflation data and a holiday-shortened week. The VIX’s rise (+0.68% 1d, +4.19% 7d) alongside stronger gold (+1.71% 1d) and weaker oil (-2.77% 1d) underscores a cautious bias as traders position around macro releases in a lower-liquidity backdrop.
+2.1. **Catalysts:** The main macro driver cited in the news is renewed optimism about a potential December Federal Reserve rate cut. Fed officials Christopher Waller and John Williams signaled conditions for a possible cut, which aligns with the 10-year Treasury yield falling 3.52% over the week to 4.00% and the VIX dropping 5.75% over the same period. This easing-rate narrative is clearly risk-on, supporting higher equity prices as seen in the S&P 500’s recent rebound (1d +0.83%, 7d +0.39%) and compressing volatility. A second key theme is the tech and AI-led rebound, highlighted by Alphabet’s surge following its Gemini 3 AI launch, which helped fuel a broader tech comeback. This is consistent with the Nasdaq Composite’s 1-day gain of 0.48% and the QQQ ETF up 0.47% today and 1.67% over 30 days, showing that growth and AI narratives continue to underpin risk-taking in high-beta technology. This tech strength is risk-on and complements the macro tailwind from rate-cut hopes. More broadly, commentary from sources such as Morgan Stanley that the “market pullback is likely ending” dovetails with the observed moves in futures and spot indices. S&P and Dow futures up 0.78% and 1.39% on the day, combined with the Russell futures’ 2.20% gain, suggest investors are leaning into this narrative by adding exposure ahead of the Thanksgiving week. That broad futures strength, alongside lower yields and volatility, indicates a constructive, risk-on tape driven by expectations of easier policy and a stabilizing earnings and sentiment backdrop.
 
-2.2. **Upcoming Triggers:** Key near-term catalysts include US inflation data and consumer updates flagged for this holiday week, which could sway Fed-cut expectations and volatility; Thanksgiving market hours (closed Thursday, early close Friday per coverage) may thin liquidity and amplify moves; and any scheduled economic data releases tied to the Fed outlook highlighted by markets wrap coverage are likely to influence rate expectations and risk tone.
+2.2. **Upcoming Triggers:** Upcoming triggers over the next 24 hours are only partially specified, but the news flow highlights the shortened Thanksgiving week in the US and continued focus on Federal Reserve policy signals, including expectations around a December rate cut. Markets may also react to any additional Fed commentary or macro headlines that either reinforce or challenge the current easing narrative referenced in the recent articles. Corporate earnings or major data releases are not explicitly listed in the provided data, so any incremental surprise on rates or growth from unscheduled headlines could have an outsized impact in thinner holiday liquidity.
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** flat 58% Mixed signals argue for a range-bound bias: S&P -0.32% and Nasdaq -0.81% versus Russell +0.99% and Dow +0.44%, average index change -0.13%, and breadth 6/9. VIX is higher (20.66) while the 10Y yield is lower (4.01%), with futures split (ES -0.16%, NQ -0.76% vs YM +0.35%, RTY +1.00%). Upcoming data and holiday-thin liquidity suggest limited directional conviction over the next 24 hours.
+3.1. **Next 24h Bias:** up 65% confidence. The bias is upward because major equity indices are broadly higher today (S&P 500 +0.83%, Dow 30 +1.44%, Russell 2000 +2.12%) and futures are also in the green (S&P +0.78%, Dow +1.39%, Russell +2.20%), indicating follow-through risk-on momentum. The VIX is down 8.92% on the day and the 10-year yield has declined 0.89%, aligning with news-driven optimism about a possible December Fed rate cut and a tech-led rebound. While the recent 7-day gains are modest, the combination of strong breadth (11 up vs 4 down), lower volatility, and supportive macro headlines tilts the near-term outlook toward further upside rather than a reversal.
 
-3.2. **Watch List:** Watch the small-cap vs mega-cap tech divergence: Russell 2000 around 2,438 versus Nasdaq near 22,688, as continued small-cap leadership alongside lower yields would support a stable tape, while further tech weakness could cap broader gains. Monitor ES near 6,710 and VIX holding above 20.66; a VIX drift lower would favor stability, while a push higher would threaten a flat bias. Track the 10Y Treasury yield around 4.01% for confirmation that easing rates persist into the next session; sustained sub-4.05% helps maintain a neutral-to-supportive equity backdrop. On the commodity side, oil near 57.21 and gold near 4,161.90 are signaling growth caution and hedging—stabilization in crude would be constructive, while further weakness could weigh on cyclicals. Into the next session, be attentive to the timing of US inflation data and consumer updates highlighted for this week, as well as holiday trading conditions (Thursday closed, Friday early close) that can exaggerate moves. Sector-wise, look for whether financials and domestically oriented cyclicals follow the Russell’s +1.00% futures lead, and whether tech stabilizes given Nasdaq futures at -0.76%.
+3.2. **Watch List:** Into the next session, traders should watch whether the S&P 500 can build on its recent gains around the 6,760 level and whether S&P futures can hold above roughly 6,770–6,780, which would confirm the current momentum. The Russell 2000 and Russell futures, up 2.12% and 2.20% on the day, are key barometers of risk appetite; sustained strength there would validate the small-cap leadership that has driven the last week’s 3%+ advance. Monitoring the VIX around 18–19 will also be important: continued compression would align with the predicted upside bias, whereas an abrupt spike would signal waning risk appetite. Sector-wise, traders should focus on tech and AI-linked names implied by the Nasdaq and QQQ performance (Nasdaq Composite +0.48% 1d, QQQ +0.47% 1d) to see if the Alphabet-led rebound remains intact. At the macro level, the 10-year Treasury yield near 4.00% is a critical gauge; further easing toward recent lows would support higher equity multiples, consistent with the rate-cut optimism noted in the news, while a backup in yields would challenge the “up” bias. In cross-asset space, weakness in WTI crude (57.97, 1d -1.48%) and the US dollar (99.69, 1d -0.44%) should be tracked as they can reinforce the pro-risk environment if they persist, especially in a lower-liquidity holiday session.
 
 ## 4. QuickRef
 
@@ -153,21 +208,21 @@ Rates eased with the 10Y Treasury yield down 0.74% on the day to 4.01% (and -3.3
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>S&amp;P 500</td><td>1d -0.32% | 7d -0.75% | 30d +0.59% | last 6,683.65</td></tr>
-<tr><td>Dow 30</td><td>1d +0.44% | 7d -2.13% | 30d +0.83% | last 46,448.27</td></tr>
-<tr><td>Nasdaq Composite</td><td>1d -0.81% | 7d -0.93% | 30d +0.74% | last 22,687.82</td></tr>
-<tr><td>Russell 2000</td><td>1d +0.99% | 7d +2.09% | 30d -2.30% | last 2,438.21</td></tr>
-<tr><td>SPY ETF</td><td>1d -0.26% | 7d -0.74% | 30d +0.72% | last 666.98</td></tr>
-<tr><td>QQQ ETF</td><td>1d -0.85% | 7d -1.45% | 30d +0.34% | last 600.02</td></tr>
-<tr><td>VIX</td><td>1d +0.68% | 7d +4.19% | 30d -0.72% | last 20.66</td></tr>
-<tr><td>S&amp;P Fut</td><td>1d -0.16% | 7d -0.66% | 30d +0.36% | last 6,710.75</td></tr>
-<tr><td>Nasdaq Fut</td><td>1d -0.76% | 7d -1.33% | 30d -0.01% | last 24,759.00</td></tr>
-<tr><td>Dow Fut</td><td>1d +0.35% | 7d -1.17% | 30d +0.38% | last 46,675.00</td></tr>
-<tr><td>Russell Fut</td><td>1d +1.00% | 7d +1.97% | 30d -2.69% | last 2,443.10</td></tr>
-<tr><td>10Y Treasury</td><td>1d -0.74% | 7d -3.38% | 30d -0.35% | last 4.01</td></tr>
-<tr><td>Gold Fut</td><td>1d +1.71% | 7d +1.82% | 30d +0.56% | last 4,161.90</td></tr>
-<tr><td>WTI Crude</td><td>1d -2.77% | 7d -4.79% | 30d -2.54% | last 57.21</td></tr>
-<tr><td>US Dollar</td><td>1d -0.34% | 7d +0.53% | 30d +0.76% | last 99.80</td></tr>
+<tr><td>S&amp;P 500</td><td>1d +0.83% | 7d +0.39% | 30d +1.75% | last 6,760.56</td></tr>
+<tr><td>Dow 30</td><td>1d +1.44% | 7d -0.07% | 30d +1.83% | last 47,116.10</td></tr>
+<tr><td>Nasdaq Composite</td><td>1d +0.48% | 7d +0.35% | 30d +2.04% | last 22,981.38</td></tr>
+<tr><td>Russell 2000</td><td>1d +2.12% | 7d +3.23% | 30d -1.21% | last 2,465.36</td></tr>
+<tr><td>SPY ETF</td><td>1d +1.47% | 7d -0.49% | 30d +0.86% | last 668.73</td></tr>
+<tr><td>QQQ ETF</td><td>1d +0.47% | 7d -0.14% | 30d +1.67% | last 607.99</td></tr>
+<tr><td>VIX</td><td>1d -8.92% | 7d -5.75% | 30d -10.19% | last 18.69</td></tr>
+<tr><td>S&amp;P Fut</td><td>1d +0.78% | 7d +0.28% | 30d +1.31% | last 6,774.00</td></tr>
+<tr><td>Nasdaq Fut</td><td>1d +0.32% | 7d -0.27% | 30d +1.07% | last 25,027.50</td></tr>
+<tr><td>Dow Fut</td><td>1d +1.39% | 7d -0.14% | 30d +1.42% | last 47,162.00</td></tr>
+<tr><td>Russell Fut</td><td>1d +2.20% | 7d +3.17% | 30d -1.55% | last 2,471.90</td></tr>
+<tr><td>10Y Treasury</td><td>1d -0.89% | 7d -3.52% | 30d -0.50% | last 4.00</td></tr>
+<tr><td>Gold Fut</td><td>1d +1.91% | 7d +2.01% | 30d +0.75% | last 4,169.90</td></tr>
+<tr><td>WTI Crude</td><td>1d -1.48% | 7d -3.53% | 30d -1.24% | last 57.97</td></tr>
+<tr><td>US Dollar</td><td>1d -0.44% | 7d +0.43% | 30d +0.65% | last 99.69</td></tr>
 </tbody></table>
 </div>
 
@@ -176,7 +231,7 @@ Rates eased with the 10Y Treasury yield down 0.74% on the day to 4.01% (and -3.3
 <strong>Sources</strong>
 <ul>
 <li>yfinance: benchmark closes &amp; change calculations</li>
-<li>market headlines: NEWSAPI</li>
+<li>market headlines: GNEWS, GUARDIAN</li>
 </ul>
 </div>
 
@@ -189,37 +244,82 @@ Collecting benchmark performance for GodsEye...
 Computed 15 benchmark series; building quick facts...
 Market headlines search -&gt; US stock market today
 NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;US stock market today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
 Market headlines search -&gt; S&amp;P 500 futures outlook
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;S&amp;P 500 futures outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;S&amp;P 500 futures outlook&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
 Market headlines search -&gt; Wall Street catalysts next 24 hours
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;Wall Street catalysts next 24 hours&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Wall+Street+catalysts+next+24+hours&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Wall+Street+catalysts+next+24+hours&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;US stock market breadth today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+breadth+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=US+stock+market+breadth+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; global futures market snapshot (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=global+futures+market+snapshot&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;global futures market snapshot&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=global+futures+market+snapshot&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=global+futures+market+snapshot&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; stock market catalysts today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=stock+market+catalysts+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=stock+market+catalysts+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; federal reserve commentary today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commentary+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=federal+reserve+commentary+today&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
