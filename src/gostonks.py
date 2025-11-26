@@ -1819,6 +1819,20 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
             return None
         return positions_x[idx]
 
+    # Build modest date ticks every quarter with yearly labels, skipping crowded marks.
+    tick_specs: List[Tuple[float, str]] = []
+    if not date_index.empty:
+        start_dt = date_index.min().to_pydatetime()
+        end_dt = date_index.max().to_pydatetime()
+        for ts in pd.date_range(start=start_dt, end=end_dt, freq="QS"):
+            x_val = x_for_timestamp(ts)
+            if x_val is None:
+                continue
+            label = ts.strftime("%Y") if ts.month == 1 else ts.strftime("%b")
+            if tick_specs and x_val - tick_specs[-1][0] < 28:
+                continue
+            tick_specs.append((x_val, label))
+
     low_1y_ts: Optional[pd.Timestamp]
     low_1y_val: Optional[float]
     if low_1y:
@@ -1845,6 +1859,21 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
         f'<polygon points="{" ".join(path_points)} {positions_x[-1]:.2f},{height - padding:.2f} {positions_x[0]:.2f},{height - padding:.2f}" '
         'fill="url(#priceFill)" opacity="0.35" />'
     )
+    axis_y = height - padding + 4
+    if tick_specs:
+        svg_lines.append(
+            f'<line x1="{positions_x[0]:.2f}" y1="{axis_y:.2f}" x2="{positions_x[-1]:.2f}" y2="{axis_y:.2f}" '
+            'stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />'
+        )
+        for x_val, label in tick_specs:
+            svg_lines.append(
+                f'<line x1="{x_val:.2f}" y1="{axis_y:.2f}" x2="{x_val:.2f}" y2="{axis_y + 6:.2f}" '
+                'stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />'
+            )
+            svg_lines.append(
+                f'<text x="{x_val:.2f}" y="{axis_y + 16:.2f}" text-anchor="middle" '
+                'font-size="11" fill="#4a5568">{label}</text>'
+            )
     if low_1y_val is not None:
         y_line = y_for(low_1y_val)
         svg_lines.append(
