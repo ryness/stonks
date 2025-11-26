@@ -1872,7 +1872,7 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
             )
             svg_lines.append(
                 f'<text x="{x_val:.2f}" y="{axis_y + 16:.2f}" text-anchor="middle" '
-                'font-size="11" fill="#4a5568">{label}</text>'
+                f'font-size="11" fill="#4a5568">{label}</text>'
             )
     if low_1y_val is not None:
         y_line = y_for(low_1y_val)
