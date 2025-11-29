@@ -6,7 +6,7 @@ import math
 import sqlite3
 from contextlib import contextmanager
 from pathlib import Path
-from typing import Any, Dict, Mapping, Optional, Tuple, TYPE_CHECKING
+from typing import Any, Dict, Mapping, Optional, Tuple, TYPE_CHECKING, List
 
 if TYPE_CHECKING:  # pragma: no cover - hints only
     import pandas as pd
@@ -171,6 +171,69 @@ class StonksStorage:
                     ON source_runs (started_at DESC);
                 """
             )
+
+    def load_price_bars(self, symbol: str) -> "pd.DataFrame":
+        """Load any cached price bars for a symbol from the database."""
+
+        import pandas as pd
+
+        symbol_upper = symbol.strip().upper()
+        with self._connection() as conn:
+            ticker_row = conn.execute(
+                "SELECT id FROM tickers WHERE symbol = ?",
+                (symbol_upper,),
+            ).fetchone()
+            if not ticker_row:
+                return pd.DataFrame()
+            ticker_id = int(ticker_row["id"])
+            rows: List[sqlite3.Row] = conn.execute(
+                """
+                SELECT trading_day, provider, open, high, low, close, volume, adjusted_close
+                FROM price_bars
+                WHERE ticker_id = ?
+                ORDER BY trading_day ASC
+                """,
+                (ticker_id,),
+            ).fetchall()
+        if not rows:
+            return pd.DataFrame()
+        df = pd.DataFrame(
+            rows,
+            columns=[
+                "trading_day",
+                "provider",
+                "open",
+                "high",
+                "low",
+                "close",
+                "volume",
+                "adjusted_close",
+            ],
+        )
+        try:
+            df["trading_day"] = pd.to_datetime(df["trading_day"])
+            df = df.set_index("trading_day").sort_index()
+        except Exception:
+            df = pd.DataFrame()
+        return df
+
+    def count_price_rows(self, symbol: str) -> int:
+        """Return count of cached price rows for a symbol."""
+
+        symbol_upper = symbol.strip().upper()
+        with self._connection() as conn:
+            ticker_row = conn.execute(
+                "SELECT id FROM tickers WHERE symbol = ?",
+                (symbol_upper,),
+            ).fetchone()
+            if not ticker_row:
+                return 0
+            ticker_id = int(ticker_row["id"])
+            row = conn.execute(
+                "SELECT COUNT(*) AS c FROM price_bars WHERE ticker_id = ?",
+                (ticker_id,),
+            ).fetchone()
+        return int(row["c"]) if row else 0
 
     def start_run(
         self,

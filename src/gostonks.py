@@ -122,6 +122,8 @@ PUBLIC_BASE_URL = f"{SITE_URL}{PUBLIC_BASE_PATH}" if SITE_URL else ""
 
 _run_log: List[str] = []
 STORAGE = StonksStorage(ROOT_DIR / "data/stonks.db")
+NO_API = False
+NO_AI = False
 
 
 @dataclass(frozen=True)
@@ -450,6 +452,8 @@ def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[Li
     cached = _cache_read(cache_key)
     if cached is not None:
         return cached, f"cached {len(cached)} result(s)"
+    if NO_API:
+        return [], "api disabled by noapi flag"
     params = {
         "key": GOOGLE_CSE_API_KEY,
         "cx": GOOGLE_CSE_ENGINE_ID,
@@ -493,6 +497,8 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dic
     cached = _cache_read(cache_key)
     if cached is not None:
         return cached, f"cached {len(cached)} result(s)"
+    if NO_API:
+        return [], "api disabled by noapi flag"
     params = {
         "q": query,
         "pageSize": num,
@@ -538,6 +544,8 @@ def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[
     cached = _cache_read(cache_key)
     if cached is not None:
         return cached, f"cached {len(cached)} result(s)"
+    if NO_API:
+        return [], "api disabled by noapi flag"
     params = {
         "q": query,
         "lang": "en",
@@ -578,6 +586,8 @@ def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Di
     cached = _cache_read(cache_key)
     if cached is not None:
         return cached, f"cached {len(cached)} result(s)"
+    if NO_API:
+        return [], "api disabled by noapi flag"
     params = {
         "q": query,
         "api-key": GUARDIAN_API_KEY,
@@ -644,6 +654,9 @@ def _execute_search_tasks(
     config: PromptConfig,
     extra_placeholders: Optional[Mapping[str, str]] = None,
 ) -> Dict[str, List[Dict[str, Any]]]:
+    if NO_API:
+        log_status("Supplementary searches skipped (noapi flag).")
+        return {}
     tasks: List[Tuple[str, str, str]] = []
     placeholder_values = {
         "ticker": ticker.upper(),
@@ -703,6 +716,9 @@ def _execute_search_tasks(
 
 
 def gather_market_headlines(max_articles: int = 8) -> Tuple[List[Dict[str, Optional[str]]], List[str]]:
+    if NO_API:
+        log_status("Market headlines search skipped (noapi flag).")
+        return [], []
     queries = [
         "US stock market today",
         "S&P 500 futures outlook",
@@ -728,6 +744,8 @@ def gather_market_headlines(max_articles: int = 8) -> Tuple[List[Dict[str, Optio
 def _load_openai_api_key() -> Optional[str]:
     """Return the OpenAI API key from env or repo file."""
 
+    if NO_AI:
+        return None
     api_key = os.getenv("OPENAI_API_KEY") or os.getenv("OPENAI_KEY")
     if api_key:
         api_key = api_key.strip()
@@ -752,6 +770,8 @@ def create_openai_client() -> OpenAI:
 def _load_massive_api_key() -> Optional[str]:
     """Return the Polygon API key from env or repo file, or fall back to the demo key."""
 
+    if NO_API:
+        return None
     api_key = os.getenv("MASSIVE_API_KEY")
     if api_key:
         api_key = api_key.strip()
@@ -1025,7 +1045,68 @@ def fetch_yfinance_histories(ticker_obj: yf.Ticker) -> Dict[str, pd.DataFrame]:
 
 
 def get_price_histories(ticker: str) -> Tuple[Dict[str, pd.DataFrame], str]:
-    """Attempt to fetch prices from massive.com, falling back to yfinance if needed."""
+    """Attempt to fetch prices, preferring cached DB data, then APIs for gaps."""
+
+    def _histories_from_df(df: pd.DataFrame) -> Dict[str, pd.DataFrame]:
+        histories: Dict[str, pd.DataFrame] = {}
+        if df.empty:
+            return histories
+        df_sorted = df.sort_index()
+        # Normalize column names to match yfinance/massive shape.
+        rename_map = {
+            "open": "Open",
+            "high": "High",
+            "low": "Low",
+            "close": "Close",
+            "volume": "Volume",
+            "adjusted_close": "Adj Close",
+        }
+        normalized = df_sorted.rename(columns=rename_map)
+        latest = df_sorted.index.max().date()
+        spans = {
+            "5y": dt.timedelta(days=5 * 365),
+            "1y": dt.timedelta(days=370),
+            "3mo": dt.timedelta(days=120),
+            "10d": dt.timedelta(days=40),
+        }
+        for key, window in spans.items():
+            cutoff = latest - window
+            window_df = normalized[normalized.index.date >= cutoff]
+            if not window_df.empty:
+                histories[key] = window_df.copy()
+        return histories
+
+    cached_df = STORAGE.load_price_bars(ticker)
+    cached_histories = _histories_from_df(cached_df)
+    if cached_histories and not NO_API:
+        log_status(
+            f"Using cached price bars from database (rows={len(cached_df)}, spans={list(cached_histories.keys())})."
+        )
+        # If cached has all spans, return; otherwise try to backfill missing spans with API.
+        if {"5y", "1y", "3mo", "10d"}.issubset(cached_histories.keys()):
+            return cached_histories, "cached"
+        # Otherwise, try to fetch only recent data and merge.
+        last_cached_date = cached_df.index.max().date()
+        overlap_start = last_cached_date - dt.timedelta(days=5)
+        ticker_obj = yf.Ticker(ticker)
+        log_status(f"Fetching incremental yfinance prices from {overlap_start} to today...")
+        incremental = ticker_obj.history(start=overlap_start.isoformat(), interval="1d")
+        if not incremental.empty:
+            incremental = incremental.copy()
+            incremental["provider"] = "yfinance"
+            combined = pd.concat([cached_df, incremental], axis=0)
+            combined = combined[~combined.index.duplicated(keep="last")]
+            merged_histories = _histories_from_df(combined)
+            log_status(f"  merged spans: {list(merged_histories.keys())} (rows={len(combined)})")
+            if {"5y", "1y", "3mo", "10d"}.issubset(merged_histories.keys()):
+                return merged_histories, "cached+yfinance"
+            # Fall through to full fetch if still incomplete.
+
+    if NO_API:
+        if cached_histories:
+            log_status("noapi flag set; using cached price bars only.")
+            return cached_histories, "cached"
+        raise RuntimeError("noapi flag set and no cached price data available.")
 
     api_key = _load_massive_api_key()
     last_error: Optional[Exception] = None
@@ -1034,12 +1115,16 @@ def get_price_histories(ticker: str) -> Tuple[Dict[str, pd.DataFrame], str]:
             log_status("Checking massive.com quota and fetching price history...")
             histories = fetch_massive_histories(ticker, api_key)
             log_status("Price data acquired from massive.com.")
+            for key, df in histories.items():
+                log_status(f"  massive span {key}: {len(df)} rows")
             return histories, "massive.com"
         except Exception as exc:  # Reserve fallback for exhausted quota or other issues.
             last_error = exc
             log_status(f"massive.com request failed ({exc}); switching to yfinance...")
     ticker_obj = yf.Ticker(ticker)
     histories = fetch_yfinance_histories(ticker_obj)
+    for key, df in histories.items():
+        log_status(f"  yfinance span {key}: {len(df)} rows")
     if any(df.empty for df in histories.values()):
         message = (
             f"Failed to obtain price history from massive.com and yfinance for {ticker}."
@@ -1742,7 +1827,10 @@ def _find_low_point(series: pd.Series) -> Optional[Tuple[pd.Timestamp, float]]:
         return None
     try:
         ts = series.idxmin()
-        value = float(series.loc[ts])
+        raw = series.loc[ts]
+        if isinstance(raw, pd.Series):
+            raw = raw.iloc[0]
+        value = float(raw)
     except Exception:
         return None
     if pd.isna(value):
@@ -1765,9 +1853,16 @@ def _extract_close_series(histories: Mapping[str, pd.DataFrame], key: str) -> Op
 def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str]:
     """Render a simple inline SVG sparkline with 1y/5y lows highlighted."""
 
+    def placeholder(message: str = "Chart unavailable – no price data.") -> str:
+        return (
+            '<figure class="price-chart" role="img" aria-label="Price chart unavailable">'
+            f'<div class="chart-unavailable">{html.escape(message)}</div>'
+            "</figure>"
+        )
+
     closes_5y = _extract_close_series(histories, "5y")
     if closes_5y is None:
-        return None
+        return placeholder()
     closes_1y = _extract_close_series(histories, "1y")
     if closes_1y is None:
         # Fallback to the trailing 370 days of the 5y series if a dedicated 1y slice is missing.
@@ -1778,7 +1873,7 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
     low_5y = _find_low_point(closes_5y)
     low_1y = _find_low_point(closes_1y)
     if low_5y is None and low_1y is None:
-        return None
+        return placeholder()
 
     width, height = 720.0, 260.0
     padding = 18.0
@@ -1809,7 +1904,13 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
         if ts is None:
             return None
         if ts in date_index:
-            idx = date_index.get_loc(ts)
+            loc = date_index.get_loc(ts)
+            if isinstance(loc, slice):
+                idx = loc.start
+            elif isinstance(loc, (list, tuple)) and loc:
+                idx = loc[0]
+            else:
+                idx = loc
         else:
             try:
                 idx = int(date_index.get_indexer([ts], method="nearest")[0])
@@ -1871,8 +1972,8 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
                 'stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />'
             )
             svg_lines.append(
-                f'<text x="{x_val:.2f}" y="{axis_y + 16:.2f}" text-anchor="middle" '
-                f'font-size="11" fill="#4a5568">{label}</text>'
+                f'<text x="{x_val:.2f}" y="{axis_y + 12:.2f}" text-anchor="middle" '
+                f'font-size="10" fill="#4a5568" letter-spacing="-0.25px">{label}</text>'
             )
     if low_1y_val is not None:
         y_line = y_for(low_1y_val)
@@ -2012,6 +2113,44 @@ def build_market_quick_facts(
 
 def gather_market_context(prompt_config: PromptConfig) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Collect multi-asset data for the GodsEye aggregate report."""
+
+    if NO_API:
+        log_status("noapi flag set; skipping all market API calls (offline placeholder).")
+        quick_facts = build_market_quick_facts([], prompt_config)
+        quick_fact_map = {meta["label"]: meta["value"] for meta in quick_facts.values()}
+        quick_fact_rows = [
+            {"number": number, "label": data["label"], "value": data["value"]}
+            for number, data in quick_facts.items()
+        ]
+        prompt_notes = _collect_prompt_notes(prompt_config)
+        context = {
+            "ticker": GODSEYE_TICKER,
+            "company": {
+                "long_name": "GodsEye Market Monitor (offline)",
+                "sector": "Macro Overview",
+                "industry": "Multi-asset",
+                "summary": "Offline run with no API data (noapi flag).",
+            },
+            "market_metrics": [],
+            "market_health": {},
+            "market_notes": {"missing_series": []},
+            "news": [],
+            "news_source": "offline (noapi)",
+            "quick_facts": quick_fact_map,
+            "quick_fact_rows": quick_fact_rows,
+            "search_results": {},
+            "prompt_notes": prompt_notes,
+            "data_sources": ["offline: noapi flag"],
+            "price_data_source": "offline",
+            "price_snapshot": {},
+            "buy_sell_levels": {},
+            "volume_assessment": {},
+            "volatility_assessment": {},
+            "massive_technicals": {},
+            "market_prediction_window_hours": 24,
+        }
+        storage_payload = {"histories": {}, "latest_trading_day": None, "price_source": "offline"}
+        return context, storage_payload
 
     log_status("Collecting benchmark performance for GodsEye...")
     metrics: List[Dict[str, Any]] = []
@@ -2238,11 +2377,23 @@ def select_recent_headlines(
 
 def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, Any], Dict[str, Any]]:
     """Collect pricing, fundamentals, and news data for the LLM and storage."""
-
     log_status("Gathering market data...")
     ticker_upper = ticker.upper()
     massive_api_key = _load_massive_api_key()
-    histories, price_source = get_price_histories(ticker)
+    try:
+        histories, price_source = get_price_histories(ticker)
+    except Exception as exc:
+        if NO_API:
+            log_status(f"noapi flag set and no cached price data available: {exc}")
+            histories = {
+                "10d": pd.DataFrame(),
+                "3mo": pd.DataFrame(),
+                "1y": pd.DataFrame(),
+                "5y": pd.DataFrame(),
+            }
+            price_source = "offline"
+        else:
+            raise
     hist_10d = histories["10d"]
     if hist_10d.empty:
         raise RuntimeError("No historical price data returned.")
@@ -2253,55 +2404,73 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
         latest_session_date = str(latest_session_ts)
     else:
         latest_session_date = None
-    open_close_snapshot = (
-        fetch_massive_open_close(ticker, latest_session_date, massive_api_key)
-        if latest_session_date
-        else None
-    )
-    previous_close_snapshot = fetch_massive_previous_close(ticker, massive_api_key)
-    indicator_payloads = fetch_massive_indicators(ticker, massive_api_key)
+    if NO_API:
+        open_close_snapshot = None
+        previous_close_snapshot = None
+        indicator_payloads = {}
+    else:
+        open_close_snapshot = (
+            fetch_massive_open_close(ticker, latest_session_date, massive_api_key)
+            if latest_session_date
+            else None
+        )
+        previous_close_snapshot = fetch_massive_previous_close(ticker, massive_api_key)
+        indicator_payloads = fetch_massive_indicators(ticker, massive_api_key)
     log_status("Calculating technical snapshot...")
     snapshot = compute_price_snapshot(hist_10d)
     log_status("Fetching company profile (massive.com)...")
-    massive_profile = fetch_massive_company_profile(ticker, massive_api_key)
-    if massive_profile:
-        logo_local_path = cache_massive_logo(ticker, massive_profile.get("logo_url"), massive_api_key)
-        massive_profile["logo_path"] = logo_local_path
-    related_companies = fetch_massive_related_companies(ticker, massive_api_key)
+    if NO_API:
+        massive_profile = None
+        related_companies: List[str] = []
+    else:
+        massive_profile = fetch_massive_company_profile(ticker, massive_api_key)
+        if massive_profile:
+            logo_local_path = cache_massive_logo(ticker, massive_profile.get("logo_url"), massive_api_key)
+            massive_profile["logo_path"] = logo_local_path
+        related_companies = fetch_massive_related_companies(ticker, massive_api_key)
     log_status("Fetching company fundamentals...")
     ticker_obj = yf.Ticker(ticker)
     info = ticker_obj.info or {}
     financial_metrics = extract_financial_metrics(info, ticker_obj)
     log_status("Retrieving earnings calendar...")
-    massive_calendar = fetch_massive_earnings_calendar(ticker, massive_api_key)
-    if massive_calendar:
-        earnings_calendar = massive_calendar
-        earnings_calendar_source = "massive.com"
-    else:
+    if NO_API:
         earnings_calendar = fetch_yfinance_earnings_calendar(ticker_obj)
         earnings_calendar_source = "yfinance"
+    else:
+        massive_calendar = fetch_massive_earnings_calendar(ticker, massive_api_key)
+        if massive_calendar:
+            earnings_calendar = massive_calendar
+            earnings_calendar_source = "massive.com"
+        else:
+            earnings_calendar = fetch_yfinance_earnings_calendar(ticker_obj)
+            earnings_calendar_source = "yfinance"
     log_status("Assembling quick facts...")
     quick_facts = build_quick_facts(snapshot, histories, financial_metrics, prompt_config)
     price_low_lines_chart = build_low_lines_chart(histories)
-    log_status("Collecting latest headlines (massive.com)...")
-    news_items = fetch_massive_news(ticker, massive_api_key)
-    massive_news_note: Optional[str] = None
-    if not massive_api_key:
-        massive_news_note = "headlines skipped (missing API key)"
-    if news_items:
-        log_status(f"  massive.com returned {len(news_items)} headlines")
-        news_source = "massive.com"
-    else:
-        log_status("  massive.com returned no headlines; falling back to yfinance.")
+    if NO_API:
         news_items = collect_news(ticker_obj)
-        log_status(f"  yfinance returned {len(news_items)} headlines")
         news_source = "yfinance"
-        if massive_api_key and massive_news_note is None:
-            massive_news_note = "headlines (none)"
-    filtered_news = _exclude_banned_sources(news_items)
-    if len(filtered_news) != len(news_items):
-        log_status(f"Filtered {len(news_items) - len(filtered_news)} headline(s) from banned sources.")
-    news_items = filtered_news
+        massive_news_note = "headlines skipped (noapi)"
+    else:
+        log_status("Collecting latest headlines (massive.com)...")
+        news_items = fetch_massive_news(ticker, massive_api_key)
+        massive_news_note: Optional[str] = None
+        if not massive_api_key:
+            massive_news_note = "headlines skipped (missing API key)"
+        if news_items:
+            log_status(f"  massive.com returned {len(news_items)} headlines")
+            news_source = "massive.com"
+        else:
+            log_status("  massive.com returned no headlines; falling back to yfinance.")
+            news_items = collect_news(ticker_obj)
+            log_status(f"  yfinance returned {len(news_items)} headlines")
+            news_source = "yfinance"
+            if massive_api_key and massive_news_note is None:
+                massive_news_note = "headlines (none)"
+        filtered_news = _exclude_banned_sources(news_items)
+        if len(filtered_news) != len(news_items):
+            log_status(f"Filtered {len(news_items) - len(filtered_news)} headline(s) from banned sources.")
+        news_items = filtered_news
     company_name = (massive_profile or {}).get("name") or info.get("longName") or ticker_upper
     latest_news = select_recent_headlines(news_items, ticker=ticker_upper, company_name=company_name, days=3, limit=3)
     log_status("Running supplementary searches...")
@@ -2475,6 +2644,20 @@ def _extract_json_object(raw_text: str) -> Dict[str, Any]:
 
 def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, Any]:
     """Invoke GPT-5 and obtain structured answers for targeted bullets."""
+
+    if NO_AI:
+        log_status("LLM/OpenAI call skipped (noai flag); synthesizing placeholder answers.")
+        answers: Dict[str, Any] = {}
+        for task in prompt_config.llm_tasks:
+            if not task.llm:
+                continue
+            instruction = task.llm
+            placeholder = "analysis unavailable (noai flag enabled)"
+            if instruction.response_type == "paragraphs":
+                answers[task.number] = [placeholder]
+            else:
+                answers[task.number] = placeholder
+        return answers
 
     log_status("Preparing OpenAI request...")
     client = create_openai_client()
@@ -2756,9 +2939,19 @@ def write_jekyll_report(
 def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     """Configure command-line arguments for the report generator."""
 
+    # VS Code launches can pass a single combined string; split it before argparse sees it.
+    raw_args = list(argv) if argv is not None else sys.argv[1:]
+    if len(raw_args) == 1 and isinstance(raw_args[0], str) and " " in raw_args[0]:
+        raw_args = raw_args[0].split()
+
     parser = argparse.ArgumentParser(description="Generate a Jekyll-ready GPT-5 stock report.")
     parser.add_argument("target", nargs="?", help="Ticker symbol to analyze (or 'GodsEye')")
-    return parser.parse_args(argv)
+    parser.add_argument(
+        "flags",
+        nargs="*",
+        help="Optional flags: noai (disable OpenAI), noapi (disable external search/news and Massive APIs)",
+    )
+    return parser.parse_args(raw_args)
 
 
 def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None:
@@ -2804,12 +2997,14 @@ def generate_report_for_ticker(ticker: str, prompt_config: PromptConfig) -> None
             output_path,
             title=report_title,
         )
-        log_status("Persisting structured data snapshot...")
+        histories_for_storage = storage_payload.get("histories") or {}
+        total_rows = sum(len(df) for df in histories_for_storage.values() if hasattr(df, "__len__"))
+        log_status(f"Persisting structured data snapshot (price rows={total_rows})...")
         STORAGE.persist_run_data(
             run_id=run_id,
             symbol=ticker_clean,
             company=context.get("company") or {},
-            histories=storage_payload.get("histories") or {},
+            histories=histories_for_storage,
             price_provider=storage_payload.get("price_source") or context.get("price_data_source") or "unknown",
             latest_trading_day=storage_payload.get("latest_trading_day"),
             context=context,
@@ -2829,6 +3024,14 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     """Entry point that generates and writes the Markdown report."""
 
     args = parse_args(argv)
+    flags = {flag.strip().lower() for flag in getattr(args, "flags", []) if flag}
+    global NO_API, NO_AI
+    NO_AI = "noai" in flags
+    NO_API = "noapi" in flags
+    if NO_API:
+        log_status("API calls disabled via 'noapi' flag (search/news & Massive).")
+    if NO_AI:
+        log_status("LLM/OpenAI disabled via 'noai' flag.")
     target = (args.target or "").strip()
     if target:
         ticker = target.upper()

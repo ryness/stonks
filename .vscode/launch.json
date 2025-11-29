@@ -23,7 +23,7 @@
       "request": "launch",
       "program": "${workspaceFolder}/src/gostonks.py",
       "args": [
-        "${input:gostonksTicker}"
+        "${input:gostonksTargetLine}"
       ],
       "console": "integratedTerminal",
       "justMyCode": false,
@@ -32,9 +32,9 @@
   ],
   "inputs": [
     {
-      "id": "gostonksTicker",
+      "id": "gostonksTargetLine",
       "type": "promptString",
-      "description": "Ticker symbol to refresh (e.g. AAPL, GODSEYE)",
+      "description": "Ticker and optional flags (e.g. AAPL, AAPL noai, AAPL noapi, AAPL noai noapi)",
       "default": "AAPL"
     }
   ]
