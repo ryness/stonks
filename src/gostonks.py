@@ -1926,13 +1926,22 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
     if not date_index.empty:
         start_dt = date_index.min().to_pydatetime()
         end_dt = date_index.max().to_pydatetime()
+        raw_ticks: List[Tuple[pd.Timestamp, float, str]] = []
         for ts in pd.date_range(start=start_dt, end=end_dt, freq="QS"):
             x_val = x_for_timestamp(ts)
             if x_val is None:
                 continue
             label = ts.strftime("%Y") if ts.month == 1 else ts.strftime("%b")
-            if tick_specs and x_val - tick_specs[-1][0] < 28:
+            if raw_ticks and x_val - raw_ticks[-1][1] < 28:
                 continue
+            raw_ticks.append((ts, x_val, label))
+        seen_years: set[int] = set()
+        for ts, x_val, label in raw_ticks:
+            year = ts.year
+            if ts.month != 1 and year not in seen_years:
+                label = f"{label} {year}"
+            if any(ch.isdigit() for ch in label):
+                seen_years.add(year)
             tick_specs.append((x_val, label))
 
     low_1y_ts: Optional[pd.Timestamp]
@@ -1973,13 +1982,8 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
                 'stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />'
             )
             svg_lines.append(
-<<<<<<< HEAD
                 f'<text x="{x_val:.2f}" y="{axis_y + 12:.2f}" text-anchor="middle" '
-                f'font-size="10" fill="#4a5568" letter-spacing="-0.25px">{label}</text>'
-=======
-                f'<text x="{x_val:.2f}" y="{axis_y + 16:.2f}" text-anchor="middle" '
-                f'font-size="3" fill="#4a5568">{label}</text>'
->>>>>>> 1954b3f6d2a0d902f7b1fe0028a6854813c1da30
+                f'font-size="9" fill="#4a5568" letter-spacing="-0.1px">{label}</text>'
             )
     if low_1y_val is not None:
         y_line = y_for(low_1y_val)
