@@ -3,10 +3,12 @@ layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
 date: 2025-11-29
-generated_at: 2025-11-29T16:47:59.030162+00:00
-runtime_seconds: 38.08
+generated_at: 2025-11-29T22:21:36.623876+00:00
+runtime_seconds: 28.28
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-29T16:47:59.030162+00:00">2025-11-29 16:47 UTC</time> (runtime 38.08s)
+  **Generated:** <time class="js-local-time" datetime="2025-11-29T22:21:36.623876+00:00">2025-11-29 22:21 UTC</time> (runtime 28.28s)
+  
+  ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -15,45 +17,45 @@ raw_markdown: |
   <polygon points="18.00,238.68 18.55,233.85 19.09,233.37 19.64,233.56 20.18,234.46 20.73,232.49 21.27,231.66 21.82,235.08 22.36,233.16 22.91,234.25 23.45,235.08 24.00,227.04 24.54,227.14 25.09,225.96 25.63,228.65 26.18,226.58 26.72,221.77 27.27,222.98 27.81,221.65 28.36,215.43 28.90,217.83 29.45,219.34 29.99,220.70 30.54,225.03 31.08,222.92 31.63,228.73 32.17,223.04 32.72,221.55 33.26,225.59 33.81,225.83 34.35,223.07 34.90,225.69 35.44,228.02 35.99,227.11 36.53,221.57 37.08,215.19 37.62,212.29 38.17,207.22 38.71,206.90 39.26,208.35 39.80,214.90 40.35,221.66 40.89,218.79 41.44,217.67 41.98,219.05 42.53,214.51 43.07,215.07 43.62,214.87 44.16,216.06 44.71,216.88 45.25,217.22 45.80,216.90 46.34,219.78 46.89,222.88 47.43,224.37 47.98,224.16 48.52,229.27 49.07,229.46 49.61,230.13 50.16,235.89 50.70,235.53 51.25,226.91 51.79,230.43 52.34,234.47 52.88,237.02 53.43,235.32 53.97,242.00 54.52,235.76 55.06,237.22 55.61,234.61 56.15,235.83 56.70,231.93 57.24,229.84 57.79,230.91 58.33,236.49 58.88,237.21 59.42,232.72 59.97,233.84 60.51,237.08 61.06,236.42 61.60,235.60 62.15,235.36 62.69,237.33 63.24,234.36 63.78,233.23 64.33,229.40 64.87,229.00 65.42,226.76 65.96,223.52 66.51,220.03 67.05,222.35 67.60,218.14 68.14,221.31 68.69,218.05 69.23,218.50 69.78,217.60 70.32,219.89 70.87,219.37 71.41,221.43 71.96,218.29 72.50,217.76 73.05,218.20 73.59,219.27 74.14,219.40 74.68,222.06 75.23,220.64 75.77,226.83 76.32,226.50 76.86,224.34 77.41,223.42 77.95,227.87 78.50,229.11 79.04,233.26 79.59,230.35 80.13,227.07 80.68,228.63 81.22,230.51 81.77,230.72 82.31,227.26 82.86,229.74 83.40,227.54 83.95,227.80 84.49,227.87 85.04,229.94 85.58,230.83 86.13,231.27 86.67,230.23 87.22,232.24 87.76,229.14 88.31,229.12 88.85,228.01 89.40,227.50 89.94,228.84 90.49,227.21 91.03,223.07 91.58,224.18 92.12,223.50 92.67,221.33 93.21,223.09 93.76,220.66 94.30,218.44 94.85,218.81 95.39,219.19 95.94,219.59 96.48,217.38 97.03,215.33 97.57,214.50 98.12,214.09 98.66,210.53 99.21,207.80 99.75,204.43 100.30,206.19 100.84,203.72 101.39,204.52 101.93,203.02 102.48,198.38 103.02,199.26 103.57,202.03 104.11,207.24 104.66,202.34 105.20,203.33 105.75,201.48 106.29,199.16 106.84,198.59 107.38,201.52 107.93,203.89 108.47,203.02 109.02,202.73 109.56,203.18 110.11,200.74 110.65,201.28 111.20,201.14 111.74,202.07 112.29,202.13 112.83,202.78 113.38,202.44 113.92,198.42 114.47,198.15 115.01,195.47 115.56,196.70 116.10,201.77 116.65,201.32 117.19,199.35 117.74,197.34 118.28,197.46 118.83,199.13 119.37,200.21 119.92,198.81 120.46,192.82 121.01,194.53 121.55,193.63 122.10,192.12 122.64,191.26 123.19,188.09 123.73,190.19 124.28,191.56 124.82,198.32 125.37,197.55 125.91,199.44 126.46,198.24 127.00,198.56 127.55,202.17 128.09,206.30 128.64,205.66 129.18,202.45 129.73,201.15 130.27,201.03 130.82,203.09 131.36,207.67 131.91,206.45 132.45,208.21 133.00,206.69 133.54,211.34 134.09,208.73 134.63,207.55 135.18,205.84 135.72,206.36 136.27,206.48 136.81,208.20 137.36,208.99 137.90,205.22 138.45,203.79 138.99,201.52 139.54,198.60 140.08,197.93 140.63,197.64 141.17,198.69 141.72,198.76 142.26,197.85 142.81,198.48 143.35,193.55 143.90,197.22 144.44,198.33 144.99,196.93 145.53,194.98 146.08,195.68 146.62,194.97 147.17,196.08 147.71,195.59 148.26,199.42 148.80,199.49 149.35,196.68 149.89,196.66 150.44,195.34 150.98,192.03 151.53,186.23 152.07,182.67 152.62,182.05 153.16,181.53 153.71,180.83 154.25,187.63 154.80,183.08 155.35,176.37 155.89,177.07 156.44,178.41 156.98,180.96 157.53,176.34 158.07,168.57 158.62,163.40 159.16,164.09 159.71,157.60 160.25,162.52 160.80,164.39 161.34,157.80 161.89,167.14 162.43,168.62 162.98,170.47 163.52,166.17 164.07,162.66 164.61,161.81 165.16,156.43 165.70,157.81 166.25,157.69 166.79,159.26 167.34,160.10 167.88,154.21 168.43,157.27 168.97,163.61 169.52,167.48 170.06,167.26 170.61,167.23 171.15,163.40 171.70,162.80 172.24,167.23 172.79,166.06 173.33,170.40 173.88,175.14 174.42,177.42 174.97,180.20 175.51,181.25 176.06,183.69 176.60,183.81 177.15,184.43 177.69,169.70 178.24,163.80 178.78,164.02 179.33,162.39 179.87,166.29 180.42,166.67 180.96,167.64 181.51,163.43 182.05,161.51 182.60,167.03 183.14,171.66 183.69,171.34 184.23,166.14 184.78,166.46 185.32,171.34 185.87,173.43 186.41,177.39 186.96,183.04 187.50,179.49 188.05,176.69 188.59,176.33 189.14,178.88 189.68,174.42 190.23,174.86 190.77,178.92 191.32,184.06 191.86,186.53 192.41,179.21 192.95,185.10 193.50,190.13 194.04,195.59 194.59,189.65 195.13,183.67 195.68,182.31 196.22,177.84 196.77,175.98 197.31,171.42 197.86,169.57 198.40,164.44 198.95,163.58 199.49,162.41 200.04,157.95 200.58,159.53 201.13,163.73 201.67,164.12 202.22,158.64 202.76,163.13 203.31,167.42 203.85,167.01 204.40,169.73 204.94,175.49 205.49,172.96 206.03,169.32 206.58,176.10 207.12,176.40 207.67,173.30 208.21,173.53 208.76,174.60 209.30,180.75 209.85,179.30 210.39,187.38 210.94,187.68 211.48,178.30 212.03,186.25 212.57,185.84 213.12,183.82 213.66,175.13 214.21,187.42 214.75,186.44 215.30,193.38 215.84,190.12 216.39,200.77 216.93,206.01 217.48,199.96 218.02,202.05 218.57,197.13 219.11,208.33 219.66,212.94 220.20,212.62 220.75,205.28 221.29,208.94 221.84,208.73 222.38,204.39 222.93,196.60 223.47,197.66 224.02,197.83 224.56,194.51 225.11,202.26 225.65,201.25 226.20,197.83 226.74,198.83 227.29,205.91 227.83,213.24 228.38,220.22 228.92,219.05 229.47,215.50 230.01,222.64 230.56,220.64 231.10,214.91 231.65,215.60 232.19,211.72 232.74,207.21 233.28,207.21 233.83,212.82 234.37,210.44 234.92,213.78 235.46,210.84 236.01,207.34 236.55,205.53 237.10,200.97 237.64,200.05 238.19,202.94 238.73,201.62 239.28,202.12 239.82,198.15 240.37,195.89 240.91,200.01 241.46,194.79 242.00,192.07 242.55,189.00 243.09,190.68 243.64,192.19 244.18,193.99 244.73,187.09 245.27,186.34 245.82,179.48 246.36,180.81 246.91,182.80 247.45,174.66 248.00,175.09 248.54,175.40 249.09,176.04 249.63,175.97 250.18,170.22 250.72,171.21 251.27,166.41 251.81,164.95 252.36,165.17 252.90,163.14 253.45,163.68 253.99,167.18 254.54,172.44 255.08,172.89 255.63,172.49 256.17,169.16 256.72,177.70 257.26,180.68 257.81,183.97 258.35,186.22 258.90,185.24 259.44,188.10 259.99,189.81 260.53,187.90 261.08,189.90 261.62,186.02 262.17,177.95 262.71,190.73 263.26,188.77 263.80,192.68 264.35,194.91 264.89,189.87 265.44,186.65 265.98,190.89 266.53,192.19 267.07,195.27 267.62,194.82 268.16,193.50 268.71,196.05 269.25,205.86 269.80,211.56 270.34,205.90 270.89,201.03 271.43,200.64 271.98,201.93 272.52,209.04 273.07,208.60 273.61,210.52 274.16,211.37 274.70,205.18 275.25,211.32 275.79,205.95 276.34,204.16 276.88,204.02 277.43,204.64 277.97,199.48 278.52,196.57 279.06,192.72 279.61,196.71 280.15,202.77 280.70,188.20 281.24,191.39 281.79,194.97 282.33,202.46 282.88,210.65 283.42,211.01 283.97,210.29 284.51,209.52 285.06,215.69 285.60,199.68 286.15,195.91 286.69,197.80 287.24,195.46 287.78,197.12 288.33,194.55 288.87,193.79 289.42,198.16 289.96,195.27 290.51,194.08 291.05,198.03 291.60,203.22 292.15,207.29 292.69,198.14 293.24,197.76 293.78,198.43 294.33,200.01 294.87,204.97 295.42,207.60 295.96,205.31 296.51,205.97 297.05,202.86 297.60,201.55 298.14,204.57 298.69,213.52 299.23,216.17 299.78,219.03 300.32,219.12 300.87,214.92 301.41,219.22 301.96,219.71 302.50,222.15 303.05,227.47 303.59,222.71 304.14,222.28 304.68,228.77 305.23,227.05 305.77,228.83 306.32,222.70 306.86,221.99 307.41,221.22 307.95,217.53 308.50,217.64 309.04,215.84 309.59,214.27 310.13,215.24 310.68,215.16 311.22,211.69 311.77,207.37 312.31,205.47 312.86,206.37 313.40,203.57 313.95,200.94 314.49,204.85 315.04,203.13 315.58,201.61 316.13,194.42 316.67,189.51 317.22,193.20 317.76,189.31 318.31,192.95 318.85,194.35 319.40,193.85 319.94,190.06 320.49,190.93 321.03,188.08 321.58,190.25 322.12,191.80 322.67,197.23 323.21,196.66 323.76,196.01 324.30,199.60 324.85,197.98 325.39,198.66 325.94,201.47 326.48,200.67 327.03,193.83 327.57,190.09 328.12,193.07 328.66,191.37 329.21,194.42 329.75,197.21 330.30,194.58 330.84,191.74 331.39,191.21 331.93,187.39 332.48,188.52 333.02,185.32 333.57,182.80 334.11,184.74 334.66,183.27 335.20,181.51 335.75,184.14 336.29,184.98 336.84,180.81 337.38,178.69 337.93,175.30 338.47,173.60 339.02,174.32 339.56,176.82 340.11,175.62 340.65,179.13 341.20,180.77 341.74,181.71 342.29,174.41 342.83,174.88 343.38,174.85 343.92,173.20 344.47,171.65 345.01,172.96 345.56,175.14 346.10,174.72 346.65,176.81 347.19,176.82 347.74,170.61 348.28,168.91 348.83,169.03 349.37,170.43 349.92,171.89 350.46,174.11 351.01,163.71 351.55,163.80 352.10,166.12 352.64,163.72 353.19,163.47 353.73,164.73 354.28,165.40 354.82,165.40 355.37,164.57 355.91,161.41 356.46,161.26 357.00,162.55 357.55,166.08 358.09,165.71 358.64,164.17 359.18,160.90 359.73,158.40 360.27,158.47 360.82,154.67 361.36,153.52 361.91,155.35 362.45,155.84 363.00,157.70 363.54,154.02 364.09,153.50 364.63,149.72 365.18,150.36 365.72,149.50 366.27,146.75 366.81,148.20 367.36,148.08 367.90,149.49 368.45,145.42 368.99,145.85 369.54,147.74 370.08,144.00 370.63,142.41 371.17,141.96 371.72,136.10 372.26,138.12 372.81,139.63 373.35,138.99 373.90,140.50 374.44,143.27 374.99,143.98 375.53,141.72 376.08,140.69 376.62,140.48 377.17,136.07 377.71,136.42 378.26,134.58 378.80,137.22 379.35,138.81 379.89,137.73 380.44,136.56 380.98,135.39 381.53,137.10 382.07,133.61 382.62,132.78 383.16,133.90 383.71,137.96 384.25,139.84 384.80,152.12 385.34,156.33 385.89,155.05 386.43,157.21 386.98,157.50 387.52,157.42 388.07,155.19 388.61,157.88 389.16,159.06 389.70,162.50 390.25,161.84 390.79,160.04 391.34,158.17 391.88,152.96 392.43,159.31 392.97,156.32 393.52,154.21 394.06,148.94 394.61,144.21 395.15,143.92 395.70,141.79 396.24,141.47 396.79,150.56 397.33,157.73 397.88,156.90 398.42,155.32 398.97,159.42 399.51,162.22 400.06,160.17 400.60,161.15 401.15,157.18 401.69,155.71 402.24,160.50 402.78,162.59 403.33,161.44 403.87,159.71 404.42,165.23 404.96,167.28 405.51,166.94 406.05,166.24 406.60,162.84 407.14,164.64 407.69,162.96 408.23,161.28 408.78,157.82 409.32,155.82 409.87,156.62 410.41,154.73 410.96,153.51 411.50,156.00 412.05,156.18 412.59,158.28 413.14,160.04 413.68,160.54 414.23,164.00 414.77,163.84 415.32,163.25 415.86,166.39 416.41,172.03 416.95,170.24 417.50,167.47 418.04,166.83 418.59,162.54 419.13,157.72 419.68,158.95 420.22,155.49 420.77,152.02 421.31,150.59 421.86,151.23 422.40,145.56 422.95,147.70 423.49,144.16 424.04,143.40 424.58,141.12 425.13,141.14 425.67,138.78 426.22,139.87 426.76,138.97 427.31,140.77 427.85,141.01 428.40,140.19 428.95,141.57 429.49,140.80 430.04,139.07 430.58,141.49 431.13,136.14 431.67,137.62 432.22,135.00 432.76,133.07 433.31,136.46 433.85,134.41 434.40,130.05 434.94,129.85 435.49,130.57 436.03,132.83 436.58,131.42 437.12,134.25 437.67,134.45 438.21,135.90 438.76,136.64 439.30,136.50 439.85,135.93 440.39,137.33 440.94,146.58 441.48,148.44 442.03,151.58 442.57,152.56 443.12,146.69 443.66,147.25 444.21,145.84 444.75,146.65 445.30,146.20 445.84,149.27 446.39,150.55 446.93,142.57 447.48,138.64 448.02,135.51 448.57,133.78 449.11,134.69 449.66,135.13 450.20,137.48 450.75,138.41 451.29,143.36 451.84,148.24 452.38,144.94 452.93,146.30 453.47,143.84 454.02,141.67 454.56,141.52 455.11,142.98 455.65,141.95 456.20,144.23 456.74,147.07 457.29,148.26 457.83,148.65 458.38,150.73 458.92,151.74 459.47,150.72 460.01,147.97 460.56,150.45 461.10,152.28 461.65,150.30 462.19,151.93 462.74,152.83 463.28,154.29 463.83,160.42 464.37,167.11 464.92,168.45 465.46,168.61 466.01,166.29 466.55,163.57 467.10,162.93 467.64,165.75 468.19,163.24 468.73,163.75 469.28,162.27 469.82,159.10 470.37,155.62 470.91,165.43 471.46,164.21 472.00,166.13 472.55,167.66 473.09,162.82 473.64,165.28 474.18,167.23 474.73,168.83 475.27,167.74 475.82,168.85 476.36,167.83 476.91,169.35 477.45,167.71 478.00,170.25 478.54,160.50 479.09,158.47 479.63,163.66 480.18,168.10 480.72,169.96 481.27,171.24 481.81,173.99 482.36,172.86 482.90,171.43 483.45,168.59 483.99,167.42 484.54,168.21 485.08,162.57 485.63,166.83 486.17,168.21 486.72,163.20 487.26,149.30 487.81,151.54 488.35,150.61 488.90,150.16 489.44,147.70 489.99,149.41 490.53,145.06 491.08,143.51 491.62,140.43 492.17,140.27 492.71,140.23 493.26,138.66 493.80,136.90 494.35,138.85 494.89,144.25 495.44,140.08 495.98,140.07 496.53,139.67 497.07,138.32 497.62,137.03 498.16,134.64 498.71,134.21 499.25,132.16 499.80,134.03 500.34,130.79 500.89,135.86 501.43,116.99 501.98,109.03 502.52,107.45 503.07,109.81 503.61,104.18 504.16,107.39 504.70,113.59 505.25,116.53 505.79,115.66 506.34,114.41 506.88,108.78 507.43,107.64 507.97,112.32 508.52,104.08 509.06,99.34 509.61,97.62 510.15,91.18 510.70,89.19 511.24,88.03 511.79,82.25 512.33,89.52 512.88,85.53 513.42,80.34 513.97,79.77 514.51,87.76 515.06,94.08 515.60,93.91 516.15,94.38 516.69,92.97 517.24,101.67 517.78,103.08 518.33,102.45 518.87,102.07 519.42,101.32 519.96,96.91 520.51,101.91 521.05,99.89 521.60,114.14 522.14,116.88 522.69,113.40 523.23,108.70 523.78,104.76 524.32,102.69 524.87,97.65 525.41,97.05 525.96,93.01 526.50,91.22 527.05,91.43 527.59,90.60 528.14,90.74 528.68,93.26 529.23,90.15 529.77,89.69 530.32,88.55 530.86,90.62 531.41,86.18 531.95,87.24 532.50,95.63 533.04,98.22 533.59,96.16 534.13,98.26 534.68,98.14 535.22,99.21 535.77,95.78 536.31,95.63 536.86,96.00 537.40,104.32 537.95,103.69 538.49,98.43 539.04,87.42 539.58,88.32 540.13,90.65 540.67,89.44 541.22,90.78 541.76,89.24 542.31,88.87 542.85,81.86 543.40,91.00 543.94,90.23 544.49,91.73 545.03,90.21 545.58,97.09 546.12,91.59 546.67,86.52 547.21,87.19 547.76,89.20 548.30,84.15 548.85,80.71 549.39,83.50 549.94,83.00 550.48,79.16 551.03,77.17 551.57,78.01 552.12,84.87 552.66,85.13 553.21,84.00 553.75,81.32 554.30,80.95 554.84,85.76 555.39,91.40 555.93,95.44 556.48,96.66 557.02,94.72 557.57,95.70 558.11,89.29 558.66,89.65 559.20,93.33 559.75,93.33 560.29,92.13 560.84,87.96 561.38,92.30 561.93,88.22 562.47,87.87 563.02,86.90 563.56,87.55 564.11,85.73 564.65,81.69 565.20,78.73 565.75,78.91 566.29,75.67 566.84,72.63 567.38,68.50 567.93,68.02 568.47,67.98 569.02,68.25 569.56,62.97 570.11,61.60 570.65,63.33 571.20,61.34 571.74,61.11 572.29,57.19 572.83,53.90 573.38,61.22 573.92,58.88 574.47,52.54 575.01,51.49 575.56,47.54 576.10,46.43 576.65,51.06 577.19,55.63 577.74,58.03 578.28,66.88 578.83,67.54 579.37,65.33 579.92,69.10 580.46,68.43 581.01,76.32 581.55,79.62 582.10,81.13 582.64,74.95 583.19,87.90 583.73,85.58 584.28,95.48 584.82,93.87 585.37,94.10 585.91,95.29 586.46,85.74 587.00,74.42 587.55,72.94 588.09,75.32 588.64,77.47 589.18,88.24 589.73,81.78 590.27,82.23 590.82,81.21 591.36,88.75 591.91,88.39 592.45,81.68 593.00,75.94 593.54,69.65 594.09,65.51 594.63,65.69 595.18,65.15 595.72,63.85 596.27,64.23 596.81,62.14 597.36,62.22 597.90,71.23 598.45,75.36 598.99,69.24 599.54,74.38 600.08,77.21 600.63,77.47 601.17,78.02 601.72,72.97 602.26,88.62 602.81,97.58 603.35,102.79 603.90,112.64 604.44,107.50 604.99,106.81 605.53,108.58 606.08,105.13 606.62,106.67 607.17,101.05 607.71,97.73 608.26,93.65 608.80,96.65 609.35,93.51 609.89,101.54 610.44,95.84 610.98,94.41 611.53,93.46 612.07,121.40 612.62,141.38 613.16,150.72 613.71,162.92 614.25,127.25 614.80,138.63 615.34,128.20 615.89,122.30 616.43,122.81 616.98,133.44 617.52,129.78 618.07,134.93 618.61,126.05 619.16,119.49 619.70,114.41 620.25,113.18 620.79,112.02 621.34,110.57 621.88,108.83 622.43,107.73 622.97,118.48 623.52,127.20 624.06,127.71 624.61,130.76 625.15,129.09 625.70,127.69 626.24,110.77 626.79,107.88 627.33,108.69 627.88,109.88 628.42,110.13 628.97,113.48 629.51,116.08 630.06,122.52 630.60,123.51 631.15,131.74 631.69,125.06 632.24,124.78 632.78,125.42 633.33,124.20 633.87,123.05 634.42,120.93 634.96,121.54 635.51,124.50 636.05,120.05 636.60,123.39 637.14,121.74 637.69,127.00 638.23,126.43 638.78,130.15 639.32,127.48 639.87,131.24 640.41,129.97 640.96,124.00 641.50,123.32 642.05,124.94 642.59,123.24 643.14,124.00 643.68,123.89 644.23,118.36 644.77,114.78 645.32,108.54 645.86,107.04 646.41,111.90 646.95,111.82 647.50,110.29 648.04,108.58 648.59,110.27 649.13,113.70 649.68,113.04 650.22,111.62 650.77,111.81 651.31,110.24 651.86,108.48 652.40,105.89 652.95,106.23 653.49,106.75 654.04,106.59 654.58,106.36 655.13,110.12 655.67,113.12 656.22,115.12 656.76,122.13 657.31,120.82 657.85,121.40 658.40,107.44 658.94,98.28 659.49,85.69 660.03,88.27 660.58,84.93 661.12,79.95 661.67,80.69 662.21,82.30 662.76,83.25 663.30,83.70 663.85,89.85 664.39,91.35 664.94,87.49 665.48,88.30 666.03,85.39 666.57,83.79 667.12,80.99 667.66,81.56 668.21,84.83 668.75,73.00 669.30,71.22 669.84,71.35 670.39,73.79 670.93,78.57 671.48,88.80 672.02,84.41 672.57,78.95 673.11,75.39 673.66,73.43 674.20,72.29 674.75,73.79 675.29,63.48 675.84,49.17 676.38,51.40 676.93,54.27 677.47,48.10 678.02,50.01 678.56,51.40 679.11,51.13 679.65,50.02 680.20,47.75 680.74,46.55 681.29,48.35 681.83,48.63 682.38,46.49 682.92,51.93 683.47,63.80 684.01,60.56 684.56,60.41 685.10,58.29 685.65,60.85 686.19,54.30 686.74,40.84 687.28,40.12 687.83,45.96 688.37,44.44 688.92,40.05 689.46,31.95 690.01,31.69 690.55,30.74 691.10,28.44 691.64,29.84 692.19,31.62 692.73,30.28 693.28,30.15 693.82,30.65 694.37,32.41 694.91,30.76 695.46,22.88 696.00,25.29 696.55,25.99 697.09,26.72 697.64,33.42 698.18,33.45 698.73,31.93 699.27,35.06 699.82,27.97 700.36,21.97 700.91,20.55 701.45,19.76 702.00,18.00 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
   <line x1="18.00" y1="246.00" x2="702.00" y2="246.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />
   <line x1="29.99" y1="246.00" x2="29.99" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="29.99" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2021</text>
+  <text x="29.99" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2021</text>
   <line x1="63.78" y1="246.00" x2="63.78" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="63.78" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+  <text x="63.78" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
   <line x1="98.12" y1="246.00" x2="98.12" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="98.12" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+  <text x="98.12" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
   <line x1="133.00" y1="246.00" x2="133.00" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="133.00" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+  <text x="133.00" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="167.34" y1="246.00" x2="167.34" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="167.34" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2022</text>
+  <text x="167.34" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2022</text>
   <line x1="201.67" y1="246.00" x2="201.67" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="201.67" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+  <text x="201.67" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
   <line x1="235.46" y1="246.00" x2="235.46" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="235.46" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+  <text x="235.46" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
   <line x1="269.80" y1="246.00" x2="269.80" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="269.80" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+  <text x="269.80" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="304.68" y1="246.00" x2="304.68" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="304.68" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2023</text>
+  <text x="304.68" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2023</text>
   <line x1="337.93" y1="246.00" x2="337.93" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="337.93" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+  <text x="337.93" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
   <line x1="371.72" y1="246.00" x2="371.72" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="371.72" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+  <text x="371.72" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
   <line x1="406.60" y1="246.00" x2="406.60" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="406.60" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+  <text x="406.60" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="440.94" y1="246.00" x2="440.94" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="440.94" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2024</text>
+  <text x="440.94" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2024</text>
   <line x1="474.18" y1="246.00" x2="474.18" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="474.18" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+  <text x="474.18" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
   <line x1="508.52" y1="246.00" x2="508.52" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="508.52" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+  <text x="508.52" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
   <line x1="543.40" y1="246.00" x2="543.40" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="543.40" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+  <text x="543.40" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="578.28" y1="246.00" x2="578.28" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="578.28" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2025</text>
+  <text x="578.28" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2025</text>
   <line x1="610.98" y1="246.00" x2="610.98" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="610.98" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+  <text x="610.98" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
   <line x1="644.77" y1="246.00" x2="644.77" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="644.77" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+  <text x="644.77" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
   <line x1="679.65" y1="246.00" x2="679.65" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="679.65" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+  <text x="679.65" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="18.00" y1="162.92" x2="702.00" y2="162.92" stroke="#2b6cb0" stroke-width="1.5" stroke-dasharray="6 4" vector-effect="non-scaling-stroke" />
   <line x1="53.97" y1="242.00" x2="702.00" y2="150.45" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
   <circle cx="53.97" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
@@ -64,28 +66,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - Is This the Last Christmas for These 3 Stocks? — 2025-11-29
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — the stock is at 3mo/1yr/5yr peak levels and flagged as overbought, indicating elevated froth risk; price is sitting just under near-term resistance at 280.38 and above both 7d/30d supports and the 20-day average, so reward-to-risk for new longs is poor here with limited macro froth visibility beyond that
+  0.1. **Long Entry?:** no — the stock is at 3mo/1yr/5yr peak and flagged overbought near resistance at 280.38; macro AI-bubble concerns and Buffett trimming Apple plus price stretched well above the 20-day and 50-day SMA/EMA suggest poor reward-to-risk for new longs here
   
   ## 1. The Biz
   
-  1.1. **Activities:** Apple Inc. designs, manufactures, and markets consumer electronics including the iPhone smartphone line, Mac personal computers, iPad tablets, and wearables and accessories such as Apple Watch, AirPods, Apple TV, HomePod, Beats products, and Apple Vision Pro. It also provides software, AppleCare support, and cloud services and operates platforms such as the App Store for apps and digital content, along with advertising services. Additionally, Apple offers subscription services spanning games (Apple Arcade), fitness (Apple Fitness+), music, news, video/TV, and financial services like Apple Card and Apple Pay, and licenses its intellectual property.
+  1.1. **Activities:** Apple designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, tightly integrated through its proprietary operating systems and custom semiconductors. It also operates a large services ecosystem including the App Store, Apple Music and TV+, iCloud, AppleCare, digital payments, and subscription bundles. Hardware and services are distributed through Apple's own retail and online stores as well as extensive carrier and third‑party retail partnerships.
   
-  1.2. **Profitable?:** yes — Apple is clearly profitable, with four recent quarterly net income figures totaling about $112.0B and a profit margin of 26.9% plus strong free cash flow of $78.9B.
+  1.2. **Profitable?:** yes — Apple is highly profitable, with a profit margin around 27% and over $112 billion in cumulative net income across recent periods plus strong free cash flow.
   
-  1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as education, enterprise, and government customers. Its markets are worldwide, with products and services distributed via its own retail and online stores, direct sales force, and third-party cellular carriers and resellers, and through the App Store for digital content.
+  1.3. **Customer & Markets:** Apple primarily serves consumers and small to mid-sized businesses, as well as education, enterprise, and government customers. Its markets are global, with significant presence in North America, Europe, and major international regions such as China, where it is gaining smartphone market share. Products are sold via Apple's own channels and through mobile carriers, retailers, and digital platforms.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** Apple's main competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Meta, Netflix, Nvidia, Tesla, and traditional hardware peers like Dell and HP. It ranks as one of the largest and most profitable players in consumer electronics and digital services, maintaining a leading position in premium smartphones and devices.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of 278.85 is near the 7d resistance of 280.38 after rising from the 7d support around 265.50.
+  2.1. **7d Trend?:** up — the price has been grinding higher over the last week, with the 7d trend labeled 'up' and closes pushing toward the 280.38 resistance.
   
-  2.2. **7d Buy/Sell Points?:** During the last week, buying near the suggested buy zone and 7d low area around 265.67 was favorable, while selling or trimming near the suggested sell zone and 7d resistance around 280.38 offered attractive exits. The current price of 278.85 is close to that resistance, implying limited short-term upside from here.
+  2.2. **7d Buy/Sell Points?:** Over the past week, buying near support around 265.50–265.67 aligned with the suggested buy zone. Selling or trimming near 280.38, the defined 7d and 30d resistance and suggested sell zone, offered favorable short-term exits.
   
   2.3.1. **7d Volume:** low
   
@@ -93,15 +95,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Apple Inc., founded in 1976 and headquartered in Cupertino, California, is a long-established technology company rather than a fly-by-night operation. It generates substantial net income (about $112.0B over the last four quarters) with a profit margin of 26.9%, supported by very strong operating cash flow ($111.5B) and free cash flow ($78.9B). The breadth of its hardware, software, and services portfolio along with global distribution channels suggests a diversified and resilient business model. Its history of rebranding from Apple Computer, Inc. to Apple Inc. in 2007 shows an ability to adapt and expand beyond PCs, further underlining institutional stability.
+  3.1. **Stability?:** Apple is a long‑standing, mega‑cap technology company and a component of major indices like the S&P 500 and Nasdaq, indicating institutional scale rather than a fly‑by‑night operation. Its financials show substantial and consistent net income, high profit margins, and strong operating and free cash flow, supporting balance sheet strength. The firm's vertically integrated model—designing its own software and chips while outsourcing manufacturing to partners like Foxconn and TSMC—has been in place for years and underpins operational resilience. Its diversified revenue base across hardware and recurring services further enhances stability through product cycles.
   
-  3.2. **Innovating?:** Apple appears to be innovating and growing, as evidenced by offerings like Apple Vision Pro, expanded subscription services (Arcade, Fitness+, Music, News+, TV), and financial products such as Apple Card and Apple Pay. Reported revenue growth of 7.9% and earnings growth of 86.4% further indicate ongoing growth rather than stagnation.
+  3.2. **Innovating?:** Apple is actively innovating and growing, expanding from its iPhone‑centric hardware base into areas like streaming video, subscription bundles, augmented reality, and in‑house semiconductor design. Recent reports also highlight ongoing gains in markets such as China and participation in high‑growth sectors like music streaming, indicating continued product and market evolution.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines reference Apple as a symbol of 'sleek innovation' and group it with 'Magnificent Seven' and 'unstoppable AI stocks', suggesting it remains central to AI and tech leadership narratives. Another piece questions whether it could be the 'last Christmas' for some stocks including Apple, hinting at market debate about future relevance despite the strong brand. Commentary that 25% of Warren Buffett's portfolio is in three key AI-related stocks including Apple reinforces a longer-term bullish institutional view. With quick facts indicating 'Buy the rumor? no' and 'Sell the news? yes', the current setup implies much good news may already be priced in, so traders might be inclined to fade positive news spikes rather than chase them.
+  4.1. **News:** Recent headlines place Apple within broader market moves, with major indices and tech ETFs rallying while some commentators warn about an AI-related bubble and note Warren Buffett trimming his Apple stake. Sector pieces highlight Apple's strong iPhone 17 demand and growing market share in China, as well as its role in expanding digital services like music streaming in a market expected to nearly triple by 2033. Other coverage emphasizes Apple's scale in AI‑adjacent hardware and services and debates whether AI enthusiasm is frothy or still early. In a 'buy the rumor, sell the news' context, Apple is trading near record highs with positive narratives around market share and AI, so upside from existing good news may be limited and vulnerable to profit‑taking.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariffs are a material but manageable headwind: reports cite an estimated $900 million quarterly tariff hit and pressure that may force Apple to adjust pricing or shift production, yet other coverage notes that recent tariff changes have not derailed Apple's earnings and that the stock has generally been able to weather tariff scares. Overall, tariffs introduce episodic volatility and margin risk but have not structurally broken the stock's long-term uptrend according to the cited articles.
   
   ## 5. QuickRef
   
@@ -130,10 +132,12 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: headlines (none)</li>
-  <li>yfinance: prices &amp; technicals, company profile, fundamentals, earnings calendar, headlines (5 items)</li>
-  <li>GNews: market share</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>The Guardian: rumor</li>
+  <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
   
@@ -143,169 +147,107 @@ raw_markdown: |
   <pre><code>
   Gathering context for AAPL...
   Gathering market data...
-  Checking massive.com quota and fetching price history...
-  Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-31/2025-11-29?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-  massive.com request failed (massive.com request failed with status 401); switching to yfinance...
-  Requesting prices from yfinance fallback...
-  Price data acquired from yfinance.
+  Using cached price bars from database (rows=1271, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=%2A%2A%2A
-  Massive open-close: response 401 from https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive previous close: response 401 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive SMA: response 401 from https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive EMA: response 401 from https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 401 from https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive RSI: response 401 from https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
   Fetching company profile (massive.com)...
   Massive profile: GET https://api.massive.com/v3/reference/tickers/AAPL?apiKey=%2A%2A%2A
-  Massive profile: response 401 from https://api.massive.com/v3/reference/tickers/AAPL?apiKey=&lt;redacted&gt;
+  Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/AAPL?apiKey=&lt;redacted&gt;
+  Massive profile: company metadata retrieved successfully.
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/AAPL.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/AAPL?apiKey=%2A%2A%2A
-  Massive related companies: response 401 from https://api.massive.com/v1/related-companies/AAPL?apiKey=&lt;redacted&gt;
+  Massive related companies: response 200 from https://api.massive.com/v1/related-companies/AAPL?apiKey=&lt;redacted&gt;
+  Massive related companies: retrieved 10 entries.
   Fetching company fundamentals...
   Retrieving earnings calendar...
-  Massive earnings: demo key detected; skipping lookup to avoid 404 spam.
+  Massive earnings: attempting request with key 2QGS***XN
+  Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=AAPL&amp;limit=4&amp;apiKey=%2A%2A%2A
+  Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=AAPL&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 401 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-    massive.com returned no headlines; falling back to yfinance.
-    yfinance returned 5 headlines
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 5 articles.
+    massive.com returned 5 headlines
+  Filtered 3 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL business model (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; AAPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL market expansion (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 1 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL competitive landscape (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 3 result(s)
     google_custom_search search -&gt; AAPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL rumor (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: 5 result(s)
     newsapi search -&gt; AAPL tariff (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     newsapi search -&gt; AAPL latest news (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL tariffs (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; AAPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=5
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -328,7 +270,9 @@ raw_markdown: |
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-29T16:47:59.030162+00:00">2025-11-29 16:47 UTC</time> (runtime 38.08s)
+**Generated:** <time class="js-local-time" datetime="2025-11-29T22:21:36.623876+00:00">2025-11-29 22:21 UTC</time> (runtime 28.28s)
+
+![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -337,45 +281,45 @@ raw_markdown: |
 <polygon points="18.00,238.68 18.55,233.85 19.09,233.37 19.64,233.56 20.18,234.46 20.73,232.49 21.27,231.66 21.82,235.08 22.36,233.16 22.91,234.25 23.45,235.08 24.00,227.04 24.54,227.14 25.09,225.96 25.63,228.65 26.18,226.58 26.72,221.77 27.27,222.98 27.81,221.65 28.36,215.43 28.90,217.83 29.45,219.34 29.99,220.70 30.54,225.03 31.08,222.92 31.63,228.73 32.17,223.04 32.72,221.55 33.26,225.59 33.81,225.83 34.35,223.07 34.90,225.69 35.44,228.02 35.99,227.11 36.53,221.57 37.08,215.19 37.62,212.29 38.17,207.22 38.71,206.90 39.26,208.35 39.80,214.90 40.35,221.66 40.89,218.79 41.44,217.67 41.98,219.05 42.53,214.51 43.07,215.07 43.62,214.87 44.16,216.06 44.71,216.88 45.25,217.22 45.80,216.90 46.34,219.78 46.89,222.88 47.43,224.37 47.98,224.16 48.52,229.27 49.07,229.46 49.61,230.13 50.16,235.89 50.70,235.53 51.25,226.91 51.79,230.43 52.34,234.47 52.88,237.02 53.43,235.32 53.97,242.00 54.52,235.76 55.06,237.22 55.61,234.61 56.15,235.83 56.70,231.93 57.24,229.84 57.79,230.91 58.33,236.49 58.88,237.21 59.42,232.72 59.97,233.84 60.51,237.08 61.06,236.42 61.60,235.60 62.15,235.36 62.69,237.33 63.24,234.36 63.78,233.23 64.33,229.40 64.87,229.00 65.42,226.76 65.96,223.52 66.51,220.03 67.05,222.35 67.60,218.14 68.14,221.31 68.69,218.05 69.23,218.50 69.78,217.60 70.32,219.89 70.87,219.37 71.41,221.43 71.96,218.29 72.50,217.76 73.05,218.20 73.59,219.27 74.14,219.40 74.68,222.06 75.23,220.64 75.77,226.83 76.32,226.50 76.86,224.34 77.41,223.42 77.95,227.87 78.50,229.11 79.04,233.26 79.59,230.35 80.13,227.07 80.68,228.63 81.22,230.51 81.77,230.72 82.31,227.26 82.86,229.74 83.40,227.54 83.95,227.80 84.49,227.87 85.04,229.94 85.58,230.83 86.13,231.27 86.67,230.23 87.22,232.24 87.76,229.14 88.31,229.12 88.85,228.01 89.40,227.50 89.94,228.84 90.49,227.21 91.03,223.07 91.58,224.18 92.12,223.50 92.67,221.33 93.21,223.09 93.76,220.66 94.30,218.44 94.85,218.81 95.39,219.19 95.94,219.59 96.48,217.38 97.03,215.33 97.57,214.50 98.12,214.09 98.66,210.53 99.21,207.80 99.75,204.43 100.30,206.19 100.84,203.72 101.39,204.52 101.93,203.02 102.48,198.38 103.02,199.26 103.57,202.03 104.11,207.24 104.66,202.34 105.20,203.33 105.75,201.48 106.29,199.16 106.84,198.59 107.38,201.52 107.93,203.89 108.47,203.02 109.02,202.73 109.56,203.18 110.11,200.74 110.65,201.28 111.20,201.14 111.74,202.07 112.29,202.13 112.83,202.78 113.38,202.44 113.92,198.42 114.47,198.15 115.01,195.47 115.56,196.70 116.10,201.77 116.65,201.32 117.19,199.35 117.74,197.34 118.28,197.46 118.83,199.13 119.37,200.21 119.92,198.81 120.46,192.82 121.01,194.53 121.55,193.63 122.10,192.12 122.64,191.26 123.19,188.09 123.73,190.19 124.28,191.56 124.82,198.32 125.37,197.55 125.91,199.44 126.46,198.24 127.00,198.56 127.55,202.17 128.09,206.30 128.64,205.66 129.18,202.45 129.73,201.15 130.27,201.03 130.82,203.09 131.36,207.67 131.91,206.45 132.45,208.21 133.00,206.69 133.54,211.34 134.09,208.73 134.63,207.55 135.18,205.84 135.72,206.36 136.27,206.48 136.81,208.20 137.36,208.99 137.90,205.22 138.45,203.79 138.99,201.52 139.54,198.60 140.08,197.93 140.63,197.64 141.17,198.69 141.72,198.76 142.26,197.85 142.81,198.48 143.35,193.55 143.90,197.22 144.44,198.33 144.99,196.93 145.53,194.98 146.08,195.68 146.62,194.97 147.17,196.08 147.71,195.59 148.26,199.42 148.80,199.49 149.35,196.68 149.89,196.66 150.44,195.34 150.98,192.03 151.53,186.23 152.07,182.67 152.62,182.05 153.16,181.53 153.71,180.83 154.25,187.63 154.80,183.08 155.35,176.37 155.89,177.07 156.44,178.41 156.98,180.96 157.53,176.34 158.07,168.57 158.62,163.40 159.16,164.09 159.71,157.60 160.25,162.52 160.80,164.39 161.34,157.80 161.89,167.14 162.43,168.62 162.98,170.47 163.52,166.17 164.07,162.66 164.61,161.81 165.16,156.43 165.70,157.81 166.25,157.69 166.79,159.26 167.34,160.10 167.88,154.21 168.43,157.27 168.97,163.61 169.52,167.48 170.06,167.26 170.61,167.23 171.15,163.40 171.70,162.80 172.24,167.23 172.79,166.06 173.33,170.40 173.88,175.14 174.42,177.42 174.97,180.20 175.51,181.25 176.06,183.69 176.60,183.81 177.15,184.43 177.69,169.70 178.24,163.80 178.78,164.02 179.33,162.39 179.87,166.29 180.42,166.67 180.96,167.64 181.51,163.43 182.05,161.51 182.60,167.03 183.14,171.66 183.69,171.34 184.23,166.14 184.78,166.46 185.32,171.34 185.87,173.43 186.41,177.39 186.96,183.04 187.50,179.49 188.05,176.69 188.59,176.33 189.14,178.88 189.68,174.42 190.23,174.86 190.77,178.92 191.32,184.06 191.86,186.53 192.41,179.21 192.95,185.10 193.50,190.13 194.04,195.59 194.59,189.65 195.13,183.67 195.68,182.31 196.22,177.84 196.77,175.98 197.31,171.42 197.86,169.57 198.40,164.44 198.95,163.58 199.49,162.41 200.04,157.95 200.58,159.53 201.13,163.73 201.67,164.12 202.22,158.64 202.76,163.13 203.31,167.42 203.85,167.01 204.40,169.73 204.94,175.49 205.49,172.96 206.03,169.32 206.58,176.10 207.12,176.40 207.67,173.30 208.21,173.53 208.76,174.60 209.30,180.75 209.85,179.30 210.39,187.38 210.94,187.68 211.48,178.30 212.03,186.25 212.57,185.84 213.12,183.82 213.66,175.13 214.21,187.42 214.75,186.44 215.30,193.38 215.84,190.12 216.39,200.77 216.93,206.01 217.48,199.96 218.02,202.05 218.57,197.13 219.11,208.33 219.66,212.94 220.20,212.62 220.75,205.28 221.29,208.94 221.84,208.73 222.38,204.39 222.93,196.60 223.47,197.66 224.02,197.83 224.56,194.51 225.11,202.26 225.65,201.25 226.20,197.83 226.74,198.83 227.29,205.91 227.83,213.24 228.38,220.22 228.92,219.05 229.47,215.50 230.01,222.64 230.56,220.64 231.10,214.91 231.65,215.60 232.19,211.72 232.74,207.21 233.28,207.21 233.83,212.82 234.37,210.44 234.92,213.78 235.46,210.84 236.01,207.34 236.55,205.53 237.10,200.97 237.64,200.05 238.19,202.94 238.73,201.62 239.28,202.12 239.82,198.15 240.37,195.89 240.91,200.01 241.46,194.79 242.00,192.07 242.55,189.00 243.09,190.68 243.64,192.19 244.18,193.99 244.73,187.09 245.27,186.34 245.82,179.48 246.36,180.81 246.91,182.80 247.45,174.66 248.00,175.09 248.54,175.40 249.09,176.04 249.63,175.97 250.18,170.22 250.72,171.21 251.27,166.41 251.81,164.95 252.36,165.17 252.90,163.14 253.45,163.68 253.99,167.18 254.54,172.44 255.08,172.89 255.63,172.49 256.17,169.16 256.72,177.70 257.26,180.68 257.81,183.97 258.35,186.22 258.90,185.24 259.44,188.10 259.99,189.81 260.53,187.90 261.08,189.90 261.62,186.02 262.17,177.95 262.71,190.73 263.26,188.77 263.80,192.68 264.35,194.91 264.89,189.87 265.44,186.65 265.98,190.89 266.53,192.19 267.07,195.27 267.62,194.82 268.16,193.50 268.71,196.05 269.25,205.86 269.80,211.56 270.34,205.90 270.89,201.03 271.43,200.64 271.98,201.93 272.52,209.04 273.07,208.60 273.61,210.52 274.16,211.37 274.70,205.18 275.25,211.32 275.79,205.95 276.34,204.16 276.88,204.02 277.43,204.64 277.97,199.48 278.52,196.57 279.06,192.72 279.61,196.71 280.15,202.77 280.70,188.20 281.24,191.39 281.79,194.97 282.33,202.46 282.88,210.65 283.42,211.01 283.97,210.29 284.51,209.52 285.06,215.69 285.60,199.68 286.15,195.91 286.69,197.80 287.24,195.46 287.78,197.12 288.33,194.55 288.87,193.79 289.42,198.16 289.96,195.27 290.51,194.08 291.05,198.03 291.60,203.22 292.15,207.29 292.69,198.14 293.24,197.76 293.78,198.43 294.33,200.01 294.87,204.97 295.42,207.60 295.96,205.31 296.51,205.97 297.05,202.86 297.60,201.55 298.14,204.57 298.69,213.52 299.23,216.17 299.78,219.03 300.32,219.12 300.87,214.92 301.41,219.22 301.96,219.71 302.50,222.15 303.05,227.47 303.59,222.71 304.14,222.28 304.68,228.77 305.23,227.05 305.77,228.83 306.32,222.70 306.86,221.99 307.41,221.22 307.95,217.53 308.50,217.64 309.04,215.84 309.59,214.27 310.13,215.24 310.68,215.16 311.22,211.69 311.77,207.37 312.31,205.47 312.86,206.37 313.40,203.57 313.95,200.94 314.49,204.85 315.04,203.13 315.58,201.61 316.13,194.42 316.67,189.51 317.22,193.20 317.76,189.31 318.31,192.95 318.85,194.35 319.40,193.85 319.94,190.06 320.49,190.93 321.03,188.08 321.58,190.25 322.12,191.80 322.67,197.23 323.21,196.66 323.76,196.01 324.30,199.60 324.85,197.98 325.39,198.66 325.94,201.47 326.48,200.67 327.03,193.83 327.57,190.09 328.12,193.07 328.66,191.37 329.21,194.42 329.75,197.21 330.30,194.58 330.84,191.74 331.39,191.21 331.93,187.39 332.48,188.52 333.02,185.32 333.57,182.80 334.11,184.74 334.66,183.27 335.20,181.51 335.75,184.14 336.29,184.98 336.84,180.81 337.38,178.69 337.93,175.30 338.47,173.60 339.02,174.32 339.56,176.82 340.11,175.62 340.65,179.13 341.20,180.77 341.74,181.71 342.29,174.41 342.83,174.88 343.38,174.85 343.92,173.20 344.47,171.65 345.01,172.96 345.56,175.14 346.10,174.72 346.65,176.81 347.19,176.82 347.74,170.61 348.28,168.91 348.83,169.03 349.37,170.43 349.92,171.89 350.46,174.11 351.01,163.71 351.55,163.80 352.10,166.12 352.64,163.72 353.19,163.47 353.73,164.73 354.28,165.40 354.82,165.40 355.37,164.57 355.91,161.41 356.46,161.26 357.00,162.55 357.55,166.08 358.09,165.71 358.64,164.17 359.18,160.90 359.73,158.40 360.27,158.47 360.82,154.67 361.36,153.52 361.91,155.35 362.45,155.84 363.00,157.70 363.54,154.02 364.09,153.50 364.63,149.72 365.18,150.36 365.72,149.50 366.27,146.75 366.81,148.20 367.36,148.08 367.90,149.49 368.45,145.42 368.99,145.85 369.54,147.74 370.08,144.00 370.63,142.41 371.17,141.96 371.72,136.10 372.26,138.12 372.81,139.63 373.35,138.99 373.90,140.50 374.44,143.27 374.99,143.98 375.53,141.72 376.08,140.69 376.62,140.48 377.17,136.07 377.71,136.42 378.26,134.58 378.80,137.22 379.35,138.81 379.89,137.73 380.44,136.56 380.98,135.39 381.53,137.10 382.07,133.61 382.62,132.78 383.16,133.90 383.71,137.96 384.25,139.84 384.80,152.12 385.34,156.33 385.89,155.05 386.43,157.21 386.98,157.50 387.52,157.42 388.07,155.19 388.61,157.88 389.16,159.06 389.70,162.50 390.25,161.84 390.79,160.04 391.34,158.17 391.88,152.96 392.43,159.31 392.97,156.32 393.52,154.21 394.06,148.94 394.61,144.21 395.15,143.92 395.70,141.79 396.24,141.47 396.79,150.56 397.33,157.73 397.88,156.90 398.42,155.32 398.97,159.42 399.51,162.22 400.06,160.17 400.60,161.15 401.15,157.18 401.69,155.71 402.24,160.50 402.78,162.59 403.33,161.44 403.87,159.71 404.42,165.23 404.96,167.28 405.51,166.94 406.05,166.24 406.60,162.84 407.14,164.64 407.69,162.96 408.23,161.28 408.78,157.82 409.32,155.82 409.87,156.62 410.41,154.73 410.96,153.51 411.50,156.00 412.05,156.18 412.59,158.28 413.14,160.04 413.68,160.54 414.23,164.00 414.77,163.84 415.32,163.25 415.86,166.39 416.41,172.03 416.95,170.24 417.50,167.47 418.04,166.83 418.59,162.54 419.13,157.72 419.68,158.95 420.22,155.49 420.77,152.02 421.31,150.59 421.86,151.23 422.40,145.56 422.95,147.70 423.49,144.16 424.04,143.40 424.58,141.12 425.13,141.14 425.67,138.78 426.22,139.87 426.76,138.97 427.31,140.77 427.85,141.01 428.40,140.19 428.95,141.57 429.49,140.80 430.04,139.07 430.58,141.49 431.13,136.14 431.67,137.62 432.22,135.00 432.76,133.07 433.31,136.46 433.85,134.41 434.40,130.05 434.94,129.85 435.49,130.57 436.03,132.83 436.58,131.42 437.12,134.25 437.67,134.45 438.21,135.90 438.76,136.64 439.30,136.50 439.85,135.93 440.39,137.33 440.94,146.58 441.48,148.44 442.03,151.58 442.57,152.56 443.12,146.69 443.66,147.25 444.21,145.84 444.75,146.65 445.30,146.20 445.84,149.27 446.39,150.55 446.93,142.57 447.48,138.64 448.02,135.51 448.57,133.78 449.11,134.69 449.66,135.13 450.20,137.48 450.75,138.41 451.29,143.36 451.84,148.24 452.38,144.94 452.93,146.30 453.47,143.84 454.02,141.67 454.56,141.52 455.11,142.98 455.65,141.95 456.20,144.23 456.74,147.07 457.29,148.26 457.83,148.65 458.38,150.73 458.92,151.74 459.47,150.72 460.01,147.97 460.56,150.45 461.10,152.28 461.65,150.30 462.19,151.93 462.74,152.83 463.28,154.29 463.83,160.42 464.37,167.11 464.92,168.45 465.46,168.61 466.01,166.29 466.55,163.57 467.10,162.93 467.64,165.75 468.19,163.24 468.73,163.75 469.28,162.27 469.82,159.10 470.37,155.62 470.91,165.43 471.46,164.21 472.00,166.13 472.55,167.66 473.09,162.82 473.64,165.28 474.18,167.23 474.73,168.83 475.27,167.74 475.82,168.85 476.36,167.83 476.91,169.35 477.45,167.71 478.00,170.25 478.54,160.50 479.09,158.47 479.63,163.66 480.18,168.10 480.72,169.96 481.27,171.24 481.81,173.99 482.36,172.86 482.90,171.43 483.45,168.59 483.99,167.42 484.54,168.21 485.08,162.57 485.63,166.83 486.17,168.21 486.72,163.20 487.26,149.30 487.81,151.54 488.35,150.61 488.90,150.16 489.44,147.70 489.99,149.41 490.53,145.06 491.08,143.51 491.62,140.43 492.17,140.27 492.71,140.23 493.26,138.66 493.80,136.90 494.35,138.85 494.89,144.25 495.44,140.08 495.98,140.07 496.53,139.67 497.07,138.32 497.62,137.03 498.16,134.64 498.71,134.21 499.25,132.16 499.80,134.03 500.34,130.79 500.89,135.86 501.43,116.99 501.98,109.03 502.52,107.45 503.07,109.81 503.61,104.18 504.16,107.39 504.70,113.59 505.25,116.53 505.79,115.66 506.34,114.41 506.88,108.78 507.43,107.64 507.97,112.32 508.52,104.08 509.06,99.34 509.61,97.62 510.15,91.18 510.70,89.19 511.24,88.03 511.79,82.25 512.33,89.52 512.88,85.53 513.42,80.34 513.97,79.77 514.51,87.76 515.06,94.08 515.60,93.91 516.15,94.38 516.69,92.97 517.24,101.67 517.78,103.08 518.33,102.45 518.87,102.07 519.42,101.32 519.96,96.91 520.51,101.91 521.05,99.89 521.60,114.14 522.14,116.88 522.69,113.40 523.23,108.70 523.78,104.76 524.32,102.69 524.87,97.65 525.41,97.05 525.96,93.01 526.50,91.22 527.05,91.43 527.59,90.60 528.14,90.74 528.68,93.26 529.23,90.15 529.77,89.69 530.32,88.55 530.86,90.62 531.41,86.18 531.95,87.24 532.50,95.63 533.04,98.22 533.59,96.16 534.13,98.26 534.68,98.14 535.22,99.21 535.77,95.78 536.31,95.63 536.86,96.00 537.40,104.32 537.95,103.69 538.49,98.43 539.04,87.42 539.58,88.32 540.13,90.65 540.67,89.44 541.22,90.78 541.76,89.24 542.31,88.87 542.85,81.86 543.40,91.00 543.94,90.23 544.49,91.73 545.03,90.21 545.58,97.09 546.12,91.59 546.67,86.52 547.21,87.19 547.76,89.20 548.30,84.15 548.85,80.71 549.39,83.50 549.94,83.00 550.48,79.16 551.03,77.17 551.57,78.01 552.12,84.87 552.66,85.13 553.21,84.00 553.75,81.32 554.30,80.95 554.84,85.76 555.39,91.40 555.93,95.44 556.48,96.66 557.02,94.72 557.57,95.70 558.11,89.29 558.66,89.65 559.20,93.33 559.75,93.33 560.29,92.13 560.84,87.96 561.38,92.30 561.93,88.22 562.47,87.87 563.02,86.90 563.56,87.55 564.11,85.73 564.65,81.69 565.20,78.73 565.75,78.91 566.29,75.67 566.84,72.63 567.38,68.50 567.93,68.02 568.47,67.98 569.02,68.25 569.56,62.97 570.11,61.60 570.65,63.33 571.20,61.34 571.74,61.11 572.29,57.19 572.83,53.90 573.38,61.22 573.92,58.88 574.47,52.54 575.01,51.49 575.56,47.54 576.10,46.43 576.65,51.06 577.19,55.63 577.74,58.03 578.28,66.88 578.83,67.54 579.37,65.33 579.92,69.10 580.46,68.43 581.01,76.32 581.55,79.62 582.10,81.13 582.64,74.95 583.19,87.90 583.73,85.58 584.28,95.48 584.82,93.87 585.37,94.10 585.91,95.29 586.46,85.74 587.00,74.42 587.55,72.94 588.09,75.32 588.64,77.47 589.18,88.24 589.73,81.78 590.27,82.23 590.82,81.21 591.36,88.75 591.91,88.39 592.45,81.68 593.00,75.94 593.54,69.65 594.09,65.51 594.63,65.69 595.18,65.15 595.72,63.85 596.27,64.23 596.81,62.14 597.36,62.22 597.90,71.23 598.45,75.36 598.99,69.24 599.54,74.38 600.08,77.21 600.63,77.47 601.17,78.02 601.72,72.97 602.26,88.62 602.81,97.58 603.35,102.79 603.90,112.64 604.44,107.50 604.99,106.81 605.53,108.58 606.08,105.13 606.62,106.67 607.17,101.05 607.71,97.73 608.26,93.65 608.80,96.65 609.35,93.51 609.89,101.54 610.44,95.84 610.98,94.41 611.53,93.46 612.07,121.40 612.62,141.38 613.16,150.72 613.71,162.92 614.25,127.25 614.80,138.63 615.34,128.20 615.89,122.30 616.43,122.81 616.98,133.44 617.52,129.78 618.07,134.93 618.61,126.05 619.16,119.49 619.70,114.41 620.25,113.18 620.79,112.02 621.34,110.57 621.88,108.83 622.43,107.73 622.97,118.48 623.52,127.20 624.06,127.71 624.61,130.76 625.15,129.09 625.70,127.69 626.24,110.77 626.79,107.88 627.33,108.69 627.88,109.88 628.42,110.13 628.97,113.48 629.51,116.08 630.06,122.52 630.60,123.51 631.15,131.74 631.69,125.06 632.24,124.78 632.78,125.42 633.33,124.20 633.87,123.05 634.42,120.93 634.96,121.54 635.51,124.50 636.05,120.05 636.60,123.39 637.14,121.74 637.69,127.00 638.23,126.43 638.78,130.15 639.32,127.48 639.87,131.24 640.41,129.97 640.96,124.00 641.50,123.32 642.05,124.94 642.59,123.24 643.14,124.00 643.68,123.89 644.23,118.36 644.77,114.78 645.32,108.54 645.86,107.04 646.41,111.90 646.95,111.82 647.50,110.29 648.04,108.58 648.59,110.27 649.13,113.70 649.68,113.04 650.22,111.62 650.77,111.81 651.31,110.24 651.86,108.48 652.40,105.89 652.95,106.23 653.49,106.75 654.04,106.59 654.58,106.36 655.13,110.12 655.67,113.12 656.22,115.12 656.76,122.13 657.31,120.82 657.85,121.40 658.40,107.44 658.94,98.28 659.49,85.69 660.03,88.27 660.58,84.93 661.12,79.95 661.67,80.69 662.21,82.30 662.76,83.25 663.30,83.70 663.85,89.85 664.39,91.35 664.94,87.49 665.48,88.30 666.03,85.39 666.57,83.79 667.12,80.99 667.66,81.56 668.21,84.83 668.75,73.00 669.30,71.22 669.84,71.35 670.39,73.79 670.93,78.57 671.48,88.80 672.02,84.41 672.57,78.95 673.11,75.39 673.66,73.43 674.20,72.29 674.75,73.79 675.29,63.48 675.84,49.17 676.38,51.40 676.93,54.27 677.47,48.10 678.02,50.01 678.56,51.40 679.11,51.13 679.65,50.02 680.20,47.75 680.74,46.55 681.29,48.35 681.83,48.63 682.38,46.49 682.92,51.93 683.47,63.80 684.01,60.56 684.56,60.41 685.10,58.29 685.65,60.85 686.19,54.30 686.74,40.84 687.28,40.12 687.83,45.96 688.37,44.44 688.92,40.05 689.46,31.95 690.01,31.69 690.55,30.74 691.10,28.44 691.64,29.84 692.19,31.62 692.73,30.28 693.28,30.15 693.82,30.65 694.37,32.41 694.91,30.76 695.46,22.88 696.00,25.29 696.55,25.99 697.09,26.72 697.64,33.42 698.18,33.45 698.73,31.93 699.27,35.06 699.82,27.97 700.36,21.97 700.91,20.55 701.45,19.76 702.00,18.00 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
 <line x1="18.00" y1="246.00" x2="702.00" y2="246.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />
 <line x1="29.99" y1="246.00" x2="29.99" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="29.99" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2021</text>
+<text x="29.99" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2021</text>
 <line x1="63.78" y1="246.00" x2="63.78" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="63.78" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+<text x="63.78" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
 <line x1="98.12" y1="246.00" x2="98.12" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="98.12" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+<text x="98.12" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
 <line x1="133.00" y1="246.00" x2="133.00" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="133.00" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+<text x="133.00" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="167.34" y1="246.00" x2="167.34" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="167.34" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2022</text>
+<text x="167.34" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2022</text>
 <line x1="201.67" y1="246.00" x2="201.67" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="201.67" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+<text x="201.67" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
 <line x1="235.46" y1="246.00" x2="235.46" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="235.46" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+<text x="235.46" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
 <line x1="269.80" y1="246.00" x2="269.80" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="269.80" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+<text x="269.80" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="304.68" y1="246.00" x2="304.68" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="304.68" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2023</text>
+<text x="304.68" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2023</text>
 <line x1="337.93" y1="246.00" x2="337.93" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="337.93" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+<text x="337.93" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
 <line x1="371.72" y1="246.00" x2="371.72" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="371.72" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+<text x="371.72" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
 <line x1="406.60" y1="246.00" x2="406.60" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="406.60" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+<text x="406.60" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="440.94" y1="246.00" x2="440.94" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="440.94" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2024</text>
+<text x="440.94" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2024</text>
 <line x1="474.18" y1="246.00" x2="474.18" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="474.18" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+<text x="474.18" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
 <line x1="508.52" y1="246.00" x2="508.52" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="508.52" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+<text x="508.52" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
 <line x1="543.40" y1="246.00" x2="543.40" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="543.40" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+<text x="543.40" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="578.28" y1="246.00" x2="578.28" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="578.28" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">2025</text>
+<text x="578.28" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">2025</text>
 <line x1="610.98" y1="246.00" x2="610.98" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="610.98" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Apr</text>
+<text x="610.98" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr</text>
 <line x1="644.77" y1="246.00" x2="644.77" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="644.77" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Jul</text>
+<text x="644.77" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
 <line x1="679.65" y1="246.00" x2="679.65" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="679.65" y="258.00" text-anchor="middle" font-size="10" fill="#4a5568">Oct</text>
+<text x="679.65" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="18.00" y1="162.92" x2="702.00" y2="162.92" stroke="#2b6cb0" stroke-width="1.5" stroke-dasharray="6 4" vector-effect="non-scaling-stroke" />
 <line x1="53.97" y1="242.00" x2="702.00" y2="150.45" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
 <circle cx="53.97" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
@@ -386,28 +330,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- Is This the Last Christmas for These 3 Stocks? — 2025-11-29
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — the stock is at 3mo/1yr/5yr peak levels and flagged as overbought, indicating elevated froth risk; price is sitting just under near-term resistance at 280.38 and above both 7d/30d supports and the 20-day average, so reward-to-risk for new longs is poor here with limited macro froth visibility beyond that
+0.1. **Long Entry?:** no — the stock is at 3mo/1yr/5yr peak and flagged overbought near resistance at 280.38; macro AI-bubble concerns and Buffett trimming Apple plus price stretched well above the 20-day and 50-day SMA/EMA suggest poor reward-to-risk for new longs here
 
 ## 1. The Biz
 
-1.1. **Activities:** Apple Inc. designs, manufactures, and markets consumer electronics including the iPhone smartphone line, Mac personal computers, iPad tablets, and wearables and accessories such as Apple Watch, AirPods, Apple TV, HomePod, Beats products, and Apple Vision Pro. It also provides software, AppleCare support, and cloud services and operates platforms such as the App Store for apps and digital content, along with advertising services. Additionally, Apple offers subscription services spanning games (Apple Arcade), fitness (Apple Fitness+), music, news, video/TV, and financial services like Apple Card and Apple Pay, and licenses its intellectual property.
+1.1. **Activities:** Apple designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, tightly integrated through its proprietary operating systems and custom semiconductors. It also operates a large services ecosystem including the App Store, Apple Music and TV+, iCloud, AppleCare, digital payments, and subscription bundles. Hardware and services are distributed through Apple's own retail and online stores as well as extensive carrier and third‑party retail partnerships.
 
-1.2. **Profitable?:** yes — Apple is clearly profitable, with four recent quarterly net income figures totaling about $112.0B and a profit margin of 26.9% plus strong free cash flow of $78.9B.
+1.2. **Profitable?:** yes — Apple is highly profitable, with a profit margin around 27% and over $112 billion in cumulative net income across recent periods plus strong free cash flow.
 
-1.3. **Customer & Markets:** Apple serves consumers and small and mid-sized businesses, as well as education, enterprise, and government customers. Its markets are worldwide, with products and services distributed via its own retail and online stores, direct sales force, and third-party cellular carriers and resellers, and through the App Store for digital content.
+1.3. **Customer & Markets:** Apple primarily serves consumers and small to mid-sized businesses, as well as education, enterprise, and government customers. Its markets are global, with significant presence in North America, Europe, and major international regions such as China, where it is gaining smartphone market share. Products are sold via Apple's own channels and through mobile carriers, retailers, and digital platforms.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** Apple's main competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Meta, Netflix, Nvidia, Tesla, and traditional hardware peers like Dell and HP. It ranks as one of the largest and most profitable players in consumer electronics and digital services, maintaining a leading position in premium smartphones and devices.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of 278.85 is near the 7d resistance of 280.38 after rising from the 7d support around 265.50.
+2.1. **7d Trend?:** up — the price has been grinding higher over the last week, with the 7d trend labeled 'up' and closes pushing toward the 280.38 resistance.
 
-2.2. **7d Buy/Sell Points?:** During the last week, buying near the suggested buy zone and 7d low area around 265.67 was favorable, while selling or trimming near the suggested sell zone and 7d resistance around 280.38 offered attractive exits. The current price of 278.85 is close to that resistance, implying limited short-term upside from here.
+2.2. **7d Buy/Sell Points?:** Over the past week, buying near support around 265.50–265.67 aligned with the suggested buy zone. Selling or trimming near 280.38, the defined 7d and 30d resistance and suggested sell zone, offered favorable short-term exits.
 
 2.3.1. **7d Volume:** low
 
@@ -415,15 +359,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Apple Inc., founded in 1976 and headquartered in Cupertino, California, is a long-established technology company rather than a fly-by-night operation. It generates substantial net income (about $112.0B over the last four quarters) with a profit margin of 26.9%, supported by very strong operating cash flow ($111.5B) and free cash flow ($78.9B). The breadth of its hardware, software, and services portfolio along with global distribution channels suggests a diversified and resilient business model. Its history of rebranding from Apple Computer, Inc. to Apple Inc. in 2007 shows an ability to adapt and expand beyond PCs, further underlining institutional stability.
+3.1. **Stability?:** Apple is a long‑standing, mega‑cap technology company and a component of major indices like the S&P 500 and Nasdaq, indicating institutional scale rather than a fly‑by‑night operation. Its financials show substantial and consistent net income, high profit margins, and strong operating and free cash flow, supporting balance sheet strength. The firm's vertically integrated model—designing its own software and chips while outsourcing manufacturing to partners like Foxconn and TSMC—has been in place for years and underpins operational resilience. Its diversified revenue base across hardware and recurring services further enhances stability through product cycles.
 
-3.2. **Innovating?:** Apple appears to be innovating and growing, as evidenced by offerings like Apple Vision Pro, expanded subscription services (Arcade, Fitness+, Music, News+, TV), and financial products such as Apple Card and Apple Pay. Reported revenue growth of 7.9% and earnings growth of 86.4% further indicate ongoing growth rather than stagnation.
+3.2. **Innovating?:** Apple is actively innovating and growing, expanding from its iPhone‑centric hardware base into areas like streaming video, subscription bundles, augmented reality, and in‑house semiconductor design. Recent reports also highlight ongoing gains in markets such as China and participation in high‑growth sectors like music streaming, indicating continued product and market evolution.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines reference Apple as a symbol of 'sleek innovation' and group it with 'Magnificent Seven' and 'unstoppable AI stocks', suggesting it remains central to AI and tech leadership narratives. Another piece questions whether it could be the 'last Christmas' for some stocks including Apple, hinting at market debate about future relevance despite the strong brand. Commentary that 25% of Warren Buffett's portfolio is in three key AI-related stocks including Apple reinforces a longer-term bullish institutional view. With quick facts indicating 'Buy the rumor? no' and 'Sell the news? yes', the current setup implies much good news may already be priced in, so traders might be inclined to fade positive news spikes rather than chase them.
+4.1. **News:** Recent headlines place Apple within broader market moves, with major indices and tech ETFs rallying while some commentators warn about an AI-related bubble and note Warren Buffett trimming his Apple stake. Sector pieces highlight Apple's strong iPhone 17 demand and growing market share in China, as well as its role in expanding digital services like music streaming in a market expected to nearly triple by 2033. Other coverage emphasizes Apple's scale in AI‑adjacent hardware and services and debates whether AI enthusiasm is frothy or still early. In a 'buy the rumor, sell the news' context, Apple is trading near record highs with positive narratives around market share and AI, so upside from existing good news may be limited and vulnerable to profit‑taking.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariffs are a material but manageable headwind: reports cite an estimated $900 million quarterly tariff hit and pressure that may force Apple to adjust pricing or shift production, yet other coverage notes that recent tariff changes have not derailed Apple's earnings and that the stock has generally been able to weather tariff scares. Overall, tariffs introduce episodic volatility and margin risk but have not structurally broken the stock's long-term uptrend according to the cited articles.
 
 ## 5. QuickRef
 
@@ -452,10 +396,12 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: headlines (none)</li>
-<li>yfinance: prices &amp; technicals, company profile, fundamentals, earnings calendar, headlines (5 items)</li>
-<li>GNews: market share</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>The Guardian: rumor</li>
+<li>cached: prices &amp; technicals</li>
 </ul>
 </div>
 
@@ -465,169 +411,107 @@ raw_markdown: |
 <pre><code>
 Gathering context for AAPL...
 Gathering market data...
-Checking massive.com quota and fetching price history...
-Requesting AAPL prices from massive.com... (https://api.massive.com/v2/aggs/ticker/AAPL/range/1/day/2020-10-31/2025-11-29?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-massive.com request failed (massive.com request failed with status 401); switching to yfinance...
-Requesting prices from yfinance fallback...
-Price data acquired from yfinance.
+Using cached price bars from database (rows=1271, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=%2A%2A%2A
-Massive open-close: response 401 from https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/AAPL/2025-11-28?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=%2A%2A%2A
-Massive previous close: response 401 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/AAPL/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive SMA: response 401 from https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive EMA: response 401 from https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/AAPL?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 401 from https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/AAPL?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive RSI: response 401 from https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/AAPL?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
 Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/AAPL?apiKey=%2A%2A%2A
-Massive profile: response 401 from https://api.massive.com/v3/reference/tickers/AAPL?apiKey=&lt;redacted&gt;
+Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/AAPL?apiKey=&lt;redacted&gt;
+Massive profile: company metadata retrieved successfully.
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/AAPL.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/AAPL?apiKey=%2A%2A%2A
-Massive related companies: response 401 from https://api.massive.com/v1/related-companies/AAPL?apiKey=&lt;redacted&gt;
+Massive related companies: response 200 from https://api.massive.com/v1/related-companies/AAPL?apiKey=&lt;redacted&gt;
+Massive related companies: retrieved 10 entries.
 Fetching company fundamentals...
 Retrieving earnings calendar...
-Massive earnings: demo key detected; skipping lookup to avoid 404 spam.
+Massive earnings: attempting request with key 2QGS***XN
+Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=AAPL&amp;limit=4&amp;apiKey=%2A%2A%2A
+Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=AAPL&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 401 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  massive.com returned no headlines; falling back to yfinance.
-  yfinance returned 5 headlines
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 5 articles.
+  massive.com returned 5 headlines
+Filtered 3 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL business model (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; AAPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL market expansion (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 1 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL competitive landscape (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 3 result(s)
   google_custom_search search -&gt; AAPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL rumor (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: 5 result(s)
   newsapi search -&gt; AAPL tariff (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   newsapi search -&gt; AAPL latest news (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL tariffs (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; AAPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=5
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
