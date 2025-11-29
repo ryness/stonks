@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import ast
 import datetime as dt
 import functools
 import hashlib
@@ -1972,8 +1973,13 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
                 'stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />'
             )
             svg_lines.append(
+<<<<<<< HEAD
                 f'<text x="{x_val:.2f}" y="{axis_y + 12:.2f}" text-anchor="middle" '
                 f'font-size="10" fill="#4a5568" letter-spacing="-0.25px">{label}</text>'
+=======
+                f'<text x="{x_val:.2f}" y="{axis_y + 16:.2f}" text-anchor="middle" '
+                f'font-size="3" fill="#4a5568">{label}</text>'
+>>>>>>> 1954b3f6d2a0d902f7b1fe0028a6854813c1da30
             )
     if low_1y_val is not None:
         y_line = y_for(low_1y_val)
@@ -2620,25 +2626,83 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
     return context_data, storage_payload
 
 
-def _extract_json_object(raw_text: str) -> Dict[str, Any]:
-    """Attempt to parse a JSON object from raw model output."""
+def _find_first_braced_block(text: str) -> Optional[str]:
+    """Return the first balanced {...} block, ignoring stray braces."""
 
-    cleaned = raw_text.strip()
+    depth = 0
+    start = None
+    for idx, char in enumerate(text):
+        if char == "{":
+            if depth == 0:
+                start = idx
+            depth += 1
+        elif char == "}":
+            if depth:
+                depth -= 1
+                if depth == 0 and start is not None:
+                    return text[start : idx + 1]
+    return None
+
+
+def _clean_json_text(raw_text: str) -> str:
+    """Strip common LLM wrappers and easy-to-fix errors before parsing."""
+
+    text = raw_text.strip()
+    fenced = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.DOTALL)
+    if fenced:
+        text = fenced.group(1).strip()
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
+    text = text.replace("\u2018", "'").replace("\u2019", "'")
+    text = re.sub(r",\s*(?=[}\]])", "", text)  # drop trailing commas
+    return text
+
+
+def _try_parse_json_object(text: str) -> Optional[Dict[str, Any]]:
+    """Best-effort parse of text into a dict, tolerating loose JSON."""
+
+    cleaned = _clean_json_text(text)
     try:
         parsed = json.loads(cleaned)
         if isinstance(parsed, dict):
             return parsed
     except json.JSONDecodeError:
         pass
-    match = re.search(r"\{.*\}", cleaned, re.DOTALL)
-    if match:
-        candidate = match.group(0)
-        try:
-            parsed_candidate = json.loads(candidate)
-        except json.JSONDecodeError as exc:
-            raise RuntimeError(f"LLM returned malformed JSON: {cleaned}") from exc
-        if isinstance(parsed_candidate, dict):
-            return parsed_candidate
+
+    try:
+        parsed = ast.literal_eval(cleaned)
+        if isinstance(parsed, dict):
+            return parsed
+    except (ValueError, SyntaxError):
+        pass
+
+    return None
+
+
+def _extract_json_object(raw_text: str) -> Dict[str, Any]:
+    """Attempt to parse a JSON object from raw model output."""
+
+    cleaned = raw_text.strip()
+    candidates: List[str] = []
+
+    balanced_block = _find_first_braced_block(cleaned)
+    if balanced_block:
+        candidates.append(balanced_block)
+
+    regex_match = re.search(r"\{.*\}", cleaned, re.DOTALL)
+    if regex_match:
+        candidates.append(regex_match.group(0))
+
+    candidates.append(cleaned)
+
+    seen = set()
+    for candidate in candidates:
+        if candidate in seen:
+            continue
+        seen.add(candidate)
+        parsed = _try_parse_json_object(candidate)
+        if parsed is not None:
+            return parsed
+
     raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}")
 
 
