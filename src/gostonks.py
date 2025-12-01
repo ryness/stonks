@@ -2710,6 +2710,27 @@ def _extract_json_object(raw_text: str) -> Dict[str, Any]:
     raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}")
 
 
+def _response_text_fallback(response: Any) -> str:
+    """Collect text from OpenAI responses.create payloads even if output_text is empty."""
+
+    try:
+        output_blocks = getattr(response, "output", None)
+    except Exception:
+        output_blocks = None
+    if not output_blocks:
+        return ""
+
+    parts: List[str] = []
+    for block in output_blocks:
+        content = getattr(block, "content", None)
+        if isinstance(content, list):
+            for item in content:
+                text = getattr(item, "text", None) or (item.get("text") if isinstance(item, Mapping) else None)
+                if text:
+                    parts.append(str(text))
+    return "\n".join(parts).strip()
+
+
 def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, Any]:
     """Invoke GPT-5 and obtain structured answers for targeted bullets."""
 
@@ -2788,7 +2809,19 @@ def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, 
         ],
     )
     log_status("Received response from OpenAI.")
-    raw_output = response.output_text.strip()
+    raw_output = getattr(response, "output_text", "") or ""
+    raw_output = str(raw_output).strip()
+    if not raw_output:
+        raw_output = _response_text_fallback(response)
+    if not raw_output:
+        response_repr = ""
+        try:
+            response_repr = json.dumps(response.to_dict(), ensure_ascii=False)[:4000]
+        except Exception:
+            response_repr = repr(response)[:4000]
+        raise RuntimeError(f"LLM response was empty; full payload: {response_repr}")
+    preview = raw_output.replace("\n", "\\n")[:600]
+    log_status(f"LLM raw output (truncated): {preview}")
     parsed = _extract_json_object(raw_output)
 
     sanitized: Dict[str, Any] = {}
