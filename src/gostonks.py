@@ -2658,28 +2658,37 @@ def _clean_json_text(raw_text: str) -> str:
     text = text.replace("\u201c", '"').replace("\u201d", '"')
     text = text.replace("\u2018", "'").replace("\u2019", "'")
     text = re.sub(r",\s*(?=[}\]])", "", text)  # drop trailing commas
+    text = re.sub(r"[\x00-\x08\x0b-\x0c\x0e-\x1f]", " ", text)  # strip control chars
     return text
 
 
-def _try_parse_json_object(text: str) -> Optional[Dict[str, Any]]:
+def _try_parse_json_object(text: str) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
     """Best-effort parse of text into a dict, tolerating loose JSON."""
 
     cleaned = _clean_json_text(text)
+    last_error: Optional[str] = None
     try:
-        parsed = json.loads(cleaned)
+        parsed = json.loads(cleaned, strict=False)
         if isinstance(parsed, dict):
-            return parsed
-    except json.JSONDecodeError:
-        pass
+            return parsed, None
+    except json.JSONDecodeError as exc:
+        last_error = f"json.loads strict=False failed: {exc}"
 
     try:
         parsed = ast.literal_eval(cleaned)
         if isinstance(parsed, dict):
-            return parsed
-    except (ValueError, SyntaxError):
-        pass
+            return parsed, None
+    except (ValueError, SyntaxError) as exc:
+        last_error = f"ast.literal_eval failed: {exc}"
 
-    return None
+    try:
+        parsed = yaml.safe_load(cleaned)
+        if isinstance(parsed, dict):
+            return parsed, None
+    except Exception as exc:
+        last_error = f"yaml.safe_load failed: {exc}"
+
+    return None, last_error
 
 
 def _extract_json_object(raw_text: str) -> Dict[str, Any]:
@@ -2699,15 +2708,20 @@ def _extract_json_object(raw_text: str) -> Dict[str, Any]:
     candidates.append(cleaned)
 
     seen = set()
+    errors: List[str] = []
     for candidate in candidates:
         if candidate in seen:
             continue
         seen.add(candidate)
-        parsed = _try_parse_json_object(candidate)
+        parsed, parse_error = _try_parse_json_object(candidate)
         if parsed is not None:
             return parsed
+        if parse_error:
+            preview = candidate.replace("\n", "\\n")[:240]
+            errors.append(f"{parse_error} on candidate: {preview}")
 
-    raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}")
+    error_text = "\n".join(errors[:3])
+    raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}\n\nParse errors:\n{error_text}")
 
 
 def _response_text_fallback(response: Any) -> str:
