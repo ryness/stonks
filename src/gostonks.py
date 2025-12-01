@@ -2688,6 +2688,33 @@ def _try_parse_json_object(text: str) -> Tuple[Optional[Dict[str, Any]], Optiona
     except Exception as exc:
         last_error = f"yaml.safe_load failed: {exc}"
 
+    # Final fallback: manual top-level parsing for simple string-valued objects, tolerating unescaped quotes.
+    def _manual_parse_top_level_strings(block: str) -> Optional[Dict[str, Any]]:
+        brace_block = _find_first_braced_block(block) or block
+        if not brace_block.startswith("{") or not brace_block.endswith("}"):
+            return None
+        inner = brace_block[1:-1]
+        matches = list(re.finditer(r'"([^"]+)":', inner))
+        if not matches:
+            return None
+        result: Dict[str, Any] = {}
+        for idx, match in enumerate(matches):
+            key = match.group(1)
+            value_start = match.end()
+            value_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(inner)
+            raw_val = inner[value_start:value_end].strip().rstrip(",")
+            if raw_val.startswith('"') and raw_val.endswith('"'):
+                raw_val = raw_val[1:-1]
+            elif raw_val.startswith("'") and raw_val.endswith("'"):
+                raw_val = raw_val[1:-1]
+            raw_val = raw_val.replace('\\"', '"').replace("\\'", "'")
+            result[key] = raw_val.strip()
+        return result
+
+    manual = _manual_parse_top_level_strings(cleaned)
+    if manual is not None:
+        return manual, last_error
+
     return None, last_error
 
 
