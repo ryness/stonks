@@ -2,11 +2,13 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2025-11-29
-generated_at: 2025-11-29T22:16:36.837656+00:00
-runtime_seconds: 26.76
+date: 2025-12-04
+generated_at: 2025-12-04T15:24:29.329107+00:00
+runtime_seconds: 31.31
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-29T22:16:36.837656+00:00">2025-11-29 22:16 UTC</time> (runtime 26.76s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-04T15:24:29.329107+00:00">2025-12-04 15:24 UTC</time> (runtime 31.31s)
+  
+  ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -46,29 +48,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - Super Micro Computer, Inc. (NASDAQ:SMCI) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap? — 2025-11-27
-  - SMCI Aims for $36B in FY26 Revenues: Is the Growth Target Realistic? — 2025-11-27
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a downtrend near 3‑month bottom and just above 7‑day/30‑day support around 31.03 while trading well below the 20‑day average of 35.49; macro froth visibility is limited but SMCI was one of the S&P 500's worst November performers after a 36% monthly drop, suggesting recent de‑frothing rather than peak exuberance.
+  0.1. **Long Entry?:** maybe — shares are near 3-month bottom and just above strong support at $31.03 after a sharp AI-tech correction, but still trade well below the 20-day ($35.49) and longer SMAs/EMAs ($45.23/$41.63), signaling a damaged trend; macro context is a broad "tech stock massacre" rather than clear new froth, yet RSI ~36 and high ATR (~8% of price) flag elevated downside volatility around entries.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer, Inc. designs, develops, and sells server and storage solutions based on modular, open-standard architectures. Its portfolio includes liquid and air-cooled AI servers with GPUs, blade and multi-node systems (SuperBlade, MicroBlade, GrandTwin, BigTwin), storage systems, rackmount and MicroCloud systems, embedded 5G/IoT/edge systems, workstations, networking devices, and server components. The company also provides remote system management software and data center services including rack-level design, deployment, support, and maintenance.
+  1.1. **Activities:** Super Micro Computer, Inc. designs and provides high-performance server and storage systems for cloud computing, enterprise data centers, AI datacenters, high-performance computing, and IoT/edge markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software. The company operates as a single segment built around a modular, open-standard architecture for turnkey AI and data center solutions.
   
-  1.2. **Profitable?:** yes — the company is profitable, with cumulative net income of about $792.8M over recent periods and a positive profit margin of 3.77%, despite negative recent revenue and earnings growth and slightly negative free cash flow.
+  1.2. **Profitable?:** yes — the company is currently profitable, with positive net income in recent periods totaling about $792.8M and a profit margin of 3.77%, despite recent revenue (-15.5%) and earnings (-60.3%) growth pressure.
   
-  1.3. **Customer & Markets:** Super Micro Computer primarily serves enterprise data centers, cloud computing providers, artificial intelligence workloads, 5G, and edge computing customers. It sells through direct and indirect channels including distributors, value-added resellers, system integrators, and OEMs across the United States, Asia, Europe, and other international markets.
+  1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud computing providers, AI and high-performance computing customers, 5G/edge deployments, and IoT/embedded markets. More than half of revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, giving it a diversified global customer base across technology infrastructure buyers.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** Key competitors include Dell, Hewlett Packard Enterprise, and other data center and AI infrastructure players such as Nvidia, AMD, Intel, Microsoft, Google, and Meta. SMCI is a leading specialist in AI servers but holds a smaller overall server market share than giants like Dell (SMCI about 10.2% vs. Dell ~45.7% as of Q3 2025).
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the price has trended lower from a local high near 35.82 toward support around 31.03, and the 7d Trend label is 'down'.
+  2.1. **7d Trend?:** down — over the past week the price fell from around $33.68 to $32.19 and sits in a labeled downtrend near support.
   
-  2.2. **7d Buy/Sell Points?:** The area near the 7-day and 30-day support level around 31.03 appears to have been a favorable buy zone, while the recent local high and 7-day resistance around 35.78–35.82 offered attractive short-term selling opportunities.
+  2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the $31.03 support zone offered better buy entries, while rebounds toward $35.78–$35.82 near short-term resistance were favorable sell or trim areas.
   
   2.3.1. **7d Volume:** med
   
@@ -76,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Super Micro Computer, Inc. appears to be a relatively stable institution, having been incorporated in 1993 and operating globally in the data center and server hardware market. It has generated positive net income totaling about $792.8M across recent periods and maintains positive operating cash flow, although free cash flow is slightly negative. The profit margin is modest at 3.77% and recent revenue and earnings growth are negative, indicating some cyclical or execution risk but not a fly-by-night profile. Its broad geographic reach and diversified product and services portfolio across AI, cloud, and enterprise customers further support its stability.
+  3.1. **Stability?:** Super Micro is a 30-year-old, established technology company that has grown into a major provider of data center and AI server infrastructure, including recent inclusion in the S&P 500 index as recognition of its sales and market-cap growth. It consistently generates positive net income, though recent earnings and revenue growth have decelerated and free cash flow has been slightly negative despite strong operating cash flow. The firm's global customer base and diversified regional revenue (U.S., Europe, Asia) add to its resilience, but high volatility and large drawdowns, including a 63% drop from its 52-week high and sharp November selloff, show that the stock is far from low-risk. Overall, the business appears structurally stable, while the equity remains cyclically and sentiment-driven.
   
-  3.2. **Innovating?:** The company is innovating and growth-oriented, as evidenced by its focus on liquid- and air-cooled AI servers, 5G/IoT/edge systems, and modular data center strategies, and by its stated ambition to reach $36B in FY26 revenues despite a recent quarterly dip.
+  3.2. **Innovating?:** Super Micro is actively innovating and growing, with a broad and expanding portfolio of AI-optimized servers, GPU systems, and rack-scale architectures for next-generation datacenters. Its focus on application-optimized, modular, and energy-efficient designs for AI, cloud, 5G, and edge workloads indicates ongoing product development rather than a stale offering.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights that SMCI was among the S&P 500's worst performers in November and its stock fell about 36% over the month, despite commentary that its underlying financials look strong. Another report notes that management is targeting $36B in FY26 revenues, leaning on AI demand and modular data center strategies, signaling aggressive growth expectations. Broader market pieces mention strong insider ownership and confidence themes, which can attract growth investors in a robust market tape. The juxtaposition of sharp price weakness with optimistic long-term targets suggests prior optimism may have been priced in and is now being unwound, so current headlines may be more about reassessing growth than a classic 'buy the rumor, sell the news' event.
+  4.1. **News:** Recent headlines describe a sharp November tech correction where SMCI and other AI-focused names crashed as investors took profits and sentiment turned risk-off. Other coverage frames SMCI and Oracle as "crushed" but potentially oversold AI plays with significant upside if earnings and AI infrastructure demand hold up. Nvidia's earnings and guidance are portrayed as pivotal for broader tech and AI sentiment, indirectly affecting SMCI's trading as part of the AI hardware complex. With the quick-fact flags of "Buy the dip? yes" but "Buy the rumor? no" and "Sell the news? no," the current setup looks more like post-news capitulation than a classic buy-the-rumor/sell-the-news spike, suggesting opportunity may lie in faded pessimism rather than chasing headlines.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariffs have been a clear headwind, with reports citing SMCI stock plunges on tariff-related uncertainty and management explicitly warning that economic uncertainty and tariff impacts may hurt results in the short term; given its sizable China revenue exposure (around a quarter to a third of sales), tariff policy has created material volatility and downside pressure on the shares.
   
   ## 5. QuickRef
   
@@ -113,9 +114,11 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: headlines (none)</li>
-  <li>yfinance: company profile, fundamentals, earnings calendar, headlines (5 items)</li>
-  <li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: competitive landscape, rumor</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -128,165 +131,108 @@ raw_markdown: |
   Gathering market data...
   Using cached price bars from database (rows=2523, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=%2A%2A%2A
-  Massive open-close: response 401 from https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive previous close: response 401 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive SMA: response 401 from https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive EMA: response 401 from https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 401 from https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive RSI: response 401 from https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive RSI: response 200 from https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
   Fetching company profile (massive.com)...
   Massive profile: GET https://api.massive.com/v3/reference/tickers/SMCI?apiKey=%2A%2A%2A
-  Massive profile: response 401 from https://api.massive.com/v3/reference/tickers/SMCI?apiKey=&lt;redacted&gt;
+  Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/SMCI?apiKey=&lt;redacted&gt;
+  Massive profile: company metadata retrieved successfully.
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/SMCI.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/SMCI?apiKey=%2A%2A%2A
-  Massive related companies: response 401 from https://api.massive.com/v1/related-companies/SMCI?apiKey=&lt;redacted&gt;
+  Massive related companies: response 200 from https://api.massive.com/v1/related-companies/SMCI?apiKey=&lt;redacted&gt;
+  Massive related companies: retrieved 10 entries.
   Fetching company fundamentals...
   Retrieving earnings calendar...
-  Massive earnings: demo key detected; skipping lookup to avoid 404 spam.
+  Massive earnings: attempting request with key 2QGS***XN
+  Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=SMCI&amp;limit=4&amp;apiKey=%2A%2A%2A
+  Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=SMCI&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 401 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-    massive.com returned no headlines; falling back to yfinance.
-    yfinance returned 5 headlines
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 5 articles.
+    massive.com returned 5 headlines
+  Filtered 1 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; SMCI core business (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
+      google_custom_search: 5 result(s)
     google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
+      google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      google_custom_search: error: missing API key or engine id
-      newsapi: error: missing API key
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: cached 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -305,11 +251,14 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are near 3-month bottom and just above strong support at $31.03 after a sharp AI-tech correction, but still trade well below the 20-day ($35.49) and longer SMAs/EMAs ($45.23/$41.63), signaling a damaged trend; macro context is a broad \&quot;tech stock massacre\&quot; rather than clear new froth, yet RSI ~36 and high ATR (~8% of price) flag elevated downside volatility around entries.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and provides high-performance server and storage systems for cloud computing, enterprise data centers, AI datacenters, high-performance computing, and Io
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-29T22:16:36.837656+00:00">2025-11-29 22:16 UTC</time> (runtime 26.76s)
+**Generated:** <time class="js-local-time" datetime="2025-12-04T15:24:29.329107+00:00">2025-12-04 15:24 UTC</time> (runtime 31.31s)
+
+![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -349,29 +298,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- Super Micro Computer, Inc. (NASDAQ:SMCI) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap? — 2025-11-27
-- SMCI Aims for $36B in FY26 Revenues: Is the Growth Target Realistic? — 2025-11-27
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a downtrend near 3‑month bottom and just above 7‑day/30‑day support around 31.03 while trading well below the 20‑day average of 35.49; macro froth visibility is limited but SMCI was one of the S&P 500's worst November performers after a 36% monthly drop, suggesting recent de‑frothing rather than peak exuberance.
+0.1. **Long Entry?:** maybe — shares are near 3-month bottom and just above strong support at $31.03 after a sharp AI-tech correction, but still trade well below the 20-day ($35.49) and longer SMAs/EMAs ($45.23/$41.63), signaling a damaged trend; macro context is a broad "tech stock massacre" rather than clear new froth, yet RSI ~36 and high ATR (~8% of price) flag elevated downside volatility around entries.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer, Inc. designs, develops, and sells server and storage solutions based on modular, open-standard architectures. Its portfolio includes liquid and air-cooled AI servers with GPUs, blade and multi-node systems (SuperBlade, MicroBlade, GrandTwin, BigTwin), storage systems, rackmount and MicroCloud systems, embedded 5G/IoT/edge systems, workstations, networking devices, and server components. The company also provides remote system management software and data center services including rack-level design, deployment, support, and maintenance.
+1.1. **Activities:** Super Micro Computer, Inc. designs and provides high-performance server and storage systems for cloud computing, enterprise data centers, AI datacenters, high-performance computing, and IoT/edge markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software. The company operates as a single segment built around a modular, open-standard architecture for turnkey AI and data center solutions.
 
-1.2. **Profitable?:** yes — the company is profitable, with cumulative net income of about $792.8M over recent periods and a positive profit margin of 3.77%, despite negative recent revenue and earnings growth and slightly negative free cash flow.
+1.2. **Profitable?:** yes — the company is currently profitable, with positive net income in recent periods totaling about $792.8M and a profit margin of 3.77%, despite recent revenue (-15.5%) and earnings (-60.3%) growth pressure.
 
-1.3. **Customer & Markets:** Super Micro Computer primarily serves enterprise data centers, cloud computing providers, artificial intelligence workloads, 5G, and edge computing customers. It sells through direct and indirect channels including distributors, value-added resellers, system integrators, and OEMs across the United States, Asia, Europe, and other international markets.
+1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud computing providers, AI and high-performance computing customers, 5G/edge deployments, and IoT/embedded markets. More than half of revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, giving it a diversified global customer base across technology infrastructure buyers.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** Key competitors include Dell, Hewlett Packard Enterprise, and other data center and AI infrastructure players such as Nvidia, AMD, Intel, Microsoft, Google, and Meta. SMCI is a leading specialist in AI servers but holds a smaller overall server market share than giants like Dell (SMCI about 10.2% vs. Dell ~45.7% as of Q3 2025).
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the price has trended lower from a local high near 35.82 toward support around 31.03, and the 7d Trend label is 'down'.
+2.1. **7d Trend?:** down — over the past week the price fell from around $33.68 to $32.19 and sits in a labeled downtrend near support.
 
-2.2. **7d Buy/Sell Points?:** The area near the 7-day and 30-day support level around 31.03 appears to have been a favorable buy zone, while the recent local high and 7-day resistance around 35.78–35.82 offered attractive short-term selling opportunities.
+2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the $31.03 support zone offered better buy entries, while rebounds toward $35.78–$35.82 near short-term resistance were favorable sell or trim areas.
 
 2.3.1. **7d Volume:** med
 
@@ -379,15 +327,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Super Micro Computer, Inc. appears to be a relatively stable institution, having been incorporated in 1993 and operating globally in the data center and server hardware market. It has generated positive net income totaling about $792.8M across recent periods and maintains positive operating cash flow, although free cash flow is slightly negative. The profit margin is modest at 3.77% and recent revenue and earnings growth are negative, indicating some cyclical or execution risk but not a fly-by-night profile. Its broad geographic reach and diversified product and services portfolio across AI, cloud, and enterprise customers further support its stability.
+3.1. **Stability?:** Super Micro is a 30-year-old, established technology company that has grown into a major provider of data center and AI server infrastructure, including recent inclusion in the S&P 500 index as recognition of its sales and market-cap growth. It consistently generates positive net income, though recent earnings and revenue growth have decelerated and free cash flow has been slightly negative despite strong operating cash flow. The firm's global customer base and diversified regional revenue (U.S., Europe, Asia) add to its resilience, but high volatility and large drawdowns, including a 63% drop from its 52-week high and sharp November selloff, show that the stock is far from low-risk. Overall, the business appears structurally stable, while the equity remains cyclically and sentiment-driven.
 
-3.2. **Innovating?:** The company is innovating and growth-oriented, as evidenced by its focus on liquid- and air-cooled AI servers, 5G/IoT/edge systems, and modular data center strategies, and by its stated ambition to reach $36B in FY26 revenues despite a recent quarterly dip.
+3.2. **Innovating?:** Super Micro is actively innovating and growing, with a broad and expanding portfolio of AI-optimized servers, GPU systems, and rack-scale architectures for next-generation datacenters. Its focus on application-optimized, modular, and energy-efficient designs for AI, cloud, 5G, and edge workloads indicates ongoing product development rather than a stale offering.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights that SMCI was among the S&P 500's worst performers in November and its stock fell about 36% over the month, despite commentary that its underlying financials look strong. Another report notes that management is targeting $36B in FY26 revenues, leaning on AI demand and modular data center strategies, signaling aggressive growth expectations. Broader market pieces mention strong insider ownership and confidence themes, which can attract growth investors in a robust market tape. The juxtaposition of sharp price weakness with optimistic long-term targets suggests prior optimism may have been priced in and is now being unwound, so current headlines may be more about reassessing growth than a classic 'buy the rumor, sell the news' event.
+4.1. **News:** Recent headlines describe a sharp November tech correction where SMCI and other AI-focused names crashed as investors took profits and sentiment turned risk-off. Other coverage frames SMCI and Oracle as "crushed" but potentially oversold AI plays with significant upside if earnings and AI infrastructure demand hold up. Nvidia's earnings and guidance are portrayed as pivotal for broader tech and AI sentiment, indirectly affecting SMCI's trading as part of the AI hardware complex. With the quick-fact flags of "Buy the dip? yes" but "Buy the rumor? no" and "Sell the news? no," the current setup looks more like post-news capitulation than a classic buy-the-rumor/sell-the-news spike, suggesting opportunity may lie in faded pessimism rather than chasing headlines.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariffs have been a clear headwind, with reports citing SMCI stock plunges on tariff-related uncertainty and management explicitly warning that economic uncertainty and tariff impacts may hurt results in the short term; given its sizable China revenue exposure (around a quarter to a third of sales), tariff policy has created material volatility and downside pressure on the shares.
 
 ## 5. QuickRef
 
@@ -416,9 +364,11 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: headlines (none)</li>
-<li>yfinance: company profile, fundamentals, earnings calendar, headlines (5 items)</li>
-<li>The Guardian: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: competitive landscape, rumor</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -431,165 +381,108 @@ Gathering context for SMCI...
 Gathering market data...
 Using cached price bars from database (rows=2523, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=%2A%2A%2A
-Massive open-close: response 401 from https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMCI/2025-11-21?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=%2A%2A%2A
-Massive previous close: response 401 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/SMCI/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive SMA: response 401 from https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive EMA: response 401 from https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/SMCI?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 401 from https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/SMCI?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive RSI: response 401 from https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive RSI: response 200 from https://api.massive.com/v1/indicators/rsi/SMCI?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
 Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/SMCI?apiKey=%2A%2A%2A
-Massive profile: response 401 from https://api.massive.com/v3/reference/tickers/SMCI?apiKey=&lt;redacted&gt;
+Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/SMCI?apiKey=&lt;redacted&gt;
+Massive profile: company metadata retrieved successfully.
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/SMCI.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/SMCI?apiKey=%2A%2A%2A
-Massive related companies: response 401 from https://api.massive.com/v1/related-companies/SMCI?apiKey=&lt;redacted&gt;
+Massive related companies: response 200 from https://api.massive.com/v1/related-companies/SMCI?apiKey=&lt;redacted&gt;
+Massive related companies: retrieved 10 entries.
 Fetching company fundamentals...
 Retrieving earnings calendar...
-Massive earnings: demo key detected; skipping lookup to avoid 404 spam.
+Massive earnings: attempting request with key 2QGS***XN
+Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=SMCI&amp;limit=4&amp;apiKey=%2A%2A%2A
+Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=SMCI&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 401 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  massive.com returned no headlines; falling back to yfinance.
-  yfinance returned 5 headlines
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 5 articles.
+  massive.com returned 5 headlines
+Filtered 1 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; SMCI core business (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
+    google_custom_search: 5 result(s)
   google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
+    google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    google_custom_search: error: missing API key or engine id
-    newsapi: error: missing API key
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: cached 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -608,5 +501,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are near 3-month bottom and just above strong support at $31.03 after a sharp AI-tech correction, but still trade well below the 20-day ($35.49) and longer SMAs/EMAs ($45.23/$41.63), signaling a damaged trend; macro context is a broad \&quot;tech stock massacre\&quot; rather than clear new froth, yet RSI ~36 and high ATR (~8% of price) flag elevated downside volatility around entries.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and provides high-performance server and storage systems for cloud computing, enterprise data centers, AI datacenters, high-performance computing, and Io
 </code></pre>
 </details>
