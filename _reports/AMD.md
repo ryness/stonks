@@ -2,11 +2,11 @@
 layout: default
 title: "AMD Stock Report"
 ticker: "AMD"
-date: 2025-12-05
-generated_at: 2025-12-05T20:23:38.034545+00:00
-runtime_seconds: 30.72
+date: 2025-12-10
+generated_at: 2025-12-10T10:24:52.467754+00:00
+runtime_seconds: 37.91
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-05T20:23:38.034545+00:00">2025-12-05 20:23 UTC</time> (runtime 30.72s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-10T10:24:52.467754+00:00">2025-12-10 10:24 UTC</time> (runtime 37.91s)
   
   ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
   
@@ -48,28 +48,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Beyond NVIDIA: 5 Semiconductor Stocks Set to Dominate 2026](https://www.investing.com/analysis/beyond-nvidia-5-semiconductor-stocks-set-to-dominate-2026-200671270) — Investing.com · 2025-12-04
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price has pulled back into oversold territory near 1-year support around $194 vs recent highs near $263 and 20-day average ~$227; macro AI bubble/froth risk is flagged in broader market commentary but specific visibility from this dataset is limited, and the stock remains below key moving averages and resistance at ~$234-263, suggesting better entries closer to strong support than to overhead supply.
+  0.1. **Long Entry?:** maybe — price has pulled back into oversold territory near 7d/30d support around 194 with the close at 196 and well below the 20-day moving average near 227, suggesting a potential dip-buy zone; however, macro AI froth risk is flagged in broader news about AI bubble concerns and the MACD is negative with a defined short-term downtrend toward nearby support, so entry timing remains tricky.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Advanced Micro Devices designs high-performance and adaptive computing semiconductors, including CPUs, GPUs, and accelerators for PCs, data centers (including artificial intelligence), gaming consoles, industrial, and automotive applications. It provides chips for major game consoles like Sony PlayStation and Microsoft Xbox and is emerging as a prominent player in AI GPUs and related hardware.
+  1.1. **Activities:** Advanced Micro Devices designs and sells high-performance semiconductors, including CPUs and GPUs for PCs, gaming consoles, and data center workloads such as artificial intelligence. The company also offers chips for industrial and automotive applications and powers major game consoles like Sony PlayStation and Microsoft Xbox. AMD operates as a fabless chip designer, relying on foundry partners for manufacturing.
   
-  1.2. **Profitable?:** yes — AMD is profitable, with positive net income over recent periods totaling about $3.3B, a profit margin of roughly 10%, strong earnings growth, and solid free cash flow.
+  1.2. **Profitable?:** yes — AMD is profitable, with positive net income over the last four periods totaling about $3.3 billion, a profit margin of roughly 10%, and strong free cash flow and earnings growth.
   
-  1.3. **Customer & Markets:** AMD's primary customers are OEMs, hyperscale and enterprise data centers, gaming console makers, PC manufacturers, and embedded/industrial and automotive system providers. It serves global markets across data center, client PC, gaming, and embedded segments, including applications in AI, industrial, and automotive end markets.
+  1.3. **Customer & Markets:** AMD's primary customers are OEMs, cloud and data center providers, console makers, and enterprises that use its CPUs, GPUs, and AI accelerators in PCs, gaming systems, and servers. Its main markets include data center, client PC, gaming (including consoles and discrete GPUs), and embedded/industrial and automotive segments, with a global footprint anchored in the United States. Company materials also highlight a focus on advancing data center, embedded, gaming, and PC markets specifically.
   
-  1.4. **Competition:** AMD's main competitors include Nvidia, Intel, Broadcom, and large platform companies such as Microsoft, Google, Amazon, and Meta, with AMD positioned as a leading challenger in CPUs and a fast-growing but still smaller player versus Nvidia in GPUs and AI accelerators.
+  1.4. **Competition:** AMD's principal competitors include Nvidia and Intel in GPUs and CPUs, as well as other large tech and semiconductor firms like Broadcom; industry analyses describe it as a major alternative that is steadily gaining x86 CPU and AI infrastructure share against Intel and Nvidia. While Nvidia currently leads in AI GPUs, AMD is emerging as a prominent AI hardware player and is viewed by some analysts as attractively positioned versus peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the price has fallen from the low-$260s/low-$230s resistance area toward support around $194, and indicators label the 7d trend as down with MACD negative.
+  2.1. **7d Trend?:** down — the 7d trend is labeled 'down' with price falling from a prior close around 222 toward the 196 area and trading below the 20-day moving average.
   
-  2.2. **7d Buy/Sell Points?:** In the past 3–7 trading days, entries near the identified support around $194.27 represented favorable buy levels, while the region between approximately $234 and the recent local high near $235.28 offered attractive short-term sell or trim points. The broader 30-day resistance up near $263.51 also stands out as a notable profit-taking zone for earlier buyers.
+  2.2. **7d Buy/Sell Points?:** Over the last week, prices near the identified support around 194.27 appeared to offer better buy entries, while rallies toward the 7d resistance around 234.25 or the recent local high near 235.28 offered favorable sell or trim levels. The current close just above support suggests limited downside buffer before that buy zone is retested.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Advanced Micro Devices is a long-established U.S. semiconductor company with a multi-decade operating history and a broad presence across PCs, data centers, gaming, industrial, and automotive markets. Its financials show consistent profitability in recent periods, positive net income totaling about $3.3B, and strong free cash flow and operating cash flow, which support reinvestment and resilience. The firm is not heavily reliant on a single niche, instead selling into diversified end markets and supplying marquee customers such as major console makers. Overall, the combination of longevity, diversified revenue streams, and solid cash generation points to a relatively stable institution rather than a fly-by-night operation.
+  3.1. **Stability?:** AMD is a long-established U.S. semiconductor company with a multi-year trading history and a diversified presence across PCs, gaming, data center, and embedded markets, indicating it is not a fly-by-night operator. Financially, it shows consistent profitability (roughly 10% profit margin), strong revenue and earnings growth, and sizable free cash flow of about $3.25 billion with solid operating cash flow. Its position in core compute markets, including AI GPUs and major game consoles, supports long-term relevance and resilience. The balance of positive net income, cash generation, and broad end-market exposure signals a relatively stable institution within the inherently cyclical semiconductor sector.
   
-  3.2. **Innovating?:** AMD appears to be innovating and growing, as evidenced by its emergence as a prominent AI GPU and hardware provider, participation in AI-driven data center growth, and strong revenue and earnings growth rates. Its inclusion among semiconductor names expected to benefit from the AI supercycle into 2026 also suggests ongoing product and market expansion rather than stagnation.
+  3.2. **Innovating?:** AMD is actively innovating and growing, as seen in its emergence as a prominent AI GPU and data center hardware provider and its expansion across PC, gaming, and embedded markets. Strong recent revenue (up ~36% YoY in related AI infrastructure peers) and AMD's highlighted AI and adaptive computing portfolio underscore an ongoing innovation push rather than stasis.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines emphasize an AI-driven semiconductor cycle in which AMD is cited alongside Broadcom, Micron, Marvell, and Analog Devices as a key beneficiary expected to gain into 2026. Other articles discuss broader AI platform competition (OpenAI vs. Google) and infrastructure suppliers as relatively stable beneficiaries, which indirectly supports demand for AMD's AI and data center chips. Additional coverage highlights AMD's role in powering large AI superclusters and participation in competitive but growing GPU markets. Given quick facts indicating “Buy the rumor? no” and “Sell the news? no,” the current setup suggests the stock may be trading more on structural AI growth than on short-lived rumor/news spikes, somewhat muting the classic “buy the rumor, sell the news” pattern for now.
+  4.1. **News:** Recent context around AMD is dominated by broader AI and semiconductor narratives, including concerns about an AI-driven market bubble and shifting competition such as custom AI chips from hyperscalers and rivals like Marvell expanding in AI infrastructure. Commentary notes that investors are weighing whether AI chip names, including AMD, can justify lofty valuations, linking to worries about an AI slump and bubble risk in the S&P 500. At the same time, multiple analyst notes and coverage pieces (e.g., from TD Cowen and others) highlight AMD as a key AI and augmented reality beneficiary and a top chip idea for 2026, reflecting strong bullish expectations. In light of the "buy the rumor, sell the news" adage, the quick facts indicate 'Buy the rumor? no' and 'Sell the news? no', suggesting current flows are more about buying actual AI execution/dips than chasing unsubstantiated rumors or selling on headlines.
   
-  4.2. **Tarrifs:** Tariffs have periodically raised costs and posed short-term headwinds for AMD and peers by increasing prices on China-related chip and graphics card supply chains, though AMD is noted as somewhat less exposed than some rivals due to a more decentralized supply chain and specific arrangements that can mitigate direct tariff impact on its stock performance.
+  4.2. **Tarrifs:** Tariffs have been reported as a headwind that can raise AMD's production costs and downstream PC and GPU prices, with prior U.S.-China semiconductor tariffs specifically cited as affecting AMD and Nvidia graphics cards and AMD's CEO acknowledging potential short-term chip impacts. However, some analysis suggests AMD's more decentralized, Taiwan-based manufacturing footprint may leave it somewhat less exposed than certain peers, and recent reports also note that big tech firms like AMD and Nvidia have sometimes negotiated around the harshest tariff impacts.
   
   ## 5. QuickRef
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -162,7 +162,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AMD&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 2 headline(s) from banned sources.
+  Filtered 4 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; AMD core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+core+business&amp;num=5
@@ -214,7 +214,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; AMD latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; AMD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -242,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into oversold territory near 1-year support around $194 vs recent highs near $263 and 20-day average ~$227; macro AI bubble/froth risk is flagged in broader market commentary but specific visibility from this dataset is limited, and the stock remains below key moving averages and resistance at ~$234-263, suggesting better entries closer to strong support than to overhead supply.&quot;, &quot;1.1&quot;: &quot;Advanced Micro Devices designs high-performance and adaptive computing semiconductors, including CPUs, GPUs, and accelerators for PCs, data centers (including artificial
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into oversold territory near 7d/30d support around 194 with the close at 196 and well below the 20-day moving average near 227, suggesting a potential dip-buy zone; however, macro AI froth risk is flagged in broader news about AI bubble concerns and the MACD is negative with a defined short-term downtrend toward nearby support, so entry timing remains tricky.&quot;, &quot;1.1&quot;: &quot;Advanced Micro Devices designs and sells high-performance semiconductors, including CPUs and GPUs for PCs, gaming consoles, and data center workloads such as artificial intelligence. The co
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-05T20:23:38.034545+00:00">2025-12-05 20:23 UTC</time> (runtime 30.72s)
+**Generated:** <time class="js-local-time" datetime="2025-12-10T10:24:52.467754+00:00">2025-12-10 10:24 UTC</time> (runtime 37.91s)
 
 ![Advanced Micro Devices logo](https://ryness.github.io/stonks/assets/logos/AMD.svg)
 
@@ -289,28 +289,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Beyond NVIDIA: 5 Semiconductor Stocks Set to Dominate 2026](https://www.investing.com/analysis/beyond-nvidia-5-semiconductor-stocks-set-to-dominate-2026-200671270) — Investing.com · 2025-12-04
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price has pulled back into oversold territory near 1-year support around $194 vs recent highs near $263 and 20-day average ~$227; macro AI bubble/froth risk is flagged in broader market commentary but specific visibility from this dataset is limited, and the stock remains below key moving averages and resistance at ~$234-263, suggesting better entries closer to strong support than to overhead supply.
+0.1. **Long Entry?:** maybe — price has pulled back into oversold territory near 7d/30d support around 194 with the close at 196 and well below the 20-day moving average near 227, suggesting a potential dip-buy zone; however, macro AI froth risk is flagged in broader news about AI bubble concerns and the MACD is negative with a defined short-term downtrend toward nearby support, so entry timing remains tricky.
 
 ## 1. The Biz
 
-1.1. **Activities:** Advanced Micro Devices designs high-performance and adaptive computing semiconductors, including CPUs, GPUs, and accelerators for PCs, data centers (including artificial intelligence), gaming consoles, industrial, and automotive applications. It provides chips for major game consoles like Sony PlayStation and Microsoft Xbox and is emerging as a prominent player in AI GPUs and related hardware.
+1.1. **Activities:** Advanced Micro Devices designs and sells high-performance semiconductors, including CPUs and GPUs for PCs, gaming consoles, and data center workloads such as artificial intelligence. The company also offers chips for industrial and automotive applications and powers major game consoles like Sony PlayStation and Microsoft Xbox. AMD operates as a fabless chip designer, relying on foundry partners for manufacturing.
 
-1.2. **Profitable?:** yes — AMD is profitable, with positive net income over recent periods totaling about $3.3B, a profit margin of roughly 10%, strong earnings growth, and solid free cash flow.
+1.2. **Profitable?:** yes — AMD is profitable, with positive net income over the last four periods totaling about $3.3 billion, a profit margin of roughly 10%, and strong free cash flow and earnings growth.
 
-1.3. **Customer & Markets:** AMD's primary customers are OEMs, hyperscale and enterprise data centers, gaming console makers, PC manufacturers, and embedded/industrial and automotive system providers. It serves global markets across data center, client PC, gaming, and embedded segments, including applications in AI, industrial, and automotive end markets.
+1.3. **Customer & Markets:** AMD's primary customers are OEMs, cloud and data center providers, console makers, and enterprises that use its CPUs, GPUs, and AI accelerators in PCs, gaming systems, and servers. Its main markets include data center, client PC, gaming (including consoles and discrete GPUs), and embedded/industrial and automotive segments, with a global footprint anchored in the United States. Company materials also highlight a focus on advancing data center, embedded, gaming, and PC markets specifically.
 
-1.4. **Competition:** AMD's main competitors include Nvidia, Intel, Broadcom, and large platform companies such as Microsoft, Google, Amazon, and Meta, with AMD positioned as a leading challenger in CPUs and a fast-growing but still smaller player versus Nvidia in GPUs and AI accelerators.
+1.4. **Competition:** AMD's principal competitors include Nvidia and Intel in GPUs and CPUs, as well as other large tech and semiconductor firms like Broadcom; industry analyses describe it as a major alternative that is steadily gaining x86 CPU and AI infrastructure share against Intel and Nvidia. While Nvidia currently leads in AI GPUs, AMD is emerging as a prominent AI hardware player and is viewed by some analysts as attractively positioned versus peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the price has fallen from the low-$260s/low-$230s resistance area toward support around $194, and indicators label the 7d trend as down with MACD negative.
+2.1. **7d Trend?:** down — the 7d trend is labeled 'down' with price falling from a prior close around 222 toward the 196 area and trading below the 20-day moving average.
 
-2.2. **7d Buy/Sell Points?:** In the past 3–7 trading days, entries near the identified support around $194.27 represented favorable buy levels, while the region between approximately $234 and the recent local high near $235.28 offered attractive short-term sell or trim points. The broader 30-day resistance up near $263.51 also stands out as a notable profit-taking zone for earlier buyers.
+2.2. **7d Buy/Sell Points?:** Over the last week, prices near the identified support around 194.27 appeared to offer better buy entries, while rallies toward the 7d resistance around 234.25 or the recent local high near 235.28 offered favorable sell or trim levels. The current close just above support suggests limited downside buffer before that buy zone is retested.
 
 2.3.1. **7d Volume:** low
 
@@ -318,15 +318,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Advanced Micro Devices is a long-established U.S. semiconductor company with a multi-decade operating history and a broad presence across PCs, data centers, gaming, industrial, and automotive markets. Its financials show consistent profitability in recent periods, positive net income totaling about $3.3B, and strong free cash flow and operating cash flow, which support reinvestment and resilience. The firm is not heavily reliant on a single niche, instead selling into diversified end markets and supplying marquee customers such as major console makers. Overall, the combination of longevity, diversified revenue streams, and solid cash generation points to a relatively stable institution rather than a fly-by-night operation.
+3.1. **Stability?:** AMD is a long-established U.S. semiconductor company with a multi-year trading history and a diversified presence across PCs, gaming, data center, and embedded markets, indicating it is not a fly-by-night operator. Financially, it shows consistent profitability (roughly 10% profit margin), strong revenue and earnings growth, and sizable free cash flow of about $3.25 billion with solid operating cash flow. Its position in core compute markets, including AI GPUs and major game consoles, supports long-term relevance and resilience. The balance of positive net income, cash generation, and broad end-market exposure signals a relatively stable institution within the inherently cyclical semiconductor sector.
 
-3.2. **Innovating?:** AMD appears to be innovating and growing, as evidenced by its emergence as a prominent AI GPU and hardware provider, participation in AI-driven data center growth, and strong revenue and earnings growth rates. Its inclusion among semiconductor names expected to benefit from the AI supercycle into 2026 also suggests ongoing product and market expansion rather than stagnation.
+3.2. **Innovating?:** AMD is actively innovating and growing, as seen in its emergence as a prominent AI GPU and data center hardware provider and its expansion across PC, gaming, and embedded markets. Strong recent revenue (up ~36% YoY in related AI infrastructure peers) and AMD's highlighted AI and adaptive computing portfolio underscore an ongoing innovation push rather than stasis.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines emphasize an AI-driven semiconductor cycle in which AMD is cited alongside Broadcom, Micron, Marvell, and Analog Devices as a key beneficiary expected to gain into 2026. Other articles discuss broader AI platform competition (OpenAI vs. Google) and infrastructure suppliers as relatively stable beneficiaries, which indirectly supports demand for AMD's AI and data center chips. Additional coverage highlights AMD's role in powering large AI superclusters and participation in competitive but growing GPU markets. Given quick facts indicating “Buy the rumor? no” and “Sell the news? no,” the current setup suggests the stock may be trading more on structural AI growth than on short-lived rumor/news spikes, somewhat muting the classic “buy the rumor, sell the news” pattern for now.
+4.1. **News:** Recent context around AMD is dominated by broader AI and semiconductor narratives, including concerns about an AI-driven market bubble and shifting competition such as custom AI chips from hyperscalers and rivals like Marvell expanding in AI infrastructure. Commentary notes that investors are weighing whether AI chip names, including AMD, can justify lofty valuations, linking to worries about an AI slump and bubble risk in the S&P 500. At the same time, multiple analyst notes and coverage pieces (e.g., from TD Cowen and others) highlight AMD as a key AI and augmented reality beneficiary and a top chip idea for 2026, reflecting strong bullish expectations. In light of the "buy the rumor, sell the news" adage, the quick facts indicate 'Buy the rumor? no' and 'Sell the news? no', suggesting current flows are more about buying actual AI execution/dips than chasing unsubstantiated rumors or selling on headlines.
 
-4.2. **Tarrifs:** Tariffs have periodically raised costs and posed short-term headwinds for AMD and peers by increasing prices on China-related chip and graphics card supply chains, though AMD is noted as somewhat less exposed than some rivals due to a more decentralized supply chain and specific arrangements that can mitigate direct tariff impact on its stock performance.
+4.2. **Tarrifs:** Tariffs have been reported as a headwind that can raise AMD's production costs and downstream PC and GPU prices, with prior U.S.-China semiconductor tariffs specifically cited as affecting AMD and Nvidia graphics cards and AMD's CEO acknowledging potential short-term chip impacts. However, some analysis suggests AMD's more decentralized, Taiwan-based manufacturing footprint may leave it somewhat less exposed than certain peers, and recent reports also note that big tech firms like AMD and Nvidia have sometimes negotiated around the harshest tariff impacts.
 
 ## 5. QuickRef
 
@@ -355,7 +355,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -403,7 +403,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=AMD&amp;limit
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AMD&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 2 headline(s) from banned sources.
+Filtered 4 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; AMD core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+core+business&amp;num=5
@@ -455,7 +455,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+tariff&amp;pageSize=
     newsapi: 5 result(s)
   newsapi search -&gt; AMD latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AMD+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; AMD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AMD+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -483,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into oversold territory near 1-year support around $194 vs recent highs near $263 and 20-day average ~$227; macro AI bubble/froth risk is flagged in broader market commentary but specific visibility from this dataset is limited, and the stock remains below key moving averages and resistance at ~$234-263, suggesting better entries closer to strong support than to overhead supply.&quot;, &quot;1.1&quot;: &quot;Advanced Micro Devices designs high-performance and adaptive computing semiconductors, including CPUs, GPUs, and accelerators for PCs, data centers (including artificial
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into oversold territory near 7d/30d support around 194 with the close at 196 and well below the 20-day moving average near 227, suggesting a potential dip-buy zone; however, macro AI froth risk is flagged in broader news about AI bubble concerns and the MACD is negative with a defined short-term downtrend toward nearby support, so entry timing remains tricky.&quot;, &quot;1.1&quot;: &quot;Advanced Micro Devices designs and sells high-performance semiconductors, including CPUs and GPUs for PCs, gaming consoles, and data center workloads such as artificial intelligence. The co
 </code></pre>
 </details>
