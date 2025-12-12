@@ -2,11 +2,11 @@
 layout: default
 title: "OKLO Stock Report"
 ticker: "OKLO"
-date: 2025-12-08
-generated_at: 2025-12-08T05:23:06.587254+00:00
-runtime_seconds: 30.52
+date: 2025-12-12
+generated_at: 2025-12-12T20:23:42.145973+00:00
+runtime_seconds: 33.80
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-08T05:23:06.587254+00:00">2025-12-08 05:23 UTC</time> (runtime 30.52s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-12T20:23:42.145973+00:00">2025-12-12 20:23 UTC</time> (runtime 33.80s)
   
   ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
   
@@ -49,23 +49,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares have pulled back into the middle of their 1y/5y range and sit closer to 7d/30d support at ~$97 than to recent highs, but remain below the 20‑day SMA with a short-term downtrend; macro froth visibility is limited beyond recent AI‑nuclear enthusiasm headlines, so bubble risk is hard to quantify.
+  0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sits mid-range between 1y lows and highs with support near 97.06 and resistance at 123.44 while trading slightly below its 20-day SMA but near its EMA; macro froth context is limited, though nuclear/AI enthusiasm and a recent 1,000% 1y rally cited in news suggest elevated sentiment risk.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to produce roughly 15–50 megawatts of electricity using both fresh and recycled nuclear fuel with long refueling intervals. The company also plans to offer used nuclear fuel recycling services to the U.S. market.
+  1.1. **Activities:** Oklo Inc. is an advanced nuclear technology company developing small fast fission power plants to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line uses liquid metal fast reactor technology designed to generate up to 15 MWe, running on recycled and fresh nuclear fuel. The company also plans to sell used nuclear fuel recycling services in the U.S. market.
   
-  1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net losses of about $74.5M, negative free and operating cash flow, and no meaningful revenue or profit margin reported yet.
+  1.2. **Profitable?:** no — Oklo is pre-revenue with negative net income totaling about -$74.5M and negative free and operating cash flow, and no profitability timeline is provided.
   
-  1.3. **Customer & Markets:** Oklo targets commercial and industrial customers that need reliable heat and electricity, including large data centers, in both regulated and deregulated power markets. Its geographic focus is the United States, where it also plans to sell used nuclear fuel recycling services and support radioisotope and advanced nuclear applications through partnerships and acquisitions.
+  1.3. **Customer & Markets:** Oklo's primary customers are large power users who want to buy heat and electricity rather than own power plants, including data centers and industrial or commercial customers in both regulated and deregulated markets. Its main geographic focus is the United States, where it is also targeting the market for nuclear fuel recycling services and advanced microreactor deployments. Company materials highlight strong interest from data center customers as validation of product-market fit.
   
-  1.4. **Competition:** Oklo's primary competitors include NuScale Power (SMR) and other advanced nuclear and SMR developers, along with larger regulated utilities and independent power producers. It is positioned as an early-stage advanced nuclear technology player rather than a market share leader among established utilities.
+  1.4. **Competition:** Oklo's primary competitors include NuScale Power (ticker SMR) and other advanced nuclear and microreactor developers such as X-energy, Radiant, and various advanced fission startups. It is positioned as a differentiated sector leader in advanced nuclear through its fast fission microreactor and fuel recycling focus but still operates in a market with no commercial projects yet operating.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the stock fell from a prior close of about $111.65 to $111.52 amid a labeled downtrend and resistance overhead at ~$123.
+  2.1. **7d Trend?:** down — over the last week the stock fell from 103.00 to 111.52 within a broader labeled downtrend and below its recent 7d resistance of 123.44.
   
-  2.2. **7d Buy/Sell Points?:** In the last 7 days, prices near the identified support around $97.06 were the more attractive buy levels, while approaches toward the 7-day resistance near $123.44 offered better short-term selling opportunities. The stock's failure to hold above the 20-day moving average around $123.69 reinforces that upper band as a key sell zone.
+  2.2. **7d Buy/Sell Points?:** Buying near the identified 7d/30d support around 97.06 appears to have offered favorable entry during pullbacks. Selling or trimming near the 7d resistance around 123.44 and the higher 30d resistance near 154.45 would have captured upside within the recent volatile range.
   
   2.3.1. **7d Volume:** med
   
@@ -73,15 +73,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oklo is an early-stage advanced nuclear developer rather than a long-established utility, and its financials show persistent net losses and negative operating and free cash flow. The company operates in a market with no commercial project yet operating and with regulatory uncertainties, underscoring execution and financing risk. However, it has achieved a multi‑billion‑dollar market capitalization and is actively publishing quarterly and annual results and business updates, indicating institutionalization and access to capital markets. Overall, it is not a fly‑by‑night operation but remains a high‑risk, development‑stage business rather than a mature, stable utility.
+  3.1. **Stability?:** Oklo is not a fly-by-night operation but an early-stage, pre-revenue advanced nuclear developer with meaningful technology ambitions and regulatory history. It has accumulated sizable net losses (about -$74.5M over recent periods) and negative free cash flow, which indicates dependence on external financing rather than internal cash generation. The company operates in a capital-intensive sector with material regulatory and execution risk and currently has no commercial plants in operation. Overall it is more of a speculative, development-stage venture than a mature, balance-sheet-strong utility.
   
-  3.2. **Innovating?:** Oklo appears to be innovating and growing, with a pipeline of advanced microreactor projects, the Aurora powerhouse product line, and plans for nuclear fuel recycling. Recent company updates and market interest tied to AI data centers suggest ongoing product development and market expansion rather than a stale business.
+  3.2. **Innovating?:** Oklo is clearly focused on innovation and growth, developing liquid metal fast reactors (Aurora powerhouses) and nuclear fuel recycling, and expanding a microreactor project pipeline. Recent company updates highlight validation of product-market fit with large data center customers and partnerships (such as with Siemens Energy) to advance commercial power plant components, indicating active development rather than stasis.
   
   ## 4. Context
   
-  4.1. **News:** Recent news shows the stock spiking over 15% after Nvidia's CEO publicly endorsed small nuclear reactors like Oklo's as key for AI data centers, then dropping after Oklo announced a large $1.5B equity offering. Additional coverage notes a roughly 24% one-day surge and extensive gains over the past year as AI-driven energy demand themes gained traction. These headlines exemplify a strong "rumor/theme" phase around AI and nuclear, followed by dilution-related selling pressure once concrete capital-raising news hit. In this context, the pattern aligns with "buy the rumor, sell the news," where enthusiasm on visionary commentary is followed by weakness when financing realities are announced.
+  4.1. **News:** Recent coverage emphasizes Oklo's role in a broader global nuclear rally and strong investor interest, including a reported 1,000% one-year move and inclusion among top energy stock gainers. Analyst actions such as Seaport Research upgrading the shares and hiking price targets, along with bullish articles about Oklo "setting the stage" for a nuclear revolution, reflect positive sentiment already in the price. The company also announced financial results and business updates that underscore it remains pre-revenue and execution-focused, while simultaneously launching a large at-the-market stock program to fund projects. For a "buy the rumor, sell the news" lens, much optimism around AI-driven power demand and nuclear policy appears to be well publicized, so incremental positive news may risk smaller upside versus downside if expectations are not met.
   
-  4.2. **Tarrifs:** Tariffs have been cited as a risk factor for Oklo, with one report noting the stock dropped about 12.8% over two days amid concerns about rising nuclear fuel costs and long-term uncertainty, implying tariffs can pressure sentiment and valuation. Overall, coverage suggests tariffs contribute to volatility and downside episodes rather than a clearly quantified long-term impact.
+  4.2. **Tarrifs:** Tariffs have been cited as a headwind, with one report noting Oklo's stock fell about 12.8% over two days as investors worried about rising nuclear fuel costs and long-term uncertainties. Commentary from investors and media suggests tariff concerns have at times been partially priced in, contributing to short-lived dips and increased volatility in the shares.
   
   ## 5. QuickRef
   
@@ -110,7 +110,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -159,7 +159,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Filtered 5 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
@@ -169,7 +169,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -187,7 +187,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -212,7 +212,7 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 2 result(s)
     newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -243,12 +243,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — shares have pulled back into the middle of their 1y/5y range and sit closer to 7d/30d support at ~$97 than to recent highs, but remain below the 20‑day SMA with a short-term downtrend; macro froth visibility is limited beyond recent AI‑nuclear enthusiasm headlines, so bubble risk is hard to quantify.&quot;,\n  &quot;1.1&quot;: &quot;Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to produce roughly 15–50 megawatts of electricity using
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a 7d downtrend and sits mid-range between 1y lows and highs with support near 97.06 and resistance at 123.44 while trading slightly below its 20-day SMA but near its EMA; macro froth context is limited, though nuclear/AI enthusiasm and a recent 1,000% 1y rally cited in news suggest elevated sentiment risk.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. is an advanced nuclear technology company developing small fast fission power plants to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line uses liquid metal fast reactor technology designed to generate up to 1
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-08T05:23:06.587254+00:00">2025-12-08 05:23 UTC</time> (runtime 30.52s)
+**Generated:** <time class="js-local-time" datetime="2025-12-12T20:23:42.145973+00:00">2025-12-12 20:23 UTC</time> (runtime 33.80s)
 
 ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
 
@@ -291,23 +291,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares have pulled back into the middle of their 1y/5y range and sit closer to 7d/30d support at ~$97 than to recent highs, but remain below the 20‑day SMA with a short-term downtrend; macro froth visibility is limited beyond recent AI‑nuclear enthusiasm headlines, so bubble risk is hard to quantify.
+0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sits mid-range between 1y lows and highs with support near 97.06 and resistance at 123.44 while trading slightly below its 20-day SMA but near its EMA; macro froth context is limited, though nuclear/AI enthusiasm and a recent 1,000% 1y rally cited in news suggest elevated sentiment risk.
 
 ## 1. The Biz
 
-1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to produce roughly 15–50 megawatts of electricity using both fresh and recycled nuclear fuel with long refueling intervals. The company also plans to offer used nuclear fuel recycling services to the U.S. market.
+1.1. **Activities:** Oklo Inc. is an advanced nuclear technology company developing small fast fission power plants to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line uses liquid metal fast reactor technology designed to generate up to 15 MWe, running on recycled and fresh nuclear fuel. The company also plans to sell used nuclear fuel recycling services in the U.S. market.
 
-1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net losses of about $74.5M, negative free and operating cash flow, and no meaningful revenue or profit margin reported yet.
+1.2. **Profitable?:** no — Oklo is pre-revenue with negative net income totaling about -$74.5M and negative free and operating cash flow, and no profitability timeline is provided.
 
-1.3. **Customer & Markets:** Oklo targets commercial and industrial customers that need reliable heat and electricity, including large data centers, in both regulated and deregulated power markets. Its geographic focus is the United States, where it also plans to sell used nuclear fuel recycling services and support radioisotope and advanced nuclear applications through partnerships and acquisitions.
+1.3. **Customer & Markets:** Oklo's primary customers are large power users who want to buy heat and electricity rather than own power plants, including data centers and industrial or commercial customers in both regulated and deregulated markets. Its main geographic focus is the United States, where it is also targeting the market for nuclear fuel recycling services and advanced microreactor deployments. Company materials highlight strong interest from data center customers as validation of product-market fit.
 
-1.4. **Competition:** Oklo's primary competitors include NuScale Power (SMR) and other advanced nuclear and SMR developers, along with larger regulated utilities and independent power producers. It is positioned as an early-stage advanced nuclear technology player rather than a market share leader among established utilities.
+1.4. **Competition:** Oklo's primary competitors include NuScale Power (ticker SMR) and other advanced nuclear and microreactor developers such as X-energy, Radiant, and various advanced fission startups. It is positioned as a differentiated sector leader in advanced nuclear through its fast fission microreactor and fuel recycling focus but still operates in a market with no commercial projects yet operating.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the stock fell from a prior close of about $111.65 to $111.52 amid a labeled downtrend and resistance overhead at ~$123.
+2.1. **7d Trend?:** down — over the last week the stock fell from 103.00 to 111.52 within a broader labeled downtrend and below its recent 7d resistance of 123.44.
 
-2.2. **7d Buy/Sell Points?:** In the last 7 days, prices near the identified support around $97.06 were the more attractive buy levels, while approaches toward the 7-day resistance near $123.44 offered better short-term selling opportunities. The stock's failure to hold above the 20-day moving average around $123.69 reinforces that upper band as a key sell zone.
+2.2. **7d Buy/Sell Points?:** Buying near the identified 7d/30d support around 97.06 appears to have offered favorable entry during pullbacks. Selling or trimming near the 7d resistance around 123.44 and the higher 30d resistance near 154.45 would have captured upside within the recent volatile range.
 
 2.3.1. **7d Volume:** med
 
@@ -315,15 +315,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oklo is an early-stage advanced nuclear developer rather than a long-established utility, and its financials show persistent net losses and negative operating and free cash flow. The company operates in a market with no commercial project yet operating and with regulatory uncertainties, underscoring execution and financing risk. However, it has achieved a multi‑billion‑dollar market capitalization and is actively publishing quarterly and annual results and business updates, indicating institutionalization and access to capital markets. Overall, it is not a fly‑by‑night operation but remains a high‑risk, development‑stage business rather than a mature, stable utility.
+3.1. **Stability?:** Oklo is not a fly-by-night operation but an early-stage, pre-revenue advanced nuclear developer with meaningful technology ambitions and regulatory history. It has accumulated sizable net losses (about -$74.5M over recent periods) and negative free cash flow, which indicates dependence on external financing rather than internal cash generation. The company operates in a capital-intensive sector with material regulatory and execution risk and currently has no commercial plants in operation. Overall it is more of a speculative, development-stage venture than a mature, balance-sheet-strong utility.
 
-3.2. **Innovating?:** Oklo appears to be innovating and growing, with a pipeline of advanced microreactor projects, the Aurora powerhouse product line, and plans for nuclear fuel recycling. Recent company updates and market interest tied to AI data centers suggest ongoing product development and market expansion rather than a stale business.
+3.2. **Innovating?:** Oklo is clearly focused on innovation and growth, developing liquid metal fast reactors (Aurora powerhouses) and nuclear fuel recycling, and expanding a microreactor project pipeline. Recent company updates highlight validation of product-market fit with large data center customers and partnerships (such as with Siemens Energy) to advance commercial power plant components, indicating active development rather than stasis.
 
 ## 4. Context
 
-4.1. **News:** Recent news shows the stock spiking over 15% after Nvidia's CEO publicly endorsed small nuclear reactors like Oklo's as key for AI data centers, then dropping after Oklo announced a large $1.5B equity offering. Additional coverage notes a roughly 24% one-day surge and extensive gains over the past year as AI-driven energy demand themes gained traction. These headlines exemplify a strong "rumor/theme" phase around AI and nuclear, followed by dilution-related selling pressure once concrete capital-raising news hit. In this context, the pattern aligns with "buy the rumor, sell the news," where enthusiasm on visionary commentary is followed by weakness when financing realities are announced.
+4.1. **News:** Recent coverage emphasizes Oklo's role in a broader global nuclear rally and strong investor interest, including a reported 1,000% one-year move and inclusion among top energy stock gainers. Analyst actions such as Seaport Research upgrading the shares and hiking price targets, along with bullish articles about Oklo "setting the stage" for a nuclear revolution, reflect positive sentiment already in the price. The company also announced financial results and business updates that underscore it remains pre-revenue and execution-focused, while simultaneously launching a large at-the-market stock program to fund projects. For a "buy the rumor, sell the news" lens, much optimism around AI-driven power demand and nuclear policy appears to be well publicized, so incremental positive news may risk smaller upside versus downside if expectations are not met.
 
-4.2. **Tarrifs:** Tariffs have been cited as a risk factor for Oklo, with one report noting the stock dropped about 12.8% over two days amid concerns about rising nuclear fuel costs and long-term uncertainty, implying tariffs can pressure sentiment and valuation. Overall, coverage suggests tariffs contribute to volatility and downside episodes rather than a clearly quantified long-term impact.
+4.2. **Tarrifs:** Tariffs have been cited as a headwind, with one report noting Oklo's stock fell about 12.8% over two days as investors worried about rising nuclear fuel costs and long-term uncertainties. Commentary from investors and media suggests tariff concerns have at times been partially priced in, contributing to short-lived dips and increased volatility in the shares.
 
 ## 5. QuickRef
 
@@ -352,7 +352,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -401,7 +401,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Filtered 5 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
@@ -411,7 +411,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -429,7 +429,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -454,7 +454,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;ap
     guardian: 5 result(s)
   newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 2 result(s)
   newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -485,6 +485,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — shares have pulled back into the middle of their 1y/5y range and sit closer to 7d/30d support at ~$97 than to recent highs, but remain below the 20‑day SMA with a short-term downtrend; macro froth visibility is limited beyond recent AI‑nuclear enthusiasm headlines, so bubble risk is hard to quantify.&quot;,\n  &quot;1.1&quot;: &quot;Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to produce roughly 15–50 megawatts of electricity using
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a 7d downtrend and sits mid-range between 1y lows and highs with support near 97.06 and resistance at 123.44 while trading slightly below its 20-day SMA but near its EMA; macro froth context is limited, though nuclear/AI enthusiasm and a recent 1,000% 1y rally cited in news suggest elevated sentiment risk.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. is an advanced nuclear technology company developing small fast fission power plants to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line uses liquid metal fast reactor technology designed to generate up to 1
 </code></pre>
 </details>
