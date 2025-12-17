@@ -2,11 +2,11 @@
 layout: default
 title: "INTC Stock Report"
 ticker: "INTC"
-date: 2025-12-12
-generated_at: 2025-12-12T15:22:55.537216+00:00
-runtime_seconds: 34.07
+date: 2025-12-17
+generated_at: 2025-12-17T05:23:08.938279+00:00
+runtime_seconds: 25.75
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-12T15:22:55.537216+00:00">2025-12-12 15:22 UTC</time> (runtime 34.07s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-17T05:23:08.938279+00:00">2025-12-17 05:23 UTC</time> (runtime 25.75s)
   
   ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 3mo and 1yr near-peak levels but only around the middle of the 5yr range, suggesting neither extreme value nor clear froth; macro AI commentary flags no explicit bubble in this name while price sits just below 7d resistance ($39.84) and slightly under the 20-day average with nearby support around $36.8 and the SMA near $38.1.
+  0.1. **Long Entry?:** maybe — shares trade near 3–12 month peaks but mid-range versus 5-year history with support around 36.8 and resistance near 39.8; macro AI/bubble commentary is mixed and high-level, and the price is only modestly above the 20-day average with no clear overbought signal.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Intel designs and manufactures microprocessors and related chips for global personal computer and data center markets, anchored in its x86 CPU franchise. The company operates through its Intel Products business and the Intel Foundry manufacturing segment, where it is reinvigorating its chip fabrication capabilities. Its portfolio increasingly targets AI-enabled PCs, data center and networking workloads, and foundry services for external customers.
+  1.1. **Activities:** Intel Corp is a leading semiconductor company that designs and manufactures microprocessors and related chips for personal computers and data center servers based on its x86 architecture. It operates through Intel Products (client, data center, network, edge, AI and related platforms) and Intel Foundry, which provides manufacturing services and is being reinvigorated as a competitive foundry business. The company focuses on enabling high-performance computing, AI, and data-centric workloads across PCs, servers, and other devices.
   
-  1.2. **Profitable?:** yes — Intel is marginally profitable with a small trailing net income sum of about $198M and a profit margin of roughly 0.37%, though free cash flow is currently negative.
+  1.2. **Profitable?:** yes — Intel is marginally profitable with trailing net income of about $198 million and a slim 0.37% profit margin, though free cash flow is currently negative.
   
-  1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, data center operators, cloud providers, and enterprises that integrate CPUs, GPUs, and related silicon into computing systems. Its markets span client computing (PCs), data center and AI, network and edge, and foundry services across global regions, with the company headquartered in the United States. Investor materials emphasize enabling customers to capitalize on digital technology, analytics, edge computing, and AI worldwide.
+  1.3. **Customer & Markets:** Intel's primary customers are PC and laptop OEMs, data center and cloud providers, and enterprises needing high-performance computing and AI infrastructure. It serves global markets across client computing, data center and AI, network and edge, and foundry services, with significant business in North America and other major technology regions. Its chips and platforms underpin PCs, servers, networking gear, and other digital devices worldwide.
   
-  1.4. **Competition:** Intel's key competitors include AMD, Nvidia, Qualcomm, Apple, and major foundry and memory players like TSMC and Micron, with additional rivalry from hyperscalers such as Amazon and Google in custom silicon. Despite this, Intel remains the market share leader in PC and server CPUs, though it now lags some peers like Nvidia in overall semiconductor revenue and market cap.
+  1.4. **Competition:** Intel competes primarily with AMD and Nvidia in CPUs and accelerators, and with firms like Apple, Qualcomm, Micron, and major cloud and device makers in broader compute and semiconductor markets. It remains the market share leader in PC and server CPUs, though its rivals lead in some high-performance and AI segments.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the quick facts label the 7d trend as up and the stock is in an uptrend with price holding above 7d support and near recent resistance.
+  2.1. **7d Trend?:** up — over the last week the price has risen from about 37.3 to 38.45, remaining in an uptrend above its 20-day average.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7d support zone around $36.8 (local low $36.63) were better buy points. Approaches to the 7d resistance near $39.84 and recent highs around $39.5–$39.8 offered favorable short-term selling or trimming levels.
+  2.2. **7d Buy/Sell Points?:** Buys were more favorable near the recent local low and 7-day support around $36.6–$36.8. Sells or trims were more attractive as price approached the recent local high and resistance near $39.8.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Intel is a long-established, large U.S. semiconductor company and remains the leading market-share provider of PC and server CPUs, indicating substantial franchise durability. Its recent profitability is thin (about $198M net income and ~0.37% margin) and free cash flow is negative, but operating cash flow is solidly positive, suggesting the balance sheet is supporting heavy investment. The firm is reorganizing around Intel Foundry and core products while providing detailed segment and financial disclosures, which is characteristic of a mature, systemically important technology company. Overall, the data point to a stable institution undergoing a multi-year operational and capital-intensive transition rather than a speculative, fly-by-night entity.
+  3.1. **Stability?:** Intel is a long-established, large-cap U.S. semiconductor company and a market share leader in PC and server CPUs, indicating substantial institutional stability. It maintains positive operating cash flow (about $8.6 billion) and remains barely profitable overall despite recent earnings volatility, though free cash flow is negative. The firm is reinvesting heavily to rebuild its manufacturing base via Intel Foundry, which pressures near-term margins but reflects strategic commitment and scale. Overall, its history, size, and continued access to capital position it as a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Intel appears to be actively innovating and pursuing growth, with focus on strengthening its core product portfolio, AI-enabled PCs, data center and AI segments, and expanding its foundry business. Company strategy materials highlight capitalizing on data analytics, edge computing, and AI, indicating ongoing technology and product roadmap investment rather than stagnation.
+  3.2. **Innovating?:** Intel is actively innovating and repositioning for growth, focusing on AI chips, advanced packaging, and expanding its Intel Foundry manufacturing business. The reported talks to acquire AI chip startup SambaNova Systems further underscore its push into cutting-edge AI hardware.
   
   ## 4. Context
   
-  4.1. **News:** Recent news flow around Intel is dominated by market-wide AI enthusiasm and company-specific rumors, particularly speculation about Apple as a foundry customer and Intel being among takeover-rumor names, which has driven sharp rallies and pullbacks. Headlines note Intel shares surging near 52-week highs on Malaysia expansion, AI optimism, and Apple manufacturing rumors, then falling about 7% from record highs as traders booked profits, consistent with “buy the rumor, sell the news” dynamics. Broader macro coverage shows chipmakers, including Intel, swinging with tariff headlines, Nvidia moves, and rate-cut expectations, adding volatility around these narratives. This backdrop suggests that short-term moves are highly rumor- and headline-sensitive, so traders should be cautious about chasing spikes and consider that positive announcements may already be priced in when they hit the tape.
+  4.1. **News:** Recent context centers on AI and advanced packaging tailwinds alongside deal and takeover chatter. Headlines highlight Intel's advanced talks to buy AI chip startup SambaNova for about $1.6 billion to better compete with Nvidia, and broader market reports note Intel stock surging near 52-week highs on Malaysia expansion, Apple foundry speculation, and AI optimism. Separate articles discuss hedge funds buying Intel amid takeover rumors and analysts debating whether to buy on expectations of a major Apple chip deal. Given that quick facts flag 'Buy the rumor?' and 'Sell the news?' as 'no', the data suggest the stock has already reacted strongly to rumors, with limited clear edge from chasing them now. In this environment, the buy-the-rumor/sell-the-news dynamic may mean elevated risk of pullbacks once concrete deal news replaces speculation.
   
-  4.2. **Tarrifs:** Tariff developments have been a major swing factor for Intel's stock, with reports of semiconductor tariffs sparking a massive selloff to multi-year lows and later coverage describing Intel as a potential tariff beneficiary and a standout relative to peers under new tariff regimes. Company disclosures and third-party analysis repeatedly reference tariffs and export controls as important to its business, indicating tariffs can both pressure the shares in risk-off episodes and, under favorable policy deals, support Intel relative to offshore manufacturing competitors.
+  4.2. **Tarrifs:** Tariffs have been a meaningful overhang and source of volatility for Intel, with 2025 headlines noting shares hitting multi-year lows amid tariff-driven selloffs but also describing Intel as a potential 'tariff winner' and referencing U.S. agreements that could lessen chip tariff impacts. Overall, tariff developments have periodically pressured the stock yet can also create relative advantages versus foreign competitors when exemptions or supportive policies favor Intel.
   
   ## 5. QuickRef
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -162,7 +162,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 4 headline(s) from banned sources.
+  Filtered 2 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; INTC core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=5
@@ -199,7 +199,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; INTC rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -211,7 +211,7 @@ raw_markdown: |
       newsapi: 1 result(s)
     newsapi search -&gt; INTC tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; INTC latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -242,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3mo and 1yr near-peak levels but only around the middle of the 5yr range, suggesting neither extreme value nor clear froth; macro AI commentary flags no explicit bubble in this name while price sits just below 7d resistance ($39.84) and slightly under the 20-day average with nearby support around $36.8 and the SMA near $38.1.&quot;, &quot;1.1&quot;: &quot;Intel designs and manufactures microprocessors and related chips for global personal computer and data center markets, anchored in its x86 CPU franchise. The company operates through its Intel Products business and the Intel Fo
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3–12 month peaks but mid-range versus 5-year history with support around 36.8 and resistance near 39.8; macro AI/bubble commentary is mixed and high-level, and the price is only modestly above the 20-day average with no clear overbought signal.&quot;,\n &quot;1.1&quot;: &quot;Intel Corp is a leading semiconductor company that designs and manufactures microprocessors and related chips for personal computers and data center servers based on its x86 architecture. It operates through Intel Products (client, data center, network, edge, AI and related platforms) and Intel Foundry, whi
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-12T15:22:55.537216+00:00">2025-12-12 15:22 UTC</time> (runtime 34.07s)
+**Generated:** <time class="js-local-time" datetime="2025-12-17T05:23:08.938279+00:00">2025-12-17 05:23 UTC</time> (runtime 25.75s)
 
 ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
 
@@ -294,23 +294,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 3mo and 1yr near-peak levels but only around the middle of the 5yr range, suggesting neither extreme value nor clear froth; macro AI commentary flags no explicit bubble in this name while price sits just below 7d resistance ($39.84) and slightly under the 20-day average with nearby support around $36.8 and the SMA near $38.1.
+0.1. **Long Entry?:** maybe — shares trade near 3–12 month peaks but mid-range versus 5-year history with support around 36.8 and resistance near 39.8; macro AI/bubble commentary is mixed and high-level, and the price is only modestly above the 20-day average with no clear overbought signal.
 
 ## 1. The Biz
 
-1.1. **Activities:** Intel designs and manufactures microprocessors and related chips for global personal computer and data center markets, anchored in its x86 CPU franchise. The company operates through its Intel Products business and the Intel Foundry manufacturing segment, where it is reinvigorating its chip fabrication capabilities. Its portfolio increasingly targets AI-enabled PCs, data center and networking workloads, and foundry services for external customers.
+1.1. **Activities:** Intel Corp is a leading semiconductor company that designs and manufactures microprocessors and related chips for personal computers and data center servers based on its x86 architecture. It operates through Intel Products (client, data center, network, edge, AI and related platforms) and Intel Foundry, which provides manufacturing services and is being reinvigorated as a competitive foundry business. The company focuses on enabling high-performance computing, AI, and data-centric workloads across PCs, servers, and other devices.
 
-1.2. **Profitable?:** yes — Intel is marginally profitable with a small trailing net income sum of about $198M and a profit margin of roughly 0.37%, though free cash flow is currently negative.
+1.2. **Profitable?:** yes — Intel is marginally profitable with trailing net income of about $198 million and a slim 0.37% profit margin, though free cash flow is currently negative.
 
-1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, data center operators, cloud providers, and enterprises that integrate CPUs, GPUs, and related silicon into computing systems. Its markets span client computing (PCs), data center and AI, network and edge, and foundry services across global regions, with the company headquartered in the United States. Investor materials emphasize enabling customers to capitalize on digital technology, analytics, edge computing, and AI worldwide.
+1.3. **Customer & Markets:** Intel's primary customers are PC and laptop OEMs, data center and cloud providers, and enterprises needing high-performance computing and AI infrastructure. It serves global markets across client computing, data center and AI, network and edge, and foundry services, with significant business in North America and other major technology regions. Its chips and platforms underpin PCs, servers, networking gear, and other digital devices worldwide.
 
-1.4. **Competition:** Intel's key competitors include AMD, Nvidia, Qualcomm, Apple, and major foundry and memory players like TSMC and Micron, with additional rivalry from hyperscalers such as Amazon and Google in custom silicon. Despite this, Intel remains the market share leader in PC and server CPUs, though it now lags some peers like Nvidia in overall semiconductor revenue and market cap.
+1.4. **Competition:** Intel competes primarily with AMD and Nvidia in CPUs and accelerators, and with firms like Apple, Qualcomm, Micron, and major cloud and device makers in broader compute and semiconductor markets. It remains the market share leader in PC and server CPUs, though its rivals lead in some high-performance and AI segments.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the quick facts label the 7d trend as up and the stock is in an uptrend with price holding above 7d support and near recent resistance.
+2.1. **7d Trend?:** up — over the last week the price has risen from about 37.3 to 38.45, remaining in an uptrend above its 20-day average.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7d support zone around $36.8 (local low $36.63) were better buy points. Approaches to the 7d resistance near $39.84 and recent highs around $39.5–$39.8 offered favorable short-term selling or trimming levels.
+2.2. **7d Buy/Sell Points?:** Buys were more favorable near the recent local low and 7-day support around $36.6–$36.8. Sells or trims were more attractive as price approached the recent local high and resistance near $39.8.
 
 2.3.1. **7d Volume:** med
 
@@ -318,15 +318,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Intel is a long-established, large U.S. semiconductor company and remains the leading market-share provider of PC and server CPUs, indicating substantial franchise durability. Its recent profitability is thin (about $198M net income and ~0.37% margin) and free cash flow is negative, but operating cash flow is solidly positive, suggesting the balance sheet is supporting heavy investment. The firm is reorganizing around Intel Foundry and core products while providing detailed segment and financial disclosures, which is characteristic of a mature, systemically important technology company. Overall, the data point to a stable institution undergoing a multi-year operational and capital-intensive transition rather than a speculative, fly-by-night entity.
+3.1. **Stability?:** Intel is a long-established, large-cap U.S. semiconductor company and a market share leader in PC and server CPUs, indicating substantial institutional stability. It maintains positive operating cash flow (about $8.6 billion) and remains barely profitable overall despite recent earnings volatility, though free cash flow is negative. The firm is reinvesting heavily to rebuild its manufacturing base via Intel Foundry, which pressures near-term margins but reflects strategic commitment and scale. Overall, its history, size, and continued access to capital position it as a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Intel appears to be actively innovating and pursuing growth, with focus on strengthening its core product portfolio, AI-enabled PCs, data center and AI segments, and expanding its foundry business. Company strategy materials highlight capitalizing on data analytics, edge computing, and AI, indicating ongoing technology and product roadmap investment rather than stagnation.
+3.2. **Innovating?:** Intel is actively innovating and repositioning for growth, focusing on AI chips, advanced packaging, and expanding its Intel Foundry manufacturing business. The reported talks to acquire AI chip startup SambaNova Systems further underscore its push into cutting-edge AI hardware.
 
 ## 4. Context
 
-4.1. **News:** Recent news flow around Intel is dominated by market-wide AI enthusiasm and company-specific rumors, particularly speculation about Apple as a foundry customer and Intel being among takeover-rumor names, which has driven sharp rallies and pullbacks. Headlines note Intel shares surging near 52-week highs on Malaysia expansion, AI optimism, and Apple manufacturing rumors, then falling about 7% from record highs as traders booked profits, consistent with “buy the rumor, sell the news” dynamics. Broader macro coverage shows chipmakers, including Intel, swinging with tariff headlines, Nvidia moves, and rate-cut expectations, adding volatility around these narratives. This backdrop suggests that short-term moves are highly rumor- and headline-sensitive, so traders should be cautious about chasing spikes and consider that positive announcements may already be priced in when they hit the tape.
+4.1. **News:** Recent context centers on AI and advanced packaging tailwinds alongside deal and takeover chatter. Headlines highlight Intel's advanced talks to buy AI chip startup SambaNova for about $1.6 billion to better compete with Nvidia, and broader market reports note Intel stock surging near 52-week highs on Malaysia expansion, Apple foundry speculation, and AI optimism. Separate articles discuss hedge funds buying Intel amid takeover rumors and analysts debating whether to buy on expectations of a major Apple chip deal. Given that quick facts flag 'Buy the rumor?' and 'Sell the news?' as 'no', the data suggest the stock has already reacted strongly to rumors, with limited clear edge from chasing them now. In this environment, the buy-the-rumor/sell-the-news dynamic may mean elevated risk of pullbacks once concrete deal news replaces speculation.
 
-4.2. **Tarrifs:** Tariff developments have been a major swing factor for Intel's stock, with reports of semiconductor tariffs sparking a massive selloff to multi-year lows and later coverage describing Intel as a potential tariff beneficiary and a standout relative to peers under new tariff regimes. Company disclosures and third-party analysis repeatedly reference tariffs and export controls as important to its business, indicating tariffs can both pressure the shares in risk-off episodes and, under favorable policy deals, support Intel relative to offshore manufacturing competitors.
+4.2. **Tarrifs:** Tariffs have been a meaningful overhang and source of volatility for Intel, with 2025 headlines noting shares hitting multi-year lows amid tariff-driven selloffs but also describing Intel as a potential 'tariff winner' and referencing U.S. agreements that could lessen chip tariff impacts. Overall, tariff developments have periodically pressured the stock yet can also create relative advantages versus foreign competitors when exemptions or supportive policies favor Intel.
 
 ## 5. QuickRef
 
@@ -355,7 +355,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -403,7 +403,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=INTC&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 4 headline(s) from banned sources.
+Filtered 2 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; INTC core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=5
@@ -440,7 +440,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; INTC rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -452,7 +452,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumor&amp;pageSize=
     newsapi: 1 result(s)
   newsapi search -&gt; INTC tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; INTC latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -483,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3mo and 1yr near-peak levels but only around the middle of the 5yr range, suggesting neither extreme value nor clear froth; macro AI commentary flags no explicit bubble in this name while price sits just below 7d resistance ($39.84) and slightly under the 20-day average with nearby support around $36.8 and the SMA near $38.1.&quot;, &quot;1.1&quot;: &quot;Intel designs and manufactures microprocessors and related chips for global personal computer and data center markets, anchored in its x86 CPU franchise. The company operates through its Intel Products business and the Intel Fo
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3–12 month peaks but mid-range versus 5-year history with support around 36.8 and resistance near 39.8; macro AI/bubble commentary is mixed and high-level, and the price is only modestly above the 20-day average with no clear overbought signal.&quot;,\n &quot;1.1&quot;: &quot;Intel Corp is a leading semiconductor company that designs and manufactures microprocessors and related chips for personal computers and data center servers based on its x86 architecture. It operates through Intel Products (client, data center, network, edge, AI and related platforms) and Intel Foundry, whi
 </code></pre>
 </details>
