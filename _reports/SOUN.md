@@ -2,11 +2,11 @@
 layout: default
 title: "SOUN Stock Report"
 ticker: "SOUN"
-date: 2025-12-13
-generated_at: 2025-12-13T05:21:41.981677+00:00
-runtime_seconds: 36.81
+date: 2025-12-17
+generated_at: 2025-12-17T20:25:12.230461+00:00
+runtime_seconds: 43.83
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-13T05:21:41.981677+00:00">2025-12-13 05:21 UTC</time> (runtime 36.81s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-17T20:25:12.230461+00:00">2025-12-17 20:25 UTC</time> (runtime 43.83s)
   
   ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
   
@@ -45,23 +45,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price has pulled back into the 7d/30d support area around 13.30 and sits below the 20-day SMA (15.16) and near the EMA (13.74) after a large run from 1y/5y lows, but visibility into broader macro AI-bubble or froth conditions is limited; the stock is in a short-term downtrend from recent local highs near 15.7–19.1 with high volatility and deeply negative profit margins, so position sizing risk remains elevated.
+  0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sitting just above support around 13.30 after a large multi-year run from sub-$1, suggesting elevated risk but also a potential dip; macro froth context is not provided, while shares now trade below the 20-day average (15.68) and near recent buy-zone support between 13.30 and 15.72 resistance.
   
   ## 1. The Biz
   
-  1.1. **Activities:** SoundHound AI, Inc. develops and provides an independent conversational Voice AI platform. Its technology powers products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, delivering fast, accurate voice recognition and natural language understanding in multiple languages. These solutions are embedded into products and services across sectors such as retail, automotive, smart devices, restaurants, financial services, and healthcare.
+  1.1. **Activities:** SoundHound AI, Inc. develops and sells an independent voice AI platform that powers conversational intelligence for businesses. Its products such as Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents provide fast, accurate, multilingual voice interfaces. These solutions are deployed across industries including retail, financial services, healthcare, automotive, smart devices, and restaurants.
   
-  1.2. **Profitable?:** no — SoundHound AI is not currently profitable, as indicated by a net income sum of -$312.66M, a profit margin of -210.68%, and negative free and operating cash flow, with no specific profitability date provided in the data.
+  1.2. **Profitable?:** no — the company is not currently profitable, with a cumulative net loss of about $312.66M, a profit margin of -210.68%, and negative free and operating cash flow, and no specific profitability date is given in the provided data.
   
-  1.3. **Customer & Markets:** SoundHound AI primarily serves product creators and service providers in industries including retail, financial services, healthcare, automotive, smart devices, and restaurants. Its customers use the company's voice AI platform to build conversational interfaces and automate interactions with their own end-users across these markets. The business is based in the United States but supports numerous languages, enabling deployment across multiple geographies.
+  1.3. **Customer & Markets:** SoundHound AI primarily serves business customers and product creators such as retailers, financial institutions, healthcare providers, automakers, smart device manufacturers, and restaurant operators. Its markets span these industry verticals, providing embedded and enterprise voice AI solutions rather than direct-to-consumer offerings.
   
-  1.4. **Competition:** Key referenced competitors include NVIDIA (NVDA) and Stellantis (STLA), though these are broad technology and automotive players rather than pure-play voice AI rivals; SoundHound is positioned as a specialized, independent conversational AI provider and is much smaller and less profitable than NVDA according to comparative net margin data.
+  1.4. **Competition:** Key referenced competitors include NVIDIA (NVDA) and Stellantis (STLA), though these are much larger firms and operate more broadly in semiconductors and autos, respectively, while SoundHound occupies a niche in voice AI applications; its exact ranking by share within this niche is not specified in the data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the price has fallen from a prior close of 11.65 to 13.44 within a labeled downtrend and below the 20-day moving average of 15.68, with recent highs rejected near 15.7 and support tested around 13.3.
+  2.1. **7d Trend?:** down — over the last week the stock has moved lower from an 11.11 prior close to 13.44 within a labeled downtrend and remains below the 20-day moving average of about 15.68.
   
-  2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, the area near the identified support around 13.30 has been the most attractive buy zone, while prices approaching the recent 7d resistance and local high region around 15.68–15.72 offered good short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent support around 13.30 appears to have been the best entry area, while prices approaching the recent local high and resistance around 15.68–15.72 offered favorable short-term selling opportunities. The 30-day resistance at 19.09 represents a higher-upside sell zone if the stock rebounds strongly from current levels.
   
   2.3.1. **7d Volume:** med
   
@@ -69,15 +69,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SoundHound AI appears to be a relatively young, high-growth technology company rather than a long-established blue-chip, as suggested by its recent 5-year trading history and volatile price path. Financially, it remains loss-making with a cumulative net loss of about $312.66M, a very negative profit margin of -210.68%, and negative operating and free cash flow, which points to dependence on external capital or future growth to sustain operations. However, it operates in a structurally growing Voice AI niche, has meaningful revenue (ttm revenue of about $148.4M and 67.6% revenue growth), and is listed on Nasdaq with a multi-billion-dollar market cap, which provides some institutional footing. Overall, it is not a fly-by-night microcap, but its balance-sheet reliance on continued funding and lack of profitability make it less stable than mature, cash-generative technology peers.
+  3.1. **Stability?:** SoundHound AI is a listed U.S. technology company on Nasdaq with a multi-year trading history that has seen its stock move from sub-$1 five-year lows up to well over $20, indicating it is not a fly-by-night micro-cap. However, its financials show a cumulative net loss of approximately $312.66M and a very negative profit margin of -210.68%, alongside negative operating and free cash flow, which points to ongoing dependence on external funding or capital markets. The company does demonstrate strong top-line momentum with 67.6% revenue growth, suggesting an operating business with traction rather than a shell. Overall stability is mixed: it has meaningful scale and growth in a hot AI niche but lacks current profitability and cash-flow stability based on the provided data.
   
-  3.2. **Innovating?:** SoundHound AI is actively innovating and growing, as reflected by strong revenue growth of 67.6% and its expanding portfolio of AI-driven products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents across multiple industries. Nonetheless, persistent large losses indicate that scaling and execution risks remain alongside that innovation.
+  3.2. **Innovating?:** SoundHound AI appears to be innovating and growing, as evidenced by its rapid 67.6% revenue growth and a portfolio of AI-driven products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents across multiple industries. There is no indication in the data that its product set or growth has stagnated.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage places SoundHound AI among high short-interest stocks that could rebound into early 2026, highlighting it as an undervalued AI/tech name with strong growth prospects but significant bearish positioning. Other headlines note record year-over-year revenue growth, Q4 2024 earnings that missed estimates yet showed AI innovation, and concerns about soaring expenses, as well as record Q3 2025 revenue and an earnings beat in voice AI trends. The stock has also experienced sharp pullbacks tied to tariff headlines and a class action lawsuit, indicating sensitivity to macro and legal news. Against the 'buy the rumor, sell the news' adage, the data suggest that actual positive earnings or outlook announcements have at times coincided with volatility and pullbacks rather than straightforward rallies, while high short interest may reflect ongoing skepticism even as growth accelerates.
+  4.1. **News:** Recent context notes that SoundHound AI has been experiencing 68% year-over-year revenue growth and gaining analyst interest, with some sources highlighting it as a small-cap voice AI leader and one of the AI stocks analysts are tracking closely. Other coverage points to concerns about its lack of profitability and high servicing costs, and at least one commentator (Jim Cramer) has publicly criticized the stock for not making money. Additional articles mention high short interest and potential for material outperformance, suggesting a mix of bullish speculation and skepticism. Given that quick facts label "Buy the rumor?" and "Sell the news?" as both "no," the data imply that trading has not been dominated by classic rumor/news whipsaws recently, but rather by a tug-of-war between growth enthusiasm and profitability concerns.
   
-  4.2. **Tarrifs:** Tariff-related news has negatively impacted the stock, with reports noting that SoundHound AI's share price dive was accelerated by new U.S. tariff announcements and that tariff headlines contributed to a particularly weak trading day, adding macro-driven downside pressure beyond company-specific factors.
+  4.2. **Tarrifs:** Tariff-related headlines indicate that SoundHound AI's stock experienced an accelerated decline on tariff news, with commentary noting that President Trump's tariff announcements helped drive the shares lower even though they had already been weakening; overall, tariffs have had a negative short-term impact on the stock price in the provided data.
   
   ## 5. QuickRef
   
@@ -106,11 +106,11 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: latest news, tariffs</li>
-  <li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff</li>
+  <li>NewsAPI: profit outlook, latest news, tariffs</li>
+  <li>The Guardian: business model, market expansion, competitive landscape, rumor, tariff</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -155,7 +155,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SOUN&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 4 headline(s) from banned sources.
+  Filtered 5 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; SOUN core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
@@ -178,11 +178,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -237,7 +233,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -259,12 +255,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into the 7d/30d support area around 13.30 and sits below the 20-day SMA (15.16) and near the EMA (13.74) after a large run from 1y/5y lows, but visibility into broader macro AI-bubble or froth conditions is limited; the stock is in a short-term downtrend from recent local highs near 15.7–19.1 with high volatility and deeply negative profit margins, so position sizing risk remains elevated.&quot;,&quot;1.1&quot;: &quot;SoundHound AI, Inc. develops and provides an independent conversational Voice AI platform. Its technology powers products like Smart Answering, Smart Ordering,
+  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 7d downtrend and sitting just above support around 13.30 after a large multi-year run from sub-$1, suggesting elevated risk but also a potential dip; macro froth context is not provided, while shares now trade below the 20-day average (15.68) and near recent buy-zone support between 13.30 and 15.72 resistance.&quot;,\n  &quot;1.1&quot;: &quot;SoundHound AI, Inc. develops and sells an independent voice AI platform that powers conversational intelligence for businesses. Its products such as Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents provide fast, acc
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-13T05:21:41.981677+00:00">2025-12-13 05:21 UTC</time> (runtime 36.81s)
+**Generated:** <time class="js-local-time" datetime="2025-12-17T20:25:12.230461+00:00">2025-12-17 20:25 UTC</time> (runtime 43.83s)
 
 ![SoundHound AI, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/SOUN.png)
 
@@ -303,23 +299,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price has pulled back into the 7d/30d support area around 13.30 and sits below the 20-day SMA (15.16) and near the EMA (13.74) after a large run from 1y/5y lows, but visibility into broader macro AI-bubble or froth conditions is limited; the stock is in a short-term downtrend from recent local highs near 15.7–19.1 with high volatility and deeply negative profit margins, so position sizing risk remains elevated.
+0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sitting just above support around 13.30 after a large multi-year run from sub-$1, suggesting elevated risk but also a potential dip; macro froth context is not provided, while shares now trade below the 20-day average (15.68) and near recent buy-zone support between 13.30 and 15.72 resistance.
 
 ## 1. The Biz
 
-1.1. **Activities:** SoundHound AI, Inc. develops and provides an independent conversational Voice AI platform. Its technology powers products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents, delivering fast, accurate voice recognition and natural language understanding in multiple languages. These solutions are embedded into products and services across sectors such as retail, automotive, smart devices, restaurants, financial services, and healthcare.
+1.1. **Activities:** SoundHound AI, Inc. develops and sells an independent voice AI platform that powers conversational intelligence for businesses. Its products such as Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents provide fast, accurate, multilingual voice interfaces. These solutions are deployed across industries including retail, financial services, healthcare, automotive, smart devices, and restaurants.
 
-1.2. **Profitable?:** no — SoundHound AI is not currently profitable, as indicated by a net income sum of -$312.66M, a profit margin of -210.68%, and negative free and operating cash flow, with no specific profitability date provided in the data.
+1.2. **Profitable?:** no — the company is not currently profitable, with a cumulative net loss of about $312.66M, a profit margin of -210.68%, and negative free and operating cash flow, and no specific profitability date is given in the provided data.
 
-1.3. **Customer & Markets:** SoundHound AI primarily serves product creators and service providers in industries including retail, financial services, healthcare, automotive, smart devices, and restaurants. Its customers use the company's voice AI platform to build conversational interfaces and automate interactions with their own end-users across these markets. The business is based in the United States but supports numerous languages, enabling deployment across multiple geographies.
+1.3. **Customer & Markets:** SoundHound AI primarily serves business customers and product creators such as retailers, financial institutions, healthcare providers, automakers, smart device manufacturers, and restaurant operators. Its markets span these industry verticals, providing embedded and enterprise voice AI solutions rather than direct-to-consumer offerings.
 
-1.4. **Competition:** Key referenced competitors include NVIDIA (NVDA) and Stellantis (STLA), though these are broad technology and automotive players rather than pure-play voice AI rivals; SoundHound is positioned as a specialized, independent conversational AI provider and is much smaller and less profitable than NVDA according to comparative net margin data.
+1.4. **Competition:** Key referenced competitors include NVIDIA (NVDA) and Stellantis (STLA), though these are much larger firms and operate more broadly in semiconductors and autos, respectively, while SoundHound occupies a niche in voice AI applications; its exact ranking by share within this niche is not specified in the data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the price has fallen from a prior close of 11.65 to 13.44 within a labeled downtrend and below the 20-day moving average of 15.68, with recent highs rejected near 15.7 and support tested around 13.3.
+2.1. **7d Trend?:** down — over the last week the stock has moved lower from an 11.11 prior close to 13.44 within a labeled downtrend and remains below the 20-day moving average of about 15.68.
 
-2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, the area near the identified support around 13.30 has been the most attractive buy zone, while prices approaching the recent 7d resistance and local high region around 15.68–15.72 offered good short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** Buying near the recent support around 13.30 appears to have been the best entry area, while prices approaching the recent local high and resistance around 15.68–15.72 offered favorable short-term selling opportunities. The 30-day resistance at 19.09 represents a higher-upside sell zone if the stock rebounds strongly from current levels.
 
 2.3.1. **7d Volume:** med
 
@@ -327,15 +323,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SoundHound AI appears to be a relatively young, high-growth technology company rather than a long-established blue-chip, as suggested by its recent 5-year trading history and volatile price path. Financially, it remains loss-making with a cumulative net loss of about $312.66M, a very negative profit margin of -210.68%, and negative operating and free cash flow, which points to dependence on external capital or future growth to sustain operations. However, it operates in a structurally growing Voice AI niche, has meaningful revenue (ttm revenue of about $148.4M and 67.6% revenue growth), and is listed on Nasdaq with a multi-billion-dollar market cap, which provides some institutional footing. Overall, it is not a fly-by-night microcap, but its balance-sheet reliance on continued funding and lack of profitability make it less stable than mature, cash-generative technology peers.
+3.1. **Stability?:** SoundHound AI is a listed U.S. technology company on Nasdaq with a multi-year trading history that has seen its stock move from sub-$1 five-year lows up to well over $20, indicating it is not a fly-by-night micro-cap. However, its financials show a cumulative net loss of approximately $312.66M and a very negative profit margin of -210.68%, alongside negative operating and free cash flow, which points to ongoing dependence on external funding or capital markets. The company does demonstrate strong top-line momentum with 67.6% revenue growth, suggesting an operating business with traction rather than a shell. Overall stability is mixed: it has meaningful scale and growth in a hot AI niche but lacks current profitability and cash-flow stability based on the provided data.
 
-3.2. **Innovating?:** SoundHound AI is actively innovating and growing, as reflected by strong revenue growth of 67.6% and its expanding portfolio of AI-driven products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents across multiple industries. Nonetheless, persistent large losses indicate that scaling and execution risks remain alongside that innovation.
+3.2. **Innovating?:** SoundHound AI appears to be innovating and growing, as evidenced by its rapid 67.6% revenue growth and a portfolio of AI-driven products like Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents across multiple industries. There is no indication in the data that its product set or growth has stagnated.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage places SoundHound AI among high short-interest stocks that could rebound into early 2026, highlighting it as an undervalued AI/tech name with strong growth prospects but significant bearish positioning. Other headlines note record year-over-year revenue growth, Q4 2024 earnings that missed estimates yet showed AI innovation, and concerns about soaring expenses, as well as record Q3 2025 revenue and an earnings beat in voice AI trends. The stock has also experienced sharp pullbacks tied to tariff headlines and a class action lawsuit, indicating sensitivity to macro and legal news. Against the 'buy the rumor, sell the news' adage, the data suggest that actual positive earnings or outlook announcements have at times coincided with volatility and pullbacks rather than straightforward rallies, while high short interest may reflect ongoing skepticism even as growth accelerates.
+4.1. **News:** Recent context notes that SoundHound AI has been experiencing 68% year-over-year revenue growth and gaining analyst interest, with some sources highlighting it as a small-cap voice AI leader and one of the AI stocks analysts are tracking closely. Other coverage points to concerns about its lack of profitability and high servicing costs, and at least one commentator (Jim Cramer) has publicly criticized the stock for not making money. Additional articles mention high short interest and potential for material outperformance, suggesting a mix of bullish speculation and skepticism. Given that quick facts label "Buy the rumor?" and "Sell the news?" as both "no," the data imply that trading has not been dominated by classic rumor/news whipsaws recently, but rather by a tug-of-war between growth enthusiasm and profitability concerns.
 
-4.2. **Tarrifs:** Tariff-related news has negatively impacted the stock, with reports noting that SoundHound AI's share price dive was accelerated by new U.S. tariff announcements and that tariff headlines contributed to a particularly weak trading day, adding macro-driven downside pressure beyond company-specific factors.
+4.2. **Tarrifs:** Tariff-related headlines indicate that SoundHound AI's stock experienced an accelerated decline on tariff news, with commentary noting that President Trump's tariff announcements helped drive the shares lower even though they had already been weakening; overall, tariffs have had a negative short-term impact on the stock price in the provided data.
 
 ## 5. QuickRef
 
@@ -364,11 +360,11 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: latest news, tariffs</li>
-<li>The Guardian: business model, profit outlook, market expansion, competitive landscape, rumor, tariff</li>
+<li>NewsAPI: profit outlook, latest news, tariffs</li>
+<li>The Guardian: business model, market expansion, competitive landscape, rumor, tariff</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -413,7 +409,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=SOUN&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SOUN&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 4 headline(s) from banned sources.
+Filtered 5 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; SOUN core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+core+business&amp;num=5
@@ -436,11 +432,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=SOUN+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=SOUN+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; SOUN target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -495,7 +487,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SOUN tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SOUN+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; SOUN tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SOUN+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -517,6 +509,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price has pulled back into the 7d/30d support area around 13.30 and sits below the 20-day SMA (15.16) and near the EMA (13.74) after a large run from 1y/5y lows, but visibility into broader macro AI-bubble or froth conditions is limited; the stock is in a short-term downtrend from recent local highs near 15.7–19.1 with high volatility and deeply negative profit margins, so position sizing risk remains elevated.&quot;,&quot;1.1&quot;: &quot;SoundHound AI, Inc. develops and provides an independent conversational Voice AI platform. Its technology powers products like Smart Answering, Smart Ordering,
+LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 7d downtrend and sitting just above support around 13.30 after a large multi-year run from sub-$1, suggesting elevated risk but also a potential dip; macro froth context is not provided, while shares now trade below the 20-day average (15.68) and near recent buy-zone support between 13.30 and 15.72 resistance.&quot;,\n  &quot;1.1&quot;: &quot;SoundHound AI, Inc. develops and sells an independent voice AI platform that powers conversational intelligence for businesses. Its products such as Smart Answering, Smart Ordering, Dynamic Drive-Thru, and Amelia AI Agents provide fast, acc
 </code></pre>
 </details>
