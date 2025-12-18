@@ -2,11 +2,11 @@
 layout: default
 title: "META Stock Report"
 ticker: "META"
-date: 2025-12-14
-generated_at: 2025-12-14T05:20:48.191825+00:00
-runtime_seconds: 42.11
+date: 2025-12-18
+generated_at: 2025-12-18T20:21:17.382551+00:00
+runtime_seconds: 23.52
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-14T05:20:48.191825+00:00">2025-12-14 05:20 UTC</time> (runtime 42.11s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-18T20:21:17.382551+00:00">2025-12-18 20:21 UTC</time> (runtime 23.52s)
   
   ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
   
@@ -48,28 +48,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Westpac CEO Calls For Meta And Other Social Media Giants To Take Tougher Action In Financial Fraud Prevention](https://www.benzinga.com/markets/tech/25/12/49331810/westpac-ceo-calls-for-meta-and-other-social-media-giants-to-take-tougher-action-in-financial-fraud-p?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2025-12-11
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — the stock is at a 5-year high zone near 7d/30d resistance of $648 and flagged as overbought while sitting above its 20-day average of ~$611 and long-term SMA/EMA near $667; macro froth visibility is limited, but quick facts suggest this is a sell-the-news setup rather than a fresh long entry near support around $582–$598.
+  0.1. **Long Entry?:** no — shares sit near 7–30 day resistance around $648 and above the 20-day average of ~$611 with quick facts flagging them as overbought; macro context includes AI-bubble fears and an AI infrastructure boom, so entry near all-time area highs carries elevated froth risk versus support around $582–598.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, its "Family of Apps," which includes Facebook, Instagram, Messenger, and WhatsApp. Users use these apps for social networking, content consumption, and running digital businesses, while Meta aggregates user data to sell targeted digital advertising. It is also investing heavily in its Reality Labs segment (AR/VR and metaverse), though this remains a small contributor to overall sales.
+  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It offers these services free to billions of users and monetizes them primarily by selling targeted digital advertising based on user data. The company is also investing in its Reality Labs segment for AR/VR and metaverse-related technologies, though this remains a small share of overall sales.
   
-  1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B, a profit margin of roughly 31%, and strong free and operating cash flow.
+  1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B, a profit margin around 31%, and strong free cash flow and operating cash flow figures indicating sustained profitability.
   
-  1.3. **Customer & Markets:** Meta's primary customers are digital advertisers who pay to reach its roughly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span consumers, creators, and businesses worldwide that use its platforms for communication, entertainment, and commerce. Its markets are global, with a focus on online advertising and emerging AR/VR experiences via Reality Labs.
+  1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers that use its platforms to reach specific audiences, while end users worldwide access Facebook, Instagram, Messenger, and WhatsApp for free. It serves a global market with close to 4 billion monthly active users across diverse geographies and industries, from small businesses to large brands. This broad reach makes it a key advertising channel in both developed and emerging markets.
   
-  1.4. **Competition:** Meta competes primarily with large internet and tech platforms such as Google (Alphabet), Microsoft, Amazon, Apple, Snapchat, Netflix, Tesla, Nvidia, and AMD in areas like digital advertising, attention, and emerging AR/VR ecosystems. Within social media and digital ads it is described as the largest social media company in the world, indicating a leading position versus these rivals.
+  1.4. **Competition:** Meta's main competitors include large digital platforms and internet companies such as Google (Alphabet), Microsoft, Amazon, Apple, Snap, Netflix, Tesla and Nvidia, which compete for user attention, advertising budgets, and AI talent. Within social and digital advertising it is one of the top players by scale, with significant market share relative to these peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the price has moved from support around $598 toward resistance at about $648.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from the support area near $598 toward resistance around $648, closing near the high.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent local low around $581.86–$597.63 (7d/30d support) offered better entries, while the area near the local high and resistance around $648.05 has been an attractive zone to take profits or trim.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the lower end of the range around the 7d/30d support near $598 (and the local low ~$582) offered better buy points, while the recent approach to 7d/30d resistance and local high around $648 represented favorable selling or trimming levels. The suggested buy zone is around $581.86 and suggested sell zone aligns with $648.05.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Meta appears to be a stable, large-scale institution rather than a fly-by-night operator, as it is the largest social media company with nearly 4 billion monthly active users. Financially it shows strong profitability (about 31% profit margin) and substantial operating and free cash flow. The firm has generated over $58B in net income across recent periods, suggesting a resilient earnings base. Its multi-app ecosystem and ongoing investment in new areas like Reality Labs further indicate a long-term, established presence.
+  3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night operator, with massive scale as the world's largest social media company and close to 4 billion monthly active users. Its financials show substantial cumulative net income (~$58.5B), strong profit margins above 30%, and robust free and operating cash flow, supporting balance sheet resilience. The company is headquartered in the United States and operates entrenched global platforms like Facebook, Instagram, Messenger, and WhatsApp, which are deeply integrated into personal and business communication. While it is investing heavily in newer areas like Reality Labs, these are currently a small portion of sales, limiting risk to the core business.
   
-  3.2. **Innovating?:** Meta is actively innovating and growing, evidenced by continued heavy investment in its Reality Labs business and strong revenue growth of about 26.2%. While Reality Labs is still a small part of sales, the firm's push into AR/VR and related technologies shows it is not a stale, ex-growth platform.
+  3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by ongoing heavy investment in its Reality Labs division for AR/VR and metaverse technologies while maintaining strong revenue growth of about 26%. However, the core growth engine remains its Family of Apps advertising business, with newer initiatives still relatively small in contribution.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights regulatory and reputational pressure, with Westpac's CEO publicly calling on Meta and other social platforms to take stronger action against financial fraud. This underscores ongoing scrutiny of Meta's role in online scams and consumer protection. There is limited evidence in the supplied headlines of a specific upbeat rumor being bid up ahead of a major announcement; instead the quick facts explicitly flag 'Sell the news?' as 'yes', implying that positive catalysts may already be priced in and subject to post-news pullbacks. Together, this suggests that any good news may be sold into while negative regulatory commentary can add headline risk.
+  4.1. **News:** Recent context includes broad market discussion of a massive $6.7 trillion global AI data center buildout by 2030, highlighting AI and data infrastructure as a major growth theme that benefits large tech ecosystems like Meta's. Quick facts for META specifically indicate 'Sell the news? yes', suggesting that positive AI or infrastructure narratives may already be priced in and could trigger profit-taking when concrete news hits. There is also external commentary about AI bubble fears and AI-driven market concentration, which reinforces the risk that exuberant AI-related expectations may be fragile. Taken together, this backdrop makes it important to distinguish between rumors or forward-looking AI enthusiasm and actual earnings/news events when timing entries and exits.
   
-  4.2. **Tarrifs:** Tariffs are reported to pose a meaningful but manageable headwind: one source estimates Meta could take about a $7B hit in a year from tough China tariffs, yet other coverage notes Meta still anticipates continued growth and has recently beaten expectations and increased spending while 'shrugging off' tariff concerns. Overall, tariffs are a negative for earnings but have not derailed the stock, with some analysis describing the tariff troubles as contained.
+  4.2. **Tarrifs:** Tariffs are reported to pose a measurable but contained headwind: one source estimates Meta could face up to a $7B hit in a year from tough China tariffs, and other coverage notes that tariff impacts are siloed but worth monitoring in subsequent quarters. Overall, recent reports emphasize that while tariffs add uncertainty and some cost pressure, Meta's growth outlook and AI investment plans remain intact, so the stock has largely shrugged off tariff worries so far.
   
   ## 5. QuickRef
   
@@ -211,7 +211,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -242,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — the stock is at a 5-year high zone near 7d/30d resistance of $648 and flagged as overbought while sitting above its 20-day average of ~$611 and long-term SMA/EMA near $667; macro froth visibility is limited, but quick facts suggest this is a sell-the-news setup rather than a fresh long entry near support around $582–$598.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, its \&quot;Family of Apps,\&quot; which includes Facebook, Instagram, Messenger, and WhatsApp. Users use these apps for social networking, content consumption, and running digital businesses, wh
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7–30 day resistance around $648 and above the 20-day average of ~$611 with quick facts flagging them as overbought; macro context includes AI-bubble fears and an AI infrastructure boom, so entry near all-time area highs carries elevated froth risk versus support around $582–598.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It offers these services free to billions of users and monetizes them primarily by selling targeted digital advertising based on user 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-14T05:20:48.191825+00:00">2025-12-14 05:20 UTC</time> (runtime 42.11s)
+**Generated:** <time class="js-local-time" datetime="2025-12-18T20:21:17.382551+00:00">2025-12-18 20:21 UTC</time> (runtime 23.52s)
 
 ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
 
@@ -289,28 +289,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Westpac CEO Calls For Meta And Other Social Media Giants To Take Tougher Action In Financial Fraud Prevention](https://www.benzinga.com/markets/tech/25/12/49331810/westpac-ceo-calls-for-meta-and-other-social-media-giants-to-take-tougher-action-in-financial-fraud-p?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2025-12-11
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — the stock is at a 5-year high zone near 7d/30d resistance of $648 and flagged as overbought while sitting above its 20-day average of ~$611 and long-term SMA/EMA near $667; macro froth visibility is limited, but quick facts suggest this is a sell-the-news setup rather than a fresh long entry near support around $582–$598.
+0.1. **Long Entry?:** no — shares sit near 7–30 day resistance around $648 and above the 20-day average of ~$611 with quick facts flagging them as overbought; macro context includes AI-bubble fears and an AI infrastructure boom, so entry near all-time area highs carries elevated froth risk versus support around $582–598.
 
 ## 1. The Biz
 
-1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, its "Family of Apps," which includes Facebook, Instagram, Messenger, and WhatsApp. Users use these apps for social networking, content consumption, and running digital businesses, while Meta aggregates user data to sell targeted digital advertising. It is also investing heavily in its Reality Labs segment (AR/VR and metaverse), though this remains a small contributor to overall sales.
+1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It offers these services free to billions of users and monetizes them primarily by selling targeted digital advertising based on user data. The company is also investing in its Reality Labs segment for AR/VR and metaverse-related technologies, though this remains a small share of overall sales.
 
-1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B, a profit margin of roughly 31%, and strong free and operating cash flow.
+1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B, a profit margin around 31%, and strong free cash flow and operating cash flow figures indicating sustained profitability.
 
-1.3. **Customer & Markets:** Meta's primary customers are digital advertisers who pay to reach its roughly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span consumers, creators, and businesses worldwide that use its platforms for communication, entertainment, and commerce. Its markets are global, with a focus on online advertising and emerging AR/VR experiences via Reality Labs.
+1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers that use its platforms to reach specific audiences, while end users worldwide access Facebook, Instagram, Messenger, and WhatsApp for free. It serves a global market with close to 4 billion monthly active users across diverse geographies and industries, from small businesses to large brands. This broad reach makes it a key advertising channel in both developed and emerging markets.
 
-1.4. **Competition:** Meta competes primarily with large internet and tech platforms such as Google (Alphabet), Microsoft, Amazon, Apple, Snapchat, Netflix, Tesla, Nvidia, and AMD in areas like digital advertising, attention, and emerging AR/VR ecosystems. Within social media and digital ads it is described as the largest social media company in the world, indicating a leading position versus these rivals.
+1.4. **Competition:** Meta's main competitors include large digital platforms and internet companies such as Google (Alphabet), Microsoft, Amazon, Apple, Snap, Netflix, Tesla and Nvidia, which compete for user attention, advertising budgets, and AI talent. Within social and digital advertising it is one of the top players by scale, with significant market share relative to these peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the price has moved from support around $598 toward resistance at about $648.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from the support area near $598 toward resistance around $648, closing near the high.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent local low around $581.86–$597.63 (7d/30d support) offered better entries, while the area near the local high and resistance around $648.05 has been an attractive zone to take profits or trim.
+2.2. **7d Buy/Sell Points?:** Over the last week, the lower end of the range around the 7d/30d support near $598 (and the local low ~$582) offered better buy points, while the recent approach to 7d/30d resistance and local high around $648 represented favorable selling or trimming levels. The suggested buy zone is around $581.86 and suggested sell zone aligns with $648.05.
 
 2.3.1. **7d Volume:** low
 
@@ -318,15 +318,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Meta appears to be a stable, large-scale institution rather than a fly-by-night operator, as it is the largest social media company with nearly 4 billion monthly active users. Financially it shows strong profitability (about 31% profit margin) and substantial operating and free cash flow. The firm has generated over $58B in net income across recent periods, suggesting a resilient earnings base. Its multi-app ecosystem and ongoing investment in new areas like Reality Labs further indicate a long-term, established presence.
+3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night operator, with massive scale as the world's largest social media company and close to 4 billion monthly active users. Its financials show substantial cumulative net income (~$58.5B), strong profit margins above 30%, and robust free and operating cash flow, supporting balance sheet resilience. The company is headquartered in the United States and operates entrenched global platforms like Facebook, Instagram, Messenger, and WhatsApp, which are deeply integrated into personal and business communication. While it is investing heavily in newer areas like Reality Labs, these are currently a small portion of sales, limiting risk to the core business.
 
-3.2. **Innovating?:** Meta is actively innovating and growing, evidenced by continued heavy investment in its Reality Labs business and strong revenue growth of about 26.2%. While Reality Labs is still a small part of sales, the firm's push into AR/VR and related technologies shows it is not a stale, ex-growth platform.
+3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by ongoing heavy investment in its Reality Labs division for AR/VR and metaverse technologies while maintaining strong revenue growth of about 26%. However, the core growth engine remains its Family of Apps advertising business, with newer initiatives still relatively small in contribution.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights regulatory and reputational pressure, with Westpac's CEO publicly calling on Meta and other social platforms to take stronger action against financial fraud. This underscores ongoing scrutiny of Meta's role in online scams and consumer protection. There is limited evidence in the supplied headlines of a specific upbeat rumor being bid up ahead of a major announcement; instead the quick facts explicitly flag 'Sell the news?' as 'yes', implying that positive catalysts may already be priced in and subject to post-news pullbacks. Together, this suggests that any good news may be sold into while negative regulatory commentary can add headline risk.
+4.1. **News:** Recent context includes broad market discussion of a massive $6.7 trillion global AI data center buildout by 2030, highlighting AI and data infrastructure as a major growth theme that benefits large tech ecosystems like Meta's. Quick facts for META specifically indicate 'Sell the news? yes', suggesting that positive AI or infrastructure narratives may already be priced in and could trigger profit-taking when concrete news hits. There is also external commentary about AI bubble fears and AI-driven market concentration, which reinforces the risk that exuberant AI-related expectations may be fragile. Taken together, this backdrop makes it important to distinguish between rumors or forward-looking AI enthusiasm and actual earnings/news events when timing entries and exits.
 
-4.2. **Tarrifs:** Tariffs are reported to pose a meaningful but manageable headwind: one source estimates Meta could take about a $7B hit in a year from tough China tariffs, yet other coverage notes Meta still anticipates continued growth and has recently beaten expectations and increased spending while 'shrugging off' tariff concerns. Overall, tariffs are a negative for earnings but have not derailed the stock, with some analysis describing the tariff troubles as contained.
+4.2. **Tarrifs:** Tariffs are reported to pose a measurable but contained headwind: one source estimates Meta could face up to a $7B hit in a year from tough China tariffs, and other coverage notes that tariff impacts are siloed but worth monitoring in subsequent quarters. Overall, recent reports emphasize that while tariffs add uncertainty and some cost pressure, Meta's growth outlook and AI investment plans remain intact, so the stock has largely shrugged off tariff worries so far.
 
 ## 5. QuickRef
 
@@ -452,7 +452,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=
     newsapi: 5 result(s)
   newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -483,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — the stock is at a 5-year high zone near 7d/30d resistance of $648 and flagged as overbought while sitting above its 20-day average of ~$611 and long-term SMA/EMA near $667; macro froth visibility is limited, but quick facts suggest this is a sell-the-news setup rather than a fresh long entry near support around $582–$598.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, its \&quot;Family of Apps,\&quot; which includes Facebook, Instagram, Messenger, and WhatsApp. Users use these apps for social networking, content consumption, and running digital businesses, wh
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7–30 day resistance around $648 and above the 20-day average of ~$611 with quick facts flagging them as overbought; macro context includes AI-bubble fears and an AI infrastructure boom, so entry near all-time area highs carries elevated froth risk versus support around $582–598.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. It offers these services free to billions of users and monetizes them primarily by selling targeted digital advertising based on user 
 </code></pre>
 </details>
