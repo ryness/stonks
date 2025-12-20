@@ -2,11 +2,11 @@
 layout: default
 title: "RBLX Stock Report"
 ticker: "RBLX"
-date: 2025-12-15
-generated_at: 2025-12-15T10:26:50.576563+00:00
-runtime_seconds: 37.70
+date: 2025-12-20
+generated_at: 2025-12-20T01:27:48.747717+00:00
+runtime_seconds: 25.11
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-15T10:26:50.576563+00:00">2025-12-15 10:26 UTC</time> (runtime 37.70s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-20T01:27:48.747717+00:00">2025-12-20 01:27 UTC</time> (runtime 25.11s)
   
   ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
   
@@ -48,28 +48,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - no news is good news?
+  - [RBLX ALERT: Investigation Launched into Roblox Corporation, RGRD Law Attorneys Encourage Investors and Potential Witnesses to Contact Law Firm](https://www.globenewswire.com/news-release/2025/12/20/3208787/0/en/RBLX-ALERT-Investigation-Launched-into-Roblox-Corporation-RGRD-Law-Attorneys-Encourage-Investors-and-Potential-Witnesses-to-Contact-Law-Firm.html) — GlobeNewswire Inc. · 2025-12-20
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in an uptrend and near 3-month bottom/1-year middle with support around $87.08 and resistance at $98.51 but trading well below the 20-day moving average and longer SMAs/EMAs signaling overhang; macro froth context is limited, though recent tariff-related news framed Roblox as relatively resilient rather than a bubble play.
+  0.1. **Long Entry?:** maybe — shares trade near 3-month 'near-bottom' levels and well above the 1-year/5-year lows but below the 20-day average and under short-term resistance around $98.51; macro froth visibility is limited and technicals (negative MACD, high ATR) suggest upside but with elevated volatility around the $87.08 support zone.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Roblox operates a free-to-play online gaming and virtual experience platform built around user-generated content and a virtual economy using its Robux currency. It provides tools and publishing capabilities that let individuals and professional studios create games and experiences, monetizing through in-experience purchases and advertising. Roblox earns revenue primarily by taking a cut of creator earnings and ad spend on the platform.
+  1.1. **Activities:** Roblox operates a free-to-play online game and virtual world platform that hosts millions of user-created games and experiences. Players use the Robux virtual currency for optional in-game purchases, while Roblox provides creation tools, publishing, and infrastructure for a broad range of independent and professional developers. The company generates revenue primarily by taking a cut of creators' earnings and through advertising on the platform.
   
-  1.2. **Profitable?:** no — the company is not profitable, with a trailing net income sum of about -$968.6M and a profit margin of roughly -21.7%, despite positive operating and free cash flow and strong 48% revenue growth.
+  1.2. **Profitable?:** no — Roblox is not profitable, with a trailing net income of about -$969M and a profit margin of -21.7%, despite strong revenue growth and positive free cash flow.
   
-  1.3. **Customer & Markets:** Roblox's primary users are gamers and creators across age groups, with more than 150 million daily active users engaging with user-generated games and experiences on its platform. Its core markets are global online gaming and digital entertainment, with monetization focused on in-game purchases in Robux and advertising to brands targeting these audiences. Creators and advertisers are key paying customers, while end-users typically access the service for free.
+  1.3. **Customer & Markets:** Roblox's primary customers are gamers and creators on its platform, including a large base of children and teens as well as an increasing share of older users. It serves a global online gaming and digital entertainment market, providing a venue for both play and creation across many genres and geographies. Advertisers and brands also use the platform to reach this engaged user base.
   
-  1.4. **Competition:** Roblox competes with large digital and gaming platforms like Unity (U), Meta Platforms, Alphabet/Google, Netflix, and Microsoft, all vying for users' time and developer attention in interactive entertainment. Within user-generated gaming platforms, it is described as a massive platform and is often treated as a category leader rather than a follower among these peers.
+  1.4. **Competition:** Roblox competes with major digital entertainment and platform companies such as Meta Platforms, Alphabet (Google/YouTube), Microsoft, Netflix, and Unity. It is a leading user-generated gaming/metaverse platform within this competitive set but faces intense competition for users' time and developer talent.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' and the current price around $90.89 is above the recent 7-day support of $87.08 and rising from the prior close of $88.51.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has risen from the prior close of $81.94 to around $90.89–$91.07 over the last few sessions.
   
-  2.2. **7d Buy/Sell Points?:** In the last week, pullbacks near the 7-day/30-day support around $87.08 and intraday lows in the high-$80s (e.g., $87.94–$88.06) were attractive buy zones. Selling or trimming near the recent local high around $100.56 or the 7-day resistance at $98.51 would have offered good exit points.
+  2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward support around $87.08 appeared to offer better buy entries, while approaches toward the recent local high and 7-day resistance near $98.51–$100.56 looked like favorable areas to take profits or trim.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Roblox is a publicly traded U.S. company in the Communication Services sector with a multi-year operating history and a massive user base exceeding 150 million daily active users, which points to franchise durability. Financially, it remains unprofitable with a roughly -21.7% profit margin and nearly -$1B in cumulative net losses over the last four quarters, but it generates strong operating cash flow ($1.37B) and positive free cash flow (about $1.01B), indicating it is not dependent on constant external funding for operations. Its revenue is growing rapidly at about 48% year over year, suggesting a scaling business rather than a distressed one. Overall, this combination of scale, cash generation, and growth suggests a relatively stable institution from an operational standpoint, though continued accounting losses and ongoing litigation risks (such as consolidated child exploitation lawsuits) are notable stability considerations.
+  3.1. **Stability?:** Roblox is a multi-billion-dollar U.S. company in the Communication Services sector with a large global user base, indicating it is not a fly-by-night operation. Financially, it remains unprofitable with a roughly -$969M net loss and -21.7% profit margin, but it generates strong operating cash flow ($1.37B) and positive free cash flow (~$1.01B), which supports ongoing operations and investment. The stock has experienced large historical drawdowns (5-year low near $23.19 and peaks above $200 on the chart), reflecting significant volatility and sentiment swings. Overall, the franchise and balance of cash generation versus accounting losses suggest a reasonably established but not low-risk institution.
   
-  3.2. **Innovating?:** Roblox is clearly in growth and innovation mode, with 32.7%–48% revenue growth and a business built on user-generated games, evolving virtual economies, and new features like facial age checks for communication. The broader video game market is projected to roughly double by 2030, and coverage highlights Roblox as a promising, fast-growing platform positioned to capture that expansion rather than a stagnant incumbent.
+  3.2. **Innovating?:** Roblox appears to be innovating and growing, with revenue up about 48% and management expanding monetization via user-created content and advertising on a rapidly scaling platform. However, persistent negative earnings show that margin expansion and sustainable profitability are still a work in progress.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on both growth potential and legal/safety headwinds. On the bullish side, coverage notes the global video game market is expected to grow from around $300 billion to over $600 billion by 2030, and positions Roblox as a leading user-generated content platform with an innovative virtual economy, with some articles framing pullbacks as buying opportunities. On the risk side, a federal court has centralized 31 lawsuits into multidistrict litigation alleging child sexual exploitation on the platform, focusing attention on safety practices and potential negligence. This mix suggests that while optimistic growth narratives may have been partly priced in already, emerging legal cases could represent negative news that investors might "sell" against, tempering the buy-the-rumor, sell-the-news dynamic. Existing quick facts also indicate "Buy the rumor? no" and "Sell the news? no," implying that recent moves have not been dominated by that adage so far.
+  4.1. **News:** Recent news includes a law firm investigation into potential securities law violations by Roblox, which could pressure sentiment as investors reassess disclosed business information. Separate litigation has been centralized into multidistrict proceedings over alleged child sexual exploitation on the platform, highlighting regulatory and reputational risks. At the same time, more benign coverage frames Roblox as a kid-friendly stock idea for young investors, underscoring its strong consumer brand. These developments suggest more 'sell the risk' than 'buy the rumor', with legal headlines possibly acting as overhangs rather than catalysts for a classic buy-the-rumor/sell-the-news setup.
   
-  4.2. **Tarrifs:** Tariffs have been cited as a macro risk factor, but recent Reuters and Barron's coverage indicates Roblox raised its annual bookings forecast and that its stock surged despite broader tariff uncertainty, with commentary noting that Trump tariffs "don't exist in the virtual world"; overall, tariffs are acknowledged in risk language but so far appear to have had limited direct negative impact on Roblox's performance and stock.
+  4.2. **Tarrifs:** Tariffs appear to have had limited direct negative impact on Roblox's stock so far, with reports noting that spending and bookings have held up despite tariff uncertainty and that global audience diversification helps cushion tariff-related risks.
   
   ## 5. QuickRef
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, tariffs</li>
@@ -163,7 +163,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=RBLX&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Filtered 2 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; RBLX core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+core+business&amp;num=5
@@ -259,12 +259,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend and near 3-month bottom/1-year middle with support around $87.08 and resistance at $98.51 but trading well below the 20-day moving average and longer SMAs/EMAs signaling overhang; macro froth context is limited, though recent tariff-related news framed Roblox as relatively resilient rather than a bubble play.&quot;,&quot;1.1&quot;: &quot;Roblox operates a free-to-play online gaming and virtual experience platform built around user-generated content and a virtual economy using its Robux currency. It provides tools and publishing capabilities that let individuals and professi
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 3-month ‘near-bottom’ levels and well above the 1-year/5-year lows but below the 20-day average and under short-term resistance around $98.51; macro froth visibility is limited and technicals (negative MACD, high ATR) suggest upside but with elevated volatility around the $87.08 support zone.&quot;,&quot;1.1&quot;:&quot;Roblox operates a free-to-play online game and virtual world platform that hosts millions of user-created games and experiences. Players use the Robux virtual currency for optional in-game purchases, while Roblox provides creation tools, publishing, and infrastruc
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-15T10:26:50.576563+00:00">2025-12-15 10:26 UTC</time> (runtime 37.70s)
+**Generated:** <time class="js-local-time" datetime="2025-12-20T01:27:48.747717+00:00">2025-12-20 01:27 UTC</time> (runtime 25.11s)
 
 ![Roblox Corporation logo](https://ryness.github.io/stonks/assets/logos/RBLX.svg)
 
@@ -306,28 +306,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- no news is good news?
+- [RBLX ALERT: Investigation Launched into Roblox Corporation, RGRD Law Attorneys Encourage Investors and Potential Witnesses to Contact Law Firm](https://www.globenewswire.com/news-release/2025/12/20/3208787/0/en/RBLX-ALERT-Investigation-Launched-into-Roblox-Corporation-RGRD-Law-Attorneys-Encourage-Investors-and-Potential-Witnesses-to-Contact-Law-Firm.html) — GlobeNewswire Inc. · 2025-12-20
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in an uptrend and near 3-month bottom/1-year middle with support around $87.08 and resistance at $98.51 but trading well below the 20-day moving average and longer SMAs/EMAs signaling overhang; macro froth context is limited, though recent tariff-related news framed Roblox as relatively resilient rather than a bubble play.
+0.1. **Long Entry?:** maybe — shares trade near 3-month 'near-bottom' levels and well above the 1-year/5-year lows but below the 20-day average and under short-term resistance around $98.51; macro froth visibility is limited and technicals (negative MACD, high ATR) suggest upside but with elevated volatility around the $87.08 support zone.
 
 ## 1. The Biz
 
-1.1. **Activities:** Roblox operates a free-to-play online gaming and virtual experience platform built around user-generated content and a virtual economy using its Robux currency. It provides tools and publishing capabilities that let individuals and professional studios create games and experiences, monetizing through in-experience purchases and advertising. Roblox earns revenue primarily by taking a cut of creator earnings and ad spend on the platform.
+1.1. **Activities:** Roblox operates a free-to-play online game and virtual world platform that hosts millions of user-created games and experiences. Players use the Robux virtual currency for optional in-game purchases, while Roblox provides creation tools, publishing, and infrastructure for a broad range of independent and professional developers. The company generates revenue primarily by taking a cut of creators' earnings and through advertising on the platform.
 
-1.2. **Profitable?:** no — the company is not profitable, with a trailing net income sum of about -$968.6M and a profit margin of roughly -21.7%, despite positive operating and free cash flow and strong 48% revenue growth.
+1.2. **Profitable?:** no — Roblox is not profitable, with a trailing net income of about -$969M and a profit margin of -21.7%, despite strong revenue growth and positive free cash flow.
 
-1.3. **Customer & Markets:** Roblox's primary users are gamers and creators across age groups, with more than 150 million daily active users engaging with user-generated games and experiences on its platform. Its core markets are global online gaming and digital entertainment, with monetization focused on in-game purchases in Robux and advertising to brands targeting these audiences. Creators and advertisers are key paying customers, while end-users typically access the service for free.
+1.3. **Customer & Markets:** Roblox's primary customers are gamers and creators on its platform, including a large base of children and teens as well as an increasing share of older users. It serves a global online gaming and digital entertainment market, providing a venue for both play and creation across many genres and geographies. Advertisers and brands also use the platform to reach this engaged user base.
 
-1.4. **Competition:** Roblox competes with large digital and gaming platforms like Unity (U), Meta Platforms, Alphabet/Google, Netflix, and Microsoft, all vying for users' time and developer attention in interactive entertainment. Within user-generated gaming platforms, it is described as a massive platform and is often treated as a category leader rather than a follower among these peers.
+1.4. **Competition:** Roblox competes with major digital entertainment and platform companies such as Meta Platforms, Alphabet (Google/YouTube), Microsoft, Netflix, and Unity. It is a leading user-generated gaming/metaverse platform within this competitive set but faces intense competition for users' time and developer talent.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' and the current price around $90.89 is above the recent 7-day support of $87.08 and rising from the prior close of $88.51.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has risen from the prior close of $81.94 to around $90.89–$91.07 over the last few sessions.
 
-2.2. **7d Buy/Sell Points?:** In the last week, pullbacks near the 7-day/30-day support around $87.08 and intraday lows in the high-$80s (e.g., $87.94–$88.06) were attractive buy zones. Selling or trimming near the recent local high around $100.56 or the 7-day resistance at $98.51 would have offered good exit points.
+2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward support around $87.08 appeared to offer better buy entries, while approaches toward the recent local high and 7-day resistance near $98.51–$100.56 looked like favorable areas to take profits or trim.
 
 2.3.1. **7d Volume:** low
 
@@ -335,15 +335,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Roblox is a publicly traded U.S. company in the Communication Services sector with a multi-year operating history and a massive user base exceeding 150 million daily active users, which points to franchise durability. Financially, it remains unprofitable with a roughly -21.7% profit margin and nearly -$1B in cumulative net losses over the last four quarters, but it generates strong operating cash flow ($1.37B) and positive free cash flow (about $1.01B), indicating it is not dependent on constant external funding for operations. Its revenue is growing rapidly at about 48% year over year, suggesting a scaling business rather than a distressed one. Overall, this combination of scale, cash generation, and growth suggests a relatively stable institution from an operational standpoint, though continued accounting losses and ongoing litigation risks (such as consolidated child exploitation lawsuits) are notable stability considerations.
+3.1. **Stability?:** Roblox is a multi-billion-dollar U.S. company in the Communication Services sector with a large global user base, indicating it is not a fly-by-night operation. Financially, it remains unprofitable with a roughly -$969M net loss and -21.7% profit margin, but it generates strong operating cash flow ($1.37B) and positive free cash flow (~$1.01B), which supports ongoing operations and investment. The stock has experienced large historical drawdowns (5-year low near $23.19 and peaks above $200 on the chart), reflecting significant volatility and sentiment swings. Overall, the franchise and balance of cash generation versus accounting losses suggest a reasonably established but not low-risk institution.
 
-3.2. **Innovating?:** Roblox is clearly in growth and innovation mode, with 32.7%–48% revenue growth and a business built on user-generated games, evolving virtual economies, and new features like facial age checks for communication. The broader video game market is projected to roughly double by 2030, and coverage highlights Roblox as a promising, fast-growing platform positioned to capture that expansion rather than a stagnant incumbent.
+3.2. **Innovating?:** Roblox appears to be innovating and growing, with revenue up about 48% and management expanding monetization via user-created content and advertising on a rapidly scaling platform. However, persistent negative earnings show that margin expansion and sustainable profitability are still a work in progress.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on both growth potential and legal/safety headwinds. On the bullish side, coverage notes the global video game market is expected to grow from around $300 billion to over $600 billion by 2030, and positions Roblox as a leading user-generated content platform with an innovative virtual economy, with some articles framing pullbacks as buying opportunities. On the risk side, a federal court has centralized 31 lawsuits into multidistrict litigation alleging child sexual exploitation on the platform, focusing attention on safety practices and potential negligence. This mix suggests that while optimistic growth narratives may have been partly priced in already, emerging legal cases could represent negative news that investors might "sell" against, tempering the buy-the-rumor, sell-the-news dynamic. Existing quick facts also indicate "Buy the rumor? no" and "Sell the news? no," implying that recent moves have not been dominated by that adage so far.
+4.1. **News:** Recent news includes a law firm investigation into potential securities law violations by Roblox, which could pressure sentiment as investors reassess disclosed business information. Separate litigation has been centralized into multidistrict proceedings over alleged child sexual exploitation on the platform, highlighting regulatory and reputational risks. At the same time, more benign coverage frames Roblox as a kid-friendly stock idea for young investors, underscoring its strong consumer brand. These developments suggest more 'sell the risk' than 'buy the rumor', with legal headlines possibly acting as overhangs rather than catalysts for a classic buy-the-rumor/sell-the-news setup.
 
-4.2. **Tarrifs:** Tariffs have been cited as a macro risk factor, but recent Reuters and Barron's coverage indicates Roblox raised its annual bookings forecast and that its stock surged despite broader tariff uncertainty, with commentary noting that Trump tariffs "don't exist in the virtual world"; overall, tariffs are acknowledged in risk language but so far appear to have had limited direct negative impact on Roblox's performance and stock.
+4.2. **Tarrifs:** Tariffs appear to have had limited direct negative impact on Roblox's stock so far, with reports noting that spending and bookings have held up despite tariff uncertainty and that global audience diversification helps cushion tariff-related risks.
 
 ## 5. QuickRef
 
@@ -372,7 +372,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, tariffs</li>
@@ -421,7 +421,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=RBLX&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=RBLX&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Filtered 2 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; RBLX core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RBLX+core+business&amp;num=5
@@ -517,6 +517,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend and near 3-month bottom/1-year middle with support around $87.08 and resistance at $98.51 but trading well below the 20-day moving average and longer SMAs/EMAs signaling overhang; macro froth context is limited, though recent tariff-related news framed Roblox as relatively resilient rather than a bubble play.&quot;,&quot;1.1&quot;: &quot;Roblox operates a free-to-play online gaming and virtual experience platform built around user-generated content and a virtual economy using its Robux currency. It provides tools and publishing capabilities that let individuals and professi
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 3-month ‘near-bottom’ levels and well above the 1-year/5-year lows but below the 20-day average and under short-term resistance around $98.51; macro froth visibility is limited and technicals (negative MACD, high ATR) suggest upside but with elevated volatility around the $87.08 support zone.&quot;,&quot;1.1&quot;:&quot;Roblox operates a free-to-play online game and virtual world platform that hosts millions of user-created games and experiences. Players use the Robux virtual currency for optional in-game purchases, while Roblox provides creation tools, publishing, and infrastruc
 </code></pre>
 </details>
