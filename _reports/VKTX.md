@@ -2,11 +2,11 @@
 layout: default
 title: "VKTX Stock Report"
 ticker: "VKTX"
-date: 2025-12-16
-generated_at: 2025-12-16T10:25:38.132232+00:00
-runtime_seconds: 32.70
+date: 2025-12-21
+generated_at: 2025-12-21T01:46:57.145001+00:00
+runtime_seconds: 30.66
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-16T10:25:38.132232+00:00">2025-12-16 10:25 UTC</time> (runtime 32.70s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-21T01:46:57.145001+00:00">2025-12-21 01:46 UTC</time> (runtime 30.66s)
   
   ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a 5-year mid-range with a 1-year low of $19.98 and no explicit macro bubble/froth signals provided, limiting visibility; price at $37.77 is in an uptrend slightly above the 20-day moving average ($36.53) but close to 7-day resistance ($38.76) and well above nearby support ($34.15).
+  0.1. **Long Entry?:** maybe — price sits in the middle of its 1y/5y range and just above the 20-day average and 7d support around $34.15, suggesting a constructive but not washed-out entry; macro froth context is not provided and the stock is near short-term resistance around $38.76 with high recent volatility.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype-selective agonists of the thyroid hormone receptor beta, and VK5211, an orally available, non-steroidal selective androgen receptor modulator. The company is headquartered in the United States and operates in the biotechnology sector.
+  1.1. **Activities:** Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing novel therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype selective agonists of thyroid hormone receptor beta, and VK5211, an orally available non-steroidal selective androgen receptor modulator. The company is researching these candidates for conditions such as obesity and related metabolic diseases, as indicated by its obesity-focused VK2735 program.
   
-  1.2. **Profitable?:** no — Viking Therapeutics is not profitable, with consecutive annual net losses totaling about -$237.4M over the last four periods, zero profit margin, and negative free cash flow and operating cash flow, and no specific profitability timeline indicated.
+  1.2. **Profitable?:** no — the company has no marketed products, reports persistent net losses totaling about -$237M over recent years, negative free and operating cash flow, and an EPS of -2.12 with no clear profitability date disclosed.
   
-  1.3. **Customer & Markets:** As a clinical-stage biotech with no approved products, Viking's ultimate customers are patients with metabolic and endocrine disorders, while its near-term stakeholders are clinical investigators, regulators, and potential pharma partners. The company operates in the healthcare/biotechnology market from its U.S. base, targeting indications such as obesity and related metabolic diseases according to its pipeline disclosures.
+  1.3. **Customer & Markets:** As a clinical-stage biotechnology company, Viking Therapeutics' ultimate customers are patients with metabolic and endocrine disorders such as obesity and related conditions, reached through physicians and healthcare systems. Its markets are in the biopharmaceutical sector, with operations and listing in the United States, and it targets disease areas where large-cap pharma like Eli Lilly are active, highlighting focus on major global metabolic disease markets.
   
-  1.4. **Competition:** Key competitors include Madrigal Pharmaceuticals (MDGL) and Eli Lilly (LLY), which also operate in metabolic and endocrine-related therapeutics. The data identifies these as related and competing companies but does not quantify Viking's rank or market share among them.
+  1.4. **Competition:** Key competitors include Eli Lilly (LLY) and Madrigal Pharmaceuticals (MDGL), as well as other metabolic and endocrine-focused biopharma firms listed in peer comparisons. Viking is a mid-cap clinical-stage player without approved products, operating alongside much larger, commercially established competitors like Eli Lilly.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close of $37.77 is above both the prior close ($36.15) and the 20-day moving average ($36.53).
+  2.1. **7d Trend?:** up — over the last week the price climbed from an open near $34.01 to close at $37.77, above its 20-day moving average and labeled in an uptrend.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day support area around $34.15 appear to have been favorable buy zones, while approaches to the 7-day resistance near $38.76 offered better short-term selling or trimming opportunities. The current price of $37.77 sits closer to resistance than support, implying less favorable immediate upside-to-downside skew for new entries.
+  2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the 7d support and recent low region around $33.89–$34.15 offered better buy points, while approaches to short-term resistance and local highs around $38.77 were favorable sell or trim zones.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Viking Therapeutics appears more like an emerging clinical-stage biotech than an established, cash-generating institution. It has generated consistent net losses (cumulative about -$237.4M over recent periods) and negative operating and free cash flow, indicating reliance on external capital rather than internal profitability. However, it has built a diversified metabolic/endocrine pipeline (VK2809, VK0214, VK5211) and, per external call summaries, holds substantial cash and short-term investments (e.g., $808M as of mid-2025), which provides a funding runway. Overall, it is not a fly-by-night shell, but its stability is contingent on continued capital markets access and clinical progress rather than a mature balance sheet and steady revenues.
+  3.1. **Stability?:** Viking Therapeutics is a clinical-stage biotech with no approved products and continues to generate substantial net losses (approximately -$237M cumulatively in recent years) and negative free cash flow. However, it maintains a multi-asset pipeline in key metabolic and endocrine indications, suggesting an ongoing commitment to development rather than a transient operation. The company trades on NASDAQ with a multibillion-dollar market cap cited in external data, indicating broad capital market access. Overall, it is a higher-risk development-stage biotech rather than a fly-by-night entity, but its financial stability depends on continued funding rather than operating profitability.
   
-  3.2. **Innovating?:** Viking is actively innovating, with multiple novel, orally available receptor-selective agents in clinical development for metabolic and endocrine disorders and positive Phase 2 results cited for its dual GLP‑1/GIP agonist VK2735 in obesity. The ongoing advancement of several pipeline programs and trial completions indicates a growth and innovation posture rather than a stale operation.
+  3.2. **Innovating?:** Viking appears to be actively innovating and growing its pipeline, with multiple thyroid hormone receptor beta agonists and an obesity-targeted dual GLP-1/GIP agonist (VK2735) advancing through clinical trials. Rising R&D spend and recent positive Phase 2 trial results for VK2735 underscore ongoing investment in new therapies rather than a mature, stagnant portfolio.
   
   ## 4. Context
   
-  4.1. **News:** The supplied news flow directly referencing Viking is limited, but external search results indicate the stock has been repeatedly linked with M&A speculation (e.g., rumored interest from Pfizer and inclusion among takeover-rumor stocks), which can fuel 'buy the rumor' rallies. Other headlines highlight strong trial results for pipeline assets like VK2735 and accelerated enrollment or early completion of obesity trials, which represent fundamental 'news' catalysts. Quick facts for VKTX explicitly flag 'Buy the rumor? no' and 'Sell the news? yes', suggesting that historically, price pops on concrete positive announcements may have been followed by consolidation or pullbacks. In this context, traders might have benefited more from entering ahead of data/rumor cycles and trimming on confirmation events rather than chasing post-news spikes.
+  4.1. **News:** Recent context highlights Viking Therapeutics as a subject of takeover speculation, with reports noting it among stocks drawing hedge fund interest on M&A rumors and separate commentary on it as a strong buy or short-squeeze candidate. Articles describe key clinical milestones such as early completion of the VANQUISH-1 trial and positive obesity-trial data, which have driven significant prior share-price moves. There have also been episodes of sharp pullbacks and rebounds, including bargain-hunting rallies after selloffs, suggesting a pattern where optimism around trial data or acquisition chatter is sometimes followed by profit-taking. In this framework, the supplied quick facts explicitly flag 'Sell the news?' as 'yes', indicating that rallies on concrete announcements have often been selling opportunities after rumor-driven run-ups.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Earnings commentary notes uncertainty about the potential impact of tariffs on Viking's future operations and commercial activities, but no specific, quantified effect on VKTX's stock is detailed, so the precise impact remains unknown.
   
   ## 5. QuickRef
   
@@ -249,7 +249,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -271,12 +271,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are in a 5-year mid-range with a 1-year low of $19.98 and no explicit macro bubble/froth signals provided, limiting visibility; price at $37.77 is in an uptrend slightly above the 20-day moving average ($36.53) but close to 7-day resistance ($38.76) and well above nearby support ($34.15).&quot;, &quot;1.1&quot;: &quot;Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype-selective agonists of the thyroid h
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price sits in the middle of its 1y/5y range and just above the 20-day average and 7d support around $34.15, suggesting a constructive but not washed-out entry; macro froth context is not provided and the stock is near short-term resistance around $38.76 with high recent volatility.&quot;, &quot;1.1&quot;: &quot;Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing novel therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype selective agonists of thyroid hormone recep
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-16T10:25:38.132232+00:00">2025-12-16 10:25 UTC</time> (runtime 32.70s)
+**Generated:** <time class="js-local-time" datetime="2025-12-21T01:46:57.145001+00:00">2025-12-21 01:46 UTC</time> (runtime 30.66s)
 
 ![Viking Therapeutics, Inc logo](https://ryness.github.io/stonks/assets/logos/VKTX.png)
 
@@ -323,23 +323,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a 5-year mid-range with a 1-year low of $19.98 and no explicit macro bubble/froth signals provided, limiting visibility; price at $37.77 is in an uptrend slightly above the 20-day moving average ($36.53) but close to 7-day resistance ($38.76) and well above nearby support ($34.15).
+0.1. **Long Entry?:** maybe — price sits in the middle of its 1y/5y range and just above the 20-day average and 7d support around $34.15, suggesting a constructive but not washed-out entry; macro froth context is not provided and the stock is near short-term resistance around $38.76 with high recent volatility.
 
 ## 1. The Biz
 
-1.1. **Activities:** Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype-selective agonists of the thyroid hormone receptor beta, and VK5211, an orally available, non-steroidal selective androgen receptor modulator. The company is headquartered in the United States and operates in the biotechnology sector.
+1.1. **Activities:** Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing novel therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype selective agonists of thyroid hormone receptor beta, and VK5211, an orally available non-steroidal selective androgen receptor modulator. The company is researching these candidates for conditions such as obesity and related metabolic diseases, as indicated by its obesity-focused VK2735 program.
 
-1.2. **Profitable?:** no — Viking Therapeutics is not profitable, with consecutive annual net losses totaling about -$237.4M over the last four periods, zero profit margin, and negative free cash flow and operating cash flow, and no specific profitability timeline indicated.
+1.2. **Profitable?:** no — the company has no marketed products, reports persistent net losses totaling about -$237M over recent years, negative free and operating cash flow, and an EPS of -2.12 with no clear profitability date disclosed.
 
-1.3. **Customer & Markets:** As a clinical-stage biotech with no approved products, Viking's ultimate customers are patients with metabolic and endocrine disorders, while its near-term stakeholders are clinical investigators, regulators, and potential pharma partners. The company operates in the healthcare/biotechnology market from its U.S. base, targeting indications such as obesity and related metabolic diseases according to its pipeline disclosures.
+1.3. **Customer & Markets:** As a clinical-stage biotechnology company, Viking Therapeutics' ultimate customers are patients with metabolic and endocrine disorders such as obesity and related conditions, reached through physicians and healthcare systems. Its markets are in the biopharmaceutical sector, with operations and listing in the United States, and it targets disease areas where large-cap pharma like Eli Lilly are active, highlighting focus on major global metabolic disease markets.
 
-1.4. **Competition:** Key competitors include Madrigal Pharmaceuticals (MDGL) and Eli Lilly (LLY), which also operate in metabolic and endocrine-related therapeutics. The data identifies these as related and competing companies but does not quantify Viking's rank or market share among them.
+1.4. **Competition:** Key competitors include Eli Lilly (LLY) and Madrigal Pharmaceuticals (MDGL), as well as other metabolic and endocrine-focused biopharma firms listed in peer comparisons. Viking is a mid-cap clinical-stage player without approved products, operating alongside much larger, commercially established competitors like Eli Lilly.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close of $37.77 is above both the prior close ($36.15) and the 20-day moving average ($36.53).
+2.1. **7d Trend?:** up — over the last week the price climbed from an open near $34.01 to close at $37.77, above its 20-day moving average and labeled in an uptrend.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day support area around $34.15 appear to have been favorable buy zones, while approaches to the 7-day resistance near $38.76 offered better short-term selling or trimming opportunities. The current price of $37.77 sits closer to resistance than support, implying less favorable immediate upside-to-downside skew for new entries.
+2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the 7d support and recent low region around $33.89–$34.15 offered better buy points, while approaches to short-term resistance and local highs around $38.77 were favorable sell or trim zones.
 
 2.3.1. **7d Volume:** med
 
@@ -347,15 +347,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Viking Therapeutics appears more like an emerging clinical-stage biotech than an established, cash-generating institution. It has generated consistent net losses (cumulative about -$237.4M over recent periods) and negative operating and free cash flow, indicating reliance on external capital rather than internal profitability. However, it has built a diversified metabolic/endocrine pipeline (VK2809, VK0214, VK5211) and, per external call summaries, holds substantial cash and short-term investments (e.g., $808M as of mid-2025), which provides a funding runway. Overall, it is not a fly-by-night shell, but its stability is contingent on continued capital markets access and clinical progress rather than a mature balance sheet and steady revenues.
+3.1. **Stability?:** Viking Therapeutics is a clinical-stage biotech with no approved products and continues to generate substantial net losses (approximately -$237M cumulatively in recent years) and negative free cash flow. However, it maintains a multi-asset pipeline in key metabolic and endocrine indications, suggesting an ongoing commitment to development rather than a transient operation. The company trades on NASDAQ with a multibillion-dollar market cap cited in external data, indicating broad capital market access. Overall, it is a higher-risk development-stage biotech rather than a fly-by-night entity, but its financial stability depends on continued funding rather than operating profitability.
 
-3.2. **Innovating?:** Viking is actively innovating, with multiple novel, orally available receptor-selective agents in clinical development for metabolic and endocrine disorders and positive Phase 2 results cited for its dual GLP‑1/GIP agonist VK2735 in obesity. The ongoing advancement of several pipeline programs and trial completions indicates a growth and innovation posture rather than a stale operation.
+3.2. **Innovating?:** Viking appears to be actively innovating and growing its pipeline, with multiple thyroid hormone receptor beta agonists and an obesity-targeted dual GLP-1/GIP agonist (VK2735) advancing through clinical trials. Rising R&D spend and recent positive Phase 2 trial results for VK2735 underscore ongoing investment in new therapies rather than a mature, stagnant portfolio.
 
 ## 4. Context
 
-4.1. **News:** The supplied news flow directly referencing Viking is limited, but external search results indicate the stock has been repeatedly linked with M&A speculation (e.g., rumored interest from Pfizer and inclusion among takeover-rumor stocks), which can fuel 'buy the rumor' rallies. Other headlines highlight strong trial results for pipeline assets like VK2735 and accelerated enrollment or early completion of obesity trials, which represent fundamental 'news' catalysts. Quick facts for VKTX explicitly flag 'Buy the rumor? no' and 'Sell the news? yes', suggesting that historically, price pops on concrete positive announcements may have been followed by consolidation or pullbacks. In this context, traders might have benefited more from entering ahead of data/rumor cycles and trimming on confirmation events rather than chasing post-news spikes.
+4.1. **News:** Recent context highlights Viking Therapeutics as a subject of takeover speculation, with reports noting it among stocks drawing hedge fund interest on M&A rumors and separate commentary on it as a strong buy or short-squeeze candidate. Articles describe key clinical milestones such as early completion of the VANQUISH-1 trial and positive obesity-trial data, which have driven significant prior share-price moves. There have also been episodes of sharp pullbacks and rebounds, including bargain-hunting rallies after selloffs, suggesting a pattern where optimism around trial data or acquisition chatter is sometimes followed by profit-taking. In this framework, the supplied quick facts explicitly flag 'Sell the news?' as 'yes', indicating that rallies on concrete announcements have often been selling opportunities after rumor-driven run-ups.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Earnings commentary notes uncertainty about the potential impact of tariffs on Viking's future operations and commercial activities, but no specific, quantified effect on VKTX's stock is detailed, so the precise impact remains unknown.
 
 ## 5. QuickRef
 
@@ -519,7 +519,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; VKTX tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VKTX+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; VKTX tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VKTX+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -541,6 +541,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are in a 5-year mid-range with a 1-year low of $19.98 and no explicit macro bubble/froth signals provided, limiting visibility; price at $37.77 is in an uptrend slightly above the 20-day moving average ($36.53) but close to 7-day resistance ($38.76) and well above nearby support ($34.15).&quot;, &quot;1.1&quot;: &quot;Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype-selective agonists of the thyroid h
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price sits in the middle of its 1y/5y range and just above the 20-day average and 7d support around $34.15, suggesting a constructive but not washed-out entry; macro froth context is not provided and the stock is near short-term resistance around $38.76 with high recent volatility.&quot;, &quot;1.1&quot;: &quot;Viking Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing novel therapies for metabolic and endocrine disorders. Its pipeline includes VK2809 and VK0214, which are orally available, tissue- and receptor-subtype selective agonists of thyroid hormone recep
 </code></pre>
 </details>
