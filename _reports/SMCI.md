@@ -2,11 +2,11 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2025-12-23
-generated_at: 2025-12-23T01:41:56.530001+00:00
-runtime_seconds: 23.50
+date: 2025-12-27
+generated_at: 2025-12-27T15:19:28.810511+00:00
+runtime_seconds: 31.72
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-23T01:41:56.530001+00:00">2025-12-23 01:41 UTC</time> (runtime 23.50s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-27T15:19:28.810511+00:00">2025-12-27 15:19 UTC</time> (runtime 31.72s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 3‑month bottom and above key 1‑year/5‑year lows with support around 31.03 vs resistance near 35.78 while sitting well below the 20‑day moving average and SMA/EMA; macro froth or bubble signals are not provided, so broader risk visibility is limited.
+  0.1. **Long Entry?:** maybe — shares are in a near-bottom zone on the 3‑month view and sitting just above key support around 31.03 after a sharp drawdown from a much higher 30‑day resistance at 53.01; macro froth visibility is limited and the price is well below the 20‑day and longer SMAs/EMAs (32.19 vs ~35.49 and ~39–39), so it may suit cautious, staged entries rather than aggressive buys.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer, Inc. designs and supplies high-performance server and storage solutions for cloud computing, data centers, high-performance computing, AI datacenters, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software built on modular, open-standard architectures. The company operates as a single segment focused on delivering turnkey, application-optimized IT infrastructure.
+  1.1. **Activities:** Super Micro Computer, Inc. designs and supplies high‑performance server and storage solutions for cloud computing, data centers, high‑performance computing, AI data centers, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full‑rack solutions, networking devices, server sub‑systems, and management software built on a modular, open‑standard architecture. The company provides turnkey systems that are designed, developed, validated, and installed for large AI and data‑center deployments.
   
-  1.2. **Profitable?:** yes — the company is profitable with positive net income totaling $792.81M over recent periods and a profit margin of about 3.77%, though revenue and earnings growth are currently negative.
+  1.2. **Profitable?:** yes — the company is profitable, with positive net income in recent quarters totaling about $792.8M and a profit margin of 3.77%, though recent revenue and earnings growth have turned negative.
   
-  1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud service providers, AI and high-performance computing customers, and IoT/edge computing deployments. More than half of its revenue comes from the United States, with the remainder generated across Europe, Asia, and other international regions. It uses both direct and indirect sales channels to reach these markets.
+  1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud service providers, AI and high‑performance computing customers, and 5G/edge and embedded/IoT users that need application‑optimized server infrastructure. More than half of its revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, reflecting a globally diversified customer base.
   
-  1.4. **Competition:** Key competitors include Dell, HPE, and other large IT and cloud hardware providers such as AMD, Intel, Nvidia, Alphabet (Google), Microsoft, and Meta in adjacent infrastructure categories, with SMCI holding roughly 10% market share versus Dell's much larger share in comparable segments. It is a significant but not dominant player, positioned as a high-performance, application-optimized server vendor within this competitive field.
+  1.4. **Competition:** Key competitors include Dell, Hewlett Packard Enterprise (HPE), and large cloud and hardware players such as AMD, Intel, Nvidia, Microsoft, Alphabet, and Meta, which also address data‑center and AI infrastructure markets. Super Micro holds a meaningful but smaller market share than Dell and aims to grow from single‑digit to roughly one‑third of the AI server market over time, indicating it is an aggressive challenger rather than the dominant incumbent.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the stock has moved from the mid‑30s toward support around 31.03, and the trend label and quick facts both flag a 7d downtrend.
+  2.1. **7d Trend?:** down — the 7‑day trend is labeled down, with price falling from a 7‑day resistance high near 35.78 to about 32.19, close to support.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent low and support around 31.03 appeared favorable, while selling near the local high and 7‑day resistance around 35.78–35.82 offered better exit levels. The 30‑day resistance at 53.01 marks a higher-term sell zone from the prior month's range.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent and 7‑day support around 31.03 offered a favorable entry in this downtrend, while selling or trimming near the 7‑day/local high around 35.78–35.82 would have captured short‑term strength. The 30‑day resistance at 53.01 also marks a notable prior sell zone for longer‑term traders.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Super Micro is a 30-year-old technology company that has grown into a global provider of application-optimized server and storage systems, indicating it is not a fly-by-night operation. It is consistently profitable with cumulative recent net income of $792.81M and maintains positive operating cash flow, though free cash flow is modestly negative. The firm generates diversified revenue across the U.S., Europe, Asia, and other regions, which supports resilience. However, recent revenue and earnings declines and tariff-related headwinds noted in filings and news introduce some cyclical and policy risk to its otherwise solid franchise.
+  3.1. **Stability?:** Super Micro is a relatively established technology company, having celebrated 30 years of innovation and growth, which supports its characterization as a stable institution rather than a fly‑by‑night operator. It operates a single, focused segment in high‑performance server solutions, serving mission‑critical markets like cloud, AI, and data centers across the US, Europe, and Asia. The firm generates consistent positive net income and substantial operating cash flow, though free cash flow was recently slightly negative, suggesting ongoing heavy investment. Overall, its longevity, global footprint, and profitability profile point to a fundamentally stable but growth‑oriented business.
   
-  3.2. **Innovating?:** It is actively innovating and growing, with a broadening portfolio of AI-optimized servers, GPU systems, and new AMD and NVIDIA-based platforms, as well as continued expansion into AI datacenters, cloud, and 5G/edge markets. Recent company releases highlight ongoing product launches and manufacturing and market expansion initiatives.
+  3.2. **Innovating?:** The company appears to be innovating and growing, expanding product lines in areas like NVIDIA Blackwell and AMD Instinct AI platforms and positioning itself as a total IT solution provider for AI, cloud, storage, and 5G/edge. Its strategy to expand capacity, target higher market share, and support large‑scale AI data centers indicates an active push for growth rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage emphasizes that SMCI's sharp stock sell-off has been driven by sector-wide semiconductor and AI-server anxieties, as well as tariff uncertainty and earnings disappointments, rather than a collapse in underlying demand. Management and external analyses point to timing issues in revenue recognition, expected revenue acceleration (including projected doubling in an upcoming quarter), and continued AI-related product and market expansion. At the same time, the stock features high short interest and appears on lists of candidates for potential rebound trades into early 2026, suggesting a setup where negative sentiment and fear may have overshot fundamentals. In a buy-the-rumor, sell-the-news context, much of the tariff and slowdown risk appears to have been sold already, so any positive surprise on growth or policy could lead to a contrarian rally as shorts cover. However, headlines also stress mixed outlooks and policy risk, meaning traders must be cautious about chasing any rumor-driven spikes.
+  4.1. **News:** Recent coverage highlights a sharp sell‑off in SMCI driven by sector‑wide semiconductor and AI‑server anxieties, with commentary suggesting this is more a revenue‑timing issue than a demand problem and that revenue could double in an upcoming quarter. Other pieces flag SMCI as a high‑short‑interest, undervalued name with significant rebound potential into early 2026, and note continued expansion of its AI product portfolio (e.g., NVIDIA Blackwell solutions). These reports imply that sentiment may be excessively pessimistic relative to fundamentals, fitting a 'buy the fear' setup more than a 'sell the news' dynamic. The quick facts also explicitly say 'Buy the dip? yes', while 'Buy the rumor?' and 'Sell the news?' are both 'no', indicating recent moves have been more reactionary than driven by classic rumor‑then‑news cycles.
   
-  4.2. **Tarrifs:** Tariffs have been a clear headwind, with multiple reports and company commentary citing tariff-related uncertainty and supply-chain exposure as drivers of sharp share-price drops and short-term pressure on earnings. Management has described these tariff impacts as potentially short term, but recent sell-offs around tariff news show that SMCI's stock is highly sensitive to trade policy developments.
+  4.2. **Tarrifs:** Tariffs have been a headwind for SMCI, with management explicitly citing economic uncertainty and tariff impacts as short‑term drags and reports noting that Trump‑era tariff fears have caused the stock to drop more sharply than some AI peers. Overall, tariff risk has added volatility and contributed to earnings‑related sell‑offs rather than benefiting the stock.
   
   ## 5. QuickRef
   
@@ -117,8 +117,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, market expansion, latest news, tariffs</li>
-  <li>The Guardian: profit outlook, competitive landscape, rumor, tariff</li>
+  <li>NewsAPI: market expansion, latest news, tariffs</li>
+  <li>The Guardian: business model, profit outlook, competitive landscape, rumor, tariff</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -173,7 +173,11 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -195,7 +199,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -231,13 +235,13 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -259,12 +263,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3‑month bottom and above key 1‑year/5‑year lows with support around 31.03 vs resistance near 35.78 while sitting well below the 20‑day moving average and SMA/EMA; macro froth or bubble signals are not provided, so broader risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and supplies high-performance server and storage solutions for cloud computing, data centers, high-performance computing, AI datacenters, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solu
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are in a near-bottom zone on the 3‑month view and sitting just above key support around 31.03 after a sharp drawdown from a much higher 30‑day resistance at 53.01; macro froth visibility is limited and the price is well below the 20‑day and longer SMAs/EMAs (32.19 vs ~35.49 and ~39–39), so it may suit cautious, staged entries rather than aggressive buys.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and supplies high‑performance server and storage solutions for cloud computing, data centers, high‑performance computing, AI data centers, and IoT/embedded markets. Its portf
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-23T01:41:56.530001+00:00">2025-12-23 01:41 UTC</time> (runtime 23.50s)
+**Generated:** <time class="js-local-time" datetime="2025-12-27T15:19:28.810511+00:00">2025-12-27 15:19 UTC</time> (runtime 31.72s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
@@ -311,23 +315,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 3‑month bottom and above key 1‑year/5‑year lows with support around 31.03 vs resistance near 35.78 while sitting well below the 20‑day moving average and SMA/EMA; macro froth or bubble signals are not provided, so broader risk visibility is limited.
+0.1. **Long Entry?:** maybe — shares are in a near-bottom zone on the 3‑month view and sitting just above key support around 31.03 after a sharp drawdown from a much higher 30‑day resistance at 53.01; macro froth visibility is limited and the price is well below the 20‑day and longer SMAs/EMAs (32.19 vs ~35.49 and ~39–39), so it may suit cautious, staged entries rather than aggressive buys.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer, Inc. designs and supplies high-performance server and storage solutions for cloud computing, data centers, high-performance computing, AI datacenters, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software built on modular, open-standard architectures. The company operates as a single segment focused on delivering turnkey, application-optimized IT infrastructure.
+1.1. **Activities:** Super Micro Computer, Inc. designs and supplies high‑performance server and storage solutions for cloud computing, data centers, high‑performance computing, AI data centers, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full‑rack solutions, networking devices, server sub‑systems, and management software built on a modular, open‑standard architecture. The company provides turnkey systems that are designed, developed, validated, and installed for large AI and data‑center deployments.
 
-1.2. **Profitable?:** yes — the company is profitable with positive net income totaling $792.81M over recent periods and a profit margin of about 3.77%, though revenue and earnings growth are currently negative.
+1.2. **Profitable?:** yes — the company is profitable, with positive net income in recent quarters totaling about $792.8M and a profit margin of 3.77%, though recent revenue and earnings growth have turned negative.
 
-1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud service providers, AI and high-performance computing customers, and IoT/edge computing deployments. More than half of its revenue comes from the United States, with the remainder generated across Europe, Asia, and other international regions. It uses both direct and indirect sales channels to reach these markets.
+1.3. **Customer & Markets:** Super Micro primarily serves enterprise data centers, cloud service providers, AI and high‑performance computing customers, and 5G/edge and embedded/IoT users that need application‑optimized server infrastructure. More than half of its revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, reflecting a globally diversified customer base.
 
-1.4. **Competition:** Key competitors include Dell, HPE, and other large IT and cloud hardware providers such as AMD, Intel, Nvidia, Alphabet (Google), Microsoft, and Meta in adjacent infrastructure categories, with SMCI holding roughly 10% market share versus Dell's much larger share in comparable segments. It is a significant but not dominant player, positioned as a high-performance, application-optimized server vendor within this competitive field.
+1.4. **Competition:** Key competitors include Dell, Hewlett Packard Enterprise (HPE), and large cloud and hardware players such as AMD, Intel, Nvidia, Microsoft, Alphabet, and Meta, which also address data‑center and AI infrastructure markets. Super Micro holds a meaningful but smaller market share than Dell and aims to grow from single‑digit to roughly one‑third of the AI server market over time, indicating it is an aggressive challenger rather than the dominant incumbent.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the stock has moved from the mid‑30s toward support around 31.03, and the trend label and quick facts both flag a 7d downtrend.
+2.1. **7d Trend?:** down — the 7‑day trend is labeled down, with price falling from a 7‑day resistance high near 35.78 to about 32.19, close to support.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent low and support around 31.03 appeared favorable, while selling near the local high and 7‑day resistance around 35.78–35.82 offered better exit levels. The 30‑day resistance at 53.01 marks a higher-term sell zone from the prior month's range.
+2.2. **7d Buy/Sell Points?:** Buying near the recent and 7‑day support around 31.03 offered a favorable entry in this downtrend, while selling or trimming near the 7‑day/local high around 35.78–35.82 would have captured short‑term strength. The 30‑day resistance at 53.01 also marks a notable prior sell zone for longer‑term traders.
 
 2.3.1. **7d Volume:** med
 
@@ -335,15 +339,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Super Micro is a 30-year-old technology company that has grown into a global provider of application-optimized server and storage systems, indicating it is not a fly-by-night operation. It is consistently profitable with cumulative recent net income of $792.81M and maintains positive operating cash flow, though free cash flow is modestly negative. The firm generates diversified revenue across the U.S., Europe, Asia, and other regions, which supports resilience. However, recent revenue and earnings declines and tariff-related headwinds noted in filings and news introduce some cyclical and policy risk to its otherwise solid franchise.
+3.1. **Stability?:** Super Micro is a relatively established technology company, having celebrated 30 years of innovation and growth, which supports its characterization as a stable institution rather than a fly‑by‑night operator. It operates a single, focused segment in high‑performance server solutions, serving mission‑critical markets like cloud, AI, and data centers across the US, Europe, and Asia. The firm generates consistent positive net income and substantial operating cash flow, though free cash flow was recently slightly negative, suggesting ongoing heavy investment. Overall, its longevity, global footprint, and profitability profile point to a fundamentally stable but growth‑oriented business.
 
-3.2. **Innovating?:** It is actively innovating and growing, with a broadening portfolio of AI-optimized servers, GPU systems, and new AMD and NVIDIA-based platforms, as well as continued expansion into AI datacenters, cloud, and 5G/edge markets. Recent company releases highlight ongoing product launches and manufacturing and market expansion initiatives.
+3.2. **Innovating?:** The company appears to be innovating and growing, expanding product lines in areas like NVIDIA Blackwell and AMD Instinct AI platforms and positioning itself as a total IT solution provider for AI, cloud, storage, and 5G/edge. Its strategy to expand capacity, target higher market share, and support large‑scale AI data centers indicates an active push for growth rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage emphasizes that SMCI's sharp stock sell-off has been driven by sector-wide semiconductor and AI-server anxieties, as well as tariff uncertainty and earnings disappointments, rather than a collapse in underlying demand. Management and external analyses point to timing issues in revenue recognition, expected revenue acceleration (including projected doubling in an upcoming quarter), and continued AI-related product and market expansion. At the same time, the stock features high short interest and appears on lists of candidates for potential rebound trades into early 2026, suggesting a setup where negative sentiment and fear may have overshot fundamentals. In a buy-the-rumor, sell-the-news context, much of the tariff and slowdown risk appears to have been sold already, so any positive surprise on growth or policy could lead to a contrarian rally as shorts cover. However, headlines also stress mixed outlooks and policy risk, meaning traders must be cautious about chasing any rumor-driven spikes.
+4.1. **News:** Recent coverage highlights a sharp sell‑off in SMCI driven by sector‑wide semiconductor and AI‑server anxieties, with commentary suggesting this is more a revenue‑timing issue than a demand problem and that revenue could double in an upcoming quarter. Other pieces flag SMCI as a high‑short‑interest, undervalued name with significant rebound potential into early 2026, and note continued expansion of its AI product portfolio (e.g., NVIDIA Blackwell solutions). These reports imply that sentiment may be excessively pessimistic relative to fundamentals, fitting a 'buy the fear' setup more than a 'sell the news' dynamic. The quick facts also explicitly say 'Buy the dip? yes', while 'Buy the rumor?' and 'Sell the news?' are both 'no', indicating recent moves have been more reactionary than driven by classic rumor‑then‑news cycles.
 
-4.2. **Tarrifs:** Tariffs have been a clear headwind, with multiple reports and company commentary citing tariff-related uncertainty and supply-chain exposure as drivers of sharp share-price drops and short-term pressure on earnings. Management has described these tariff impacts as potentially short term, but recent sell-offs around tariff news show that SMCI's stock is highly sensitive to trade policy developments.
+4.2. **Tarrifs:** Tariffs have been a headwind for SMCI, with management explicitly citing economic uncertainty and tariff impacts as short‑term drags and reports noting that Trump‑era tariff fears have caused the stock to drop more sharply than some AI peers. Overall, tariff risk has added volatility and contributed to earnings‑related sell‑offs rather than benefiting the stock.
 
 ## 5. QuickRef
 
@@ -375,8 +379,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, market expansion, latest news, tariffs</li>
-<li>The Guardian: profit outlook, competitive landscape, rumor, tariff</li>
+<li>NewsAPI: market expansion, latest news, tariffs</li>
+<li>The Guardian: business model, profit outlook, competitive landscape, rumor, tariff</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -431,7 +435,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -453,7 +461,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -489,13 +497,13 @@ Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff&amp;a
     guardian: 5 result(s)
   newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -517,6 +525,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3‑month bottom and above key 1‑year/5‑year lows with support around 31.03 vs resistance near 35.78 while sitting well below the 20‑day moving average and SMA/EMA; macro froth or bubble signals are not provided, so broader risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and supplies high-performance server and storage solutions for cloud computing, data centers, high-performance computing, AI datacenters, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solu
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares are in a near-bottom zone on the 3‑month view and sitting just above key support around 31.03 after a sharp drawdown from a much higher 30‑day resistance at 53.01; macro froth visibility is limited and the price is well below the 20‑day and longer SMAs/EMAs (32.19 vs ~35.49 and ~39–39), so it may suit cautious, staged entries rather than aggressive buys.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and supplies high‑performance server and storage solutions for cloud computing, data centers, high‑performance computing, AI data centers, and IoT/embedded markets. Its portf
 </code></pre>
 </details>
