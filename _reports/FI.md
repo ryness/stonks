@@ -2,11 +2,11 @@
 layout: default
 title: "FI Stock Report"
 ticker: "FI"
-date: 2025-12-24
-generated_at: 2025-12-24T01:40:33.691180+00:00
-runtime_seconds: 25.01
+date: 2025-12-28
+generated_at: 2025-12-28T15:19:54.726153+00:00
+runtime_seconds: 22.75
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-24T01:40:33.691180+00:00">2025-12-24 01:40 UTC</time> (runtime 25.01s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-28T15:19:54.726153+00:00">2025-12-28 15:19 UTC</time> (runtime 22.75s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -51,23 +51,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price sits near 1yr/5yr bottom support around $59.77–59.56 after a 47% post-earnings collapse, offering potential value; macro froth context is not provided and the stock trades below its 20-day average ($62.31) and recent resistance ($62.26–66.95), suggesting limited short‑term momentum
+  0.1. **Long Entry?:** maybe — the stock is trading near its 1y/5y bottom around support at $59.56 with price just below the 20-day average and resistance at ~$62–67, suggesting an attractive but technically fragile entry; macro froth/bubble signals are not evident in the provided data, so broader market-risk visibility is limited.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, Europe, the Middle East and Africa, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions, offering merchant acquiring and digital commerce, mobile payments, fraud and security tools, SaaS and pay‑by‑bank services, and its Clover point‑of‑sale and business management platform. It also delivers card processing, digital banking, bill pay, P2P and account transfers, real‑time payments, government and student loan processing, and various back‑office and consulting services for financial institutions.
+  1.1. **Activities:** Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, EMEA, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions segments, offering merchant acquiring and digital commerce, mobile payments, fraud and security tools, SaaS and pay-by-bank, as well as debit/credit card processing, bill pay, P2P and account transfers, digital banking, core account processing, risk management, and real-time payments. Its Clover platform delivers point-of-sale and business management solutions distributed via direct sales, financial institutions, ISVs, ISOs, and other strategic partners.
   
-  1.2. **Profitable?:** yes — Fiserv is profitable, with positive net income in recent periods totaling about $3.6B, a profit margin of 17.0%, strong operating and free cash flow, and 40.4% earnings growth.
+  1.2. **Profitable?:** yes — Fiserv is profitable, as shown by positive net income in recent periods totaling about $3.6B, a profit margin of roughly 17%, and strong free cash flow generation.
   
-  1.3. **Customer & Markets:** Fiserv serves large enterprises and small businesses as well as banks, credit unions, large financial institutions, fintechs, public sector entities, and software providers. Its markets span the United States and international regions including Europe, the Middle East and Africa, Latin America, and the Asia-Pacific, delivering payment, banking, and processing solutions across the financial services and commerce ecosystems.
+  1.3. **Customer & Markets:** Fiserv serves a wide range of financial and commercial clients including large enterprises, small businesses, banks, credit unions, large financial institutions, fintechs, public sector entities, and software providers. Its markets are global, spanning the United States, Europe, the Middle East and Africa, Latin America, and the Asia-Pacific region, where it supports payments, banking, and financial technology needs.
   
   1.4. **Competition:** unknown
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rebounding off support near $59.56 toward resistance around $62.26.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price oscillating between support near $59.56 and resistance around $62.26–62.69.
   
-  2.2. **7d Buy/Sell Points?:** During the last week, the area near support around $59.56 and the recent 1yr/5yr low around $59.77 was a favorable buy zone, while approaches toward short‑term resistance at roughly $62.26–$62.69 offered better selling opportunities.
+  2.2. **7d Buy/Sell Points?:** Over the last week, prices near the support area around $59.56 were favorable buy points, while approaches toward the short-term resistance/sell zone around $62.26–62.69 offered better selling opportunities.
   
   2.3.1. **7d Volume:** med
   
@@ -75,13 +75,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Fiserv appears to be a relatively stable institution, having been incorporated in 1984 and operating for decades as a global provider of financial technology solutions. It serves a diversified base of large and small financial and commercial clients across multiple regions, which can help reduce dependence on any single market. The company generates consistent net income with a 17.0% profit margin and strong operating and free cash flow, indicating a solid underlying business model and balance-sheet support. However, recent events include a 47% stock price collapse tied to abysmal Q3 2025 results, reduced guidance, and leadership changes, which have triggered investigations and highlight governance and execution risks despite the long-term franchise strength.
+  3.1. **Stability?:** Fiserv appears to be a relatively stable institution, having been incorporated in 1984 and operating as a global provider of financial technology from its Milwaukee headquarters. Its recent financials show consistent profitability with a 17% profit margin, over $3.6B in net income across recent periods, and strong operating and free cash flow. However, the company has recently experienced a sharp 47% stock price decline tied to "abysmal" Q3 2025 results, reduced guidance, and leadership changes, which triggered investigations and shareholder-value losses of about $32B. These events suggest operational and governance challenges despite an otherwise established and cash-generative business.
   
-  3.2. **Innovating?:** Fiserv shows signs of innovation and growth, offering digital commerce, mobile payments, real‑time payments, and the Clover POS platform, and reporting 40.4% earnings growth; however, recent financial recalibration and reduced growth expectations suggest its prior growth assumptions were overly aggressive.
+  3.2. **Innovating?:** Fiserv is actively innovating and growing, as evidenced by its broad portfolio of digital commerce, mobile payments, real-time payments, and Clover POS and business management platforms. Recent news, however, highlights that prior growth assumptions were overly optimistic, prompting financial recalibration and leadership changes.
   
   ## 4. Context
   
-  4.1. **News:** Recent news reports that Fiserv delivered 'abysmal' Q3 2025 results, with a significant decline in adjusted revenue, slashed growth expectations, and major leadership changes, causing a 47% stock drop and a $32 billion loss in shareholder value. The company admitted its prior financial guidance relied on objectively difficult-to-achieve assumptions, drawing scrutiny from Senate Democrats and multiple law firms investigating potential securities law violations. This sequence suggests earlier optimism and guidance may have acted as the 'rumor' phase, with the subsequent earnings disappointment and leadership shake-up becoming the 'news' that investors aggressively sold. Current headlines are dominated by legal investigations and governance concerns rather than fresh positive catalysts, implying the 'sell the news' dynamic has already played out but overhang risks remain. The quick facts echo this, flagging 'Sell the news? yes' and 'Buy the rumor? no,' consistent with the market's harsh reaction to the earnings release.
+  4.1. **News:** Recent headlines show Fiserv reported "abysmal" Q3 2025 results, with a significant drop in adjusted revenue, sharply lowered growth expectations, and major leadership changes, which led to a 47% stock price plunge and roughly $32B in shareholder value loss. The company admitted that earlier financial guidance relied on objectively difficult-to-achieve assumptions, drawing scrutiny from Senate Democrats and multiple law firms investigating potential securities law violations. This sequence suggests that optimistic "rumor" and guidance had been priced in, and the disappointing results plus recalibration acted as a harsh "sell the news" event, in line with the quick facts flagging "Sell the news? yes" and "Buy the rumor? no". Going forward, any new guidance or strategic updates may be viewed skeptically by the market given this context.
   
   4.2. **Tarrifs:** unknown
   
@@ -207,7 +207,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -238,12 +238,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price sits near 1yr/5yr bottom support around $59.77–59.56 after a 47% post-earnings collapse, offering potential value; macro froth context is not provided and the stock trades below its 20-day average ($62.31) and recent resistance ($62.26–66.95), suggesting limited short‑term momentum&quot;,&quot;1.1&quot;:&quot;Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, Europe, the Middle East and Africa, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions, offering merchant acquiring and digital comm
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is trading near its 1y/5y bottom around support at $59.56 with price just below the 20-day average and resistance at ~$62–67, suggesting an attractive but technically fragile entry; macro froth/bubble signals are not evident in the provided data, so broader market-risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, EMEA, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions segments, offering merchant acquiring and digital commerce
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-24T01:40:33.691180+00:00">2025-12-24 01:40 UTC</time> (runtime 25.01s)
+**Generated:** <time class="js-local-time" datetime="2025-12-28T15:19:54.726153+00:00">2025-12-28 15:19 UTC</time> (runtime 22.75s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -288,23 +288,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price sits near 1yr/5yr bottom support around $59.77–59.56 after a 47% post-earnings collapse, offering potential value; macro froth context is not provided and the stock trades below its 20-day average ($62.31) and recent resistance ($62.26–66.95), suggesting limited short‑term momentum
+0.1. **Long Entry?:** maybe — the stock is trading near its 1y/5y bottom around support at $59.56 with price just below the 20-day average and resistance at ~$62–67, suggesting an attractive but technically fragile entry; macro froth/bubble signals are not evident in the provided data, so broader market-risk visibility is limited.
 
 ## 1. The Biz
 
-1.1. **Activities:** Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, Europe, the Middle East and Africa, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions, offering merchant acquiring and digital commerce, mobile payments, fraud and security tools, SaaS and pay‑by‑bank services, and its Clover point‑of‑sale and business management platform. It also delivers card processing, digital banking, bill pay, P2P and account transfers, real‑time payments, government and student loan processing, and various back‑office and consulting services for financial institutions.
+1.1. **Activities:** Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, EMEA, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions segments, offering merchant acquiring and digital commerce, mobile payments, fraud and security tools, SaaS and pay-by-bank, as well as debit/credit card processing, bill pay, P2P and account transfers, digital banking, core account processing, risk management, and real-time payments. Its Clover platform delivers point-of-sale and business management solutions distributed via direct sales, financial institutions, ISVs, ISOs, and other strategic partners.
 
-1.2. **Profitable?:** yes — Fiserv is profitable, with positive net income in recent periods totaling about $3.6B, a profit margin of 17.0%, strong operating and free cash flow, and 40.4% earnings growth.
+1.2. **Profitable?:** yes — Fiserv is profitable, as shown by positive net income in recent periods totaling about $3.6B, a profit margin of roughly 17%, and strong free cash flow generation.
 
-1.3. **Customer & Markets:** Fiserv serves large enterprises and small businesses as well as banks, credit unions, large financial institutions, fintechs, public sector entities, and software providers. Its markets span the United States and international regions including Europe, the Middle East and Africa, Latin America, and the Asia-Pacific, delivering payment, banking, and processing solutions across the financial services and commerce ecosystems.
+1.3. **Customer & Markets:** Fiserv serves a wide range of financial and commercial clients including large enterprises, small businesses, banks, credit unions, large financial institutions, fintechs, public sector entities, and software providers. Its markets are global, spanning the United States, Europe, the Middle East and Africa, Latin America, and the Asia-Pacific region, where it supports payments, banking, and financial technology needs.
 
 1.4. **Competition:** unknown
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rebounding off support near $59.56 toward resistance around $62.26.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price oscillating between support near $59.56 and resistance around $62.26–62.69.
 
-2.2. **7d Buy/Sell Points?:** During the last week, the area near support around $59.56 and the recent 1yr/5yr low around $59.77 was a favorable buy zone, while approaches toward short‑term resistance at roughly $62.26–$62.69 offered better selling opportunities.
+2.2. **7d Buy/Sell Points?:** Over the last week, prices near the support area around $59.56 were favorable buy points, while approaches toward the short-term resistance/sell zone around $62.26–62.69 offered better selling opportunities.
 
 2.3.1. **7d Volume:** med
 
@@ -312,13 +312,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Fiserv appears to be a relatively stable institution, having been incorporated in 1984 and operating for decades as a global provider of financial technology solutions. It serves a diversified base of large and small financial and commercial clients across multiple regions, which can help reduce dependence on any single market. The company generates consistent net income with a 17.0% profit margin and strong operating and free cash flow, indicating a solid underlying business model and balance-sheet support. However, recent events include a 47% stock price collapse tied to abysmal Q3 2025 results, reduced guidance, and leadership changes, which have triggered investigations and highlight governance and execution risks despite the long-term franchise strength.
+3.1. **Stability?:** Fiserv appears to be a relatively stable institution, having been incorporated in 1984 and operating as a global provider of financial technology from its Milwaukee headquarters. Its recent financials show consistent profitability with a 17% profit margin, over $3.6B in net income across recent periods, and strong operating and free cash flow. However, the company has recently experienced a sharp 47% stock price decline tied to "abysmal" Q3 2025 results, reduced guidance, and leadership changes, which triggered investigations and shareholder-value losses of about $32B. These events suggest operational and governance challenges despite an otherwise established and cash-generative business.
 
-3.2. **Innovating?:** Fiserv shows signs of innovation and growth, offering digital commerce, mobile payments, real‑time payments, and the Clover POS platform, and reporting 40.4% earnings growth; however, recent financial recalibration and reduced growth expectations suggest its prior growth assumptions were overly aggressive.
+3.2. **Innovating?:** Fiserv is actively innovating and growing, as evidenced by its broad portfolio of digital commerce, mobile payments, real-time payments, and Clover POS and business management platforms. Recent news, however, highlights that prior growth assumptions were overly optimistic, prompting financial recalibration and leadership changes.
 
 ## 4. Context
 
-4.1. **News:** Recent news reports that Fiserv delivered 'abysmal' Q3 2025 results, with a significant decline in adjusted revenue, slashed growth expectations, and major leadership changes, causing a 47% stock drop and a $32 billion loss in shareholder value. The company admitted its prior financial guidance relied on objectively difficult-to-achieve assumptions, drawing scrutiny from Senate Democrats and multiple law firms investigating potential securities law violations. This sequence suggests earlier optimism and guidance may have acted as the 'rumor' phase, with the subsequent earnings disappointment and leadership shake-up becoming the 'news' that investors aggressively sold. Current headlines are dominated by legal investigations and governance concerns rather than fresh positive catalysts, implying the 'sell the news' dynamic has already played out but overhang risks remain. The quick facts echo this, flagging 'Sell the news? yes' and 'Buy the rumor? no,' consistent with the market's harsh reaction to the earnings release.
+4.1. **News:** Recent headlines show Fiserv reported "abysmal" Q3 2025 results, with a significant drop in adjusted revenue, sharply lowered growth expectations, and major leadership changes, which led to a 47% stock price plunge and roughly $32B in shareholder value loss. The company admitted that earlier financial guidance relied on objectively difficult-to-achieve assumptions, drawing scrutiny from Senate Democrats and multiple law firms investigating potential securities law violations. This sequence suggests that optimistic "rumor" and guidance had been priced in, and the disappointing results plus recalibration acted as a harsh "sell the news" event, in line with the quick facts flagging "Sell the news? yes" and "Buy the rumor? no". Going forward, any new guidance or strategic updates may be viewed skeptically by the market given this context.
 
 4.2. **Tarrifs:** unknown
 
@@ -444,7 +444,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+rumor&amp;pageSize=5&
     newsapi: 5 result(s)
   newsapi search -&gt; FI tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -475,6 +475,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price sits near 1yr/5yr bottom support around $59.77–59.56 after a 47% post-earnings collapse, offering potential value; macro froth context is not provided and the stock trades below its 20-day average ($62.31) and recent resistance ($62.26–66.95), suggesting limited short‑term momentum&quot;,&quot;1.1&quot;:&quot;Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, Europe, the Middle East and Africa, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions, offering merchant acquiring and digital comm
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is trading near its 1y/5y bottom around support at $59.56 with price just below the 20-day average and resistance at ~$62–67, suggesting an attractive but technically fragile entry; macro froth/bubble signals are not evident in the provided data, so broader market-risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Fiserv, Inc. provides payments and financial services technology solutions globally across the United States, EMEA, Latin America, and Asia-Pacific. It operates through Merchant Solutions and Financial Solutions segments, offering merchant acquiring and digital commerce
 </code></pre>
 </details>
