@@ -2,11 +2,11 @@
 layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
-date: 2025-12-23
-generated_at: 2025-12-23T15:22:27.974149+00:00
-runtime_seconds: 42.80
+date: 2025-12-28
+generated_at: 2025-12-28T05:24:14.975643+00:00
+runtime_seconds: 24.34
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-23T15:22:27.974149+00:00">2025-12-23 15:22 UTC</time> (runtime 42.80s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-28T05:24:14.975643+00:00">2025-12-28 05:24 UTC</time> (runtime 24.34s)
   
   ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares are at 1yr/5yr peak and labeled overbought with price near resistance at 280.38 and well above the 20-day average around 272; macro context shows AI-bubble fears and AAPL among mega-cap leaders, heightening froth risk with limited additional visibility
+  0.1. **Long Entry?:** maybe — shares sit at five-year, one-year, and three-month peaks and are flagged as overbought near 7d/30d resistance of ~$280; macro-bubble visibility is limited beyond a note that the broader market is being powered by a handful of mega-cap AI names, while AAPL still trades modestly above its 20-day SMA/EMA and well above nearby support around $265–271.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Apple designs and sells consumer electronics, software, and related services built around its iPhone, which generates the majority of its sales. Its ecosystem includes Mac, iPad, Apple Watch, and services such as advertising, AppleCare, cloud services, digital content, payment services, and subscription bundles. The company also designs its own operating systems and semiconductors while relying on manufacturers like Foxconn and TSMC for production.
+  1.1. **Activities:** Apple Inc. designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone contributing the majority of sales and other hardware built around it as the hub of a broader ecosystem. It also develops its own operating systems and semiconductors and offers a wide range of services including streaming video, subscription bundles, cloud services, payments, and app distribution through its platforms. Manufacturing is largely outsourced to partners like Foxconn and TSMC, while sales occur both through Apple's own retail stores and indirect distribution channels.
   
-  1.2. **Profitable?:** yes — Apple is highly profitable, with recent net income totaling about $112 billion, a profit margin near 27%, strong free cash flow, and sharply growing earnings.
+  1.2. **Profitable?:** yes — Apple is clearly profitable, with recent net income totaling about $112 billion, a profit margin around 27%, strong free cash flow, and positive earnings growth.
   
-  1.3. **Customer & Markets:** Apple primarily serves consumers and small to mid-sized businesses, along with education, enterprise, and government markets. It sells products and services globally, with distribution through its own flagship stores, online platforms, and a broad network of partners and third-party channels.
+  1.3. **Customer & Markets:** Apple's primary customers are consumers and small to mid-sized businesses, along with education, enterprise, and government markets using its devices and services. It serves a global customer base, with sales generated through its own retail and online stores as well as third-party carriers, resellers, and distribution partners.
   
-  1.4. **Competition:** Apple's main competitors include other large technology and consumer platforms such as Microsoft, Amazon, Alphabet (Google), Meta, Netflix, Nvidia, Tesla, Disney, and Berkshire-related holdings; it ranks as one of the largest and most influential players among them by market capitalization and ecosystem reach.
+  1.4. **Competition:** Apple's key competitors include other global tech and platform companies such as Microsoft, Amazon, Alphabet/Google, Meta, Nvidia, Netflix, Tesla, Disney, and Berkshire-related holdings, which compete across operating systems, cloud, devices, and digital services. Within this group it ranks as one of the largest and most valuable companies by market capitalization.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the stock has risen from about 271 to 278.85 and is described as being in an uptrend.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from around the 20-day average near $272 to a close of $278.85, approaching resistance at $280.38.
   
-  2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the 7d/30d support area around 270.9–265.3 and the recent local low of 265.67 were favorable buy zones; approaches to the recent high and resistance near 280.38 offered attractive short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the 7d/30d support around $270.90–$265.67 represented better buy points, while approaches to the local high and resistance near $280.38 offered favorable short-term selling opportunities.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Apple is a long-established, mega-cap technology company and one of the largest in the world by market capitalization. It generates substantial net income and free cash flow, with recent quarterly net income figures in the tens of billions of dollars and strong operating cash flow. The firm has a diversified hardware, software, and services ecosystem and distributes products through both its own stores and extensive partner channels. These factors, along with consistent profitability and global brand strength, indicate a highly stable institution rather than a fly-by-night operation.
+  3.1. **Stability?:** Apple appears to be a very stable institution rather than a fly-by-night company, as it is described as one of the largest companies in the world with a broad hardware, software, and services ecosystem. Financially it generates substantial net income (about $112 billion over recent periods), a high profit margin of roughly 27%, and large free and operating cash flows, all of which support balance sheet resilience. Its diversified revenue streams across iPhone, Macs, iPads, wearables, and services, plus global distribution through both direct and partner channels, further enhance its durability. The presence in major indices like the S&P 500 and its multi-trillion-dollar market capitalization in external data also reflect institutional-scale stability.
   
-  3.2. **Innovating?:** Apple appears to be innovating and growing, as it continues to expand applications like streaming video, subscription bundles, and augmented reality on top of its iPhone-centric ecosystem. Its recent revenue and especially earnings growth rates are positive and strong, suggesting ongoing development rather than stagnation.
+  3.2. **Innovating?:** Apple is actively innovating and growing, with the company adding new applications such as streaming video, subscription bundles, and augmented reality atop its hardware ecosystem and designing its own semiconductors. Recent news flow also highlights AI model releases and strategic moves setting up its future, indicating ongoing product and platform evolution rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent context places Apple among a small group of mega-cap AI- and tech-related leaders that are powering much of the market's gains and contributing to AI bubble concerns, indicating elevated sentiment risk. News flow highlights Apple's stock comeback, enthusiasm around new iPhone cycles, and analyst target hikes tied to pricing power and AI, suggesting a lot of good news is already reflected in the price. Reports of executive departures tied to its AI strategy and regulatory scrutiny such as an Italian fine introduce potential overhangs that could trigger profit-taking once the news is fully digested. Given the quick facts flagging "Sell the news?" as "yes," the setup aligns with buy-the-rumor, sell-the-news dynamics where post-announcement rallies may be vulnerable.
+  4.1. **News:** Recent Apple-related coverage emphasizes that 2025 was used to set up its future, including new AI models and broader strategic positioning, while also noting that the wider market rally is being driven by a concentrated group of mega-cap tech and AI names. Other headlines discuss macro themes like tariffs, AI bubbles, and broader equity leadership, placing Apple within the "Magnificent Seven" context rather than focusing on a single company-specific catalyst. These patterns suggest that much optimism may already be embedded in large-cap tech prices, raising the risk that strong, well-telegraphed Apple news could be met with "sell the news" behavior, which aligns with the quick facts flagging "Sell the news? yes" and "Buy the rumor? no". Limited direct, near-dated Apple headlines in the provided set mean investors should be cautious about chasing short-term spikes driven by generalized AI or macro excitement rather than new, underappreciated company developments.
   
-  4.2. **Tarrifs:** Tariffs have had a mixed but material impact on Apple's stock: management has flagged a roughly $900 million quarterly tariff hit and shares have slipped on such worries, yet other reports note that tariffs have not derailed earnings and that Apple could even benefit from tariff shake-ups as it adjusts its supply chain and production geography.
+  4.2. **Tarrifs:** Tariffs have created a meaningful but manageable earnings headwind for Apple, with one report citing about a $900 million quarterly tariff impact and others noting that tariffs "don't bite" AAPL as it still beat expectations and shifted some iPhone production. Overall, tariff news has caused bouts of volatility but has not derailed the stock's broader uptrend and may even provide upside when markets anticipate or receive tariff reprieves.
   
   ## 5. QuickRef
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -162,7 +162,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 5 headline(s) from banned sources.
+  Filtered 4 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=5
@@ -181,7 +181,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -242,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are at 1yr/5yr peak and labeled overbought with price near resistance at 280.38 and well above the 20-day average around 272; macro context shows AI-bubble fears and AAPL among mega-cap leaders, heightening froth risk with limited additional visibility&quot;,&quot;1.1&quot;:&quot;Apple designs and sells consumer electronics, software, and related services built around its iPhone, which generates the majority of its sales. Its ecosystem includes Mac, iPad, Apple Watch, and services such as advertising, AppleCare, cloud services, digital content, payment services, and subscription bundles. The c
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit at five-year, one-year, and three-month peaks and are flagged as overbought near 7d/30d resistance of ~$280; macro-bubble visibility is limited beyond a note that the broader market is being powered by a handful of mega-cap AI names, while AAPL still trades modestly above its 20-day SMA/EMA and well above nearby support around $265–271.&quot;, &quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone contributing the majority of sales and other hardware built around it as the hub of a br
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-23T15:22:27.974149+00:00">2025-12-23 15:22 UTC</time> (runtime 42.80s)
+**Generated:** <time class="js-local-time" datetime="2025-12-28T05:24:14.975643+00:00">2025-12-28 05:24 UTC</time> (runtime 24.34s)
 
 ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
 
@@ -294,23 +294,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares are at 1yr/5yr peak and labeled overbought with price near resistance at 280.38 and well above the 20-day average around 272; macro context shows AI-bubble fears and AAPL among mega-cap leaders, heightening froth risk with limited additional visibility
+0.1. **Long Entry?:** maybe — shares sit at five-year, one-year, and three-month peaks and are flagged as overbought near 7d/30d resistance of ~$280; macro-bubble visibility is limited beyond a note that the broader market is being powered by a handful of mega-cap AI names, while AAPL still trades modestly above its 20-day SMA/EMA and well above nearby support around $265–271.
 
 ## 1. The Biz
 
-1.1. **Activities:** Apple designs and sells consumer electronics, software, and related services built around its iPhone, which generates the majority of its sales. Its ecosystem includes Mac, iPad, Apple Watch, and services such as advertising, AppleCare, cloud services, digital content, payment services, and subscription bundles. The company also designs its own operating systems and semiconductors while relying on manufacturers like Foxconn and TSMC for production.
+1.1. **Activities:** Apple Inc. designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone contributing the majority of sales and other hardware built around it as the hub of a broader ecosystem. It also develops its own operating systems and semiconductors and offers a wide range of services including streaming video, subscription bundles, cloud services, payments, and app distribution through its platforms. Manufacturing is largely outsourced to partners like Foxconn and TSMC, while sales occur both through Apple's own retail stores and indirect distribution channels.
 
-1.2. **Profitable?:** yes — Apple is highly profitable, with recent net income totaling about $112 billion, a profit margin near 27%, strong free cash flow, and sharply growing earnings.
+1.2. **Profitable?:** yes — Apple is clearly profitable, with recent net income totaling about $112 billion, a profit margin around 27%, strong free cash flow, and positive earnings growth.
 
-1.3. **Customer & Markets:** Apple primarily serves consumers and small to mid-sized businesses, along with education, enterprise, and government markets. It sells products and services globally, with distribution through its own flagship stores, online platforms, and a broad network of partners and third-party channels.
+1.3. **Customer & Markets:** Apple's primary customers are consumers and small to mid-sized businesses, along with education, enterprise, and government markets using its devices and services. It serves a global customer base, with sales generated through its own retail and online stores as well as third-party carriers, resellers, and distribution partners.
 
-1.4. **Competition:** Apple's main competitors include other large technology and consumer platforms such as Microsoft, Amazon, Alphabet (Google), Meta, Netflix, Nvidia, Tesla, Disney, and Berkshire-related holdings; it ranks as one of the largest and most influential players among them by market capitalization and ecosystem reach.
+1.4. **Competition:** Apple's key competitors include other global tech and platform companies such as Microsoft, Amazon, Alphabet/Google, Meta, Nvidia, Netflix, Tesla, Disney, and Berkshire-related holdings, which compete across operating systems, cloud, devices, and digital services. Within this group it ranks as one of the largest and most valuable companies by market capitalization.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the stock has risen from about 271 to 278.85 and is described as being in an uptrend.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from around the 20-day average near $272 to a close of $278.85, approaching resistance at $280.38.
 
-2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the 7d/30d support area around 270.9–265.3 and the recent local low of 265.67 were favorable buy zones; approaches to the recent high and resistance near 280.38 offered attractive short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the 7d/30d support around $270.90–$265.67 represented better buy points, while approaches to the local high and resistance near $280.38 offered favorable short-term selling opportunities.
 
 2.3.1. **7d Volume:** low
 
@@ -318,15 +318,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Apple is a long-established, mega-cap technology company and one of the largest in the world by market capitalization. It generates substantial net income and free cash flow, with recent quarterly net income figures in the tens of billions of dollars and strong operating cash flow. The firm has a diversified hardware, software, and services ecosystem and distributes products through both its own stores and extensive partner channels. These factors, along with consistent profitability and global brand strength, indicate a highly stable institution rather than a fly-by-night operation.
+3.1. **Stability?:** Apple appears to be a very stable institution rather than a fly-by-night company, as it is described as one of the largest companies in the world with a broad hardware, software, and services ecosystem. Financially it generates substantial net income (about $112 billion over recent periods), a high profit margin of roughly 27%, and large free and operating cash flows, all of which support balance sheet resilience. Its diversified revenue streams across iPhone, Macs, iPads, wearables, and services, plus global distribution through both direct and partner channels, further enhance its durability. The presence in major indices like the S&P 500 and its multi-trillion-dollar market capitalization in external data also reflect institutional-scale stability.
 
-3.2. **Innovating?:** Apple appears to be innovating and growing, as it continues to expand applications like streaming video, subscription bundles, and augmented reality on top of its iPhone-centric ecosystem. Its recent revenue and especially earnings growth rates are positive and strong, suggesting ongoing development rather than stagnation.
+3.2. **Innovating?:** Apple is actively innovating and growing, with the company adding new applications such as streaming video, subscription bundles, and augmented reality atop its hardware ecosystem and designing its own semiconductors. Recent news flow also highlights AI model releases and strategic moves setting up its future, indicating ongoing product and platform evolution rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent context places Apple among a small group of mega-cap AI- and tech-related leaders that are powering much of the market's gains and contributing to AI bubble concerns, indicating elevated sentiment risk. News flow highlights Apple's stock comeback, enthusiasm around new iPhone cycles, and analyst target hikes tied to pricing power and AI, suggesting a lot of good news is already reflected in the price. Reports of executive departures tied to its AI strategy and regulatory scrutiny such as an Italian fine introduce potential overhangs that could trigger profit-taking once the news is fully digested. Given the quick facts flagging "Sell the news?" as "yes," the setup aligns with buy-the-rumor, sell-the-news dynamics where post-announcement rallies may be vulnerable.
+4.1. **News:** Recent Apple-related coverage emphasizes that 2025 was used to set up its future, including new AI models and broader strategic positioning, while also noting that the wider market rally is being driven by a concentrated group of mega-cap tech and AI names. Other headlines discuss macro themes like tariffs, AI bubbles, and broader equity leadership, placing Apple within the "Magnificent Seven" context rather than focusing on a single company-specific catalyst. These patterns suggest that much optimism may already be embedded in large-cap tech prices, raising the risk that strong, well-telegraphed Apple news could be met with "sell the news" behavior, which aligns with the quick facts flagging "Sell the news? yes" and "Buy the rumor? no". Limited direct, near-dated Apple headlines in the provided set mean investors should be cautious about chasing short-term spikes driven by generalized AI or macro excitement rather than new, underappreciated company developments.
 
-4.2. **Tarrifs:** Tariffs have had a mixed but material impact on Apple's stock: management has flagged a roughly $900 million quarterly tariff hit and shares have slipped on such worries, yet other reports note that tariffs have not derailed earnings and that Apple could even benefit from tariff shake-ups as it adjusts its supply chain and production geography.
+4.2. **Tarrifs:** Tariffs have created a meaningful but manageable earnings headwind for Apple, with one report citing about a $900 million quarterly tariff impact and others noting that tariffs "don't bite" AAPL as it still beat expectations and shifted some iPhone production. Overall, tariff news has caused bouts of volatility but has not derailed the stock's broader uptrend and may even provide upside when markets anticipate or receive tariff reprieves.
 
 ## 5. QuickRef
 
@@ -355,7 +355,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -403,7 +403,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 5 headline(s) from banned sources.
+Filtered 4 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=5
@@ -422,7 +422,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -483,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are at 1yr/5yr peak and labeled overbought with price near resistance at 280.38 and well above the 20-day average around 272; macro context shows AI-bubble fears and AAPL among mega-cap leaders, heightening froth risk with limited additional visibility&quot;,&quot;1.1&quot;:&quot;Apple designs and sells consumer electronics, software, and related services built around its iPhone, which generates the majority of its sales. Its ecosystem includes Mac, iPad, Apple Watch, and services such as advertising, AppleCare, cloud services, digital content, payment services, and subscription bundles. The c
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit at five-year, one-year, and three-month peaks and are flagged as overbought near 7d/30d resistance of ~$280; macro-bubble visibility is limited beyond a note that the broader market is being powered by a handful of mega-cap AI names, while AAPL still trades modestly above its 20-day SMA/EMA and well above nearby support around $265–271.&quot;, &quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics such as the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone contributing the majority of sales and other hardware built around it as the hub of a br
 </code></pre>
 </details>
