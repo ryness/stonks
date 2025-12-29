@@ -2,11 +2,11 @@
 layout: default
 title: "NFLX Stock Report"
 ticker: "NFLX"
-date: 2025-12-24
-generated_at: 2025-12-24T10:22:32.209836+00:00
-runtime_seconds: 35.10
+date: 2025-12-29
+generated_at: 2025-12-29T01:50:31.342484+00:00
+runtime_seconds: 27.88
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-12-24T10:22:32.209836+00:00">2025-12-24 10:22 UTC</time> (runtime 35.10s)
+  **Generated:** <time class="js-local-time" datetime="2025-12-29T01:50:31.342484+00:00">2025-12-29 01:50 UTC</time> (runtime 27.88s)
   
   ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is near 7d/30d support around 103.32 and below the 20-day moving average/short-term SMA (price 104.71 vs dma20 110.51, SMA ~107.15) after a pullback from recent local highs, suggesting a potential but not confirmed dip-buy zone; macro froth/bubble cues specific to NFLX are not evident in the supplied data, limiting visibility on broader sentiment risk.
+  0.1. **Long Entry?:** maybe — price is in a 3-month bottom/mid-range versus 1- and 5-year history and sitting just above support around 103.32 while trading slightly below its 20-day average and near its SMA; macro context shows indices near records and rich valuations suggesting some froth risk, so adding on dips toward support rather than at resistance near 113–116.7 appears more prudent.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Netflix operates a global subscription video-on-demand streaming service focused on episodic television, movies, documentaries, and other on-demand content. It serves more than 300 million subscribers worldwide and has opted against significant live or sports programming in favor of a large library of scripted and unscripted entertainment. Since 2022 it has also offered ad-supported tiers, adding an advertising revenue stream alongside traditional subscription fees.
+  1.1. **Activities:** Netflix operates a global subscription video-on-demand streaming service, offering on-demand access to episodic television, movies, documentaries, and other entertainment content. It has more than 300 million subscribers worldwide outside China and focuses on on-demand viewing rather than live programming or sports. Since 2022 it has also offered ad-supported plans, adding an advertising revenue stream alongside its traditional subscription fees.
   
-  1.2. **Profitable?:** yes — Netflix is profitable, with a profit margin of about 24% and cumulative net income of roughly $10.4 billion across the last reported periods plus strong free cash flow.
+  1.2. **Profitable?:** yes — the company is profitable, with a profit margin of about 24% and cumulative net income over the last four reported periods exceeding $10 billion, supported by strong free cash flow.
   
-  1.3. **Customer & Markets:** Netflix's primary customers are individual consumers subscribing to its streaming service, with a focus on younger adults in markets across more than 190 countries and nearly the entire global population outside China. Its largest revenue region is the US & Canada, but it also has significant international exposure and targets diverse audience segments via demographic, geographic, behavioral, and psychographic segmentation. Advertisers have become an additional customer group through its ad-supported plans and Netflix Advertising targeting capabilities.
+  1.3. **Customer & Markets:** Netflix's primary customers are individual consumers subscribing to its streaming service across roughly 190 countries, with exposure to nearly the entire global population outside China. It serves mass-market entertainment viewers, with significant revenue from the US and Canada and a large international user base. Advertisers have also become an important customer group through its ad-supported subscription tiers.
   
-  1.4. **Competition:** Key competitors include Disney (Disney+), Amazon (Prime Video), Alphabet/Google (YouTube), Warner Bros. Discovery (Max), Apple (Apple TV+), Comcast (Peacock), Roku, and Meta, among others in streaming and broader entertainment. Data cited show Netflix leading the US streaming market with about 27% share and being described as having its streaming "throne secured," indicating a top-tier position among rivals.
+  1.4. **Competition:** Key competitors include streaming and entertainment players such as Disney, Amazon (Prime Video), Alphabet/Google (YouTube), Warner Bros. Discovery, Apple, Comcast, Roku, and Meta. Netflix currently leads the US streaming market with about 27% share, giving it a top-tier position among these rivals.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d trend is labeled "down" with price sliding from a recent local high of 115.25 toward support near 103.32.
+  2.1. **7d Trend?:** down — the 7-day trend is labeled down, with price drifting from near 113 resistance toward support around 103.32 despite a recent bounce from 94.47 to 106.97.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the identified support around 103.32 appeared attractive, especially as the stock tested that level within the recent range. Selling or trimming positions closer to the 7d resistance/local high region between about 113.34 and 115.25 offered favorable short-term exit points.
+  2.2. **7d Buy/Sell Points?:** Buying near the 7-day and 30-day support around 103.32, and especially on the dip toward the recent low near 94–100, offered favorable entry points, while selling or trimming near recent local highs and resistance around 113–116.7 (including 115.25) would have been good exit levels.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Netflix appears to be a relatively stable institution rather than a fly-by-night operator, with hundreds of millions of global subscribers and operations in over 190 countries. Financially, it shows sustained profitability (cumulative net income over $10 billion) and robust free cash flow of about $23.4 billion alongside strong operating cash flow. Its business model is focused on a single, scalable streaming service with both subscription and advertising revenues, which supports recurring cash generation. While not all balance-sheet specifics are provided, the combination of scale, global reach, and consistent earnings indicates a generally solid and established enterprise.
+  3.1. **Stability?:** Netflix is a long-established, large-cap entertainment and technology company with a worldwide footprint and more than 300 million subscribers, indicating substantial scale and staying power. Financially it shows solid profitability with a roughly 24% profit margin, positive earnings growth, and very strong free cash flow and operating cash flow, all of which support a resilient balance of operations. Over multi-year horizons its stock trades in the middle of its 1- and 5-year ranges rather than at extreme highs or lows, suggesting it has weathered prior volatility without permanent impairment. Recent market narratives and analyst coverage treat it as a core internet and media holding rather than a speculative small-cap, pointing to it being a relatively stable institution rather than a fly-by-night firm.
   
-  3.2. **Innovating?:** Netflix is innovating and growing, as evidenced by its introduction of ad-supported subscription plans in 2022 and ongoing revenue and earnings growth (revenue up 17.2% and earnings up 7.8%). Its continued expansion into advertising and global markets suggests the company is actively evolving its business model rather than stagnating.
+  3.2. **Innovating?:** Netflix appears to be innovating and growing, as shown by continued revenue growth of about 17%, earnings growth, and the expansion of its business model into ad-supported plans. Its pursuit of large-scale M&A, such as the proposed acquisition of Warner Bros. Discovery, further illustrates an aggressive growth and content strategy rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent news flow around Netflix is dominated by broader market context and M&A, including its headline-grabbing agreement to acquire Warner Bros. in a large cash-and-stock deal and related competitive and regulatory commentary. Articles note that Netflix stock has swung from boom to bust in 2025 and faces tariff and deal-related uncertainties, with some analysts urging selectivity or a temporary pause on the stock despite calling its streaming "throne" secure. Market-wide pieces describe strong equity rallies and sector rotations that form the backdrop for NFLX trading but do not point to a single, clear "buy the rumor" event specific to Netflix. Given these cross-currents, the adage suggests caution: much of the acquisition excitement may already be reflected in volatility, and investors should be wary of chasing short-term spikes around deal or tariff headlines.
+  4.1. **News:** Recent news highlights Netflix at the center of a major media M&A battle, with its multibillion-dollar bid for Warner Bros. Discovery sparking an even larger hostile offer from Paramount, underscoring Netflix's strategic importance in the industry. Broader market coverage notes US stock indices near record highs, rich valuations, and a late-cycle environment, which can elevate volatility around high-profile names like Netflix. Additional articles describe analysts debating execution and regulatory risks from the Warner Bros. deal and whether the stock's pullback has made it attractive. In light of the “buy the rumor, sell the news” adage, much of the sharp move seems tied to concrete deal announcements and reactions rather than vague rumors, suggesting that some “news” risk may already be reflected in the price but that sentiment could still swing with further deal developments.
   
-  4.2. **Tarrifs:** Tariff news indicates that proposed 100% tariffs on foreign-made films could materially pressure Netflix, with analysts estimating up to a roughly 10–20% earnings-per-share hit and about $3 billion in additional annual costs, contributing to stock weakness when such measures were announced. While some investors have been described as relatively unfazed and Netflix was once seen as a tariff "safe haven," recent developments have clearly turned tariffs into a negative overhang for the stock.
+  4.2. **Tarrifs:** Tariff threats on foreign-made films have at times pressured Netflix's stock, with analysts estimating potential hits to earnings and higher content costs if 100% tariffs on overseas productions were implemented. However, coverage also notes that investors have often remained relatively unfazed by these proposals, implying that while tariffs are a risk factor, their ultimate impact on the stock has been to introduce bouts of volatility rather than a clear long-term trend change.
   
   ## 5. QuickRef
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -163,7 +163,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NFLX&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 4 headline(s) from banned sources.
+  Filtered 3 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; NFLX core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+core+business&amp;num=5
@@ -247,12 +247,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is near 7d/30d support around 103.32 and below the 20-day moving average/short-term SMA (price 104.71 vs dma20 110.51, SMA ~107.15) after a pullback from recent local highs, suggesting a potential but not confirmed dip-buy zone; macro froth/bubble cues specific to NFLX are not evident in the supplied data, limiting visibility on broader sentiment risk.&quot;, &quot;1.1&quot;: &quot;Netflix operates a global subscription video-on-demand streaming service focused on episodic television, movies, documentaries, and other on-demand content. It serves more than 300 million subscribers worldwide a
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a 3-month bottom/mid-range versus 1- and 5-year history and sitting just above support around 103.32 while trading slightly below its 20-day average and near its SMA; macro context shows indices near records and rich valuations suggesting some froth risk, so adding on dips toward support rather than at resistance near 113–116.7 appears more prudent.&quot;,&quot;1.1&quot;:&quot;Netflix operates a global subscription video-on-demand streaming service, offering on-demand access to episodic television, movies, documentaries, and other entertainment content. It has more than 300 million sub
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-12-24T10:22:32.209836+00:00">2025-12-24 10:22 UTC</time> (runtime 35.10s)
+**Generated:** <time class="js-local-time" datetime="2025-12-29T01:50:31.342484+00:00">2025-12-29 01:50 UTC</time> (runtime 27.88s)
 
 ![NetFlix Inc logo](https://ryness.github.io/stonks/assets/logos/NFLX.svg)
 
@@ -299,23 +299,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is near 7d/30d support around 103.32 and below the 20-day moving average/short-term SMA (price 104.71 vs dma20 110.51, SMA ~107.15) after a pullback from recent local highs, suggesting a potential but not confirmed dip-buy zone; macro froth/bubble cues specific to NFLX are not evident in the supplied data, limiting visibility on broader sentiment risk.
+0.1. **Long Entry?:** maybe — price is in a 3-month bottom/mid-range versus 1- and 5-year history and sitting just above support around 103.32 while trading slightly below its 20-day average and near its SMA; macro context shows indices near records and rich valuations suggesting some froth risk, so adding on dips toward support rather than at resistance near 113–116.7 appears more prudent.
 
 ## 1. The Biz
 
-1.1. **Activities:** Netflix operates a global subscription video-on-demand streaming service focused on episodic television, movies, documentaries, and other on-demand content. It serves more than 300 million subscribers worldwide and has opted against significant live or sports programming in favor of a large library of scripted and unscripted entertainment. Since 2022 it has also offered ad-supported tiers, adding an advertising revenue stream alongside traditional subscription fees.
+1.1. **Activities:** Netflix operates a global subscription video-on-demand streaming service, offering on-demand access to episodic television, movies, documentaries, and other entertainment content. It has more than 300 million subscribers worldwide outside China and focuses on on-demand viewing rather than live programming or sports. Since 2022 it has also offered ad-supported plans, adding an advertising revenue stream alongside its traditional subscription fees.
 
-1.2. **Profitable?:** yes — Netflix is profitable, with a profit margin of about 24% and cumulative net income of roughly $10.4 billion across the last reported periods plus strong free cash flow.
+1.2. **Profitable?:** yes — the company is profitable, with a profit margin of about 24% and cumulative net income over the last four reported periods exceeding $10 billion, supported by strong free cash flow.
 
-1.3. **Customer & Markets:** Netflix's primary customers are individual consumers subscribing to its streaming service, with a focus on younger adults in markets across more than 190 countries and nearly the entire global population outside China. Its largest revenue region is the US & Canada, but it also has significant international exposure and targets diverse audience segments via demographic, geographic, behavioral, and psychographic segmentation. Advertisers have become an additional customer group through its ad-supported plans and Netflix Advertising targeting capabilities.
+1.3. **Customer & Markets:** Netflix's primary customers are individual consumers subscribing to its streaming service across roughly 190 countries, with exposure to nearly the entire global population outside China. It serves mass-market entertainment viewers, with significant revenue from the US and Canada and a large international user base. Advertisers have also become an important customer group through its ad-supported subscription tiers.
 
-1.4. **Competition:** Key competitors include Disney (Disney+), Amazon (Prime Video), Alphabet/Google (YouTube), Warner Bros. Discovery (Max), Apple (Apple TV+), Comcast (Peacock), Roku, and Meta, among others in streaming and broader entertainment. Data cited show Netflix leading the US streaming market with about 27% share and being described as having its streaming "throne secured," indicating a top-tier position among rivals.
+1.4. **Competition:** Key competitors include streaming and entertainment players such as Disney, Amazon (Prime Video), Alphabet/Google (YouTube), Warner Bros. Discovery, Apple, Comcast, Roku, and Meta. Netflix currently leads the US streaming market with about 27% share, giving it a top-tier position among these rivals.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d trend is labeled "down" with price sliding from a recent local high of 115.25 toward support near 103.32.
+2.1. **7d Trend?:** down — the 7-day trend is labeled down, with price drifting from near 113 resistance toward support around 103.32 despite a recent bounce from 94.47 to 106.97.
 
-2.2. **7d Buy/Sell Points?:** Buying near the identified support around 103.32 appeared attractive, especially as the stock tested that level within the recent range. Selling or trimming positions closer to the 7d resistance/local high region between about 113.34 and 115.25 offered favorable short-term exit points.
+2.2. **7d Buy/Sell Points?:** Buying near the 7-day and 30-day support around 103.32, and especially on the dip toward the recent low near 94–100, offered favorable entry points, while selling or trimming near recent local highs and resistance around 113–116.7 (including 115.25) would have been good exit levels.
 
 2.3.1. **7d Volume:** low
 
@@ -323,15 +323,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Netflix appears to be a relatively stable institution rather than a fly-by-night operator, with hundreds of millions of global subscribers and operations in over 190 countries. Financially, it shows sustained profitability (cumulative net income over $10 billion) and robust free cash flow of about $23.4 billion alongside strong operating cash flow. Its business model is focused on a single, scalable streaming service with both subscription and advertising revenues, which supports recurring cash generation. While not all balance-sheet specifics are provided, the combination of scale, global reach, and consistent earnings indicates a generally solid and established enterprise.
+3.1. **Stability?:** Netflix is a long-established, large-cap entertainment and technology company with a worldwide footprint and more than 300 million subscribers, indicating substantial scale and staying power. Financially it shows solid profitability with a roughly 24% profit margin, positive earnings growth, and very strong free cash flow and operating cash flow, all of which support a resilient balance of operations. Over multi-year horizons its stock trades in the middle of its 1- and 5-year ranges rather than at extreme highs or lows, suggesting it has weathered prior volatility without permanent impairment. Recent market narratives and analyst coverage treat it as a core internet and media holding rather than a speculative small-cap, pointing to it being a relatively stable institution rather than a fly-by-night firm.
 
-3.2. **Innovating?:** Netflix is innovating and growing, as evidenced by its introduction of ad-supported subscription plans in 2022 and ongoing revenue and earnings growth (revenue up 17.2% and earnings up 7.8%). Its continued expansion into advertising and global markets suggests the company is actively evolving its business model rather than stagnating.
+3.2. **Innovating?:** Netflix appears to be innovating and growing, as shown by continued revenue growth of about 17%, earnings growth, and the expansion of its business model into ad-supported plans. Its pursuit of large-scale M&A, such as the proposed acquisition of Warner Bros. Discovery, further illustrates an aggressive growth and content strategy rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent news flow around Netflix is dominated by broader market context and M&A, including its headline-grabbing agreement to acquire Warner Bros. in a large cash-and-stock deal and related competitive and regulatory commentary. Articles note that Netflix stock has swung from boom to bust in 2025 and faces tariff and deal-related uncertainties, with some analysts urging selectivity or a temporary pause on the stock despite calling its streaming "throne" secure. Market-wide pieces describe strong equity rallies and sector rotations that form the backdrop for NFLX trading but do not point to a single, clear "buy the rumor" event specific to Netflix. Given these cross-currents, the adage suggests caution: much of the acquisition excitement may already be reflected in volatility, and investors should be wary of chasing short-term spikes around deal or tariff headlines.
+4.1. **News:** Recent news highlights Netflix at the center of a major media M&A battle, with its multibillion-dollar bid for Warner Bros. Discovery sparking an even larger hostile offer from Paramount, underscoring Netflix's strategic importance in the industry. Broader market coverage notes US stock indices near record highs, rich valuations, and a late-cycle environment, which can elevate volatility around high-profile names like Netflix. Additional articles describe analysts debating execution and regulatory risks from the Warner Bros. deal and whether the stock's pullback has made it attractive. In light of the “buy the rumor, sell the news” adage, much of the sharp move seems tied to concrete deal announcements and reactions rather than vague rumors, suggesting that some “news” risk may already be reflected in the price but that sentiment could still swing with further deal developments.
 
-4.2. **Tarrifs:** Tariff news indicates that proposed 100% tariffs on foreign-made films could materially pressure Netflix, with analysts estimating up to a roughly 10–20% earnings-per-share hit and about $3 billion in additional annual costs, contributing to stock weakness when such measures were announced. While some investors have been described as relatively unfazed and Netflix was once seen as a tariff "safe haven," recent developments have clearly turned tariffs into a negative overhang for the stock.
+4.2. **Tarrifs:** Tariff threats on foreign-made films have at times pressured Netflix's stock, with analysts estimating potential hits to earnings and higher content costs if 100% tariffs on overseas productions were implemented. However, coverage also notes that investors have often remained relatively unfazed by these proposals, implying that while tariffs are a risk factor, their ultimate impact on the stock has been to introduce bouts of volatility rather than a clear long-term trend change.
 
 ## 5. QuickRef
 
@@ -360,7 +360,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -409,7 +409,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=NFLX&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NFLX&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 4 headline(s) from banned sources.
+Filtered 3 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; NFLX core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NFLX+core+business&amp;num=5
@@ -493,6 +493,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is near 7d/30d support around 103.32 and below the 20-day moving average/short-term SMA (price 104.71 vs dma20 110.51, SMA ~107.15) after a pullback from recent local highs, suggesting a potential but not confirmed dip-buy zone; macro froth/bubble cues specific to NFLX are not evident in the supplied data, limiting visibility on broader sentiment risk.&quot;, &quot;1.1&quot;: &quot;Netflix operates a global subscription video-on-demand streaming service focused on episodic television, movies, documentaries, and other on-demand content. It serves more than 300 million subscribers worldwide a
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a 3-month bottom/mid-range versus 1- and 5-year history and sitting just above support around 103.32 while trading slightly below its 20-day average and near its SMA; macro context shows indices near records and rich valuations suggesting some froth risk, so adding on dips toward support rather than at resistance near 113–116.7 appears more prudent.&quot;,&quot;1.1&quot;:&quot;Netflix operates a global subscription video-on-demand streaming service, offering on-demand access to episodic television, movies, documentaries, and other entertainment content. It has more than 300 million sub
 </code></pre>
 </details>
