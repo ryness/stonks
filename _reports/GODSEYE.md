@@ -3,10 +3,10 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2026-01-03
-generated_at: 2026-01-03T10:21:22.531492+00:00
-runtime_seconds: 19.33
+generated_at: 2026-01-03T15:20:08.645448+00:00
+runtime_seconds: 21.88
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-03T10:21:22.531492+00:00">2026-01-03 10:21 UTC</time> (runtime 19.33s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-03T15:20:08.645448+00:00">2026-01-03 15:20 UTC</time> (runtime 21.88s)
   
   ### Latest news (0-3 days)
   
@@ -15,34 +15,27 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  [
-      "Across equities, the tone is mildly risk-on with a tilt toward cyclicals and small caps. The S&P 500 is up 0.19% on the day and 3.64% over 30 days, while the Dow has gained 0.66% today and 4.97% over 30 days, signaling ongoing strength in large-cap blue chips. The Russell 2000 is a standout with a 1.06% 1d gain and 6.79% over 30 days, indicating improving risk appetite for smaller names despite a -1.98% pullback over the past week.",
-      "Volatility and futures confirm a constructive but not euphoric backdrop. The VIX sits at 14.51, down 2.94% on the day and over 41% lower than 30 days ago, pointing to a significant compression in implied risk even though it is up 3.05% over 7 days. Equity futures are modestly higher for the S&P (+0.12% 1d) and Dow (+0.58% 1d), while Nasdaq futures are down 0.28% on the day and 1.19% over the week, suggesting some rotation away from growth/tech leadership.",
-      "Rates and cross-asset moves show risk appetite is improving but with some rate headwinds. The 10Y Treasury yield is up 0.58% on the day and 1.55% over 30 days to 4.19, a modest drift higher that has not derailed equities. Gold is slightly softer on the day (-0.26%, -2.93% over 7d) but still up 6.23% over 30 days, while WTI crude is under pressure (-5.63% over 30 days), implying that the current equity bid is more about growth/AI optimism than a broad reflation or commodity-driven risk-on regime."
-    ]
+  Across equities, the tone is mildly risk-on with some rotation. The S&P 500 is up 0.19% on the day and the Dow 30 is stronger at +0.66%, while small caps lead with the Russell 2000 up 1.06%; tech is the main soft spot, with the Nasdaq Composite essentially flat at -0.03% and QQQ down 0.19%. On a one-week view, however, major US benchmarks are slightly negative to flat (S&P 500 -0.29%, Nasdaq -0.82%, Russell 2000 -1.98%, Dow +0.04%), indicating that today's bid is a modest rebound within a consolidating tape rather than a broad breakout, and risk appetite is improving on the day but not yet on the week.
   
-  1.1. **Market Health:** Market health appears moderately strong. Breadth is positive with 9 assets up versus 6 down, and the average 1d index move of roughly +0.31% shows a broad but not extreme advance. A low and falling VIX at 14.51, down nearly 3% today and more than 40% over 30 days, indicates subdued volatility and supportive risk sentiment. The 10Y Treasury yield has edged up to 4.19 but only by about 1.55% over 30 days, suggesting that higher rates are a headwind but not yet destabilizing the equity backdrop.
+  Volatility and futures confirm a generally constructive backdrop with some style divergence. The VIX is down 2.94% on the day and sits at 14.51, about 41% below its level 30 days ago, signaling compressed equity risk premia even as it is up 3.05% versus a week ago. S&P and Dow futures are higher (ES +0.12%, YM +0.58%), Russell futures are notably firm at +0.98%, while Nasdaq futures are off 0.28% on the day and -1.19% on the week, showing risk appetite skewing toward cyclicals and small caps rather than mega-cap growth.
   
-  1.2. **Leadership:** Leadership over the last day is coming from domestic cyclicals and small caps, with the Russell 2000 up 1.06% and Dow 30 up 0.66%, both outpacing the S&P 500's 0.19% gain. Over the week, however, the Russell 2000 (-1.98%) and Russell futures (-2.04%) have lagged, reflecting recent mean reversion after a strong month. On the downside today, tech-heavy benchmarks are the main laggards: the Nasdaq Composite is down 0.03% and QQQ is off 0.19%, while Nasdaq futures are down 0.28%, making growth/tech a relative underperformer on the session.
+  Rates and cross-asset signals are mostly benign but not outright accommodative. The 10Y Treasury yield has edged up 0.58% on the day and 1.55% over 30 days to 4.19%, a gentle rise that has not derailed equities. Gold is slightly lower today (-0.26%) and down 2.93% on the week despite being up 6.23% over 30 days, while WTI crude is softer across 1d/7d/30d (-0.17%, -1.19%, -5.63%), and the US Dollar is marginally stronger on the day and week but lower over 30 days. Taken together, these metrics point to a presently improving but still cautious risk appetite, with an average 1d index gain of about 0.31% and 9 of 15 tracked assets moving higher.
+  
+  1.1. **Market Health:** Market health looks moderately positive. Breadth is supportive, with 9 instruments up versus 6 down and an average 1-day index move around +0.31%, led by the Dow and Russell 2000. The VIX at 14.51, down nearly 3% on the day and more than 40% over 30 days, indicates subdued realized and implied stress. A 10Y yield near 4.19% and only modestly higher over the past month suggests that rate pressure is manageable, allowing equities to consolidate recent 3–7% 30-day gains without signaling acute strain.
+  
+  1.2. **Leadership:** Over the last day, the Russell 2000 is the clear leader among major benchmarks with a +1.06% move, and the Dow 30 is also strong at +0.66%, highlighting leadership in cyclicals and small caps. On the downside, the Nasdaq Composite is slightly negative at -0.03% and QQQ lags at -0.19%, making large-cap growth and tech the relative underperformers. Over the past week, Russell 2000 (-1.98%) and Nasdaq-linked products (Nasdaq Composite -0.82%, QQQ -0.98%) have lagged, while the Dow 30 has effectively held flat at +0.04%, underscoring defensive value and blue-chip strength versus growth.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** [
-      "The primary macro backdrop highlighted by the news is that Wall Street is starting 2026 after three consecutive years of double-digit gains, which underpins a structurally risk-on tone. Headlines noting that Dow, S&P 500, and Nasdaq futures rose as the year kicked off align with the modest gains seen in cash indices and S&P futures (+0.12% 1d), indicating that optimism about continued earnings and economic resilience is supporting equities rather than any specific new policy shock.",
-      "Regionally, Asian stock markets are described as bullish at the start of the new year on AI hopes and demand for tech infrastructure, a theme that echoes prior AI-driven gains in U.S. markets. This helps explain why indices like the Nasdaq still show solid 30-day gains (+3.58%) even as they pause today, and it generally favors a risk-on environment tilted toward growth and technology over the medium term. However, today's slight Nasdaq underperformance suggests some profit-taking or rotation within that broader AI-positive narrative.",
-      "Broader cross-market commentary points to ongoing enthusiasm in risk assets such as Bitcoin and select AI and retail stocks for 2026, but those are context rather than direct tape drivers in this snapshot. The combination of strong multi-year equity performance, AI optimism, and relatively calm macro headlines (no new major Fed or geopolitical shocks in the provided data) leans toward a constructive risk backdrop. Given that, the current tape looks driven more by positioning and rotation than by any acute risk-off macro or geopolitical catalyst."
-    ]
+  2.1. **Catalysts:** Macro sentiment is being supported by a strong recent performance in global equities and optimism around AI, which leans risk-on. Headlines note that Wall Street is kicking off 2026 after a third consecutive year of double-digit percentage gains, and Asian stock markets started the new year bullish on AI-related demand for tech infrastructure. This backdrop helps explain why US indices are up over the past 30 days (S&P 500 +3.64%, Dow +4.97%, Nasdaq +3.58%, Russell 2000 +6.79%) and why volatility has compressed sharply, as investors remain willing to add equity risk despite short-term consolidation. Energy and commodity dynamics are a secondary but relevant macro theme. Coverage of how energy scarcity is reshaping the global economy highlights structural concerns, yet near-term price action shows WTI crude down over all horizons (1d -0.17%, 7d -1.19%, 30d -5.63%), which reduces immediate inflation and margin pressure and tends to be modestly risk-on for broad equities. Gold's recent 30-day strength (+6.23%) paired with a weekly decline (-2.93%) suggests that some of the earlier demand for hedges has cooled in line with the VIX collapse, aligning with today's calmer risk tone. Crypto and broader speculative activity provide a peripheral signal on risk appetite. Articles referencing potential large Bitcoin and XRP upside into 2026, along with high-conviction equity ideas and AI/retail stock picks, point to continued interest in higher-beta themes. While these are not directly tied to the day's index moves, their coexistence with low equity volatility and positive 30-day returns supports a macro environment where risk-on narratives remain prevalent, even if near-term equity indices are digesting gains.
   
   2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** up 60% confidence. The bias leans higher because broad U.S. indices are positive on the day (S&P 500 +0.19%, Dow +0.66%, Russell 2000 +1.06%) and equity futures are also modestly higher for the S&P and Dow, indicating underlying buying interest. Volatility is subdued with the VIX at 14.51 and down nearly 3% on the day and over 40% over 30 days, which typically supports incremental upside rather than sharp downside swings. While Nasdaq benchmarks are slightly negative on the day and the 10Y yield is drifting higher, the overall breadth (9 up vs 6 down) and strong small-cap performance suggest dips are being bought, favoring a mild upward bias over the next 24 hours.
+  3.1. **Next 24h Bias:** up 60% Given the combination of a positive 1-day tone in broad US indices (S&P 500 +0.19%, Dow 30 +0.66%, Russell 2000 +1.06%), supportive futures pricing (ES +0.12%, YM +0.58%, RTY +0.98%), and a declining VIX at 14.51, the balance of evidence points slightly toward upside over the next 24 hours. The modest rise in the 10Y yield and recent 7-day softness in growth benchmarks (Nasdaq Composite -0.82%, QQQ -0.98%) introduce some caution, but they have not translated into broad risk-off behavior. With macro news flow emphasizing strong prior-year gains and AI optimism rather than new negative shocks, a continuation of the mild risk-on bias is the most probable path.
   
-  3.2. **Watch List:** [
-      "Traders should watch whether the rotation into cyclicals and small caps continues, focusing on the Russell 2000 around the 2,500 area and Russell futures near 2,520 as gauges of risk appetite. Sustained outperformance there, alongside a firm Dow around 48,000–48,500, would confirm that investors are embracing a broader rally beyond mega-cap tech. Conversely, any renewed weakness in these segments while Nasdaq futures remain soft would hint at a more selective market rather than a durable risk-on extension.",
-      "Monitoring volatility and rates will be critical into the next session. The VIX near 14.5 is a key line in the sand; further compression would support the "grind higher" scenario, while a sharp move back above the recent 7-day uptick zone would challenge the upside bias. On the rates side, watch the 10Y Treasury yield around 4.2%: a controlled move in this area has so far coexisted with equity gains, but a quick push materially above recent 30-day highs could weigh more heavily on growth and Nasdaq-linked products like QQQ and NQ futures, tempering the expected upside."
-    ]
+  3.2. **Watch List:** Traders should monitor whether small-cap and cyclical leadership persists, particularly around the Russell 2000 near 2,500 and its futures around 2,520, as they have outperformed with roughly 1% gains on the day and about 7% over 30 days. Sustained strength in the Dow 30 around 48,000–48,500 and S&P 500 near the mid-6,800s, alongside ES futures holding above roughly 6,900, would be consistent with the expected upward bias and indicate ongoing rotation out of mega-cap tech into broader breadth. On the macro side, watch the interplay between the 10Y Treasury yield around 4.19 and equity volatility with the VIX anchored in the mid-teens. If yields stay contained and the VIX remains near or below current levels, it should underpin the mild risk-on tone, while a sudden spike in either could challenge the upside call. Cross-asset signals from commodities and FX—specifically whether WTI crude remains soft near $57 and the US Dollar holds close to 98.4—will also help confirm that there is no new macro or geopolitical shock disrupting the constructive equity setup into the next session.
   
   ## 4. QuickRef
   
@@ -113,10 +106,21 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -129,12 +133,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is mildly risk-on with a tilt toward cyclicals and small caps. The S&amp;P 500 is up 0.19% on the day and 3.64% over 30 days, while the Dow has gained 0.66% today and 4.97% over 30 days, signaling ongoing strength in large-cap blue chips. The Russell 2000 is a standout with a 1.06% 1d gain and 6.79% over 30 days, indicating improving risk appetite for smaller names despite a -1.98% pullback over the past week.&quot;,\n    &quot;Volatility and futures confirm a constructive but not euphoric backdrop. The VIX sits at 14.51, down 2.94% on the day and over 41% lower
+  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is mildly risk-on with some rotation. The S&amp;P 500 is up 0.19% on the day and the Dow 30 is stronger at +0.66%, while small caps lead with the Russell 2000 up 1.06%; tech is the main soft spot, with the Nasdaq Composite essentially flat at -0.03% and QQQ down 0.19%. On a one-week view, however, major US benchmarks are slightly negative to flat (S&amp;P 500 -0.29%, Nasdaq -0.82%, Russell 2000 -1.98%, Dow +0.04%), indicating that today’s bid is a modest rebound within a consolidating tape rather than a broad breakout, and risk appetite is improving on the
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-03T10:21:22.531492+00:00">2026-01-03 10:21 UTC</time> (runtime 19.33s)
+**Generated:** <time class="js-local-time" datetime="2026-01-03T15:20:08.645448+00:00">2026-01-03 15:20 UTC</time> (runtime 21.88s)
 
 ### Latest news (0-3 days)
 
@@ -143,34 +147,27 @@ raw_markdown: |
 
 ## 1. Pulse
 
-[
-    "Across equities, the tone is mildly risk-on with a tilt toward cyclicals and small caps. The S&P 500 is up 0.19% on the day and 3.64% over 30 days, while the Dow has gained 0.66% today and 4.97% over 30 days, signaling ongoing strength in large-cap blue chips. The Russell 2000 is a standout with a 1.06% 1d gain and 6.79% over 30 days, indicating improving risk appetite for smaller names despite a -1.98% pullback over the past week.",
-    "Volatility and futures confirm a constructive but not euphoric backdrop. The VIX sits at 14.51, down 2.94% on the day and over 41% lower than 30 days ago, pointing to a significant compression in implied risk even though it is up 3.05% over 7 days. Equity futures are modestly higher for the S&P (+0.12% 1d) and Dow (+0.58% 1d), while Nasdaq futures are down 0.28% on the day and 1.19% over the week, suggesting some rotation away from growth/tech leadership.",
-    "Rates and cross-asset moves show risk appetite is improving but with some rate headwinds. The 10Y Treasury yield is up 0.58% on the day and 1.55% over 30 days to 4.19, a modest drift higher that has not derailed equities. Gold is slightly softer on the day (-0.26%, -2.93% over 7d) but still up 6.23% over 30 days, while WTI crude is under pressure (-5.63% over 30 days), implying that the current equity bid is more about growth/AI optimism than a broad reflation or commodity-driven risk-on regime."
-  ]
+Across equities, the tone is mildly risk-on with some rotation. The S&P 500 is up 0.19% on the day and the Dow 30 is stronger at +0.66%, while small caps lead with the Russell 2000 up 1.06%; tech is the main soft spot, with the Nasdaq Composite essentially flat at -0.03% and QQQ down 0.19%. On a one-week view, however, major US benchmarks are slightly negative to flat (S&P 500 -0.29%, Nasdaq -0.82%, Russell 2000 -1.98%, Dow +0.04%), indicating that today's bid is a modest rebound within a consolidating tape rather than a broad breakout, and risk appetite is improving on the day but not yet on the week.
 
-1.1. **Market Health:** Market health appears moderately strong. Breadth is positive with 9 assets up versus 6 down, and the average 1d index move of roughly +0.31% shows a broad but not extreme advance. A low and falling VIX at 14.51, down nearly 3% today and more than 40% over 30 days, indicates subdued volatility and supportive risk sentiment. The 10Y Treasury yield has edged up to 4.19 but only by about 1.55% over 30 days, suggesting that higher rates are a headwind but not yet destabilizing the equity backdrop.
+Volatility and futures confirm a generally constructive backdrop with some style divergence. The VIX is down 2.94% on the day and sits at 14.51, about 41% below its level 30 days ago, signaling compressed equity risk premia even as it is up 3.05% versus a week ago. S&P and Dow futures are higher (ES +0.12%, YM +0.58%), Russell futures are notably firm at +0.98%, while Nasdaq futures are off 0.28% on the day and -1.19% on the week, showing risk appetite skewing toward cyclicals and small caps rather than mega-cap growth.
 
-1.2. **Leadership:** Leadership over the last day is coming from domestic cyclicals and small caps, with the Russell 2000 up 1.06% and Dow 30 up 0.66%, both outpacing the S&P 500's 0.19% gain. Over the week, however, the Russell 2000 (-1.98%) and Russell futures (-2.04%) have lagged, reflecting recent mean reversion after a strong month. On the downside today, tech-heavy benchmarks are the main laggards: the Nasdaq Composite is down 0.03% and QQQ is off 0.19%, while Nasdaq futures are down 0.28%, making growth/tech a relative underperformer on the session.
+Rates and cross-asset signals are mostly benign but not outright accommodative. The 10Y Treasury yield has edged up 0.58% on the day and 1.55% over 30 days to 4.19%, a gentle rise that has not derailed equities. Gold is slightly lower today (-0.26%) and down 2.93% on the week despite being up 6.23% over 30 days, while WTI crude is softer across 1d/7d/30d (-0.17%, -1.19%, -5.63%), and the US Dollar is marginally stronger on the day and week but lower over 30 days. Taken together, these metrics point to a presently improving but still cautious risk appetite, with an average 1d index gain of about 0.31% and 9 of 15 tracked assets moving higher.
+
+1.1. **Market Health:** Market health looks moderately positive. Breadth is supportive, with 9 instruments up versus 6 down and an average 1-day index move around +0.31%, led by the Dow and Russell 2000. The VIX at 14.51, down nearly 3% on the day and more than 40% over 30 days, indicates subdued realized and implied stress. A 10Y yield near 4.19% and only modestly higher over the past month suggests that rate pressure is manageable, allowing equities to consolidate recent 3–7% 30-day gains without signaling acute strain.
+
+1.2. **Leadership:** Over the last day, the Russell 2000 is the clear leader among major benchmarks with a +1.06% move, and the Dow 30 is also strong at +0.66%, highlighting leadership in cyclicals and small caps. On the downside, the Nasdaq Composite is slightly negative at -0.03% and QQQ lags at -0.19%, making large-cap growth and tech the relative underperformers. Over the past week, Russell 2000 (-1.98%) and Nasdaq-linked products (Nasdaq Composite -0.82%, QQQ -0.98%) have lagged, while the Dow 30 has effectively held flat at +0.04%, underscoring defensive value and blue-chip strength versus growth.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** [
-    "The primary macro backdrop highlighted by the news is that Wall Street is starting 2026 after three consecutive years of double-digit gains, which underpins a structurally risk-on tone. Headlines noting that Dow, S&P 500, and Nasdaq futures rose as the year kicked off align with the modest gains seen in cash indices and S&P futures (+0.12% 1d), indicating that optimism about continued earnings and economic resilience is supporting equities rather than any specific new policy shock.",
-    "Regionally, Asian stock markets are described as bullish at the start of the new year on AI hopes and demand for tech infrastructure, a theme that echoes prior AI-driven gains in U.S. markets. This helps explain why indices like the Nasdaq still show solid 30-day gains (+3.58%) even as they pause today, and it generally favors a risk-on environment tilted toward growth and technology over the medium term. However, today's slight Nasdaq underperformance suggests some profit-taking or rotation within that broader AI-positive narrative.",
-    "Broader cross-market commentary points to ongoing enthusiasm in risk assets such as Bitcoin and select AI and retail stocks for 2026, but those are context rather than direct tape drivers in this snapshot. The combination of strong multi-year equity performance, AI optimism, and relatively calm macro headlines (no new major Fed or geopolitical shocks in the provided data) leans toward a constructive risk backdrop. Given that, the current tape looks driven more by positioning and rotation than by any acute risk-off macro or geopolitical catalyst."
-  ]
+2.1. **Catalysts:** Macro sentiment is being supported by a strong recent performance in global equities and optimism around AI, which leans risk-on. Headlines note that Wall Street is kicking off 2026 after a third consecutive year of double-digit percentage gains, and Asian stock markets started the new year bullish on AI-related demand for tech infrastructure. This backdrop helps explain why US indices are up over the past 30 days (S&P 500 +3.64%, Dow +4.97%, Nasdaq +3.58%, Russell 2000 +6.79%) and why volatility has compressed sharply, as investors remain willing to add equity risk despite short-term consolidation. Energy and commodity dynamics are a secondary but relevant macro theme. Coverage of how energy scarcity is reshaping the global economy highlights structural concerns, yet near-term price action shows WTI crude down over all horizons (1d -0.17%, 7d -1.19%, 30d -5.63%), which reduces immediate inflation and margin pressure and tends to be modestly risk-on for broad equities. Gold's recent 30-day strength (+6.23%) paired with a weekly decline (-2.93%) suggests that some of the earlier demand for hedges has cooled in line with the VIX collapse, aligning with today's calmer risk tone. Crypto and broader speculative activity provide a peripheral signal on risk appetite. Articles referencing potential large Bitcoin and XRP upside into 2026, along with high-conviction equity ideas and AI/retail stock picks, point to continued interest in higher-beta themes. While these are not directly tied to the day's index moves, their coexistence with low equity volatility and positive 30-day returns supports a macro environment where risk-on narratives remain prevalent, even if near-term equity indices are digesting gains.
 
 2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** up 60% confidence. The bias leans higher because broad U.S. indices are positive on the day (S&P 500 +0.19%, Dow +0.66%, Russell 2000 +1.06%) and equity futures are also modestly higher for the S&P and Dow, indicating underlying buying interest. Volatility is subdued with the VIX at 14.51 and down nearly 3% on the day and over 40% over 30 days, which typically supports incremental upside rather than sharp downside swings. While Nasdaq benchmarks are slightly negative on the day and the 10Y yield is drifting higher, the overall breadth (9 up vs 6 down) and strong small-cap performance suggest dips are being bought, favoring a mild upward bias over the next 24 hours.
+3.1. **Next 24h Bias:** up 60% Given the combination of a positive 1-day tone in broad US indices (S&P 500 +0.19%, Dow 30 +0.66%, Russell 2000 +1.06%), supportive futures pricing (ES +0.12%, YM +0.58%, RTY +0.98%), and a declining VIX at 14.51, the balance of evidence points slightly toward upside over the next 24 hours. The modest rise in the 10Y yield and recent 7-day softness in growth benchmarks (Nasdaq Composite -0.82%, QQQ -0.98%) introduce some caution, but they have not translated into broad risk-off behavior. With macro news flow emphasizing strong prior-year gains and AI optimism rather than new negative shocks, a continuation of the mild risk-on bias is the most probable path.
 
-3.2. **Watch List:** [
-    "Traders should watch whether the rotation into cyclicals and small caps continues, focusing on the Russell 2000 around the 2,500 area and Russell futures near 2,520 as gauges of risk appetite. Sustained outperformance there, alongside a firm Dow around 48,000–48,500, would confirm that investors are embracing a broader rally beyond mega-cap tech. Conversely, any renewed weakness in these segments while Nasdaq futures remain soft would hint at a more selective market rather than a durable risk-on extension.",
-    "Monitoring volatility and rates will be critical into the next session. The VIX near 14.5 is a key line in the sand; further compression would support the "grind higher" scenario, while a sharp move back above the recent 7-day uptick zone would challenge the upside bias. On the rates side, watch the 10Y Treasury yield around 4.2%: a controlled move in this area has so far coexisted with equity gains, but a quick push materially above recent 30-day highs could weigh more heavily on growth and Nasdaq-linked products like QQQ and NQ futures, tempering the expected upside."
-  ]
+3.2. **Watch List:** Traders should monitor whether small-cap and cyclical leadership persists, particularly around the Russell 2000 near 2,500 and its futures around 2,520, as they have outperformed with roughly 1% gains on the day and about 7% over 30 days. Sustained strength in the Dow 30 around 48,000–48,500 and S&P 500 near the mid-6,800s, alongside ES futures holding above roughly 6,900, would be consistent with the expected upward bias and indicate ongoing rotation out of mega-cap tech into broader breadth. On the macro side, watch the interplay between the 10Y Treasury yield around 4.19 and equity volatility with the VIX anchored in the mid-teens. If yields stay contained and the VIX remains near or below current levels, it should underpin the mild risk-on tone, while a sudden spike in either could challenge the upside call. Cross-asset signals from commodities and FX—specifically whether WTI crude remains soft near $57 and the US Dollar holds close to 98.4—will also help confirm that there is no new macro or geopolitical shock disrupting the constructive equity setup into the next session.
 
 ## 4. QuickRef
 
@@ -241,10 +238,21 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -257,6 +265,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is mildly risk-on with a tilt toward cyclicals and small caps. The S&amp;P 500 is up 0.19% on the day and 3.64% over 30 days, while the Dow has gained 0.66% today and 4.97% over 30 days, signaling ongoing strength in large-cap blue chips. The Russell 2000 is a standout with a 1.06% 1d gain and 6.79% over 30 days, indicating improving risk appetite for smaller names despite a -1.98% pullback over the past week.&quot;,\n    &quot;Volatility and futures confirm a constructive but not euphoric backdrop. The VIX sits at 14.51, down 2.94% on the day and over 41% lower
+LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is mildly risk-on with some rotation. The S&amp;P 500 is up 0.19% on the day and the Dow 30 is stronger at +0.66%, while small caps lead with the Russell 2000 up 1.06%; tech is the main soft spot, with the Nasdaq Composite essentially flat at -0.03% and QQQ down 0.19%. On a one-week view, however, major US benchmarks are slightly negative to flat (S&amp;P 500 -0.29%, Nasdaq -0.82%, Russell 2000 -1.98%, Dow +0.04%), indicating that today’s bid is a modest rebound within a consolidating tape rather than a broad breakout, and risk appetite is improving on the
 </code></pre>
 </details>
