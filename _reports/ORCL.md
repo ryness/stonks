@@ -2,11 +2,11 @@
 layout: default
 title: "ORCL Stock Report"
 ticker: "ORCL"
-date: 2026-01-03
-generated_at: 2026-01-03T15:19:46.623801+00:00
-runtime_seconds: 21.25
+date: 2026-01-08
+generated_at: 2026-01-08T05:25:02.166164+00:00
+runtime_seconds: 29.83
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-03T15:19:46.623801+00:00">2026-01-03 15:19 UTC</time> (runtime 21.25s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-08T05:25:02.166164+00:00">2026-01-08 05:25 UTC</time> (runtime 29.83s)
   
   ![Oracle Corp logo](https://ryness.github.io/stonks/assets/logos/ORCL.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in the 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history with support around $185.63 and resistance at $210, but it trades below its 20‑day and longer SMAs while AI-related bubble/froth concerns and ORCL being a poster child for AI bubble fears suggest elevated macro risk and potential for further downside or volatility.
+  0.1. **Long Entry?:** maybe — price is in a 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history but sits below the 20-day moving average and near resistance at 210; AI-related macro froth risks are present but partly tempered by commentary that power and balance-sheet limits may naturally curb an AI bubble, and current support around 185.6 offers a clearer low-risk add level than today's 205–210 area.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Oracle provides enterprise applications and infrastructure offerings delivered on-premises, in the cloud, and in hybrid deployments. Its core products include the Oracle Database for high-volume online transaction processing, enterprise resource planning (ERP) platforms, and Oracle Cloud Infrastructure, which is increasingly used for large language model training and inferencing. The company also offers related hardware and engineered systems to support these workloads.
+  1.1. **Activities:** Oracle is a global enterprise software and cloud infrastructure company that provides database software, enterprise applications, and hardware. It offers its technology via on‑premises, cloud, and hybrid deployment models, including its flagship SQL-based relational database used by large enterprises for high-volume transaction processing. The company also sells ERP platforms and Oracle Cloud Infrastructure, which is increasingly used for training and inference of large language models in AI workloads.
   
-  1.2. **Profitable?:** yes — Oracle is profitable, with recent net income totaling about $15.4 billion and a profit margin of roughly 25%, alongside strong revenue and earnings growth.
+  1.2. **Profitable?:** yes — Oracle is profitable, with a positive profit margin of about 25% and cumulative net income of roughly $15.4 billion over the last four reported periods.
   
-  1.3. **Customer & Markets:** Oracle primarily serves large enterprises and mid-sized businesses across industries that need mission-critical databases, ERP, and cloud infrastructure, including sectors like healthcare, financial services, and life sciences. Its markets are global, with revenue broken out by multiple geographic regions per its segment disclosures, and it increasingly targets customers needing AI and data center infrastructure capacity. Oracle also works with industry-specific providers who use its cloud and software platforms in vertical solutions.
+  1.3. **Customer & Markets:** Oracle's primary customers are large enterprises and industry-specific providers that need mission-critical databases, ERP systems, and cloud infrastructure. Its products serve global markets across sectors such as healthcare, financial services, logistics, and broader corporate IT, with customers increasingly using Oracle Cloud Infrastructure and multicloud setups. The company also targets smaller enterprises through cloud applications but remains most prominent in large-scale, global deployments.
   
-  1.4. **Competition:** Oracle's main competitors include Microsoft, Amazon, Salesforce, SAP, IBM, and other large enterprise software and cloud infrastructure providers, as well as hyperscalers like Alphabet in certain workloads. It is one of the leading global vendors in databases, ERP, and cloud infrastructure, but competes against these peers for market share in cloud and enterprise applications rather than clearly dominating all segments.
+  1.4. **Competition:** Oracle's main competitors include Microsoft, Amazon, Google (Alphabet), SAP, IBM, Salesforce, Adobe, and other large infrastructure and enterprise software vendors. It remains a leading player in databases and enterprise applications alongside these hyperscalers and software giants but competes intensely with them in cloud infrastructure and AI-related data center services.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rebounding off support near $185.63 toward resistance around $210.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has rebounded from support near 185.63 toward resistance at 210 over the last week.
   
-  2.2. **7d Buy/Sell Points?:** In the last week, the suggested buy area around the recent local and 30-day support near $185.63 offered a favorable entry. The suggested sell or trim zone is near the local and 30-day resistance and recent high region between about $210 and $234.
+  2.2. **7d Buy/Sell Points?:** Over the past 3–7 trading days, levels near the 7-day support around 185.63 were attractive buy points after the correction, while approaches toward 210, the 7-day resistance, offered better short-term trim or sell zones. The suggested buy zone at 185.63 and sell zone near the recent local high around 234 also frame the broader tactical range observed.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oracle is a long-established technology company founded in 1977, with decades of operating history and a core role in enterprise databases and applications. It generates substantial net income (about $15.4 billion recently) and maintains strong operating cash flow, though current free cash flow is negative due to heavy investment. With a very large market capitalization and global customer base, it operates more like a systemic enterprise software and cloud infrastructure provider than a speculative startup. Overall, the longevity of its business, profitability, and entrenched position in mission-critical workloads indicate a relatively stable institution despite elevated capex and AI-related balance sheet pressure noted in recent coverage.
+  3.1. **Stability?:** Oracle is a long-established, large-cap technology company founded in 1977, with decades of operating history and a central role in enterprise databases and applications. Its profitability (roughly 25% profit margin and over $15 billion in recent net income) and strong operating cash flow indicate a solid financial base, though current free cash flow is negative due to heavy investment. The firm runs 150 data centers with 64 more under construction, underscoring substantial scale and long-term infrastructure commitments. Analysts maintain a Moderate Buy view with expectations of significant growth, suggesting the market largely regards Oracle as a durable institution rather than a speculative player.
   
-  3.2. **Innovating?:** Oracle is actively innovating and growing, with strong revenue and earnings growth and rapidly expanding Oracle Cloud Infrastructure consumption driven by AI training and inferencing workloads. Recent analyst and company commentary highlight large new AI and data center contracts and continued cloud and sovereign cloud expansion, indicating it is not a stale business.
+  3.2. **Innovating?:** Oracle appears to be actively innovating and growing, expanding its cloud infrastructure footprint by 43% capacity, supporting AI training and inference workloads. Forecasts calling for 17% growth in 2026 and a potential doubling in size by 2028, driven by AI infrastructure and multicloud operations, further indicate a growth-oriented, innovative trajectory.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage emphasizes broad AI bubble risks into 2026, with Big Tech (including Oracle) heavily increasing AI capex and some analysts calling Oracle a poster child for AI bubble fears. Other pieces highlight Oracle winning "phase 2" of AI via data center and sovereign cloud deals and note that AI data center commitments are stretching its balance sheet, creating tension between growth narrative and financial risk. News about TikTok's transfer to Oracle-led investors and ongoing AI infrastructure expansion feeds bullish expectations that may already be reflected in the stock. Given quick facts flagging 'Sell the news?' as 'yes', strong AI-related news or contract announcements may present moments where investors take profits after prior run-ups, consistent with 'buy the rumor, sell the news' dynamics.
+  4.1. **News:** Recent coverage frames Oracle as a long-term AI infrastructure winner despite a 2025 stock price correction, emphasizing its expanding global data center footprint and multicloud strategy, with analysts projecting strong growth and sizable upside from current support levels. At the same time, broader AI commentary notes that power-grid constraints and the balance sheets of players like OpenAI may naturally slow hyperscaler AI spending, reducing the likelihood of a classic dot-com-style bubble burst. This mix suggests that earlier exuberant AI expectations may already have led to a "buy the rumor, sell the news" phase, with the correction reflecting digestion of overextended optimism. Current sentiment of a Moderate Buy with 60% upside from key support implies that some investors now see the post-news pullback as an opportunity rather than a signal to keep selling. Overall, the news flow fits a narrative where initial AI hype drove the stock up, the correction aligned with "sell the news," and the focus is now on fundamentals and execution.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariffs have not been highlighted as a direct, durable driver of Oracle's stock in the supplied data, though prior headlines note that broader tariff announcements moved the overall market while Oracle shares reacted mainly to earnings. Overall, the impact of tariffs on Oracle's stock appears secondary and is not clearly quantified in the provided information.
   
   ## 5. QuickRef
   
@@ -114,11 +114,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-  <li>The Guardian: rumor</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -163,7 +162,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=ORCL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 2 headline(s) from banned sources.
+  Filtered 3 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; ORCL core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+core+business&amp;num=5
@@ -209,11 +208,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; ORCL rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=ORCL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=ORCL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     newsapi search -&gt; ORCL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -247,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history with support around $185.63 and resistance at $210, but it trades below its 20‑day and longer SMAs while AI-related bubble/froth concerns and ORCL being a poster child for AI bubble fears suggest elevated macro risk and potential for further downside or volatility.&quot;, &quot;1.1&quot;: &quot;Oracle provides enterprise applications and infrastructure offerings delivered on-premises, in the cloud, and in hybrid deployments. Its core products include the Oracle Database for high-volume online transaction processin
+  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history but sits below the 20-day moving average and near resistance at 210; AI-related macro froth risks are present but partly tempered by commentary that power and balance-sheet limits may naturally curb an AI bubble, and current support around 185.6 offers a clearer low-risk add level than today’s 205–210 area.&quot;,\n  &quot;1.1&quot;: &quot;Oracle is a global enterprise software and cloud infrastructure company that provides database software, enterprise applications, and hardware. It offers its technology via on
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-03T15:19:46.623801+00:00">2026-01-03 15:19 UTC</time> (runtime 21.25s)
+**Generated:** <time class="js-local-time" datetime="2026-01-08T05:25:02.166164+00:00">2026-01-08 05:25 UTC</time> (runtime 29.83s)
 
 ![Oracle Corp logo](https://ryness.github.io/stonks/assets/logos/ORCL.svg)
 
@@ -299,23 +294,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in the 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history with support around $185.63 and resistance at $210, but it trades below its 20‑day and longer SMAs while AI-related bubble/froth concerns and ORCL being a poster child for AI bubble fears suggest elevated macro risk and potential for further downside or volatility.
+0.1. **Long Entry?:** maybe — price is in a 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history but sits below the 20-day moving average and near resistance at 210; AI-related macro froth risks are present but partly tempered by commentary that power and balance-sheet limits may naturally curb an AI bubble, and current support around 185.6 offers a clearer low-risk add level than today's 205–210 area.
 
 ## 1. The Biz
 
-1.1. **Activities:** Oracle provides enterprise applications and infrastructure offerings delivered on-premises, in the cloud, and in hybrid deployments. Its core products include the Oracle Database for high-volume online transaction processing, enterprise resource planning (ERP) platforms, and Oracle Cloud Infrastructure, which is increasingly used for large language model training and inferencing. The company also offers related hardware and engineered systems to support these workloads.
+1.1. **Activities:** Oracle is a global enterprise software and cloud infrastructure company that provides database software, enterprise applications, and hardware. It offers its technology via on‑premises, cloud, and hybrid deployment models, including its flagship SQL-based relational database used by large enterprises for high-volume transaction processing. The company also sells ERP platforms and Oracle Cloud Infrastructure, which is increasingly used for training and inference of large language models in AI workloads.
 
-1.2. **Profitable?:** yes — Oracle is profitable, with recent net income totaling about $15.4 billion and a profit margin of roughly 25%, alongside strong revenue and earnings growth.
+1.2. **Profitable?:** yes — Oracle is profitable, with a positive profit margin of about 25% and cumulative net income of roughly $15.4 billion over the last four reported periods.
 
-1.3. **Customer & Markets:** Oracle primarily serves large enterprises and mid-sized businesses across industries that need mission-critical databases, ERP, and cloud infrastructure, including sectors like healthcare, financial services, and life sciences. Its markets are global, with revenue broken out by multiple geographic regions per its segment disclosures, and it increasingly targets customers needing AI and data center infrastructure capacity. Oracle also works with industry-specific providers who use its cloud and software platforms in vertical solutions.
+1.3. **Customer & Markets:** Oracle's primary customers are large enterprises and industry-specific providers that need mission-critical databases, ERP systems, and cloud infrastructure. Its products serve global markets across sectors such as healthcare, financial services, logistics, and broader corporate IT, with customers increasingly using Oracle Cloud Infrastructure and multicloud setups. The company also targets smaller enterprises through cloud applications but remains most prominent in large-scale, global deployments.
 
-1.4. **Competition:** Oracle's main competitors include Microsoft, Amazon, Salesforce, SAP, IBM, and other large enterprise software and cloud infrastructure providers, as well as hyperscalers like Alphabet in certain workloads. It is one of the leading global vendors in databases, ERP, and cloud infrastructure, but competes against these peers for market share in cloud and enterprise applications rather than clearly dominating all segments.
+1.4. **Competition:** Oracle's main competitors include Microsoft, Amazon, Google (Alphabet), SAP, IBM, Salesforce, Adobe, and other large infrastructure and enterprise software vendors. It remains a leading player in databases and enterprise applications alongside these hyperscalers and software giants but competes intensely with them in cloud infrastructure and AI-related data center services.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rebounding off support near $185.63 toward resistance around $210.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has rebounded from support near 185.63 toward resistance at 210 over the last week.
 
-2.2. **7d Buy/Sell Points?:** In the last week, the suggested buy area around the recent local and 30-day support near $185.63 offered a favorable entry. The suggested sell or trim zone is near the local and 30-day resistance and recent high region between about $210 and $234.
+2.2. **7d Buy/Sell Points?:** Over the past 3–7 trading days, levels near the 7-day support around 185.63 were attractive buy points after the correction, while approaches toward 210, the 7-day resistance, offered better short-term trim or sell zones. The suggested buy zone at 185.63 and sell zone near the recent local high around 234 also frame the broader tactical range observed.
 
 2.3.1. **7d Volume:** low
 
@@ -323,15 +318,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oracle is a long-established technology company founded in 1977, with decades of operating history and a core role in enterprise databases and applications. It generates substantial net income (about $15.4 billion recently) and maintains strong operating cash flow, though current free cash flow is negative due to heavy investment. With a very large market capitalization and global customer base, it operates more like a systemic enterprise software and cloud infrastructure provider than a speculative startup. Overall, the longevity of its business, profitability, and entrenched position in mission-critical workloads indicate a relatively stable institution despite elevated capex and AI-related balance sheet pressure noted in recent coverage.
+3.1. **Stability?:** Oracle is a long-established, large-cap technology company founded in 1977, with decades of operating history and a central role in enterprise databases and applications. Its profitability (roughly 25% profit margin and over $15 billion in recent net income) and strong operating cash flow indicate a solid financial base, though current free cash flow is negative due to heavy investment. The firm runs 150 data centers with 64 more under construction, underscoring substantial scale and long-term infrastructure commitments. Analysts maintain a Moderate Buy view with expectations of significant growth, suggesting the market largely regards Oracle as a durable institution rather than a speculative player.
 
-3.2. **Innovating?:** Oracle is actively innovating and growing, with strong revenue and earnings growth and rapidly expanding Oracle Cloud Infrastructure consumption driven by AI training and inferencing workloads. Recent analyst and company commentary highlight large new AI and data center contracts and continued cloud and sovereign cloud expansion, indicating it is not a stale business.
+3.2. **Innovating?:** Oracle appears to be actively innovating and growing, expanding its cloud infrastructure footprint by 43% capacity, supporting AI training and inference workloads. Forecasts calling for 17% growth in 2026 and a potential doubling in size by 2028, driven by AI infrastructure and multicloud operations, further indicate a growth-oriented, innovative trajectory.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage emphasizes broad AI bubble risks into 2026, with Big Tech (including Oracle) heavily increasing AI capex and some analysts calling Oracle a poster child for AI bubble fears. Other pieces highlight Oracle winning "phase 2" of AI via data center and sovereign cloud deals and note that AI data center commitments are stretching its balance sheet, creating tension between growth narrative and financial risk. News about TikTok's transfer to Oracle-led investors and ongoing AI infrastructure expansion feeds bullish expectations that may already be reflected in the stock. Given quick facts flagging 'Sell the news?' as 'yes', strong AI-related news or contract announcements may present moments where investors take profits after prior run-ups, consistent with 'buy the rumor, sell the news' dynamics.
+4.1. **News:** Recent coverage frames Oracle as a long-term AI infrastructure winner despite a 2025 stock price correction, emphasizing its expanding global data center footprint and multicloud strategy, with analysts projecting strong growth and sizable upside from current support levels. At the same time, broader AI commentary notes that power-grid constraints and the balance sheets of players like OpenAI may naturally slow hyperscaler AI spending, reducing the likelihood of a classic dot-com-style bubble burst. This mix suggests that earlier exuberant AI expectations may already have led to a "buy the rumor, sell the news" phase, with the correction reflecting digestion of overextended optimism. Current sentiment of a Moderate Buy with 60% upside from key support implies that some investors now see the post-news pullback as an opportunity rather than a signal to keep selling. Overall, the news flow fits a narrative where initial AI hype drove the stock up, the correction aligned with "sell the news," and the focus is now on fundamentals and execution.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariffs have not been highlighted as a direct, durable driver of Oracle's stock in the supplied data, though prior headlines note that broader tariff announcements moved the overall market while Oracle shares reacted mainly to earnings. Overall, the impact of tariffs on Oracle's stock appears secondary and is not clearly quantified in the provided information.
 
 ## 5. QuickRef
 
@@ -360,11 +355,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-<li>The Guardian: rumor</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -409,7 +403,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=ORCL&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=ORCL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 2 headline(s) from banned sources.
+Filtered 3 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; ORCL core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ORCL+core+business&amp;num=5
@@ -455,11 +449,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; ORCL rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=ORCL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=ORCL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   newsapi search -&gt; ORCL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ORCL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -493,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history with support around $185.63 and resistance at $210, but it trades below its 20‑day and longer SMAs while AI-related bubble/froth concerns and ORCL being a poster child for AI bubble fears suggest elevated macro risk and potential for further downside or volatility.&quot;, &quot;1.1&quot;: &quot;Oracle provides enterprise applications and infrastructure offerings delivered on-premises, in the cloud, and in hybrid deployments. Its core products include the Oracle Database for high-volume online transaction processin
+LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 3‑month near-bottom zone and mid-range versus 1‑ and 5‑year history but sits below the 20-day moving average and near resistance at 210; AI-related macro froth risks are present but partly tempered by commentary that power and balance-sheet limits may naturally curb an AI bubble, and current support around 185.6 offers a clearer low-risk add level than today’s 205–210 area.&quot;,\n  &quot;1.1&quot;: &quot;Oracle is a global enterprise software and cloud infrastructure company that provides database software, enterprise applications, and hardware. It offers its technology via on
 </code></pre>
 </details>
