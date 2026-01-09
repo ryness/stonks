@@ -2,11 +2,11 @@
 layout: default
 title: "PYPL Stock Report"
 ticker: "PYPL"
-date: 2026-01-04
-generated_at: 2026-01-04T10:20:41.255488+00:00
-runtime_seconds: 25.04
+date: 2026-01-09
+generated_at: 2026-01-09T01:45:25.196649+00:00
+runtime_seconds: 66.50
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-04T10:20:41.255488+00:00">2026-01-04 10:20 UTC</time> (runtime 25.04s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-09T01:45:25.196649+00:00">2026-01-09 01:45 UTC</time> (runtime 1m 6s)
   
   ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — trading near 5-year and 3-month near-bottom levels with price just above support at 64.78 and below the 20-day average around 68.11 suggests a reasonable but not screaming entry; macro froth context is limited, and the short-term trend and MACD remain down with resistance close by near 68.21.
+  0.1. **Long Entry?:** maybe — trading near multi‑month and 5‑year near-bottom levels with price just above 7d/30d support at ~$64.78 and slightly below the 20‑day average around $68.11; macro froth visibility is limited but recent quick facts show the stock in the middle of overbought/oversold rather than in a bubble, suggesting a cautious, support‑anchored entry rather than aggressive buying.
   
   ## 1. The Biz
   
-  1.1. **Activities:** PayPal Holdings, Inc. provides electronic and mobile payment solutions for merchants and consumers, with a focus on online transactions. Its platform includes the PayPal branded wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods and send or receive funds digitally. The company operates as a fintech player in credit services, supporting commerce and payments across many online environments.
+  1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, primarily enabling online and digital transactions. Its core offerings include the PayPal-branded digital wallet, merchant checkout and processing, and the Venmo person-to-person payments platform. The company operates as a leading fintech provider in global e-commerce and digital payments.
   
-  1.2. **Profitable?:** yes — PayPal is profitable, with about $4.92B in last reported Q4 revenue, a net income sum of roughly $4.9B over recent periods, a profit margin near 15%, and solid free cash flow generation.
+  1.2. **Profitable?:** yes — PayPal is profitable, with a profit margin of about 15%, a net income sum of roughly $4.9B over the last four quarters, positive free cash flow, and positive earnings growth.
   
-  1.3. **Customer & Markets:** PayPal's primary customers are consumers and merchants that use its digital wallet, online checkout, and peer-to-peer payment services for e-commerce and general online transactions. It serves 434 million active accounts globally at the end of 2024, spanning online retail and broader digital commerce markets. The company operates primarily from the United States but its payment system is used in the majority of countries worldwide.
+  1.3. **Customer & Markets:** PayPal serves both consumers and merchants, focusing on online shoppers and businesses that accept digital payments across e-commerce and other internet-based transactions. Its 434 million active accounts indicate a broad global user base, with services used in many countries for cross-border and domestic payments. The company is headquartered in the United States but operates its payment system internationally.
   
-  1.4. **Competition:** Key competitors include Visa, Apple, Amazon, Affirm, Coinbase, Shopify and other online and card payment processors. Within online payment processing, third-party data indicate PayPal holds a leading share of around 30–45%, positioning it among the top players in digital payments.
+  1.4. **Competition:** PayPal's key competitors include major payment and commerce players such as Apple, Amazon, Shopify, Visa, Affirm, Coinbase, and other fintechs. It ranks as one of the largest online payment processors, with sources citing it as holding a leading share of online payment and payment-management markets versus rivals like Stripe and others.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d trend label is "down" and the current price near 66.29 has been slipping from resistance around 68.21 toward support at 64.78.
+  2.1. **7d Trend?:** down — over the last week the stock has traded from about $68 down toward support near $64.78, with quick facts labeling the 7d trend as down.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks near support around 64.78 aligned with the suggested buy zone, while approaches toward 68.21, the local and 7d resistance and suggested sell zone, offered better short-term selling opportunities.
+  2.2. **7d Buy/Sell Points?:** Buying near the 7d/30d support zone around $64.78 appears to have offered better risk-reward, while prices approaching the 7d resistance near $68.21 provided more favorable short-term selling or trimming opportunities.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** PayPal is a relatively mature and sizable fintech company, spun off from eBay in 2015 and now serving 434 million active accounts as of the end of 2024. It operates with consistent profitability, evidenced by nearly $4.9B in recent net income, profit margins around 15%, and strong operating and free cash flow. The firm's large global user base and entrenched role in online payments support its status as a stable institution rather than a fly-by-night operator. While the stock has fallen from prior peaks to near 5-year lows, the business fundamentals in the provided data remain solid.
+  3.1. **Stability?:** PayPal is a relatively mature and large fintech institution, having operated independently since its 2015 spin-off from eBay and now serving 434 million active accounts. Its financials show consistent profitability, with nearly $4.9B in net income over the last four quarters, positive free cash flow above $3.1B, and strong operating cash flow. While the share price has fallen sharply from its 2021 peak to near 5-year bottom levels, rating agencies like Fitch assign it investment-grade short-term ratings, indicating perceived credit stability. Overall, the balance of scale, recurring payment flows, and solid cash generation suggests a stable, not fly-by-night, business despite market volatility.
   
-  3.2. **Innovating?:** It appears to be innovating and growing, with revenue and earnings growth (about 7% and 23.6% respectively) and ongoing expansion in digital wallets and person-to-person payments like Venmo. Its portfolio and product operating model work signal efforts to adapt to changing market conditions rather than stagnation.
+  3.2. **Innovating?:** PayPal is still innovating and growing, as evidenced by 7.3% revenue growth and 23.6% earnings growth, alongside product expansion like Venmo and BNPL-related offerings. However, competitive and regulatory pressures in areas like BNPL indicate that growth comes with execution challenges rather than a stale business model.
   
   ## 4. Context
   
-  4.1. **News:** Recent context includes strong usage growth in Buy Now, Pay Later across the industry, with projected $20.2B in 2025 holiday BNPL spending, but also mounting consumer strain and regulatory scrutiny that could weigh on sentiment for related fintech names. News that PayPal has applied to establish an industrial bank to expand services for U.S. small businesses points to strategic expansion and may have driven anticipatory interest. At the same time, coverage notes analysts' caution and that the stock has dipped more than 14.5% since a recent earnings report, suggesting profit-taking or disappointment post-results. Headlines around tariffs and recession risk, as well as EU discussions of potential new fees, add macro and regulatory overhangs that may cause investors to "sell the news" on positive developments. The quick facts explicitly flag "Buy the rumor? no" and "Sell the news? yes," implying recent news flow has tended to be followed by weakness rather than rallies.
+  4.1. **News:** Recent coverage highlights the rapid growth and rising risks of Buy Now, Pay Later, with holiday 2025 BNPL spending projected at $20.2B but accompanied by high missed-payment rates and regulatory scrutiny. Other commentary frames PayPal as a cheap, beaten-down large-cap fintech where analysts see upside but remain cautious, especially after a notable share price decline since Q3 2025 earnings. News flow around tariffs and potential recession risks has also weighed on fintech sentiment, with investors wary of consumer-spending headwinds. In a buy-the-rumor, sell-the-news context, the data suggest prior optimism on PayPal's growth and fintech themes was sold off after results and macro headlines, while current sentiment is more subdued than euphoric.
   
-  4.2. **Tarrifs:** Tariff-related headlines indicate that announcements of new U.S. tariffs have pressured fintech stocks including PayPal on fears of weaker consumer spending and recession risk, contributing to share price declines around those events. Analysts and commentators specifically highlight tariffs as a negative macro factor for PayPal, mainly via potential demand impact rather than direct duties on its services.
+  4.2. **Tarrifs:** Tariff news has negatively affected PayPal's stock, with multiple reports noting that fintech names including PayPal plunged on concerns that new Trump tariffs would hurt consumer spending and with analysts and PayPal's CEO warning that tariffs pose risks to small businesses and could pressure results.
   
   ## 5. QuickRef
   
@@ -186,7 +186,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -195,7 +195,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -224,7 +224,7 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 1 result(s)
     newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 2 result(s)
@@ -255,12 +255,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 5-year and 3-month near-bottom levels with price just above support at 64.78 and below the 20-day average around 68.11 suggests a reasonable but not screaming entry; macro froth context is limited, and the short-term trend and MACD remain down with resistance close by near 68.21.&quot;, &quot;1.1&quot;: &quot;PayPal Holdings, Inc. provides electronic and mobile payment solutions for merchants and consumers, with a focus on online transactions. Its platform includes the PayPal branded wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods and send or 
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — trading near multi‑month and 5‑year near-bottom levels with price just above 7d/30d support at ~$64.78 and slightly below the 20‑day average around $68.11; macro froth visibility is limited but recent quick facts show the stock in the middle of overbought/oversold rather than in a bubble, suggesting a cautious, support‑anchored entry rather than aggressive buying.&quot;,&quot;1.1&quot;:&quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, primarily enabling online and digital transactions. Its core offerings include the PayPal-branded digital wallet, mercha
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-04T10:20:41.255488+00:00">2026-01-04 10:20 UTC</time> (runtime 25.04s)
+**Generated:** <time class="js-local-time" datetime="2026-01-09T01:45:25.196649+00:00">2026-01-09 01:45 UTC</time> (runtime 1m 6s)
 
 ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
 
@@ -307,23 +307,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — trading near 5-year and 3-month near-bottom levels with price just above support at 64.78 and below the 20-day average around 68.11 suggests a reasonable but not screaming entry; macro froth context is limited, and the short-term trend and MACD remain down with resistance close by near 68.21.
+0.1. **Long Entry?:** maybe — trading near multi‑month and 5‑year near-bottom levels with price just above 7d/30d support at ~$64.78 and slightly below the 20‑day average around $68.11; macro froth visibility is limited but recent quick facts show the stock in the middle of overbought/oversold rather than in a bubble, suggesting a cautious, support‑anchored entry rather than aggressive buying.
 
 ## 1. The Biz
 
-1.1. **Activities:** PayPal Holdings, Inc. provides electronic and mobile payment solutions for merchants and consumers, with a focus on online transactions. Its platform includes the PayPal branded wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods and send or receive funds digitally. The company operates as a fintech player in credit services, supporting commerce and payments across many online environments.
+1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, primarily enabling online and digital transactions. Its core offerings include the PayPal-branded digital wallet, merchant checkout and processing, and the Venmo person-to-person payments platform. The company operates as a leading fintech provider in global e-commerce and digital payments.
 
-1.2. **Profitable?:** yes — PayPal is profitable, with about $4.92B in last reported Q4 revenue, a net income sum of roughly $4.9B over recent periods, a profit margin near 15%, and solid free cash flow generation.
+1.2. **Profitable?:** yes — PayPal is profitable, with a profit margin of about 15%, a net income sum of roughly $4.9B over the last four quarters, positive free cash flow, and positive earnings growth.
 
-1.3. **Customer & Markets:** PayPal's primary customers are consumers and merchants that use its digital wallet, online checkout, and peer-to-peer payment services for e-commerce and general online transactions. It serves 434 million active accounts globally at the end of 2024, spanning online retail and broader digital commerce markets. The company operates primarily from the United States but its payment system is used in the majority of countries worldwide.
+1.3. **Customer & Markets:** PayPal serves both consumers and merchants, focusing on online shoppers and businesses that accept digital payments across e-commerce and other internet-based transactions. Its 434 million active accounts indicate a broad global user base, with services used in many countries for cross-border and domestic payments. The company is headquartered in the United States but operates its payment system internationally.
 
-1.4. **Competition:** Key competitors include Visa, Apple, Amazon, Affirm, Coinbase, Shopify and other online and card payment processors. Within online payment processing, third-party data indicate PayPal holds a leading share of around 30–45%, positioning it among the top players in digital payments.
+1.4. **Competition:** PayPal's key competitors include major payment and commerce players such as Apple, Amazon, Shopify, Visa, Affirm, Coinbase, and other fintechs. It ranks as one of the largest online payment processors, with sources citing it as holding a leading share of online payment and payment-management markets versus rivals like Stripe and others.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d trend label is "down" and the current price near 66.29 has been slipping from resistance around 68.21 toward support at 64.78.
+2.1. **7d Trend?:** down — over the last week the stock has traded from about $68 down toward support near $64.78, with quick facts labeling the 7d trend as down.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks near support around 64.78 aligned with the suggested buy zone, while approaches toward 68.21, the local and 7d resistance and suggested sell zone, offered better short-term selling opportunities.
+2.2. **7d Buy/Sell Points?:** Buying near the 7d/30d support zone around $64.78 appears to have offered better risk-reward, while prices approaching the 7d resistance near $68.21 provided more favorable short-term selling or trimming opportunities.
 
 2.3.1. **7d Volume:** low
 
@@ -331,15 +331,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** PayPal is a relatively mature and sizable fintech company, spun off from eBay in 2015 and now serving 434 million active accounts as of the end of 2024. It operates with consistent profitability, evidenced by nearly $4.9B in recent net income, profit margins around 15%, and strong operating and free cash flow. The firm's large global user base and entrenched role in online payments support its status as a stable institution rather than a fly-by-night operator. While the stock has fallen from prior peaks to near 5-year lows, the business fundamentals in the provided data remain solid.
+3.1. **Stability?:** PayPal is a relatively mature and large fintech institution, having operated independently since its 2015 spin-off from eBay and now serving 434 million active accounts. Its financials show consistent profitability, with nearly $4.9B in net income over the last four quarters, positive free cash flow above $3.1B, and strong operating cash flow. While the share price has fallen sharply from its 2021 peak to near 5-year bottom levels, rating agencies like Fitch assign it investment-grade short-term ratings, indicating perceived credit stability. Overall, the balance of scale, recurring payment flows, and solid cash generation suggests a stable, not fly-by-night, business despite market volatility.
 
-3.2. **Innovating?:** It appears to be innovating and growing, with revenue and earnings growth (about 7% and 23.6% respectively) and ongoing expansion in digital wallets and person-to-person payments like Venmo. Its portfolio and product operating model work signal efforts to adapt to changing market conditions rather than stagnation.
+3.2. **Innovating?:** PayPal is still innovating and growing, as evidenced by 7.3% revenue growth and 23.6% earnings growth, alongside product expansion like Venmo and BNPL-related offerings. However, competitive and regulatory pressures in areas like BNPL indicate that growth comes with execution challenges rather than a stale business model.
 
 ## 4. Context
 
-4.1. **News:** Recent context includes strong usage growth in Buy Now, Pay Later across the industry, with projected $20.2B in 2025 holiday BNPL spending, but also mounting consumer strain and regulatory scrutiny that could weigh on sentiment for related fintech names. News that PayPal has applied to establish an industrial bank to expand services for U.S. small businesses points to strategic expansion and may have driven anticipatory interest. At the same time, coverage notes analysts' caution and that the stock has dipped more than 14.5% since a recent earnings report, suggesting profit-taking or disappointment post-results. Headlines around tariffs and recession risk, as well as EU discussions of potential new fees, add macro and regulatory overhangs that may cause investors to "sell the news" on positive developments. The quick facts explicitly flag "Buy the rumor? no" and "Sell the news? yes," implying recent news flow has tended to be followed by weakness rather than rallies.
+4.1. **News:** Recent coverage highlights the rapid growth and rising risks of Buy Now, Pay Later, with holiday 2025 BNPL spending projected at $20.2B but accompanied by high missed-payment rates and regulatory scrutiny. Other commentary frames PayPal as a cheap, beaten-down large-cap fintech where analysts see upside but remain cautious, especially after a notable share price decline since Q3 2025 earnings. News flow around tariffs and potential recession risks has also weighed on fintech sentiment, with investors wary of consumer-spending headwinds. In a buy-the-rumor, sell-the-news context, the data suggest prior optimism on PayPal's growth and fintech themes was sold off after results and macro headlines, while current sentiment is more subdued than euphoric.
 
-4.2. **Tarrifs:** Tariff-related headlines indicate that announcements of new U.S. tariffs have pressured fintech stocks including PayPal on fears of weaker consumer spending and recession risk, contributing to share price declines around those events. Analysts and commentators specifically highlight tariffs as a negative macro factor for PayPal, mainly via potential demand impact rather than direct duties on its services.
+4.2. **Tarrifs:** Tariff news has negatively affected PayPal's stock, with multiple reports noting that fintech names including PayPal plunged on concerns that new Trump tariffs would hurt consumer spending and with analysts and PayPal's CEO warning that tariffs pose risks to small businesses and could pressure results.
 
 ## 5. QuickRef
 
@@ -440,7 +440,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -449,7 +449,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -478,7 +478,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumor&amp;ap
     guardian: 5 result(s)
   newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 1 result(s)
   newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 2 result(s)
@@ -509,6 +509,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 5-year and 3-month near-bottom levels with price just above support at 64.78 and below the 20-day average around 68.11 suggests a reasonable but not screaming entry; macro froth context is limited, and the short-term trend and MACD remain down with resistance close by near 68.21.&quot;, &quot;1.1&quot;: &quot;PayPal Holdings, Inc. provides electronic and mobile payment solutions for merchants and consumers, with a focus on online transactions. Its platform includes the PayPal branded wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods and send or 
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — trading near multi‑month and 5‑year near-bottom levels with price just above 7d/30d support at ~$64.78 and slightly below the 20‑day average around $68.11; macro froth visibility is limited but recent quick facts show the stock in the middle of overbought/oversold rather than in a bubble, suggesting a cautious, support‑anchored entry rather than aggressive buying.&quot;,&quot;1.1&quot;:&quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, primarily enabling online and digital transactions. Its core offerings include the PayPal-branded digital wallet, mercha
 </code></pre>
 </details>
