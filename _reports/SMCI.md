@@ -2,11 +2,11 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2026-01-05
-generated_at: 2026-01-05T20:26:08.767111+00:00
-runtime_seconds: 38.04
+date: 2026-01-10
+generated_at: 2026-01-10T10:20:45.304515+00:00
+runtime_seconds: 40.62
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-05T20:26:08.767111+00:00">2026-01-05 20:26 UTC</time> (runtime 38.04s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-10T10:20:45.304515+00:00">2026-01-10 10:20 UTC</time> (runtime 40.62s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock is near its 3‑month near-bottom and well above its 1‑year and 5‑year lows, but still in a confirmed downtrend with price ($32.19) below the 20‑day average (~$35.49) and key resistance (~$35.78); macro froth or bubble context is not provided, so broader sentiment risk visibility is limited.
+  0.1. **Long Entry?:** maybe — price is near 3‑month bottom and just above key support at $31.03 but still below the 20‑day moving average around $35–35.5; macro froth visibility is limited to sector anxiety headlines rather than clear bubble signs, and the short‑term trend and negative MACD indicate ongoing downside pressure.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer, Inc. designs and provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software. These turnkey systems are architected and validated for AI data centers using a modular, open-standard platform, and the business is reported as a single operating segment.
+  1.1. **Activities:** Super Micro Computer, Inc. designs and sells high‑performance server and storage systems, modular blade servers, workstations, full rack‑scale solutions, networking devices, and server sub‑systems. It provides turnkey, modular, open‑standard architecture solutions that are designed, developed, validated, and installed for AI data centers, cloud computing, data centers, high‑performance computing, and IoT/embedded markets. The company operates as a single segment focused on high‑performance server solutions.
   
-  1.2. **Profitable?:** yes — Super Micro is profitable, with positive cumulative net income of about $792.8M and a profit margin of 3.77%, although recent revenue and earnings growth rates are negative and free cash flow is slightly negative.
+  1.2. **Profitable?:** yes — the company is profitable, with positive net income totaling about $793M across recent periods and a profit margin of 3.8%, though free cash flow was slightly negative.
   
-  1.3. **Customer & Markets:** Super Micro serves enterprise data centers, cloud service providers, AI and high-performance computing customers, 5G/edge deployments, and embedded/IoT users through direct and indirect sales channels. Its primary geographic markets are the United States, which generates more than half of revenue, with the remainder coming from Europe, Asia, and other regions worldwide.
+  1.3. **Customer & Markets:** Super Micro primarily serves customers in cloud computing, data centers, high‑performance computing, AI datacenters, and Internet of Things/embedded markets that need high‑performance server and storage infrastructure. More than half of its revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, indicating a global enterprise and service provider customer base.
   
-  1.4. **Competition:** Super Micro's main competitors include Dell, Hewlett Packard Enterprise, Lenovo, and other server and infrastructure vendors, as well as broader tech peers like AMD, Nvidia, Intel, and Broadcom; in server and storage systems it holds roughly 10% market share versus Dell's mid‑40% share, making it a significant but not dominant player overall while being a leading specialist in AI servers.
+  1.4. **Competition:** Key competitors include server and infrastructure vendors such as Dell Technologies, Hewlett Packard Enterprise (HPE), and other large tech names like AMD, Nvidia, Intel, and Microsoft, which compete in adjacent compute and data center markets. As of Q3 2025, Super Micro held roughly 9.9–10.5% market share versus Dell's mid‑40% share and HP's mid‑20% share, placing it behind these incumbents but as a significant challenger in the computer hardware/server segment.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the price fell from about $53 resistance (30d) toward $32.19 with the 7d trend labeled 'down' and the stock trading below its 20‑day moving average.
+  2.1. **7d Trend?:** down — over the last week the price fell from about $30.16 to $32.19 but remains in a labeled downtrend, below the 20‑day moving average and closer to support than resistance.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent support area around $31.03 and prior local lows offered attractive entries, while selling into the 7‑day resistance zone around $35.78–$35.82 would have been favorable exit points.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent low and support around $31.03 appeared attractive per the suggested buy zone, while selling into the $35.78–35.82 area near recent local highs and resistance would have offered favorable exits. Levels closer to the 30‑day resistance at $53 were not revisited in this 7‑day window.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Super Micro appears to be a relatively stable, established technology company rather than a fly‑by‑night operation. It has over 30 years of innovation and operates as a global provider of application-optimized total IT solutions for AI, cloud, storage, and 5G/edge, with most revenue from the U.S. and diversified international exposure. The firm is consistently profitable at the net-income level, though recent revenue and earnings have contracted and free cash flow is slightly negative, indicating some pressure but not distress. Its inclusion in broader benchmarks like the S&P 500 (per company materials) and meaningful market share in server and storage systems further support its institutional status.
+  3.1. **Stability?:** Super Micro is a long‑established technology company, celebrated for 30 years of innovation and growth according to its corporate materials, and it now operates as a global provider of server and data‑center hardware. It generates the majority of its revenue in the U.S. but is also diversified across Europe, Asia, and other regions, reducing dependence on any single geography. Financially, it is profitable with positive operating cash flow, although free cash flow was slightly negative and revenue and earnings growth have recently declined, indicating some cyclical or investment‑driven pressure. The company also secured a $2 billion credit facility to bolster liquidity and expand AI manufacturing capacity, which supports its balance‑sheet flexibility. Overall, the combination of long operating history, global footprint, and ongoing access to credit points to a relatively stable institution rather than a fly‑by‑night operator.
   
-  3.2. **Innovating?:** It is innovating and growing, focusing on AI data centers, expanding NVIDIA Blackwell-based liquid-cooled solutions, and broadening AMD-based server lines, while also targeting larger customers and multi-quarter AI deployments. However, recent negative revenue and earnings growth indicate near-term growth volatility despite the longer-term expansion initiatives.
+  3.2. **Innovating?:** It is actively innovating and growing, expanding manufacturing capacity for NVIDIA's Vera Rubin AI platforms and offering turnkey solutions for AI data centers, cloud, and HPC. Recent commentary projects quarterly revenue potentially doubling to $10–11 billion, though margin compression from pricing competition with Dell shows growth is being pursued aggressively.
   
   ## 4. Context
   
-  4.1. **News:** Recent commentary notes that SMCI's sharp sell-off was driven more by sector-wide semiconductor and AI anxiety and tariff concerns than by collapsing demand, with management citing timing issues and expecting revenue to double in an upcoming quarter. Other coverage highlights SMCI as a high short-interest, undervalued AI infrastructure name that could rebound, and it continues to launch new NVIDIA Blackwell-based AI server solutions. This mix of negative price reaction to macro and tariff headlines versus positive internal demand signals exemplifies a potential 'buy the rumor' setup where fears may be over-discounted. So far, there is little indication of a classic 'sell the news' dynamic, as the stock remains pressured despite constructive business updates.
+  4.1. **News:** Recent coverage emphasizes that Super Micro's sharp sell‑off was driven largely by sector‑wide semiconductor and AI infrastructure anxieties and some revenue‑timing issues, rather than a collapse in underlying demand. Articles highlight that the company resolved governance and liquidity concerns with a new $2 billion credit facility and is expanding capacity for NVIDIA Vera Rubin AI platforms, with management signaling expectations for revenue to double in upcoming quarters. At the same time, there are notes of compressed profit margins due to price competition with Dell and references to prior liquidity and governance crises, which could temper overly bullish sentiment. In the context of "buy the rumor, sell the news," the data suggest much of the bad news (sell‑off, margin concerns, tariffs and sector fears) may already be reflected in the price, while the positive "Rubin rally" and capacity expansion narratives could become new rumors that fuel rebounds. However, the quick facts flag "Buy the rumor?" and "Sell the news?" as "no," implying that recent moves have not strictly followed that adage and that trading the stock purely on headlines may be risky.
   
-  4.2. **Tarrifs:** Tariffs have had a clearly negative impact on SMCI's stock, with multiple reports citing tariff-related uncertainty and supply-chain cost pressures contributing to sharp post-earnings sell-offs and increased volatility, although management says it is taking measures to mitigate the effects and views them as more short term.
+  4.2. **Tarrifs:** Tariffs have negatively impacted Super Micro's stock by increasing costs and contributing to investor uncertainty, with reports of tariff impacts weighing on earnings and being cited by management as a short‑term headwind; tariff‑related news has triggered notable share price drops and volatility in 2025.
   
   ## 5. QuickRef
   
@@ -237,7 +237,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -259,12 +259,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — the stock is near its 3‑month near-bottom and well above its 1‑year and 5‑year lows, but still in a confirmed downtrend with price ($32.19) below the 20‑day average (~$35.49) and key resistance (~$35.78); macro froth or bubble context is not provided, so broader sentiment risk visibility is limited.&quot;,&quot;1.1&quot;:&quot;Super Micro Computer, Inc. designs and provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full r
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is near 3‑month bottom and just above key support at $31.03 but still below the 20‑day moving average around $35–35.5; macro froth visibility is limited to sector anxiety headlines rather than clear bubble signs, and the short‑term trend and negative MACD indicate ongoing downside pressure.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and sells high‑performance server and storage systems, modular blade servers, workstations, full rack‑scale solutions, networking devices, and server sub‑systems. It provides turnkey, modular, open‑standard architecture solutions that are d
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-05T20:26:08.767111+00:00">2026-01-05 20:26 UTC</time> (runtime 38.04s)
+**Generated:** <time class="js-local-time" datetime="2026-01-10T10:20:45.304515+00:00">2026-01-10 10:20 UTC</time> (runtime 40.62s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
@@ -311,23 +311,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock is near its 3‑month near-bottom and well above its 1‑year and 5‑year lows, but still in a confirmed downtrend with price ($32.19) below the 20‑day average (~$35.49) and key resistance (~$35.78); macro froth or bubble context is not provided, so broader sentiment risk visibility is limited.
+0.1. **Long Entry?:** maybe — price is near 3‑month bottom and just above key support at $31.03 but still below the 20‑day moving average around $35–35.5; macro froth visibility is limited to sector anxiety headlines rather than clear bubble signs, and the short‑term trend and negative MACD indicate ongoing downside pressure.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer, Inc. designs and provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server sub-systems, and management software. These turnkey systems are architected and validated for AI data centers using a modular, open-standard platform, and the business is reported as a single operating segment.
+1.1. **Activities:** Super Micro Computer, Inc. designs and sells high‑performance server and storage systems, modular blade servers, workstations, full rack‑scale solutions, networking devices, and server sub‑systems. It provides turnkey, modular, open‑standard architecture solutions that are designed, developed, validated, and installed for AI data centers, cloud computing, data centers, high‑performance computing, and IoT/embedded markets. The company operates as a single segment focused on high‑performance server solutions.
 
-1.2. **Profitable?:** yes — Super Micro is profitable, with positive cumulative net income of about $792.8M and a profit margin of 3.77%, although recent revenue and earnings growth rates are negative and free cash flow is slightly negative.
+1.2. **Profitable?:** yes — the company is profitable, with positive net income totaling about $793M across recent periods and a profit margin of 3.8%, though free cash flow was slightly negative.
 
-1.3. **Customer & Markets:** Super Micro serves enterprise data centers, cloud service providers, AI and high-performance computing customers, 5G/edge deployments, and embedded/IoT users through direct and indirect sales channels. Its primary geographic markets are the United States, which generates more than half of revenue, with the remainder coming from Europe, Asia, and other regions worldwide.
+1.3. **Customer & Markets:** Super Micro primarily serves customers in cloud computing, data centers, high‑performance computing, AI datacenters, and Internet of Things/embedded markets that need high‑performance server and storage infrastructure. More than half of its revenue is generated in the United States, with the remainder coming from Europe, Asia, and other international regions, indicating a global enterprise and service provider customer base.
 
-1.4. **Competition:** Super Micro's main competitors include Dell, Hewlett Packard Enterprise, Lenovo, and other server and infrastructure vendors, as well as broader tech peers like AMD, Nvidia, Intel, and Broadcom; in server and storage systems it holds roughly 10% market share versus Dell's mid‑40% share, making it a significant but not dominant player overall while being a leading specialist in AI servers.
+1.4. **Competition:** Key competitors include server and infrastructure vendors such as Dell Technologies, Hewlett Packard Enterprise (HPE), and other large tech names like AMD, Nvidia, Intel, and Microsoft, which compete in adjacent compute and data center markets. As of Q3 2025, Super Micro held roughly 9.9–10.5% market share versus Dell's mid‑40% share and HP's mid‑20% share, placing it behind these incumbents but as a significant challenger in the computer hardware/server segment.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the price fell from about $53 resistance (30d) toward $32.19 with the 7d trend labeled 'down' and the stock trading below its 20‑day moving average.
+2.1. **7d Trend?:** down — over the last week the price fell from about $30.16 to $32.19 but remains in a labeled downtrend, below the 20‑day moving average and closer to support than resistance.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent support area around $31.03 and prior local lows offered attractive entries, while selling into the 7‑day resistance zone around $35.78–$35.82 would have been favorable exit points.
+2.2. **7d Buy/Sell Points?:** Buying near the recent low and support around $31.03 appeared attractive per the suggested buy zone, while selling into the $35.78–35.82 area near recent local highs and resistance would have offered favorable exits. Levels closer to the 30‑day resistance at $53 were not revisited in this 7‑day window.
 
 2.3.1. **7d Volume:** med
 
@@ -335,15 +335,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Super Micro appears to be a relatively stable, established technology company rather than a fly‑by‑night operation. It has over 30 years of innovation and operates as a global provider of application-optimized total IT solutions for AI, cloud, storage, and 5G/edge, with most revenue from the U.S. and diversified international exposure. The firm is consistently profitable at the net-income level, though recent revenue and earnings have contracted and free cash flow is slightly negative, indicating some pressure but not distress. Its inclusion in broader benchmarks like the S&P 500 (per company materials) and meaningful market share in server and storage systems further support its institutional status.
+3.1. **Stability?:** Super Micro is a long‑established technology company, celebrated for 30 years of innovation and growth according to its corporate materials, and it now operates as a global provider of server and data‑center hardware. It generates the majority of its revenue in the U.S. but is also diversified across Europe, Asia, and other regions, reducing dependence on any single geography. Financially, it is profitable with positive operating cash flow, although free cash flow was slightly negative and revenue and earnings growth have recently declined, indicating some cyclical or investment‑driven pressure. The company also secured a $2 billion credit facility to bolster liquidity and expand AI manufacturing capacity, which supports its balance‑sheet flexibility. Overall, the combination of long operating history, global footprint, and ongoing access to credit points to a relatively stable institution rather than a fly‑by‑night operator.
 
-3.2. **Innovating?:** It is innovating and growing, focusing on AI data centers, expanding NVIDIA Blackwell-based liquid-cooled solutions, and broadening AMD-based server lines, while also targeting larger customers and multi-quarter AI deployments. However, recent negative revenue and earnings growth indicate near-term growth volatility despite the longer-term expansion initiatives.
+3.2. **Innovating?:** It is actively innovating and growing, expanding manufacturing capacity for NVIDIA's Vera Rubin AI platforms and offering turnkey solutions for AI data centers, cloud, and HPC. Recent commentary projects quarterly revenue potentially doubling to $10–11 billion, though margin compression from pricing competition with Dell shows growth is being pursued aggressively.
 
 ## 4. Context
 
-4.1. **News:** Recent commentary notes that SMCI's sharp sell-off was driven more by sector-wide semiconductor and AI anxiety and tariff concerns than by collapsing demand, with management citing timing issues and expecting revenue to double in an upcoming quarter. Other coverage highlights SMCI as a high short-interest, undervalued AI infrastructure name that could rebound, and it continues to launch new NVIDIA Blackwell-based AI server solutions. This mix of negative price reaction to macro and tariff headlines versus positive internal demand signals exemplifies a potential 'buy the rumor' setup where fears may be over-discounted. So far, there is little indication of a classic 'sell the news' dynamic, as the stock remains pressured despite constructive business updates.
+4.1. **News:** Recent coverage emphasizes that Super Micro's sharp sell‑off was driven largely by sector‑wide semiconductor and AI infrastructure anxieties and some revenue‑timing issues, rather than a collapse in underlying demand. Articles highlight that the company resolved governance and liquidity concerns with a new $2 billion credit facility and is expanding capacity for NVIDIA Vera Rubin AI platforms, with management signaling expectations for revenue to double in upcoming quarters. At the same time, there are notes of compressed profit margins due to price competition with Dell and references to prior liquidity and governance crises, which could temper overly bullish sentiment. In the context of "buy the rumor, sell the news," the data suggest much of the bad news (sell‑off, margin concerns, tariffs and sector fears) may already be reflected in the price, while the positive "Rubin rally" and capacity expansion narratives could become new rumors that fuel rebounds. However, the quick facts flag "Buy the rumor?" and "Sell the news?" as "no," implying that recent moves have not strictly followed that adage and that trading the stock purely on headlines may be risky.
 
-4.2. **Tarrifs:** Tariffs have had a clearly negative impact on SMCI's stock, with multiple reports citing tariff-related uncertainty and supply-chain cost pressures contributing to sharp post-earnings sell-offs and increased volatility, although management says it is taking measures to mitigate the effects and views them as more short term.
+4.2. **Tarrifs:** Tariffs have negatively impacted Super Micro's stock by increasing costs and contributing to investor uncertainty, with reports of tariff impacts weighing on earnings and being cited by management as a short‑term headwind; tariff‑related news has triggered notable share price drops and volatility in 2025.
 
 ## 5. QuickRef
 
@@ -495,7 +495,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -517,6 +517,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — the stock is near its 3‑month near-bottom and well above its 1‑year and 5‑year lows, but still in a confirmed downtrend with price ($32.19) below the 20‑day average (~$35.49) and key resistance (~$35.78); macro froth or bubble context is not provided, so broader sentiment risk visibility is limited.&quot;,&quot;1.1&quot;:&quot;Super Micro Computer, Inc. designs and provides high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full r
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is near 3‑month bottom and just above key support at $31.03 but still below the 20‑day moving average around $35–35.5; macro froth visibility is limited to sector anxiety headlines rather than clear bubble signs, and the short‑term trend and negative MACD indicate ongoing downside pressure.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and sells high‑performance server and storage systems, modular blade servers, workstations, full rack‑scale solutions, networking devices, and server sub‑systems. It provides turnkey, modular, open‑standard architecture solutions that are d
 </code></pre>
 </details>
