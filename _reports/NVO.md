@@ -2,11 +2,11 @@
 layout: default
 title: "NVO Stock Report"
 ticker: "NVO"
-date: 2026-01-10
-generated_at: 2026-01-10T01:41:30.584196+00:00
-runtime_seconds: 30.45
+date: 2026-01-14
+generated_at: 2026-01-14T15:26:46.435023+00:00
+runtime_seconds: 33.68
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-10T01:41:30.584196+00:00">2026-01-10 01:41 UTC</time> (runtime 30.45s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-14T15:26:46.435023+00:00">2026-01-14 15:26 UTC</time> (runtime 33.68s)
   
   ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock trades near 1-year and 5-year lows but is tagged as overbought and is at short-term resistance around 49.7 versus support at 43.1; macro froth context is limited and price sits slightly below its 20-day average and below the recent 59-handle level, suggesting a better entry closer to support.
+  0.1. **Long Entry?:** no — shares are labeled overbought and sitting near short‑term resistance around $49.7 with price slightly below the 20‑day SMA/EMA; macro froth context is limited, and the stock trades near 1‑ and 5‑year lows but the quick facts flag 'Sell the news?' as yes and 'Buy the dip?' as no.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP-1 injectable therapies, oral antidiabetic agents, and obesity treatments. The company also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders.
+  1.1. **Activities:** Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP‑1 injectable therapies, oral antidiabetic agents, and obesity treatments. The company also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders.
   
-  1.2. **Profitable?:** yes — Novo Nordisk is clearly profitable, with a profit margin of about 32.9%, consistently positive net income over the last four periods, and strong free cash flow.
+  1.2. **Profitable?:** yes — the company is highly profitable, with consistently positive net income totaling about $103.8B over recent periods, a profit margin of roughly 32.9%, and strong free cash flow.
   
-  1.3. **Customer & Markets:** Novo Nordisk's primary customers are patients with diabetes, obesity, hemophilia, and related metabolic or rare diseases, served through healthcare professionals, hospitals, and pharmacies. It operates globally with major exposure to diabetes and obesity care markets, leveraging its large share of the GLP-1 segment and broad geographic reach from its Danish base.
+  1.3. **Customer & Markets:** Novo Nordisk's primary customers are patients with diabetes, obesity, hemophilia, and related endocrine or rare diseases, reached mainly through healthcare providers and payers. Its markets are global, with a leading position in the worldwide branded diabetes treatment market and growing presence in chronic weight management. The business is organized around Diabetes and Obesity Care and Rare Disease segments serving healthcare systems across multiple regions.
   
-  1.4. **Competition:** Key competitors include large drug manufacturers such as Novartis, AstraZeneca, Pfizer, Sanofi, Amgen, Eli Lilly and others active in diabetes and obesity care; Novo Nordisk is a global market leader in GLP-1 with a 55.1% value share and is one of the top players overall in diabetes and obesity treatments.
+  1.4. **Competition:** Key competitors include large pharmaceutical and metabolic disease players such as Eli Lilly, Novartis, AstraZeneca, Sanofi, Pfizer, Amgen, and others in obesity and diabetes care. Novo Nordisk holds a leading share in branded diabetes treatments but faces intensifying competition in GLP‑1 weight‑loss drugs, with Eli Lilly highlighted as a major rival.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close at 49.35 is pressing against short-term resistance at 49.71 after rising from support near 43.08.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of about $49.35 is pressing against recent resistance near $49.71.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, approaches toward the 7d support around 43.08 would have been attractive buy levels, while prices near the 7d/30d resistance band around 49.7–50.4 offered good short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy zone was around support at $43.08, while prices approaching the 7‑day resistance near $49.71 offered favorable short‑term selling or trimming levels. The current close near $49.35 is closer to the suggested sell than buy zone.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Novo Nordisk appears to be a very stable institution rather than a fly-by-night company, with a dominant global position in diabetes care and roughly one-third of the branded diabetes treatment market. It operates in large, chronic disease categories such as diabetes and obesity, which typically provide recurring demand. Financially, it shows strong profitability with a ~33% profit margin, robust operating cash flow (~$124B) and substantial free cash flow (~$34.5B) over the measured period. Its Danish headquarters and extensive global operations further support its profile as an established, durable healthcare company.
+  3.1. **Stability?:** Novo Nordisk appears to be a very stable institution: it is a long‑established Danish healthcare company with a dominant share of the global branded diabetes market. Financially it shows strong profitability, with high cumulative net income, solid profit margins, and substantial free and operating cash flow. Its business is diversified across diabetes, obesity, and rare disease treatments, with global reach. These factors indicate a durable, well‑capitalized pharma leader rather than a speculative or fly‑by‑night operator.
   
-  3.2. **Innovating?:** Novo Nordisk is innovating and growing, as evidenced by its leadership in the GLP-1 segment for diabetes and obesity with a 55.1% value market share and ongoing R&D pipeline in protein therapies and related treatments. Recent revenue growth of about 5.1% and a strategic focus on obesity and metabolic diseases support a growth and innovation narrative rather than a stale business.
+  3.2. **Innovating?:** It is clearly innovating and growing, as shown by its leadership in GLP‑1 therapies and the recent FDA‑approved launch of the oral Wegovy pill in January 2026. Partnerships such as integration with telehealth platform Ro.co to distribute Wegovy further support ongoing growth efforts.
   
   ## 4. Context
   
-  4.1. **News:** Recent news flow in the supplied data is mostly sectoral rather than company-specific, including updates on Ascendis Pharma's roadmap, new obesity-treatment biotechs like Alveus Therapeutics, and consumer analyses of GLP-1 weight-loss options mentioning Wegovy (a Novo product). This context underscores strong enthusiasm around obesity and metabolic drugs, which can fuel expectations ('rumor') ahead of concrete Novo-specific catalysts like new approvals or launches. Quick facts indicate 'Sell the news? yes', implying that when positive Novo headlines such as an oral Wegovy pill launch hit, some investors may lock in gains. For now, without fresh NVO-specific headlines in this dataset, much of the price action likely reflects ongoing sentiment around the GLP-1/obesity theme rather than a single discrete news event.
+  4.1. **News:** Recent news centers on GLP‑1 weight‑loss drugs: the FDA's preliminary review found no clear link between these drugs and suicidal thoughts, which reduces a key safety overhang for products like Wegovy. Novo Nordisk just launched an oral Wegovy pill in January 2026, expanding its obesity franchise and distribution via Ro.co's telehealth platform. Competitive dynamics remain intense, as seen in Eli Lilly's stock volatility and its Ventyx acquisition aimed at complementing its own weight‑loss portfolio. Given quick facts flagging 'Sell the news?' as yes, positive regulatory and product launch headlines may already be priced in, making post‑news rallies vulnerable to profit‑taking.
   
-  4.2. **Tarrifs:** Tariffs pose a recognized political and pricing risk for Novo Nordisk, with analyses noting that potential US drug price normalization and pharmaceutical tariffs could significantly impact profitability, even as company leadership has at times downplayed near-term concern. Overall, tariff headlines have introduced uncertainty and contributed to periods of stock weakness, but the immediate, quantified impact on NVO's price is not clearly specified in the provided data.
+  4.2. **Tarrifs:** Political and trade risks around US tariffs on pharmaceuticals are cited as potentially significant for Novo Nordisk's profitability, but company commentary suggests management is not highly worried in the near term. Overall, tariffs are a recognized risk factor that could pressure margins, yet concrete stock price impact so far appears limited according to the referenced tariff‑risk analysis and management remarks.
   
   ## 5. QuickRef
   
@@ -114,11 +114,11 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: profit outlook, tariff, latest news, tariffs</li>
-  <li>The Guardian: business model, market expansion, competitive landscape, rumor</li>
+  <li>NewsAPI: profit outlook, tariff, tariffs</li>
+  <li>The Guardian: business model, market expansion, competitive landscape, rumor, latest news</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -163,6 +163,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NVO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
+  Filtered 2 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; NVO core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+core+business&amp;num=5
@@ -227,10 +228,14 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; NVO tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
     newsapi search -&gt; NVO latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; NVO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -258,12 +263,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 1-year and 5-year lows but is tagged as overbought and is at short-term resistance around 49.7 versus support at 43.1; macro froth context is limited and price sits slightly below its 20-day average and below the recent 59-handle level, suggesting a better entry closer to support.&quot;, &quot;1.1&quot;: &quot;Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP-1 injectable therapies, oral antidiabetic 
+  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;no — shares are labeled overbought and sitting near short‑term resistance around $49.7 with price slightly below the 20‑day SMA/EMA; macro froth context is limited, and the stock trades near 1‑ and 5‑year lows but the quick facts flag ‘Sell the news?’ as yes and ‘Buy the dip?’ as no.&quot;,\n  &quot;1.1&quot;: &quot;Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP‑1 injectable therapies, oral antidiabetic agents, and obesity 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-10T01:41:30.584196+00:00">2026-01-10 01:41 UTC</time> (runtime 30.45s)
+**Generated:** <time class="js-local-time" datetime="2026-01-14T15:26:46.435023+00:00">2026-01-14 15:26 UTC</time> (runtime 33.68s)
 
 ![Novo-Nordisk A/S logo](https://ryness.github.io/stonks/assets/logos/NVO.svg)
 
@@ -310,23 +315,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock trades near 1-year and 5-year lows but is tagged as overbought and is at short-term resistance around 49.7 versus support at 43.1; macro froth context is limited and price sits slightly below its 20-day average and below the recent 59-handle level, suggesting a better entry closer to support.
+0.1. **Long Entry?:** no — shares are labeled overbought and sitting near short‑term resistance around $49.7 with price slightly below the 20‑day SMA/EMA; macro froth context is limited, and the stock trades near 1‑ and 5‑year lows but the quick facts flag 'Sell the news?' as yes and 'Buy the dip?' as no.
 
 ## 1. The Biz
 
-1.1. **Activities:** Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP-1 injectable therapies, oral antidiabetic agents, and obesity treatments. The company also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders.
+1.1. **Activities:** Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP‑1 injectable therapies, oral antidiabetic agents, and obesity treatments. The company also has a smaller biopharmaceutical segment focused on protein therapies for hemophilia and other rare disorders.
 
-1.2. **Profitable?:** yes — Novo Nordisk is clearly profitable, with a profit margin of about 32.9%, consistently positive net income over the last four periods, and strong free cash flow.
+1.2. **Profitable?:** yes — the company is highly profitable, with consistently positive net income totaling about $103.8B over recent periods, a profit margin of roughly 32.9%, and strong free cash flow.
 
-1.3. **Customer & Markets:** Novo Nordisk's primary customers are patients with diabetes, obesity, hemophilia, and related metabolic or rare diseases, served through healthcare professionals, hospitals, and pharmacies. It operates globally with major exposure to diabetes and obesity care markets, leveraging its large share of the GLP-1 segment and broad geographic reach from its Danish base.
+1.3. **Customer & Markets:** Novo Nordisk's primary customers are patients with diabetes, obesity, hemophilia, and related endocrine or rare diseases, reached mainly through healthcare providers and payers. Its markets are global, with a leading position in the worldwide branded diabetes treatment market and growing presence in chronic weight management. The business is organized around Diabetes and Obesity Care and Rare Disease segments serving healthcare systems across multiple regions.
 
-1.4. **Competition:** Key competitors include large drug manufacturers such as Novartis, AstraZeneca, Pfizer, Sanofi, Amgen, Eli Lilly and others active in diabetes and obesity care; Novo Nordisk is a global market leader in GLP-1 with a 55.1% value share and is one of the top players overall in diabetes and obesity treatments.
+1.4. **Competition:** Key competitors include large pharmaceutical and metabolic disease players such as Eli Lilly, Novartis, AstraZeneca, Sanofi, Pfizer, Amgen, and others in obesity and diabetes care. Novo Nordisk holds a leading share in branded diabetes treatments but faces intensifying competition in GLP‑1 weight‑loss drugs, with Eli Lilly highlighted as a major rival.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close at 49.35 is pressing against short-term resistance at 49.71 after rising from support near 43.08.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of about $49.35 is pressing against recent resistance near $49.71.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, approaches toward the 7d support around 43.08 would have been attractive buy levels, while prices near the 7d/30d resistance band around 49.7–50.4 offered good short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy zone was around support at $43.08, while prices approaching the 7‑day resistance near $49.71 offered favorable short‑term selling or trimming levels. The current close near $49.35 is closer to the suggested sell than buy zone.
 
 2.3.1. **7d Volume:** low
 
@@ -334,15 +339,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Novo Nordisk appears to be a very stable institution rather than a fly-by-night company, with a dominant global position in diabetes care and roughly one-third of the branded diabetes treatment market. It operates in large, chronic disease categories such as diabetes and obesity, which typically provide recurring demand. Financially, it shows strong profitability with a ~33% profit margin, robust operating cash flow (~$124B) and substantial free cash flow (~$34.5B) over the measured period. Its Danish headquarters and extensive global operations further support its profile as an established, durable healthcare company.
+3.1. **Stability?:** Novo Nordisk appears to be a very stable institution: it is a long‑established Danish healthcare company with a dominant share of the global branded diabetes market. Financially it shows strong profitability, with high cumulative net income, solid profit margins, and substantial free and operating cash flow. Its business is diversified across diabetes, obesity, and rare disease treatments, with global reach. These factors indicate a durable, well‑capitalized pharma leader rather than a speculative or fly‑by‑night operator.
 
-3.2. **Innovating?:** Novo Nordisk is innovating and growing, as evidenced by its leadership in the GLP-1 segment for diabetes and obesity with a 55.1% value market share and ongoing R&D pipeline in protein therapies and related treatments. Recent revenue growth of about 5.1% and a strategic focus on obesity and metabolic diseases support a growth and innovation narrative rather than a stale business.
+3.2. **Innovating?:** It is clearly innovating and growing, as shown by its leadership in GLP‑1 therapies and the recent FDA‑approved launch of the oral Wegovy pill in January 2026. Partnerships such as integration with telehealth platform Ro.co to distribute Wegovy further support ongoing growth efforts.
 
 ## 4. Context
 
-4.1. **News:** Recent news flow in the supplied data is mostly sectoral rather than company-specific, including updates on Ascendis Pharma's roadmap, new obesity-treatment biotechs like Alveus Therapeutics, and consumer analyses of GLP-1 weight-loss options mentioning Wegovy (a Novo product). This context underscores strong enthusiasm around obesity and metabolic drugs, which can fuel expectations ('rumor') ahead of concrete Novo-specific catalysts like new approvals or launches. Quick facts indicate 'Sell the news? yes', implying that when positive Novo headlines such as an oral Wegovy pill launch hit, some investors may lock in gains. For now, without fresh NVO-specific headlines in this dataset, much of the price action likely reflects ongoing sentiment around the GLP-1/obesity theme rather than a single discrete news event.
+4.1. **News:** Recent news centers on GLP‑1 weight‑loss drugs: the FDA's preliminary review found no clear link between these drugs and suicidal thoughts, which reduces a key safety overhang for products like Wegovy. Novo Nordisk just launched an oral Wegovy pill in January 2026, expanding its obesity franchise and distribution via Ro.co's telehealth platform. Competitive dynamics remain intense, as seen in Eli Lilly's stock volatility and its Ventyx acquisition aimed at complementing its own weight‑loss portfolio. Given quick facts flagging 'Sell the news?' as yes, positive regulatory and product launch headlines may already be priced in, making post‑news rallies vulnerable to profit‑taking.
 
-4.2. **Tarrifs:** Tariffs pose a recognized political and pricing risk for Novo Nordisk, with analyses noting that potential US drug price normalization and pharmaceutical tariffs could significantly impact profitability, even as company leadership has at times downplayed near-term concern. Overall, tariff headlines have introduced uncertainty and contributed to periods of stock weakness, but the immediate, quantified impact on NVO's price is not clearly specified in the provided data.
+4.2. **Tarrifs:** Political and trade risks around US tariffs on pharmaceuticals are cited as potentially significant for Novo Nordisk's profitability, but company commentary suggests management is not highly worried in the near term. Overall, tariffs are a recognized risk factor that could pressure margins, yet concrete stock price impact so far appears limited according to the referenced tariff‑risk analysis and management remarks.
 
 ## 5. QuickRef
 
@@ -371,11 +376,11 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: profit outlook, tariff, latest news, tariffs</li>
-<li>The Guardian: business model, market expansion, competitive landscape, rumor</li>
+<li>NewsAPI: profit outlook, tariff, tariffs</li>
+<li>The Guardian: business model, market expansion, competitive landscape, rumor, latest news</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -420,6 +425,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=NVO&amp;limit
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NVO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
+Filtered 2 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; NVO core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+core+business&amp;num=5
@@ -484,10 +490,14 @@ Guardian search: GET https://content.guardianapis.com/search?q=NVO+rumor&amp;api
     guardian: 5 result(s)
   newsapi search -&gt; NVO tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
   newsapi search -&gt; NVO latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=NVO+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NVO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; NVO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVO+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -515,6 +525,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 1-year and 5-year lows but is tagged as overbought and is at short-term resistance around 49.7 versus support at 43.1; macro froth context is limited and price sits slightly below its 20-day average and below the recent 59-handle level, suggesting a better entry closer to support.&quot;, &quot;1.1&quot;: &quot;Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP-1 injectable therapies, oral antidiabetic 
+LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;no — shares are labeled overbought and sitting near short‑term resistance around $49.7 with price slightly below the 20‑day SMA/EMA; macro froth context is limited, and the stock trades near 1‑ and 5‑year lows but the quick facts flag ‘Sell the news?’ as yes and ‘Buy the dip?’ as no.&quot;,\n  &quot;1.1&quot;: &quot;Novo Nordisk is a global healthcare company and the leading provider of diabetes care products, with roughly one-third of the global branded diabetes treatment market. It manufactures and markets human and modern insulins, GLP‑1 injectable therapies, oral antidiabetic agents, and obesity 
 </code></pre>
 </details>
