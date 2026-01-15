@@ -2,11 +2,11 @@
 layout: default
 title: "RGTI Stock Report"
 ticker: "RGTI"
-date: 2026-01-10
-generated_at: 2026-01-10T15:20:14.489382+00:00
-runtime_seconds: 33.21
+date: 2026-01-15
+generated_at: 2026-01-15T05:26:54.079014+00:00
+runtime_seconds: 45.29
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-10T15:20:14.489382+00:00">2026-01-10 15:20 UTC</time> (runtime 33.21s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-15T05:26:54.079014+00:00">2026-01-15 05:26 UTC</time> (runtime 45.29s)
   
   ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
   
@@ -51,23 +51,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sits just above near-term support around 23.64 and the 30d support at 21.00, but still below its 20-day average (25.15), SMA (27.47) and EMA (26.65); macro froth visibility is limited, though prior 1,100%+ rallies and meme-stock labeling suggest elevated bubble risk in quantum computing names.
+  0.1. **Long Entry?:** maybe — shares are in the middle of their 1y/5y range and recently ran ~300% off lows, implying some speculative froth but not clear macro bubble data; price is drifting in a short-term downtrend just above 7d/30d support (~23.6/21) and slightly below 20/26.5-day averages and 7d resistance (~26.8), so entries closer to support look more favorable than at current levels.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company that builds superconducting quantum processors and delivers access to them over the cloud. It offers its Rigetti QCS quantum-classical platform as a service directly and via major cloud providers, providing low-latency integration with public and private clouds. The company has developed multi-chip quantum processors aimed at scalable, high-performance quantum systems.
+  1.1. **Activities:** Rigetti Computing builds and operates full-stack quantum computers, focusing on superconducting qubit processors and tightly integrated quantum-classical infrastructure. It delivers access to its quantum systems as a cloud service via its own Rigetti QCS platform and through major cloud providers. The company also develops multi-chip quantum processors aimed at scalable, high-performance quantum computing.
   
-  1.2. **Profitable?:** no — Rigetti is not profitable, with a cumulative net income of about -$351M, recent annual net losses (e.g., -$200.97M and -$152.96M), zero reported profit margin, and negative free and operating cash flow.
+  1.2. **Profitable?:** no — Rigetti is not profitable, with cumulative net income over the provided periods of about -$351M, negative operating and free cash flow, and a reported profit margin of 0%.
   
-  1.3. **Customer & Markets:** Rigetti's customers access its quantum computing capabilities via cloud services, including through the Rigetti QCS platform and third-party cloud providers, with a significant portion of revenue derived from the United States. External sources indicate much of its business is funded by U.S. taxpayers and government-related programs, with commercial adoption still emerging. Its markets span users in research, business services, and other sectors experimenting with quantum applications.
+  1.3. **Customer & Markets:** Rigetti's primary customers are organizations accessing its quantum computing capabilities via the cloud, including U.S. government and taxpayer-funded programs as well as commercial users across sectors like finance and healthcare. The company generates most of its revenue in the United States and participates in the broader cloud computing and data analytics market segment. Retail investors also represent an influential market segment for its stock but are not core operating customers.
   
-  1.4. **Competition:** Rigetti competes with large technology firms and dedicated quantum players, including Alphabet/Google, IBM, Microsoft, Nvidia, IonQ, and Quantum Computing Inc. These larger companies are generally seen as leading the field, while Rigetti is a smaller, specialized competitor within the quantum computing niche.
+  1.4. **Competition:** Rigetti competes with dedicated quantum players such as IonQ (IONQ), Quantum Computing Inc. (QUBT), and D-Wave, as well as large technology firms including IBM, Google/Alphabet, Microsoft, and NVIDIA that are investing heavily in quantum. It remains a smaller specialist player relative to these large incumbents, with its market position influenced by rapid advances from these rivals.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the quick facts flag a 7d downtrend and the stock has traded below its 7d resistance at 26.78 while drifting toward support around 23.64.
+  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and price has pulled back from a 7d resistance near 26.78 toward support around 23.64.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the suggested buy zone around 21.00 and the 7d support near 23.64 would have been better entries. Approaches to the 7d resistance and recent local high around 26.78 offered more favorable short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** Over the last week, buying near the identified support zone around $23.6–$21 (recent local low $21) offered better risk-reward. Selling or trimming near the 7d resistance and local high around $26.78 appears to have been an attractive exit area.
   
   2.3.1. **7d Volume:** low
   
@@ -75,15 +75,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Rigetti is a U.S.-based technology company listed on Nasdaq with inclusion in indices like the Russell 3000, indicating institutional recognition rather than a fly-by-night operation. However, its financial profile is still early-stage: it has accumulated net losses of roughly $351M, negative free cash flow, and negative operating cash flow. The company derives most of its revenue from the United States and has attracted significant funding, but profitability remains distant and revenue recently declined 18.1%. Overall, Rigetti is a real but financially fragile innovator rather than a mature, financially stable institution.
+  3.1. **Stability?:** Rigetti is a small but established technology company focused on quantum computing rather than a short-lived shell, with inclusion in indices like the Russell 3000 indicating institutional recognition. However, its financial profile is risky: it has accumulated roughly -$351M in losses across the provided periods, negative operating cash flow (-$52M) and negative free cash flow (~-$39.6M). The company's revenue growth is currently negative (-18.1%), and profitability metrics such as profit margin are 0%. Overall, Rigetti is operationally real but financially fragile, relying on external capital and future growth rather than a stable, self-funding balance sheet.
   
-  3.2. **Innovating?:** Rigetti is clearly innovating and growing its technology base, as shown by its development of a 108-qubit Cepheus-1 system and achieving up to 99.7% gate fidelities on smaller systems. At the same time, delays in the general availability of the 108-qubit system to around the end of Q1 2026 highlight execution risk rather than staleness.
+  3.2. **Innovating?:** Rigetti appears to be innovating and growing technologically, as shown by development of multi-chip quantum processors and advancing gate fidelities across 9-, 36-, and 108-qubit systems. However, revenue contraction and ongoing losses indicate that commercial and financial growth are lagging the pace of technical progress.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on Rigetti's update that general availability of its 108-qubit Cepheus-1-108Q system is delayed to around the end of Q1 2026 due to additional testing and tunable coupler complexities. The company emphasized technical progress, reporting around 99% fidelity on the 108-qubit system and higher fidelities on smaller systems, which may support long-term optimism. There is no explicit evidence in the supplied data of a speculative rumor run-up immediately preceding this announcement, and the quick facts say neither "buy the rumor" nor "sell the news" is currently indicated. In this context, the delay could temper near-term enthusiasm while the strong technical gains may underpin longer-term narrative rather than a classic buy-the-rumor, sell-the-news pattern.
+  4.1. **News:** Recent news highlights a delay in general availability of Rigetti's 108-qubit Cepheus-1-108Q system to around the end of Q1 2026, as additional testing is needed to meet a 99.5% two-qubit gate fidelity target. At the same time, the company reports strong technical progress, with 99% fidelity on the 108-qubit system and even higher on 9- and 36-qubit systems, which can fuel optimism and quantum computing hype. Broader coverage notes that quantum-related conferences, hardware updates, and index inclusions have driven significant share price gains, framing RGTI as a volatile, rumor-sensitive stock. In this context, incremental roadmap news can trigger "buy the rumor, sell the news" dynamics, where strong rallies into events are followed by pullbacks when delays or realistic milestones are disclosed.
   
-  4.2. **Tarrifs:** Tariff-related headlines show that quantum computing stocks including Rigetti have traded lower on days when Trump-era tariffs or broader tariff worries hit tech, indicating that tariffs can pressure the stock via macro sentiment and potential supply chain or manufacturing concerns. However, one report notes RGTI is not expected to be directly impacted by tariffs, suggesting the effect is mainly indirect through overall market and sector risk rather than company-specific fundamentals.
+  4.2. **Tarrifs:** Tariff-related articles indicate that while Rigetti is not expected to be directly impacted by tariffs on goods like autos or China-based manufacturing, quantum-computing stocks including RGTI have experienced added volatility and occasional declines when broader tariff headlines hit risk assets, so the effect has mainly been indirect through market sentiment rather than company-specific fundamentals.
   
   ## 5. QuickRef
   
@@ -115,8 +115,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, market expansion</li>
-  <li>The Guardian: profit outlook, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>NewsAPI: market expansion</li>
+  <li>The Guardian: business model, profit outlook, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -171,7 +171,11 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; RGTI business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=RGTI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=RGTI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; RGTI profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -265,12 +269,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 7d downtrend and sits just above near-term support around 23.64 and the 30d support at 21.00, but still below its 20-day average (25.15), SMA (27.47) and EMA (26.65); macro froth visibility is limited, though prior 1,100%+ rallies and meme-stock labeling suggest elevated bubble risk in quantum computing names.&quot;,\n  &quot;1.1&quot;: &quot;Rigetti Computing is a full-stack quantum computing company that builds superconducting quantum processors and delivers access to them over the cloud. It offers its Rigetti QCS quantum-classical platform as a service directly and via major 
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in the middle of their 1y/5y range and recently ran ~300% off lows, implying some speculative froth but not clear macro bubble data; price is drifting in a short-term downtrend just above 7d/30d support (~23.6/21) and slightly below 20/26.5-day averages and 7d resistance (~26.8), so entries closer to support look more favorable than at current levels.&quot;,&quot;1.1&quot;:&quot;Rigetti Computing builds and operates full-stack quantum computers, focusing on superconducting qubit processors and tightly integrated quantum-classical infrastructure. It delivers access to its quantum systems
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-10T15:20:14.489382+00:00">2026-01-10 15:20 UTC</time> (runtime 33.21s)
+**Generated:** <time class="js-local-time" datetime="2026-01-15T05:26:54.079014+00:00">2026-01-15 05:26 UTC</time> (runtime 45.29s)
 
 ![Rigetti Computing, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/RGTI.svg)
 
@@ -315,23 +319,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in a 7d downtrend and sits just above near-term support around 23.64 and the 30d support at 21.00, but still below its 20-day average (25.15), SMA (27.47) and EMA (26.65); macro froth visibility is limited, though prior 1,100%+ rallies and meme-stock labeling suggest elevated bubble risk in quantum computing names.
+0.1. **Long Entry?:** maybe — shares are in the middle of their 1y/5y range and recently ran ~300% off lows, implying some speculative froth but not clear macro bubble data; price is drifting in a short-term downtrend just above 7d/30d support (~23.6/21) and slightly below 20/26.5-day averages and 7d resistance (~26.8), so entries closer to support look more favorable than at current levels.
 
 ## 1. The Biz
 
-1.1. **Activities:** Rigetti Computing is a full-stack quantum computing company that builds superconducting quantum processors and delivers access to them over the cloud. It offers its Rigetti QCS quantum-classical platform as a service directly and via major cloud providers, providing low-latency integration with public and private clouds. The company has developed multi-chip quantum processors aimed at scalable, high-performance quantum systems.
+1.1. **Activities:** Rigetti Computing builds and operates full-stack quantum computers, focusing on superconducting qubit processors and tightly integrated quantum-classical infrastructure. It delivers access to its quantum systems as a cloud service via its own Rigetti QCS platform and through major cloud providers. The company also develops multi-chip quantum processors aimed at scalable, high-performance quantum computing.
 
-1.2. **Profitable?:** no — Rigetti is not profitable, with a cumulative net income of about -$351M, recent annual net losses (e.g., -$200.97M and -$152.96M), zero reported profit margin, and negative free and operating cash flow.
+1.2. **Profitable?:** no — Rigetti is not profitable, with cumulative net income over the provided periods of about -$351M, negative operating and free cash flow, and a reported profit margin of 0%.
 
-1.3. **Customer & Markets:** Rigetti's customers access its quantum computing capabilities via cloud services, including through the Rigetti QCS platform and third-party cloud providers, with a significant portion of revenue derived from the United States. External sources indicate much of its business is funded by U.S. taxpayers and government-related programs, with commercial adoption still emerging. Its markets span users in research, business services, and other sectors experimenting with quantum applications.
+1.3. **Customer & Markets:** Rigetti's primary customers are organizations accessing its quantum computing capabilities via the cloud, including U.S. government and taxpayer-funded programs as well as commercial users across sectors like finance and healthcare. The company generates most of its revenue in the United States and participates in the broader cloud computing and data analytics market segment. Retail investors also represent an influential market segment for its stock but are not core operating customers.
 
-1.4. **Competition:** Rigetti competes with large technology firms and dedicated quantum players, including Alphabet/Google, IBM, Microsoft, Nvidia, IonQ, and Quantum Computing Inc. These larger companies are generally seen as leading the field, while Rigetti is a smaller, specialized competitor within the quantum computing niche.
+1.4. **Competition:** Rigetti competes with dedicated quantum players such as IonQ (IONQ), Quantum Computing Inc. (QUBT), and D-Wave, as well as large technology firms including IBM, Google/Alphabet, Microsoft, and NVIDIA that are investing heavily in quantum. It remains a smaller specialist player relative to these large incumbents, with its market position influenced by rapid advances from these rivals.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the quick facts flag a 7d downtrend and the stock has traded below its 7d resistance at 26.78 while drifting toward support around 23.64.
+2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and price has pulled back from a 7d resistance near 26.78 toward support around 23.64.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the suggested buy zone around 21.00 and the 7d support near 23.64 would have been better entries. Approaches to the 7d resistance and recent local high around 26.78 offered more favorable short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** Over the last week, buying near the identified support zone around $23.6–$21 (recent local low $21) offered better risk-reward. Selling or trimming near the 7d resistance and local high around $26.78 appears to have been an attractive exit area.
 
 2.3.1. **7d Volume:** low
 
@@ -339,15 +343,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Rigetti is a U.S.-based technology company listed on Nasdaq with inclusion in indices like the Russell 3000, indicating institutional recognition rather than a fly-by-night operation. However, its financial profile is still early-stage: it has accumulated net losses of roughly $351M, negative free cash flow, and negative operating cash flow. The company derives most of its revenue from the United States and has attracted significant funding, but profitability remains distant and revenue recently declined 18.1%. Overall, Rigetti is a real but financially fragile innovator rather than a mature, financially stable institution.
+3.1. **Stability?:** Rigetti is a small but established technology company focused on quantum computing rather than a short-lived shell, with inclusion in indices like the Russell 3000 indicating institutional recognition. However, its financial profile is risky: it has accumulated roughly -$351M in losses across the provided periods, negative operating cash flow (-$52M) and negative free cash flow (~-$39.6M). The company's revenue growth is currently negative (-18.1%), and profitability metrics such as profit margin are 0%. Overall, Rigetti is operationally real but financially fragile, relying on external capital and future growth rather than a stable, self-funding balance sheet.
 
-3.2. **Innovating?:** Rigetti is clearly innovating and growing its technology base, as shown by its development of a 108-qubit Cepheus-1 system and achieving up to 99.7% gate fidelities on smaller systems. At the same time, delays in the general availability of the 108-qubit system to around the end of Q1 2026 highlight execution risk rather than staleness.
+3.2. **Innovating?:** Rigetti appears to be innovating and growing technologically, as shown by development of multi-chip quantum processors and advancing gate fidelities across 9-, 36-, and 108-qubit systems. However, revenue contraction and ongoing losses indicate that commercial and financial growth are lagging the pace of technical progress.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on Rigetti's update that general availability of its 108-qubit Cepheus-1-108Q system is delayed to around the end of Q1 2026 due to additional testing and tunable coupler complexities. The company emphasized technical progress, reporting around 99% fidelity on the 108-qubit system and higher fidelities on smaller systems, which may support long-term optimism. There is no explicit evidence in the supplied data of a speculative rumor run-up immediately preceding this announcement, and the quick facts say neither "buy the rumor" nor "sell the news" is currently indicated. In this context, the delay could temper near-term enthusiasm while the strong technical gains may underpin longer-term narrative rather than a classic buy-the-rumor, sell-the-news pattern.
+4.1. **News:** Recent news highlights a delay in general availability of Rigetti's 108-qubit Cepheus-1-108Q system to around the end of Q1 2026, as additional testing is needed to meet a 99.5% two-qubit gate fidelity target. At the same time, the company reports strong technical progress, with 99% fidelity on the 108-qubit system and even higher on 9- and 36-qubit systems, which can fuel optimism and quantum computing hype. Broader coverage notes that quantum-related conferences, hardware updates, and index inclusions have driven significant share price gains, framing RGTI as a volatile, rumor-sensitive stock. In this context, incremental roadmap news can trigger "buy the rumor, sell the news" dynamics, where strong rallies into events are followed by pullbacks when delays or realistic milestones are disclosed.
 
-4.2. **Tarrifs:** Tariff-related headlines show that quantum computing stocks including Rigetti have traded lower on days when Trump-era tariffs or broader tariff worries hit tech, indicating that tariffs can pressure the stock via macro sentiment and potential supply chain or manufacturing concerns. However, one report notes RGTI is not expected to be directly impacted by tariffs, suggesting the effect is mainly indirect through overall market and sector risk rather than company-specific fundamentals.
+4.2. **Tarrifs:** Tariff-related articles indicate that while Rigetti is not expected to be directly impacted by tariffs on goods like autos or China-based manufacturing, quantum-computing stocks including RGTI have experienced added volatility and occasional declines when broader tariff headlines hit risk assets, so the effect has mainly been indirect through market sentiment rather than company-specific fundamentals.
 
 ## 5. QuickRef
 
@@ -379,8 +383,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, market expansion</li>
-<li>The Guardian: profit outlook, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>NewsAPI: market expansion</li>
+<li>The Guardian: business model, profit outlook, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -435,7 +439,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; RGTI business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=RGTI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=RGTI+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=RGTI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; RGTI profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=RGTI+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -529,6 +537,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — price is in a 7d downtrend and sits just above near-term support around 23.64 and the 30d support at 21.00, but still below its 20-day average (25.15), SMA (27.47) and EMA (26.65); macro froth visibility is limited, though prior 1,100%+ rallies and meme-stock labeling suggest elevated bubble risk in quantum computing names.&quot;,\n  &quot;1.1&quot;: &quot;Rigetti Computing is a full-stack quantum computing company that builds superconducting quantum processors and delivers access to them over the cloud. It offers its Rigetti QCS quantum-classical platform as a service directly and via major 
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in the middle of their 1y/5y range and recently ran ~300% off lows, implying some speculative froth but not clear macro bubble data; price is drifting in a short-term downtrend just above 7d/30d support (~23.6/21) and slightly below 20/26.5-day averages and 7d resistance (~26.8), so entries closer to support look more favorable than at current levels.&quot;,&quot;1.1&quot;:&quot;Rigetti Computing builds and operates full-stack quantum computers, focusing on superconducting qubit processors and tightly integrated quantum-classical infrastructure. It delivers access to its quantum systems
 </code></pre>
 </details>
