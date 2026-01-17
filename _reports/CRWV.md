@@ -2,11 +2,11 @@
 layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
-date: 2026-01-13
-generated_at: 2026-01-13T05:26:04.075233+00:00
-runtime_seconds: 32.53
+date: 2026-01-17
+generated_at: 2026-01-17T20:22:29.927660+00:00
+runtime_seconds: 33.54
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-13T05:26:04.075233+00:00">2026-01-13 05:26 UTC</time> (runtime 32.53s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-17T20:22:29.927660+00:00">2026-01-17 20:22 UTC</time> (runtime 33.54s)
   
   ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
   
@@ -32,28 +32,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - no news is good news?
+  - [CRWV Class Action Alert: Robbins LLP Reminds Investors of the Lead Plaintiff Deadline in the CoreWeave, Inc. Class Action Lawsuit](https://www.globenewswire.com/news-release/2026/01/16/3220595/32719/en/CRWV-Class-Action-Alert-Robbins-LLP-Reminds-Investors-of-the-Lead-Plaintiff-Deadline-in-the-CoreWeave-Inc-Class-Action-Lawsuit.html) — GlobeNewswire Inc. · 2026-01-16
+  - [CRWV: Kirby McInerney LLP Advises Coreweave, Inc. Investors of Class Action Lawsuit](https://www.globenewswire.com/news-release/2026/01/16/3220589/937/en/CRWV-Kirby-McInerney-LLP-Advises-Coreweave-Inc-Investors-of-Class-Action-Lawsuit.html) — GlobeNewswire Inc. · 2026-01-16
+  - [CRWV Investor Alert: A Securities Fraud Class Action Lawsuit Has Been Filed Against CoreWeave, Inc. (CRWV) - Contact Kessler Topaz Meltzer & Check, LLP](https://www.globenewswire.com/news-release/2026/01/16/3220503/0/en/CRWV-Investor-Alert-A-Securities-Fraud-Class-Action-Lawsuit-Has-Been-Filed-Against-CoreWeave-Inc-CRWV-Contact-Kessler-Topaz-Meltzer-Check-LLP.html) — GlobeNewswire Inc. · 2026-01-16
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 3-month near-bottom and mid-range on 1y/5y history after a 61% drop from the $187 high, suggesting some post-bubble deflation; broader AI macro froth is flagged in coverage but not quantified here, and the current ~$74 price sits just under the 20-day moving average and closer to 7d/30d support at ~$65 than to recent resistance bands at ~$76 and $116.
+  0.1. **Long Entry?:** maybe — shares are near 3‑month lows after a 60%+ drop from the $183–187 peak and sit just below the 20‑day and 50‑day averages with support around $65; AI macro context still shows enthusiasm but also bubble-fear headlines and class‑action overhangs, so froth and legal risk visibility is mixed.
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on AI workloads. It offers the CoreWeave Cloud Platform, providing proprietary software and cloud services including GPU compute, CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale. Its platform supports development and deployment of advanced AI models and next-generation AI applications.
+  1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform for AI workloads. Its proprietary software and cloud services deliver GPU and CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale. The platform supports the development, training, and deployment of advanced AI models and next‑generation AI applications.
   
-  1.2. **Profitable?:** no — CoreWeave is not currently profitable, as shown by negative net income totaling about -$766.6M, a -17.8% profit margin, and deeply negative free cash flow despite strong revenue growth.
+  1.2. **Profitable?:** no — CoreWeave is not currently profitable, with a trailing net income of -$766.65M, a -17.8% profit margin, and negative free cash flow despite strong revenue growth.
   
-  1.3. **Customer & Markets:** CoreWeave serves enterprises and organizations building and running AI models and applications, including large technology companies such as Microsoft and Meta referenced as customers in coverage. Its primary market is AI and high-performance cloud infrastructure, with expansion into segments like the U.S. federal sector and participation in initiatives such as the Department of Energy's Genesis Mission, focused mainly on the United States but with global AI application reach.
+  1.3. **Customer & Markets:** CoreWeave primarily serves enterprises and organizations building, training, and deploying AI models and applications, including large tech companies such as Microsoft and Meta mentioned as key customers in coverage. Its core market is AI-focused cloud infrastructure in the United States, with expansion into segments like U.S. federal agencies and high‑performance computing via data center partnerships. The company operates within the broader global AI and cloud markets but is headquartered and listed in the U.S.
   
-  1.4. **Competition:** CoreWeave's main competitors are large cloud and AI infrastructure providers such as Nvidia, Microsoft, and Meta, as well as other infrastructure and cloud players referenced in peer comparisons. It is positioned as an emerging AI hyperscaler rather than a top-three hyperscale cloud incumbent, competing aggressively in the AI-focused segment of the infrastructure market.
+  1.4. **Competition:** CoreWeave's primary competitors are large cloud and AI infrastructure providers such as Nvidia (as a neocloud backer and rival), Microsoft Azure, and Meta's AI infrastructure efforts, along with other cloud software peers like Cloudflare and Snowflake cited in peer lists. It is a fast‑growing but smaller player relative to these hyperscale incumbents in the AI cloud market.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and recent closes have moved off the $65.22 local low toward resistance near $76.60.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rebounding off the $65.22 support toward resistance around $76.60.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, prices near the 7d/30d support zone around $65.22 offered better buy entries, while approaches toward the recent 7d resistance around $76.60 and the local high at $83.49 represented favorable short-term selling levels.
+  2.2. **7d Buy/Sell Points?:** In the past week, pullbacks near the $65.22 support zone offered favorable buy levels, while approaches toward the local high and 7‑day resistance around $76.60–$83.49 presented better sell or trim opportunities.
   
   2.3.1. **7d Volume:** low
   
@@ -61,15 +63,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** CoreWeave was established in 2017, pivoted from crypto mining to cloud computing in 2022, and listed publicly on Nasdaq in March 2025, giving it nearly a decade of operating history but a short public track record. Financially, it is still in investment mode, with substantial cumulative losses of about -$766.6M and significantly negative free cash flow of roughly -$6.95B, partly offset by strong operating cash flow and rapid revenue growth. The company operates in a capital-intensive data center and AI infrastructure space, which requires ongoing funding and carries balance-sheet risk. Overall it is a rapidly scaling but not yet financially stable institution, dependent on continued access to capital and execution on growth plans.
+  3.1. **Stability?:** CoreWeave is not a fly‑by‑night operation but also not yet a mature, low‑risk stalwart. Founded in 2017 and publicly listed on Nasdaq in March 2025, it has quickly scaled revenue but still posts large net losses and heavy negative free cash flow. Recent headlines highlight substantial stock volatility, heavy debt concerns, and a securities class action lawsuit alleging misleading disclosures, all of which underscore elevated risk. While it operates in a critical AI infrastructure niche with strong demand, its balance‑sheet strain and legal overhang mean its overall stability is still developing rather than firmly established.
   
-  3.2. **Innovating?:** CoreWeave is clearly innovating and growing, as evidenced by triple-digit revenue growth (about 133.7% year over year), its role as an "AI Hyperscaler" with specialized GPU/AI cloud services, and expansion into new markets such as U.S. federal agencies and DOE's Genesis Mission. However, this innovation is accompanied by widening losses and large capital needs.
+  3.2. **Innovating?:** CoreWeave is clearly innovating and growing, with rapid revenue expansion (over 170%–360% annual growth guidance cited) and new products like advanced storage partnerships plus entry into the U.S. federal market. However, this aggressive growth comes with widening losses and operational challenges such as data center delays and dependence on a single supplier.
   
   ## 4. Context
   
-  4.1. **News:** Recent news around CoreWeave includes multiple law firm investigations into potential securities violations, reflecting investor concerns after a steep share-price decline and heavy losses. Coverage notes that the stock has fallen about 61% from its $187 peak to the high-$60s amid fears of an AI data-center bubble, data-center delays, heavy debt, and widening losses, even as revenue growth and bookings remain strong. Positive catalysts have included participation in the Department of Energy's Genesis Mission, analyst upgrades and initiations (e.g., Citi, Truist, DA Davidson), and commentary that the stock's pullback may be overdone, leading to sharp relief rallies. The broader AI trade is described as intact but more selective, with macro commentary highlighting AI bubble fears and concentration in a handful of names. In this context, recent positive announcements and upgrades have triggered short-term spikes rather than sustained moves, so blindly "buying the rumor" or "selling the news" has not consistently worked according to the quick facts, which flag 'no' for both.
+  4.1. **News:** Recent news is dominated by multiple securities fraud class action filings alleging CoreWeave overstated its ability to meet demand and understated data center supplier risks, following a stock collapse from about $183–187 in June 2025 to the high‑$60s by December. Additional coverage discusses heavy debt, data‑center delays, merger termination, and lowered guidance as catalysts for a >45% drawdown and 61% fall from all‑time highs. At the same time, broader AI sector pieces still cite CoreWeave as a key neocloud/AI infrastructure player, with positive mentions around DOE Genesis Mission participation and analyst upgrades driving short‑term rallies. This mix suggests earlier optimism and rumor‑driven upside has largely reversed, and current legal headlines may already be pressuring the stock in a way consistent with "sell the news" dynamics rather than a fresh rumor‑buying phase.
   
-  4.2. **Tarrifs:** Tariff-related headlines show that CoreWeave has been hit alongside other tech stocks on tariff announcements, with shares "taking it on the chin" after new tariffs and extending losses on broader tariff news, indicating that tariff risks have contributed to stock volatility and downside pressure rather than clear long-term benefit.
+  4.2. **Tarrifs:** Tariff announcements have periodically hit CoreWeave's share price, with reports noting the stock "tanking" or declining alongside broader tech on tariff news, indicating that tariff headlines can trigger sharp downside moves for CRWV. However, the long‑term fundamental impact of tariffs on its business or margins is not quantified in the provided data.
   
   ## 5. QuickRef
   
@@ -98,11 +100,11 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-  <li>The Guardian: profit outlook, rumor</li>
+  <li>NewsAPI: business model, market expansion, tariff, latest news, tariffs</li>
+  <li>The Guardian: profit outlook, competitive landscape, rumor</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -147,7 +149,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Filtered 1 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
@@ -179,7 +181,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -188,7 +190,11 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -235,12 +241,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month near-bottom and mid-range on 1y/5y history after a 61% drop from the $187 high, suggesting some post-bubble deflation; broader AI macro froth is flagged in coverage but not quantified here, and the current ~$74 price sits just under the 20-day moving average and closer to 7d/30d support at ~$65 than to recent resistance bands at ~$76 and $116.&quot;, &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on AI workloads. It offers the CoreWeave Cloud Platform, providing proprietary software and cloud services including GPU comp
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are near 3‑month lows after a 60%+ drop from the $183–187 peak and sit just below the 20‑day and 50‑day averages with support around $65; AI macro context still shows enthusiasm but also bubble-fear headlines and class‑action overhangs, so froth and legal risk visibility is mixed.&quot;,&quot;1.1&quot;:&quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform for AI workloads. Its proprietary software and cloud services deliver GPU and CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-13T05:26:04.075233+00:00">2026-01-13 05:26 UTC</time> (runtime 32.53s)
+**Generated:** <time class="js-local-time" datetime="2026-01-17T20:22:29.927660+00:00">2026-01-17 20:22 UTC</time> (runtime 33.54s)
 
 ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
 
@@ -266,28 +272,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- no news is good news?
+- [CRWV Class Action Alert: Robbins LLP Reminds Investors of the Lead Plaintiff Deadline in the CoreWeave, Inc. Class Action Lawsuit](https://www.globenewswire.com/news-release/2026/01/16/3220595/32719/en/CRWV-Class-Action-Alert-Robbins-LLP-Reminds-Investors-of-the-Lead-Plaintiff-Deadline-in-the-CoreWeave-Inc-Class-Action-Lawsuit.html) — GlobeNewswire Inc. · 2026-01-16
+- [CRWV: Kirby McInerney LLP Advises Coreweave, Inc. Investors of Class Action Lawsuit](https://www.globenewswire.com/news-release/2026/01/16/3220589/937/en/CRWV-Kirby-McInerney-LLP-Advises-Coreweave-Inc-Investors-of-Class-Action-Lawsuit.html) — GlobeNewswire Inc. · 2026-01-16
+- [CRWV Investor Alert: A Securities Fraud Class Action Lawsuit Has Been Filed Against CoreWeave, Inc. (CRWV) - Contact Kessler Topaz Meltzer & Check, LLP](https://www.globenewswire.com/news-release/2026/01/16/3220503/0/en/CRWV-Investor-Alert-A-Securities-Fraud-Class-Action-Lawsuit-Has-Been-Filed-Against-CoreWeave-Inc-CRWV-Contact-Kessler-Topaz-Meltzer-Check-LLP.html) — GlobeNewswire Inc. · 2026-01-16
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 3-month near-bottom and mid-range on 1y/5y history after a 61% drop from the $187 high, suggesting some post-bubble deflation; broader AI macro froth is flagged in coverage but not quantified here, and the current ~$74 price sits just under the 20-day moving average and closer to 7d/30d support at ~$65 than to recent resistance bands at ~$76 and $116.
+0.1. **Long Entry?:** maybe — shares are near 3‑month lows after a 60%+ drop from the $183–187 peak and sit just below the 20‑day and 50‑day averages with support around $65; AI macro context still shows enthusiasm but also bubble-fear headlines and class‑action overhangs, so froth and legal risk visibility is mixed.
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on AI workloads. It offers the CoreWeave Cloud Platform, providing proprietary software and cloud services including GPU compute, CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale. Its platform supports development and deployment of advanced AI models and next-generation AI applications.
+1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform for AI workloads. Its proprietary software and cloud services deliver GPU and CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale. The platform supports the development, training, and deployment of advanced AI models and next‑generation AI applications.
 
-1.2. **Profitable?:** no — CoreWeave is not currently profitable, as shown by negative net income totaling about -$766.6M, a -17.8% profit margin, and deeply negative free cash flow despite strong revenue growth.
+1.2. **Profitable?:** no — CoreWeave is not currently profitable, with a trailing net income of -$766.65M, a -17.8% profit margin, and negative free cash flow despite strong revenue growth.
 
-1.3. **Customer & Markets:** CoreWeave serves enterprises and organizations building and running AI models and applications, including large technology companies such as Microsoft and Meta referenced as customers in coverage. Its primary market is AI and high-performance cloud infrastructure, with expansion into segments like the U.S. federal sector and participation in initiatives such as the Department of Energy's Genesis Mission, focused mainly on the United States but with global AI application reach.
+1.3. **Customer & Markets:** CoreWeave primarily serves enterprises and organizations building, training, and deploying AI models and applications, including large tech companies such as Microsoft and Meta mentioned as key customers in coverage. Its core market is AI-focused cloud infrastructure in the United States, with expansion into segments like U.S. federal agencies and high‑performance computing via data center partnerships. The company operates within the broader global AI and cloud markets but is headquartered and listed in the U.S.
 
-1.4. **Competition:** CoreWeave's main competitors are large cloud and AI infrastructure providers such as Nvidia, Microsoft, and Meta, as well as other infrastructure and cloud players referenced in peer comparisons. It is positioned as an emerging AI hyperscaler rather than a top-three hyperscale cloud incumbent, competing aggressively in the AI-focused segment of the infrastructure market.
+1.4. **Competition:** CoreWeave's primary competitors are large cloud and AI infrastructure providers such as Nvidia (as a neocloud backer and rival), Microsoft Azure, and Meta's AI infrastructure efforts, along with other cloud software peers like Cloudflare and Snowflake cited in peer lists. It is a fast‑growing but smaller player relative to these hyperscale incumbents in the AI cloud market.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and recent closes have moved off the $65.22 local low toward resistance near $76.60.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rebounding off the $65.22 support toward resistance around $76.60.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, prices near the 7d/30d support zone around $65.22 offered better buy entries, while approaches toward the recent 7d resistance around $76.60 and the local high at $83.49 represented favorable short-term selling levels.
+2.2. **7d Buy/Sell Points?:** In the past week, pullbacks near the $65.22 support zone offered favorable buy levels, while approaches toward the local high and 7‑day resistance around $76.60–$83.49 presented better sell or trim opportunities.
 
 2.3.1. **7d Volume:** low
 
@@ -295,15 +303,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** CoreWeave was established in 2017, pivoted from crypto mining to cloud computing in 2022, and listed publicly on Nasdaq in March 2025, giving it nearly a decade of operating history but a short public track record. Financially, it is still in investment mode, with substantial cumulative losses of about -$766.6M and significantly negative free cash flow of roughly -$6.95B, partly offset by strong operating cash flow and rapid revenue growth. The company operates in a capital-intensive data center and AI infrastructure space, which requires ongoing funding and carries balance-sheet risk. Overall it is a rapidly scaling but not yet financially stable institution, dependent on continued access to capital and execution on growth plans.
+3.1. **Stability?:** CoreWeave is not a fly‑by‑night operation but also not yet a mature, low‑risk stalwart. Founded in 2017 and publicly listed on Nasdaq in March 2025, it has quickly scaled revenue but still posts large net losses and heavy negative free cash flow. Recent headlines highlight substantial stock volatility, heavy debt concerns, and a securities class action lawsuit alleging misleading disclosures, all of which underscore elevated risk. While it operates in a critical AI infrastructure niche with strong demand, its balance‑sheet strain and legal overhang mean its overall stability is still developing rather than firmly established.
 
-3.2. **Innovating?:** CoreWeave is clearly innovating and growing, as evidenced by triple-digit revenue growth (about 133.7% year over year), its role as an "AI Hyperscaler" with specialized GPU/AI cloud services, and expansion into new markets such as U.S. federal agencies and DOE's Genesis Mission. However, this innovation is accompanied by widening losses and large capital needs.
+3.2. **Innovating?:** CoreWeave is clearly innovating and growing, with rapid revenue expansion (over 170%–360% annual growth guidance cited) and new products like advanced storage partnerships plus entry into the U.S. federal market. However, this aggressive growth comes with widening losses and operational challenges such as data center delays and dependence on a single supplier.
 
 ## 4. Context
 
-4.1. **News:** Recent news around CoreWeave includes multiple law firm investigations into potential securities violations, reflecting investor concerns after a steep share-price decline and heavy losses. Coverage notes that the stock has fallen about 61% from its $187 peak to the high-$60s amid fears of an AI data-center bubble, data-center delays, heavy debt, and widening losses, even as revenue growth and bookings remain strong. Positive catalysts have included participation in the Department of Energy's Genesis Mission, analyst upgrades and initiations (e.g., Citi, Truist, DA Davidson), and commentary that the stock's pullback may be overdone, leading to sharp relief rallies. The broader AI trade is described as intact but more selective, with macro commentary highlighting AI bubble fears and concentration in a handful of names. In this context, recent positive announcements and upgrades have triggered short-term spikes rather than sustained moves, so blindly "buying the rumor" or "selling the news" has not consistently worked according to the quick facts, which flag 'no' for both.
+4.1. **News:** Recent news is dominated by multiple securities fraud class action filings alleging CoreWeave overstated its ability to meet demand and understated data center supplier risks, following a stock collapse from about $183–187 in June 2025 to the high‑$60s by December. Additional coverage discusses heavy debt, data‑center delays, merger termination, and lowered guidance as catalysts for a >45% drawdown and 61% fall from all‑time highs. At the same time, broader AI sector pieces still cite CoreWeave as a key neocloud/AI infrastructure player, with positive mentions around DOE Genesis Mission participation and analyst upgrades driving short‑term rallies. This mix suggests earlier optimism and rumor‑driven upside has largely reversed, and current legal headlines may already be pressuring the stock in a way consistent with "sell the news" dynamics rather than a fresh rumor‑buying phase.
 
-4.2. **Tarrifs:** Tariff-related headlines show that CoreWeave has been hit alongside other tech stocks on tariff announcements, with shares "taking it on the chin" after new tariffs and extending losses on broader tariff news, indicating that tariff risks have contributed to stock volatility and downside pressure rather than clear long-term benefit.
+4.2. **Tarrifs:** Tariff announcements have periodically hit CoreWeave's share price, with reports noting the stock "tanking" or declining alongside broader tech on tariff news, indicating that tariff headlines can trigger sharp downside moves for CRWV. However, the long‑term fundamental impact of tariffs on its business or margins is not quantified in the provided data.
 
 ## 5. QuickRef
 
@@ -332,11 +340,11 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-<li>The Guardian: profit outlook, rumor</li>
+<li>NewsAPI: business model, market expansion, tariff, latest news, tariffs</li>
+<li>The Guardian: profit outlook, competitive landscape, rumor</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -381,7 +389,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Filtered 1 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
@@ -413,7 +421,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -422,7 +430,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -469,6 +481,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month near-bottom and mid-range on 1y/5y history after a 61% drop from the $187 high, suggesting some post-bubble deflation; broader AI macro froth is flagged in coverage but not quantified here, and the current ~$74 price sits just under the 20-day moving average and closer to 7d/30d support at ~$65 than to recent resistance bands at ~$76 and $116.&quot;, &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on AI workloads. It offers the CoreWeave Cloud Platform, providing proprietary software and cloud services including GPU comp
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are near 3‑month lows after a 60%+ drop from the $183–187 peak and sit just below the 20‑day and 50‑day averages with support around $65; AI macro context still shows enthusiasm but also bubble-fear headlines and class‑action overhangs, so froth and legal risk visibility is mixed.&quot;,&quot;1.1&quot;:&quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform for AI workloads. Its proprietary software and cloud services deliver GPU and CPU compute, storage, and networking optimized to manage complex AI infrastructure at scale
 </code></pre>
 </details>
