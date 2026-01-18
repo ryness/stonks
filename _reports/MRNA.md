@@ -2,11 +2,11 @@
 layout: default
 title: "MRNA Stock Report"
 ticker: "MRNA"
-date: 2026-01-14
-generated_at: 2026-01-14T05:24:40.425197+00:00
-runtime_seconds: 26.83
+date: 2026-01-18
+generated_at: 2026-01-18T20:22:41.154394+00:00
+runtime_seconds: 32.48
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-14T05:24:40.425197+00:00">2026-01-14 05:24 UTC</time> (runtime 26.83s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-18T20:22:41.154394+00:00">2026-01-18 20:22 UTC</time> (runtime 32.48s)
   
   ![Moderna, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/MRNA.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock trades near 5-year lows and 1-year near-bottom levels but is labeled overbought after a sharp rally toward short-term resistance at $26.62; macro froth appears limited in the provided data, yet price now sits slightly above its 20-day average and close to resistance rather than deep at support around $23.04.
+  0.1. **Long Entry?:** maybe — the stock trades near 5-year lows/"bottom" with the 1-year labelled "near-bottom" but is short-term "overbought" after a sharp uptrend; macro context shows the S&P 500 near record highs but no stock-specific bubble signs, and price is slightly above its 20-day average and just under nearby resistance at 26.62 with support around 23.04.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing medicines based on messenger RNA (mRNA) technology. Its validated COVID-19 vaccine anchors a broader pipeline of 35 mRNA development candidates as of August 2025. These programs span infectious diseases, oncology, cardiovascular disease, and rare genetic disorders.
+  1.1. **Activities:** Moderna, Inc. is a commercial-stage biotechnology company focused on developing and commercializing medicines based on its messenger RNA (mRNA) technology platform. Its first major commercial validation was its COVID-19 vaccine, authorized in the U.S. in December 2020. As of August 2025, it had 35 mRNA development candidates across infectious diseases, oncology, cardiovascular disease, and rare genetic disorders.
   
-  1.2. **Profitable?:** no — the company shows a cumulative net loss of about $3.1 billion, recent annual net income values are negative, profit margin is -139.6%, and free cash flow and operating cash flow are both materially negative with no clear profitability date given.
+  1.2. **Profitable?:** no — recent net income is consistently negative with a cumulative loss of about $3.1B, profit margin of -139.6%, and negative free cash flow, indicating it is not currently profitable and no specific profitability timing is provided.
   
-  1.3. **Customer & Markets:** Moderna's primary customers are healthcare systems, governments, and potentially specialty providers that purchase vaccines and therapeutics addressing infectious diseases, cancer, cardiovascular, and rare genetic conditions. Its markets are global, with activity centered in the United States and other regions participating in advanced biotech and vaccine procurement, as implied by its broad therapeutic focus and U.S. base.
+  1.3. **Customer & Markets:** Moderna's primary customers are healthcare systems and governments that procure vaccines and therapeutics in the healthcare and biotechnology markets. Its programs target patients worldwide across infectious disease, cancer, cardiovascular, and rare genetic disease indications, with operations based in the United States.
   
-  1.4. **Competition:** Key competitors include large vaccine and biotech players such as Pfizer (PFE), Novavax (NVAX), Johnson & Johnson (JNJ), Merck (MRK), CRISPR Therapeutics (CRSP), Ocugen (OCGN), and Regeneron (REGN) listed as related or competitor candidates, but the data do not specify Moderna's exact rank versus these peers.
+  1.4. **Competition:** Key competitors and peers mentioned include Pfizer (PFE), Novavax (NVAX), Johnson & Johnson (JNJ), Merck (MRK), CRISPR Therapeutics (CRSP), Ocugen (OCGN), and Regeneron (REGN); the data only identifies them as related/competitive firms without specifying Moderna's exact rank among them.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from support around $23.04 toward the recent local high and resistance near $26.62.
+  2.1. **7d Trend?:** up — the 7d trend is labeled "up" and price has moved from near support around 23.04 toward resistance at 26.62.
   
-  2.2. **7d Buy/Sell Points?:** During the last week, the area near the 7-day support around $23.04 would have been a favorable buy zone, while prices approaching the 7-day resistance and local high around $26.62 offered better short-term selling opportunities.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the area near support around $23.04 served as an attractive buy zone, while approaches to the recent local high and 7-day resistance around $26.62 offered favorable sell or trim levels.
   
   2.3.1. **7d Volume:** med
   
@@ -77,13 +77,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Moderna was founded in 2010 and went public in 2018, indicating over a decade of operating history and several years as a listed company. It has built a substantial clinical pipeline with 35 mRNA candidates across multiple therapeutic areas, suggesting a scaled R&D platform rather than a single-asset story. However, recent financials show large cumulative net losses of about $3.1 billion, a deeply negative profit margin, and negative free cash flow and operating cash flow. This combination points to a company that is established scientifically and commercially in biotech but still financially dependent on external capital and future product success, rather than a fully self-funding, low-risk institution.
+  3.1. **Stability?:** Moderna is a relatively young but established biotech, founded in 2010 and public since 2018, with a validated mRNA platform and a broad pipeline of 35 clinical candidates as of August 2025. However, financials show substantial recent losses (net income about -$3.1B cumulatively, profit margin -139.6%) and negative free cash flow and operating cash flow, indicating current financial strain. Its COVID-19 vaccine authorization and ongoing R&D suggest an entrenched position in the biotech ecosystem, but the balance sheet metrics point to dependence on capital markets and future product success. Overall it is more stable than a fly-by-night operation due to its platform, approvals, and scale, yet it lacks the earnings stability of mature, diversified pharma companies.
   
-  3.2. **Innovating?:** Moderna appears to be innovating and growing its platform, with 35 mRNA development candidates in clinical studies across infectious disease, oncology, cardiovascular, and rare disease programs. The breadth of its pipeline and continued technology development indicate active innovation rather than a stale business.
+  3.2. **Innovating?:** Moderna appears to be actively innovating and growing its platform, with 35 mRNA development candidates across multiple therapeutic areas as of August 2025. Recent headlines about bullish forecasts and strong preliminary FY25 results also indicate ongoing growth efforts rather than a stagnant business.
   
   ## 4. Context
   
-  4.1. **News:** Recent market context shows Moderna rallying 14% on bullish forecasts on a day when major indices were flat and the S&P 500 hovered near record highs, indicating a company-specific optimism spike. The broader macro backdrop includes benign U.S. inflation data supporting Fed rate cut expectations and strong moves in metals and energy, but no Moderna-specific macro shock. Quick facts suggest 'Sell the news?' is 'yes', which aligns with the risk that traders may lock in gains after the bullish forecast-driven surge. Given this, recent bullish news may already be reflected in the price, making it vulnerable to 'sell the news' behavior rather than offering a clean 'buy the rumor' setup.
+  4.1. **News:** Recent market commentary notes that Moderna rallied 14% on bullish forecasts and separately "rockets" about 17% on strong preliminary FY25 results, indicating upbeat expectations and positive guidance have driven sharp price moves. The broader market is near record S&P 500 highs, and Moderna-specific news at JPMorgan's healthcare conference highlights important upcoming trial readouts. Given the quick, news-driven surges and the quick facts flagging "Sell the news? yes" and an "overbought" condition, there is risk that positive announcements could be followed by profit-taking. In this context, traders leaning on the 'buy the rumor, sell the news' pattern might see recent spikes on forecasts and preliminary results as potential short-term exit or de-risking points. No major negative rumors are cited in the supplied data, so sentiment currently appears skewed positive but tactically stretched.
   
   4.2. **Tarrifs:** unknown
   
@@ -117,8 +117,8 @@ raw_markdown: |
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-  <li>The Guardian: rumor</li>
+  <li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>The Guardian: profit outlook, rumor</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -182,7 +182,11 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -200,7 +204,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -216,7 +220,7 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 4 result(s)
@@ -247,12 +251,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows and 1-year near-bottom levels but is labeled overbought after a sharp rally toward short-term resistance at $26.62; macro froth appears limited in the provided data, yet price now sits slightly above its 20-day average and close to resistance rather than deep at support around $23.04.&quot;, &quot;1.1&quot;: &quot;Moderna is a commercial-stage biotechnology company focused on developing medicines based on messenger RNA (mRNA) technology. Its validated COVID-19 vaccine anchors a broader pipeline of 35 mRNA development candidates as of August 2025. These programs s
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows/\&quot;bottom\&quot; with the 1-year labelled \&quot;near-bottom\&quot; but is short-term \&quot;overbought\&quot; after a sharp uptrend; macro context shows the S&amp;P 500 near record highs but no stock-specific bubble signs, and price is slightly above its 20-day average and just under nearby resistance at 26.62 with support around 23.04.&quot;, &quot;1.1&quot;: &quot;Moderna, Inc. is a commercial-stage biotechnology company focused on developing and commercializing medicines based on its messenger RNA (mRNA) technology platform. Its first major commercial validation was its COVID-19 vaccine, 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-14T05:24:40.425197+00:00">2026-01-14 05:24 UTC</time> (runtime 26.83s)
+**Generated:** <time class="js-local-time" datetime="2026-01-18T20:22:41.154394+00:00">2026-01-18 20:22 UTC</time> (runtime 32.48s)
 
 ![Moderna, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/MRNA.svg)
 
@@ -299,23 +303,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock trades near 5-year lows and 1-year near-bottom levels but is labeled overbought after a sharp rally toward short-term resistance at $26.62; macro froth appears limited in the provided data, yet price now sits slightly above its 20-day average and close to resistance rather than deep at support around $23.04.
+0.1. **Long Entry?:** maybe — the stock trades near 5-year lows/"bottom" with the 1-year labelled "near-bottom" but is short-term "overbought" after a sharp uptrend; macro context shows the S&P 500 near record highs but no stock-specific bubble signs, and price is slightly above its 20-day average and just under nearby resistance at 26.62 with support around 23.04.
 
 ## 1. The Biz
 
-1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing medicines based on messenger RNA (mRNA) technology. Its validated COVID-19 vaccine anchors a broader pipeline of 35 mRNA development candidates as of August 2025. These programs span infectious diseases, oncology, cardiovascular disease, and rare genetic disorders.
+1.1. **Activities:** Moderna, Inc. is a commercial-stage biotechnology company focused on developing and commercializing medicines based on its messenger RNA (mRNA) technology platform. Its first major commercial validation was its COVID-19 vaccine, authorized in the U.S. in December 2020. As of August 2025, it had 35 mRNA development candidates across infectious diseases, oncology, cardiovascular disease, and rare genetic disorders.
 
-1.2. **Profitable?:** no — the company shows a cumulative net loss of about $3.1 billion, recent annual net income values are negative, profit margin is -139.6%, and free cash flow and operating cash flow are both materially negative with no clear profitability date given.
+1.2. **Profitable?:** no — recent net income is consistently negative with a cumulative loss of about $3.1B, profit margin of -139.6%, and negative free cash flow, indicating it is not currently profitable and no specific profitability timing is provided.
 
-1.3. **Customer & Markets:** Moderna's primary customers are healthcare systems, governments, and potentially specialty providers that purchase vaccines and therapeutics addressing infectious diseases, cancer, cardiovascular, and rare genetic conditions. Its markets are global, with activity centered in the United States and other regions participating in advanced biotech and vaccine procurement, as implied by its broad therapeutic focus and U.S. base.
+1.3. **Customer & Markets:** Moderna's primary customers are healthcare systems and governments that procure vaccines and therapeutics in the healthcare and biotechnology markets. Its programs target patients worldwide across infectious disease, cancer, cardiovascular, and rare genetic disease indications, with operations based in the United States.
 
-1.4. **Competition:** Key competitors include large vaccine and biotech players such as Pfizer (PFE), Novavax (NVAX), Johnson & Johnson (JNJ), Merck (MRK), CRISPR Therapeutics (CRSP), Ocugen (OCGN), and Regeneron (REGN) listed as related or competitor candidates, but the data do not specify Moderna's exact rank versus these peers.
+1.4. **Competition:** Key competitors and peers mentioned include Pfizer (PFE), Novavax (NVAX), Johnson & Johnson (JNJ), Merck (MRK), CRISPR Therapeutics (CRSP), Ocugen (OCGN), and Regeneron (REGN); the data only identifies them as related/competitive firms without specifying Moderna's exact rank among them.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from support around $23.04 toward the recent local high and resistance near $26.62.
+2.1. **7d Trend?:** up — the 7d trend is labeled "up" and price has moved from near support around 23.04 toward resistance at 26.62.
 
-2.2. **7d Buy/Sell Points?:** During the last week, the area near the 7-day support around $23.04 would have been a favorable buy zone, while prices approaching the 7-day resistance and local high around $26.62 offered better short-term selling opportunities.
+2.2. **7d Buy/Sell Points?:** Over the last week, the area near support around $23.04 served as an attractive buy zone, while approaches to the recent local high and 7-day resistance around $26.62 offered favorable sell or trim levels.
 
 2.3.1. **7d Volume:** med
 
@@ -323,13 +327,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Moderna was founded in 2010 and went public in 2018, indicating over a decade of operating history and several years as a listed company. It has built a substantial clinical pipeline with 35 mRNA candidates across multiple therapeutic areas, suggesting a scaled R&D platform rather than a single-asset story. However, recent financials show large cumulative net losses of about $3.1 billion, a deeply negative profit margin, and negative free cash flow and operating cash flow. This combination points to a company that is established scientifically and commercially in biotech but still financially dependent on external capital and future product success, rather than a fully self-funding, low-risk institution.
+3.1. **Stability?:** Moderna is a relatively young but established biotech, founded in 2010 and public since 2018, with a validated mRNA platform and a broad pipeline of 35 clinical candidates as of August 2025. However, financials show substantial recent losses (net income about -$3.1B cumulatively, profit margin -139.6%) and negative free cash flow and operating cash flow, indicating current financial strain. Its COVID-19 vaccine authorization and ongoing R&D suggest an entrenched position in the biotech ecosystem, but the balance sheet metrics point to dependence on capital markets and future product success. Overall it is more stable than a fly-by-night operation due to its platform, approvals, and scale, yet it lacks the earnings stability of mature, diversified pharma companies.
 
-3.2. **Innovating?:** Moderna appears to be innovating and growing its platform, with 35 mRNA development candidates in clinical studies across infectious disease, oncology, cardiovascular, and rare disease programs. The breadth of its pipeline and continued technology development indicate active innovation rather than a stale business.
+3.2. **Innovating?:** Moderna appears to be actively innovating and growing its platform, with 35 mRNA development candidates across multiple therapeutic areas as of August 2025. Recent headlines about bullish forecasts and strong preliminary FY25 results also indicate ongoing growth efforts rather than a stagnant business.
 
 ## 4. Context
 
-4.1. **News:** Recent market context shows Moderna rallying 14% on bullish forecasts on a day when major indices were flat and the S&P 500 hovered near record highs, indicating a company-specific optimism spike. The broader macro backdrop includes benign U.S. inflation data supporting Fed rate cut expectations and strong moves in metals and energy, but no Moderna-specific macro shock. Quick facts suggest 'Sell the news?' is 'yes', which aligns with the risk that traders may lock in gains after the bullish forecast-driven surge. Given this, recent bullish news may already be reflected in the price, making it vulnerable to 'sell the news' behavior rather than offering a clean 'buy the rumor' setup.
+4.1. **News:** Recent market commentary notes that Moderna rallied 14% on bullish forecasts and separately "rockets" about 17% on strong preliminary FY25 results, indicating upbeat expectations and positive guidance have driven sharp price moves. The broader market is near record S&P 500 highs, and Moderna-specific news at JPMorgan's healthcare conference highlights important upcoming trial readouts. Given the quick, news-driven surges and the quick facts flagging "Sell the news? yes" and an "overbought" condition, there is risk that positive announcements could be followed by profit-taking. In this context, traders leaning on the 'buy the rumor, sell the news' pattern might see recent spikes on forecasts and preliminary results as potential short-term exit or de-risking points. No major negative rumors are cited in the supplied data, so sentiment currently appears skewed positive but tactically stretched.
 
 4.2. **Tarrifs:** unknown
 
@@ -363,8 +367,8 @@ raw_markdown: |
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
-<li>The Guardian: rumor</li>
+<li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>The Guardian: profit outlook, rumor</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -428,7 +432,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -446,7 +454,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -462,7 +470,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumor&amp;ap
     guardian: 5 result(s)
   newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 4 result(s)
@@ -493,6 +501,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows and 1-year near-bottom levels but is labeled overbought after a sharp rally toward short-term resistance at $26.62; macro froth appears limited in the provided data, yet price now sits slightly above its 20-day average and close to resistance rather than deep at support around $23.04.&quot;, &quot;1.1&quot;: &quot;Moderna is a commercial-stage biotechnology company focused on developing medicines based on messenger RNA (mRNA) technology. Its validated COVID-19 vaccine anchors a broader pipeline of 35 mRNA development candidates as of August 2025. These programs s
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows/\&quot;bottom\&quot; with the 1-year labelled \&quot;near-bottom\&quot; but is short-term \&quot;overbought\&quot; after a sharp uptrend; macro context shows the S&amp;P 500 near record highs but no stock-specific bubble signs, and price is slightly above its 20-day average and just under nearby resistance at 26.62 with support around 23.04.&quot;, &quot;1.1&quot;: &quot;Moderna, Inc. is a commercial-stage biotechnology company focused on developing and commercializing medicines based on its messenger RNA (mRNA) technology platform. Its first major commercial validation was its COVID-19 vaccine, 
 </code></pre>
 </details>
