@@ -2,11 +2,11 @@
 layout: default
 title: "FI Stock Report"
 ticker: "FI"
-date: 2026-01-16
-generated_at: 2026-01-16T01:45:21.436582+00:00
-runtime_seconds: 25.86
+date: 2026-01-20
+generated_at: 2026-01-20T15:31:19.395529+00:00
+runtime_seconds: 32.01
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-16T01:45:21.436582+00:00">2026-01-16 01:45 UTC</time> (runtime 25.86s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-20T15:31:19.395529+00:00">2026-01-20 15:31 UTC</time> (runtime 32.01s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -51,7 +51,7 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 1-year/5-year bottom with price just above key support at 59.56 and below the 20-day average of ~62.31; macro froth visibility is limited and the stock recently collapsed 47% after over-optimistic guidance, suggesting elevated idiosyncratic risk despite a short-term uptrend.
+  0.1. **Long Entry?:** maybe — shares sit at 1-year and 5-year lows with quick facts flagging a multi-period 'bottom' and price just above key support around $59.56; macro froth context is unavailable and the stock trades well below its 20-day average and long-term SMAs, suggesting depressed but technically weak positioning
   
   ## 1. The Biz
   
@@ -65,9 +65,9 @@ raw_markdown: |
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the quick facts flag a 7d uptrend and price has bounced from support at 59.56 toward resistance near 62.26.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' while price has moved off the $59.56 support toward resistance near $62.26
   
-  2.2. **7d Buy/Sell Points?:** Buying near the identified support zone around 59.56 appears to have been a favorable entry; selling or trimming closer to the recent local high and 7d resistance around 62.26–62.69 would have offered better exits.
+  2.2. **7d Buy/Sell Points?:** The area near support around $59.56 was a favorable buy zone, while prices approaching the recent local high and 7d resistance around $62.26–$62.69 offered better short-term selling opportunities.
   
   2.3.1. **7d Volume:** med
   
@@ -75,13 +75,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Fiserv has been a long-established, large-cap financial technology company, but recent events raise concerns about governance and stability. Headlines describe a 47% stock price collapse tied to "abysmal" Q3 2025 results, unrealistic guidance assumptions, and the loss of $32 billion in shareholder value. Multiple law firms and Senate Democrats are investigating prior financial forecasting and leadership decisions. While its long history suggests it is not a fly-by-night operator, these issues indicate a period of elevated risk and balance-sheet or guidance credibility questions.
+  3.1. **Stability?:** Fiserv appears to be a long-established, large-cap company, as indicated by its Fortune 500 mention in the Q3 2025 results release and the substantial $32 billion shareholder value swing described in the news. The 5-year price chart shows a long trading history, reinforcing that this is not a fly-by-night entity. However, recent events—including a 47% stock price drop, admission of unrealistic guidance assumptions, and multiple law firm investigations—suggest elevated governance and forecasting risk. Balance sheet specifics are not provided, so overall financial stability beyond market capitalization and history cannot be fully assessed from the given data.
   
-  3.2. **Innovating?:** Recent news points more to financial recalibration and leadership turmoil than to clear, positive innovation momentum. The focus on slashed growth expectations and investigations suggests the company is in a corrective phase rather than displaying strong, visible growth initiatives in the provided data.
+  3.2. **Innovating?:** The recent news focuses on financial recalibration, slashed growth expectations, and leadership changes following overly optimistic assumptions, with no mention of new products or strategic innovations, so evidence of active innovation or growth is not apparent in the supplied data.
   
   ## 4. Context
   
-  4.1. **News:** Recent news is dominated by Fiserv's Q3 2025 disappointment, where adjusted revenue fell short, growth expectations were cut, and leadership changes triggered a 47% stock drop and $32 billion in value destruction. Multiple shareholder-rights firms (Hagens Berman, Scott+Scott, Bragar Eagel & Squire) have launched investigations into whether prior guidance was based on unrealistic growth assumptions, and Senate Democrats are scrutinizing former CEO Frank Bisignano's role in that forecasting. This context indicates prior "rumors" or optimism about strong growth were likely overbought relative to reality, fitting a harsh "sell the news" outcome when the abysmal results were revealed. Going forward, any new upbeat guidance may be met with skepticism as investors weigh legal and political overhangs alongside operational performance.
+  4.1. **News:** Recent headlines center on Fiserv's "abysmal" Q3 2025 results, sharply reduced growth expectations, and a 47% stock price collapse that erased about $32 billion in shareholder value. The company admitted to difficult-to-achieve guidance assumptions, prompting Senate Democrats' scrutiny of former CEO Frank Bisignano's role in forecasting. Multiple law firms, including Hagens Berman, Scott+Scott, and Bragar Eagel & Squire, have launched investigations into potential securities law issues and shareholder harm. This sequence suggests earlier optimism and guidance (the 'rumor') have now been fully punctured by negative earnings news and investigations (the 'news'), consistent with a harsh 'sell the news' dynamic already reflected in the steep price reset.
   
   4.2. **Tarrifs:** unknown
   
@@ -177,7 +177,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; FI profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; FI target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -210,7 +210,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; FI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -238,12 +238,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 1-year/5-year bottom with price just above key support at 59.56 and below the 20-day average of ~62.31; macro froth visibility is limited and the stock recently collapsed 47% after over-optimistic guidance, suggesting elevated idiosyncratic risk despite a short-term uptrend.&quot;,&quot;1.1&quot;:&quot;unknown&quot;,&quot;1.2&quot;:&quot;unknown&quot;,&quot;1.3&quot;:&quot;unknown&quot;,&quot;1.4&quot;:&quot;unknown&quot;,&quot;2.1&quot;:&quot;up — the quick facts flag a 7d uptrend and price has bounced from support at 59.56 toward resistance near 62.26.&quot;,&quot;2.2&quot;:&quot;Buying near the identified support zone around 59.56 appears to have been a favorable entry; sell
+  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — shares sit at 1-year and 5-year lows with quick facts flagging a multi-period &#x27;bottom&#x27; and price just above key support around $59.56; macro froth context is unavailable and the stock trades well below its 20-day average and long-term SMAs, suggesting depressed but technically weak positioning&quot;,\n  &quot;1.1&quot;: &quot;unknown&quot;,\n  &quot;1.2&quot;: &quot;unknown&quot;,\n  &quot;1.3&quot;: &quot;unknown&quot;,\n  &quot;1.4&quot;: &quot;unknown&quot;,\n  &quot;2.1&quot;: &quot;up — the 7d Trend is labeled &#x27;up&#x27; while price has moved off the $59.56 support toward resistance near $62.26&quot;,\n  &quot;2.2&quot;: &quot;The area near support around $59.56 was a favorable buy zone, whi
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-16T01:45:21.436582+00:00">2026-01-16 01:45 UTC</time> (runtime 25.86s)
+**Generated:** <time class="js-local-time" datetime="2026-01-20T15:31:19.395529+00:00">2026-01-20 15:31 UTC</time> (runtime 32.01s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -288,7 +288,7 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 1-year/5-year bottom with price just above key support at 59.56 and below the 20-day average of ~62.31; macro froth visibility is limited and the stock recently collapsed 47% after over-optimistic guidance, suggesting elevated idiosyncratic risk despite a short-term uptrend.
+0.1. **Long Entry?:** maybe — shares sit at 1-year and 5-year lows with quick facts flagging a multi-period 'bottom' and price just above key support around $59.56; macro froth context is unavailable and the stock trades well below its 20-day average and long-term SMAs, suggesting depressed but technically weak positioning
 
 ## 1. The Biz
 
@@ -302,9 +302,9 @@ raw_markdown: |
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the quick facts flag a 7d uptrend and price has bounced from support at 59.56 toward resistance near 62.26.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' while price has moved off the $59.56 support toward resistance near $62.26
 
-2.2. **7d Buy/Sell Points?:** Buying near the identified support zone around 59.56 appears to have been a favorable entry; selling or trimming closer to the recent local high and 7d resistance around 62.26–62.69 would have offered better exits.
+2.2. **7d Buy/Sell Points?:** The area near support around $59.56 was a favorable buy zone, while prices approaching the recent local high and 7d resistance around $62.26–$62.69 offered better short-term selling opportunities.
 
 2.3.1. **7d Volume:** med
 
@@ -312,13 +312,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Fiserv has been a long-established, large-cap financial technology company, but recent events raise concerns about governance and stability. Headlines describe a 47% stock price collapse tied to "abysmal" Q3 2025 results, unrealistic guidance assumptions, and the loss of $32 billion in shareholder value. Multiple law firms and Senate Democrats are investigating prior financial forecasting and leadership decisions. While its long history suggests it is not a fly-by-night operator, these issues indicate a period of elevated risk and balance-sheet or guidance credibility questions.
+3.1. **Stability?:** Fiserv appears to be a long-established, large-cap company, as indicated by its Fortune 500 mention in the Q3 2025 results release and the substantial $32 billion shareholder value swing described in the news. The 5-year price chart shows a long trading history, reinforcing that this is not a fly-by-night entity. However, recent events—including a 47% stock price drop, admission of unrealistic guidance assumptions, and multiple law firm investigations—suggest elevated governance and forecasting risk. Balance sheet specifics are not provided, so overall financial stability beyond market capitalization and history cannot be fully assessed from the given data.
 
-3.2. **Innovating?:** Recent news points more to financial recalibration and leadership turmoil than to clear, positive innovation momentum. The focus on slashed growth expectations and investigations suggests the company is in a corrective phase rather than displaying strong, visible growth initiatives in the provided data.
+3.2. **Innovating?:** The recent news focuses on financial recalibration, slashed growth expectations, and leadership changes following overly optimistic assumptions, with no mention of new products or strategic innovations, so evidence of active innovation or growth is not apparent in the supplied data.
 
 ## 4. Context
 
-4.1. **News:** Recent news is dominated by Fiserv's Q3 2025 disappointment, where adjusted revenue fell short, growth expectations were cut, and leadership changes triggered a 47% stock drop and $32 billion in value destruction. Multiple shareholder-rights firms (Hagens Berman, Scott+Scott, Bragar Eagel & Squire) have launched investigations into whether prior guidance was based on unrealistic growth assumptions, and Senate Democrats are scrutinizing former CEO Frank Bisignano's role in that forecasting. This context indicates prior "rumors" or optimism about strong growth were likely overbought relative to reality, fitting a harsh "sell the news" outcome when the abysmal results were revealed. Going forward, any new upbeat guidance may be met with skepticism as investors weigh legal and political overhangs alongside operational performance.
+4.1. **News:** Recent headlines center on Fiserv's "abysmal" Q3 2025 results, sharply reduced growth expectations, and a 47% stock price collapse that erased about $32 billion in shareholder value. The company admitted to difficult-to-achieve guidance assumptions, prompting Senate Democrats' scrutiny of former CEO Frank Bisignano's role in forecasting. Multiple law firms, including Hagens Berman, Scott+Scott, and Bragar Eagel & Squire, have launched investigations into potential securities law issues and shareholder harm. This sequence suggests earlier optimism and guidance (the 'rumor') have now been fully punctured by negative earnings news and investigations (the 'news'), consistent with a harsh 'sell the news' dynamic already reflected in the steep price reset.
 
 4.2. **Tarrifs:** unknown
 
@@ -414,7 +414,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; FI profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; FI target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -447,7 +447,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+tariff&amp;pageSize=5
     newsapi: 5 result(s)
   newsapi search -&gt; FI latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=FI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; FI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=FI+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -475,6 +475,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 1-year/5-year bottom with price just above key support at 59.56 and below the 20-day average of ~62.31; macro froth visibility is limited and the stock recently collapsed 47% after over-optimistic guidance, suggesting elevated idiosyncratic risk despite a short-term uptrend.&quot;,&quot;1.1&quot;:&quot;unknown&quot;,&quot;1.2&quot;:&quot;unknown&quot;,&quot;1.3&quot;:&quot;unknown&quot;,&quot;1.4&quot;:&quot;unknown&quot;,&quot;2.1&quot;:&quot;up — the quick facts flag a 7d uptrend and price has bounced from support at 59.56 toward resistance near 62.26.&quot;,&quot;2.2&quot;:&quot;Buying near the identified support zone around 59.56 appears to have been a favorable entry; sell
+LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;maybe — shares sit at 1-year and 5-year lows with quick facts flagging a multi-period &#x27;bottom&#x27; and price just above key support around $59.56; macro froth context is unavailable and the stock trades well below its 20-day average and long-term SMAs, suggesting depressed but technically weak positioning&quot;,\n  &quot;1.1&quot;: &quot;unknown&quot;,\n  &quot;1.2&quot;: &quot;unknown&quot;,\n  &quot;1.3&quot;: &quot;unknown&quot;,\n  &quot;1.4&quot;: &quot;unknown&quot;,\n  &quot;2.1&quot;: &quot;up — the 7d Trend is labeled &#x27;up&#x27; while price has moved off the $59.56 support toward resistance near $62.26&quot;,\n  &quot;2.2&quot;: &quot;The area near support around $59.56 was a favorable buy zone, whi
 </code></pre>
 </details>
