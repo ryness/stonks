@@ -2,11 +2,11 @@
 layout: default
 title: "PLTR Stock Report"
 ticker: "PLTR"
-date: 2026-01-15
-generated_at: 2026-01-15T20:26:12.988754+00:00
-runtime_seconds: 67.65
+date: 2026-01-20
+generated_at: 2026-01-20T10:28:45.181810+00:00
+runtime_seconds: 67.12
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-15T20:26:12.988754+00:00">2026-01-15 20:26 UTC</time> (runtime 1m 8s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-20T10:28:45.181810+00:00">2026-01-20 10:28 UTC</time> (runtime 1m 7s)
   
   ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with a recent near-bottom 3-month posture and price near the 7d/30d support of ~$147 rather than the $174–196 resistance; macro AI froth risk is noted by mixed analyst sentiment and bubble concerns, and the stock now trades slightly below its 20-day average and declining SMA/EMA after a sharp 2025 run, arguing for staggered entries rather than an all-in buy.
+  0.1. **Long Entry?:** maybe — price is in the middle of its 1y and 5y ranges and near strong support at about 147.56 with resistance at 174.57, suggesting a neutral risk/reward entry here; macro froth visibility is limited to general AI enthusiasm and the stock now trades below its recent 20-day average and below short-term SMA/EMA after a sharp pullback from highs, indicating some cooling of near-term exuberance.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Palantir is a software company focused on big data analytics, building and deploying platforms that act as central operating systems for organizations. Its core products include Gotham for government and defense/intelligence customers, Foundry for commercial enterprises, and newer AI-focused offerings such as AIP to activate and control AI on customer data. The company provides analytical tools that integrate diverse data sources to drive decision-making and operational efficiencies for its clients in Western-allied nations.
+  1.1. **Activities:** Palantir Technologies develops and sells data analytics and software platforms that act as central operating systems for organizations. Its core products include Gotham for government and defense intelligence use cases and Foundry for commercial enterprises, with newer offerings like AIP to activate and control AI on customer data. The company focuses on helping customers integrate, analyze, and operationalize large, complex datasets to improve decision-making and efficiency.
   
-  1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.10B, a profit margin of roughly 28%, strong free cash flow of about $1.18B, and earnings growth above 200%.
+  1.2. **Profitable?:** yes — Palantir is profitable, with over $1.09 billion in cumulative net income across recent periods and a profit margin of about 28%.
   
-  1.3. **Customer & Markets:** Palantir primarily serves government agencies (especially defense and intelligence) and commercial enterprises across sectors via its Government and Commercial segments. Its customers are entities in Western-allied nations, with notable strength in U.S. commercial markets and global government contracts. These clients use Palantir platforms to integrate and analyze complex data for defense, security, industrial, and broader enterprise decision-making.
+  1.3. **Customer & Markets:** Palantir serves both government and commercial customers, with Gotham used by defense and intelligence agencies and Foundry used by enterprises across sectors such as industrials, transportation, and other commercial markets. The firm focuses on entities in Western-allied nations and has seen strong U.S. commercial growth while also serving foreign customers. Its platforms are deployed across various industries that require complex data integration and analytics, including government, defense, and a wide range of commercial sectors.
   
-  1.4. **Competition:** Palantir competes with large cloud and analytics platforms such as Microsoft, Google, Amazon, Snowflake, and other AI/big data providers, as well as with in-house and bespoke solutions at major enterprises. While it is a leading name in defense/intelligence analytics and AI-enabled decision platforms, market-share data show it operates alongside much larger software vendors like Microsoft and Oracle rather than dominating the overall software infrastructure market.
+  1.4. **Competition:** Palantir competes broadly with large technology and cloud analytics providers such as Microsoft, Google, Amazon, and specialized data and AI players like Snowflake and C3.ai, as well as traditional enterprise software vendors. It is positioned as a differentiated, big-data and AI platform provider within this landscape but no precise overall ranking among competitors is specified in the data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — despite the labeled 7d 'up' trend in quick facts, the latest session shows a sharp drop from a prior close of 178.40 to 162.25, breaking below the 20-day average and recent SMA/EMA near 179.
+  2.1. **7d Trend?:** down — the stock has fallen from prior resistance around 174.57 and a previous close near 170.96 to 162.25 over recent sessions, despite a broader labeled uptrend, indicating a short-term downward swing in the last few days.
   
-  2.2. **7d Buy/Sell Points?:** Over the past week, entries near the identified support around $147.56 looked like favorable buy levels, while prices approaching the 7d resistance near $174.57 offered good short-term selling opportunities. The recent failure to hold above the 20-day average and SMA/EMA around $179 suggests trimming into strength near the mid-170s to high-170s was prudent.
+  2.2. **7d Buy/Sell Points?:** Over the past week, attractive buy entries were near the identified support around 147.56, while favorable short-term selling or trimming opportunities were near resistance levels around 174.57 and up toward the recent 30-day resistance near 195.70. The current price of 162.25 sits between these levels, offering less asymmetric short-term buy or sell timing than those extremes.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Palantir is a relatively established technology company founded in 2003 and publicly listed since 2020, not a fly-by-night operator. It operates in the software infrastructure sector with entrenched relationships across government and commercial customers in Western-allied nations, indicating durable demand. Financially, it has over $1.09B of cumulative recent net income, a healthy ~28% profit margin, strong free cash flow, and positive operating cash flow, supporting balance-sheet stability. While its stock has historically been volatile, the business itself shows longevity, recurring revenue characteristics, and improving profitability that point to a reasonably stable institution.
+  3.1. **Stability?:** Palantir appears to be a relatively stable institution, having been founded in 2003 and operating for over two decades before going public in 2020. It generates positive net income with an aggregate $1.1 billion in recent profits, a strong profit margin near 28%, and robust free cash flow of about $1.18 billion alongside operating cash flow above $1.8 billion. The company operates in the critical software infrastructure sector serving government and commercial clients, which can provide recurring revenue and long-term contracts. While the stock has historically been volatile, the underlying business and balance of cash generation suggest more than a fly-by-night operation.
   
-  3.2. **Innovating?:** Palantir is clearly innovating and growing, as seen in its strong revenue growth of about 63%, earnings growth above 200%, and expansion of AI-centric platforms like AIP for defense and commercial decision-making. Recent news and analysis also highlight Palantir as a key AI and defense data player with an expanding backlog, suggesting ongoing product and market innovation rather than stagnation.
+  3.2. **Innovating?:** Palantir is innovating and growing, with revenue growth of about 62.8% and earnings growth over 230% cited in the data. Its ongoing development of AI-centric platforms like AIP and expansion in U.S. commercial and defense markets indicate an active growth and innovation trajectory rather than a stale business.
   
   ## 4. Context
   
-  4.1. **News:** Recent context portrays Palantir as a high-profile AI and defense software name that rallied sharply in 2025, with veteran analysts and media frequently including it in AI stock lists and pre-earnings focus pieces. Some coverage notes heavy selling and a 12.5% drop in one week at the start of 2026 amid valuation worries, showing that prior optimism and high expectations may have set up a "sell the high-expectation reality" reaction. Analyst commentary is mixed: firms like Truist label Palantir a "best-in-class" AI asset with a growing backlog, while others warn about elevated multiples and AI bubble risk. These cross-currents suggest the stock has already traded on substantial AI "rumor" and enthusiasm, and subsequent news or earnings can trigger sharp profit-taking, consistent with the buy-the-rumor, sell-the-news dynamic flagged by its volatile price action.
+  4.1. **News:** Recent news flow around Palantir is dominated by broad AI and tech themes, analyst views, and market commentary rather than a single discrete catalyst, with pieces highlighting AI power demand, competitive AI platforms, and Palantir's role among leading AI names. Articles note that Palantir stock surged in 2025 and has since faced volatility and heavy selling into early 2026, with some calling it divisive and warning of ways to lose money even if bullish. Analyst coverage includes upgrades and buy ratings, citing it as a "best-in-class" AI and data asset, which can create elevated expectations. Given that quick facts flag "no" for both "Buy the rumor?" and "Sell the news?", the data suggest that recent performance has not tracked a classic buy-rumor/sell-news pattern but rather a prolonged rerating and subsequent volatility around AI enthusiasm and macro factors.
   
-  4.2. **Tarrifs:** Available data indicate tariffs have not directly hurt Palantir, since it is a software firm with limited import exposure, and some commentary even suggests that tariff-driven geopolitical and supply-chain uncertainty can increase demand for its analytical and defense-related platforms. However, tariffs can still influence overall market sentiment and volatility around PLTR, even if the company is not a primary target of tariff policies.
+  4.2. **Tarrifs:** Tariffs have produced mixed, mostly indirect effects on Palantir's stock, with some commentary suggesting tariff hysteria and Trump's sweeping tariffs can actually support demand for its defense and data capabilities, while broader tariff-driven market selloffs have also coincided with PLTR share price declines. Overall, tariffs appear to influence investor sentiment and short-term volatility around PLTR rather than its core operations directly.
   
   ## 5. QuickRef
   
@@ -182,7 +182,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -223,7 +223,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -251,12 +251,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit in the 1-year and 5-year middle with a recent near-bottom 3-month posture and price near the 7d/30d support of ~$147 rather than the $174–196 resistance; macro AI froth risk is noted by mixed analyst sentiment and bubble concerns, and the stock now trades slightly below its 20-day average and declining SMA/EMA after a sharp 2025 run, arguing for staggered entries rather than an all-in buy.&quot;, &quot;1.1&quot;: &quot;Palantir is a software company focused on big data analytics, building and deploying platforms that act as central operating systems for organizations. Its core products
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the middle of its 1y and 5y ranges and near strong support at about 147.56 with resistance at 174.57, suggesting a neutral risk/reward entry here; macro froth visibility is limited to general AI enthusiasm and the stock now trades below its recent 20-day average and below short-term SMA/EMA after a sharp pullback from highs, indicating some cooling of near-term exuberance.&quot;, &quot;1.1&quot;: &quot;Palantir Technologies develops and sells data analytics and software platforms that act as central operating systems for organizations. Its core products include Gotham for government a
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-15T20:26:12.988754+00:00">2026-01-15 20:26 UTC</time> (runtime 1m 8s)
+**Generated:** <time class="js-local-time" datetime="2026-01-20T10:28:45.181810+00:00">2026-01-20 10:28 UTC</time> (runtime 1m 7s)
 
 ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
 
@@ -303,23 +303,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with a recent near-bottom 3-month posture and price near the 7d/30d support of ~$147 rather than the $174–196 resistance; macro AI froth risk is noted by mixed analyst sentiment and bubble concerns, and the stock now trades slightly below its 20-day average and declining SMA/EMA after a sharp 2025 run, arguing for staggered entries rather than an all-in buy.
+0.1. **Long Entry?:** maybe — price is in the middle of its 1y and 5y ranges and near strong support at about 147.56 with resistance at 174.57, suggesting a neutral risk/reward entry here; macro froth visibility is limited to general AI enthusiasm and the stock now trades below its recent 20-day average and below short-term SMA/EMA after a sharp pullback from highs, indicating some cooling of near-term exuberance.
 
 ## 1. The Biz
 
-1.1. **Activities:** Palantir is a software company focused on big data analytics, building and deploying platforms that act as central operating systems for organizations. Its core products include Gotham for government and defense/intelligence customers, Foundry for commercial enterprises, and newer AI-focused offerings such as AIP to activate and control AI on customer data. The company provides analytical tools that integrate diverse data sources to drive decision-making and operational efficiencies for its clients in Western-allied nations.
+1.1. **Activities:** Palantir Technologies develops and sells data analytics and software platforms that act as central operating systems for organizations. Its core products include Gotham for government and defense intelligence use cases and Foundry for commercial enterprises, with newer offerings like AIP to activate and control AI on customer data. The company focuses on helping customers integrate, analyze, and operationalize large, complex datasets to improve decision-making and efficiency.
 
-1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.10B, a profit margin of roughly 28%, strong free cash flow of about $1.18B, and earnings growth above 200%.
+1.2. **Profitable?:** yes — Palantir is profitable, with over $1.09 billion in cumulative net income across recent periods and a profit margin of about 28%.
 
-1.3. **Customer & Markets:** Palantir primarily serves government agencies (especially defense and intelligence) and commercial enterprises across sectors via its Government and Commercial segments. Its customers are entities in Western-allied nations, with notable strength in U.S. commercial markets and global government contracts. These clients use Palantir platforms to integrate and analyze complex data for defense, security, industrial, and broader enterprise decision-making.
+1.3. **Customer & Markets:** Palantir serves both government and commercial customers, with Gotham used by defense and intelligence agencies and Foundry used by enterprises across sectors such as industrials, transportation, and other commercial markets. The firm focuses on entities in Western-allied nations and has seen strong U.S. commercial growth while also serving foreign customers. Its platforms are deployed across various industries that require complex data integration and analytics, including government, defense, and a wide range of commercial sectors.
 
-1.4. **Competition:** Palantir competes with large cloud and analytics platforms such as Microsoft, Google, Amazon, Snowflake, and other AI/big data providers, as well as with in-house and bespoke solutions at major enterprises. While it is a leading name in defense/intelligence analytics and AI-enabled decision platforms, market-share data show it operates alongside much larger software vendors like Microsoft and Oracle rather than dominating the overall software infrastructure market.
+1.4. **Competition:** Palantir competes broadly with large technology and cloud analytics providers such as Microsoft, Google, Amazon, and specialized data and AI players like Snowflake and C3.ai, as well as traditional enterprise software vendors. It is positioned as a differentiated, big-data and AI platform provider within this landscape but no precise overall ranking among competitors is specified in the data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — despite the labeled 7d 'up' trend in quick facts, the latest session shows a sharp drop from a prior close of 178.40 to 162.25, breaking below the 20-day average and recent SMA/EMA near 179.
+2.1. **7d Trend?:** down — the stock has fallen from prior resistance around 174.57 and a previous close near 170.96 to 162.25 over recent sessions, despite a broader labeled uptrend, indicating a short-term downward swing in the last few days.
 
-2.2. **7d Buy/Sell Points?:** Over the past week, entries near the identified support around $147.56 looked like favorable buy levels, while prices approaching the 7d resistance near $174.57 offered good short-term selling opportunities. The recent failure to hold above the 20-day average and SMA/EMA around $179 suggests trimming into strength near the mid-170s to high-170s was prudent.
+2.2. **7d Buy/Sell Points?:** Over the past week, attractive buy entries were near the identified support around 147.56, while favorable short-term selling or trimming opportunities were near resistance levels around 174.57 and up toward the recent 30-day resistance near 195.70. The current price of 162.25 sits between these levels, offering less asymmetric short-term buy or sell timing than those extremes.
 
 2.3.1. **7d Volume:** med
 
@@ -327,15 +327,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Palantir is a relatively established technology company founded in 2003 and publicly listed since 2020, not a fly-by-night operator. It operates in the software infrastructure sector with entrenched relationships across government and commercial customers in Western-allied nations, indicating durable demand. Financially, it has over $1.09B of cumulative recent net income, a healthy ~28% profit margin, strong free cash flow, and positive operating cash flow, supporting balance-sheet stability. While its stock has historically been volatile, the business itself shows longevity, recurring revenue characteristics, and improving profitability that point to a reasonably stable institution.
+3.1. **Stability?:** Palantir appears to be a relatively stable institution, having been founded in 2003 and operating for over two decades before going public in 2020. It generates positive net income with an aggregate $1.1 billion in recent profits, a strong profit margin near 28%, and robust free cash flow of about $1.18 billion alongside operating cash flow above $1.8 billion. The company operates in the critical software infrastructure sector serving government and commercial clients, which can provide recurring revenue and long-term contracts. While the stock has historically been volatile, the underlying business and balance of cash generation suggest more than a fly-by-night operation.
 
-3.2. **Innovating?:** Palantir is clearly innovating and growing, as seen in its strong revenue growth of about 63%, earnings growth above 200%, and expansion of AI-centric platforms like AIP for defense and commercial decision-making. Recent news and analysis also highlight Palantir as a key AI and defense data player with an expanding backlog, suggesting ongoing product and market innovation rather than stagnation.
+3.2. **Innovating?:** Palantir is innovating and growing, with revenue growth of about 62.8% and earnings growth over 230% cited in the data. Its ongoing development of AI-centric platforms like AIP and expansion in U.S. commercial and defense markets indicate an active growth and innovation trajectory rather than a stale business.
 
 ## 4. Context
 
-4.1. **News:** Recent context portrays Palantir as a high-profile AI and defense software name that rallied sharply in 2025, with veteran analysts and media frequently including it in AI stock lists and pre-earnings focus pieces. Some coverage notes heavy selling and a 12.5% drop in one week at the start of 2026 amid valuation worries, showing that prior optimism and high expectations may have set up a "sell the high-expectation reality" reaction. Analyst commentary is mixed: firms like Truist label Palantir a "best-in-class" AI asset with a growing backlog, while others warn about elevated multiples and AI bubble risk. These cross-currents suggest the stock has already traded on substantial AI "rumor" and enthusiasm, and subsequent news or earnings can trigger sharp profit-taking, consistent with the buy-the-rumor, sell-the-news dynamic flagged by its volatile price action.
+4.1. **News:** Recent news flow around Palantir is dominated by broad AI and tech themes, analyst views, and market commentary rather than a single discrete catalyst, with pieces highlighting AI power demand, competitive AI platforms, and Palantir's role among leading AI names. Articles note that Palantir stock surged in 2025 and has since faced volatility and heavy selling into early 2026, with some calling it divisive and warning of ways to lose money even if bullish. Analyst coverage includes upgrades and buy ratings, citing it as a "best-in-class" AI and data asset, which can create elevated expectations. Given that quick facts flag "no" for both "Buy the rumor?" and "Sell the news?", the data suggest that recent performance has not tracked a classic buy-rumor/sell-news pattern but rather a prolonged rerating and subsequent volatility around AI enthusiasm and macro factors.
 
-4.2. **Tarrifs:** Available data indicate tariffs have not directly hurt Palantir, since it is a software firm with limited import exposure, and some commentary even suggests that tariff-driven geopolitical and supply-chain uncertainty can increase demand for its analytical and defense-related platforms. However, tariffs can still influence overall market sentiment and volatility around PLTR, even if the company is not a primary target of tariff policies.
+4.2. **Tarrifs:** Tariffs have produced mixed, mostly indirect effects on Palantir's stock, with some commentary suggesting tariff hysteria and Trump's sweeping tariffs can actually support demand for its defense and data capabilities, while broader tariff-driven market selloffs have also coincided with PLTR share price declines. Overall, tariffs appear to influence investor sentiment and short-term volatility around PLTR rather than its core operations directly.
 
 ## 5. QuickRef
 
@@ -432,7 +432,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -473,7 +473,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize
     newsapi: 5 result(s)
   newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -501,6 +501,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit in the 1-year and 5-year middle with a recent near-bottom 3-month posture and price near the 7d/30d support of ~$147 rather than the $174–196 resistance; macro AI froth risk is noted by mixed analyst sentiment and bubble concerns, and the stock now trades slightly below its 20-day average and declining SMA/EMA after a sharp 2025 run, arguing for staggered entries rather than an all-in buy.&quot;, &quot;1.1&quot;: &quot;Palantir is a software company focused on big data analytics, building and deploying platforms that act as central operating systems for organizations. Its core products
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the middle of its 1y and 5y ranges and near strong support at about 147.56 with resistance at 174.57, suggesting a neutral risk/reward entry here; macro froth visibility is limited to general AI enthusiasm and the stock now trades below its recent 20-day average and below short-term SMA/EMA after a sharp pullback from highs, indicating some cooling of near-term exuberance.&quot;, &quot;1.1&quot;: &quot;Palantir Technologies develops and sells data analytics and software platforms that act as central operating systems for organizations. Its core products include Gotham for government a
 </code></pre>
 </details>
