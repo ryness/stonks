@@ -2,11 +2,11 @@
 layout: default
 title: "GLD Stock Report"
 ticker: "GLD"
-date: 2026-01-17
-generated_at: 2026-01-17T05:20:50.946103+00:00
-runtime_seconds: 33.38
+date: 2026-01-21
+generated_at: 2026-01-21T20:30:29.132477+00:00
+runtime_seconds: 31.97
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-17T05:20:50.946103+00:00">2026-01-17 05:20 UTC</time> (runtime 33.38s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-21T20:30:29.132477+00:00">2026-01-21 20:30 UTC</time> (runtime 31.97s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -51,23 +51,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — price is near 1yr/5yr peaks and tagged 7d resistance at 382.52 with GLD flagged as overbought; macro context cites record-high equity markets and AI rally froth while GLD now trades below its 20-day SMA/EMA and only modestly above 7d/30d supports, making risk/reward for new longs unattractive here.
+  0.1. **Long Entry?:** no — price is near 1-year and 5-year peaks and tagged 7d resistance at 382.52 while flagged as overbought; macro context shows broader equity froth but limited GLD-specific bubble data, and GLD now trades slightly below its 20-day average yet well above 7d/30d supports (371.85/364.65), skewing near-term risk/reward to the downside.
   
   ## 1. The Biz
   
-  1.1. **Activities:** SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds allocated gold bars in vaults. It issues and redeems large share blocks ("Baskets") in exchange for deposits and withdrawals of gold. Its objective is for the shares to mirror the price performance of gold bullion, minus trust expenses, offering investors cost-effective gold exposure.
+  1.1. **Activities:** SPDR Gold Shares (GLD) is a commodity-backed exchange-traded trust that holds physical gold bars and issues and redeems large blocks of shares ("Baskets") in exchange for deposits or withdrawals of bullion. Its shares are designed to track the price performance of gold bullion, less trust expenses. The vehicle provides investors with a cost-effective, exchange-traded way to gain exposure to gold prices without directly storing or handling metal.
   
-  1.2. **Profitable?:** no — the trust's objective is to track gold bullion price and, per sponsor disclosures, it does not generate operating profits but instead periodically sells gold to pay expenses, so it is not run to be conventionally profitable.
+  1.2. **Profitable?:** no — as a bullion-holding trust GLD does not operate a conventional profit-making business and regularly sells small amounts of gold to pay expenses, so it is not managed to generate accounting profits.
   
-  1.3. **Customer & Markets:** GLD primarily serves investors seeking exposure to gold, including individuals, financial advisors, and institutions using ETFs as portfolio tools. Its market is the global investment community that trades on U.S. exchanges and uses gold for diversification, inflation hedging, or risk management rather than for jewelry or industrial demand.
+  1.3. **Customer & Markets:** GLD's primary "customers" are investors seeking exposure to gold prices, including individuals and institutions using it as a portfolio diversifier or inflation/geopolitical hedge. Its market is the global financial gold market, where its shares trade on U.S. exchanges and provide indirect access to physical bullion held by the trust. Demand is tied to overall gold investment interest rather than specific industries or regions.
   
-  1.4. **Competition:** GLD's main competitors are other physically backed gold ETFs and trusts such as iShares Gold Trust (IAU) and similar gold products listed in peer comparisons; GLD is highlighted by its sponsor as the first and one of the largest and most liquid gold ETFs, making it a leading product in this category.
+  1.4. **Competition:** GLD's main competitors are other physically backed gold ETFs and ETPs, as indicated by peer and similar-ETF comparisons; sponsor materials describe it as a leading and first U.S.-listed physically backed gold ETF, implying a top-tier position by size and prominence among gold funds. Detailed market-share rankings versus specific rivals are not provided in the supplied data.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week price has risen from near the 7d support of 371.85 toward and briefly into the 7d resistance area around 382.52, and the quick facts label the 7d trend as up.
+  2.1. **7d Trend?:** up — the 7d Trend label is 'up' and price has moved from the support area toward and slightly off the 7d resistance near 382.52.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the 7d support zone around 371.85 and the broader 30d support near 364.65 offered better entries, while trimming or selling into strength near the recent local high and 7d resistance at 382.52 was a favorable exit area. Current price around 380.08 sits closer to resistance than support, reducing near-term upside-to-downside skew.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent 7d support around 371.85 and the 30d support at 364.65 appears to have offered favorable entries; trimming or selling into strength near the 7d and 30d resistance band around 382.52–388.18 would have captured short-term gains.
   
   2.3.1. **7d Volume:** med
   
@@ -75,15 +75,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SPDR Gold Shares is a long-established, large physically backed ETF structure designed to track gold bullion, suggesting institutional-grade stability rather than a fly-by-night operation. The trust holds allocated gold bars and operates under a transparent framework of issuing and redeeming baskets against physical metal. Its objective is simply to reflect gold prices less expenses, and there is no indication of leveraged or exotic balance-sheet risk in the provided data. Being widely referenced in major financial media and ETF research further supports its status as a core, stable vehicle for gold exposure.
+  3.1. **Stability?:** GLD is a large, long-established gold-backed ETF structure rather than an operating company, designed to securely hold bullion and closely track the gold price. The trust's sole asset is physical gold bars, and its objective is to mirror gold bullion performance net of expenses, limiting operating complexity and credit risk versus typical corporations. Its stability is thus largely a function of gold market dynamics and custodial arrangements rather than balance-sheet leverage or earnings variability. The 5-year chart shows significant appreciation from historical lows, consistent with a mature, widely used vehicle tied to a major global asset class. Overall, GLD represents a structurally stable institution for accessing gold, though its share price remains as volatile as the underlying metal.
   
-  3.2. **Innovating?:** GLD itself is a mature, single-purpose product focused on holding gold, with no indication in the data of new product lines or business innovations. Growth in its relevance appears tied mainly to external factors like gold demand, interest-rate expectations, and geopolitical tensions rather than internal innovation.
+  3.2. **Innovating?:** GLD is not an operating business focused on product innovation; its mandate is to passively track gold bullion prices, so growth comes from changes in gold's value and asset inflows rather than new products or technological advances.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines focus on macro themes—Fed inflation gauges (PCE), expectations of rate cuts, election-related uncertainty, and an AI-driven equity rally—alongside pieces explicitly highlighting a strong gold rally and the possibility of gold approaching $3,000. Coverage of "Gold Set to Break $3,000? ETFs to Consider" and "Gold and Bitcoin Rebound" signals that bullish gold narratives are already prominent. In that environment, GLD may have benefited from "buy the rumor" around rate cuts and geopolitical risk, with its near-peak 1yr/5yr levels raising the risk of "sell the news" if inflation or policy data disappoints. The quick facts explicitly tag "Buy the rumor?" as no and "Sell the news?" as yes, underscoring that much of the favorable macro story may be in the price and that positive data could trigger profit-taking rather than fresh upside.
+  4.1. **News:** Recent coverage emphasizes macro drivers such as Fed rate-cut expectations, inflation (PCE) reports, and geopolitical tensions, all of which influence demand for gold and gold ETFs like GLD. Articles note that prior benign inflation data pushed broader markets to highs while also supporting risk assets, and that upcoming PCE prints could again shift flows between equities and safe havens such as gold. Zacks highlights the potential for gold to approach $3,000 amid geopolitical risk, rate-cut prospects, and central-bank buying, pointing investors toward gold ETFs. Benzinga pieces describe gold and Bitcoin rebounding on days when equities pause, underscoring GLD's role as a tactical hedge. In this context, "buy the rumor, sell the news" suggests that gold and GLD can rally ahead of dovish or risk-off headlines, with some risk of giveback once data or policy is confirmed, consistent with quick facts flagging 'sell the news'.
   
-  4.2. **Tarrifs:** Tariffs on goods have not directly targeted GLD's underlying gold holdings in the supplied data, but multiple sources note that broader tariff and trade-war uncertainty has boosted gold prices as a safe-haven, which in turn supports GLD's value; thus tariffs tend to be indirectly positive for the stock when they increase macro risk and inflation concerns.
+  4.2. **Tarrifs:** Tariffs affect GLD indirectly through their impact on gold prices: supplied gold-market commentary notes that tariff threats and trade uncertainty can push investors toward gold as a hedge, boosting bullion and thus GLD's value, while tariff relief or de-escalation can pressure gold, but no GLD-specific tariff policy or direct levy is cited.
   
   ## 5. QuickRef
   
@@ -169,7 +169,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; GLD business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; GLD profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -247,12 +247,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is near 1yr/5yr peaks and tagged 7d resistance at 382.52 with GLD flagged as overbought; macro context cites record-high equity markets and AI rally froth while GLD now trades below its 20-day SMA/EMA and only modestly above 7d/30d supports, making risk/reward for new longs unattractive here.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds allocated gold bars in vaults. It issues and redeems large share blocks (“Baskets”) in exchange for deposits and withdrawals of gold. Its objective is for the shares to mirror the price performance of
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is near 1-year and 5-year peaks and tagged 7d resistance at 382.52 while flagged as overbought; macro context shows broader equity froth but limited GLD-specific bubble data, and GLD now trades slightly below its 20-day average yet well above 7d/30d supports (371.85/364.65), skewing near-term risk/reward to the downside.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Shares (GLD) is a commodity-backed exchange-traded trust that holds physical gold bars and issues and redeems large blocks of shares (“Baskets”) in exchange for deposits or withdrawals of bullion. Its shares are designed to track the price 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-17T05:20:50.946103+00:00">2026-01-17 05:20 UTC</time> (runtime 33.38s)
+**Generated:** <time class="js-local-time" datetime="2026-01-21T20:30:29.132477+00:00">2026-01-21 20:30 UTC</time> (runtime 31.97s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -297,23 +297,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — price is near 1yr/5yr peaks and tagged 7d resistance at 382.52 with GLD flagged as overbought; macro context cites record-high equity markets and AI rally froth while GLD now trades below its 20-day SMA/EMA and only modestly above 7d/30d supports, making risk/reward for new longs unattractive here.
+0.1. **Long Entry?:** no — price is near 1-year and 5-year peaks and tagged 7d resistance at 382.52 while flagged as overbought; macro context shows broader equity froth but limited GLD-specific bubble data, and GLD now trades slightly below its 20-day average yet well above 7d/30d supports (371.85/364.65), skewing near-term risk/reward to the downside.
 
 ## 1. The Biz
 
-1.1. **Activities:** SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds allocated gold bars in vaults. It issues and redeems large share blocks ("Baskets") in exchange for deposits and withdrawals of gold. Its objective is for the shares to mirror the price performance of gold bullion, minus trust expenses, offering investors cost-effective gold exposure.
+1.1. **Activities:** SPDR Gold Shares (GLD) is a commodity-backed exchange-traded trust that holds physical gold bars and issues and redeems large blocks of shares ("Baskets") in exchange for deposits or withdrawals of bullion. Its shares are designed to track the price performance of gold bullion, less trust expenses. The vehicle provides investors with a cost-effective, exchange-traded way to gain exposure to gold prices without directly storing or handling metal.
 
-1.2. **Profitable?:** no — the trust's objective is to track gold bullion price and, per sponsor disclosures, it does not generate operating profits but instead periodically sells gold to pay expenses, so it is not run to be conventionally profitable.
+1.2. **Profitable?:** no — as a bullion-holding trust GLD does not operate a conventional profit-making business and regularly sells small amounts of gold to pay expenses, so it is not managed to generate accounting profits.
 
-1.3. **Customer & Markets:** GLD primarily serves investors seeking exposure to gold, including individuals, financial advisors, and institutions using ETFs as portfolio tools. Its market is the global investment community that trades on U.S. exchanges and uses gold for diversification, inflation hedging, or risk management rather than for jewelry or industrial demand.
+1.3. **Customer & Markets:** GLD's primary "customers" are investors seeking exposure to gold prices, including individuals and institutions using it as a portfolio diversifier or inflation/geopolitical hedge. Its market is the global financial gold market, where its shares trade on U.S. exchanges and provide indirect access to physical bullion held by the trust. Demand is tied to overall gold investment interest rather than specific industries or regions.
 
-1.4. **Competition:** GLD's main competitors are other physically backed gold ETFs and trusts such as iShares Gold Trust (IAU) and similar gold products listed in peer comparisons; GLD is highlighted by its sponsor as the first and one of the largest and most liquid gold ETFs, making it a leading product in this category.
+1.4. **Competition:** GLD's main competitors are other physically backed gold ETFs and ETPs, as indicated by peer and similar-ETF comparisons; sponsor materials describe it as a leading and first U.S.-listed physically backed gold ETF, implying a top-tier position by size and prominence among gold funds. Detailed market-share rankings versus specific rivals are not provided in the supplied data.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week price has risen from near the 7d support of 371.85 toward and briefly into the 7d resistance area around 382.52, and the quick facts label the 7d trend as up.
+2.1. **7d Trend?:** up — the 7d Trend label is 'up' and price has moved from the support area toward and slightly off the 7d resistance near 382.52.
 
-2.2. **7d Buy/Sell Points?:** Buying near the 7d support zone around 371.85 and the broader 30d support near 364.65 offered better entries, while trimming or selling into strength near the recent local high and 7d resistance at 382.52 was a favorable exit area. Current price around 380.08 sits closer to resistance than support, reducing near-term upside-to-downside skew.
+2.2. **7d Buy/Sell Points?:** Buying near the recent 7d support around 371.85 and the 30d support at 364.65 appears to have offered favorable entries; trimming or selling into strength near the 7d and 30d resistance band around 382.52–388.18 would have captured short-term gains.
 
 2.3.1. **7d Volume:** med
 
@@ -321,15 +321,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SPDR Gold Shares is a long-established, large physically backed ETF structure designed to track gold bullion, suggesting institutional-grade stability rather than a fly-by-night operation. The trust holds allocated gold bars and operates under a transparent framework of issuing and redeeming baskets against physical metal. Its objective is simply to reflect gold prices less expenses, and there is no indication of leveraged or exotic balance-sheet risk in the provided data. Being widely referenced in major financial media and ETF research further supports its status as a core, stable vehicle for gold exposure.
+3.1. **Stability?:** GLD is a large, long-established gold-backed ETF structure rather than an operating company, designed to securely hold bullion and closely track the gold price. The trust's sole asset is physical gold bars, and its objective is to mirror gold bullion performance net of expenses, limiting operating complexity and credit risk versus typical corporations. Its stability is thus largely a function of gold market dynamics and custodial arrangements rather than balance-sheet leverage or earnings variability. The 5-year chart shows significant appreciation from historical lows, consistent with a mature, widely used vehicle tied to a major global asset class. Overall, GLD represents a structurally stable institution for accessing gold, though its share price remains as volatile as the underlying metal.
 
-3.2. **Innovating?:** GLD itself is a mature, single-purpose product focused on holding gold, with no indication in the data of new product lines or business innovations. Growth in its relevance appears tied mainly to external factors like gold demand, interest-rate expectations, and geopolitical tensions rather than internal innovation.
+3.2. **Innovating?:** GLD is not an operating business focused on product innovation; its mandate is to passively track gold bullion prices, so growth comes from changes in gold's value and asset inflows rather than new products or technological advances.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines focus on macro themes—Fed inflation gauges (PCE), expectations of rate cuts, election-related uncertainty, and an AI-driven equity rally—alongside pieces explicitly highlighting a strong gold rally and the possibility of gold approaching $3,000. Coverage of "Gold Set to Break $3,000? ETFs to Consider" and "Gold and Bitcoin Rebound" signals that bullish gold narratives are already prominent. In that environment, GLD may have benefited from "buy the rumor" around rate cuts and geopolitical risk, with its near-peak 1yr/5yr levels raising the risk of "sell the news" if inflation or policy data disappoints. The quick facts explicitly tag "Buy the rumor?" as no and "Sell the news?" as yes, underscoring that much of the favorable macro story may be in the price and that positive data could trigger profit-taking rather than fresh upside.
+4.1. **News:** Recent coverage emphasizes macro drivers such as Fed rate-cut expectations, inflation (PCE) reports, and geopolitical tensions, all of which influence demand for gold and gold ETFs like GLD. Articles note that prior benign inflation data pushed broader markets to highs while also supporting risk assets, and that upcoming PCE prints could again shift flows between equities and safe havens such as gold. Zacks highlights the potential for gold to approach $3,000 amid geopolitical risk, rate-cut prospects, and central-bank buying, pointing investors toward gold ETFs. Benzinga pieces describe gold and Bitcoin rebounding on days when equities pause, underscoring GLD's role as a tactical hedge. In this context, "buy the rumor, sell the news" suggests that gold and GLD can rally ahead of dovish or risk-off headlines, with some risk of giveback once data or policy is confirmed, consistent with quick facts flagging 'sell the news'.
 
-4.2. **Tarrifs:** Tariffs on goods have not directly targeted GLD's underlying gold holdings in the supplied data, but multiple sources note that broader tariff and trade-war uncertainty has boosted gold prices as a safe-haven, which in turn supports GLD's value; thus tariffs tend to be indirectly positive for the stock when they increase macro risk and inflation concerns.
+4.2. **Tarrifs:** Tariffs affect GLD indirectly through their impact on gold prices: supplied gold-market commentary notes that tariff threats and trade uncertainty can push investors toward gold as a hedge, boosting bullion and thus GLD's value, while tariff relief or de-escalation can pressure gold, but no GLD-specific tariff policy or direct levy is cited.
 
 ## 5. QuickRef
 
@@ -415,7 +415,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; GLD business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; GLD profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -493,6 +493,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is near 1yr/5yr peaks and tagged 7d resistance at 382.52 with GLD flagged as overbought; macro context cites record-high equity markets and AI rally froth while GLD now trades below its 20-day SMA/EMA and only modestly above 7d/30d supports, making risk/reward for new longs unattractive here.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds allocated gold bars in vaults. It issues and redeems large share blocks (“Baskets”) in exchange for deposits and withdrawals of gold. Its objective is for the shares to mirror the price performance of
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is near 1-year and 5-year peaks and tagged 7d resistance at 382.52 while flagged as overbought; macro context shows broader equity froth but limited GLD-specific bubble data, and GLD now trades slightly below its 20-day average yet well above 7d/30d supports (371.85/364.65), skewing near-term risk/reward to the downside.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Shares (GLD) is a commodity-backed exchange-traded trust that holds physical gold bars and issues and redeems large blocks of shares (“Baskets”) in exchange for deposits or withdrawals of bullion. Its shares are designed to track the price 
 </code></pre>
 </details>
