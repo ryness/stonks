@@ -2,11 +2,11 @@
 layout: default
 title: "POET Stock Report"
 ticker: "POET"
-date: 2026-01-18
-generated_at: 2026-01-18T01:51:44.901339+00:00
-runtime_seconds: 30.32
+date: 2026-01-22
+generated_at: 2026-01-22T15:31:12.576511+00:00
+runtime_seconds: 26.72
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-18T01:51:44.901339+00:00">2026-01-18 01:51 UTC</time> (runtime 30.32s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-22T15:31:12.576511+00:00">2026-01-22 15:31 UTC</time> (runtime 26.72s)
   
   ![POET Technologies Inc. Common Shares logo](https://ryness.github.io/stonks/assets/logos/POET.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a 7d uptrend and trading just above 20-day DMA and close to 7d resistance at $4.85 after a sharp drop from a prior close of $8.30, placing them near 3mo 'near-bottom' but mid-range over 1yr/5yr; macro froth context is not provided so broader bubble risk visibility is limited.
+  0.1. **Long Entry?:** maybe — price is in an uptrend near 7d resistance at 4.85 and just above 20-day average 4.42 with 3mo positioning flagged as near-bottom; macro froth visibility is limited beyond a generally rising market backdrop; high short-term volatility (ATR ~8.2%) and recent drop from a 30d resistance of 6.15 argue for patience or scaling in near support around 3.87
   
   ## 1. The Biz
   
-  1.1. **Activities:** POET Technologies Inc. designs and develops high-speed optical engines, light source products, and custom optical modules for artificial intelligence systems and hyperscale data centers. Its offerings are built on the patented POET Optical Interposer platform, which integrates electronic and photonic devices into a single chip using wafer-level semiconductor manufacturing. The platform also addresses integration challenges across communication, computing, and sensing applications.
+  1.1. **Activities:** POET Technologies designs and develops high-speed optical engines, light source products, and custom optical modules serving artificial intelligence systems and hyperscale data centers. Its core technology is the POET Optical Interposer, a patented platform that integrates electronic and photonic devices on a single chip using wafer-level semiconductor manufacturing. The company applies this platform across communication, computing, and sensing applications.
   
-  1.2. **Profitable?:** no — the company shows a cumulative net loss of about -$50.6M, recent net income values mostly negative, zero profit margin, and negative free and operating cash flow, with no explicit profitability timeline disclosed.
+  1.2. **Profitable?:** no — POET is not currently profitable, with a cumulative net income of about -$50.6M and negative free and operating cash flow despite rapid revenue growth of ~80%.
   
-  1.3. **Customer & Markets:** POET's primary customers are in the artificial intelligence systems market and hyperscale data centers that require high-speed optical interconnects. Its technology targets broader communication, computing, and sensing applications across regions including the United States, Canada, Singapore, and China. These customers are largely enterprise and infrastructure providers rather than retail end-users.
+  1.3. **Customer & Markets:** POET's primary customers are OEMs and system builders in artificial intelligence infrastructure and hyperscale data centers that need high-speed optical interconnects. Its markets span communications, computing, and sensing applications, and it operates across the United States, Canada, Singapore, and China.
   
-  1.4. **Competition:** Key competitors in semiconductors and advanced computing interconnects include companies such as NVIDIA, AMD, Intel, and Qualcomm, alongside optical and photonics specialists noted in external sources. POET operates as a smaller player in this landscape, offering a differentiated optical interposer platform rather than competing as a top-tier general-purpose chip vendor.
+  1.4. **Competition:** Key competitors include large semiconductor and optics players such as NVIDIA, AMD, Intel, and Qualcomm, as well as specialized optical engine and transceiver vendors; based on the data POET is a smaller, emerging player rather than a market leader.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rising from support around $3.87 toward resistance near $4.85.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from near 7d support at 3.87 toward resistance at 4.85.
   
-  2.2. **7d Buy/Sell Points?:** During the last week, the area near support around $3.87 offered a favorable buy zone, while levels approaching the 7d resistance and recent local high around $4.85 were better for taking profits or trimming positions.
+  2.2. **7d Buy/Sell Points?:** Buying near the 7d/30d support zone around 3.87 appears to have been an attractive entry, while the recent tests of 7d resistance around 4.85 have offered logical short-term selling or trimming points.
   
   2.3.1. **7d Volume:** low
   
@@ -77,13 +77,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** POET Technologies is a long-established technology company operating since at least the earlier 2010s, with activities across the United States, Canada, Singapore, and China, suggesting it is not a fly-by-night entity. However, its financials show a cumulative net loss of about -$50.6M, negative free cash flow of about -$8.4M, and negative operating cash flow of about -$28.2M, indicating ongoing cash burn. Recent news highlights that the firm secured a US$150M oversubscribed registered direct offering and additional equity financing totaling $250M, boosting its cash position to over $300M and strengthening its balance sheet. Overall, it is a small but established company with improved liquidity but still dependent on external capital to fund operations and growth.
+  3.1. **Stability?:** POET appears to be an emerging but not yet fully mature institution: it has a patented platform technology and operates across multiple countries (U.S., Canada, Singapore, China), indicating some operational depth. However, its financials show a cumulative net loss of about $50.6M, zero profit margin, and negative operating and free cash flow, which heightens funding dependence. The company recently secured substantial equity financing ($150M direct offering and a total cash position over $300M), which bolsters its balance sheet and near-term viability. Overall it is more speculative than a seasoned blue-chip, but its cash raise reduces immediate solvency risk.
   
-  3.2. **Innovating?:** POET appears to be innovating and growing, as evidenced by its patented Optical Interposer platform and new optical engine and receiver products for AI and data center markets, along with nearly 80% revenue growth. The sizable recent equity financing intended for R&D scaling, corporate development, and potential acquisitions further supports a focus on expansion rather than a mature, stagnant profile.
+  3.2. **Innovating?:** POET is actively innovating and growing, with its Optical Interposer platform targeting AI and data center markets, new optical receiver products, and initial production orders exceeding $5.6M. The recent large equity financing is earmarked for R&D scaling, corporate development, and potential acquisitions, reinforcing a growth and innovation focus rather than a mature, static profile.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on POET's Q3 2025 results, where it reported progress on optical engine and light source products and initial production orders exceeding $5.6M, alongside a large $250M equity financing that significantly bolsters its cash position. The company also announced an oversubscribed US$150M registered direct offering from new institutional investors to fund R&D, corporate development, and acquisitions. Broader market headlines mention rising U.S. stock futures on expectations of potential Federal Reserve rate cuts but do not tie to POET-specific rumors. Given the quick facts indicating 'no' for both 'Buy the rumor?' and 'Sell the news?', recent stock action does not appear to be a classic buy-the-rumor, sell-the-news pattern around these announcements.
+  4.1. **News:** Recent news highlights Q3 2025 results emphasizing technological progress and initial $5.6M in production orders, alongside a large $250M total equity financing that leaves POET with over $300M in cash. Another headline details the oversubscribed $150M registered direct offering from new institutional investors, supporting expansion in AI and data center optics. Broader market headlines reference rising U.S. index futures tied to Fed rate-cut expectations but do not mention POET specifically. So far, there is no clear pattern of 'buy the rumor, sell the news' in the supplied items; instead, strong fundamental news (financing, product launches) coexists with a volatile share price, suggesting investors are still digesting dilution versus growth optionality. Rumor-oriented links from forums exist but are not detailed enough here to indicate a tradable rumor-versus-news dynamic.
   
   4.2. **Tarrifs:** unknown
   
@@ -204,7 +204,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; POET competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; POET rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=POET+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -216,10 +216,10 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; POET tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     newsapi search -&gt; POET latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; POET latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=POET+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -247,12 +247,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in a 7d uptrend and trading just above 20-day DMA and close to 7d resistance at $4.85 after a sharp drop from a prior close of $8.30, placing them near 3mo &#x27;near-bottom&#x27; but mid-range over 1yr/5yr; macro froth context is not provided so broader bubble risk visibility is limited.&quot;,&quot;1.1&quot;:&quot;POET Technologies Inc. designs and develops high-speed optical engines, light source products, and custom optical modules for artificial intelligence systems and hyperscale data centers. Its offerings are built on the patented POET Optical Interposer platform, which integrates electro
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in an uptrend near 7d resistance at 4.85 and just above 20-day average 4.42 with 3mo positioning flagged as near-bottom; macro froth visibility is limited beyond a generally rising market backdrop; high short-term volatility (ATR ~8.2%) and recent drop from a 30d resistance of 6.15 argue for patience or scaling in near support around 3.87&quot;,&quot;1.1&quot;:&quot;POET Technologies designs and develops high-speed optical engines, light source products, and custom optical modules serving artificial intelligence systems and hyperscale data centers. Its core technology is the POET Optical 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-18T01:51:44.901339+00:00">2026-01-18 01:51 UTC</time> (runtime 30.32s)
+**Generated:** <time class="js-local-time" datetime="2026-01-22T15:31:12.576511+00:00">2026-01-22 15:31 UTC</time> (runtime 26.72s)
 
 ![POET Technologies Inc. Common Shares logo](https://ryness.github.io/stonks/assets/logos/POET.svg)
 
@@ -299,23 +299,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a 7d uptrend and trading just above 20-day DMA and close to 7d resistance at $4.85 after a sharp drop from a prior close of $8.30, placing them near 3mo 'near-bottom' but mid-range over 1yr/5yr; macro froth context is not provided so broader bubble risk visibility is limited.
+0.1. **Long Entry?:** maybe — price is in an uptrend near 7d resistance at 4.85 and just above 20-day average 4.42 with 3mo positioning flagged as near-bottom; macro froth visibility is limited beyond a generally rising market backdrop; high short-term volatility (ATR ~8.2%) and recent drop from a 30d resistance of 6.15 argue for patience or scaling in near support around 3.87
 
 ## 1. The Biz
 
-1.1. **Activities:** POET Technologies Inc. designs and develops high-speed optical engines, light source products, and custom optical modules for artificial intelligence systems and hyperscale data centers. Its offerings are built on the patented POET Optical Interposer platform, which integrates electronic and photonic devices into a single chip using wafer-level semiconductor manufacturing. The platform also addresses integration challenges across communication, computing, and sensing applications.
+1.1. **Activities:** POET Technologies designs and develops high-speed optical engines, light source products, and custom optical modules serving artificial intelligence systems and hyperscale data centers. Its core technology is the POET Optical Interposer, a patented platform that integrates electronic and photonic devices on a single chip using wafer-level semiconductor manufacturing. The company applies this platform across communication, computing, and sensing applications.
 
-1.2. **Profitable?:** no — the company shows a cumulative net loss of about -$50.6M, recent net income values mostly negative, zero profit margin, and negative free and operating cash flow, with no explicit profitability timeline disclosed.
+1.2. **Profitable?:** no — POET is not currently profitable, with a cumulative net income of about -$50.6M and negative free and operating cash flow despite rapid revenue growth of ~80%.
 
-1.3. **Customer & Markets:** POET's primary customers are in the artificial intelligence systems market and hyperscale data centers that require high-speed optical interconnects. Its technology targets broader communication, computing, and sensing applications across regions including the United States, Canada, Singapore, and China. These customers are largely enterprise and infrastructure providers rather than retail end-users.
+1.3. **Customer & Markets:** POET's primary customers are OEMs and system builders in artificial intelligence infrastructure and hyperscale data centers that need high-speed optical interconnects. Its markets span communications, computing, and sensing applications, and it operates across the United States, Canada, Singapore, and China.
 
-1.4. **Competition:** Key competitors in semiconductors and advanced computing interconnects include companies such as NVIDIA, AMD, Intel, and Qualcomm, alongside optical and photonics specialists noted in external sources. POET operates as a smaller player in this landscape, offering a differentiated optical interposer platform rather than competing as a top-tier general-purpose chip vendor.
+1.4. **Competition:** Key competitors include large semiconductor and optics players such as NVIDIA, AMD, Intel, and Qualcomm, as well as specialized optical engine and transceiver vendors; based on the data POET is a smaller, emerging player rather than a market leader.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' with price rising from support around $3.87 toward resistance near $4.85.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from near 7d support at 3.87 toward resistance at 4.85.
 
-2.2. **7d Buy/Sell Points?:** During the last week, the area near support around $3.87 offered a favorable buy zone, while levels approaching the 7d resistance and recent local high around $4.85 were better for taking profits or trimming positions.
+2.2. **7d Buy/Sell Points?:** Buying near the 7d/30d support zone around 3.87 appears to have been an attractive entry, while the recent tests of 7d resistance around 4.85 have offered logical short-term selling or trimming points.
 
 2.3.1. **7d Volume:** low
 
@@ -323,13 +323,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** POET Technologies is a long-established technology company operating since at least the earlier 2010s, with activities across the United States, Canada, Singapore, and China, suggesting it is not a fly-by-night entity. However, its financials show a cumulative net loss of about -$50.6M, negative free cash flow of about -$8.4M, and negative operating cash flow of about -$28.2M, indicating ongoing cash burn. Recent news highlights that the firm secured a US$150M oversubscribed registered direct offering and additional equity financing totaling $250M, boosting its cash position to over $300M and strengthening its balance sheet. Overall, it is a small but established company with improved liquidity but still dependent on external capital to fund operations and growth.
+3.1. **Stability?:** POET appears to be an emerging but not yet fully mature institution: it has a patented platform technology and operates across multiple countries (U.S., Canada, Singapore, China), indicating some operational depth. However, its financials show a cumulative net loss of about $50.6M, zero profit margin, and negative operating and free cash flow, which heightens funding dependence. The company recently secured substantial equity financing ($150M direct offering and a total cash position over $300M), which bolsters its balance sheet and near-term viability. Overall it is more speculative than a seasoned blue-chip, but its cash raise reduces immediate solvency risk.
 
-3.2. **Innovating?:** POET appears to be innovating and growing, as evidenced by its patented Optical Interposer platform and new optical engine and receiver products for AI and data center markets, along with nearly 80% revenue growth. The sizable recent equity financing intended for R&D scaling, corporate development, and potential acquisitions further supports a focus on expansion rather than a mature, stagnant profile.
+3.2. **Innovating?:** POET is actively innovating and growing, with its Optical Interposer platform targeting AI and data center markets, new optical receiver products, and initial production orders exceeding $5.6M. The recent large equity financing is earmarked for R&D scaling, corporate development, and potential acquisitions, reinforcing a growth and innovation focus rather than a mature, static profile.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on POET's Q3 2025 results, where it reported progress on optical engine and light source products and initial production orders exceeding $5.6M, alongside a large $250M equity financing that significantly bolsters its cash position. The company also announced an oversubscribed US$150M registered direct offering from new institutional investors to fund R&D, corporate development, and acquisitions. Broader market headlines mention rising U.S. stock futures on expectations of potential Federal Reserve rate cuts but do not tie to POET-specific rumors. Given the quick facts indicating 'no' for both 'Buy the rumor?' and 'Sell the news?', recent stock action does not appear to be a classic buy-the-rumor, sell-the-news pattern around these announcements.
+4.1. **News:** Recent news highlights Q3 2025 results emphasizing technological progress and initial $5.6M in production orders, alongside a large $250M total equity financing that leaves POET with over $300M in cash. Another headline details the oversubscribed $150M registered direct offering from new institutional investors, supporting expansion in AI and data center optics. Broader market headlines reference rising U.S. index futures tied to Fed rate-cut expectations but do not mention POET specifically. So far, there is no clear pattern of 'buy the rumor, sell the news' in the supplied items; instead, strong fundamental news (financing, product launches) coexists with a volatile share price, suggesting investors are still digesting dilution versus growth optionality. Rumor-oriented links from forums exist but are not detailed enough here to indicate a tradable rumor-versus-news dynamic.
 
 4.2. **Tarrifs:** unknown
 
@@ -450,7 +450,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; POET competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; POET rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=POET+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -462,10 +462,10 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+rumor&amp;pageSize=
     newsapi: 5 result(s)
   newsapi search -&gt; POET tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   newsapi search -&gt; POET latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=POET+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; POET latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=POET+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -493,6 +493,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in a 7d uptrend and trading just above 20-day DMA and close to 7d resistance at $4.85 after a sharp drop from a prior close of $8.30, placing them near 3mo &#x27;near-bottom&#x27; but mid-range over 1yr/5yr; macro froth context is not provided so broader bubble risk visibility is limited.&quot;,&quot;1.1&quot;:&quot;POET Technologies Inc. designs and develops high-speed optical engines, light source products, and custom optical modules for artificial intelligence systems and hyperscale data centers. Its offerings are built on the patented POET Optical Interposer platform, which integrates electro
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in an uptrend near 7d resistance at 4.85 and just above 20-day average 4.42 with 3mo positioning flagged as near-bottom; macro froth visibility is limited beyond a generally rising market backdrop; high short-term volatility (ATR ~8.2%) and recent drop from a 30d resistance of 6.15 argue for patience or scaling in near support around 3.87&quot;,&quot;1.1&quot;:&quot;POET Technologies designs and develops high-speed optical engines, light source products, and custom optical modules serving artificial intelligence systems and hyperscale data centers. Its core technology is the POET Optical 
 </code></pre>
 </details>
