@@ -2,11 +2,11 @@
 layout: default
 title: "NOW Stock Report"
 ticker: "NOW"
-date: 2026-01-19
-generated_at: 2026-01-19T10:28:39.900714+00:00
-runtime_seconds: 28.20
+date: 2026-01-24
+generated_at: 2026-01-24T01:42:17.215610+00:00
+runtime_seconds: 31.54
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-19T10:28:39.900714+00:00">2026-01-19 10:28 UTC</time> (runtime 28.20s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-24T01:42:17.215610+00:00">2026-01-24 01:42 UTC</time> (runtime 31.54s)
   
   ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in a 3-month near-bottom zone and mid-range versus 1yr/5yr history, reducing immediate bubble risk; macro froth cues for this specific name are limited and it currently trades just above 7d/30d support around 795 but below its 20-day moving average and near 7d resistance at 831.69.
+  0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.
   
   ## 1. The Biz
   
-  1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It originated in IT service management and expanded into broader IT workflows and platform-as-a-service. The company now also supports workflows in customer service, HR service delivery, and security operations.
+  1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT operations, then into workflows for customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflow apps.
   
-  1.2. **Profitable?:** yes — ServiceNow is profitable, with a net income sum of about $1.73 billion over the last four periods and a profit margin of roughly 13.7%.
+  1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive net income sum of about $1.73 billion over recent periods and a profit margin of 13.7%, alongside positive revenue and earnings growth.
   
-  1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers seeking to automate IT and business workflows. Its markets span IT service management, customer service, HR, and security operations across global enterprise and large organizational segments, with operations based in the United States.
+  1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, focusing on the IT function but also HR, customer service, and security teams. Its core market is the United States, with products aimed at large organizations adopting SaaS-based workflow and application platforms.
   
-  1.4. **Competition:** Key competitors include large application and workflow software providers such as Salesforce (CRM), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Dynatrace (DT), and major platforms like Alphabet (GOOGL) and Meta (META); ServiceNow is positioned among leading enterprise workflow and application software vendors, though precise rank by share is not specified.
+  1.4. **Competition:** ServiceNow's primary competitors include large application software and cloud platforms such as Salesforce (CRM), Alphabet/Google (GOOGL), Meta (META), Intuit (INTU), Atlassian (TEAM), Autodesk (ADSK), HubSpot (HUBS), and Dynatrace (DT); it is positioned among the leading enterprise workflow and IT service management platforms within this group, though exact rank is not specified.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend metric is labeled 'up' and price is trading closer to resistance (831.69) than support (795).
+  2.1. **7d Trend?:** up — the stated 7d Trend is 'up' and the current price of about 812.93 is nearer recent resistance (831.69) than support (795.00).
   
-  2.2. **7d Buy/Sell Points?:** In the last week, pullbacks toward the 7-day/30-day support around $795 appeared to be better buy levels, while approaches toward the local high and 7-day resistance around $831–$835 offered more favorable short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around 795.00 were favorable buy zones, while moves into the 7-day resistance area near 831.69 or the recent local high of 835.00 offered better sell or trim levels.
   
   2.3.1. **7d Volume:** low
   
@@ -77,13 +77,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in enterprise software, operating in the Technology sector with a recurring-revenue SaaS model. It has generated positive net income in recent periods with a cumulative $1.73 billion and solid profit and free cash flow, indicating a healthy financial profile. Operating cash flow of about $4.84 billion and free cash flow near $3.91 billion suggest strong cash generation to support operations and investments. Its positioning in mid-range of 1-year and 5-year price history, rather than at extreme highs, is consistent with a mature, established name rather than a speculative fly-by-night stock.
+  3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operation, operating in the Technology sector with a mature SaaS business model. It has generated consistent positive net income across recent periods totaling about $1.73 billion and maintains healthy free cash flow of roughly $3.9 billion and operating cash flow of about $4.8 billion. Its profit margin of 13.7% and solid revenue and earnings growth suggest a resilient business. The 5-year price history shows the stock well above its 5-year low of $341.76, indicating long-term value creation rather than a speculative spike.
   
-  3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by revenue growth of about 21.8% and earnings growth of 16.2%. Its move into AI-powered cybersecurity through the planned $7.75 billion Armis Security acquisition further signals expansion into new, AI-native security operations capabilities.
+  3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by strong revenue growth of 21.8% and earnings growth of 16.2% coupled with expansion of its workflow automation beyond IT into customer service, HR, security operations, and an app development platform.
   
   ## 4. Context
   
-  4.1. **News:** Recent macro news notes the S&P 500 near records with rotation away from mega-cap tech as strong 4.3% GDP growth tempers expectations for early Fed cuts, which can create crosscurrents for high-multiple software stocks like ServiceNow. Company-specific news highlights a planned $7.75 billion all-cash acquisition of Armis Security to build an AI-powered, end-to-end security operations stack and potentially triple its security market opportunity. This sizable deal may have been a "rumor" phase catalyst for anticipation around AI and security, followed by potential "sell the news" behavior once formally announced, aligning with quick facts that flag 'sell the news? yes' and 'buy the rumor? no'. The broader context of rising cybersecurity spend to $240 billion by 2026 supports the strategic logic of the deal even if near-term stock reactions reflect profit taking.
+  4.1. **News:** Recent macro news notes the S&P 500 holding near record highs on strong 4.3% U.S. GDP growth, with markets rotating somewhat away from mega-cap tech toward other sectors. This context can temper enthusiasm for high-multiple software names like ServiceNow even as earnings remain supported by solid consumer and corporate spending. Given quick facts showing 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the setup suggests that positive macro or sector headlines may already be priced in and can trigger profit-taking. For NOW, with the stock in an uptrend but in the middle of its 1-year and 5-year ranges, traders may prefer to buy dips toward support rather than chase post-news strength, consistent with the 'buy the dip' cue.
   
   4.2. **Tarrifs:** unknown
   
@@ -114,7 +114,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -162,7 +162,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Filtered 4 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=5
@@ -172,7 +172,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=5
       google_custom_search: 5 result(s)
@@ -181,7 +181,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -214,7 +214,7 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -242,12 +242,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 3-month near-bottom zone and mid-range versus 1yr/5yr history, reducing immediate bubble risk; macro froth cues for this specific name are limited and it currently trades just above 7d/30d support around 795 but below its 20-day moving average and near 7d resistance at 831.69.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It originated in IT service management and expanded into broader IT workflows and platform-as-a-service. The company now also supports workflows in cu
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&amp;P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.&quot;,&quot;1.1&quot;:&quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT oper
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-19T10:28:39.900714+00:00">2026-01-19 10:28 UTC</time> (runtime 28.20s)
+**Generated:** <time class="js-local-time" datetime="2026-01-24T01:42:17.215610+00:00">2026-01-24 01:42 UTC</time> (runtime 31.54s)
 
 ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
 
@@ -294,23 +294,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in a 3-month near-bottom zone and mid-range versus 1yr/5yr history, reducing immediate bubble risk; macro froth cues for this specific name are limited and it currently trades just above 7d/30d support around 795 but below its 20-day moving average and near 7d resistance at 831.69.
+0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.
 
 ## 1. The Biz
 
-1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It originated in IT service management and expanded into broader IT workflows and platform-as-a-service. The company now also supports workflows in customer service, HR service delivery, and security operations.
+1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT operations, then into workflows for customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflow apps.
 
-1.2. **Profitable?:** yes — ServiceNow is profitable, with a net income sum of about $1.73 billion over the last four periods and a profit margin of roughly 13.7%.
+1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive net income sum of about $1.73 billion over recent periods and a profit margin of 13.7%, alongside positive revenue and earnings growth.
 
-1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers seeking to automate IT and business workflows. Its markets span IT service management, customer service, HR, and security operations across global enterprise and large organizational segments, with operations based in the United States.
+1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, focusing on the IT function but also HR, customer service, and security teams. Its core market is the United States, with products aimed at large organizations adopting SaaS-based workflow and application platforms.
 
-1.4. **Competition:** Key competitors include large application and workflow software providers such as Salesforce (CRM), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Dynatrace (DT), and major platforms like Alphabet (GOOGL) and Meta (META); ServiceNow is positioned among leading enterprise workflow and application software vendors, though precise rank by share is not specified.
+1.4. **Competition:** ServiceNow's primary competitors include large application software and cloud platforms such as Salesforce (CRM), Alphabet/Google (GOOGL), Meta (META), Intuit (INTU), Atlassian (TEAM), Autodesk (ADSK), HubSpot (HUBS), and Dynatrace (DT); it is positioned among the leading enterprise workflow and IT service management platforms within this group, though exact rank is not specified.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend metric is labeled 'up' and price is trading closer to resistance (831.69) than support (795).
+2.1. **7d Trend?:** up — the stated 7d Trend is 'up' and the current price of about 812.93 is nearer recent resistance (831.69) than support (795.00).
 
-2.2. **7d Buy/Sell Points?:** In the last week, pullbacks toward the 7-day/30-day support around $795 appeared to be better buy levels, while approaches toward the local high and 7-day resistance around $831–$835 offered more favorable short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around 795.00 were favorable buy zones, while moves into the 7-day resistance area near 831.69 or the recent local high of 835.00 offered better sell or trim levels.
 
 2.3.1. **7d Volume:** low
 
@@ -318,13 +318,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in enterprise software, operating in the Technology sector with a recurring-revenue SaaS model. It has generated positive net income in recent periods with a cumulative $1.73 billion and solid profit and free cash flow, indicating a healthy financial profile. Operating cash flow of about $4.84 billion and free cash flow near $3.91 billion suggest strong cash generation to support operations and investments. Its positioning in mid-range of 1-year and 5-year price history, rather than at extreme highs, is consistent with a mature, established name rather than a speculative fly-by-night stock.
+3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operation, operating in the Technology sector with a mature SaaS business model. It has generated consistent positive net income across recent periods totaling about $1.73 billion and maintains healthy free cash flow of roughly $3.9 billion and operating cash flow of about $4.8 billion. Its profit margin of 13.7% and solid revenue and earnings growth suggest a resilient business. The 5-year price history shows the stock well above its 5-year low of $341.76, indicating long-term value creation rather than a speculative spike.
 
-3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by revenue growth of about 21.8% and earnings growth of 16.2%. Its move into AI-powered cybersecurity through the planned $7.75 billion Armis Security acquisition further signals expansion into new, AI-native security operations capabilities.
+3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by strong revenue growth of 21.8% and earnings growth of 16.2% coupled with expansion of its workflow automation beyond IT into customer service, HR, security operations, and an app development platform.
 
 ## 4. Context
 
-4.1. **News:** Recent macro news notes the S&P 500 near records with rotation away from mega-cap tech as strong 4.3% GDP growth tempers expectations for early Fed cuts, which can create crosscurrents for high-multiple software stocks like ServiceNow. Company-specific news highlights a planned $7.75 billion all-cash acquisition of Armis Security to build an AI-powered, end-to-end security operations stack and potentially triple its security market opportunity. This sizable deal may have been a "rumor" phase catalyst for anticipation around AI and security, followed by potential "sell the news" behavior once formally announced, aligning with quick facts that flag 'sell the news? yes' and 'buy the rumor? no'. The broader context of rising cybersecurity spend to $240 billion by 2026 supports the strategic logic of the deal even if near-term stock reactions reflect profit taking.
+4.1. **News:** Recent macro news notes the S&P 500 holding near record highs on strong 4.3% U.S. GDP growth, with markets rotating somewhat away from mega-cap tech toward other sectors. This context can temper enthusiasm for high-multiple software names like ServiceNow even as earnings remain supported by solid consumer and corporate spending. Given quick facts showing 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the setup suggests that positive macro or sector headlines may already be priced in and can trigger profit-taking. For NOW, with the stock in an uptrend but in the middle of its 1-year and 5-year ranges, traders may prefer to buy dips toward support rather than chase post-news strength, consistent with the 'buy the dip' cue.
 
 4.2. **Tarrifs:** unknown
 
@@ -355,7 +355,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -403,7 +403,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Filtered 4 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=5
@@ -413,7 +413,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=5
     google_custom_search: 5 result(s)
@@ -422,7 +422,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -455,7 +455,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff&amp;pageSize=
     newsapi: 5 result(s)
   newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -483,6 +483,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 3-month near-bottom zone and mid-range versus 1yr/5yr history, reducing immediate bubble risk; macro froth cues for this specific name are limited and it currently trades just above 7d/30d support around 795 but below its 20-day moving average and near 7d resistance at 831.69.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It originated in IT service management and expanded into broader IT workflows and platform-as-a-service. The company now also supports workflows in cu
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&amp;P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.&quot;,&quot;1.1&quot;:&quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT oper
 </code></pre>
 </details>
