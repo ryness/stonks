@@ -2,11 +2,11 @@
 layout: default
 title: "PFE Stock Report"
 ticker: "PFE"
-date: 2026-01-21
-generated_at: 2026-01-21T15:32:50.783575+00:00
-runtime_seconds: 52.48
+date: 2026-01-26
+generated_at: 2026-01-26T05:33:13.806433+00:00
+runtime_seconds: 42.69
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-21T15:32:50.783575+00:00">2026-01-21 15:32 UTC</time> (runtime 52.48s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-26T05:33:13.806433+00:00">2026-01-26 05:33 UTC</time> (runtime 42.69s)
   
   ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
   
@@ -53,23 +53,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is near 1-year highs while still around the 5-year low area, suggesting long-term value but short-term overextension; macro froth visibility is limited, and shares sit slightly above the 20-day average and close to short-term resistance at 25.97 versus support near 24.28.
+  0.1. **Long Entry?:** maybe — shares trade near 1-year highs while still close to 5-year lows (near-bottom on 5yr but near-peak on 1yr), and macro froth visibility is limited with no bubble cues in the data; price is slightly above the 20-day average and pressing 7d resistance around 25.97 with an overbought tag and quick-facts flagging 'Sell the news', suggesting better entries closer to support near 24.28.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical companies, generating roughly $60 billion in annual sales. Its business is primarily focused on prescription drugs and vaccines, with key products including the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The company has shifted away from broader chemicals and healthcare products to concentrate on biopharmaceuticals.
+  1.1. **Activities:** Pfizer Inc. is one of the world's largest pharmaceutical companies, focused primarily on prescription medicines and vaccines. Its portfolio includes major products like the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The company generates roughly $60 billion in annual sales with a globally diversified product base.
   
-  1.2. **Profitable?:** yes — Pfizer is profitable, with recent net income totaling about $9.8 billion, a profit margin of roughly 15.7%, and positive free cash flow.
+  1.2. **Profitable?:** yes — Pfizer is profitable, with a positive net income sum of about $9.8 billion, a profit margin near 15.7%, and strong free cash flow and operating cash flow in the latest data.
   
-  1.3. **Customer & Markets:** Pfizer's primary customers are patients reached through healthcare providers, hospitals, and pharmacies that use its prescription drugs and vaccines. It sells products globally, with about 40% of sales from international markets and a significant contribution from emerging markets. Its end markets span infectious disease prevention and chronic conditions such as cardiovascular disease.
+  1.3. **Customer & Markets:** Pfizer's primary customers are healthcare systems, hospitals, physicians, and pharmacies that prescribe or dispense its branded drugs and vaccines to patients. It serves global pharmaceutical markets, with about 40% of sales coming from international regions and a significant contribution from emerging markets within that mix.
   
-  1.4. **Competition:** Pfizer competes with major global drug makers such as Johnson & Johnson, Merck, Eli Lilly, AbbVie, Bristol Myers Squibb, Amgen, Gilead, Moderna, and Novavax, among others. It ranks as one of the largest players in the global pharmaceuticals market by revenue and market share.
+  1.4. **Competition:** Pfizer's key competitors include large global drug makers such as Johnson & Johnson, Merck, Eli Lilly, AbbVie, Amgen, Bristol Myers Squibb, Gilead, Moderna, and Novavax, placing it among the top-tier multinational pharmaceutical firms by scale. It competes across primary care, specialty, and oncology segments where it is one of the larger players by revenue and market presence.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' with the price moving from near support around 24.28 toward resistance around 25.97.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close at 25.72 is pushing against recent resistance at 25.97 after several sessions of higher prices.
   
-  2.2. **7d Buy/Sell Points?:** Over the past week, buying near the 7-day support around $24.28 appears to have been attractive, while selling or trimming near the short-term resistance around $25.97 offered favorable exits. The current close around $25.72 is closer to the suggested sell zone than the buy zone.
+  2.2. **7d Buy/Sell Points?:** Over the last week, attractive buy levels were near support around 24.28, while good sell or trim levels were near the 7d resistance/local high around 25.97. The current price in the mid‑25s is closer to the suggested sell zone than to the buy zone.
   
   2.3.1. **7d Volume:** med
   
@@ -77,15 +77,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Pfizer is a long-established, large-cap U.S. pharmaceutical company with global operations and annual sales of about $60 billion, indicating a substantial and durable business. It maintains solid profitability with a mid-teens profit margin and nearly $14.3 billion in free cash flow, supported by strong operating cash flow. The balance of domestic and international revenue, including meaningful exposure to emerging markets, suggests diversified income streams. These factors together point to a stable institution rather than a fly-by-night operation.
+  3.1. **Stability?:** Pfizer is a long-established, large-cap U.S. pharmaceutical company with roughly $60 billion in annual sales, indicating substantial scale and operational depth. Its business is diversified across multiple blockbuster drugs and vaccines sold worldwide, with 40% of revenue from international markets including emerging economies. Financially, it shows solid profitability (about $9.8 billion net income recently), positive free cash flow above $14 billion, and strong operating cash flow, all of which support balance-sheet resilience. This combination of longevity, global diversification, and healthy cash generation suggests a stable institution rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Pfizer appears to be actively innovating and growing, with over 100 candidates in its drug and vaccine development pipeline according to its product pipeline disclosures. Its focus on newer therapies and vaccines, alongside existing blockbusters, indicates ongoing investment in R&D rather than a stale portfolio.
+  3.2. **Innovating?:** Pfizer is actively innovating and growing through continued development of vaccines and cardiology treatments, as well as participation in advanced modalities like mRNA and other nucleic-acid-based therapies referenced in related market reports. Its involvement in areas such as precision medicine and oncology combinations (e.g., Braftovi-based regimens) indicates an ongoing focus on next-generation therapies rather than a stale portfolio.
   
   ## 4. Context
   
-  4.1. **News:** Recent referenced headlines focus more on sector peers and industry themes than on Pfizer-specific catalysts, including Johnson & Johnson's guidance reset and a large growth forecast for the bispecific antibodies market. Pfizer appears in context as a major pharma company investing in areas like oncology and specialty therapeutics and as a corporate client of executive coaching, but there are no clear near-term product launch or M&A headlines in this set. Separate coverage notes that Pfizer is exiting its stake in ViiV Healthcare for $1.875 billion, which is a capital allocation move that may already be reflected in expectations. Given the 'Sell the news?' quick fact marked 'yes', any positive developments may be prone to short-term profit-taking rather than sustained rallies. Overall, current news flow seems incremental rather than a strong rumor-driven setup, fitting more with selling strength on announcements than aggressively buying rumors.
+  4.1. **News:** Recent coverage highlights Pfizer's CEO publicly defending vaccines and warning that the U.S. is falling behind China in health research due to funding cuts, framing the company as a key player in global biopharma competition. Another item notes FDA approval of Guardant Health's Guardant360 CDx blood test as a companion diagnostic for patients who may benefit from Pfizer's Braftovi regimen in metastatic colorectal cancer, a clear positive for that franchise. Sector reports on lipid nanoparticle manufacturing and oncolytic virotherapy point to strong long-term growth in modalities closely related to Pfizer's vaccine and oncology focus, which can support sentiment toward the stock. With quick facts flagging 'Sell the news?' as 'yes', traders may use positive regulatory or technology headlines as opportunities to take profits after run-ups, consistent with the buy-the-rumor, sell-the-news pattern.
   
-  4.2. **Tarrifs:** Tariffs have created measurable costs and uncertainty for Pfizer, with management citing about $150 million in annual costs from existing tariffs and vulnerability to potential European tariffs, although a later U.S. government agreement and tariff exemptions have at times boosted the stock. Overall, tariffs add episodic cost and headline risk but have also led to relief rallies when exemptions or favorable deals are announced.
+  4.2. **Tarrifs:** Tariffs have had a material but manageable impact: Pfizer previously expected about $150 million in costs from existing U.S. tariffs in one year, and management has publicly argued that tariff uncertainty deters U.S. investment. A subsequent landmark agreement with the U.S. government included tariff exemptions tied to increased domestic manufacturing investment, which positively affected the stock when announced.
   
   ## 5. QuickRef
   
@@ -237,7 +237,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; PFE tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
     google_custom_search search -&gt; PFE tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -259,12 +259,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year highs while still around the 5-year low area, suggesting long-term value but short-term overextension; macro froth visibility is limited, and shares sit slightly above the 20-day average and close to short-term resistance at 25.97 versus support near 24.28.&quot;,&quot;1.1&quot;:&quot;Pfizer is one of the world&#x27;s largest pharmaceutical companies, generating roughly $60 billion in annual sales. Its business is primarily focused on prescription drugs and vaccines, with key products including the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The compa
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 1-year highs while still close to 5-year lows (near-bottom on 5yr but near-peak on 1yr), and macro froth visibility is limited with no bubble cues in the data; price is slightly above the 20-day average and pressing 7d resistance around 25.97 with an overbought tag and quick-facts flagging &#x27;Sell the news&#x27;, suggesting better entries closer to support near 24.28.&quot;, &quot;1.1&quot;: &quot;Pfizer Inc. is one of the world’s largest pharmaceutical companies, focused primarily on prescription medicines and vaccines. Its portfolio includes major products like the pneumococcal vacci
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-21T15:32:50.783575+00:00">2026-01-21 15:32 UTC</time> (runtime 52.48s)
+**Generated:** <time class="js-local-time" datetime="2026-01-26T05:33:13.806433+00:00">2026-01-26 05:33 UTC</time> (runtime 42.69s)
 
 ![Pfizer Inc. logo](https://ryness.github.io/stonks/assets/logos/PFE.svg)
 
@@ -311,23 +311,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is near 1-year highs while still around the 5-year low area, suggesting long-term value but short-term overextension; macro froth visibility is limited, and shares sit slightly above the 20-day average and close to short-term resistance at 25.97 versus support near 24.28.
+0.1. **Long Entry?:** maybe — shares trade near 1-year highs while still close to 5-year lows (near-bottom on 5yr but near-peak on 1yr), and macro froth visibility is limited with no bubble cues in the data; price is slightly above the 20-day average and pressing 7d resistance around 25.97 with an overbought tag and quick-facts flagging 'Sell the news', suggesting better entries closer to support near 24.28.
 
 ## 1. The Biz
 
-1.1. **Activities:** Pfizer is one of the world's largest pharmaceutical companies, generating roughly $60 billion in annual sales. Its business is primarily focused on prescription drugs and vaccines, with key products including the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The company has shifted away from broader chemicals and healthcare products to concentrate on biopharmaceuticals.
+1.1. **Activities:** Pfizer Inc. is one of the world's largest pharmaceutical companies, focused primarily on prescription medicines and vaccines. Its portfolio includes major products like the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The company generates roughly $60 billion in annual sales with a globally diversified product base.
 
-1.2. **Profitable?:** yes — Pfizer is profitable, with recent net income totaling about $9.8 billion, a profit margin of roughly 15.7%, and positive free cash flow.
+1.2. **Profitable?:** yes — Pfizer is profitable, with a positive net income sum of about $9.8 billion, a profit margin near 15.7%, and strong free cash flow and operating cash flow in the latest data.
 
-1.3. **Customer & Markets:** Pfizer's primary customers are patients reached through healthcare providers, hospitals, and pharmacies that use its prescription drugs and vaccines. It sells products globally, with about 40% of sales from international markets and a significant contribution from emerging markets. Its end markets span infectious disease prevention and chronic conditions such as cardiovascular disease.
+1.3. **Customer & Markets:** Pfizer's primary customers are healthcare systems, hospitals, physicians, and pharmacies that prescribe or dispense its branded drugs and vaccines to patients. It serves global pharmaceutical markets, with about 40% of sales coming from international regions and a significant contribution from emerging markets within that mix.
 
-1.4. **Competition:** Pfizer competes with major global drug makers such as Johnson & Johnson, Merck, Eli Lilly, AbbVie, Bristol Myers Squibb, Amgen, Gilead, Moderna, and Novavax, among others. It ranks as one of the largest players in the global pharmaceuticals market by revenue and market share.
+1.4. **Competition:** Pfizer's key competitors include large global drug makers such as Johnson & Johnson, Merck, Eli Lilly, AbbVie, Amgen, Bristol Myers Squibb, Gilead, Moderna, and Novavax, placing it among the top-tier multinational pharmaceutical firms by scale. It competes across primary care, specialty, and oncology segments where it is one of the larger players by revenue and market presence.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' with the price moving from near support around 24.28 toward resistance around 25.97.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the latest close at 25.72 is pushing against recent resistance at 25.97 after several sessions of higher prices.
 
-2.2. **7d Buy/Sell Points?:** Over the past week, buying near the 7-day support around $24.28 appears to have been attractive, while selling or trimming near the short-term resistance around $25.97 offered favorable exits. The current close around $25.72 is closer to the suggested sell zone than the buy zone.
+2.2. **7d Buy/Sell Points?:** Over the last week, attractive buy levels were near support around 24.28, while good sell or trim levels were near the 7d resistance/local high around 25.97. The current price in the mid‑25s is closer to the suggested sell zone than to the buy zone.
 
 2.3.1. **7d Volume:** med
 
@@ -335,15 +335,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Pfizer is a long-established, large-cap U.S. pharmaceutical company with global operations and annual sales of about $60 billion, indicating a substantial and durable business. It maintains solid profitability with a mid-teens profit margin and nearly $14.3 billion in free cash flow, supported by strong operating cash flow. The balance of domestic and international revenue, including meaningful exposure to emerging markets, suggests diversified income streams. These factors together point to a stable institution rather than a fly-by-night operation.
+3.1. **Stability?:** Pfizer is a long-established, large-cap U.S. pharmaceutical company with roughly $60 billion in annual sales, indicating substantial scale and operational depth. Its business is diversified across multiple blockbuster drugs and vaccines sold worldwide, with 40% of revenue from international markets including emerging economies. Financially, it shows solid profitability (about $9.8 billion net income recently), positive free cash flow above $14 billion, and strong operating cash flow, all of which support balance-sheet resilience. This combination of longevity, global diversification, and healthy cash generation suggests a stable institution rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Pfizer appears to be actively innovating and growing, with over 100 candidates in its drug and vaccine development pipeline according to its product pipeline disclosures. Its focus on newer therapies and vaccines, alongside existing blockbusters, indicates ongoing investment in R&D rather than a stale portfolio.
+3.2. **Innovating?:** Pfizer is actively innovating and growing through continued development of vaccines and cardiology treatments, as well as participation in advanced modalities like mRNA and other nucleic-acid-based therapies referenced in related market reports. Its involvement in areas such as precision medicine and oncology combinations (e.g., Braftovi-based regimens) indicates an ongoing focus on next-generation therapies rather than a stale portfolio.
 
 ## 4. Context
 
-4.1. **News:** Recent referenced headlines focus more on sector peers and industry themes than on Pfizer-specific catalysts, including Johnson & Johnson's guidance reset and a large growth forecast for the bispecific antibodies market. Pfizer appears in context as a major pharma company investing in areas like oncology and specialty therapeutics and as a corporate client of executive coaching, but there are no clear near-term product launch or M&A headlines in this set. Separate coverage notes that Pfizer is exiting its stake in ViiV Healthcare for $1.875 billion, which is a capital allocation move that may already be reflected in expectations. Given the 'Sell the news?' quick fact marked 'yes', any positive developments may be prone to short-term profit-taking rather than sustained rallies. Overall, current news flow seems incremental rather than a strong rumor-driven setup, fitting more with selling strength on announcements than aggressively buying rumors.
+4.1. **News:** Recent coverage highlights Pfizer's CEO publicly defending vaccines and warning that the U.S. is falling behind China in health research due to funding cuts, framing the company as a key player in global biopharma competition. Another item notes FDA approval of Guardant Health's Guardant360 CDx blood test as a companion diagnostic for patients who may benefit from Pfizer's Braftovi regimen in metastatic colorectal cancer, a clear positive for that franchise. Sector reports on lipid nanoparticle manufacturing and oncolytic virotherapy point to strong long-term growth in modalities closely related to Pfizer's vaccine and oncology focus, which can support sentiment toward the stock. With quick facts flagging 'Sell the news?' as 'yes', traders may use positive regulatory or technology headlines as opportunities to take profits after run-ups, consistent with the buy-the-rumor, sell-the-news pattern.
 
-4.2. **Tarrifs:** Tariffs have created measurable costs and uncertainty for Pfizer, with management citing about $150 million in annual costs from existing tariffs and vulnerability to potential European tariffs, although a later U.S. government agreement and tariff exemptions have at times boosted the stock. Overall, tariffs add episodic cost and headline risk but have also led to relief rallies when exemptions or favorable deals are announced.
+4.2. **Tarrifs:** Tariffs have had a material but manageable impact: Pfizer previously expected about $150 million in costs from existing U.S. tariffs in one year, and management has publicly argued that tariff uncertainty deters U.S. investment. A subsequent landmark agreement with the U.S. government included tariff exemptions tied to increased domestic manufacturing investment, which positively affected the stock when announced.
 
 ## 5. QuickRef
 
@@ -495,7 +495,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; PFE tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PFE+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
   google_custom_search search -&gt; PFE tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PFE+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -517,6 +517,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year highs while still around the 5-year low area, suggesting long-term value but short-term overextension; macro froth visibility is limited, and shares sit slightly above the 20-day average and close to short-term resistance at 25.97 versus support near 24.28.&quot;,&quot;1.1&quot;:&quot;Pfizer is one of the world&#x27;s largest pharmaceutical companies, generating roughly $60 billion in annual sales. Its business is primarily focused on prescription drugs and vaccines, with key products including the pneumococcal vaccine Prevnar 13 and cardiology drugs Vyndaqel and Eliquis. The compa
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 1-year highs while still close to 5-year lows (near-bottom on 5yr but near-peak on 1yr), and macro froth visibility is limited with no bubble cues in the data; price is slightly above the 20-day average and pressing 7d resistance around 25.97 with an overbought tag and quick-facts flagging &#x27;Sell the news&#x27;, suggesting better entries closer to support near 24.28.&quot;, &quot;1.1&quot;: &quot;Pfizer Inc. is one of the world’s largest pharmaceutical companies, focused primarily on prescription medicines and vaccines. Its portfolio includes major products like the pneumococcal vacci
 </code></pre>
 </details>
