@@ -2,11 +2,11 @@
 layout: default
 title: "ALMU Stock Report"
 ticker: "ALMU"
-date: 2026-01-21
-generated_at: 2026-01-21T10:29:27.211147+00:00
-runtime_seconds: 48.94
+date: 2026-01-26
+generated_at: 2026-01-26T01:54:09.638615+00:00
+runtime_seconds: 32.60
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-21T10:29:27.211147+00:00">2026-01-21 10:29 UTC</time> (runtime 48.94s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-26T01:54:09.638615+00:00">2026-01-26 01:54 UTC</time> (runtime 32.60s)
   
   ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
   
@@ -43,23 +43,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in a 7d uptrend and trading just above 7d/30d support at $11.82 but below the 20-day moving average and recent 30d resistance near $15.95; macro froth visibility is limited, and with the stock sitting around the 1yr/5yr middle and not flagged as overbought, this looks like a balanced but volatile entry zone rather than a clear bargain or clear top.
+  0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading slightly above its 20-day average and nearer 7d/30d support ($11.82) than longer-term highs (1y/5y both middle), but recent trading is below its 20-day SMA/EMA after a sharp drop from $16.74 suggesting post-offering froth is cooling; macro bubble or froth cues specific to ALMU are not evident in the provided data, limiting visibility.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Aeluma, Inc. is a semiconductor company specializing in novel optoelectronic devices for sensing and communications. It manufactures high-performance compound semiconductor sensors and chips on large-diameter substrates used in mass-market microelectronics. Its technologies target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
+  1.1. **Activities:** Aeluma, Inc. is a semiconductor company focused on high‑performance optoelectronic devices for sensing and communications. It develops sensor technology for mobile devices and vehicles and manufactures compound semiconductor devices on large‑diameter substrates commonly used for mass‑market microelectronics. Its technology targets applications in mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
   
-  1.2. **Profitable?:** no — the company is currently unprofitable, with a cumulative net income of -$3.79M, a recent negative profit margin of -67.97%, and negative free and operating cash flow, and no specific profitability timeline is provided.
+  1.2. **Profitable?:** no — Aeluma is not currently profitable, with cumulative net income of -$3.79M over recent periods, a profit margin of -67.97%, and negative free and operating cash flow despite strong revenue growth.
   
-  1.3. **Customer & Markets:** Aeluma's primary customers are in technology and industrial end-markets that require advanced sensing and communications, including mobile device makers, automotive and autonomous vehicle systems, AI and industrial automation/robotics, and defense and aerospace customers. It operates primarily in the United States but targets broader commercial markets such as communications, AR/VR, and emerging quantum computing applications.
+  1.3. **Customer & Markets:** Aeluma's primary customers are in commercial and defense markets that use advanced sensors and communications chips, including mobile, automotive, AI, industrial, defense, aerospace, AR/VR, and quantum computing sectors. It operates out of the United States and is expanding engagement with U.S. government and defense-related customers through membership in the Midwest Microelectronics Consortium (MMEC) and participation in related innovation hubs.
   
-  1.4. **Competition:** Key competitors listed include major semiconductor and chip companies such as NVIDIA, AMD, Intel, and Qualcomm, which dominate broader markets while Aeluma participates as a smaller, specialized player in compound semiconductor and sensor niches. The data does not provide a precise rank but implies Aeluma is a much smaller competitor relative to these industry leaders.
+  1.4. **Competition:** Key competitors in broad semiconductors and sensing markets include large players such as NVIDIA, AMD, Intel, and Qualcomm, though Aeluma is a much smaller, niche player rather than a top‑ranked competitor by market share. Benchmark research also highlights its differentiated compound semiconductor manufacturing and IP as competitive advantages in defense and specialty sensor niches.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the quick facts label the 7d Trend as 'up' and the price has been moving higher within an identified uptrend channel.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the current price of $13.81 sits closer to 7d resistance ($14.16) than 7d support ($11.82).
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, the area near the 7d/30d support around $11.82 appears to have been a favorable buy zone, while prices approaching the 7d resistance at about $14.16 offered better short-term selling or trimming levels. The suggested buy/sell levels explicitly flag $11.82 as buy support and $14.16 as a near-term sell zone.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7d/30d support area around $11.82 appeared to offer better buy entries. Approaches to the 7d resistance near $14.16 provided favorable short‑term selling or trimming levels.
   
   2.3.1. **7d Volume:** low
   
@@ -67,13 +67,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Aeluma is a relatively young, small-cap semiconductor company rather than a long-established blue-chip, but it operates in a core technology sector with broad, multi-end-market applications. Its financials show cumulative net losses and negative cash flows, indicating it is still in an investment and commercialization phase rather than a mature, cash-generative stage. However, the company recently completed an oversubscribed public offering raising $25.4M and reports a cash balance of $39.2M, which bolsters its near-term liquidity. Its participation in industry initiatives such as the Midwest Microelectronics Consortium (MMEC) and joining innovation hubs suggests integration into a wider ecosystem, but the overall stability remains that of an early-stage growth company with execution and funding risks.
+  3.1. **Stability?:** Aeluma appears to be an emerging but not yet fully mature institution, with recent uplisting to Nasdaq (ticker ALMU) and a current market cap around a few hundred million dollars but still generating losses. Its balance sheet was bolstered by an oversubscribed public offering that raised $25.4M and brought cash to $39.2M, indicating improved liquidity and funding for its commercialization phase. However, persistent negative net income and negative free cash flow highlight dependence on external capital rather than internally generated funds. The company's participation in industry groups like MMEC and investment in capital equipment for manufacturing readiness suggest growing operational stability, but it is not yet a long‑established, cash‑generating blue chip.
   
-  3.2. **Innovating?:** The company appears to be innovating and growing, as evidenced by developing novel optoelectronic sensor and communications devices, filing new semiconductor photonics manufacturing patents, and acquiring significant capital equipment to accelerate manufacturing readiness. Its expanding partnerships, such as joining MMEC to advance defense and commercial market access, further indicate active strategic growth efforts.
+  3.2. **Innovating?:** Aeluma is actively innovating and growing, as evidenced by new patent filings in semiconductor photonics manufacturing, acquisition of advanced capital equipment for prototyping and wafer‑scale testing, and strong revenue growth of 187.9%. Its expansion into defense and commercial markets via MMEC and increasing customer engagements in target markets indicate a focus on scaling rather than a stale business.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on Aeluma raising $25.4M in an oversubscribed public offering, acquiring key capital equipment to accelerate manufacturing readiness, and joining the MMEC consortium to speed deployment into defense and commercial markets. Management is also increasing investor outreach via conferences and a fireside chat with a semiconductor analyst, signaling a push to highlight its growth story. These developments support the narrative of ramping toward commercialization and broader market access. Given the 'Sell the news? yes' quick fact, there is a risk that positive announcements like the offering completion and partnership moves may have already been priced in, prompting some investors to take profits after such news. Investors should be mindful of the buy-the-rumor/sell-the-news dynamic around these events when timing entries and exits.
+  4.1. **News:** Recent news centers on capital raising, capacity build‑out, and market access rather than surprise product launches, which aligns with a 'sell the news' stance flagged in the quick facts. The company closed an oversubscribed public offering at $13.00 per share, significantly boosting its cash to support commercialization, and shortly after acquired major capital equipment assets to accelerate manufacturing readiness. It also joined the Midwest Microelectronics Consortium (MMEC) to deepen ties to defense and commercial markets and scheduled investor-facing events such as fireside chats and conference participation. These developments can attract speculative interest ahead of events (the 'rumor') with potential for profit‑taking once financings and announcements are formally disclosed (the 'news').
   
   4.2. **Tarrifs:** unknown
   
@@ -263,12 +263,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 7d uptrend and trading just above 7d/30d support at $11.82 but below the 20-day moving average and recent 30d resistance near $15.95; macro froth visibility is limited, and with the stock sitting around the 1yr/5yr middle and not flagged as overbought, this looks like a balanced but volatile entry zone rather than a clear bargain or clear top.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company specializing in novel optoelectronic devices for sensing and communications. It manufactures high-performance compound semiconductor sensors and chips on large-diameter subs
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading slightly above its 20-day average and nearer 7d/30d support ($11.82) than longer-term highs (1y/5y both middle), but recent trading is below its 20-day SMA/EMA after a sharp drop from $16.74 suggesting post-offering froth is cooling; macro bubble or froth cues specific to ALMU are not evident in the provided data, limiting visibility.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company focused on high‑performance optoelectronic devices for sensing and communications. It develops sensor technology for mobile devices and vehicles and manufact
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-21T10:29:27.211147+00:00">2026-01-21 10:29 UTC</time> (runtime 48.94s)
+**Generated:** <time class="js-local-time" datetime="2026-01-26T01:54:09.638615+00:00">2026-01-26 01:54 UTC</time> (runtime 32.60s)
 
 ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
 
@@ -305,23 +305,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in a 7d uptrend and trading just above 7d/30d support at $11.82 but below the 20-day moving average and recent 30d resistance near $15.95; macro froth visibility is limited, and with the stock sitting around the 1yr/5yr middle and not flagged as overbought, this looks like a balanced but volatile entry zone rather than a clear bargain or clear top.
+0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading slightly above its 20-day average and nearer 7d/30d support ($11.82) than longer-term highs (1y/5y both middle), but recent trading is below its 20-day SMA/EMA after a sharp drop from $16.74 suggesting post-offering froth is cooling; macro bubble or froth cues specific to ALMU are not evident in the provided data, limiting visibility.
 
 ## 1. The Biz
 
-1.1. **Activities:** Aeluma, Inc. is a semiconductor company specializing in novel optoelectronic devices for sensing and communications. It manufactures high-performance compound semiconductor sensors and chips on large-diameter substrates used in mass-market microelectronics. Its technologies target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
+1.1. **Activities:** Aeluma, Inc. is a semiconductor company focused on high‑performance optoelectronic devices for sensing and communications. It develops sensor technology for mobile devices and vehicles and manufactures compound semiconductor devices on large‑diameter substrates commonly used for mass‑market microelectronics. Its technology targets applications in mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
 
-1.2. **Profitable?:** no — the company is currently unprofitable, with a cumulative net income of -$3.79M, a recent negative profit margin of -67.97%, and negative free and operating cash flow, and no specific profitability timeline is provided.
+1.2. **Profitable?:** no — Aeluma is not currently profitable, with cumulative net income of -$3.79M over recent periods, a profit margin of -67.97%, and negative free and operating cash flow despite strong revenue growth.
 
-1.3. **Customer & Markets:** Aeluma's primary customers are in technology and industrial end-markets that require advanced sensing and communications, including mobile device makers, automotive and autonomous vehicle systems, AI and industrial automation/robotics, and defense and aerospace customers. It operates primarily in the United States but targets broader commercial markets such as communications, AR/VR, and emerging quantum computing applications.
+1.3. **Customer & Markets:** Aeluma's primary customers are in commercial and defense markets that use advanced sensors and communications chips, including mobile, automotive, AI, industrial, defense, aerospace, AR/VR, and quantum computing sectors. It operates out of the United States and is expanding engagement with U.S. government and defense-related customers through membership in the Midwest Microelectronics Consortium (MMEC) and participation in related innovation hubs.
 
-1.4. **Competition:** Key competitors listed include major semiconductor and chip companies such as NVIDIA, AMD, Intel, and Qualcomm, which dominate broader markets while Aeluma participates as a smaller, specialized player in compound semiconductor and sensor niches. The data does not provide a precise rank but implies Aeluma is a much smaller competitor relative to these industry leaders.
+1.4. **Competition:** Key competitors in broad semiconductors and sensing markets include large players such as NVIDIA, AMD, Intel, and Qualcomm, though Aeluma is a much smaller, niche player rather than a top‑ranked competitor by market share. Benchmark research also highlights its differentiated compound semiconductor manufacturing and IP as competitive advantages in defense and specialty sensor niches.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the quick facts label the 7d Trend as 'up' and the price has been moving higher within an identified uptrend channel.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the current price of $13.81 sits closer to 7d resistance ($14.16) than 7d support ($11.82).
 
-2.2. **7d Buy/Sell Points?:** Over the last week, the area near the 7d/30d support around $11.82 appears to have been a favorable buy zone, while prices approaching the 7d resistance at about $14.16 offered better short-term selling or trimming levels. The suggested buy/sell levels explicitly flag $11.82 as buy support and $14.16 as a near-term sell zone.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7d/30d support area around $11.82 appeared to offer better buy entries. Approaches to the 7d resistance near $14.16 provided favorable short‑term selling or trimming levels.
 
 2.3.1. **7d Volume:** low
 
@@ -329,13 +329,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Aeluma is a relatively young, small-cap semiconductor company rather than a long-established blue-chip, but it operates in a core technology sector with broad, multi-end-market applications. Its financials show cumulative net losses and negative cash flows, indicating it is still in an investment and commercialization phase rather than a mature, cash-generative stage. However, the company recently completed an oversubscribed public offering raising $25.4M and reports a cash balance of $39.2M, which bolsters its near-term liquidity. Its participation in industry initiatives such as the Midwest Microelectronics Consortium (MMEC) and joining innovation hubs suggests integration into a wider ecosystem, but the overall stability remains that of an early-stage growth company with execution and funding risks.
+3.1. **Stability?:** Aeluma appears to be an emerging but not yet fully mature institution, with recent uplisting to Nasdaq (ticker ALMU) and a current market cap around a few hundred million dollars but still generating losses. Its balance sheet was bolstered by an oversubscribed public offering that raised $25.4M and brought cash to $39.2M, indicating improved liquidity and funding for its commercialization phase. However, persistent negative net income and negative free cash flow highlight dependence on external capital rather than internally generated funds. The company's participation in industry groups like MMEC and investment in capital equipment for manufacturing readiness suggest growing operational stability, but it is not yet a long‑established, cash‑generating blue chip.
 
-3.2. **Innovating?:** The company appears to be innovating and growing, as evidenced by developing novel optoelectronic sensor and communications devices, filing new semiconductor photonics manufacturing patents, and acquiring significant capital equipment to accelerate manufacturing readiness. Its expanding partnerships, such as joining MMEC to advance defense and commercial market access, further indicate active strategic growth efforts.
+3.2. **Innovating?:** Aeluma is actively innovating and growing, as evidenced by new patent filings in semiconductor photonics manufacturing, acquisition of advanced capital equipment for prototyping and wafer‑scale testing, and strong revenue growth of 187.9%. Its expansion into defense and commercial markets via MMEC and increasing customer engagements in target markets indicate a focus on scaling rather than a stale business.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on Aeluma raising $25.4M in an oversubscribed public offering, acquiring key capital equipment to accelerate manufacturing readiness, and joining the MMEC consortium to speed deployment into defense and commercial markets. Management is also increasing investor outreach via conferences and a fireside chat with a semiconductor analyst, signaling a push to highlight its growth story. These developments support the narrative of ramping toward commercialization and broader market access. Given the 'Sell the news? yes' quick fact, there is a risk that positive announcements like the offering completion and partnership moves may have already been priced in, prompting some investors to take profits after such news. Investors should be mindful of the buy-the-rumor/sell-the-news dynamic around these events when timing entries and exits.
+4.1. **News:** Recent news centers on capital raising, capacity build‑out, and market access rather than surprise product launches, which aligns with a 'sell the news' stance flagged in the quick facts. The company closed an oversubscribed public offering at $13.00 per share, significantly boosting its cash to support commercialization, and shortly after acquired major capital equipment assets to accelerate manufacturing readiness. It also joined the Midwest Microelectronics Consortium (MMEC) to deepen ties to defense and commercial markets and scheduled investor-facing events such as fireside chats and conference participation. These developments can attract speculative interest ahead of events (the 'rumor') with potential for profit‑taking once financings and announcements are formally disclosed (the 'news').
 
 4.2. **Tarrifs:** unknown
 
@@ -525,6 +525,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 7d uptrend and trading just above 7d/30d support at $11.82 but below the 20-day moving average and recent 30d resistance near $15.95; macro froth visibility is limited, and with the stock sitting around the 1yr/5yr middle and not flagged as overbought, this looks like a balanced but volatile entry zone rather than a clear bargain or clear top.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company specializing in novel optoelectronic devices for sensing and communications. It manufactures high-performance compound semiconductor sensors and chips on large-diameter subs
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading slightly above its 20-day average and nearer 7d/30d support ($11.82) than longer-term highs (1y/5y both middle), but recent trading is below its 20-day SMA/EMA after a sharp drop from $16.74 suggesting post-offering froth is cooling; macro bubble or froth cues specific to ALMU are not evident in the provided data, limiting visibility.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company focused on high‑performance optoelectronic devices for sensing and communications. It develops sensor technology for mobile devices and vehicles and manufact
 </code></pre>
 </details>
