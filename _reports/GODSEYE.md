@@ -2,11 +2,11 @@
 layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
-date: 2026-01-26
-generated_at: 2026-01-26T15:30:14.437898+00:00
-runtime_seconds: 43.43
+date: 2026-02-16
+generated_at: 2026-02-16T06:36:47.555285+00:00
+runtime_seconds: 27.94
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-26T15:30:14.437898+00:00">2026-01-26 15:30 UTC</time> (runtime 43.43s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-16T06:36:47.555285+00:00">2026-02-16 06:36 UTC</time> (runtime 27.94s)
   
   ### Latest news (0-3 days)
   
@@ -15,23 +15,23 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  ["Equities are trading with a constructive tone, with major U.S. indices up around 0.2%–0.5% on the day and an average index gain of about 0.34%. The S&P 500 is up 0.49% and the Nasdaq Composite 0.48% over 1d, while small caps in the Russell 2000 lag somewhat at +0.22% but remain the strongest over 30d at +4.51%, indicating improving but still selective risk appetite. Over a week, gains are modest (S&P 500 +0.33%, Nasdaq +0.61%), suggesting a grind higher rather than a momentum surge.","Volatility is calm to slightly easing, reinforcing a risk-on bias. The VIX is essentially flat on the day (-0.19%) and down 4.1% over the week to 16.06, implying investors are more comfortable adding exposure even as the 30d VIX change is slightly higher (+1.84%). U.S. 10Y yields dipped 0.75% on the day to 4.21% but remain higher over 7d and 30d (both just over +1%), a backdrop that is not aggressively restrictive in the very short term but reminds that rates are still elevated.","Equity futures confirm the constructive tone, with S&P, Nasdaq, Dow, and Russell futures all higher about 0.3%–0.5% on the day (ES +0.54%, NQ +0.49%, YM +0.47%, RTY +0.29%). The combination of higher equities, softer volatility, slightly lower 10Y yields on the day, and a weaker dollar (DXY -0.61% 1d, -2.14% 7d) points to an improving near-term risk appetite, though the strong concurrent bid in gold (+2.25% 1d, +21.26% 30d) signals that a meaningful tail-risk hedge remains in place.],"
+  ["Across major U.S. equity benchmarks, the tone is cautiously constructive in the very short term but still soft over the past week. The S&P 500 is up +0.05% on the day but down -0.68% over 7 days, while the Nasdaq Composite is off -0.22% on the day and -1.56% over the week, indicating fading appetite for mega-cap growth and tech. In contrast, small caps are firm, with the Russell 2000 +1.18% on the day and +0.84% over 7 days, suggesting selective risk appetite migrating toward domestically oriented and higher beta names.","Volatility and rates data show a mixed risk tone. The VIX dipped -1.06% on the day but is up +10.52% over 7 days and +37.79% over 30 days to 20.6, signaling that, despite today's modest calm, the volatility regime has shifted higher and investors remain more defensive than a month ago. The 10Y Treasury yield is down -1.17% on the day and -5.12% over 7 days to 4.06%, consistent with a bid for duration and some macro concern, but also easing pressure on equities via a lower discount rate.","Index futures point to a slightly positive but subdued near-term bias. S&P futures are up +0.12% on the day and +0.55% over 7 days, Dow futures are +0.11% on the day and +1.28% over 7 days, while Nasdaq futures are essentially flat on the day (-0.01%) but up +0.61% over the week. Taken together, risk appetite is tentatively improving on a 1–7 day horizon in futures and small caps, but the elevated VIX and negative 7–30 day returns for the S&P and Nasdaq show that overall risk appetite is still meaningfully lower than a month ago."]
   
-  1.1. **Market Health:** Market health appears moderately positive based on the benchmark changes. Breadth is supportive, with 11 assets up versus 4 down and an average 1d index move of about +0.34%, indicating a broad though not explosive advance. Volatility is contained with VIX near 16 and down over the last week, while the 10Y Treasury yield is slightly lower on the day even if it is modestly higher over 7d and 30d, suggesting no acute rates stress. Overall, the tape reflects a reasonably healthy, risk-on environment with some underlying caution evident in strong gold performance.
+  1.1. **Market Health:** Market health is moderately stable but not robust. Breadth is slightly positive, with 9 instruments up versus 6 down, and the average 1-day index change of about +0.23% indicates a mild upward bias rather than a strong rally. The backdrop of a higher-vol regime, with VIX at 20.6 and up nearly 38% over 30 days, tempers that constructive read and points to more fragile sentiment. At the same time, the 10Y Treasury yield falling to 4.06% with a -5.1% move over the week provides some support to valuations and cushions overall market stress, keeping conditions in "cautious but functional" territory.
   
-  1.2. **Leadership:** Over the last day, leadership is broad-based but most notable in gold and growth proxies, with Gold futures up 2.25% and the Nasdaq Composite up 0.48%, while QQQ gains 0.43%. On the equity index side, the S&P 500 is a positive standout at +0.49% 1d, slightly ahead of the Dow's +0.39% and the Russell 2000's +0.22%. On the downside, energy is a relative laggard with WTI crude down 0.41% on the day, and the US Dollar also weak at -0.61%, marking them as notable underperformers versus the rest of the risk complex.
+  1.2. **Leadership:** Over the last day, the Russell 2000 is the clear equity leader with a +1.18% move, and Dow 30 strength at +0.10% also stands out on the large-cap side. On the negative side, the Nasdaq Composite lags with a -0.22% 1-day decline, reflecting continued pressure on growth and tech. Over the week, Russell 2000 and its futures proxy (Russell Fut +2.54% over 7 days) lead, while the Nasdaq Composite (-1.56% over 7 days) is the primary laggard, underscoring a rotation away from large-cap tech toward small caps.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** ["Macro and geopolitical focus is centered on the upcoming Federal Reserve meeting and a heavy earnings slate, especially in big tech, as highlighted by coverage of the "Wall St Week Ahead" where investors are weighing AI profit potential and the path of interest rates. This combination is generally risk-on for large-cap growth and AI-linked names in the near term, but it also makes the market sensitive to any disappointment in Fed rhetoric or earnings, which could quickly flip sentiment to risk-off.","Global geopolitical tensions, particularly around Trump's proposed Greenland tariffs and the resulting "Sell America" trade, remain an important overhang, as prior articles noted sharp selloffs in U.S. stocks, surging Treasury yields, and a weaker dollar when those tensions escalated. The current extremely strong move in gold (+9.99% over 7d and +21.26% over 30d) and the firm but slightly softer 10Y yield backdrop suggest that some investors continue to hedge geopolitical and policy risk even while participating in the equity grind higher, tempering the otherwise risk-on tone.","In Europe, investors are described as "biding time" with shares dipping as oil's earlier price moves pressured airlines while gold "shines," illustrating a global pattern of cautious positioning beneath surface-level equity resilience. This behavior, together with U.S. futures that have previously reacted sharply to Greenland-related tariff headlines, underscores that macro and geopolitical news can quickly pivot markets between risk-on and risk-off, with current flows showing both equity buying and defensive allocations into gold."]
+  2.1. **Catalysts:** ["Macro and policy expectations around U.S. inflation and Federal Reserve rate cuts are a key driver of the tape. News highlights that U.S. stock index futures are "muted" with investors staying on the sidelines ahead of inflation data that could clarify the Fed's rate-cut outlook, which is a classic risk-off posture until the data hits. The recent drop in the 10Y yield by -5.12% over 7 days suggests markets have already leaned toward a slightly easier future policy path, providing some support for equities even as investors remain cautious.","Another important theme is the fallout from AI-related fears and their impact on tech and global risk sentiment. Headlines reference an "AI-led selloff" and note ongoing concerns over AI-driven disruption, coinciding with the Nasdaq Composite's -1.56% 7-day and -2.99% 30-day declines versus stronger small-cap and Dow performance. This aligns with a risk-off tilt specifically toward high-multiple tech and SaaS names, while broader risk appetite is more mixed, allowing areas like small caps and some cyclicals to outperform despite sector-specific headwinds."]
   
-  2.2. **Upcoming Triggers:** The key upcoming trigger over the next 24 hours is the Federal Reserve's meeting and communication on interest rate policy, which, according to recent coverage, is central to how investors are assessing the rate path and valuation support for equities. A packed earnings calendar featuring mega-cap tech names such as Apple and Microsoft is also in focus, with particular attention on AI-related profit trajectories that could drive significant sector and index-level moves if results surprise either positively or negatively. Additionally, any fresh headlines around Trump's Greenland-related tariff threats and associated "Sell America" sentiment, which have previously caused sharp moves in U.S. futures and safe havens like gold, could quickly alter risk appetite. In combination, these policy, earnings, and geopolitical inputs have the potential to meaningfully move both index futures and rates in the next session.
+  2.2. **Upcoming Triggers:** The primary upcoming trigger over the next 24 hours is U.S. inflation data that investors are explicitly waiting on to refine expectations for Federal Reserve rate cuts, as noted in the report that U.S. index futures are muted with inflation data "on tap." This release could be market-moving: a softer print would likely support a risk-on response via lower rate expectations, while a hotter reading could reinforce the recent rise in volatility and pressure growth and tech further. No specific major earnings or policy speeches are identified in the provided data beyond this macro catalyst.
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** up 60% — The most likely direction over the next 24 hours is modestly up, given that all major U.S. equity indices and futures are currently higher on the day (S&P 500 +0.49%, Nasdaq Composite +0.48%, Dow +0.39%, Russell 2000 +0.22%; ES +0.54%, NQ +0.49%) and breadth is positive with 11 assets advancing versus 4 declining. VIX is slightly lower on the day and down over the week, and the 10Y yield has eased 0.75% today, a combination that typically supports risk assets in the very near term. However, the elevated and fast-rising gold price and the known overhang from upcoming Fed and large-cap tech earnings events argue against very high confidence, as any hawkish surprise or earnings miss could quickly reverse sentiment.
+  3.1. **Next 24h Bias:** flat 55% The most likely direction over the next 24 hours is flat, with a slight positive bias, given modest 1-day gains in the S&P 500 (+0.05%), Dow 30 (+0.10%), and Russell 2000 (+1.18%) alongside essentially flat Nasdaq futures (-0.01%). Elevated but stabilizing volatility (VIX -1.06% on the day but still high at 20.6) and lower 10Y yields support a floor under prices, while the upcoming U.S. inflation data and recent AI-led tech selloff encourage investors to stay cautious rather than extend a strong rally or deepen a selloff before the print.
   
-  3.2. **Watch List:** ["Into the next session, traders should monitor how S&P 500 and Nasdaq futures trade around current levels (ES last 6,983, NQ last 25,864), as continuation above today's roughly +0.5% gains would confirm the short-term up-bias, while a reversal toward last week's references (e.g., ES 6,966) would signal waning momentum. Watching the Russell complex (RUT 2,674.99; RTY futures 2,687.5) is important as small caps have led on a 30d basis; sustained strength there would reinforce a broader risk-on rotation beyond mega-cap tech.","Sector-wise, focus should remain on large-cap growth and AI-related technology, proxied by the Nasdaq Composite and QQQ (QQQ +0.43% 1d), given their centrality in the upcoming earnings narrative, alongside financial conditions as reflected in the 10Y Treasury yield (4.21) and VIX (16.06). Traders should also track gold futures near 5,088 and the US Dollar index around 97; continued gold strength with a soft dollar would signal persistent hedging against macro and geopolitical risk even as indices grind higher, and any abrupt spike in VIX or jump in yields relative to these levels would be an early warning that the expected modest upside path is being challenged."]
+  3.2. **Watch List:** ["Traders should watch whether small-cap leadership persists, with the Russell 2000 around 2,646.7 and Russell futures near 2,652.5 after a +2.54% 7-day move, as continued outperformance would confirm rotation into domestic cyclicals and higher beta risk. Conversely, any renewed weakness in the Nasdaq Composite at 22,546.7 and Nasdaq futures around 24,801.25, especially if they underperform on otherwise flat index action, would signal that AI- and growth-related concerns are still dominating sector leadership.","On the macro side, the focus should remain on how the U.S. inflation release impacts the 10Y Treasury yield, now at 4.06% after a -5.12% 7-day drop, and the VIX at 20.6. A post-data move in yields back above recent levels or a renewed spike in VIX would likely translate into renewed pressure on high-multiple tech and broader risk assets, while a further drift lower in yields and VIX could validate the current stabilization in S&P futures at 6,858.5 and Dow futures at 49,623. Monitoring these rate and volatility responses around the data will be critical for gauging whether the next session skews slightly risk-on or risk-off."]
   
   ## 4. QuickRef
   
@@ -39,21 +39,21 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>S&amp;P 500</td><td>1d +0.49% | 7d +0.33% | 30d +0.91% | last 6,949.32</td></tr>
-  <tr><td>Dow 30</td><td>1d +0.39% | 7d +0.29% | 30d +2.57% | last 49,292.63</td></tr>
-  <tr><td>Nasdaq Composite</td><td>1d +0.48% | 7d +0.61% | 30d -0.16% | last 23,615.13</td></tr>
-  <tr><td>Russell 2000</td><td>1d +0.22% | 7d +0.88% | 30d +4.51% | last 2,674.99</td></tr>
-  <tr><td>SPY ETF</td><td>1d +0.04% | 7d -0.65% | 30d +1.20% | last 689.23</td></tr>
-  <tr><td>QQQ ETF</td><td>1d +0.43% | 7d +0.95% | 30d -0.22% | last 625.42</td></tr>
-  <tr><td>VIX</td><td>1d -0.19% | 7d -4.12% | 30d +1.84% | last 16.06</td></tr>
-  <tr><td>S&amp;P Fut</td><td>1d +0.54% | 7d +0.24% | 30d +1.32% | last 6,983.00</td></tr>
-  <tr><td>Nasdaq Fut</td><td>1d +0.49% | 7d +0.91% | 30d +0.26% | last 25,864.00</td></tr>
-  <tr><td>Dow Fut</td><td>1d +0.47% | 7d +0.28% | 30d +2.88% | last 49,494.00</td></tr>
-  <tr><td>Russell Fut</td><td>1d +0.29% | 7d +0.80% | 30d +4.82% | last 2,687.50</td></tr>
-  <tr><td>10Y Treasury</td><td>1d -0.75% | 7d +1.62% | 30d +1.03% | last 4.21</td></tr>
-  <tr><td>Gold Fut</td><td>1d +2.25% | 7d +9.99% | 30d +21.26% | last 5,088.40</td></tr>
-  <tr><td>WTI Crude</td><td>1d -0.41% | 7d -1.93% | 30d +4.04% | last 60.82</td></tr>
-  <tr><td>US Dollar</td><td>1d -0.61% | 7d -2.14% | 30d -1.81% | last 97.00</td></tr>
+  <tr><td>S&amp;P 500</td><td>1d +0.05% | 7d -0.68% | 30d -0.14% | last 6,836.17</td></tr>
+  <tr><td>Dow 30</td><td>1d +0.10% | 7d -0.00% | 30d +2.99% | last 49,500.93</td></tr>
+  <tr><td>Nasdaq Composite</td><td>1d -0.22% | 7d -1.56% | 30d -2.99% | last 22,546.67</td></tr>
+  <tr><td>Russell 2000</td><td>1d +1.18% | 7d +0.84% | 30d +6.64% | last 2,646.70</td></tr>
+  <tr><td>SPY ETF</td><td>1d +0.07% | 7d -0.65% | 30d -0.02% | last 681.75</td></tr>
+  <tr><td>QQQ ETF</td><td>1d +0.21% | 7d -0.63% | 30d -2.02% | last 601.92</td></tr>
+  <tr><td>VIX</td><td>1d -1.06% | 7d +10.52% | 30d +37.79% | last 20.60</td></tr>
+  <tr><td>S&amp;P Fut</td><td>1d +0.12% | 7d +0.55% | 30d -0.61% | last 6,858.50</td></tr>
+  <tr><td>Nasdaq Fut</td><td>1d -0.01% | 7d +0.61% | 30d -2.30% | last 24,801.25</td></tr>
+  <tr><td>Dow Fut</td><td>1d +0.11% | 7d +1.28% | 30d +2.07% | last 49,623.00</td></tr>
+  <tr><td>Russell Fut</td><td>1d -0.02% | 7d +2.54% | 30d +5.15% | last 2,652.50</td></tr>
+  <tr><td>10Y Treasury</td><td>1d -1.17% | 7d -5.12% | 30d -2.57% | last 4.06</td></tr>
+  <tr><td>Gold Fut</td><td>1d -0.24% | 7d +3.06% | 30d +16.13% | last 5,010.10</td></tr>
+  <tr><td>WTI Crude</td><td>1d +0.06% | 7d -0.57% | 30d +9.79% | last 62.93</td></tr>
+  <tr><td>US Dollar</td><td>1d +0.07% | 7d -0.89% | 30d -1.50% | last 96.94</td></tr>
   </tbody></table>
   </div>
   
@@ -62,7 +62,7 @@ raw_markdown: |
   <strong>Sources</strong>
   <ul>
   <li>yfinance: benchmark closes &amp; change calculations</li>
-  <li>market headlines: NEWSAPI</li>
+  <li>market headlines: GUARDIAN, NEWSAPI</li>
   </ul>
   </div>
   
@@ -81,7 +81,11 @@ raw_markdown: |
       newsapi: 5 result(s)
   Market headlines search -&gt; Wall Street catalysts next 24 hours
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=Wall+Street+catalysts+next+24+hours&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Wall+Street+catalysts+next+24+hours&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -118,12 +122,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities are trading with a constructive tone, with major U.S. indices up around 0.2%–0.5% on the day and an average index gain of about 0.34%. The S&amp;P 500 is up 0.49% and the Nasdaq Composite 0.48% over 1d, while small caps in the Russell 2000 lag somewhat at +0.22% but remain the strongest over 30d at +4.51%, indicating improving but still selective risk appetite. Over a week, gains are modest (S&amp;P 500 +0.33%, Nasdaq +0.61%), suggesting a grind higher rather than a momentum surge.&quot;,&quot;Volatility is calm to slightly easing, reinforcing a risk-on bias. The VIX is essentially flat on the
+  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Across major U.S. equity benchmarks, the tone is cautiously constructive in the very short term but still soft over the past week. The S&amp;P 500 is up +0.05% on the day but down -0.68% over 7 days, while the Nasdaq Composite is off -0.22% on the day and -1.56% over the week, indicating fading appetite for mega-cap growth and tech. In contrast, small caps are firm, with the Russell 2000 +1.18% on the day and +0.84% over 7 days, suggesting selective risk appetite migrating toward domestically oriented and higher beta names.&quot;,&quot;Volatility and rates data show a mixed risk tone. The VIX dippe
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-26T15:30:14.437898+00:00">2026-01-26 15:30 UTC</time> (runtime 43.43s)
+**Generated:** <time class="js-local-time" datetime="2026-02-16T06:36:47.555285+00:00">2026-02-16 06:36 UTC</time> (runtime 27.94s)
 
 ### Latest news (0-3 days)
 
@@ -132,23 +136,23 @@ raw_markdown: |
 
 ## 1. Pulse
 
-["Equities are trading with a constructive tone, with major U.S. indices up around 0.2%–0.5% on the day and an average index gain of about 0.34%. The S&P 500 is up 0.49% and the Nasdaq Composite 0.48% over 1d, while small caps in the Russell 2000 lag somewhat at +0.22% but remain the strongest over 30d at +4.51%, indicating improving but still selective risk appetite. Over a week, gains are modest (S&P 500 +0.33%, Nasdaq +0.61%), suggesting a grind higher rather than a momentum surge.","Volatility is calm to slightly easing, reinforcing a risk-on bias. The VIX is essentially flat on the day (-0.19%) and down 4.1% over the week to 16.06, implying investors are more comfortable adding exposure even as the 30d VIX change is slightly higher (+1.84%). U.S. 10Y yields dipped 0.75% on the day to 4.21% but remain higher over 7d and 30d (both just over +1%), a backdrop that is not aggressively restrictive in the very short term but reminds that rates are still elevated.","Equity futures confirm the constructive tone, with S&P, Nasdaq, Dow, and Russell futures all higher about 0.3%–0.5% on the day (ES +0.54%, NQ +0.49%, YM +0.47%, RTY +0.29%). The combination of higher equities, softer volatility, slightly lower 10Y yields on the day, and a weaker dollar (DXY -0.61% 1d, -2.14% 7d) points to an improving near-term risk appetite, though the strong concurrent bid in gold (+2.25% 1d, +21.26% 30d) signals that a meaningful tail-risk hedge remains in place.],"
+["Across major U.S. equity benchmarks, the tone is cautiously constructive in the very short term but still soft over the past week. The S&P 500 is up +0.05% on the day but down -0.68% over 7 days, while the Nasdaq Composite is off -0.22% on the day and -1.56% over the week, indicating fading appetite for mega-cap growth and tech. In contrast, small caps are firm, with the Russell 2000 +1.18% on the day and +0.84% over 7 days, suggesting selective risk appetite migrating toward domestically oriented and higher beta names.","Volatility and rates data show a mixed risk tone. The VIX dipped -1.06% on the day but is up +10.52% over 7 days and +37.79% over 30 days to 20.6, signaling that, despite today's modest calm, the volatility regime has shifted higher and investors remain more defensive than a month ago. The 10Y Treasury yield is down -1.17% on the day and -5.12% over 7 days to 4.06%, consistent with a bid for duration and some macro concern, but also easing pressure on equities via a lower discount rate.","Index futures point to a slightly positive but subdued near-term bias. S&P futures are up +0.12% on the day and +0.55% over 7 days, Dow futures are +0.11% on the day and +1.28% over 7 days, while Nasdaq futures are essentially flat on the day (-0.01%) but up +0.61% over the week. Taken together, risk appetite is tentatively improving on a 1–7 day horizon in futures and small caps, but the elevated VIX and negative 7–30 day returns for the S&P and Nasdaq show that overall risk appetite is still meaningfully lower than a month ago."]
 
-1.1. **Market Health:** Market health appears moderately positive based on the benchmark changes. Breadth is supportive, with 11 assets up versus 4 down and an average 1d index move of about +0.34%, indicating a broad though not explosive advance. Volatility is contained with VIX near 16 and down over the last week, while the 10Y Treasury yield is slightly lower on the day even if it is modestly higher over 7d and 30d, suggesting no acute rates stress. Overall, the tape reflects a reasonably healthy, risk-on environment with some underlying caution evident in strong gold performance.
+1.1. **Market Health:** Market health is moderately stable but not robust. Breadth is slightly positive, with 9 instruments up versus 6 down, and the average 1-day index change of about +0.23% indicates a mild upward bias rather than a strong rally. The backdrop of a higher-vol regime, with VIX at 20.6 and up nearly 38% over 30 days, tempers that constructive read and points to more fragile sentiment. At the same time, the 10Y Treasury yield falling to 4.06% with a -5.1% move over the week provides some support to valuations and cushions overall market stress, keeping conditions in "cautious but functional" territory.
 
-1.2. **Leadership:** Over the last day, leadership is broad-based but most notable in gold and growth proxies, with Gold futures up 2.25% and the Nasdaq Composite up 0.48%, while QQQ gains 0.43%. On the equity index side, the S&P 500 is a positive standout at +0.49% 1d, slightly ahead of the Dow's +0.39% and the Russell 2000's +0.22%. On the downside, energy is a relative laggard with WTI crude down 0.41% on the day, and the US Dollar also weak at -0.61%, marking them as notable underperformers versus the rest of the risk complex.
+1.2. **Leadership:** Over the last day, the Russell 2000 is the clear equity leader with a +1.18% move, and Dow 30 strength at +0.10% also stands out on the large-cap side. On the negative side, the Nasdaq Composite lags with a -0.22% 1-day decline, reflecting continued pressure on growth and tech. Over the week, Russell 2000 and its futures proxy (Russell Fut +2.54% over 7 days) lead, while the Nasdaq Composite (-1.56% over 7 days) is the primary laggard, underscoring a rotation away from large-cap tech toward small caps.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** ["Macro and geopolitical focus is centered on the upcoming Federal Reserve meeting and a heavy earnings slate, especially in big tech, as highlighted by coverage of the "Wall St Week Ahead" where investors are weighing AI profit potential and the path of interest rates. This combination is generally risk-on for large-cap growth and AI-linked names in the near term, but it also makes the market sensitive to any disappointment in Fed rhetoric or earnings, which could quickly flip sentiment to risk-off.","Global geopolitical tensions, particularly around Trump's proposed Greenland tariffs and the resulting "Sell America" trade, remain an important overhang, as prior articles noted sharp selloffs in U.S. stocks, surging Treasury yields, and a weaker dollar when those tensions escalated. The current extremely strong move in gold (+9.99% over 7d and +21.26% over 30d) and the firm but slightly softer 10Y yield backdrop suggest that some investors continue to hedge geopolitical and policy risk even while participating in the equity grind higher, tempering the otherwise risk-on tone.","In Europe, investors are described as "biding time" with shares dipping as oil's earlier price moves pressured airlines while gold "shines," illustrating a global pattern of cautious positioning beneath surface-level equity resilience. This behavior, together with U.S. futures that have previously reacted sharply to Greenland-related tariff headlines, underscores that macro and geopolitical news can quickly pivot markets between risk-on and risk-off, with current flows showing both equity buying and defensive allocations into gold."]
+2.1. **Catalysts:** ["Macro and policy expectations around U.S. inflation and Federal Reserve rate cuts are a key driver of the tape. News highlights that U.S. stock index futures are "muted" with investors staying on the sidelines ahead of inflation data that could clarify the Fed's rate-cut outlook, which is a classic risk-off posture until the data hits. The recent drop in the 10Y yield by -5.12% over 7 days suggests markets have already leaned toward a slightly easier future policy path, providing some support for equities even as investors remain cautious.","Another important theme is the fallout from AI-related fears and their impact on tech and global risk sentiment. Headlines reference an "AI-led selloff" and note ongoing concerns over AI-driven disruption, coinciding with the Nasdaq Composite's -1.56% 7-day and -2.99% 30-day declines versus stronger small-cap and Dow performance. This aligns with a risk-off tilt specifically toward high-multiple tech and SaaS names, while broader risk appetite is more mixed, allowing areas like small caps and some cyclicals to outperform despite sector-specific headwinds."]
 
-2.2. **Upcoming Triggers:** The key upcoming trigger over the next 24 hours is the Federal Reserve's meeting and communication on interest rate policy, which, according to recent coverage, is central to how investors are assessing the rate path and valuation support for equities. A packed earnings calendar featuring mega-cap tech names such as Apple and Microsoft is also in focus, with particular attention on AI-related profit trajectories that could drive significant sector and index-level moves if results surprise either positively or negatively. Additionally, any fresh headlines around Trump's Greenland-related tariff threats and associated "Sell America" sentiment, which have previously caused sharp moves in U.S. futures and safe havens like gold, could quickly alter risk appetite. In combination, these policy, earnings, and geopolitical inputs have the potential to meaningfully move both index futures and rates in the next session.
+2.2. **Upcoming Triggers:** The primary upcoming trigger over the next 24 hours is U.S. inflation data that investors are explicitly waiting on to refine expectations for Federal Reserve rate cuts, as noted in the report that U.S. index futures are muted with inflation data "on tap." This release could be market-moving: a softer print would likely support a risk-on response via lower rate expectations, while a hotter reading could reinforce the recent rise in volatility and pressure growth and tech further. No specific major earnings or policy speeches are identified in the provided data beyond this macro catalyst.
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** up 60% — The most likely direction over the next 24 hours is modestly up, given that all major U.S. equity indices and futures are currently higher on the day (S&P 500 +0.49%, Nasdaq Composite +0.48%, Dow +0.39%, Russell 2000 +0.22%; ES +0.54%, NQ +0.49%) and breadth is positive with 11 assets advancing versus 4 declining. VIX is slightly lower on the day and down over the week, and the 10Y yield has eased 0.75% today, a combination that typically supports risk assets in the very near term. However, the elevated and fast-rising gold price and the known overhang from upcoming Fed and large-cap tech earnings events argue against very high confidence, as any hawkish surprise or earnings miss could quickly reverse sentiment.
+3.1. **Next 24h Bias:** flat 55% The most likely direction over the next 24 hours is flat, with a slight positive bias, given modest 1-day gains in the S&P 500 (+0.05%), Dow 30 (+0.10%), and Russell 2000 (+1.18%) alongside essentially flat Nasdaq futures (-0.01%). Elevated but stabilizing volatility (VIX -1.06% on the day but still high at 20.6) and lower 10Y yields support a floor under prices, while the upcoming U.S. inflation data and recent AI-led tech selloff encourage investors to stay cautious rather than extend a strong rally or deepen a selloff before the print.
 
-3.2. **Watch List:** ["Into the next session, traders should monitor how S&P 500 and Nasdaq futures trade around current levels (ES last 6,983, NQ last 25,864), as continuation above today's roughly +0.5% gains would confirm the short-term up-bias, while a reversal toward last week's references (e.g., ES 6,966) would signal waning momentum. Watching the Russell complex (RUT 2,674.99; RTY futures 2,687.5) is important as small caps have led on a 30d basis; sustained strength there would reinforce a broader risk-on rotation beyond mega-cap tech.","Sector-wise, focus should remain on large-cap growth and AI-related technology, proxied by the Nasdaq Composite and QQQ (QQQ +0.43% 1d), given their centrality in the upcoming earnings narrative, alongside financial conditions as reflected in the 10Y Treasury yield (4.21) and VIX (16.06). Traders should also track gold futures near 5,088 and the US Dollar index around 97; continued gold strength with a soft dollar would signal persistent hedging against macro and geopolitical risk even as indices grind higher, and any abrupt spike in VIX or jump in yields relative to these levels would be an early warning that the expected modest upside path is being challenged."]
+3.2. **Watch List:** ["Traders should watch whether small-cap leadership persists, with the Russell 2000 around 2,646.7 and Russell futures near 2,652.5 after a +2.54% 7-day move, as continued outperformance would confirm rotation into domestic cyclicals and higher beta risk. Conversely, any renewed weakness in the Nasdaq Composite at 22,546.7 and Nasdaq futures around 24,801.25, especially if they underperform on otherwise flat index action, would signal that AI- and growth-related concerns are still dominating sector leadership.","On the macro side, the focus should remain on how the U.S. inflation release impacts the 10Y Treasury yield, now at 4.06% after a -5.12% 7-day drop, and the VIX at 20.6. A post-data move in yields back above recent levels or a renewed spike in VIX would likely translate into renewed pressure on high-multiple tech and broader risk assets, while a further drift lower in yields and VIX could validate the current stabilization in S&P futures at 6,858.5 and Dow futures at 49,623. Monitoring these rate and volatility responses around the data will be critical for gauging whether the next session skews slightly risk-on or risk-off."]
 
 ## 4. QuickRef
 
@@ -156,21 +160,21 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>S&amp;P 500</td><td>1d +0.49% | 7d +0.33% | 30d +0.91% | last 6,949.32</td></tr>
-<tr><td>Dow 30</td><td>1d +0.39% | 7d +0.29% | 30d +2.57% | last 49,292.63</td></tr>
-<tr><td>Nasdaq Composite</td><td>1d +0.48% | 7d +0.61% | 30d -0.16% | last 23,615.13</td></tr>
-<tr><td>Russell 2000</td><td>1d +0.22% | 7d +0.88% | 30d +4.51% | last 2,674.99</td></tr>
-<tr><td>SPY ETF</td><td>1d +0.04% | 7d -0.65% | 30d +1.20% | last 689.23</td></tr>
-<tr><td>QQQ ETF</td><td>1d +0.43% | 7d +0.95% | 30d -0.22% | last 625.42</td></tr>
-<tr><td>VIX</td><td>1d -0.19% | 7d -4.12% | 30d +1.84% | last 16.06</td></tr>
-<tr><td>S&amp;P Fut</td><td>1d +0.54% | 7d +0.24% | 30d +1.32% | last 6,983.00</td></tr>
-<tr><td>Nasdaq Fut</td><td>1d +0.49% | 7d +0.91% | 30d +0.26% | last 25,864.00</td></tr>
-<tr><td>Dow Fut</td><td>1d +0.47% | 7d +0.28% | 30d +2.88% | last 49,494.00</td></tr>
-<tr><td>Russell Fut</td><td>1d +0.29% | 7d +0.80% | 30d +4.82% | last 2,687.50</td></tr>
-<tr><td>10Y Treasury</td><td>1d -0.75% | 7d +1.62% | 30d +1.03% | last 4.21</td></tr>
-<tr><td>Gold Fut</td><td>1d +2.25% | 7d +9.99% | 30d +21.26% | last 5,088.40</td></tr>
-<tr><td>WTI Crude</td><td>1d -0.41% | 7d -1.93% | 30d +4.04% | last 60.82</td></tr>
-<tr><td>US Dollar</td><td>1d -0.61% | 7d -2.14% | 30d -1.81% | last 97.00</td></tr>
+<tr><td>S&amp;P 500</td><td>1d +0.05% | 7d -0.68% | 30d -0.14% | last 6,836.17</td></tr>
+<tr><td>Dow 30</td><td>1d +0.10% | 7d -0.00% | 30d +2.99% | last 49,500.93</td></tr>
+<tr><td>Nasdaq Composite</td><td>1d -0.22% | 7d -1.56% | 30d -2.99% | last 22,546.67</td></tr>
+<tr><td>Russell 2000</td><td>1d +1.18% | 7d +0.84% | 30d +6.64% | last 2,646.70</td></tr>
+<tr><td>SPY ETF</td><td>1d +0.07% | 7d -0.65% | 30d -0.02% | last 681.75</td></tr>
+<tr><td>QQQ ETF</td><td>1d +0.21% | 7d -0.63% | 30d -2.02% | last 601.92</td></tr>
+<tr><td>VIX</td><td>1d -1.06% | 7d +10.52% | 30d +37.79% | last 20.60</td></tr>
+<tr><td>S&amp;P Fut</td><td>1d +0.12% | 7d +0.55% | 30d -0.61% | last 6,858.50</td></tr>
+<tr><td>Nasdaq Fut</td><td>1d -0.01% | 7d +0.61% | 30d -2.30% | last 24,801.25</td></tr>
+<tr><td>Dow Fut</td><td>1d +0.11% | 7d +1.28% | 30d +2.07% | last 49,623.00</td></tr>
+<tr><td>Russell Fut</td><td>1d -0.02% | 7d +2.54% | 30d +5.15% | last 2,652.50</td></tr>
+<tr><td>10Y Treasury</td><td>1d -1.17% | 7d -5.12% | 30d -2.57% | last 4.06</td></tr>
+<tr><td>Gold Fut</td><td>1d -0.24% | 7d +3.06% | 30d +16.13% | last 5,010.10</td></tr>
+<tr><td>WTI Crude</td><td>1d +0.06% | 7d -0.57% | 30d +9.79% | last 62.93</td></tr>
+<tr><td>US Dollar</td><td>1d +0.07% | 7d -0.89% | 30d -1.50% | last 96.94</td></tr>
 </tbody></table>
 </div>
 
@@ -179,7 +183,7 @@ raw_markdown: |
 <strong>Sources</strong>
 <ul>
 <li>yfinance: benchmark closes &amp; change calculations</li>
-<li>market headlines: NEWSAPI</li>
+<li>market headlines: GUARDIAN, NEWSAPI</li>
 </ul>
 </div>
 
@@ -198,7 +202,11 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+outloo
     newsapi: 5 result(s)
 Market headlines search -&gt; Wall Street catalysts next 24 hours
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=Wall+Street+catalysts+next+24+hours&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Wall+Street+catalysts+next+24+hours&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -235,6 +243,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities are trading with a constructive tone, with major U.S. indices up around 0.2%–0.5% on the day and an average index gain of about 0.34%. The S&amp;P 500 is up 0.49% and the Nasdaq Composite 0.48% over 1d, while small caps in the Russell 2000 lag somewhat at +0.22% but remain the strongest over 30d at +4.51%, indicating improving but still selective risk appetite. Over a week, gains are modest (S&amp;P 500 +0.33%, Nasdaq +0.61%), suggesting a grind higher rather than a momentum surge.&quot;,&quot;Volatility is calm to slightly easing, reinforcing a risk-on bias. The VIX is essentially flat on the
+LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Across major U.S. equity benchmarks, the tone is cautiously constructive in the very short term but still soft over the past week. The S&amp;P 500 is up +0.05% on the day but down -0.68% over 7 days, while the Nasdaq Composite is off -0.22% on the day and -1.56% over the week, indicating fading appetite for mega-cap growth and tech. In contrast, small caps are firm, with the Russell 2000 +1.18% on the day and +0.84% over 7 days, suggesting selective risk appetite migrating toward domestically oriented and higher beta names.&quot;,&quot;Volatility and rates data show a mixed risk tone. The VIX dippe
 </code></pre>
 </details>
