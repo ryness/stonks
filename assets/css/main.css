@@ -140,9 +140,18 @@ label {
   background: #f5f5f5;
   padding: 0.75rem;
   overflow: auto;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
+}
+
+#reportContent pre code {
+  white-space: inherit;
+  overflow-wrap: inherit;
+  word-break: inherit;
 }
 
 .cli-log {
