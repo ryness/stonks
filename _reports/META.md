@@ -2,11 +2,13 @@
 layout: default
 title: "META Stock Report"
 ticker: "META"
-date: 2025-11-29
-generated_at: 2025-11-29T22:17:49.922838+00:00
-runtime_seconds: 2.17
+date: 2026-01-24
+generated_at: 2026-01-24T15:20:43.376416+00:00
+runtime_seconds: 39.09
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-29T22:17:49.922838+00:00">2025-11-29 22:17 UTC</time> (runtime 2.17s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-24T15:20:43.376416+00:00">2026-01-24 15:20 UTC</time> (runtime 39.09s)
+  
+  ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -46,44 +48,44 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - no news is good news?
+  - [The AI Energy Supercycle: Striving to Secure 24/7 Power Infrastructure](https://www.globenewswire.com/news-release/2026/01/23/3225016/0/en/The-AI-Energy-Supercycle-Striving-to-Secure-24-7-Power-Infrastructure.html) — GlobeNewswire Inc. · 2026-01-23
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** analysis unavailable (noai flag enabled)
+  0.1. **Long Entry?:** no — shares sit near 7d/30d resistance at $648 and are flagged as overbought versus support around $582–$598; macro AI enthusiasm is elevated but broader froth context is limited, and price is only modestly above the 20-day average with MACD negative, arguing against adding here.
   
   ## 1. The Biz
   
-  1.1. **Activities:** analysis unavailable (noai flag enabled)
+  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, its "Family of Apps," which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these services for communication, content sharing, and running digital businesses, while Meta monetizes primarily by packaging user data into targeted digital advertising. It is also investing heavily in its Reality Labs division for virtual/augmented reality, though this remains a small portion of overall sales.
   
-  1.2. **Profitable?:** analysis unavailable (noai flag enabled)
+  1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B and a profit margin around 31%, supported by strong free cash flow and operating cash flow.
   
-  1.3. **Customer & Markets:** analysis unavailable (noai flag enabled)
+  1.3. **Customer & Markets:** Meta's primary customers are digital advertisers that pay to reach its nearly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span individuals, creators, and businesses worldwide who use its platforms for communication, entertainment, and commerce. Its markets are global online advertising and, to a smaller extent, virtual/augmented reality and AI infrastructure tied to data centers.
   
-  1.4. **Competition:** analysis unavailable (noai flag enabled)
+  1.4. **Competition:** Key competitors include other internet and tech giants such as Alphabet/Google, Microsoft, Amazon, Apple, Snap, Netflix, Tesla, Nvidia, and AMD, particularly in digital advertising, attention, and emerging AI/VR ecosystems. Within social media and online content, Meta ranks as the largest player by audience scale with close to 4 billion monthly active users.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** analysis unavailable (noai flag enabled)
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price advancing from the 7d support area near $598 to close near resistance at $648.
   
-  2.2. **7d Buy/Sell Points?:** analysis unavailable (noai flag enabled)
+  2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the 7d/30d support band around $582–$598 offered better buy entries, while approaches to the 7d/30d resistance and local high near $648 presented logical short-term sell or trim levels.
   
-  2.3.1. **7d Volume:** analysis unavailable (noai flag enabled)
+  2.3.1. **7d Volume:** low
   
-  2.3.2. **7d Volatility:** analysis unavailable (noai flag enabled)
+  2.3.2. **7d Volatility:** med
   
   ## 3. Longterm
   
-  3.1. **Stability?:** analysis unavailable (noai flag enabled)
+  3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night company, operating at massive global scale with close to 4 billion monthly active users. It consistently generates substantial net income (~$58.5B recent sum) and strong operating cash flow ($107.6B) and free cash flow (~$18.6B). The firm is based in the United States and operates in the Communication Services sector, with a highly profitable core ad business (31% profit margin). Its balance of cash generation and ongoing investment, including into Reality Labs, supports a durable financial profile despite cyclical and regulatory risks not detailed here.
   
-  3.2. **Innovating?:** analysis unavailable (noai flag enabled)
+  3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by 26% revenue growth and continued heavy investment in its Reality Labs and AI/data-center-related initiatives. However, earnings growth is currently negative in the snapshot (-82.7%), suggesting near-term profit pressure from this investment phase even as the core business expands.
   
   ## 4. Context
   
-  4.1. **News:** analysis unavailable (noai flag enabled)
+  4.1. **News:** Recent news highlights Meta's role as a major tech company committing billions to nuclear-powered infrastructure to support AI data centers, tying it directly to the broader "AI energy supercycle." This underscores Meta's positioning at the heart of the AI buildout narrative, which can fuel strong expectations ahead of concrete financial returns. The quick facts indicate "Buy the rumor? no" and "Sell the news? yes," implying that much of this positive AI/infrastructure story may already be reflected in the share price. With the stock overbought and near resistance, the setup aligns more with a "sell the news" dynamic than a fresh rumor-driven entry. No specific company-unique rumor beyond these thematic AI/nuclear investments is indicated in the supplied headlines.
   
-  4.2. **Tarrifs:** analysis unavailable (noai flag enabled)
+  4.2. **Tarrifs:** Tariffs are expected to have a negative but manageable impact on Meta's stock, with sources citing potential multi-billion-dollar headwinds from tough China tariffs, though the company has indicated it anticipates continued growth and has so far largely shrugged off tariff impacts.
   
   ## 5. QuickRef
   
@@ -112,8 +114,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: headlines skipped (noapi)</li>
-  <li>yfinance: company profile, fundamentals, earnings calendar, headlines (5 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -124,21 +128,128 @@ raw_markdown: |
   <pre><code>
   Gathering context for META...
   Gathering market data...
-  noapi flag set; using cached price bars only.
+  Using cached price bars from database (rows=2527, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
+  Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-28?apiKey=%2A%2A%2A
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/META/2025-11-28?apiKey=&lt;redacted&gt;
+  Massive previous close: GET https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive SMA: GET https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive EMA: GET https://api.massive.com/v1/indicators/ema/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: GET https://api.massive.com/v1/indicators/macd/META?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/META?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive RSI: GET https://api.massive.com/v1/indicators/rsi/META?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+  Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/META?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
   Fetching company profile (massive.com)...
+  Massive profile: GET https://api.massive.com/v3/reference/tickers/META?apiKey=%2A%2A%2A
+  Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/META?apiKey=&lt;redacted&gt;
+  Massive profile: company metadata retrieved successfully.
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/META.svg
+  Massive related companies: GET https://api.massive.com/v1/related-companies/META?apiKey=%2A%2A%2A
+  Massive related companies: response 200 from https://api.massive.com/v1/related-companies/META?apiKey=&lt;redacted&gt;
+  Massive related companies: retrieved 10 entries.
   Fetching company fundamentals...
   Retrieving earnings calendar...
+  Massive earnings: attempting request with key 2QGS***XN
+  Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=%2A%2A%2A
+  Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
   Assembling quick facts...
+  Collecting latest headlines (massive.com)...
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 5 articles.
+    massive.com returned 5 headlines
+  Filtered 3 headline(s) from banned sources.
   Running supplementary searches...
-  Supplementary searches skipped (noapi flag).
+    google_custom_search search -&gt; META core business (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=5
+      google_custom_search: 5 result(s)
+    google_custom_search search -&gt; META product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=5
+      google_custom_search: 5 result(s)
+    google_custom_search search -&gt; META earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 3 result(s)
+    google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=5
+      google_custom_search: 5 result(s)
+    google_custom_search search -&gt; META market segments (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META market expansion (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; META competitors (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=5
+      google_custom_search: 5 result(s)
+    google_custom_search search -&gt; META market share (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META competitive landscape (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; META rumors (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=5
+      google_custom_search: 5 result(s)
+    google_custom_search search -&gt; META tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=5
+      google_custom_search: 5 result(s)
+    newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      newsapi: 5 result(s)
+    google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=5
+      google_custom_search: 5 result(s)
   Synthesizing narrative from OpenAI response...
-  LLM/OpenAI call skipped (noai flag); synthesizing placeholder answers.
+  Preparing OpenAI request...
+  Dispatching bullets to OpenAI:
+    - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
+    - 1.1 Activities
+    - 1.2 Profitable?
+    - 1.3 Customer &amp; Markets
+    - 1.4 Competition
+    - 2.1 7d Trend?
+    - 2.2 7d Buy/Sell Points?
+    - 2.3.1 7d Volume
+    - 2.3.2 7d Volatility
+    - 3.1 Stability?
+    - 3.2 Innovating?
+    - 4.1 News
+    - 4.2 Tarrifs
+  Asking OpenAI for analysis...
+  Received response from OpenAI.
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7d/30d resistance at $648 and are flagged as overbought versus support around $582–$598; macro AI enthusiasm is elevated but broader froth context is limited, and price is only modestly above the 20-day average with MACD negative, arguing against adding here.&quot;,&quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, its \&quot;Family of Apps,\&quot; which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these services for communication, content sharing, and running digital businesses, while Meta monetizes primarily by packaging user dat
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-29T22:17:49.922838+00:00">2025-11-29 22:17 UTC</time> (runtime 2.17s)
+**Generated:** <time class="js-local-time" datetime="2026-01-24T15:20:43.376416+00:00">2026-01-24 15:20 UTC</time> (runtime 39.09s)
+
+![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -178,44 +289,44 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- no news is good news?
+- [The AI Energy Supercycle: Striving to Secure 24/7 Power Infrastructure](https://www.globenewswire.com/news-release/2026/01/23/3225016/0/en/The-AI-Energy-Supercycle-Striving-to-Secure-24-7-Power-Infrastructure.html) — GlobeNewswire Inc. · 2026-01-23
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** analysis unavailable (noai flag enabled)
+0.1. **Long Entry?:** no — shares sit near 7d/30d resistance at $648 and are flagged as overbought versus support around $582–$598; macro AI enthusiasm is elevated but broader froth context is limited, and price is only modestly above the 20-day average with MACD negative, arguing against adding here.
 
 ## 1. The Biz
 
-1.1. **Activities:** analysis unavailable (noai flag enabled)
+1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, its "Family of Apps," which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these services for communication, content sharing, and running digital businesses, while Meta monetizes primarily by packaging user data into targeted digital advertising. It is also investing heavily in its Reality Labs division for virtual/augmented reality, though this remains a small portion of overall sales.
 
-1.2. **Profitable?:** analysis unavailable (noai flag enabled)
+1.2. **Profitable?:** yes — Meta is profitable, with recent net income totaling about $58.5B and a profit margin around 31%, supported by strong free cash flow and operating cash flow.
 
-1.3. **Customer & Markets:** analysis unavailable (noai flag enabled)
+1.3. **Customer & Markets:** Meta's primary customers are digital advertisers that pay to reach its nearly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span individuals, creators, and businesses worldwide who use its platforms for communication, entertainment, and commerce. Its markets are global online advertising and, to a smaller extent, virtual/augmented reality and AI infrastructure tied to data centers.
 
-1.4. **Competition:** analysis unavailable (noai flag enabled)
+1.4. **Competition:** Key competitors include other internet and tech giants such as Alphabet/Google, Microsoft, Amazon, Apple, Snap, Netflix, Tesla, Nvidia, and AMD, particularly in digital advertising, attention, and emerging AI/VR ecosystems. Within social media and online content, Meta ranks as the largest player by audience scale with close to 4 billion monthly active users.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** analysis unavailable (noai flag enabled)
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price advancing from the 7d support area near $598 to close near resistance at $648.
 
-2.2. **7d Buy/Sell Points?:** analysis unavailable (noai flag enabled)
+2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the 7d/30d support band around $582–$598 offered better buy entries, while approaches to the 7d/30d resistance and local high near $648 presented logical short-term sell or trim levels.
 
-2.3.1. **7d Volume:** analysis unavailable (noai flag enabled)
+2.3.1. **7d Volume:** low
 
-2.3.2. **7d Volatility:** analysis unavailable (noai flag enabled)
+2.3.2. **7d Volatility:** med
 
 ## 3. Longterm
 
-3.1. **Stability?:** analysis unavailable (noai flag enabled)
+3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night company, operating at massive global scale with close to 4 billion monthly active users. It consistently generates substantial net income (~$58.5B recent sum) and strong operating cash flow ($107.6B) and free cash flow (~$18.6B). The firm is based in the United States and operates in the Communication Services sector, with a highly profitable core ad business (31% profit margin). Its balance of cash generation and ongoing investment, including into Reality Labs, supports a durable financial profile despite cyclical and regulatory risks not detailed here.
 
-3.2. **Innovating?:** analysis unavailable (noai flag enabled)
+3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by 26% revenue growth and continued heavy investment in its Reality Labs and AI/data-center-related initiatives. However, earnings growth is currently negative in the snapshot (-82.7%), suggesting near-term profit pressure from this investment phase even as the core business expands.
 
 ## 4. Context
 
-4.1. **News:** analysis unavailable (noai flag enabled)
+4.1. **News:** Recent news highlights Meta's role as a major tech company committing billions to nuclear-powered infrastructure to support AI data centers, tying it directly to the broader "AI energy supercycle." This underscores Meta's positioning at the heart of the AI buildout narrative, which can fuel strong expectations ahead of concrete financial returns. The quick facts indicate "Buy the rumor? no" and "Sell the news? yes," implying that much of this positive AI/infrastructure story may already be reflected in the share price. With the stock overbought and near resistance, the setup aligns more with a "sell the news" dynamic than a fresh rumor-driven entry. No specific company-unique rumor beyond these thematic AI/nuclear investments is indicated in the supplied headlines.
 
-4.2. **Tarrifs:** analysis unavailable (noai flag enabled)
+4.2. **Tarrifs:** Tariffs are expected to have a negative but manageable impact on Meta's stock, with sources citing potential multi-billion-dollar headwinds from tough China tariffs, though the company has indicated it anticipates continued growth and has so far largely shrugged off tariff impacts.
 
 ## 5. QuickRef
 
@@ -244,8 +355,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: headlines skipped (noapi)</li>
-<li>yfinance: company profile, fundamentals, earnings calendar, headlines (5 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -256,15 +369,120 @@ raw_markdown: |
 <pre><code>
 Gathering context for META...
 Gathering market data...
-noapi flag set; using cached price bars only.
+Using cached price bars from database (rows=2527, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
+Massive open-close: GET https://api.massive.com/v1/open-close/META/2025-11-28?apiKey=%2A%2A%2A
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/META/2025-11-28?apiKey=&lt;redacted&gt;
+Massive previous close: GET https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=%2A%2A%2A
+Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/META/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive SMA: GET https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive EMA: GET https://api.massive.com/v1/indicators/ema/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/META?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: GET https://api.massive.com/v1/indicators/macd/META?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/META?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive RSI: GET https://api.massive.com/v1/indicators/rsi/META?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
+Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/META?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
 Fetching company profile (massive.com)...
+Massive profile: GET https://api.massive.com/v3/reference/tickers/META?apiKey=%2A%2A%2A
+Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/META?apiKey=&lt;redacted&gt;
+Massive profile: company metadata retrieved successfully.
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/META.svg
+Massive related companies: GET https://api.massive.com/v1/related-companies/META?apiKey=%2A%2A%2A
+Massive related companies: response 200 from https://api.massive.com/v1/related-companies/META?apiKey=&lt;redacted&gt;
+Massive related companies: retrieved 10 entries.
 Fetching company fundamentals...
 Retrieving earnings calendar...
+Massive earnings: attempting request with key 2QGS***XN
+Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=%2A%2A%2A
+Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=&lt;redacted&gt;
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
 Assembling quick facts...
+Collecting latest headlines (massive.com)...
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 5 articles.
+  massive.com returned 5 headlines
+Filtered 3 headline(s) from banned sources.
 Running supplementary searches...
-Supplementary searches skipped (noapi flag).
+  google_custom_search search -&gt; META core business (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=5
+    google_custom_search: 5 result(s)
+  google_custom_search search -&gt; META product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=5
+    google_custom_search: 5 result(s)
+  google_custom_search search -&gt; META earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 3 result(s)
+  google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=5
+    google_custom_search: 5 result(s)
+  google_custom_search search -&gt; META market segments (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META market expansion (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; META competitors (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=5
+    google_custom_search: 5 result(s)
+  google_custom_search search -&gt; META market share (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META competitive landscape (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; META rumors (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=5
+    google_custom_search: 5 result(s)
+  google_custom_search search -&gt; META tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=5
+    google_custom_search: 5 result(s)
+  newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    newsapi: 5 result(s)
+  google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=5
+    google_custom_search: 5 result(s)
 Synthesizing narrative from OpenAI response...
-LLM/OpenAI call skipped (noai flag); synthesizing placeholder answers.
+Preparing OpenAI request...
+Dispatching bullets to OpenAI:
+  - 0.1 Long Entry? [Lead with &#x27;yes&#x27;, &#x27;no&#x27;, or &#x27;maybe&#x27;, then cite specific historical positioning, macro froth cues (or lack thereof), and placement relative to moving averages or support/resistance.]
+  - 1.1 Activities
+  - 1.2 Profitable?
+  - 1.3 Customer &amp; Markets
+  - 1.4 Competition
+  - 2.1 7d Trend?
+  - 2.2 7d Buy/Sell Points?
+  - 2.3.1 7d Volume
+  - 2.3.2 7d Volatility
+  - 3.1 Stability?
+  - 3.2 Innovating?
+  - 4.1 News
+  - 4.2 Tarrifs
+Asking OpenAI for analysis...
+Received response from OpenAI.
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7d/30d resistance at $648 and are flagged as overbought versus support around $582–$598; macro AI enthusiasm is elevated but broader froth context is limited, and price is only modestly above the 20-day average with MACD negative, arguing against adding here.&quot;,&quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, its \&quot;Family of Apps,\&quot; which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these services for communication, content sharing, and running digital businesses, while Meta monetizes primarily by packaging user dat
 </code></pre>
 </details>

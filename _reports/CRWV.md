@@ -2,58 +2,59 @@
 layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
-date: 2025-11-26
-generated_at: 2025-11-26T15:19:44.314901+00:00
-runtime_seconds: 30.55
+date: 2026-01-22
+generated_at: 2026-01-22T10:27:41.592836+00:00
+runtime_seconds: 33.59
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2025-11-26T15:19:44.314901+00:00">2025-11-26 15:19 UTC</time> (runtime 30.55s)
+  **Generated:** <time class="js-local-time" datetime="2026-01-22T10:27:41.592836+00:00">2026-01-22 10:27 UTC</time> (runtime 33.59s)
   
   ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
   <defs><linearGradient id="priceFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#e8f1ff" stop-opacity="0.8" /><stop offset="100%" stop-color="#f5f8ff" stop-opacity="0" /></linearGradient></defs>
-  <polyline points="18.00,235.07 22.07,239.48 26.14,216.06 30.21,202.78 34.29,214.21 38.36,223.25 42.43,220.18 46.50,229.61 50.57,221.81 54.64,231.74 58.71,229.40 62.79,229.61 66.86,233.89 70.93,233.96 75.00,236.44 79.07,242.00 83.14,237.32 87.21,232.62 91.29,232.39 95.36,232.74 99.43,232.01 103.50,230.80 107.57,233.10 111.64,228.54 115.71,217.58 119.79,218.42 123.86,213.46 127.93,214.51 132.00,212.39 136.07,217.88 140.14,207.11 144.21,199.90 148.29,193.55 152.36,196.11 156.43,174.14 160.50,164.63 164.57,159.11 168.64,133.19 172.71,144.12 176.79,140.22 180.86,108.12 184.93,119.94 189.00,135.97 193.07,127.26 197.14,113.82 201.21,68.04 205.29,48.96 209.36,91.37 213.43,83.64 217.50,50.47 221.57,61.36 225.64,69.22 229.71,70.32 233.79,73.02 237.86,55.92 241.93,35.61 246.00,38.53 250.07,18.00 254.14,32.97 258.21,34.57 262.29,54.40 266.36,56.55 270.43,53.66 274.50,49.02 278.57,59.79 282.64,66.09 286.71,45.79 290.79,54.10 294.86,66.58 298.93,64.16 303.00,86.47 307.07,105.29 311.14,95.41 315.21,82.99 319.29,79.29 323.36,95.66 327.43,109.56 331.50,106.70 335.57,99.35 339.64,104.98 343.71,114.12 347.79,120.74 351.86,128.82 355.93,131.15 360.00,139.99 364.07,123.00 368.14,138.10 372.21,135.27 376.29,126.46 380.36,128.88 384.43,112.49 388.50,99.68 392.57,84.22 396.64,70.66 400.71,117.51 404.79,145.11 408.86,144.40 412.93,149.20 417.00,155.11 421.07,157.18 425.14,158.28 429.21,153.44 433.29,155.88 437.36,157.38 441.43,149.00 445.50,140.14 449.57,139.76 453.64,154.43 457.71,159.66 461.79,163.29 465.86,160.85 469.93,154.11 474.00,144.03 478.07,118.45 482.14,125.17 486.21,126.28 490.29,113.41 494.36,116.01 498.43,112.82 502.50,112.02 506.57,106.77 510.64,94.12 514.71,97.66 518.79,93.86 522.86,104.05 526.93,113.61 531.00,110.31 535.07,88.65 539.14,88.35 543.21,86.91 547.29,91.76 551.36,93.18 555.43,100.77 559.50,83.92 563.57,79.23 567.64,86.26 571.71,81.44 575.79,92.87 579.86,85.03 583.93,81.25 588.00,88.62 592.07,103.45 596.14,106.47 600.21,111.81 604.29,109.07 608.36,95.15 612.43,89.84 616.50,91.75 620.57,83.99 624.64,97.40 628.71,93.39 632.79,104.57 636.86,120.55 640.93,122.56 645.00,133.88 649.07,138.30 653.14,135.88 657.21,161.91 661.29,166.39 665.36,177.10 669.43,178.59 673.50,181.66 677.57,182.31 681.64,182.28 685.71,190.91 689.79,187.22 693.86,184.27 697.93,187.76 702.00,183.83" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <polygon points="18.00,235.07 22.07,239.48 26.14,216.06 30.21,202.78 34.29,214.21 38.36,223.25 42.43,220.18 46.50,229.61 50.57,221.81 54.64,231.74 58.71,229.40 62.79,229.61 66.86,233.89 70.93,233.96 75.00,236.44 79.07,242.00 83.14,237.32 87.21,232.62 91.29,232.39 95.36,232.74 99.43,232.01 103.50,230.80 107.57,233.10 111.64,228.54 115.71,217.58 119.79,218.42 123.86,213.46 127.93,214.51 132.00,212.39 136.07,217.88 140.14,207.11 144.21,199.90 148.29,193.55 152.36,196.11 156.43,174.14 160.50,164.63 164.57,159.11 168.64,133.19 172.71,144.12 176.79,140.22 180.86,108.12 184.93,119.94 189.00,135.97 193.07,127.26 197.14,113.82 201.21,68.04 205.29,48.96 209.36,91.37 213.43,83.64 217.50,50.47 221.57,61.36 225.64,69.22 229.71,70.32 233.79,73.02 237.86,55.92 241.93,35.61 246.00,38.53 250.07,18.00 254.14,32.97 258.21,34.57 262.29,54.40 266.36,56.55 270.43,53.66 274.50,49.02 278.57,59.79 282.64,66.09 286.71,45.79 290.79,54.10 294.86,66.58 298.93,64.16 303.00,86.47 307.07,105.29 311.14,95.41 315.21,82.99 319.29,79.29 323.36,95.66 327.43,109.56 331.50,106.70 335.57,99.35 339.64,104.98 343.71,114.12 347.79,120.74 351.86,128.82 355.93,131.15 360.00,139.99 364.07,123.00 368.14,138.10 372.21,135.27 376.29,126.46 380.36,128.88 384.43,112.49 388.50,99.68 392.57,84.22 396.64,70.66 400.71,117.51 404.79,145.11 408.86,144.40 412.93,149.20 417.00,155.11 421.07,157.18 425.14,158.28 429.21,153.44 433.29,155.88 437.36,157.38 441.43,149.00 445.50,140.14 449.57,139.76 453.64,154.43 457.71,159.66 461.79,163.29 465.86,160.85 469.93,154.11 474.00,144.03 478.07,118.45 482.14,125.17 486.21,126.28 490.29,113.41 494.36,116.01 498.43,112.82 502.50,112.02 506.57,106.77 510.64,94.12 514.71,97.66 518.79,93.86 522.86,104.05 526.93,113.61 531.00,110.31 535.07,88.65 539.14,88.35 543.21,86.91 547.29,91.76 551.36,93.18 555.43,100.77 559.50,83.92 563.57,79.23 567.64,86.26 571.71,81.44 575.79,92.87 579.86,85.03 583.93,81.25 588.00,88.62 592.07,103.45 596.14,106.47 600.21,111.81 604.29,109.07 608.36,95.15 612.43,89.84 616.50,91.75 620.57,83.99 624.64,97.40 628.71,93.39 632.79,104.57 636.86,120.55 640.93,122.56 645.00,133.88 649.07,138.30 653.14,135.88 657.21,161.91 661.29,166.39 665.36,177.10 669.43,178.59 673.50,181.66 677.57,182.31 681.64,182.28 685.71,190.91 689.79,187.22 693.86,184.27 697.93,187.76 702.00,183.83 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
+  <polyline points="18.00,235.07 20.03,235.07 22.06,239.48 24.09,239.48 26.12,216.06 28.15,216.06 30.18,202.78 32.21,202.78 34.24,214.21 36.27,214.21 38.30,223.25 40.33,223.25 42.36,220.18 44.39,220.18 46.42,229.61 48.45,229.61 50.47,221.81 52.50,221.81 54.53,231.74 56.56,231.74 58.59,229.40 60.62,229.40 62.65,229.61 64.68,229.61 66.71,233.89 68.74,233.89 70.77,233.96 72.80,233.96 74.83,236.44 76.86,236.44 78.89,242.00 80.92,242.00 82.95,237.32 84.98,237.32 87.01,232.62 89.04,232.62 91.07,232.39 93.10,232.39 95.13,232.74 97.16,232.74 99.19,232.01 101.22,232.01 103.25,230.80 105.28,230.80 107.31,233.10 109.34,233.10 111.36,228.54 113.39,228.54 115.42,217.58 117.45,217.58 119.48,218.42 121.51,218.42 123.54,213.46 125.57,213.46 127.60,214.51 129.63,214.51 131.66,212.39 133.69,212.39 135.72,217.88 137.75,217.88 139.78,207.11 141.81,207.11 143.84,199.90 145.87,199.90 147.90,193.55 149.93,193.55 151.96,196.11 153.99,196.11 156.02,174.14 158.05,174.14 160.08,164.63 162.11,164.63 164.14,159.11 166.17,159.11 168.20,133.19 170.23,133.19 172.26,144.12 174.28,144.12 176.31,140.22 178.34,140.22 180.37,108.12 182.40,108.12 184.43,119.94 186.46,119.94 188.49,135.97 190.52,135.97 192.55,127.26 194.58,127.26 196.61,113.82 198.64,113.82 200.67,68.04 202.70,68.04 204.73,48.96 206.76,48.96 208.79,91.37 210.82,91.37 212.85,83.64 214.88,83.64 216.91,50.47 218.94,50.47 220.97,61.36 223.00,61.36 225.03,69.22 227.06,69.22 229.09,70.32 231.12,70.32 233.15,73.02 235.18,73.02 237.20,55.92 239.23,55.92 241.26,35.61 243.29,35.61 245.32,38.53 247.35,38.53 249.38,18.00 251.41,18.00 253.44,32.97 255.47,32.97 257.50,34.57 259.53,34.57 261.56,54.40 263.59,54.40 265.62,56.55 267.65,56.55 269.68,53.66 271.71,53.66 273.74,49.02 275.77,49.02 277.80,59.79 279.83,59.79 281.86,66.09 283.89,66.09 285.92,45.79 287.95,45.79 289.98,54.10 292.01,54.10 294.04,66.58 296.07,66.58 298.09,64.16 300.12,64.16 302.15,86.47 304.18,86.47 306.21,105.29 308.24,105.29 310.27,95.41 312.30,95.41 314.33,82.99 316.36,82.99 318.39,79.29 320.42,79.29 322.45,95.66 324.48,95.66 326.51,109.56 328.54,109.56 330.57,106.70 332.60,106.70 334.63,99.35 336.66,99.35 338.69,104.98 340.72,104.98 342.75,114.12 344.78,114.12 346.81,120.74 348.84,120.74 350.87,128.82 352.90,128.82 354.93,131.15 356.96,131.15 358.99,139.99 361.01,139.99 363.04,123.00 365.07,123.00 367.10,138.10 369.13,138.10 371.16,135.27 373.19,135.27 375.22,126.46 377.25,126.46 379.28,128.88 381.31,128.88 383.34,112.49 385.37,112.49 387.40,99.68 389.43,99.68 391.46,84.22 393.49,84.22 395.52,70.66 397.55,70.66 399.58,117.51 401.61,117.51 403.64,145.11 405.67,145.11 407.70,144.40 409.73,144.40 411.76,149.20 413.79,149.20 415.82,155.11 417.85,155.11 419.88,157.18 421.91,157.18 423.93,158.28 425.96,158.28 427.99,153.44 430.02,153.44 432.05,155.88 434.08,155.88 436.11,157.38 438.14,157.38 440.17,149.00 442.20,149.00 444.23,140.14 446.26,140.14 448.29,139.76 450.32,139.76 452.35,154.43 454.38,154.43 456.41,159.66 458.44,159.66 460.47,163.29 462.50,163.29 464.53,160.85 466.56,160.85 468.59,154.11 470.62,154.11 472.65,144.03 474.68,144.03 476.71,118.45 478.74,118.45 480.77,125.17 482.80,125.17 484.82,126.28 486.85,126.28 488.88,113.41 490.91,113.41 492.94,116.01 494.97,116.01 497.00,112.82 499.03,112.82 501.06,112.02 503.09,112.02 505.12,106.77 507.15,106.77 509.18,94.12 511.21,94.12 513.24,97.66 515.27,97.66 517.30,93.86 519.33,93.86 521.36,104.05 523.39,104.05 525.42,113.61 527.45,113.61 529.48,110.31 531.51,110.31 533.54,88.65 535.57,88.65 537.60,88.35 539.63,88.35 541.66,86.91 543.69,86.91 545.72,91.76 547.74,91.76 549.77,93.18 551.80,93.18 553.83,100.77 555.86,100.77 557.89,83.92 559.92,83.92 561.95,79.23 563.98,79.23 566.01,86.26 568.04,86.26 570.07,81.44 572.10,81.44 574.13,92.87 576.16,92.87 578.19,85.03 580.22,85.03 582.25,81.25 584.28,81.25 586.31,88.62 588.34,88.62 590.37,103.45 592.40,103.45 594.43,106.47 596.46,106.47 598.49,111.81 600.52,111.81 602.55,109.07 604.58,109.07 606.61,95.15 608.64,95.15 610.66,89.84 612.69,89.84 614.72,91.75 616.75,91.75 618.78,83.99 620.81,83.99 622.84,97.40 624.87,97.40 626.90,93.39 628.93,93.39 630.96,104.57 632.99,104.57 635.02,120.55 637.05,120.55 639.08,122.56 641.11,122.56 643.14,133.88 645.17,133.88 647.20,138.30 649.23,138.30 651.26,135.88 653.29,135.88 655.32,161.91 657.35,161.91 659.38,166.39 661.41,166.39 663.44,177.10 665.47,177.10 667.50,178.59 669.53,178.59 671.55,181.66 673.58,181.66 675.61,182.31 677.64,182.31 679.67,182.28 681.70,182.28 683.73,190.91 685.76,190.91 687.79,187.22 689.82,187.22 691.85,184.27 693.88,184.27 695.91,187.76 697.94,187.76 699.97,183.83 702.00,183.83" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <polygon points="18.00,235.07 20.03,235.07 22.06,239.48 24.09,239.48 26.12,216.06 28.15,216.06 30.18,202.78 32.21,202.78 34.24,214.21 36.27,214.21 38.30,223.25 40.33,223.25 42.36,220.18 44.39,220.18 46.42,229.61 48.45,229.61 50.47,221.81 52.50,221.81 54.53,231.74 56.56,231.74 58.59,229.40 60.62,229.40 62.65,229.61 64.68,229.61 66.71,233.89 68.74,233.89 70.77,233.96 72.80,233.96 74.83,236.44 76.86,236.44 78.89,242.00 80.92,242.00 82.95,237.32 84.98,237.32 87.01,232.62 89.04,232.62 91.07,232.39 93.10,232.39 95.13,232.74 97.16,232.74 99.19,232.01 101.22,232.01 103.25,230.80 105.28,230.80 107.31,233.10 109.34,233.10 111.36,228.54 113.39,228.54 115.42,217.58 117.45,217.58 119.48,218.42 121.51,218.42 123.54,213.46 125.57,213.46 127.60,214.51 129.63,214.51 131.66,212.39 133.69,212.39 135.72,217.88 137.75,217.88 139.78,207.11 141.81,207.11 143.84,199.90 145.87,199.90 147.90,193.55 149.93,193.55 151.96,196.11 153.99,196.11 156.02,174.14 158.05,174.14 160.08,164.63 162.11,164.63 164.14,159.11 166.17,159.11 168.20,133.19 170.23,133.19 172.26,144.12 174.28,144.12 176.31,140.22 178.34,140.22 180.37,108.12 182.40,108.12 184.43,119.94 186.46,119.94 188.49,135.97 190.52,135.97 192.55,127.26 194.58,127.26 196.61,113.82 198.64,113.82 200.67,68.04 202.70,68.04 204.73,48.96 206.76,48.96 208.79,91.37 210.82,91.37 212.85,83.64 214.88,83.64 216.91,50.47 218.94,50.47 220.97,61.36 223.00,61.36 225.03,69.22 227.06,69.22 229.09,70.32 231.12,70.32 233.15,73.02 235.18,73.02 237.20,55.92 239.23,55.92 241.26,35.61 243.29,35.61 245.32,38.53 247.35,38.53 249.38,18.00 251.41,18.00 253.44,32.97 255.47,32.97 257.50,34.57 259.53,34.57 261.56,54.40 263.59,54.40 265.62,56.55 267.65,56.55 269.68,53.66 271.71,53.66 273.74,49.02 275.77,49.02 277.80,59.79 279.83,59.79 281.86,66.09 283.89,66.09 285.92,45.79 287.95,45.79 289.98,54.10 292.01,54.10 294.04,66.58 296.07,66.58 298.09,64.16 300.12,64.16 302.15,86.47 304.18,86.47 306.21,105.29 308.24,105.29 310.27,95.41 312.30,95.41 314.33,82.99 316.36,82.99 318.39,79.29 320.42,79.29 322.45,95.66 324.48,95.66 326.51,109.56 328.54,109.56 330.57,106.70 332.60,106.70 334.63,99.35 336.66,99.35 338.69,104.98 340.72,104.98 342.75,114.12 344.78,114.12 346.81,120.74 348.84,120.74 350.87,128.82 352.90,128.82 354.93,131.15 356.96,131.15 358.99,139.99 361.01,139.99 363.04,123.00 365.07,123.00 367.10,138.10 369.13,138.10 371.16,135.27 373.19,135.27 375.22,126.46 377.25,126.46 379.28,128.88 381.31,128.88 383.34,112.49 385.37,112.49 387.40,99.68 389.43,99.68 391.46,84.22 393.49,84.22 395.52,70.66 397.55,70.66 399.58,117.51 401.61,117.51 403.64,145.11 405.67,145.11 407.70,144.40 409.73,144.40 411.76,149.20 413.79,149.20 415.82,155.11 417.85,155.11 419.88,157.18 421.91,157.18 423.93,158.28 425.96,158.28 427.99,153.44 430.02,153.44 432.05,155.88 434.08,155.88 436.11,157.38 438.14,157.38 440.17,149.00 442.20,149.00 444.23,140.14 446.26,140.14 448.29,139.76 450.32,139.76 452.35,154.43 454.38,154.43 456.41,159.66 458.44,159.66 460.47,163.29 462.50,163.29 464.53,160.85 466.56,160.85 468.59,154.11 470.62,154.11 472.65,144.03 474.68,144.03 476.71,118.45 478.74,118.45 480.77,125.17 482.80,125.17 484.82,126.28 486.85,126.28 488.88,113.41 490.91,113.41 492.94,116.01 494.97,116.01 497.00,112.82 499.03,112.82 501.06,112.02 503.09,112.02 505.12,106.77 507.15,106.77 509.18,94.12 511.21,94.12 513.24,97.66 515.27,97.66 517.30,93.86 519.33,93.86 521.36,104.05 523.39,104.05 525.42,113.61 527.45,113.61 529.48,110.31 531.51,110.31 533.54,88.65 535.57,88.65 537.60,88.35 539.63,88.35 541.66,86.91 543.69,86.91 545.72,91.76 547.74,91.76 549.77,93.18 551.80,93.18 553.83,100.77 555.86,100.77 557.89,83.92 559.92,83.92 561.95,79.23 563.98,79.23 566.01,86.26 568.04,86.26 570.07,81.44 572.10,81.44 574.13,92.87 576.16,92.87 578.19,85.03 580.22,85.03 582.25,81.25 584.28,81.25 586.31,88.62 588.34,88.62 590.37,103.45 592.40,103.45 594.43,106.47 596.46,106.47 598.49,111.81 600.52,111.81 602.55,109.07 604.58,109.07 606.61,95.15 608.64,95.15 610.66,89.84 612.69,89.84 614.72,91.75 616.75,91.75 618.78,83.99 620.81,83.99 622.84,97.40 624.87,97.40 626.90,93.39 628.93,93.39 630.96,104.57 632.99,104.57 635.02,120.55 637.05,120.55 639.08,122.56 641.11,122.56 643.14,133.88 645.17,133.88 647.20,138.30 649.23,138.30 651.26,135.88 653.29,135.88 655.32,161.91 657.35,161.91 659.38,166.39 661.41,166.39 663.44,177.10 665.47,177.10 667.50,178.59 669.53,178.59 671.55,181.66 673.58,181.66 675.61,182.31 677.64,182.31 679.67,182.28 681.70,182.28 683.73,190.91 685.76,190.91 687.79,187.22 689.82,187.22 691.85,184.27 693.88,184.27 695.91,187.76 697.94,187.76 699.97,183.83 702.00,183.83 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
   <line x1="18.00" y1="246.00" x2="702.00" y2="246.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <line x1="26.14" y1="246.00" x2="26.14" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="26.14" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
-  <line x1="278.57" y1="246.00" x2="278.57" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="278.57" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
-  <line x1="539.14" y1="246.00" x2="539.14" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-  <text x="539.14" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
+  <line x1="26.12" y1="246.00" x2="26.12" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+  <text x="26.12" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr 2025</text>
+  <line x1="277.80" y1="246.00" x2="277.80" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+  <text x="277.80" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
+  <line x1="537.60" y1="246.00" x2="537.60" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+  <text x="537.60" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
   <line x1="18.00" y1="242.00" x2="702.00" y2="242.00" stroke="#2b6cb0" stroke-width="1.5" stroke-dasharray="6 4" vector-effect="non-scaling-stroke" />
-  <line x1="79.07" y1="242.00" x2="702.00" y2="242.00" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
-  <circle cx="79.07" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
-  <circle cx="79.07" cy="242.00" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
+  <line x1="78.89" y1="242.00" x2="702.00" y2="242.00" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
+  <circle cx="78.89" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
+  <circle cx="78.89" cy="242.00" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $35.42 · 5y low $35.42</figcaption>
   </figure>
   
   ### Latest news (0-3 days)
   
-  - no news is good news?
+  - [CoreWeave, Inc. Securities Fraud Class Action Result of Undisclosed Deployment Issues and 20% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC](https://www.globenewswire.com/news-release/2026/01/21/3222381/6713/en/CoreWeave-Inc-Securities-Fraud-Class-Action-Result-of-Undisclosed-Deployment-Issues-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html) — GlobeNewswire Inc. · 2026-01-21
+  - [ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages CoreWeave, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – CRWV](https://www.globenewswire.com/news-release/2026/01/20/3222217/673/en/ROSEN-A-HIGHLY-RECOGNIZED-LAW-FIRM-Encourages-CoreWeave-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CRWV.html) — GlobeNewswire Inc. · 2026-01-20
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a 7d downtrend and trading near 3-month bottom and above 1y/5y lows rather than at extremes, while sector-wide AI hyperscaler bubble concerns are raised in media without CRWV-specific froth signals; price sits below its 20-day DMA (92.61) and well under SMA/EMA (117.54/106.53) but is only modestly above 7d/30d support around 65.22 and below resistance at 83.49 and 150.40, making timing tricky
+  0.1. **Long Entry?:** maybe — trading near 3-month near-bottom and mid-range on 1-year/5-year history with price just under the 20-day SMA and close to strong support at about 65.22; macro froth is evident in broader AI themes but specific bubble indicators here are limited, and high ATR-based volatility plus recent class-action-driven drawdowns argue for cautious staggered entries rather than aggressive buying now.
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave is a modern cloud infrastructure technology company focused on providing GPU- and CPU-based compute, storage, and related cloud services for AI workloads through its CoreWeave Cloud Platform. Its proprietary software and infrastructure deliver automation and efficiency for managing complex AI infrastructure at scale. The platform supports building, training, and serving advanced AI models and applications across a range of use cases.
+  1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing high-performance AI cloud services through its CoreWeave Cloud Platform. The platform uses proprietary software and cloud services to automate and efficiently manage complex AI infrastructure at scale. Its offerings support the development, training, and deployment of advanced AI models and applications across a wide range of use cases.
   
-  1.2. **Profitable?:** no — CoreWeave is not currently profitable, as indicated by a negative profit margin of -17.80%, cumulative net income of -$766.65M over recent quarters, and deeply negative free cash flow despite strong revenue growth.
+  1.2. **Profitable?:** no — CoreWeave is not currently profitable, as evidenced by a negative profit margin of -17.8%, cumulative net losses of about -$766.6M, and negative free cash flow despite strong revenue growth.
   
-  1.3. **Customer & Markets:** CoreWeave primarily serves enterprises and developers that require large-scale AI infrastructure to build, train, and deploy advanced AI models and applications. Its customer base includes major technology companies such as Microsoft and Meta referenced in analyst commentary, reflecting a focus on hyperscale and high-intensity AI users. The company operates in the global cloud computing and AI infrastructure markets from its base in the United States.
+  1.3. **Customer & Markets:** CoreWeave primarily serves organizations building and running AI workloads that need GPU and compute-intensive cloud infrastructure, including large technology companies such as Microsoft and Meta mentioned in analyst coverage. Its markets are focused on AI cloud infrastructure and high-performance computing, with a core presence in the United States and expansion into areas such as the U.S. federal sector. Customers use its GPU and CPU compute, storage, and networking services to build, train, and serve AI models and applications.
   
-  1.4. **Competition:** CoreWeave’s primary competitors are large cloud and infrastructure providers and software players such as CrowdStrike, NetEase, Snowflake, Cloudflare, MongoDB, VeriSign, Twilio, GoDaddy, Okta, as well as broader AI and cloud hyperscalers including Nvidia, Microsoft, and Meta. Available data lists these peers but does not provide a clear ranking of CoreWeave’s market position among them.
+  1.4. **Competition:** Key competitors include hyperscale and infrastructure-oriented software companies such as Cloudflare, MongoDB, Snowflake, VeriSign, and Twilio, as listed in peer comparisons, as well as AI and cloud giants like Nvidia, Microsoft, and Meta. CoreWeave is positioned as a specialized AI cloud provider rather than the market leader, competing in a rapidly growing but crowded infrastructure and AI cloud space.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and the stock has moved from a higher 7d resistance of 83.49 toward the current price near 73.89 and support at 65.22.
+  2.1. **7d Trend?:** up — the quick facts label a 7d up trend, with the current price rebounding off the 7-day support near 65.22 toward resistance around 76.60.
   
-  2.2. **7d Buy/Sell Points?:** During the last week, the area near the local low and suggested buy zone around 66.00 and the 7d/30d support at 65.22 would have been better buy levels, while the region near the local high and suggested sell zone around 74.21 offered more favorable short-term selling opportunities.
+  2.2. **7d Buy/Sell Points?:** During the last 7 days, the area near the identified support around $65.22 offered favorable buy entries, while the local high and resistance region near $76.60–$83.49 represented attractive zones to take profits or trim positions.
   
   2.3.1. **7d Volume:** low
   
@@ -61,15 +62,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** CoreWeave was founded in 2017 (originally as Atlantic Crypto) and went public on Nasdaq in March 2025, giving it less than a decade of operating history and only a short track record as a public company. It has rapidly grown revenue to about $4.31B trailing but remains loss-making with cumulative recent net losses of roughly $767M and highly negative free cash flow of about -$6.95B, indicating heavy investment and financial risk. The company operates in a volatile, capital-intensive AI infrastructure segment and is backed by major partners like Nvidia, but its negative profit margin and significant cash burn suggest it is not yet a fully stable, mature institution. Market commentary noting reduced revenue guidance and sharp stock drawdowns underscores execution and cyclicality risks.
+  3.1. **Stability?:** CoreWeave is not a fly-by-night operation but it is still an emerging public company with elevated risk. It was established in 2017 and completed its Nasdaq listing in March 2025, giving it a relatively short but defined operating and public-market history. Financially, it is running sizable net losses and has significantly negative free cash flow, though it also generates positive operating cash flow, indicating heavy reinvestment. Recent securities class actions alleging undisclosed deployment issues and supplier concentration risks highlight governance and operational concerns that weigh on perceived stability.
   
-  3.2. **Innovating?:** CoreWeave is clearly innovating and growing, with its specialized AI-focused cloud platform, strong backlog growth, and guidance for multi-fold revenue expansion cited in earnings coverage. However, this aggressive growth is accompanied by substantial capital needs and ongoing losses.
+  3.2. **Innovating?:** The company is clearly innovating and growing, with very strong revenue growth of about 134% and a platform built around advanced AI infrastructure and GPU cloud services. However, this rapid growth is coming alongside continued losses and operational challenges, rather than a mature, steady-state profile.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights CoreWeave’s extremely volatile trading, including a plunge of about 50% in a single month and commentary that this may signal exhaustion in the broader AI trade. Articles note reduced revenue guidance tied to data center build-out delays, which led to a sharp stock sell-off despite earlier strong backlog growth and bullish analyst ratings. Nvidia’s large and somewhat opaque investment activity in AI firms, including CoreWeave, has raised Wall Street questions about ‘murky’ circular investments and hyperscaler bubble risk. At the same time, some analysts still rate CRWV a Buy and see potential for a rebound as the company addresses infrastructure bottlenecks. In this environment, upside from optimistic rumors (e.g., AI demand and Nvidia linkage) appears partly priced in and vulnerable to “sell the news” reactions when guidance or macro sentiment disappoints.
+  4.1. **News:** Recent news flow is dominated by multiple securities class action filings and investigations alleging that CoreWeave misled investors about its ability to meet demand and its reliance on a single third-party data center supplier, following stock drops of roughly 20%–34% over the class period. Additional commentary pieces note that CoreWeave has been volatile, with sharp rallies tied to AI optimism, government AI deals, and major chipmaker partnerships, but also sharp pullbacks on risk-off days and legal overhang. This pattern suggests that prior "rumors" and enthusiasm around AI growth, strategic deals, and upgrades may have been at least partially sold into once the harsher realities of deployment bottlenecks and concentration risk emerged. For traders applying "buy the rumor, sell the news," the current environment looks more like a "litigation overhang" phase where past hype has deflated and legal outcomes, not fresh positive catalysts, are driving sentiment. Overall, the news backdrop is negative and headline-sensitive, which can amplify swings around any future AI-related announcements or legal updates.
   
-  4.2. **Tarrifs:** News flow links broader market sell-offs and volatility in CRWV with renewed tariff concerns and Trump-era trade tension headlines, indicating that tariff announcements have contributed to pressure on the stock, but the precise quantitative impact on CoreWeave’s fundamentals is not detailed; therefore the specific effect on its stock beyond added volatility is unknown.
+  4.2. **Tarrifs:** Tariff developments and related trade-war headlines have repeatedly affected CoreWeave's stock, with reports of the shares tanking on tariff news and being cited among tech names hit on tariff-driven market selloffs. The AI and high-end compute exposure makes CRWV sensitive to tariff concerns around technology and semiconductor supply chains, contributing to elevated volatility when such news breaks.
   
   ## 5. QuickRef
   
@@ -79,14 +80,14 @@ raw_markdown: |
   <tbody>
   <tr><td>Last Q4</td><td>$-766.65M</td></tr>
   <tr><td>Price</td><td>73.89</td></tr>
-  <tr><td>7d Resistance</td><td>83.49</td></tr>
+  <tr><td>7d Resistance</td><td>76.60</td></tr>
   <tr><td>7d Support</td><td>65.22</td></tr>
-  <tr><td>30d Resistance</td><td>150.40</td></tr>
+  <tr><td>30d Resistance</td><td>116.44</td></tr>
   <tr><td>30d Support</td><td>65.22</td></tr>
   <tr><td>Buy the dip?</td><td>no</td></tr>
   <tr><td>Buy the rumor?</td><td>no</td></tr>
   <tr><td>Sell the news?</td><td>no</td></tr>
-  <tr><td>7d Trend:</td><td>down</td></tr>
+  <tr><td>7d Trend:</td><td>up</td></tr>
   <tr><td>3mo</td><td>near-bottom</td></tr>
   <tr><td>1yr</td><td>middle</td></tr>
   <tr><td>5yr</td><td>middle</td></tr>
@@ -98,11 +99,12 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
-  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-  <li>The Guardian: competitive landscape, rumor</li>
+  <li>NewsAPI: business model, market expansion, latest news, tariffs</li>
+  <li>The Guardian: profit outlook, competitive landscape, rumor, tariff</li>
+  <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
   
@@ -112,13 +114,9 @@ raw_markdown: |
   <pre><code>
   Gathering context for CRWV...
   Gathering market data...
-  Checking massive.com quota and fetching price history...
-  Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-28/2025-11-26?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-  massive.com request failed (massive.com returned no price data); switching to yfinance...
-  Requesting prices from yfinance fallback...
-  Price data acquired from yfinance.
+  Using cached price bars from database (rows=338, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -126,7 +124,7 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
@@ -150,7 +148,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 5 headline(s) from banned sources.
+  Filtered 1 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
@@ -169,7 +167,11 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -178,7 +180,7 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 2 result(s)
     google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -207,7 +209,11 @@ raw_markdown: |
       guardian: 5 result(s)
     newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: 5 result(s)
     newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
@@ -238,58 +244,60 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 3-month near-bottom and mid-range on 1-year/5-year history with price just under the 20-day SMA and close to strong support at about 65.22; macro froth is evident in broader AI themes but specific bubble indicators here are limited, and high ATR-based volatility plus recent class-action-driven drawdowns argue for cautious staggered entries rather than aggressive buying now.&quot;,&quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing high-performance AI cloud services through its CoreWeave Cloud Platform. The platform uses prop
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2025-11-26T15:19:44.314901+00:00">2025-11-26 15:19 UTC</time> (runtime 30.55s)
+**Generated:** <time class="js-local-time" datetime="2026-01-22T10:27:41.592836+00:00">2026-01-22 10:27 UTC</time> (runtime 33.59s)
 
 ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
 <defs><linearGradient id="priceFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#e8f1ff" stop-opacity="0.8" /><stop offset="100%" stop-color="#f5f8ff" stop-opacity="0" /></linearGradient></defs>
-<polyline points="18.00,235.07 22.07,239.48 26.14,216.06 30.21,202.78 34.29,214.21 38.36,223.25 42.43,220.18 46.50,229.61 50.57,221.81 54.64,231.74 58.71,229.40 62.79,229.61 66.86,233.89 70.93,233.96 75.00,236.44 79.07,242.00 83.14,237.32 87.21,232.62 91.29,232.39 95.36,232.74 99.43,232.01 103.50,230.80 107.57,233.10 111.64,228.54 115.71,217.58 119.79,218.42 123.86,213.46 127.93,214.51 132.00,212.39 136.07,217.88 140.14,207.11 144.21,199.90 148.29,193.55 152.36,196.11 156.43,174.14 160.50,164.63 164.57,159.11 168.64,133.19 172.71,144.12 176.79,140.22 180.86,108.12 184.93,119.94 189.00,135.97 193.07,127.26 197.14,113.82 201.21,68.04 205.29,48.96 209.36,91.37 213.43,83.64 217.50,50.47 221.57,61.36 225.64,69.22 229.71,70.32 233.79,73.02 237.86,55.92 241.93,35.61 246.00,38.53 250.07,18.00 254.14,32.97 258.21,34.57 262.29,54.40 266.36,56.55 270.43,53.66 274.50,49.02 278.57,59.79 282.64,66.09 286.71,45.79 290.79,54.10 294.86,66.58 298.93,64.16 303.00,86.47 307.07,105.29 311.14,95.41 315.21,82.99 319.29,79.29 323.36,95.66 327.43,109.56 331.50,106.70 335.57,99.35 339.64,104.98 343.71,114.12 347.79,120.74 351.86,128.82 355.93,131.15 360.00,139.99 364.07,123.00 368.14,138.10 372.21,135.27 376.29,126.46 380.36,128.88 384.43,112.49 388.50,99.68 392.57,84.22 396.64,70.66 400.71,117.51 404.79,145.11 408.86,144.40 412.93,149.20 417.00,155.11 421.07,157.18 425.14,158.28 429.21,153.44 433.29,155.88 437.36,157.38 441.43,149.00 445.50,140.14 449.57,139.76 453.64,154.43 457.71,159.66 461.79,163.29 465.86,160.85 469.93,154.11 474.00,144.03 478.07,118.45 482.14,125.17 486.21,126.28 490.29,113.41 494.36,116.01 498.43,112.82 502.50,112.02 506.57,106.77 510.64,94.12 514.71,97.66 518.79,93.86 522.86,104.05 526.93,113.61 531.00,110.31 535.07,88.65 539.14,88.35 543.21,86.91 547.29,91.76 551.36,93.18 555.43,100.77 559.50,83.92 563.57,79.23 567.64,86.26 571.71,81.44 575.79,92.87 579.86,85.03 583.93,81.25 588.00,88.62 592.07,103.45 596.14,106.47 600.21,111.81 604.29,109.07 608.36,95.15 612.43,89.84 616.50,91.75 620.57,83.99 624.64,97.40 628.71,93.39 632.79,104.57 636.86,120.55 640.93,122.56 645.00,133.88 649.07,138.30 653.14,135.88 657.21,161.91 661.29,166.39 665.36,177.10 669.43,178.59 673.50,181.66 677.57,182.31 681.64,182.28 685.71,190.91 689.79,187.22 693.86,184.27 697.93,187.76 702.00,183.83" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />
-<polygon points="18.00,235.07 22.07,239.48 26.14,216.06 30.21,202.78 34.29,214.21 38.36,223.25 42.43,220.18 46.50,229.61 50.57,221.81 54.64,231.74 58.71,229.40 62.79,229.61 66.86,233.89 70.93,233.96 75.00,236.44 79.07,242.00 83.14,237.32 87.21,232.62 91.29,232.39 95.36,232.74 99.43,232.01 103.50,230.80 107.57,233.10 111.64,228.54 115.71,217.58 119.79,218.42 123.86,213.46 127.93,214.51 132.00,212.39 136.07,217.88 140.14,207.11 144.21,199.90 148.29,193.55 152.36,196.11 156.43,174.14 160.50,164.63 164.57,159.11 168.64,133.19 172.71,144.12 176.79,140.22 180.86,108.12 184.93,119.94 189.00,135.97 193.07,127.26 197.14,113.82 201.21,68.04 205.29,48.96 209.36,91.37 213.43,83.64 217.50,50.47 221.57,61.36 225.64,69.22 229.71,70.32 233.79,73.02 237.86,55.92 241.93,35.61 246.00,38.53 250.07,18.00 254.14,32.97 258.21,34.57 262.29,54.40 266.36,56.55 270.43,53.66 274.50,49.02 278.57,59.79 282.64,66.09 286.71,45.79 290.79,54.10 294.86,66.58 298.93,64.16 303.00,86.47 307.07,105.29 311.14,95.41 315.21,82.99 319.29,79.29 323.36,95.66 327.43,109.56 331.50,106.70 335.57,99.35 339.64,104.98 343.71,114.12 347.79,120.74 351.86,128.82 355.93,131.15 360.00,139.99 364.07,123.00 368.14,138.10 372.21,135.27 376.29,126.46 380.36,128.88 384.43,112.49 388.50,99.68 392.57,84.22 396.64,70.66 400.71,117.51 404.79,145.11 408.86,144.40 412.93,149.20 417.00,155.11 421.07,157.18 425.14,158.28 429.21,153.44 433.29,155.88 437.36,157.38 441.43,149.00 445.50,140.14 449.57,139.76 453.64,154.43 457.71,159.66 461.79,163.29 465.86,160.85 469.93,154.11 474.00,144.03 478.07,118.45 482.14,125.17 486.21,126.28 490.29,113.41 494.36,116.01 498.43,112.82 502.50,112.02 506.57,106.77 510.64,94.12 514.71,97.66 518.79,93.86 522.86,104.05 526.93,113.61 531.00,110.31 535.07,88.65 539.14,88.35 543.21,86.91 547.29,91.76 551.36,93.18 555.43,100.77 559.50,83.92 563.57,79.23 567.64,86.26 571.71,81.44 575.79,92.87 579.86,85.03 583.93,81.25 588.00,88.62 592.07,103.45 596.14,106.47 600.21,111.81 604.29,109.07 608.36,95.15 612.43,89.84 616.50,91.75 620.57,83.99 624.64,97.40 628.71,93.39 632.79,104.57 636.86,120.55 640.93,122.56 645.00,133.88 649.07,138.30 653.14,135.88 657.21,161.91 661.29,166.39 665.36,177.10 669.43,178.59 673.50,181.66 677.57,182.31 681.64,182.28 685.71,190.91 689.79,187.22 693.86,184.27 697.93,187.76 702.00,183.83 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
+<polyline points="18.00,235.07 20.03,235.07 22.06,239.48 24.09,239.48 26.12,216.06 28.15,216.06 30.18,202.78 32.21,202.78 34.24,214.21 36.27,214.21 38.30,223.25 40.33,223.25 42.36,220.18 44.39,220.18 46.42,229.61 48.45,229.61 50.47,221.81 52.50,221.81 54.53,231.74 56.56,231.74 58.59,229.40 60.62,229.40 62.65,229.61 64.68,229.61 66.71,233.89 68.74,233.89 70.77,233.96 72.80,233.96 74.83,236.44 76.86,236.44 78.89,242.00 80.92,242.00 82.95,237.32 84.98,237.32 87.01,232.62 89.04,232.62 91.07,232.39 93.10,232.39 95.13,232.74 97.16,232.74 99.19,232.01 101.22,232.01 103.25,230.80 105.28,230.80 107.31,233.10 109.34,233.10 111.36,228.54 113.39,228.54 115.42,217.58 117.45,217.58 119.48,218.42 121.51,218.42 123.54,213.46 125.57,213.46 127.60,214.51 129.63,214.51 131.66,212.39 133.69,212.39 135.72,217.88 137.75,217.88 139.78,207.11 141.81,207.11 143.84,199.90 145.87,199.90 147.90,193.55 149.93,193.55 151.96,196.11 153.99,196.11 156.02,174.14 158.05,174.14 160.08,164.63 162.11,164.63 164.14,159.11 166.17,159.11 168.20,133.19 170.23,133.19 172.26,144.12 174.28,144.12 176.31,140.22 178.34,140.22 180.37,108.12 182.40,108.12 184.43,119.94 186.46,119.94 188.49,135.97 190.52,135.97 192.55,127.26 194.58,127.26 196.61,113.82 198.64,113.82 200.67,68.04 202.70,68.04 204.73,48.96 206.76,48.96 208.79,91.37 210.82,91.37 212.85,83.64 214.88,83.64 216.91,50.47 218.94,50.47 220.97,61.36 223.00,61.36 225.03,69.22 227.06,69.22 229.09,70.32 231.12,70.32 233.15,73.02 235.18,73.02 237.20,55.92 239.23,55.92 241.26,35.61 243.29,35.61 245.32,38.53 247.35,38.53 249.38,18.00 251.41,18.00 253.44,32.97 255.47,32.97 257.50,34.57 259.53,34.57 261.56,54.40 263.59,54.40 265.62,56.55 267.65,56.55 269.68,53.66 271.71,53.66 273.74,49.02 275.77,49.02 277.80,59.79 279.83,59.79 281.86,66.09 283.89,66.09 285.92,45.79 287.95,45.79 289.98,54.10 292.01,54.10 294.04,66.58 296.07,66.58 298.09,64.16 300.12,64.16 302.15,86.47 304.18,86.47 306.21,105.29 308.24,105.29 310.27,95.41 312.30,95.41 314.33,82.99 316.36,82.99 318.39,79.29 320.42,79.29 322.45,95.66 324.48,95.66 326.51,109.56 328.54,109.56 330.57,106.70 332.60,106.70 334.63,99.35 336.66,99.35 338.69,104.98 340.72,104.98 342.75,114.12 344.78,114.12 346.81,120.74 348.84,120.74 350.87,128.82 352.90,128.82 354.93,131.15 356.96,131.15 358.99,139.99 361.01,139.99 363.04,123.00 365.07,123.00 367.10,138.10 369.13,138.10 371.16,135.27 373.19,135.27 375.22,126.46 377.25,126.46 379.28,128.88 381.31,128.88 383.34,112.49 385.37,112.49 387.40,99.68 389.43,99.68 391.46,84.22 393.49,84.22 395.52,70.66 397.55,70.66 399.58,117.51 401.61,117.51 403.64,145.11 405.67,145.11 407.70,144.40 409.73,144.40 411.76,149.20 413.79,149.20 415.82,155.11 417.85,155.11 419.88,157.18 421.91,157.18 423.93,158.28 425.96,158.28 427.99,153.44 430.02,153.44 432.05,155.88 434.08,155.88 436.11,157.38 438.14,157.38 440.17,149.00 442.20,149.00 444.23,140.14 446.26,140.14 448.29,139.76 450.32,139.76 452.35,154.43 454.38,154.43 456.41,159.66 458.44,159.66 460.47,163.29 462.50,163.29 464.53,160.85 466.56,160.85 468.59,154.11 470.62,154.11 472.65,144.03 474.68,144.03 476.71,118.45 478.74,118.45 480.77,125.17 482.80,125.17 484.82,126.28 486.85,126.28 488.88,113.41 490.91,113.41 492.94,116.01 494.97,116.01 497.00,112.82 499.03,112.82 501.06,112.02 503.09,112.02 505.12,106.77 507.15,106.77 509.18,94.12 511.21,94.12 513.24,97.66 515.27,97.66 517.30,93.86 519.33,93.86 521.36,104.05 523.39,104.05 525.42,113.61 527.45,113.61 529.48,110.31 531.51,110.31 533.54,88.65 535.57,88.65 537.60,88.35 539.63,88.35 541.66,86.91 543.69,86.91 545.72,91.76 547.74,91.76 549.77,93.18 551.80,93.18 553.83,100.77 555.86,100.77 557.89,83.92 559.92,83.92 561.95,79.23 563.98,79.23 566.01,86.26 568.04,86.26 570.07,81.44 572.10,81.44 574.13,92.87 576.16,92.87 578.19,85.03 580.22,85.03 582.25,81.25 584.28,81.25 586.31,88.62 588.34,88.62 590.37,103.45 592.40,103.45 594.43,106.47 596.46,106.47 598.49,111.81 600.52,111.81 602.55,109.07 604.58,109.07 606.61,95.15 608.64,95.15 610.66,89.84 612.69,89.84 614.72,91.75 616.75,91.75 618.78,83.99 620.81,83.99 622.84,97.40 624.87,97.40 626.90,93.39 628.93,93.39 630.96,104.57 632.99,104.57 635.02,120.55 637.05,120.55 639.08,122.56 641.11,122.56 643.14,133.88 645.17,133.88 647.20,138.30 649.23,138.30 651.26,135.88 653.29,135.88 655.32,161.91 657.35,161.91 659.38,166.39 661.41,166.39 663.44,177.10 665.47,177.10 667.50,178.59 669.53,178.59 671.55,181.66 673.58,181.66 675.61,182.31 677.64,182.31 679.67,182.28 681.70,182.28 683.73,190.91 685.76,190.91 687.79,187.22 689.82,187.22 691.85,184.27 693.88,184.27 695.91,187.76 697.94,187.76 699.97,183.83 702.00,183.83" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />
+<polygon points="18.00,235.07 20.03,235.07 22.06,239.48 24.09,239.48 26.12,216.06 28.15,216.06 30.18,202.78 32.21,202.78 34.24,214.21 36.27,214.21 38.30,223.25 40.33,223.25 42.36,220.18 44.39,220.18 46.42,229.61 48.45,229.61 50.47,221.81 52.50,221.81 54.53,231.74 56.56,231.74 58.59,229.40 60.62,229.40 62.65,229.61 64.68,229.61 66.71,233.89 68.74,233.89 70.77,233.96 72.80,233.96 74.83,236.44 76.86,236.44 78.89,242.00 80.92,242.00 82.95,237.32 84.98,237.32 87.01,232.62 89.04,232.62 91.07,232.39 93.10,232.39 95.13,232.74 97.16,232.74 99.19,232.01 101.22,232.01 103.25,230.80 105.28,230.80 107.31,233.10 109.34,233.10 111.36,228.54 113.39,228.54 115.42,217.58 117.45,217.58 119.48,218.42 121.51,218.42 123.54,213.46 125.57,213.46 127.60,214.51 129.63,214.51 131.66,212.39 133.69,212.39 135.72,217.88 137.75,217.88 139.78,207.11 141.81,207.11 143.84,199.90 145.87,199.90 147.90,193.55 149.93,193.55 151.96,196.11 153.99,196.11 156.02,174.14 158.05,174.14 160.08,164.63 162.11,164.63 164.14,159.11 166.17,159.11 168.20,133.19 170.23,133.19 172.26,144.12 174.28,144.12 176.31,140.22 178.34,140.22 180.37,108.12 182.40,108.12 184.43,119.94 186.46,119.94 188.49,135.97 190.52,135.97 192.55,127.26 194.58,127.26 196.61,113.82 198.64,113.82 200.67,68.04 202.70,68.04 204.73,48.96 206.76,48.96 208.79,91.37 210.82,91.37 212.85,83.64 214.88,83.64 216.91,50.47 218.94,50.47 220.97,61.36 223.00,61.36 225.03,69.22 227.06,69.22 229.09,70.32 231.12,70.32 233.15,73.02 235.18,73.02 237.20,55.92 239.23,55.92 241.26,35.61 243.29,35.61 245.32,38.53 247.35,38.53 249.38,18.00 251.41,18.00 253.44,32.97 255.47,32.97 257.50,34.57 259.53,34.57 261.56,54.40 263.59,54.40 265.62,56.55 267.65,56.55 269.68,53.66 271.71,53.66 273.74,49.02 275.77,49.02 277.80,59.79 279.83,59.79 281.86,66.09 283.89,66.09 285.92,45.79 287.95,45.79 289.98,54.10 292.01,54.10 294.04,66.58 296.07,66.58 298.09,64.16 300.12,64.16 302.15,86.47 304.18,86.47 306.21,105.29 308.24,105.29 310.27,95.41 312.30,95.41 314.33,82.99 316.36,82.99 318.39,79.29 320.42,79.29 322.45,95.66 324.48,95.66 326.51,109.56 328.54,109.56 330.57,106.70 332.60,106.70 334.63,99.35 336.66,99.35 338.69,104.98 340.72,104.98 342.75,114.12 344.78,114.12 346.81,120.74 348.84,120.74 350.87,128.82 352.90,128.82 354.93,131.15 356.96,131.15 358.99,139.99 361.01,139.99 363.04,123.00 365.07,123.00 367.10,138.10 369.13,138.10 371.16,135.27 373.19,135.27 375.22,126.46 377.25,126.46 379.28,128.88 381.31,128.88 383.34,112.49 385.37,112.49 387.40,99.68 389.43,99.68 391.46,84.22 393.49,84.22 395.52,70.66 397.55,70.66 399.58,117.51 401.61,117.51 403.64,145.11 405.67,145.11 407.70,144.40 409.73,144.40 411.76,149.20 413.79,149.20 415.82,155.11 417.85,155.11 419.88,157.18 421.91,157.18 423.93,158.28 425.96,158.28 427.99,153.44 430.02,153.44 432.05,155.88 434.08,155.88 436.11,157.38 438.14,157.38 440.17,149.00 442.20,149.00 444.23,140.14 446.26,140.14 448.29,139.76 450.32,139.76 452.35,154.43 454.38,154.43 456.41,159.66 458.44,159.66 460.47,163.29 462.50,163.29 464.53,160.85 466.56,160.85 468.59,154.11 470.62,154.11 472.65,144.03 474.68,144.03 476.71,118.45 478.74,118.45 480.77,125.17 482.80,125.17 484.82,126.28 486.85,126.28 488.88,113.41 490.91,113.41 492.94,116.01 494.97,116.01 497.00,112.82 499.03,112.82 501.06,112.02 503.09,112.02 505.12,106.77 507.15,106.77 509.18,94.12 511.21,94.12 513.24,97.66 515.27,97.66 517.30,93.86 519.33,93.86 521.36,104.05 523.39,104.05 525.42,113.61 527.45,113.61 529.48,110.31 531.51,110.31 533.54,88.65 535.57,88.65 537.60,88.35 539.63,88.35 541.66,86.91 543.69,86.91 545.72,91.76 547.74,91.76 549.77,93.18 551.80,93.18 553.83,100.77 555.86,100.77 557.89,83.92 559.92,83.92 561.95,79.23 563.98,79.23 566.01,86.26 568.04,86.26 570.07,81.44 572.10,81.44 574.13,92.87 576.16,92.87 578.19,85.03 580.22,85.03 582.25,81.25 584.28,81.25 586.31,88.62 588.34,88.62 590.37,103.45 592.40,103.45 594.43,106.47 596.46,106.47 598.49,111.81 600.52,111.81 602.55,109.07 604.58,109.07 606.61,95.15 608.64,95.15 610.66,89.84 612.69,89.84 614.72,91.75 616.75,91.75 618.78,83.99 620.81,83.99 622.84,97.40 624.87,97.40 626.90,93.39 628.93,93.39 630.96,104.57 632.99,104.57 635.02,120.55 637.05,120.55 639.08,122.56 641.11,122.56 643.14,133.88 645.17,133.88 647.20,138.30 649.23,138.30 651.26,135.88 653.29,135.88 655.32,161.91 657.35,161.91 659.38,166.39 661.41,166.39 663.44,177.10 665.47,177.10 667.50,178.59 669.53,178.59 671.55,181.66 673.58,181.66 675.61,182.31 677.64,182.31 679.67,182.28 681.70,182.28 683.73,190.91 685.76,190.91 687.79,187.22 689.82,187.22 691.85,184.27 693.88,184.27 695.91,187.76 697.94,187.76 699.97,183.83 702.00,183.83 702.00,242.00 18.00,242.00" fill="url(#priceFill)" opacity="0.35" />
 <line x1="18.00" y1="246.00" x2="702.00" y2="246.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<line x1="26.14" y1="246.00" x2="26.14" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="26.14" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
-<line x1="278.57" y1="246.00" x2="278.57" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="278.57" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
-<line x1="539.14" y1="246.00" x2="539.14" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
-<text x="539.14" y="262.00" text-anchor="middle" font-size="11" fill="#4a5568">{label}</text>
+<line x1="26.12" y1="246.00" x2="26.12" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+<text x="26.12" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Apr 2025</text>
+<line x1="277.80" y1="246.00" x2="277.80" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+<text x="277.80" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Jul</text>
+<line x1="537.60" y1="246.00" x2="537.60" y2="252.00" stroke="#a0aec0" stroke-width="1" vector-effect="non-scaling-stroke" />
+<text x="537.60" y="258.00" text-anchor="middle" font-size="9" fill="#4a5568" letter-spacing="-0.1px">Oct</text>
 <line x1="18.00" y1="242.00" x2="702.00" y2="242.00" stroke="#2b6cb0" stroke-width="1.5" stroke-dasharray="6 4" vector-effect="non-scaling-stroke" />
-<line x1="79.07" y1="242.00" x2="702.00" y2="242.00" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
-<circle cx="79.07" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
-<circle cx="79.07" cy="242.00" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
+<line x1="78.89" y1="242.00" x2="702.00" y2="242.00" stroke="#c53030" stroke-width="1.5" stroke-dasharray="4 3" vector-effect="non-scaling-stroke" />
+<circle cx="78.89" cy="242.00" r="4" fill="#c53030" stroke="#fff" stroke-width="1.5" />
+<circle cx="78.89" cy="242.00" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $35.42 · 5y low $35.42</figcaption>
 </figure>
 
 ### Latest news (0-3 days)
 
-- no news is good news?
+- [CoreWeave, Inc. Securities Fraud Class Action Result of Undisclosed Deployment Issues and 20% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC](https://www.globenewswire.com/news-release/2026/01/21/3222381/6713/en/CoreWeave-Inc-Securities-Fraud-Class-Action-Result-of-Undisclosed-Deployment-Issues-and-20-Stock-Decline-Investors-may-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC.html) — GlobeNewswire Inc. · 2026-01-21
+- [ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages CoreWeave, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – CRWV](https://www.globenewswire.com/news-release/2026/01/20/3222217/673/en/ROSEN-A-HIGHLY-RECOGNIZED-LAW-FIRM-Encourages-CoreWeave-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CRWV.html) — GlobeNewswire Inc. · 2026-01-20
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a 7d downtrend and trading near 3-month bottom and above 1y/5y lows rather than at extremes, while sector-wide AI hyperscaler bubble concerns are raised in media without CRWV-specific froth signals; price sits below its 20-day DMA (92.61) and well under SMA/EMA (117.54/106.53) but is only modestly above 7d/30d support around 65.22 and below resistance at 83.49 and 150.40, making timing tricky
+0.1. **Long Entry?:** maybe — trading near 3-month near-bottom and mid-range on 1-year/5-year history with price just under the 20-day SMA and close to strong support at about 65.22; macro froth is evident in broader AI themes but specific bubble indicators here are limited, and high ATR-based volatility plus recent class-action-driven drawdowns argue for cautious staggered entries rather than aggressive buying now.
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave is a modern cloud infrastructure technology company focused on providing GPU- and CPU-based compute, storage, and related cloud services for AI workloads through its CoreWeave Cloud Platform. Its proprietary software and infrastructure deliver automation and efficiency for managing complex AI infrastructure at scale. The platform supports building, training, and serving advanced AI models and applications across a range of use cases.
+1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing high-performance AI cloud services through its CoreWeave Cloud Platform. The platform uses proprietary software and cloud services to automate and efficiently manage complex AI infrastructure at scale. Its offerings support the development, training, and deployment of advanced AI models and applications across a wide range of use cases.
 
-1.2. **Profitable?:** no — CoreWeave is not currently profitable, as indicated by a negative profit margin of -17.80%, cumulative net income of -$766.65M over recent quarters, and deeply negative free cash flow despite strong revenue growth.
+1.2. **Profitable?:** no — CoreWeave is not currently profitable, as evidenced by a negative profit margin of -17.8%, cumulative net losses of about -$766.6M, and negative free cash flow despite strong revenue growth.
 
-1.3. **Customer & Markets:** CoreWeave primarily serves enterprises and developers that require large-scale AI infrastructure to build, train, and deploy advanced AI models and applications. Its customer base includes major technology companies such as Microsoft and Meta referenced in analyst commentary, reflecting a focus on hyperscale and high-intensity AI users. The company operates in the global cloud computing and AI infrastructure markets from its base in the United States.
+1.3. **Customer & Markets:** CoreWeave primarily serves organizations building and running AI workloads that need GPU and compute-intensive cloud infrastructure, including large technology companies such as Microsoft and Meta mentioned in analyst coverage. Its markets are focused on AI cloud infrastructure and high-performance computing, with a core presence in the United States and expansion into areas such as the U.S. federal sector. Customers use its GPU and CPU compute, storage, and networking services to build, train, and serve AI models and applications.
 
-1.4. **Competition:** CoreWeave’s primary competitors are large cloud and infrastructure providers and software players such as CrowdStrike, NetEase, Snowflake, Cloudflare, MongoDB, VeriSign, Twilio, GoDaddy, Okta, as well as broader AI and cloud hyperscalers including Nvidia, Microsoft, and Meta. Available data lists these peers but does not provide a clear ranking of CoreWeave’s market position among them.
+1.4. **Competition:** Key competitors include hyperscale and infrastructure-oriented software companies such as Cloudflare, MongoDB, Snowflake, VeriSign, and Twilio, as listed in peer comparisons, as well as AI and cloud giants like Nvidia, Microsoft, and Meta. CoreWeave is positioned as a specialized AI cloud provider rather than the market leader, competing in a rapidly growing but crowded infrastructure and AI cloud space.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and the stock has moved from a higher 7d resistance of 83.49 toward the current price near 73.89 and support at 65.22.
+2.1. **7d Trend?:** up — the quick facts label a 7d up trend, with the current price rebounding off the 7-day support near 65.22 toward resistance around 76.60.
 
-2.2. **7d Buy/Sell Points?:** During the last week, the area near the local low and suggested buy zone around 66.00 and the 7d/30d support at 65.22 would have been better buy levels, while the region near the local high and suggested sell zone around 74.21 offered more favorable short-term selling opportunities.
+2.2. **7d Buy/Sell Points?:** During the last 7 days, the area near the identified support around $65.22 offered favorable buy entries, while the local high and resistance region near $76.60–$83.49 represented attractive zones to take profits or trim positions.
 
 2.3.1. **7d Volume:** low
 
@@ -297,15 +305,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** CoreWeave was founded in 2017 (originally as Atlantic Crypto) and went public on Nasdaq in March 2025, giving it less than a decade of operating history and only a short track record as a public company. It has rapidly grown revenue to about $4.31B trailing but remains loss-making with cumulative recent net losses of roughly $767M and highly negative free cash flow of about -$6.95B, indicating heavy investment and financial risk. The company operates in a volatile, capital-intensive AI infrastructure segment and is backed by major partners like Nvidia, but its negative profit margin and significant cash burn suggest it is not yet a fully stable, mature institution. Market commentary noting reduced revenue guidance and sharp stock drawdowns underscores execution and cyclicality risks.
+3.1. **Stability?:** CoreWeave is not a fly-by-night operation but it is still an emerging public company with elevated risk. It was established in 2017 and completed its Nasdaq listing in March 2025, giving it a relatively short but defined operating and public-market history. Financially, it is running sizable net losses and has significantly negative free cash flow, though it also generates positive operating cash flow, indicating heavy reinvestment. Recent securities class actions alleging undisclosed deployment issues and supplier concentration risks highlight governance and operational concerns that weigh on perceived stability.
 
-3.2. **Innovating?:** CoreWeave is clearly innovating and growing, with its specialized AI-focused cloud platform, strong backlog growth, and guidance for multi-fold revenue expansion cited in earnings coverage. However, this aggressive growth is accompanied by substantial capital needs and ongoing losses.
+3.2. **Innovating?:** The company is clearly innovating and growing, with very strong revenue growth of about 134% and a platform built around advanced AI infrastructure and GPU cloud services. However, this rapid growth is coming alongside continued losses and operational challenges, rather than a mature, steady-state profile.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights CoreWeave’s extremely volatile trading, including a plunge of about 50% in a single month and commentary that this may signal exhaustion in the broader AI trade. Articles note reduced revenue guidance tied to data center build-out delays, which led to a sharp stock sell-off despite earlier strong backlog growth and bullish analyst ratings. Nvidia’s large and somewhat opaque investment activity in AI firms, including CoreWeave, has raised Wall Street questions about ‘murky’ circular investments and hyperscaler bubble risk. At the same time, some analysts still rate CRWV a Buy and see potential for a rebound as the company addresses infrastructure bottlenecks. In this environment, upside from optimistic rumors (e.g., AI demand and Nvidia linkage) appears partly priced in and vulnerable to “sell the news” reactions when guidance or macro sentiment disappoints.
+4.1. **News:** Recent news flow is dominated by multiple securities class action filings and investigations alleging that CoreWeave misled investors about its ability to meet demand and its reliance on a single third-party data center supplier, following stock drops of roughly 20%–34% over the class period. Additional commentary pieces note that CoreWeave has been volatile, with sharp rallies tied to AI optimism, government AI deals, and major chipmaker partnerships, but also sharp pullbacks on risk-off days and legal overhang. This pattern suggests that prior "rumors" and enthusiasm around AI growth, strategic deals, and upgrades may have been at least partially sold into once the harsher realities of deployment bottlenecks and concentration risk emerged. For traders applying "buy the rumor, sell the news," the current environment looks more like a "litigation overhang" phase where past hype has deflated and legal outcomes, not fresh positive catalysts, are driving sentiment. Overall, the news backdrop is negative and headline-sensitive, which can amplify swings around any future AI-related announcements or legal updates.
 
-4.2. **Tarrifs:** News flow links broader market sell-offs and volatility in CRWV with renewed tariff concerns and Trump-era trade tension headlines, indicating that tariff announcements have contributed to pressure on the stock, but the precise quantitative impact on CoreWeave’s fundamentals is not detailed; therefore the specific effect on its stock beyond added volatility is unknown.
+4.2. **Tarrifs:** Tariff developments and related trade-war headlines have repeatedly affected CoreWeave's stock, with reports of the shares tanking on tariff news and being cited among tech names hit on tariff-driven market selloffs. The AI and high-end compute exposure makes CRWV sensitive to tariff concerns around technology and semiconductor supply chains, contributing to elevated volatility when such news breaks.
 
 ## 5. QuickRef
 
@@ -315,14 +323,14 @@ raw_markdown: |
 <tbody>
 <tr><td>Last Q4</td><td>$-766.65M</td></tr>
 <tr><td>Price</td><td>73.89</td></tr>
-<tr><td>7d Resistance</td><td>83.49</td></tr>
+<tr><td>7d Resistance</td><td>76.60</td></tr>
 <tr><td>7d Support</td><td>65.22</td></tr>
-<tr><td>30d Resistance</td><td>150.40</td></tr>
+<tr><td>30d Resistance</td><td>116.44</td></tr>
 <tr><td>30d Support</td><td>65.22</td></tr>
 <tr><td>Buy the dip?</td><td>no</td></tr>
 <tr><td>Buy the rumor?</td><td>no</td></tr>
 <tr><td>Sell the news?</td><td>no</td></tr>
-<tr><td>7d Trend:</td><td>down</td></tr>
+<tr><td>7d Trend:</td><td>up</td></tr>
 <tr><td>3mo</td><td>near-bottom</td></tr>
 <tr><td>1yr</td><td>middle</td></tr>
 <tr><td>5yr</td><td>middle</td></tr>
@@ -334,11 +342,12 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
-<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
-<li>The Guardian: competitive landscape, rumor</li>
+<li>NewsAPI: business model, market expansion, latest news, tariffs</li>
+<li>The Guardian: profit outlook, competitive landscape, rumor, tariff</li>
+<li>cached: prices &amp; technicals</li>
 </ul>
 </div>
 
@@ -348,13 +357,9 @@ raw_markdown: |
 <pre><code>
 Gathering context for CRWV...
 Gathering market data...
-Checking massive.com quota and fetching price history...
-Requesting CRWV prices from massive.com... (https://api.massive.com/v2/aggs/ticker/CRWV/range/1/day/2020-10-28/2025-11-26?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-massive.com request failed (massive.com returned no price data); switching to yfinance...
-Requesting prices from yfinance fallback...
-Price data acquired from yfinance.
+Using cached price bars from database (rows=338, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/CRWV/2025-11-26?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/CRWV/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -362,7 +367,7 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/CRWV?ti
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/CRWV?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/CRWV?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/CRWV?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
@@ -386,7 +391,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 5 headline(s) from banned sources.
+Filtered 1 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
@@ -405,7 +410,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -414,7 +423,7 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 2 result(s)
   google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -443,7 +452,11 @@ Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;ap
     guardian: 5 result(s)
   newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: 5 result(s)
   newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
@@ -474,5 +487,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 3-month near-bottom and mid-range on 1-year/5-year history with price just under the 20-day SMA and close to strong support at about 65.22; macro froth is evident in broader AI themes but specific bubble indicators here are limited, and high ATR-based volatility plus recent class-action-driven drawdowns argue for cautious staggered entries rather than aggressive buying now.&quot;,&quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing high-performance AI cloud services through its CoreWeave Cloud Platform. The platform uses prop
 </code></pre>
 </details>

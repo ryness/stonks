@@ -2711,28 +2711,64 @@ def _clean_json_text(raw_text: str) -> str:
     text = text.replace("\u201c", '"').replace("\u201d", '"')
     text = text.replace("\u2018", "'").replace("\u2019", "'")
     text = re.sub(r",\s*(?=[}\]])", "", text)  # drop trailing commas
+    text = re.sub(r"[\x00-\x08\x0b-\x0c\x0e-\x1f]", " ", text)  # strip control chars
     return text
 
 
-def _try_parse_json_object(text: str) -> Optional[Dict[str, Any]]:
+def _try_parse_json_object(text: str) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
     """Best-effort parse of text into a dict, tolerating loose JSON."""
 
     cleaned = _clean_json_text(text)
+    last_error: Optional[str] = None
     try:
-        parsed = json.loads(cleaned)
+        parsed = json.loads(cleaned, strict=False)
         if isinstance(parsed, dict):
-            return parsed
-    except json.JSONDecodeError:
-        pass
+            return parsed, None
+    except json.JSONDecodeError as exc:
+        last_error = f"json.loads strict=False failed: {exc}"
 
     try:
         parsed = ast.literal_eval(cleaned)
         if isinstance(parsed, dict):
-            return parsed
-    except (ValueError, SyntaxError):
-        pass
+            return parsed, None
+    except (ValueError, SyntaxError) as exc:
+        last_error = f"ast.literal_eval failed: {exc}"
 
-    return None
+    try:
+        parsed = yaml.safe_load(cleaned)
+        if isinstance(parsed, dict):
+            return parsed, None
+    except Exception as exc:
+        last_error = f"yaml.safe_load failed: {exc}"
+
+    # Final fallback: manual top-level parsing for simple string-valued objects, tolerating unescaped quotes.
+    def _manual_parse_top_level_strings(block: str) -> Optional[Dict[str, Any]]:
+        brace_block = _find_first_braced_block(block) or block
+        if not brace_block.startswith("{") or not brace_block.endswith("}"):
+            return None
+        inner = brace_block[1:-1]
+        matches = list(re.finditer(r'"([^"]+)":', inner))
+        if not matches:
+            return None
+        result: Dict[str, Any] = {}
+        for idx, match in enumerate(matches):
+            key = match.group(1)
+            value_start = match.end()
+            value_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(inner)
+            raw_val = inner[value_start:value_end].strip().rstrip(",")
+            if raw_val.startswith('"') and raw_val.endswith('"'):
+                raw_val = raw_val[1:-1]
+            elif raw_val.startswith("'") and raw_val.endswith("'"):
+                raw_val = raw_val[1:-1]
+            raw_val = raw_val.replace('\\"', '"').replace("\\'", "'")
+            result[key] = raw_val.strip()
+        return result
+
+    manual = _manual_parse_top_level_strings(cleaned)
+    if manual is not None:
+        return manual, last_error
+
+    return None, last_error
 
 
 def _extract_json_object(raw_text: str) -> Dict[str, Any]:
@@ -2752,15 +2788,41 @@ def _extract_json_object(raw_text: str) -> Dict[str, Any]:
     candidates.append(cleaned)
 
     seen = set()
+    errors: List[str] = []
     for candidate in candidates:
         if candidate in seen:
             continue
         seen.add(candidate)
-        parsed = _try_parse_json_object(candidate)
+        parsed, parse_error = _try_parse_json_object(candidate)
         if parsed is not None:
             return parsed
+        if parse_error:
+            preview = candidate.replace("\n", "\\n")[:240]
+            errors.append(f"{parse_error} on candidate: {preview}")
 
-    raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}")
+    error_text = "\n".join(errors[:3])
+    raise RuntimeError(f"LLM returned invalid JSON:\n{cleaned}\n\nParse errors:\n{error_text}")
+
+
+def _response_text_fallback(response: Any) -> str:
+    """Collect text from OpenAI responses.create payloads even if output_text is empty."""
+
+    try:
+        output_blocks = getattr(response, "output", None)
+    except Exception:
+        output_blocks = None
+    if not output_blocks:
+        return ""
+
+    parts: List[str] = []
+    for block in output_blocks:
+        content = getattr(block, "content", None)
+        if isinstance(content, list):
+            for item in content:
+                text = getattr(item, "text", None) or (item.get("text") if isinstance(item, Mapping) else None)
+                if text:
+                    parts.append(str(text))
+    return "\n".join(parts).strip()
 
 
 def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, Any]:
@@ -2841,7 +2903,19 @@ def call_llm(context: Dict[str, Any], prompt_config: PromptConfig) -> Dict[str, 
         ],
     )
     log_status("Received response from OpenAI.")
-    raw_output = response.output_text.strip()
+    raw_output = getattr(response, "output_text", "") or ""
+    raw_output = str(raw_output).strip()
+    if not raw_output:
+        raw_output = _response_text_fallback(response)
+    if not raw_output:
+        response_repr = ""
+        try:
+            response_repr = json.dumps(response.to_dict(), ensure_ascii=False)[:4000]
+        except Exception:
+            response_repr = repr(response)[:4000]
+        raise RuntimeError(f"LLM response was empty; full payload: {response_repr}")
+    preview = raw_output.replace("\n", "\\n")[:600]
+    log_status(f"LLM raw output (truncated): {preview}")
     parsed = _extract_json_object(raw_output)
 
     sanitized: Dict[str, Any] = {}
