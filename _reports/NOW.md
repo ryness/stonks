@@ -2,11 +2,11 @@
 layout: default
 title: "NOW Stock Report"
 ticker: "NOW"
-date: 2026-01-24
-generated_at: 2026-01-24T01:42:17.215610+00:00
-runtime_seconds: 31.54
+date: 2026-02-16
+generated_at: 2026-02-16T20:41:23.724142+00:00
+runtime_seconds: 34.11
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-24T01:42:17.215610+00:00">2026-01-24 01:42 UTC</time> (runtime 31.54s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-16T20:41:23.724142+00:00">2026-02-16 20:41 UTC</time> (runtime 34.11s)
   
   ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
   
@@ -44,6 +44,7 @@ raw_markdown: |
   <circle cx="613.94" cy="139.31" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $721.65 · 5y low $341.76</figcaption>
+  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,43.72 12.62,43.72 13.25,43.54 13.87,43.54 14.49,38.39 15.12,38.39 15.74,35.49 16.36,35.49 16.99,37.18 17.61,37.18 18.23,33.46 18.86,33.46 19.48,39.60 20.10,39.60 20.73,37.88 21.35,37.88 21.97,38.09 22.60,38.09 23.22,36.19 23.84,36.19 24.47,22.11 25.09,22.11 25.71,21.98 26.34,21.98 26.96,21.85 27.58,21.85 28.21,22.68 28.83,22.68 29.45,21.10 30.07,21.10 30.70,16.97 31.32,16.97 31.94,16.70 32.57,16.70 33.19,22.54 33.81,22.54 34.44,20.66 35.06,20.66 35.68,23.91 36.31,23.91 36.93,35.40 37.55,35.40 38.18,32.43 38.80,32.43 39.42,28.93 40.05,28.93 40.67,29.57 41.29,29.57 41.92,25.87 42.54,25.87 43.16,27.25 43.79,27.25 44.41,31.03 45.03,31.03 45.66,33.97 46.28,33.97 46.90,35.59 47.53,35.59 48.15,36.83 48.77,36.83 49.40,32.67 50.02,32.67 50.64,31.97 51.27,31.97 51.89,36.87 52.51,36.87 53.14,37.95 53.76,37.95 54.38,43.20 55.01,43.20 55.63,45.08 56.25,45.08 56.88,41.76 57.50,41.76 58.12,36.87 58.75,36.87 59.37,36.22 59.99,36.22 60.62,33.16 61.24,33.16 61.86,27.73 62.49,27.73 63.11,21.67 63.73,21.67 64.36,19.74 64.98,19.74 65.60,21.71 66.22,21.71 66.85,18.37 67.47,18.37 68.09,12.00 68.72,12.00 69.34,17.72 69.96,17.72 70.59,45.72 71.21,45.72 71.83,44.52 72.46,44.52 73.08,43.97 73.70,43.97 74.33,46.28 74.95,46.28 75.57,42.66 76.20,42.66 76.82,43.47 77.44,43.47 78.07,46.68 78.69,46.68 79.31,43.79 79.94,43.79 80.56,46.52 81.18,46.52 81.81,52.22 82.43,52.22 83.05,50.70 83.68,50.70 84.30,51.31 84.92,51.31 85.55,48.99 86.17,48.99 86.79,51.20 87.42,51.20 88.04,55.30 88.66,55.30 89.29,61.63 89.91,61.63 90.53,63.94 91.16,63.94 91.78,65.08 92.40,65.08 93.03,60.87 93.65,60.87 94.27,65.36 94.90,65.36 95.52,63.48 96.14,63.48 96.77,67.64 97.39,67.64 98.01,68.54 98.64,68.54 99.26,66.47 99.88,66.47 100.50,76.89 101.13,76.89 101.75,80.41 102.37,80.41 103.00,94.70 103.62,94.70 104.24,89.44 104.87,89.44 105.49,82.01 106.11,82.01 106.74,88.75 107.36,88.75 107.98,81.75 108.61,81.75 109.23,82.05 109.85,82.05 110.48,84.82 111.10,84.82 111.72,81.80 112.35,81.80 112.97,86.08 113.59,86.08 114.22,85.30 114.84,85.30 115.46,80.60 116.09,80.60 116.71,78.11 117.33,78.11 117.96,82.99 118.58,82.99 119.20,85.30 119.83,85.30 120.45,91.72 121.07,91.72 121.70,92.06 122.32,92.06 122.94,88.77 123.57,88.77 124.19,86.10 124.81,86.10 125.44,96.79 126.06,96.79 126.68,108.00 127.31,108.00 127.93,105.04 128.55,105.04 129.18,106.73 129.80,106.73 130.42,85.69 131.05,85.69 131.67,94.77 132.29,94.77 132.92,94.30 133.54,94.30 134.16,91.28 134.79,91.28 135.41,87.71 136.03,87.71 136.65,91.95 137.28,91.95 137.90,97.19 138.52,97.19 139.15,100.65 139.77,100.65 140.39,98.33 141.02,98.33 141.64,88.52 142.26,88.52 142.89,61.59 143.51,61.59 144.13,60.16 144.76,60.16 145.38,61.84 146.00,61.84 146.63,60.68 147.25,60.68 147.87,58.08 148.50,58.08 149.12,57.45 149.74,57.45 150.37,53.30 150.99,53.30 151.61,53.15 152.24,53.15 152.86,55.88 153.48,55.88 154.11,52.03 154.73,52.03 155.35,53.91 155.98,53.91 156.60,52.72 157.22,52.72 157.85,45.11 158.47,45.11 159.09,40.60 159.72,40.60 160.34,42.71 160.96,42.71 161.59,40.93 162.21,40.93 162.83,39.86 163.46,39.86 164.08,42.94 164.70,42.94 165.33,43.78 165.95,43.78 166.57,45.29 167.20,45.29 167.82,45.08 168.44,45.08 169.07,47.52 169.69,47.52 170.31,42.59 170.93,42.59 171.56,43.90 172.18,43.90 172.80,45.19 173.43,45.19 174.05,46.08 174.67,46.08 175.30,45.86 175.92,45.86 176.54,46.12 177.17,46.12 177.79,45.73 178.41,45.73 179.04,44.69 179.66,44.69 180.28,41.99 180.91,41.99 181.53,42.71 182.15,42.71 182.78,46.36 183.40,46.36 184.02,47.53 184.65,47.53 185.27,46.88 185.89,46.88 186.52,50.88 187.14,50.88 187.76,47.35 188.39,47.35 189.01,47.40 189.63,47.40 190.26,52.29 190.88,52.29 191.50,54.57 192.13,54.57 192.75,52.65 193.37,52.65 194.00,49.24 194.62,49.24 195.24,47.35 195.87,47.35 196.49,46.00 197.11,46.00 197.74,43.66 198.36,43.66 198.98,42.44 199.61,42.44 200.23,45.91 200.85,45.91 201.48,46.36 202.10,46.36 202.72,38.89 203.35,38.89 203.97,40.96 204.59,40.96 205.21,43.54 205.84,43.54 206.46,45.52 207.08,45.52 207.71,55.28 208.33,55.28 208.95,61.55 209.58,61.55 210.20,56.63 210.82,56.63 211.45,57.67 212.07,57.67 212.69,55.52 213.32,55.52 213.94,57.19 214.56,57.19 215.19,56.28 215.81,56.28 216.43,57.03 217.06,57.03 217.68,56.50 218.30,56.50 218.93,57.77 219.55,57.77 220.17,49.27 220.80,49.27 221.42,55.13 222.04,55.13 222.67,51.50 223.29,51.50 223.91,49.91 224.54,49.91 225.16,53.27 225.78,53.27 226.41,60.62 227.03,60.62 227.65,66.77 228.28,66.77 228.90,64.92 229.52,64.92 230.15,68.75 230.77,68.75 231.39,67.21 232.02,67.21 232.64,75.38 233.26,75.38 233.89,75.73 234.51,75.73 235.13,79.18 235.76,79.18 236.38,79.81 237.00,79.81 237.63,77.70 238.25,77.70 238.87,80.36 239.50,80.36 240.12,76.85 240.74,76.85 241.36,71.55 241.99,71.55 242.61,72.67 243.23,72.67 243.86,71.93 244.48,71.93 245.10,74.77 245.73,74.77 246.35,72.68 246.97,72.68 247.60,74.14 248.22,74.14 248.84,77.41 249.47,77.41 250.09,72.42 250.71,72.42 251.34,63.73 251.96,63.73 252.58,66.11 253.21,66.11 253.83,67.40 254.45,67.40 255.08,65.70 255.70,65.70 256.32,70.15 256.95,70.15 257.57,66.89 258.19,66.89 258.82,61.43 259.44,61.43 260.06,62.64 260.69,62.64 261.31,64.80 261.93,64.80 262.56,61.66 263.18,61.66 263.80,63.65 264.43,63.65 265.05,59.70 265.67,59.70 266.30,63.00 266.92,63.00 267.54,59.07 268.17,59.07 268.79,59.63 269.41,59.63 270.04,56.76 270.66,56.76 271.28,59.62 271.91,59.62 272.53,63.93 273.15,63.93 273.78,62.71 274.40,62.71 275.02,65.86 275.64,65.86 276.27,62.14 276.89,62.14 277.51,61.11 278.14,61.11 278.76,65.51 279.38,65.51 280.01,67.19 280.63,67.19 281.25,67.68 281.88,67.68 282.50,67.20 283.12,67.20 283.75,67.10 284.37,67.10 284.99,68.94 285.62,68.94 286.24,66.78 286.86,66.78 287.49,66.01 288.11,66.01 288.73,72.26 289.36,72.26 289.98,64.77 290.60,64.77 291.23,67.44 291.85,67.44 292.47,69.19 293.10,69.19 293.72,71.02 294.34,71.02 294.97,69.08 295.59,69.08 296.21,66.09 296.84,66.09 297.46,60.97 298.08,60.97 298.71,62.22 299.33,62.22 299.95,61.47 300.58,61.47 301.20,63.39 301.82,63.39 302.45,59.94 303.07,59.94 303.69,61.74 304.32,61.74 304.94,67.34 305.56,67.34 306.19,62.43 306.81,62.43 307.43,65.72 308.06,65.72 308.68,66.88 309.30,66.88 309.93,72.50 310.55,72.50 311.17,74.20 311.79,74.20 312.42,78.67 313.04,78.67 313.66,78.00 314.29,78.00 314.91,77.05 315.53,77.05 316.16,78.26 316.78,78.26 317.40,77.54 318.03,77.54 318.65,80.61 319.27,80.61 319.90,80.45 320.52,80.45 321.14,83.58 321.77,83.58 322.39,87.39 323.01,87.39 323.64,87.72 324.26,87.72 324.88,91.14 325.51,91.14 326.13,88.37 326.75,88.37 327.38,88.47 328.00,88.47" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,43.72 12.62,43.72 13.25,43.54 13.87,43.54 14.49,38.39 15.12,38.39 15.74,35.49 16.36,35.49 16.99,37.18 17.61,37.18 18.23,33.46 18.86,33.46 19.48,39.60 20.10,39.60 20.73,37.88 21.35,37.88 21.97,38.09 22.60,38.09 23.22,36.19 23.84,36.19 24.47,22.11 25.09,22.11 25.71,21.98 26.34,21.98 26.96,21.85 27.58,21.85 28.21,22.68 28.83,22.68 29.45,21.10 30.07,21.10 30.70,16.97 31.32,16.97 31.94,16.70 32.57,16.70 33.19,22.54 33.81,22.54 34.44,20.66 35.06,20.66 35.68,23.91 36.31,23.91 36.93,35.40 37.55,35.40 38.18,32.43 38.80,32.43 39.42,28.93 40.05,28.93 40.67,29.57 41.29,29.57 41.92,25.87 42.54,25.87 43.16,27.25 43.79,27.25 44.41,31.03 45.03,31.03 45.66,33.97 46.28,33.97 46.90,35.59 47.53,35.59 48.15,36.83 48.77,36.83 49.40,32.67 50.02,32.67 50.64,31.97 51.27,31.97 51.89,36.87 52.51,36.87 53.14,37.95 53.76,37.95 54.38,43.20 55.01,43.20 55.63,45.08 56.25,45.08 56.88,41.76 57.50,41.76 58.12,36.87 58.75,36.87 59.37,36.22 59.99,36.22 60.62,33.16 61.24,33.16 61.86,27.73 62.49,27.73 63.11,21.67 63.73,21.67 64.36,19.74 64.98,19.74 65.60,21.71 66.22,21.71 66.85,18.37 67.47,18.37 68.09,12.00 68.72,12.00 69.34,17.72 69.96,17.72 70.59,45.72 71.21,45.72 71.83,44.52 72.46,44.52 73.08,43.97 73.70,43.97 74.33,46.28 74.95,46.28 75.57,42.66 76.20,42.66 76.82,43.47 77.44,43.47 78.07,46.68 78.69,46.68 79.31,43.79 79.94,43.79 80.56,46.52 81.18,46.52 81.81,52.22 82.43,52.22 83.05,50.70 83.68,50.70 84.30,51.31 84.92,51.31 85.55,48.99 86.17,48.99 86.79,51.20 87.42,51.20 88.04,55.30 88.66,55.30 89.29,61.63 89.91,61.63 90.53,63.94 91.16,63.94 91.78,65.08 92.40,65.08 93.03,60.87 93.65,60.87 94.27,65.36 94.90,65.36 95.52,63.48 96.14,63.48 96.77,67.64 97.39,67.64 98.01,68.54 98.64,68.54 99.26,66.47 99.88,66.47 100.50,76.89 101.13,76.89 101.75,80.41 102.37,80.41 103.00,94.70 103.62,94.70 104.24,89.44 104.87,89.44 105.49,82.01 106.11,82.01 106.74,88.75 107.36,88.75 107.98,81.75 108.61,81.75 109.23,82.05 109.85,82.05 110.48,84.82 111.10,84.82 111.72,81.80 112.35,81.80 112.97,86.08 113.59,86.08 114.22,85.30 114.84,85.30 115.46,80.60 116.09,80.60 116.71,78.11 117.33,78.11 117.96,82.99 118.58,82.99 119.20,85.30 119.83,85.30 120.45,91.72 121.07,91.72 121.70,92.06 122.32,92.06 122.94,88.77 123.57,88.77 124.19,86.10 124.81,86.10 125.44,96.79 126.06,96.79 126.68,108.00 127.31,108.00 127.93,105.04 128.55,105.04 129.18,106.73 129.80,106.73 130.42,85.69 131.05,85.69 131.67,94.77 132.29,94.77 132.92,94.30 133.54,94.30 134.16,91.28 134.79,91.28 135.41,87.71 136.03,87.71 136.65,91.95 137.28,91.95 137.90,97.19 138.52,97.19 139.15,100.65 139.77,100.65 140.39,98.33 141.02,98.33 141.64,88.52 142.26,88.52 142.89,61.59 143.51,61.59 144.13,60.16 144.76,60.16 145.38,61.84 146.00,61.84 146.63,60.68 147.25,60.68 147.87,58.08 148.50,58.08 149.12,57.45 149.74,57.45 150.37,53.30 150.99,53.30 151.61,53.15 152.24,53.15 152.86,55.88 153.48,55.88 154.11,52.03 154.73,52.03 155.35,53.91 155.98,53.91 156.60,52.72 157.22,52.72 157.85,45.11 158.47,45.11 159.09,40.60 159.72,40.60 160.34,42.71 160.96,42.71 161.59,40.93 162.21,40.93 162.83,39.86 163.46,39.86 164.08,42.94 164.70,42.94 165.33,43.78 165.95,43.78 166.57,45.29 167.20,45.29 167.82,45.08 168.44,45.08 169.07,47.52 169.69,47.52 170.31,42.59 170.93,42.59 171.56,43.90 172.18,43.90 172.80,45.19 173.43,45.19 174.05,46.08 174.67,46.08 175.30,45.86 175.92,45.86 176.54,46.12 177.17,46.12 177.79,45.73 178.41,45.73 179.04,44.69 179.66,44.69 180.28,41.99 180.91,41.99 181.53,42.71 182.15,42.71 182.78,46.36 183.40,46.36 184.02,47.53 184.65,47.53 185.27,46.88 185.89,46.88 186.52,50.88 187.14,50.88 187.76,47.35 188.39,47.35 189.01,47.40 189.63,47.40 190.26,52.29 190.88,52.29 191.50,54.57 192.13,54.57 192.75,52.65 193.37,52.65 194.00,49.24 194.62,49.24 195.24,47.35 195.87,47.35 196.49,46.00 197.11,46.00 197.74,43.66 198.36,43.66 198.98,42.44 199.61,42.44 200.23,45.91 200.85,45.91 201.48,46.36 202.10,46.36 202.72,38.89 203.35,38.89 203.97,40.96 204.59,40.96 205.21,43.54 205.84,43.54 206.46,45.52 207.08,45.52 207.71,55.28 208.33,55.28 208.95,61.55 209.58,61.55 210.20,56.63 210.82,56.63 211.45,57.67 212.07,57.67 212.69,55.52 213.32,55.52 213.94,57.19 214.56,57.19 215.19,56.28 215.81,56.28 216.43,57.03 217.06,57.03 217.68,56.50 218.30,56.50 218.93,57.77 219.55,57.77 220.17,49.27 220.80,49.27 221.42,55.13 222.04,55.13 222.67,51.50 223.29,51.50 223.91,49.91 224.54,49.91 225.16,53.27 225.78,53.27 226.41,60.62 227.03,60.62 227.65,66.77 228.28,66.77 228.90,64.92 229.52,64.92 230.15,68.75 230.77,68.75 231.39,67.21 232.02,67.21 232.64,75.38 233.26,75.38 233.89,75.73 234.51,75.73 235.13,79.18 235.76,79.18 236.38,79.81 237.00,79.81 237.63,77.70 238.25,77.70 238.87,80.36 239.50,80.36 240.12,76.85 240.74,76.85 241.36,71.55 241.99,71.55 242.61,72.67 243.23,72.67 243.86,71.93 244.48,71.93 245.10,74.77 245.73,74.77 246.35,72.68 246.97,72.68 247.60,74.14 248.22,74.14 248.84,77.41 249.47,77.41 250.09,72.42 250.71,72.42 251.34,63.73 251.96,63.73 252.58,66.11 253.21,66.11 253.83,67.40 254.45,67.40 255.08,65.70 255.70,65.70 256.32,70.15 256.95,70.15 257.57,66.89 258.19,66.89 258.82,61.43 259.44,61.43 260.06,62.64 260.69,62.64 261.31,64.80 261.93,64.80 262.56,61.66 263.18,61.66 263.80,63.65 264.43,63.65 265.05,59.70 265.67,59.70 266.30,63.00 266.92,63.00 267.54,59.07 268.17,59.07 268.79,59.63 269.41,59.63 270.04,56.76 270.66,56.76 271.28,59.62 271.91,59.62 272.53,63.93 273.15,63.93 273.78,62.71 274.40,62.71 275.02,65.86 275.64,65.86 276.27,62.14 276.89,62.14 277.51,61.11 278.14,61.11 278.76,65.51 279.38,65.51 280.01,67.19 280.63,67.19 281.25,67.68 281.88,67.68 282.50,67.20 283.12,67.20 283.75,67.10 284.37,67.10 284.99,68.94 285.62,68.94 286.24,66.78 286.86,66.78 287.49,66.01 288.11,66.01 288.73,72.26 289.36,72.26 289.98,64.77 290.60,64.77 291.23,67.44 291.85,67.44 292.47,69.19 293.10,69.19 293.72,71.02 294.34,71.02 294.97,69.08 295.59,69.08 296.21,66.09 296.84,66.09 297.46,60.97 298.08,60.97 298.71,62.22 299.33,62.22 299.95,61.47 300.58,61.47 301.20,63.39 301.82,63.39 302.45,59.94 303.07,59.94 303.69,61.74 304.32,61.74 304.94,67.34 305.56,67.34 306.19,62.43 306.81,62.43 307.43,65.72 308.06,65.72 308.68,66.88 309.30,66.88 309.93,72.50 310.55,72.50 311.17,74.20 311.79,74.20 312.42,78.67 313.04,78.67 313.66,78.00 314.29,78.00 314.91,77.05 315.53,77.05 316.16,78.26 316.78,78.26 317.40,77.54 318.03,77.54 318.65,80.61 319.27,80.61 319.90,80.45 320.52,80.45 321.14,83.58 321.77,83.58 322.39,87.39 323.01,87.39 323.64,87.72 324.26,87.72 324.88,91.14 325.51,91.14 326.13,88.37 326.75,88.37 327.38,88.47 328.00,88.47 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,15.71 13.87,15.71 15.74,12.00 17.61,12.00 19.48,19.83 21.35,19.83 23.22,36.94 25.09,36.94 26.96,51.26 28.83,51.26 30.70,46.97 32.57,46.97 34.44,55.87 36.31,55.87 38.18,52.29 40.05,52.29 41.92,71.31 43.79,71.31 45.66,72.11 47.53,72.11 49.40,80.15 51.27,80.15 53.14,81.62 55.01,81.62 56.88,76.70 58.75,76.70 60.62,82.90 62.49,82.90 64.36,74.74 66.22,74.74 68.09,62.38 69.96,62.38 71.83,65.01 73.70,65.01 75.57,63.28 77.44,63.28 79.31,69.89 81.18,69.89 83.05,65.02 84.92,65.02 86.79,68.41 88.66,68.41 90.53,76.02 92.40,76.02 94.27,64.41 96.14,64.41 98.01,44.18 99.88,44.18 101.75,49.72 103.62,49.72 105.49,52.73 107.36,52.73 109.23,48.77 111.10,48.77 112.97,59.14 114.84,59.14 116.71,51.55 118.58,51.55 120.45,38.83 122.32,38.83 124.19,41.65 126.06,41.65 127.93,46.68 129.80,46.68 131.67,39.35 133.54,39.35 135.41,44.00 137.28,44.00 139.15,34.80 141.02,34.80 142.89,42.48 144.76,42.48 146.63,33.33 148.50,33.33 150.37,34.64 152.24,34.64 154.11,27.96 155.98,27.96 157.85,34.62 159.72,34.62 161.59,44.64 163.46,44.64 165.33,41.80 167.20,41.80 169.07,49.15 170.93,49.15 172.80,40.49 174.67,40.49 176.54,38.07 178.41,38.07 180.28,48.32 182.15,48.32 184.02,52.23 185.89,52.23 187.76,53.39 189.63,53.39 191.50,52.26 193.37,52.26 195.24,52.03 197.11,52.03 198.98,56.31 200.85,56.31 202.72,51.29 204.59,51.29 206.46,49.48 208.33,49.48 210.20,64.04 212.07,64.04 213.94,46.62 215.81,46.62 217.68,52.81 219.55,52.81 221.42,56.90 223.29,56.90 225.16,61.17 227.03,61.17 228.90,56.63 230.77,56.63 232.64,49.68 234.51,49.68 236.38,37.75 238.25,37.75 240.12,40.66 241.99,40.66 243.86,38.91 245.73,38.91 247.60,43.39 249.47,43.39 251.34,35.36 253.21,35.36 255.08,39.54 256.95,39.54 258.82,52.59 260.69,52.59 262.56,41.15 264.43,41.15 266.30,48.82 268.17,48.82 270.04,51.53 271.91,51.53 273.78,64.61 275.64,64.61 277.51,68.57 279.38,68.57 281.25,78.96 283.12,78.96 284.99,77.41 286.86,77.41 288.73,75.21 290.60,75.21 292.47,78.01 294.34,78.01 296.21,76.33 298.08,76.33 299.95,83.48 301.82,83.48 303.69,83.11 305.56,83.11 307.43,90.40 309.30,90.40 311.17,99.28 313.04,99.28 314.91,100.04 316.78,100.04 318.65,108.00 320.52,108.00 322.39,101.54 324.26,101.54 326.13,101.79 328.00,101.79" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,15.71 13.87,15.71 15.74,12.00 17.61,12.00 19.48,19.83 21.35,19.83 23.22,36.94 25.09,36.94 26.96,51.26 28.83,51.26 30.70,46.97 32.57,46.97 34.44,55.87 36.31,55.87 38.18,52.29 40.05,52.29 41.92,71.31 43.79,71.31 45.66,72.11 47.53,72.11 49.40,80.15 51.27,80.15 53.14,81.62 55.01,81.62 56.88,76.70 58.75,76.70 60.62,82.90 62.49,82.90 64.36,74.74 66.22,74.74 68.09,62.38 69.96,62.38 71.83,65.01 73.70,65.01 75.57,63.28 77.44,63.28 79.31,69.89 81.18,69.89 83.05,65.02 84.92,65.02 86.79,68.41 88.66,68.41 90.53,76.02 92.40,76.02 94.27,64.41 96.14,64.41 98.01,44.18 99.88,44.18 101.75,49.72 103.62,49.72 105.49,52.73 107.36,52.73 109.23,48.77 111.10,48.77 112.97,59.14 114.84,59.14 116.71,51.55 118.58,51.55 120.45,38.83 122.32,38.83 124.19,41.65 126.06,41.65 127.93,46.68 129.80,46.68 131.67,39.35 133.54,39.35 135.41,44.00 137.28,44.00 139.15,34.80 141.02,34.80 142.89,42.48 144.76,42.48 146.63,33.33 148.50,33.33 150.37,34.64 152.24,34.64 154.11,27.96 155.98,27.96 157.85,34.62 159.72,34.62 161.59,44.64 163.46,44.64 165.33,41.80 167.20,41.80 169.07,49.15 170.93,49.15 172.80,40.49 174.67,40.49 176.54,38.07 178.41,38.07 180.28,48.32 182.15,48.32 184.02,52.23 185.89,52.23 187.76,53.39 189.63,53.39 191.50,52.26 193.37,52.26 195.24,52.03 197.11,52.03 198.98,56.31 200.85,56.31 202.72,51.29 204.59,51.29 206.46,49.48 208.33,49.48 210.20,64.04 212.07,64.04 213.94,46.62 215.81,46.62 217.68,52.81 219.55,52.81 221.42,56.90 223.29,56.90 225.16,61.17 227.03,61.17 228.90,56.63 230.77,56.63 232.64,49.68 234.51,49.68 236.38,37.75 238.25,37.75 240.12,40.66 241.99,40.66 243.86,38.91 245.73,38.91 247.60,43.39 249.47,43.39 251.34,35.36 253.21,35.36 255.08,39.54 256.95,39.54 258.82,52.59 260.69,52.59 262.56,41.15 264.43,41.15 266.30,48.82 268.17,48.82 270.04,51.53 271.91,51.53 273.78,64.61 275.64,64.61 277.51,68.57 279.38,68.57 281.25,78.96 283.12,78.96 284.99,77.41 286.86,77.41 288.73,75.21 290.60,75.21 292.47,78.01 294.34,78.01 296.21,76.33 298.08,76.33 299.95,83.48 301.82,83.48 303.69,83.11 305.56,83.11 307.43,90.40 309.30,90.40 311.17,99.28 313.04,99.28 314.91,100.04 316.78,100.04 318.65,108.00 320.52,108.00 322.39,101.54 324.26,101.54 326.13,101.79 328.00,101.79 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
   </figure>
   
   ### Latest news (0-3 days)
@@ -53,23 +54,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.
+  0.1. **Long Entry?:** maybe — the stock trades in the middle of its 1-year and 5-year ranges and is near 3-month near-bottom levels with price just above key support at 795 and below its 20-day average around 832; macro context shows software under pressure but broader markets resilient, suggesting some AI/froth concerns but not an obvious bubble locally.
   
   ## 1. The Biz
   
-  1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT operations, then into workflows for customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflow apps.
+  1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate enterprise business processes via a SaaS delivery model. It began in IT service management and expanded across the IT function, then applied its workflow automation platform to areas like customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflows.
   
-  1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive net income sum of about $1.73 billion over recent periods and a profit margin of 13.7%, alongside positive revenue and earnings growth.
+  1.2. **Profitable?:** yes — the company is profitable, with a positive profit margin of about 13% and cumulative net income of roughly $1.75 billion over the last four reported periods, supported by strong free cash flow.
   
-  1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, focusing on the IT function but also HR, customer service, and security teams. Its core market is the United States, with products aimed at large organizations adopting SaaS-based workflow and application platforms.
+  1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers that need to manage and automate complex IT and business workflows. Its markets span IT service management, customer service, HR, and security operations, delivered globally via SaaS from its base in the United States.
   
-  1.4. **Competition:** ServiceNow's primary competitors include large application software and cloud platforms such as Salesforce (CRM), Alphabet/Google (GOOGL), Meta (META), Intuit (INTU), Atlassian (TEAM), Autodesk (ADSK), HubSpot (HUBS), and Dynatrace (DT); it is positioned among the leading enterprise workflow and IT service management platforms within this group, though exact rank is not specified.
+  1.4. **Competition:** Key competitors include large application and enterprise software vendors such as Salesforce (CRM), Microsoft (MSFT), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Meta (META), Google (GOOGL), and Nvidia (NVDA); ServiceNow competes within this group in workflow automation and enterprise SaaS but no specific rank is provided.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the stated 7d Trend is 'up' and the current price of about 812.93 is nearer recent resistance (831.69) than support (795.00).
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from near support at 795 toward resistance around 831.69.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around 795.00 were favorable buy zones, while moves into the 7-day resistance area near 831.69 or the recent local high of 835.00 offered better sell or trim levels.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy zone around support at 795 appears to have been a favorable entry area, while the 7-day and local high/resistance near 831–835 offered good short-term selling or trimming levels.
   
   2.3.1. **7d Volume:** low
   
@@ -77,13 +78,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operation, operating in the Technology sector with a mature SaaS business model. It has generated consistent positive net income across recent periods totaling about $1.73 billion and maintains healthy free cash flow of roughly $3.9 billion and operating cash flow of about $4.8 billion. Its profit margin of 13.7% and solid revenue and earnings growth suggest a resilient business. The 5-year price history shows the stock well above its 5-year low of $341.76, indicating long-term value creation rather than a speculative spike.
+  3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in enterprise software, with a sizable free cash flow of about $4.95 billion and strong operating cash flow over $5.4 billion. It generates consistent positive net income across the last four periods and maintains a healthy profit margin near 13%, indicating a solid underlying business. The company operates in mission-critical IT and business workflows for large enterprises, which tends to provide recurring, subscription-based revenue stability. Its position in the middle of 1-year and 5-year trading ranges suggests it is not an early-stage, highly speculative name, though detailed balance sheet metrics are not provided.
   
-  3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by strong revenue growth of 21.8% and earnings growth of 16.2% coupled with expansion of its workflow automation beyond IT into customer service, HR, security operations, and an app development platform.
+  3.2. **Innovating?:** ServiceNow is innovating and growing, as shown by its expansion from IT service management into broader workflow automation for customer service, HR, and security operations, along with providing an application development platform. Revenue growth of about 21% and earnings growth of roughly 4% further indicate ongoing business expansion rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent macro news notes the S&P 500 holding near record highs on strong 4.3% U.S. GDP growth, with markets rotating somewhat away from mega-cap tech toward other sectors. This context can temper enthusiasm for high-multiple software names like ServiceNow even as earnings remain supported by solid consumer and corporate spending. Given quick facts showing 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the setup suggests that positive macro or sector headlines may already be priced in and can trigger profit-taking. For NOW, with the stock in an uptrend but in the middle of its 1-year and 5-year ranges, traders may prefer to buy dips toward support rather than chase post-news strength, consistent with the 'buy the dip' cue.
+  4.1. **News:** Recent context highlights sector-level headwinds for software and SaaS, with articles noting a renewed software slump and AI-related concerns weighing on SaaS valuations after the 'DeepSeek moment.' At the same time, broader markets are strong, with the Dow crossing 50,000 and energy and materials leading, which may leave high-multiple software names like ServiceNow more vulnerable to rotations. There is no company-specific rumor flow for ServiceNow in the provided headlines, so any 'buy the rumor, sell the news' dynamic would be more macro- and sector-driven than stock-specific. Given quick facts flag 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', recent strength into broader tech or macro news could be prone to profit-taking rather than sustained post-news rallies.
   
   4.2. **Tarrifs:** unknown
   
@@ -93,7 +94,7 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$1.73B</td></tr>
+  <tr><td>Last Q4</td><td>$1.75B</td></tr>
   <tr><td>Price</td><td>812.93</td></tr>
   <tr><td>7d Resistance</td><td>831.69</td></tr>
   <tr><td>7d Support</td><td>795.00</td></tr>
@@ -114,10 +115,9 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>GNews: core business, profitability, market segments, market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, tariff</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -162,68 +162,199 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 4 headline(s) from banned sources.
+  Filtered 2 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     google_custom_search search -&gt; NOW product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+  NewsAPI search failed for &#x27;NOW business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+  NewsAPI search failed for &#x27;NOW profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 3 result(s)
     newsapi search -&gt; NOW market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     google_custom_search search -&gt; NOW competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     newsapi search -&gt; NOW competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
     newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 2 result(s)
     newsapi search -&gt; NOW tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 5 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -242,12 +373,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&amp;P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.&quot;,&quot;1.1&quot;:&quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT oper
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades in the middle of its 1-year and 5-year ranges and is near 3-month near-bottom levels with price just above key support at 795 and below its 20-day average around 832; macro context shows software under pressure but broader markets resilient, suggesting some AI/froth concerns but not an obvious bubble locally.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate enterprise business processes via a SaaS delivery model. It began in IT service management and expanded across the IT function, then applied its workflow automa
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-24T01:42:17.215610+00:00">2026-01-24 01:42 UTC</time> (runtime 31.54s)
+**Generated:** <time class="js-local-time" datetime="2026-02-16T20:41:23.724142+00:00">2026-02-16 20:41 UTC</time> (runtime 34.11s)
 
 ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
 
@@ -285,6 +416,7 @@ raw_markdown: |
 <circle cx="613.94" cy="139.31" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $721.65 · 5y low $341.76</figcaption>
+<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,43.72 12.62,43.72 13.25,43.54 13.87,43.54 14.49,38.39 15.12,38.39 15.74,35.49 16.36,35.49 16.99,37.18 17.61,37.18 18.23,33.46 18.86,33.46 19.48,39.60 20.10,39.60 20.73,37.88 21.35,37.88 21.97,38.09 22.60,38.09 23.22,36.19 23.84,36.19 24.47,22.11 25.09,22.11 25.71,21.98 26.34,21.98 26.96,21.85 27.58,21.85 28.21,22.68 28.83,22.68 29.45,21.10 30.07,21.10 30.70,16.97 31.32,16.97 31.94,16.70 32.57,16.70 33.19,22.54 33.81,22.54 34.44,20.66 35.06,20.66 35.68,23.91 36.31,23.91 36.93,35.40 37.55,35.40 38.18,32.43 38.80,32.43 39.42,28.93 40.05,28.93 40.67,29.57 41.29,29.57 41.92,25.87 42.54,25.87 43.16,27.25 43.79,27.25 44.41,31.03 45.03,31.03 45.66,33.97 46.28,33.97 46.90,35.59 47.53,35.59 48.15,36.83 48.77,36.83 49.40,32.67 50.02,32.67 50.64,31.97 51.27,31.97 51.89,36.87 52.51,36.87 53.14,37.95 53.76,37.95 54.38,43.20 55.01,43.20 55.63,45.08 56.25,45.08 56.88,41.76 57.50,41.76 58.12,36.87 58.75,36.87 59.37,36.22 59.99,36.22 60.62,33.16 61.24,33.16 61.86,27.73 62.49,27.73 63.11,21.67 63.73,21.67 64.36,19.74 64.98,19.74 65.60,21.71 66.22,21.71 66.85,18.37 67.47,18.37 68.09,12.00 68.72,12.00 69.34,17.72 69.96,17.72 70.59,45.72 71.21,45.72 71.83,44.52 72.46,44.52 73.08,43.97 73.70,43.97 74.33,46.28 74.95,46.28 75.57,42.66 76.20,42.66 76.82,43.47 77.44,43.47 78.07,46.68 78.69,46.68 79.31,43.79 79.94,43.79 80.56,46.52 81.18,46.52 81.81,52.22 82.43,52.22 83.05,50.70 83.68,50.70 84.30,51.31 84.92,51.31 85.55,48.99 86.17,48.99 86.79,51.20 87.42,51.20 88.04,55.30 88.66,55.30 89.29,61.63 89.91,61.63 90.53,63.94 91.16,63.94 91.78,65.08 92.40,65.08 93.03,60.87 93.65,60.87 94.27,65.36 94.90,65.36 95.52,63.48 96.14,63.48 96.77,67.64 97.39,67.64 98.01,68.54 98.64,68.54 99.26,66.47 99.88,66.47 100.50,76.89 101.13,76.89 101.75,80.41 102.37,80.41 103.00,94.70 103.62,94.70 104.24,89.44 104.87,89.44 105.49,82.01 106.11,82.01 106.74,88.75 107.36,88.75 107.98,81.75 108.61,81.75 109.23,82.05 109.85,82.05 110.48,84.82 111.10,84.82 111.72,81.80 112.35,81.80 112.97,86.08 113.59,86.08 114.22,85.30 114.84,85.30 115.46,80.60 116.09,80.60 116.71,78.11 117.33,78.11 117.96,82.99 118.58,82.99 119.20,85.30 119.83,85.30 120.45,91.72 121.07,91.72 121.70,92.06 122.32,92.06 122.94,88.77 123.57,88.77 124.19,86.10 124.81,86.10 125.44,96.79 126.06,96.79 126.68,108.00 127.31,108.00 127.93,105.04 128.55,105.04 129.18,106.73 129.80,106.73 130.42,85.69 131.05,85.69 131.67,94.77 132.29,94.77 132.92,94.30 133.54,94.30 134.16,91.28 134.79,91.28 135.41,87.71 136.03,87.71 136.65,91.95 137.28,91.95 137.90,97.19 138.52,97.19 139.15,100.65 139.77,100.65 140.39,98.33 141.02,98.33 141.64,88.52 142.26,88.52 142.89,61.59 143.51,61.59 144.13,60.16 144.76,60.16 145.38,61.84 146.00,61.84 146.63,60.68 147.25,60.68 147.87,58.08 148.50,58.08 149.12,57.45 149.74,57.45 150.37,53.30 150.99,53.30 151.61,53.15 152.24,53.15 152.86,55.88 153.48,55.88 154.11,52.03 154.73,52.03 155.35,53.91 155.98,53.91 156.60,52.72 157.22,52.72 157.85,45.11 158.47,45.11 159.09,40.60 159.72,40.60 160.34,42.71 160.96,42.71 161.59,40.93 162.21,40.93 162.83,39.86 163.46,39.86 164.08,42.94 164.70,42.94 165.33,43.78 165.95,43.78 166.57,45.29 167.20,45.29 167.82,45.08 168.44,45.08 169.07,47.52 169.69,47.52 170.31,42.59 170.93,42.59 171.56,43.90 172.18,43.90 172.80,45.19 173.43,45.19 174.05,46.08 174.67,46.08 175.30,45.86 175.92,45.86 176.54,46.12 177.17,46.12 177.79,45.73 178.41,45.73 179.04,44.69 179.66,44.69 180.28,41.99 180.91,41.99 181.53,42.71 182.15,42.71 182.78,46.36 183.40,46.36 184.02,47.53 184.65,47.53 185.27,46.88 185.89,46.88 186.52,50.88 187.14,50.88 187.76,47.35 188.39,47.35 189.01,47.40 189.63,47.40 190.26,52.29 190.88,52.29 191.50,54.57 192.13,54.57 192.75,52.65 193.37,52.65 194.00,49.24 194.62,49.24 195.24,47.35 195.87,47.35 196.49,46.00 197.11,46.00 197.74,43.66 198.36,43.66 198.98,42.44 199.61,42.44 200.23,45.91 200.85,45.91 201.48,46.36 202.10,46.36 202.72,38.89 203.35,38.89 203.97,40.96 204.59,40.96 205.21,43.54 205.84,43.54 206.46,45.52 207.08,45.52 207.71,55.28 208.33,55.28 208.95,61.55 209.58,61.55 210.20,56.63 210.82,56.63 211.45,57.67 212.07,57.67 212.69,55.52 213.32,55.52 213.94,57.19 214.56,57.19 215.19,56.28 215.81,56.28 216.43,57.03 217.06,57.03 217.68,56.50 218.30,56.50 218.93,57.77 219.55,57.77 220.17,49.27 220.80,49.27 221.42,55.13 222.04,55.13 222.67,51.50 223.29,51.50 223.91,49.91 224.54,49.91 225.16,53.27 225.78,53.27 226.41,60.62 227.03,60.62 227.65,66.77 228.28,66.77 228.90,64.92 229.52,64.92 230.15,68.75 230.77,68.75 231.39,67.21 232.02,67.21 232.64,75.38 233.26,75.38 233.89,75.73 234.51,75.73 235.13,79.18 235.76,79.18 236.38,79.81 237.00,79.81 237.63,77.70 238.25,77.70 238.87,80.36 239.50,80.36 240.12,76.85 240.74,76.85 241.36,71.55 241.99,71.55 242.61,72.67 243.23,72.67 243.86,71.93 244.48,71.93 245.10,74.77 245.73,74.77 246.35,72.68 246.97,72.68 247.60,74.14 248.22,74.14 248.84,77.41 249.47,77.41 250.09,72.42 250.71,72.42 251.34,63.73 251.96,63.73 252.58,66.11 253.21,66.11 253.83,67.40 254.45,67.40 255.08,65.70 255.70,65.70 256.32,70.15 256.95,70.15 257.57,66.89 258.19,66.89 258.82,61.43 259.44,61.43 260.06,62.64 260.69,62.64 261.31,64.80 261.93,64.80 262.56,61.66 263.18,61.66 263.80,63.65 264.43,63.65 265.05,59.70 265.67,59.70 266.30,63.00 266.92,63.00 267.54,59.07 268.17,59.07 268.79,59.63 269.41,59.63 270.04,56.76 270.66,56.76 271.28,59.62 271.91,59.62 272.53,63.93 273.15,63.93 273.78,62.71 274.40,62.71 275.02,65.86 275.64,65.86 276.27,62.14 276.89,62.14 277.51,61.11 278.14,61.11 278.76,65.51 279.38,65.51 280.01,67.19 280.63,67.19 281.25,67.68 281.88,67.68 282.50,67.20 283.12,67.20 283.75,67.10 284.37,67.10 284.99,68.94 285.62,68.94 286.24,66.78 286.86,66.78 287.49,66.01 288.11,66.01 288.73,72.26 289.36,72.26 289.98,64.77 290.60,64.77 291.23,67.44 291.85,67.44 292.47,69.19 293.10,69.19 293.72,71.02 294.34,71.02 294.97,69.08 295.59,69.08 296.21,66.09 296.84,66.09 297.46,60.97 298.08,60.97 298.71,62.22 299.33,62.22 299.95,61.47 300.58,61.47 301.20,63.39 301.82,63.39 302.45,59.94 303.07,59.94 303.69,61.74 304.32,61.74 304.94,67.34 305.56,67.34 306.19,62.43 306.81,62.43 307.43,65.72 308.06,65.72 308.68,66.88 309.30,66.88 309.93,72.50 310.55,72.50 311.17,74.20 311.79,74.20 312.42,78.67 313.04,78.67 313.66,78.00 314.29,78.00 314.91,77.05 315.53,77.05 316.16,78.26 316.78,78.26 317.40,77.54 318.03,77.54 318.65,80.61 319.27,80.61 319.90,80.45 320.52,80.45 321.14,83.58 321.77,83.58 322.39,87.39 323.01,87.39 323.64,87.72 324.26,87.72 324.88,91.14 325.51,91.14 326.13,88.37 326.75,88.37 327.38,88.47 328.00,88.47" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,43.72 12.62,43.72 13.25,43.54 13.87,43.54 14.49,38.39 15.12,38.39 15.74,35.49 16.36,35.49 16.99,37.18 17.61,37.18 18.23,33.46 18.86,33.46 19.48,39.60 20.10,39.60 20.73,37.88 21.35,37.88 21.97,38.09 22.60,38.09 23.22,36.19 23.84,36.19 24.47,22.11 25.09,22.11 25.71,21.98 26.34,21.98 26.96,21.85 27.58,21.85 28.21,22.68 28.83,22.68 29.45,21.10 30.07,21.10 30.70,16.97 31.32,16.97 31.94,16.70 32.57,16.70 33.19,22.54 33.81,22.54 34.44,20.66 35.06,20.66 35.68,23.91 36.31,23.91 36.93,35.40 37.55,35.40 38.18,32.43 38.80,32.43 39.42,28.93 40.05,28.93 40.67,29.57 41.29,29.57 41.92,25.87 42.54,25.87 43.16,27.25 43.79,27.25 44.41,31.03 45.03,31.03 45.66,33.97 46.28,33.97 46.90,35.59 47.53,35.59 48.15,36.83 48.77,36.83 49.40,32.67 50.02,32.67 50.64,31.97 51.27,31.97 51.89,36.87 52.51,36.87 53.14,37.95 53.76,37.95 54.38,43.20 55.01,43.20 55.63,45.08 56.25,45.08 56.88,41.76 57.50,41.76 58.12,36.87 58.75,36.87 59.37,36.22 59.99,36.22 60.62,33.16 61.24,33.16 61.86,27.73 62.49,27.73 63.11,21.67 63.73,21.67 64.36,19.74 64.98,19.74 65.60,21.71 66.22,21.71 66.85,18.37 67.47,18.37 68.09,12.00 68.72,12.00 69.34,17.72 69.96,17.72 70.59,45.72 71.21,45.72 71.83,44.52 72.46,44.52 73.08,43.97 73.70,43.97 74.33,46.28 74.95,46.28 75.57,42.66 76.20,42.66 76.82,43.47 77.44,43.47 78.07,46.68 78.69,46.68 79.31,43.79 79.94,43.79 80.56,46.52 81.18,46.52 81.81,52.22 82.43,52.22 83.05,50.70 83.68,50.70 84.30,51.31 84.92,51.31 85.55,48.99 86.17,48.99 86.79,51.20 87.42,51.20 88.04,55.30 88.66,55.30 89.29,61.63 89.91,61.63 90.53,63.94 91.16,63.94 91.78,65.08 92.40,65.08 93.03,60.87 93.65,60.87 94.27,65.36 94.90,65.36 95.52,63.48 96.14,63.48 96.77,67.64 97.39,67.64 98.01,68.54 98.64,68.54 99.26,66.47 99.88,66.47 100.50,76.89 101.13,76.89 101.75,80.41 102.37,80.41 103.00,94.70 103.62,94.70 104.24,89.44 104.87,89.44 105.49,82.01 106.11,82.01 106.74,88.75 107.36,88.75 107.98,81.75 108.61,81.75 109.23,82.05 109.85,82.05 110.48,84.82 111.10,84.82 111.72,81.80 112.35,81.80 112.97,86.08 113.59,86.08 114.22,85.30 114.84,85.30 115.46,80.60 116.09,80.60 116.71,78.11 117.33,78.11 117.96,82.99 118.58,82.99 119.20,85.30 119.83,85.30 120.45,91.72 121.07,91.72 121.70,92.06 122.32,92.06 122.94,88.77 123.57,88.77 124.19,86.10 124.81,86.10 125.44,96.79 126.06,96.79 126.68,108.00 127.31,108.00 127.93,105.04 128.55,105.04 129.18,106.73 129.80,106.73 130.42,85.69 131.05,85.69 131.67,94.77 132.29,94.77 132.92,94.30 133.54,94.30 134.16,91.28 134.79,91.28 135.41,87.71 136.03,87.71 136.65,91.95 137.28,91.95 137.90,97.19 138.52,97.19 139.15,100.65 139.77,100.65 140.39,98.33 141.02,98.33 141.64,88.52 142.26,88.52 142.89,61.59 143.51,61.59 144.13,60.16 144.76,60.16 145.38,61.84 146.00,61.84 146.63,60.68 147.25,60.68 147.87,58.08 148.50,58.08 149.12,57.45 149.74,57.45 150.37,53.30 150.99,53.30 151.61,53.15 152.24,53.15 152.86,55.88 153.48,55.88 154.11,52.03 154.73,52.03 155.35,53.91 155.98,53.91 156.60,52.72 157.22,52.72 157.85,45.11 158.47,45.11 159.09,40.60 159.72,40.60 160.34,42.71 160.96,42.71 161.59,40.93 162.21,40.93 162.83,39.86 163.46,39.86 164.08,42.94 164.70,42.94 165.33,43.78 165.95,43.78 166.57,45.29 167.20,45.29 167.82,45.08 168.44,45.08 169.07,47.52 169.69,47.52 170.31,42.59 170.93,42.59 171.56,43.90 172.18,43.90 172.80,45.19 173.43,45.19 174.05,46.08 174.67,46.08 175.30,45.86 175.92,45.86 176.54,46.12 177.17,46.12 177.79,45.73 178.41,45.73 179.04,44.69 179.66,44.69 180.28,41.99 180.91,41.99 181.53,42.71 182.15,42.71 182.78,46.36 183.40,46.36 184.02,47.53 184.65,47.53 185.27,46.88 185.89,46.88 186.52,50.88 187.14,50.88 187.76,47.35 188.39,47.35 189.01,47.40 189.63,47.40 190.26,52.29 190.88,52.29 191.50,54.57 192.13,54.57 192.75,52.65 193.37,52.65 194.00,49.24 194.62,49.24 195.24,47.35 195.87,47.35 196.49,46.00 197.11,46.00 197.74,43.66 198.36,43.66 198.98,42.44 199.61,42.44 200.23,45.91 200.85,45.91 201.48,46.36 202.10,46.36 202.72,38.89 203.35,38.89 203.97,40.96 204.59,40.96 205.21,43.54 205.84,43.54 206.46,45.52 207.08,45.52 207.71,55.28 208.33,55.28 208.95,61.55 209.58,61.55 210.20,56.63 210.82,56.63 211.45,57.67 212.07,57.67 212.69,55.52 213.32,55.52 213.94,57.19 214.56,57.19 215.19,56.28 215.81,56.28 216.43,57.03 217.06,57.03 217.68,56.50 218.30,56.50 218.93,57.77 219.55,57.77 220.17,49.27 220.80,49.27 221.42,55.13 222.04,55.13 222.67,51.50 223.29,51.50 223.91,49.91 224.54,49.91 225.16,53.27 225.78,53.27 226.41,60.62 227.03,60.62 227.65,66.77 228.28,66.77 228.90,64.92 229.52,64.92 230.15,68.75 230.77,68.75 231.39,67.21 232.02,67.21 232.64,75.38 233.26,75.38 233.89,75.73 234.51,75.73 235.13,79.18 235.76,79.18 236.38,79.81 237.00,79.81 237.63,77.70 238.25,77.70 238.87,80.36 239.50,80.36 240.12,76.85 240.74,76.85 241.36,71.55 241.99,71.55 242.61,72.67 243.23,72.67 243.86,71.93 244.48,71.93 245.10,74.77 245.73,74.77 246.35,72.68 246.97,72.68 247.60,74.14 248.22,74.14 248.84,77.41 249.47,77.41 250.09,72.42 250.71,72.42 251.34,63.73 251.96,63.73 252.58,66.11 253.21,66.11 253.83,67.40 254.45,67.40 255.08,65.70 255.70,65.70 256.32,70.15 256.95,70.15 257.57,66.89 258.19,66.89 258.82,61.43 259.44,61.43 260.06,62.64 260.69,62.64 261.31,64.80 261.93,64.80 262.56,61.66 263.18,61.66 263.80,63.65 264.43,63.65 265.05,59.70 265.67,59.70 266.30,63.00 266.92,63.00 267.54,59.07 268.17,59.07 268.79,59.63 269.41,59.63 270.04,56.76 270.66,56.76 271.28,59.62 271.91,59.62 272.53,63.93 273.15,63.93 273.78,62.71 274.40,62.71 275.02,65.86 275.64,65.86 276.27,62.14 276.89,62.14 277.51,61.11 278.14,61.11 278.76,65.51 279.38,65.51 280.01,67.19 280.63,67.19 281.25,67.68 281.88,67.68 282.50,67.20 283.12,67.20 283.75,67.10 284.37,67.10 284.99,68.94 285.62,68.94 286.24,66.78 286.86,66.78 287.49,66.01 288.11,66.01 288.73,72.26 289.36,72.26 289.98,64.77 290.60,64.77 291.23,67.44 291.85,67.44 292.47,69.19 293.10,69.19 293.72,71.02 294.34,71.02 294.97,69.08 295.59,69.08 296.21,66.09 296.84,66.09 297.46,60.97 298.08,60.97 298.71,62.22 299.33,62.22 299.95,61.47 300.58,61.47 301.20,63.39 301.82,63.39 302.45,59.94 303.07,59.94 303.69,61.74 304.32,61.74 304.94,67.34 305.56,67.34 306.19,62.43 306.81,62.43 307.43,65.72 308.06,65.72 308.68,66.88 309.30,66.88 309.93,72.50 310.55,72.50 311.17,74.20 311.79,74.20 312.42,78.67 313.04,78.67 313.66,78.00 314.29,78.00 314.91,77.05 315.53,77.05 316.16,78.26 316.78,78.26 317.40,77.54 318.03,77.54 318.65,80.61 319.27,80.61 319.90,80.45 320.52,80.45 321.14,83.58 321.77,83.58 322.39,87.39 323.01,87.39 323.64,87.72 324.26,87.72 324.88,91.14 325.51,91.14 326.13,88.37 326.75,88.37 327.38,88.47 328.00,88.47 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,15.71 13.87,15.71 15.74,12.00 17.61,12.00 19.48,19.83 21.35,19.83 23.22,36.94 25.09,36.94 26.96,51.26 28.83,51.26 30.70,46.97 32.57,46.97 34.44,55.87 36.31,55.87 38.18,52.29 40.05,52.29 41.92,71.31 43.79,71.31 45.66,72.11 47.53,72.11 49.40,80.15 51.27,80.15 53.14,81.62 55.01,81.62 56.88,76.70 58.75,76.70 60.62,82.90 62.49,82.90 64.36,74.74 66.22,74.74 68.09,62.38 69.96,62.38 71.83,65.01 73.70,65.01 75.57,63.28 77.44,63.28 79.31,69.89 81.18,69.89 83.05,65.02 84.92,65.02 86.79,68.41 88.66,68.41 90.53,76.02 92.40,76.02 94.27,64.41 96.14,64.41 98.01,44.18 99.88,44.18 101.75,49.72 103.62,49.72 105.49,52.73 107.36,52.73 109.23,48.77 111.10,48.77 112.97,59.14 114.84,59.14 116.71,51.55 118.58,51.55 120.45,38.83 122.32,38.83 124.19,41.65 126.06,41.65 127.93,46.68 129.80,46.68 131.67,39.35 133.54,39.35 135.41,44.00 137.28,44.00 139.15,34.80 141.02,34.80 142.89,42.48 144.76,42.48 146.63,33.33 148.50,33.33 150.37,34.64 152.24,34.64 154.11,27.96 155.98,27.96 157.85,34.62 159.72,34.62 161.59,44.64 163.46,44.64 165.33,41.80 167.20,41.80 169.07,49.15 170.93,49.15 172.80,40.49 174.67,40.49 176.54,38.07 178.41,38.07 180.28,48.32 182.15,48.32 184.02,52.23 185.89,52.23 187.76,53.39 189.63,53.39 191.50,52.26 193.37,52.26 195.24,52.03 197.11,52.03 198.98,56.31 200.85,56.31 202.72,51.29 204.59,51.29 206.46,49.48 208.33,49.48 210.20,64.04 212.07,64.04 213.94,46.62 215.81,46.62 217.68,52.81 219.55,52.81 221.42,56.90 223.29,56.90 225.16,61.17 227.03,61.17 228.90,56.63 230.77,56.63 232.64,49.68 234.51,49.68 236.38,37.75 238.25,37.75 240.12,40.66 241.99,40.66 243.86,38.91 245.73,38.91 247.60,43.39 249.47,43.39 251.34,35.36 253.21,35.36 255.08,39.54 256.95,39.54 258.82,52.59 260.69,52.59 262.56,41.15 264.43,41.15 266.30,48.82 268.17,48.82 270.04,51.53 271.91,51.53 273.78,64.61 275.64,64.61 277.51,68.57 279.38,68.57 281.25,78.96 283.12,78.96 284.99,77.41 286.86,77.41 288.73,75.21 290.60,75.21 292.47,78.01 294.34,78.01 296.21,76.33 298.08,76.33 299.95,83.48 301.82,83.48 303.69,83.11 305.56,83.11 307.43,90.40 309.30,90.40 311.17,99.28 313.04,99.28 314.91,100.04 316.78,100.04 318.65,108.00 320.52,108.00 322.39,101.54 324.26,101.54 326.13,101.79 328.00,101.79" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,15.71 13.87,15.71 15.74,12.00 17.61,12.00 19.48,19.83 21.35,19.83 23.22,36.94 25.09,36.94 26.96,51.26 28.83,51.26 30.70,46.97 32.57,46.97 34.44,55.87 36.31,55.87 38.18,52.29 40.05,52.29 41.92,71.31 43.79,71.31 45.66,72.11 47.53,72.11 49.40,80.15 51.27,80.15 53.14,81.62 55.01,81.62 56.88,76.70 58.75,76.70 60.62,82.90 62.49,82.90 64.36,74.74 66.22,74.74 68.09,62.38 69.96,62.38 71.83,65.01 73.70,65.01 75.57,63.28 77.44,63.28 79.31,69.89 81.18,69.89 83.05,65.02 84.92,65.02 86.79,68.41 88.66,68.41 90.53,76.02 92.40,76.02 94.27,64.41 96.14,64.41 98.01,44.18 99.88,44.18 101.75,49.72 103.62,49.72 105.49,52.73 107.36,52.73 109.23,48.77 111.10,48.77 112.97,59.14 114.84,59.14 116.71,51.55 118.58,51.55 120.45,38.83 122.32,38.83 124.19,41.65 126.06,41.65 127.93,46.68 129.80,46.68 131.67,39.35 133.54,39.35 135.41,44.00 137.28,44.00 139.15,34.80 141.02,34.80 142.89,42.48 144.76,42.48 146.63,33.33 148.50,33.33 150.37,34.64 152.24,34.64 154.11,27.96 155.98,27.96 157.85,34.62 159.72,34.62 161.59,44.64 163.46,44.64 165.33,41.80 167.20,41.80 169.07,49.15 170.93,49.15 172.80,40.49 174.67,40.49 176.54,38.07 178.41,38.07 180.28,48.32 182.15,48.32 184.02,52.23 185.89,52.23 187.76,53.39 189.63,53.39 191.50,52.26 193.37,52.26 195.24,52.03 197.11,52.03 198.98,56.31 200.85,56.31 202.72,51.29 204.59,51.29 206.46,49.48 208.33,49.48 210.20,64.04 212.07,64.04 213.94,46.62 215.81,46.62 217.68,52.81 219.55,52.81 221.42,56.90 223.29,56.90 225.16,61.17 227.03,61.17 228.90,56.63 230.77,56.63 232.64,49.68 234.51,49.68 236.38,37.75 238.25,37.75 240.12,40.66 241.99,40.66 243.86,38.91 245.73,38.91 247.60,43.39 249.47,43.39 251.34,35.36 253.21,35.36 255.08,39.54 256.95,39.54 258.82,52.59 260.69,52.59 262.56,41.15 264.43,41.15 266.30,48.82 268.17,48.82 270.04,51.53 271.91,51.53 273.78,64.61 275.64,64.61 277.51,68.57 279.38,68.57 281.25,78.96 283.12,78.96 284.99,77.41 286.86,77.41 288.73,75.21 290.60,75.21 292.47,78.01 294.34,78.01 296.21,76.33 298.08,76.33 299.95,83.48 301.82,83.48 303.69,83.11 305.56,83.11 307.43,90.40 309.30,90.40 311.17,99.28 313.04,99.28 314.91,100.04 316.78,100.04 318.65,108.00 320.52,108.00 322.39,101.54 324.26,101.54 326.13,101.79 328.00,101.79 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
 </figure>
 
 ### Latest news (0-3 days)
@@ -294,23 +426,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.
+0.1. **Long Entry?:** maybe — the stock trades in the middle of its 1-year and 5-year ranges and is near 3-month near-bottom levels with price just above key support at 795 and below its 20-day average around 832; macro context shows software under pressure but broader markets resilient, suggesting some AI/froth concerns but not an obvious bubble locally.
 
 ## 1. The Biz
 
-1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT operations, then into workflows for customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflow apps.
+1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate enterprise business processes via a SaaS delivery model. It began in IT service management and expanded across the IT function, then applied its workflow automation platform to areas like customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflows.
 
-1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive net income sum of about $1.73 billion over recent periods and a profit margin of 13.7%, alongside positive revenue and earnings growth.
+1.2. **Profitable?:** yes — the company is profitable, with a positive profit margin of about 13% and cumulative net income of roughly $1.75 billion over the last four reported periods, supported by strong free cash flow.
 
-1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, focusing on the IT function but also HR, customer service, and security teams. Its core market is the United States, with products aimed at large organizations adopting SaaS-based workflow and application platforms.
+1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers that need to manage and automate complex IT and business workflows. Its markets span IT service management, customer service, HR, and security operations, delivered globally via SaaS from its base in the United States.
 
-1.4. **Competition:** ServiceNow's primary competitors include large application software and cloud platforms such as Salesforce (CRM), Alphabet/Google (GOOGL), Meta (META), Intuit (INTU), Atlassian (TEAM), Autodesk (ADSK), HubSpot (HUBS), and Dynatrace (DT); it is positioned among the leading enterprise workflow and IT service management platforms within this group, though exact rank is not specified.
+1.4. **Competition:** Key competitors include large application and enterprise software vendors such as Salesforce (CRM), Microsoft (MSFT), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Meta (META), Google (GOOGL), and Nvidia (NVDA); ServiceNow competes within this group in workflow automation and enterprise SaaS but no specific rank is provided.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the stated 7d Trend is 'up' and the current price of about 812.93 is nearer recent resistance (831.69) than support (795.00).
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from near support at 795 toward resistance around 831.69.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around 795.00 were favorable buy zones, while moves into the 7-day resistance area near 831.69 or the recent local high of 835.00 offered better sell or trim levels.
+2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy zone around support at 795 appears to have been a favorable entry area, while the 7-day and local high/resistance near 831–835 offered good short-term selling or trimming levels.
 
 2.3.1. **7d Volume:** low
 
@@ -318,13 +450,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operation, operating in the Technology sector with a mature SaaS business model. It has generated consistent positive net income across recent periods totaling about $1.73 billion and maintains healthy free cash flow of roughly $3.9 billion and operating cash flow of about $4.8 billion. Its profit margin of 13.7% and solid revenue and earnings growth suggest a resilient business. The 5-year price history shows the stock well above its 5-year low of $341.76, indicating long-term value creation rather than a speculative spike.
+3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in enterprise software, with a sizable free cash flow of about $4.95 billion and strong operating cash flow over $5.4 billion. It generates consistent positive net income across the last four periods and maintains a healthy profit margin near 13%, indicating a solid underlying business. The company operates in mission-critical IT and business workflows for large enterprises, which tends to provide recurring, subscription-based revenue stability. Its position in the middle of 1-year and 5-year trading ranges suggests it is not an early-stage, highly speculative name, though detailed balance sheet metrics are not provided.
 
-3.2. **Innovating?:** ServiceNow is innovating and growing, as evidenced by strong revenue growth of 21.8% and earnings growth of 16.2% coupled with expansion of its workflow automation beyond IT into customer service, HR, security operations, and an app development platform.
+3.2. **Innovating?:** ServiceNow is innovating and growing, as shown by its expansion from IT service management into broader workflow automation for customer service, HR, and security operations, along with providing an application development platform. Revenue growth of about 21% and earnings growth of roughly 4% further indicate ongoing business expansion rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent macro news notes the S&P 500 holding near record highs on strong 4.3% U.S. GDP growth, with markets rotating somewhat away from mega-cap tech toward other sectors. This context can temper enthusiasm for high-multiple software names like ServiceNow even as earnings remain supported by solid consumer and corporate spending. Given quick facts showing 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the setup suggests that positive macro or sector headlines may already be priced in and can trigger profit-taking. For NOW, with the stock in an uptrend but in the middle of its 1-year and 5-year ranges, traders may prefer to buy dips toward support rather than chase post-news strength, consistent with the 'buy the dip' cue.
+4.1. **News:** Recent context highlights sector-level headwinds for software and SaaS, with articles noting a renewed software slump and AI-related concerns weighing on SaaS valuations after the 'DeepSeek moment.' At the same time, broader markets are strong, with the Dow crossing 50,000 and energy and materials leading, which may leave high-multiple software names like ServiceNow more vulnerable to rotations. There is no company-specific rumor flow for ServiceNow in the provided headlines, so any 'buy the rumor, sell the news' dynamic would be more macro- and sector-driven than stock-specific. Given quick facts flag 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', recent strength into broader tech or macro news could be prone to profit-taking rather than sustained post-news rallies.
 
 4.2. **Tarrifs:** unknown
 
@@ -334,7 +466,7 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$1.73B</td></tr>
+<tr><td>Last Q4</td><td>$1.75B</td></tr>
 <tr><td>Price</td><td>812.93</td></tr>
 <tr><td>7d Resistance</td><td>831.69</td></tr>
 <tr><td>7d Support</td><td>795.00</td></tr>
@@ -355,10 +487,9 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>GNews: core business, profitability, market segments, market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, tariff</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -403,68 +534,199 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NOW&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 4 headline(s) from banned sources.
+Filtered 2 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   google_custom_search search -&gt; NOW product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+NewsAPI search failed for &#x27;NOW business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+earnings+trend&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+NewsAPI search failed for &#x27;NOW profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 3 result(s)
   newsapi search -&gt; NOW market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   google_custom_search search -&gt; NOW competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   newsapi search -&gt; NOW competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
   newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 2 result(s)
   newsapi search -&gt; NOW tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 5 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -483,6 +745,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit in the 1-year and 5-year middle with 3-month positioning near-bottom, suggesting no clear bubble froth, while the price is just above key support at 795 and slightly below the 20-day moving average and 7-day resistance around 831; macro data only notes the S&amp;P 500 near records and rotation away from mega-cap tech, so froth visibility for NOW specifically is limited.&quot;,&quot;1.1&quot;:&quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It started with IT service management and expanded across IT oper
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades in the middle of its 1-year and 5-year ranges and is near 3-month near-bottom levels with price just above key support at 795 and below its 20-day average around 832; macro context shows software under pressure but broader markets resilient, suggesting some AI/froth concerns but not an obvious bubble locally.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate enterprise business processes via a SaaS delivery model. It began in IT service management and expanded across the IT function, then applied its workflow automa
 </code></pre>
 </details>
