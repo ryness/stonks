@@ -6,7 +6,10 @@
     <title>{{ page.title | default: site.name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
   </head>
-  <body data-workflow-url="https://github.com/{{ site.repository | default: 'ryness/stonks' }}/actions/workflows/gostonks.yml">
+  <body
+    data-workflow-url="https://github.com/{{ site.repository | default: 'ryness/stonks' }}/actions/workflows/gostonks.yml"
+    data-delete-workflow-url="https://github.com/{{ site.repository | default: 'ryness/stonks' }}/actions/workflows/delete-report.yml"
+  >
     <header></header>
     <main>
       {{ content }}

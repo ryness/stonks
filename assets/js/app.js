@@ -1,6 +1,7 @@
 const state = {
   reports: [],
   workflowUrl: document.body.dataset.workflowUrl,
+  deleteWorkflowUrl: document.body.dataset.deleteWorkflowUrl,
   activeIndex: null,
   linkElements: [],
   sortOrder: 'alpha-asc',
@@ -10,6 +11,7 @@ const elements = {
   links: document.querySelector('#reportLinks'),
   refresh: document.querySelector('#refreshLink'),
   rerun: document.querySelector('#rerunLink'),
+  delete: document.querySelector('#deleteLink'),
   content: document.querySelector('#reportContent'),
   status: document.querySelector('#statusMessage'),
 };
@@ -319,29 +321,27 @@ async function loadReports({ bustCache = false } = {}) {
   }
 }
 
-function configureWorkflowLink() {
-  const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
-  if (!elements.rerun) {
+function setWorkflowLinkState(linkElement, url) {
+  if (!linkElement) {
     return;
   }
   if (url) {
-    elements.rerun.href = url;
-    elements.rerun.removeAttribute('aria-disabled');
-    delete elements.rerun.dataset.disabled;
-    elements.rerun.removeAttribute('tabindex');
+    linkElement.href = url;
+    linkElement.removeAttribute('aria-disabled');
+    delete linkElement.dataset.disabled;
+    linkElement.removeAttribute('tabindex');
   } else {
-    elements.rerun.href = '#';
-    elements.rerun.setAttribute('aria-disabled', 'true');
-    elements.rerun.dataset.disabled = 'true';
-    elements.rerun.setAttribute('tabindex', '-1');
+    linkElement.href = '#';
+    linkElement.setAttribute('aria-disabled', 'true');
+    linkElement.dataset.disabled = 'true';
+    linkElement.setAttribute('tabindex', '-1');
   }
 }
 
-elements.rerun?.addEventListener('click', (event) => {
-  const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
+function openWorkflowLink(event, url, missingMessage) {
   if (!url) {
     event.preventDefault();
-    alert('Workflow URL is not configured. Update _config.yml with your repository name.');
+    alert(missingMessage);
     return;
   }
   if (event.defaultPrevented) {
@@ -352,6 +352,37 @@ elements.rerun?.addEventListener('click', (event) => {
   }
   event.preventDefault();
   window.open(url, '_blank', 'noopener');
+}
+
+function configureWorkflowLinks() {
+  const rerunUrl = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
+  const deleteUrl =
+    state.deleteWorkflowUrl && state.deleteWorkflowUrl.startsWith('http')
+      ? state.deleteWorkflowUrl
+      : null;
+  setWorkflowLinkState(elements.rerun, rerunUrl);
+  setWorkflowLinkState(elements.delete, deleteUrl);
+}
+
+elements.rerun?.addEventListener('click', (event) => {
+  const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
+  openWorkflowLink(
+    event,
+    url,
+    'Workflow URL is not configured. Update _config.yml with your repository name.'
+  );
+});
+
+elements.delete?.addEventListener('click', (event) => {
+  const url =
+    state.deleteWorkflowUrl && state.deleteWorkflowUrl.startsWith('http')
+      ? state.deleteWorkflowUrl
+      : null;
+  openWorkflowLink(
+    event,
+    url,
+    'Delete workflow URL is not configured. Update _config.yml with your repository name.'
+  );
 });
 
 elements.refresh?.addEventListener('click', (event) => {
@@ -401,6 +432,6 @@ sortLinks.forEach((link) => {
   });
 });
 
-configureWorkflowLink();
+configureWorkflowLinks();
 initializeSortOrder();
 loadReports();

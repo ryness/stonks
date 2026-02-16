@@ -1,6 +1,6 @@
 # Stonks Reports
 
-Static site that renders AI-generated stock reports via Jekyll. The “new” and “rerun” links on the Pages site just open the `gostonks` GitHub Actions workflow with prefilled inputs.
+Static site that renders AI-generated stock reports via Jekyll. The “new” and “rerun” links on the Pages site open the `gostonks` GitHub Actions workflow with prefilled inputs, and the `delete` link opens a workflow that removes a ticker report.
 
 ## Prerequisites
 
@@ -20,6 +20,8 @@ The workflow depends on several API keys. Add these repository secrets so the wo
 - `MASSIVE_API_KEY` – optional override for the default Massive search key.
 
 With the secrets in place, the new/rerun links on GitHub Pages will open a prefilled workflow page; click **Run workflow** to kick off `gostonks.yml`. The workflow installs dependencies, runs `src/gostonks.py <TICKER>`, and commits the updated `_reports/` Markdown (plus the SQLite database) back to the default branch.
+
+The `delete` link opens `delete-report.yml`, where you provide a ticker symbol and run the workflow manually. It executes `src/delete_report.py <TICKER>` and commits removals from `_reports/`, matching logo files under `assets/logos/`, and any matching ticker rows in `data/stonks.db`.
 
 ### GitHub Pages deployment
 
