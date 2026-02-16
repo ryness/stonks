@@ -154,6 +154,23 @@ label {
   word-break: inherit;
 }
 
+main pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+main pre code {
+  white-space: inherit;
+  overflow-wrap: inherit;
+  word-break: inherit;
+}
+
+main code {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 .cli-log {
   margin-top: 1.5rem;
   font-size: 0.8rem;
