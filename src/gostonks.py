@@ -1876,6 +1876,46 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
     if low_5y is None and low_1y is None:
         return placeholder()
 
+    def render_mini(key: str, title: str) -> Optional[str]:
+        series = _extract_close_series(histories, key)
+        if series is None or series.empty:
+            return None
+        width, height = 340.0, 120.0
+        padding = 12.0
+        usable_width = width - 2 * padding
+        usable_height = height - 2 * padding
+        closes = [float(v) for v in series.tolist()]
+        price_min, price_max = min(closes), max(closes)
+        if math.isclose(price_min, price_max):
+            price_min -= 1.0
+            price_max += 1.0
+
+        def y_for(price: float) -> float:
+            scale = (price - price_min) / (price_max - price_min)
+            return height - padding - scale * usable_height
+
+        positions_x: List[float] = []
+        path_points: List[str] = []
+        span = max(len(closes) - 1, 1)
+        for idx, price in enumerate(closes):
+            x = padding + usable_width * (idx / span)
+            positions_x.append(x)
+            path_points.append(f"{x:.2f},{y_for(price):.2f}")
+
+        svg_parts = [
+            f'<div class="mini-chart" style="flex:1; min-width:280px;">',
+            f'<div style="font-size:12px; color:#4a5568; margin-bottom:4px;">{html.escape(title)}</div>',
+            f'<svg viewBox="0 0 {width:.0f} {height:.0f}" preserveAspectRatio="none">',
+            f'<polyline points="{" ".join(path_points)}" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" />',
+            f'<polygon points="{" ".join(path_points)} {positions_x[-1]:.2f},{height - padding:.2f} {positions_x[0]:.2f},{height - padding:.2f}" '
+            'fill="#e8f1ff" opacity="0.35" />',
+            f'<line x1="{positions_x[0]:.2f}" y1="{height - padding + 2:.2f}" x2="{positions_x[-1]:.2f}" y2="{height - padding + 2:.2f}" '
+            'stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" />',
+            "</svg>",
+            "</div>",
+        ]
+        return "".join(svg_parts)
+
     width, height = 720.0, 260.0
     padding = 18.0
     usable_width = width - 2 * padding
@@ -2020,6 +2060,19 @@ def build_low_lines_chart(histories: Mapping[str, pd.DataFrame]) -> Optional[str
         labels.append(f"5y low ${low_5y_val:,.2f}")
     if labels:
         svg_lines.append(f"<figcaption>{' · '.join(labels)}</figcaption>")
+    mini_charts: List[str] = []
+    mini_1y = render_mini("1y", "1-year view")
+    mini_3mo = render_mini("3mo", "3-month view")
+    if mini_1y:
+        mini_charts.append(mini_1y)
+    if mini_3mo:
+        mini_charts.append(mini_3mo)
+    if mini_charts:
+        svg_lines.append(
+            '<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">'
+            + "".join(mini_charts)
+            + "</div>"
+        )
     svg_lines.append("</figure>")
     return "\n".join(svg_lines)
 
