@@ -327,31 +327,26 @@ function setWorkflowLinkState(linkElement, url) {
   }
   if (url) {
     linkElement.href = url;
+    linkElement.target = '_blank';
+    linkElement.rel = 'noopener';
     linkElement.removeAttribute('aria-disabled');
     delete linkElement.dataset.disabled;
     linkElement.removeAttribute('tabindex');
   } else {
     linkElement.href = '#';
+    linkElement.removeAttribute('target');
+    linkElement.removeAttribute('rel');
     linkElement.setAttribute('aria-disabled', 'true');
     linkElement.dataset.disabled = 'true';
     linkElement.setAttribute('tabindex', '-1');
   }
 }
 
-function openWorkflowLink(event, url, missingMessage) {
+function guardMissingWorkflowLink(event, url, missingMessage) {
   if (!url) {
     event.preventDefault();
     alert(missingMessage);
-    return;
   }
-  if (event.defaultPrevented) {
-    return;
-  }
-  if (event.button === 1 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
-    return;
-  }
-  event.preventDefault();
-  window.open(url, '_blank', 'noopener');
 }
 
 function configureWorkflowLinks() {
@@ -366,7 +361,7 @@ function configureWorkflowLinks() {
 
 elements.rerun?.addEventListener('click', (event) => {
   const url = state.workflowUrl && state.workflowUrl.startsWith('http') ? state.workflowUrl : null;
-  openWorkflowLink(
+  guardMissingWorkflowLink(
     event,
     url,
     'Workflow URL is not configured. Update _config.yml with your repository name.'
@@ -378,7 +373,7 @@ elements.delete?.addEventListener('click', (event) => {
     state.deleteWorkflowUrl && state.deleteWorkflowUrl.startsWith('http')
       ? state.deleteWorkflowUrl
       : null;
-  openWorkflowLink(
+  guardMissingWorkflowLink(
     event,
     url,
     'Delete workflow URL is not configured. Update _config.yml with your repository name.'
