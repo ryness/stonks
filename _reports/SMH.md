@@ -2,11 +2,11 @@
 layout: default
 title: "SMH Stock Report"
 ticker: "SMH"
-date: 2026-02-16
-generated_at: 2026-02-16T08:39:19.716861+00:00
-runtime_seconds: 26.66
+date: 2026-02-20
+generated_at: 2026-02-20T20:32:13.145144+00:00
+runtime_seconds: 38.32
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-16T08:39:19.716861+00:00">2026-02-16 08:39 UTC</time> (runtime 26.66s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-20T20:32:13.145144+00:00">2026-02-20 20:32 UTC</time> (runtime 38.32s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -60,7 +60,7 @@ raw_markdown: |
   <circle cx="585.37" cy="178.15" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $179.39 · 5y low $84.45</figcaption>
-  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,78.81 13.26,77.35 14.53,76.90 15.79,76.71 17.06,79.85 18.32,82.49 19.58,84.57 20.85,82.33 22.11,88.37 23.38,86.77 24.64,90.69 25.90,89.80 27.17,88.13 28.43,91.99 29.70,89.86 30.96,94.10 32.22,94.23 33.49,91.70 34.75,92.09 36.02,89.26 37.28,88.30 38.54,89.73 39.81,88.93 41.07,89.07 42.34,89.99 43.60,87.63 44.86,88.03 46.13,91.10 47.39,92.81 48.66,95.05 49.92,95.33 51.18,94.92 52.45,94.28 53.71,101.72 54.98,107.66 56.24,106.01 57.50,108.00 58.77,95.59 60.03,101.47 61.30,99.42 62.56,99.29 63.82,98.77 65.09,102.21 66.35,102.94 67.62,104.83 68.88,103.20 70.14,100.38 71.41,96.34 72.67,95.13 73.94,95.66 75.20,95.81 76.46,95.41 77.73,95.00 78.99,92.29 80.26,92.86 81.52,93.68 82.78,91.90 84.05,91.12 85.31,90.54 86.58,84.91 87.84,81.63 89.10,80.66 90.37,81.00 91.63,81.29 92.90,81.45 94.16,81.64 95.42,83.28 96.69,83.54 97.95,84.90 99.22,81.87 100.48,82.92 101.74,82.23 103.01,83.97 104.27,82.54 105.54,80.33 106.80,79.14 108.06,79.32 109.33,78.75 110.59,77.05 111.86,75.00 113.12,75.07 114.38,74.56 115.65,77.04 116.91,74.47 118.18,75.19 119.44,74.79 120.70,75.72 121.97,75.06 123.23,71.19 124.50,69.72 125.76,68.92 127.02,68.43 128.29,68.24 129.55,69.46 130.82,67.29 132.08,66.34 133.34,67.89 134.61,66.39 135.87,65.61 137.14,64.77 138.40,64.78 139.66,65.65 140.93,63.45 142.19,64.06 143.46,63.08 144.72,63.65 145.98,63.57 147.25,65.63 148.51,65.13 149.78,64.66 151.04,64.78 152.30,63.20 153.57,62.61 154.83,61.26 156.10,64.26 157.36,66.20 158.62,63.70 159.89,64.94 161.15,65.13 162.42,63.32 163.68,62.35 164.94,62.41 166.21,59.71 167.47,59.24 168.74,58.98 170.00,61.50 171.26,61.01 172.53,63.42 173.79,64.19 175.06,64.79 176.32,62.31 177.58,62.20 178.85,61.06 180.11,60.69 181.38,60.20 182.64,63.66 183.90,65.19 185.17,65.21 186.43,63.83 187.70,62.45 188.96,61.15 190.22,60.63 191.49,59.42 192.75,58.17 194.02,58.02 195.28,56.87 196.54,56.86 197.81,57.64 199.07,52.93 200.34,53.44 201.60,50.84 202.86,51.03 204.13,51.27 205.39,51.29 206.66,50.98 207.92,50.65 209.18,49.16 210.45,46.21 211.71,44.38 212.98,45.01 214.24,42.32 215.50,44.86 216.77,41.24 218.03,41.58 219.30,49.57 220.56,43.78 221.82,46.29 223.09,42.96 224.35,42.35 225.62,42.54 226.88,40.78 228.14,41.55 229.41,44.24 230.67,41.75 231.94,39.20 233.20,35.66 234.46,34.39 235.73,32.18 236.99,34.14 238.26,34.43 239.52,33.19 240.78,38.55 242.05,35.84 243.31,39.22 244.58,40.41 245.84,36.13 247.10,39.24 248.37,37.44 249.63,41.74 250.90,41.68 252.16,43.56 253.42,46.37 254.69,43.90 255.95,49.67 257.22,49.25 258.48,44.03 259.74,43.67 261.01,40.58 262.27,38.74 263.54,38.47 264.80,35.87 266.06,33.88 267.33,35.00 268.59,33.86 269.86,32.20 271.12,32.02 272.38,29.97 273.65,31.26 274.91,38.00 276.18,38.49 277.44,38.88 278.70,43.98 279.97,40.76 281.23,37.15 282.50,35.31 283.76,33.91 285.02,33.51 286.29,32.83 287.55,33.49 288.82,33.85 290.08,35.14 291.34,29.83 292.61,28.10 293.87,24.05 295.14,25.10 296.40,27.54 297.66,23.41 298.93,22.83 300.19,22.48 301.46,23.76 302.72,20.51 303.98,18.91 305.25,22.94 306.51,18.29 307.78,17.93 309.04,19.03 310.30,19.54 311.57,16.14 312.83,12.36 314.10,12.00 315.36,17.67 316.62,15.85 317.89,20.00 319.15,26.31 320.42,26.69 321.68,18.40 322.94,16.38 324.21,17.14 325.47,13.10 326.74,16.60 328.00,15.95" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,78.81 13.26,77.35 14.53,76.90 15.79,76.71 17.06,79.85 18.32,82.49 19.58,84.57 20.85,82.33 22.11,88.37 23.38,86.77 24.64,90.69 25.90,89.80 27.17,88.13 28.43,91.99 29.70,89.86 30.96,94.10 32.22,94.23 33.49,91.70 34.75,92.09 36.02,89.26 37.28,88.30 38.54,89.73 39.81,88.93 41.07,89.07 42.34,89.99 43.60,87.63 44.86,88.03 46.13,91.10 47.39,92.81 48.66,95.05 49.92,95.33 51.18,94.92 52.45,94.28 53.71,101.72 54.98,107.66 56.24,106.01 57.50,108.00 58.77,95.59 60.03,101.47 61.30,99.42 62.56,99.29 63.82,98.77 65.09,102.21 66.35,102.94 67.62,104.83 68.88,103.20 70.14,100.38 71.41,96.34 72.67,95.13 73.94,95.66 75.20,95.81 76.46,95.41 77.73,95.00 78.99,92.29 80.26,92.86 81.52,93.68 82.78,91.90 84.05,91.12 85.31,90.54 86.58,84.91 87.84,81.63 89.10,80.66 90.37,81.00 91.63,81.29 92.90,81.45 94.16,81.64 95.42,83.28 96.69,83.54 97.95,84.90 99.22,81.87 100.48,82.92 101.74,82.23 103.01,83.97 104.27,82.54 105.54,80.33 106.80,79.14 108.06,79.32 109.33,78.75 110.59,77.05 111.86,75.00 113.12,75.07 114.38,74.56 115.65,77.04 116.91,74.47 118.18,75.19 119.44,74.79 120.70,75.72 121.97,75.06 123.23,71.19 124.50,69.72 125.76,68.92 127.02,68.43 128.29,68.24 129.55,69.46 130.82,67.29 132.08,66.34 133.34,67.89 134.61,66.39 135.87,65.61 137.14,64.77 138.40,64.78 139.66,65.65 140.93,63.45 142.19,64.06 143.46,63.08 144.72,63.65 145.98,63.57 147.25,65.63 148.51,65.13 149.78,64.66 151.04,64.78 152.30,63.20 153.57,62.61 154.83,61.26 156.10,64.26 157.36,66.20 158.62,63.70 159.89,64.94 161.15,65.13 162.42,63.32 163.68,62.35 164.94,62.41 166.21,59.71 167.47,59.24 168.74,58.98 170.00,61.50 171.26,61.01 172.53,63.42 173.79,64.19 175.06,64.79 176.32,62.31 177.58,62.20 178.85,61.06 180.11,60.69 181.38,60.20 182.64,63.66 183.90,65.19 185.17,65.21 186.43,63.83 187.70,62.45 188.96,61.15 190.22,60.63 191.49,59.42 192.75,58.17 194.02,58.02 195.28,56.87 196.54,56.86 197.81,57.64 199.07,52.93 200.34,53.44 201.60,50.84 202.86,51.03 204.13,51.27 205.39,51.29 206.66,50.98 207.92,50.65 209.18,49.16 210.45,46.21 211.71,44.38 212.98,45.01 214.24,42.32 215.50,44.86 216.77,41.24 218.03,41.58 219.30,49.57 220.56,43.78 221.82,46.29 223.09,42.96 224.35,42.35 225.62,42.54 226.88,40.78 228.14,41.55 229.41,44.24 230.67,41.75 231.94,39.20 233.20,35.66 234.46,34.39 235.73,32.18 236.99,34.14 238.26,34.43 239.52,33.19 240.78,38.55 242.05,35.84 243.31,39.22 244.58,40.41 245.84,36.13 247.10,39.24 248.37,37.44 249.63,41.74 250.90,41.68 252.16,43.56 253.42,46.37 254.69,43.90 255.95,49.67 257.22,49.25 258.48,44.03 259.74,43.67 261.01,40.58 262.27,38.74 263.54,38.47 264.80,35.87 266.06,33.88 267.33,35.00 268.59,33.86 269.86,32.20 271.12,32.02 272.38,29.97 273.65,31.26 274.91,38.00 276.18,38.49 277.44,38.88 278.70,43.98 279.97,40.76 281.23,37.15 282.50,35.31 283.76,33.91 285.02,33.51 286.29,32.83 287.55,33.49 288.82,33.85 290.08,35.14 291.34,29.83 292.61,28.10 293.87,24.05 295.14,25.10 296.40,27.54 297.66,23.41 298.93,22.83 300.19,22.48 301.46,23.76 302.72,20.51 303.98,18.91 305.25,22.94 306.51,18.29 307.78,17.93 309.04,19.03 310.30,19.54 311.57,16.14 312.83,12.36 314.10,12.00 315.36,17.67 316.62,15.85 317.89,20.00 319.15,26.31 320.42,26.69 321.68,18.40 322.94,16.38 324.21,17.14 325.47,13.10 326.74,16.60 328.00,15.95 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,87.64 17.18,92.43 22.36,99.61 27.54,93.31 32.72,108.00 37.90,106.94 43.08,93.64 48.26,92.73 53.44,84.84 58.62,80.16 63.80,79.46 68.98,72.83 74.16,67.77 79.34,70.61 84.52,67.72 89.70,63.49 94.89,63.03 100.07,57.81 105.25,61.10 110.43,78.27 115.61,79.52 120.79,80.51 125.97,93.52 131.15,85.31 136.33,76.11 141.51,71.41 146.69,67.86 151.87,66.82 157.05,65.08 162.23,66.78 167.41,67.70 172.59,70.97 177.77,57.44 182.95,53.03 188.13,42.72 193.31,45.39 198.49,51.60 203.67,41.08 208.85,39.60 214.03,38.71 219.21,41.97 224.39,33.69 229.57,29.60 234.75,39.88 239.93,28.02 245.11,27.10 250.30,29.91 255.48,31.21 260.66,22.55 265.84,12.91 271.02,12.00 276.20,26.45 281.38,21.81 286.56,32.39 291.74,48.48 296.92,49.45 302.10,28.31 307.28,23.17 312.46,25.11 317.64,14.82 322.82,23.72 328.00,22.07" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,87.64 17.18,92.43 22.36,99.61 27.54,93.31 32.72,108.00 37.90,106.94 43.08,93.64 48.26,92.73 53.44,84.84 58.62,80.16 63.80,79.46 68.98,72.83 74.16,67.77 79.34,70.61 84.52,67.72 89.70,63.49 94.89,63.03 100.07,57.81 105.25,61.10 110.43,78.27 115.61,79.52 120.79,80.51 125.97,93.52 131.15,85.31 136.33,76.11 141.51,71.41 146.69,67.86 151.87,66.82 157.05,65.08 162.23,66.78 167.41,67.70 172.59,70.97 177.77,57.44 182.95,53.03 188.13,42.72 193.31,45.39 198.49,51.60 203.67,41.08 208.85,39.60 214.03,38.71 219.21,41.97 224.39,33.69 229.57,29.60 234.75,39.88 239.93,28.02 245.11,27.10 250.30,29.91 255.48,31.21 260.66,22.55 265.84,12.91 271.02,12.00 276.20,26.45 281.38,21.81 286.56,32.39 291.74,48.48 296.92,49.45 302.10,28.31 307.28,23.17 312.46,25.11 317.64,14.82 322.82,23.72 328.00,22.07 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,80.00 13.24,79.90 14.49,80.45 15.73,79.08 16.98,78.81 18.22,77.35 19.46,76.90 20.71,76.71 21.95,79.85 23.20,82.49 24.44,84.57 25.69,82.33 26.93,88.37 28.17,86.77 29.42,90.69 30.66,89.80 31.91,88.13 33.15,91.99 34.39,89.86 35.64,94.10 36.88,94.23 38.13,91.70 39.37,92.09 40.61,89.26 41.86,88.30 43.10,89.73 44.35,88.93 45.59,89.07 46.83,89.99 48.08,87.63 49.32,88.03 50.57,91.10 51.81,92.81 53.06,95.05 54.30,95.33 55.54,94.92 56.79,94.28 58.03,101.72 59.28,107.66 60.52,106.01 61.76,108.00 63.01,95.59 64.25,101.47 65.50,99.42 66.74,99.29 67.98,98.77 69.23,102.21 70.47,102.94 71.72,104.83 72.96,103.20 74.20,100.38 75.45,96.34 76.69,95.13 77.94,95.66 79.18,95.81 80.43,95.41 81.67,95.00 82.91,92.29 84.16,92.86 85.40,93.68 86.65,91.90 87.89,91.12 89.13,90.54 90.38,84.91 91.62,81.63 92.87,80.66 94.11,81.00 95.35,81.29 96.60,81.45 97.84,81.64 99.09,83.28 100.33,83.54 101.57,84.90 102.82,81.87 104.06,82.92 105.31,82.23 106.55,83.97 107.80,82.54 109.04,80.33 110.28,79.14 111.53,79.32 112.77,78.75 114.02,77.05 115.26,75.00 116.50,75.07 117.75,74.56 118.99,77.04 120.24,74.47 121.48,75.19 122.72,74.79 123.97,75.72 125.21,75.06 126.46,71.19 127.70,69.72 128.94,68.92 130.19,68.43 131.43,68.24 132.68,69.46 133.92,67.29 135.17,66.34 136.41,67.89 137.65,66.39 138.90,65.61 140.14,64.77 141.39,64.78 142.63,65.65 143.87,63.45 145.12,64.06 146.36,63.08 147.61,63.65 148.85,63.57 150.09,65.63 151.34,65.13 152.58,64.66 153.83,64.78 155.07,63.20 156.31,62.61 157.56,61.26 158.80,64.26 160.05,66.20 161.29,63.70 162.54,64.94 163.78,65.13 165.02,63.32 166.27,62.35 167.51,62.41 168.76,59.71 170.00,59.24 171.24,58.98 172.49,61.50 173.73,61.01 174.98,63.42 176.22,64.19 177.46,64.79 178.71,62.31 179.95,62.20 181.20,61.06 182.44,60.69 183.69,60.20 184.93,63.66 186.17,65.19 187.42,65.21 188.66,63.83 189.91,62.45 191.15,61.15 192.39,60.63 193.64,59.42 194.88,58.17 196.13,58.02 197.37,56.87 198.61,56.86 199.86,57.64 201.10,52.93 202.35,53.44 203.59,50.84 204.83,51.03 206.08,51.27 207.32,51.29 208.57,50.98 209.81,50.65 211.06,49.16 212.30,46.21 213.54,44.38 214.79,45.01 216.03,42.32 217.28,44.86 218.52,41.24 219.76,41.58 221.01,49.57 222.25,43.78 223.50,46.29 224.74,42.96 225.98,42.35 227.23,42.54 228.47,40.78 229.72,41.55 230.96,44.24 232.20,41.75 233.45,39.20 234.69,35.66 235.94,34.39 237.18,32.18 238.43,34.14 239.67,34.43 240.91,33.19 242.16,38.55 243.40,35.84 244.65,39.22 245.89,40.41 247.13,36.13 248.38,39.24 249.62,37.44 250.87,41.74 252.11,41.68 253.35,43.56 254.60,46.37 255.84,43.90 257.09,49.67 258.33,49.25 259.57,44.03 260.82,43.67 262.06,40.58 263.31,38.74 264.55,38.47 265.80,35.87 267.04,33.88 268.28,35.00 269.53,33.86 270.77,32.20 272.02,32.02 273.26,29.97 274.50,31.26 275.75,38.00 276.99,38.49 278.24,38.88 279.48,43.98 280.72,40.76 281.97,37.15 283.21,35.31 284.46,33.91 285.70,33.51 286.94,32.83 288.19,33.49 289.43,33.85 290.68,35.14 291.92,29.83 293.17,28.10 294.41,24.05 295.65,25.10 296.90,27.54 298.14,23.41 299.39,22.83 300.63,22.48 301.87,23.76 303.12,20.51 304.36,18.91 305.61,22.94 306.85,18.29 308.09,17.93 309.34,19.03 310.58,19.54 311.83,16.14 313.07,12.36 314.31,12.00 315.56,17.67 316.80,15.85 318.05,20.00 319.29,26.31 320.54,26.69 321.78,18.40 323.02,16.38 324.27,17.14 325.51,13.10 326.76,16.60 328.00,15.95" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,80.00 13.24,79.90 14.49,80.45 15.73,79.08 16.98,78.81 18.22,77.35 19.46,76.90 20.71,76.71 21.95,79.85 23.20,82.49 24.44,84.57 25.69,82.33 26.93,88.37 28.17,86.77 29.42,90.69 30.66,89.80 31.91,88.13 33.15,91.99 34.39,89.86 35.64,94.10 36.88,94.23 38.13,91.70 39.37,92.09 40.61,89.26 41.86,88.30 43.10,89.73 44.35,88.93 45.59,89.07 46.83,89.99 48.08,87.63 49.32,88.03 50.57,91.10 51.81,92.81 53.06,95.05 54.30,95.33 55.54,94.92 56.79,94.28 58.03,101.72 59.28,107.66 60.52,106.01 61.76,108.00 63.01,95.59 64.25,101.47 65.50,99.42 66.74,99.29 67.98,98.77 69.23,102.21 70.47,102.94 71.72,104.83 72.96,103.20 74.20,100.38 75.45,96.34 76.69,95.13 77.94,95.66 79.18,95.81 80.43,95.41 81.67,95.00 82.91,92.29 84.16,92.86 85.40,93.68 86.65,91.90 87.89,91.12 89.13,90.54 90.38,84.91 91.62,81.63 92.87,80.66 94.11,81.00 95.35,81.29 96.60,81.45 97.84,81.64 99.09,83.28 100.33,83.54 101.57,84.90 102.82,81.87 104.06,82.92 105.31,82.23 106.55,83.97 107.80,82.54 109.04,80.33 110.28,79.14 111.53,79.32 112.77,78.75 114.02,77.05 115.26,75.00 116.50,75.07 117.75,74.56 118.99,77.04 120.24,74.47 121.48,75.19 122.72,74.79 123.97,75.72 125.21,75.06 126.46,71.19 127.70,69.72 128.94,68.92 130.19,68.43 131.43,68.24 132.68,69.46 133.92,67.29 135.17,66.34 136.41,67.89 137.65,66.39 138.90,65.61 140.14,64.77 141.39,64.78 142.63,65.65 143.87,63.45 145.12,64.06 146.36,63.08 147.61,63.65 148.85,63.57 150.09,65.63 151.34,65.13 152.58,64.66 153.83,64.78 155.07,63.20 156.31,62.61 157.56,61.26 158.80,64.26 160.05,66.20 161.29,63.70 162.54,64.94 163.78,65.13 165.02,63.32 166.27,62.35 167.51,62.41 168.76,59.71 170.00,59.24 171.24,58.98 172.49,61.50 173.73,61.01 174.98,63.42 176.22,64.19 177.46,64.79 178.71,62.31 179.95,62.20 181.20,61.06 182.44,60.69 183.69,60.20 184.93,63.66 186.17,65.19 187.42,65.21 188.66,63.83 189.91,62.45 191.15,61.15 192.39,60.63 193.64,59.42 194.88,58.17 196.13,58.02 197.37,56.87 198.61,56.86 199.86,57.64 201.10,52.93 202.35,53.44 203.59,50.84 204.83,51.03 206.08,51.27 207.32,51.29 208.57,50.98 209.81,50.65 211.06,49.16 212.30,46.21 213.54,44.38 214.79,45.01 216.03,42.32 217.28,44.86 218.52,41.24 219.76,41.58 221.01,49.57 222.25,43.78 223.50,46.29 224.74,42.96 225.98,42.35 227.23,42.54 228.47,40.78 229.72,41.55 230.96,44.24 232.20,41.75 233.45,39.20 234.69,35.66 235.94,34.39 237.18,32.18 238.43,34.14 239.67,34.43 240.91,33.19 242.16,38.55 243.40,35.84 244.65,39.22 245.89,40.41 247.13,36.13 248.38,39.24 249.62,37.44 250.87,41.74 252.11,41.68 253.35,43.56 254.60,46.37 255.84,43.90 257.09,49.67 258.33,49.25 259.57,44.03 260.82,43.67 262.06,40.58 263.31,38.74 264.55,38.47 265.80,35.87 267.04,33.88 268.28,35.00 269.53,33.86 270.77,32.20 272.02,32.02 273.26,29.97 274.50,31.26 275.75,38.00 276.99,38.49 278.24,38.88 279.48,43.98 280.72,40.76 281.97,37.15 283.21,35.31 284.46,33.91 285.70,33.51 286.94,32.83 288.19,33.49 289.43,33.85 290.68,35.14 291.92,29.83 293.17,28.10 294.41,24.05 295.65,25.10 296.90,27.54 298.14,23.41 299.39,22.83 300.63,22.48 301.87,23.76 303.12,20.51 304.36,18.91 305.61,22.94 306.85,18.29 308.09,17.93 309.34,19.03 310.58,19.54 311.83,16.14 313.07,12.36 314.31,12.00 315.56,17.67 316.80,15.85 318.05,20.00 319.29,26.31 320.54,26.69 321.78,18.40 323.02,16.38 324.27,17.14 325.51,13.10 326.76,16.60 328.00,15.95 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,89.36 15.85,89.84 19.71,85.34 23.56,87.31 27.41,94.17 31.27,87.82 35.12,81.33 38.98,72.31 42.83,69.06 46.68,63.43 50.54,68.43 54.39,69.16 58.24,66.00 62.10,79.67 65.95,72.76 69.80,81.38 73.66,84.42 77.51,73.49 81.37,81.42 85.22,76.83 89.07,87.80 92.93,87.64 96.78,92.43 100.63,99.61 104.49,93.31 108.34,108.00 112.20,106.94 116.05,93.64 119.90,92.73 123.76,84.84 127.61,80.16 131.46,79.46 135.32,72.83 139.17,67.77 143.02,70.61 146.88,67.72 150.73,63.49 154.59,63.03 158.44,57.81 162.29,61.10 166.15,78.27 170.00,79.52 173.85,80.51 177.71,93.52 181.56,85.31 185.41,76.11 189.27,71.41 193.12,67.86 196.98,66.82 200.83,65.08 204.68,66.78 208.54,67.70 212.39,70.97 216.24,57.44 220.10,53.03 223.95,42.72 227.80,45.39 231.66,51.60 235.51,41.08 239.37,39.60 243.22,38.71 247.07,41.97 250.93,33.69 254.78,29.60 258.63,39.88 262.49,28.02 266.34,27.10 270.20,29.91 274.05,31.21 277.90,22.55 281.76,12.91 285.61,12.00 289.46,26.45 293.32,21.81 297.17,32.39 301.02,48.48 304.88,49.45 308.73,28.31 312.59,23.17 316.44,25.11 320.29,14.82 324.15,23.72 328.00,22.07" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,89.36 15.85,89.84 19.71,85.34 23.56,87.31 27.41,94.17 31.27,87.82 35.12,81.33 38.98,72.31 42.83,69.06 46.68,63.43 50.54,68.43 54.39,69.16 58.24,66.00 62.10,79.67 65.95,72.76 69.80,81.38 73.66,84.42 77.51,73.49 81.37,81.42 85.22,76.83 89.07,87.80 92.93,87.64 96.78,92.43 100.63,99.61 104.49,93.31 108.34,108.00 112.20,106.94 116.05,93.64 119.90,92.73 123.76,84.84 127.61,80.16 131.46,79.46 135.32,72.83 139.17,67.77 143.02,70.61 146.88,67.72 150.73,63.49 154.59,63.03 158.44,57.81 162.29,61.10 166.15,78.27 170.00,79.52 173.85,80.51 177.71,93.52 181.56,85.31 185.41,76.11 189.27,71.41 193.12,67.86 196.98,66.82 200.83,65.08 204.68,66.78 208.54,67.70 212.39,70.97 216.24,57.44 220.10,53.03 223.95,42.72 227.80,45.39 231.66,51.60 235.51,41.08 239.37,39.60 243.22,38.71 247.07,41.97 250.93,33.69 254.78,29.60 258.63,39.88 262.49,28.02 266.34,27.10 270.20,29.91 274.05,31.21 277.90,22.55 281.76,12.91 285.61,12.00 289.46,26.45 293.32,21.81 297.17,32.39 301.02,48.48 304.88,49.45 308.73,28.31 312.59,23.17 316.44,25.11 320.29,14.82 324.15,23.72 328.00,22.07 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
   </figure>
   
   ### Latest news (0-3 days)
@@ -70,23 +70,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is near 1-year and 5-year peaks at $407.72 versus lows of $179.39 and $84.45, suggesting elevated cycle risk despite an ongoing uptrend; macro froth visibility is limited to strong AI/semiconductor enthusiasm in recent sector news, while shares sit modestly above the 20-day average ($402.49) and closer to resistance ($420.04) than support ($375.56).
+  0.1. **Long Entry?:** maybe — price is in a strong uptrend and near multi-year/5-year highs with SMH trading above its 20-day average (407.72 vs 402.49) and closer to resistance at 420.04 than support at 375.56; macro froth is hinted by sector AI enthusiasm and a recent 49% rally noted in external analysis but detailed bubble-risk metrics are limited in this dataset
   
   ## 1. The Biz
   
-  1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies. It holds common stocks and depositary receipts of semiconductor firms, including mid-cap and foreign issuers, and is non-diversified, meaning assets are concentrated in this single industry. The fund provides equity exposure to the global semiconductor value chain via U.S. exchanges.
+  1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies, including common stocks and depositary receipts. It normally invests at least 80% of its assets in the benchmark index constituents, which span medium-cap and foreign chip makers listed on U.S. exchanges. The fund is non-diversified, meaning it can take relatively concentrated positions in its top semiconductor holdings.
   
-  1.2. **Profitable?:** unknown
+  1.2. **Profitable?:** yes — as an ETF, SMH does not generate operating profits itself but provides exposure to a basket of underlying profitable semiconductor companies, and the dataset shows no losses or negative income at the fund level.
   
-  1.3. **Customer & Markets:** The ETF's end investors are equity market participants seeking targeted exposure to the semiconductor industry, while its underlying holdings are U.S.-exchange-listed semiconductor companies. According to ETFDB, it is an equity ETF focused on global semiconductors within the information technology segment, with a vanilla, market-cap-weighted strategy. Its geographic exposure follows where leading chip companies are listed and operate globally, including the U.S. and key foreign semiconductor markets.
+  1.3. **Customer & Markets:** SMH's effective "customers" are investors seeking exposure to the Technology – Semiconductors segment via a liquid ETF rather than buying individual chip stocks. Its underlying holdings are U.S. exchange-listed semiconductor producers, including significant exposure to large names like Nvidia and Taiwan Semiconductor that serve global computing and AI hardware markets.
   
-  1.4. **Competition:** Primary competitors are other semiconductor-focused ETFs and technology sector funds, as indicated by peer and competitor pages comparing SMH to similar ETFs; specific rival tickers and rank positioning versus them are not detailed in the provided data.
+  1.4. **Competition:** Primary competitors are other semiconductor-focused ETFs such as iShares Semiconductor ETF (SOXX), SPDR S&P Semiconductor ETF (XSD), and VanEck Fabless Semiconductor ETF (SMHX), which all target similar chip-industry exposure. SMH is cited among the top semiconductor ETFs to buy, indicating it is one of the leading, larger vehicles in this niche.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from near support toward the $407.72 close beneath resistance at $420.04.
+  2.1. **7d Trend?:** up — the 7d Trend label is "up" and price has moved from the lower 400s toward the 407–412 area while staying above the 20-day moving average.
   
-  2.2. **7d Buy/Sell Points?:** During the past week, the area near the recent local/7-day low around $374–$376 offered better buy entries, while approaches toward the recent high and resistance around $420 have been favorable sell or trim zones. The current price near $408 sits between these levels, offering less asymmetric short-term reward than buying closer to support.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the area near the recent local low/7d support around 375–376 was the best buy zone, while approaches toward the 7d resistance and local high around 420 have been favorable sell or trim levels. With price now near 408, upside to resistance is smaller than the downside back to support.
   
   2.3.1. **7d Volume:** med
   
@@ -94,15 +94,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** VanEck Semiconductor ETF is a long-established, rules-based index ETF rather than an operating company, and it invests in a broad basket of U.S.-listed semiconductor stocks. Its structure as an ETF and its focus on a large, systemically important global industry suggest institutional-scale assets rather than a fly-by-night vehicle. The fund is non-diversified by sector but diversified across multiple semiconductor issuers, spreading issuer-specific risk within the industry. Balance sheet details for the ETF entity are not provided, but as an exchange-traded fund from a major sponsor (VanEck), it operates within regulated fund structures with segregated underlying assets.
+  3.1. **Stability?:** SMH appears to be a relatively stable vehicle, tracking a rules-based index of the 25 largest U.S.-listed semiconductor companies rather than relying on a single operating business. The 5-year chart shows a long operating history with major drawdowns but repeated recoveries to new highs, including a current near-peak level versus 1-year and 5-year lows. As an ETF holding liquid, large-cap semiconductor stocks and governed by VanEck's fund structure, it benefits from diversification across issuers even though it is classified as non-diversified. No balance sheet data is provided for the ETF itself, but its construction around established chip leaders suggests lower "fly-by-night" risk compared with single small-cap names.
   
-  3.2. **Innovating?:** The ETF itself does not innovate products or technologies; instead, it provides exposure to semiconductor companies that are experiencing strong AI- and chip-driven growth, as reflected in sector news about accelerating AI chip and equipment demand. Its growth is tied to performance and innovation of its underlying semiconductor holdings rather than its own operations.
+  3.2. **Innovating?:** SMH's growth and innovation exposure comes from its underlying semiconductor holdings, which benefit from AI-driven chip demand, as highlighted by strong results and guidance from Applied Materials and sector outperformance. The ETF itself is not an operating innovator, but it is clearly tied into structurally growing markets like AI hardware and advanced semiconductors.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines highlight strong semiconductor sector momentum, such as Applied Materials' 20%+ guided revenue growth for 2026 and a 12% stock surge, which reinforces the bullish AI-chip thesis and benefits ETFs like SMH. Another article notes semiconductors outperforming while other tech segments like software slump, showing rotation into chips. Quick facts for SMH flag 'Sell the news? yes', suggesting that strong reported results and AI enthusiasm may already be priced in and can trigger profit-taking after good news. Within the 'buy the rumor, sell the news' framework, this implies investors should be cautious chasing post-news strength in SMH, as sector-positive catalysts have recently driven it to near-peak levels.
+  4.1. **News:** Recent news emphasizes a powerful AI-driven demand surge for semiconductors, with Applied Materials guiding to 20%+ equipment revenue growth and semis outperforming while software slumps. Another headline notes Taiwan overtaking China as America's top supplier largely due to AI hardware demand and tariff exemptions on chips and computer equipment, underscoring the strategic importance of SMH's core holdings. Sector strength and strong prints like AMAT's can attract speculative inflows into semiconductor ETFs such as SMH, setting up classic "buy the rumor, sell the news" dynamics if expectations get stretched. The quick-facts flag "Sell the news? yes," which aligns with the idea that strong AI and supply-chain headlines may already be priced into SMH's near-peak levels.
   
-  4.2. **Tarrifs:** Tariffs have previously weighed on semiconductor ETFs like SMH, with one ETF analysis noting SMH was down 26% year-to-date during a period of heightened tariff concerns, indicating that new or escalating tariffs can significantly pressure the fund's performance despite underlying long-term demand for chips.
+  4.2. **Tarrifs:** Tariffs have had a meaningful but mixed impact on SMH: sector commentary notes that Trump-era tariffs initially pressured semiconductor ETFs like SMH, but exemptions for chips and computer equipment and moves to onshore or friend-shore production have helped the fund's holdings adapt and, in some cases, benefit from U.S.-focused investment.
   
   ## 5. QuickRef
   
@@ -131,11 +131,11 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
-  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, rumor, tariff</li>
-  <li>The Guardian: competitive landscape, latest news, tariffs</li>
+  <li>NewsAPI: business model, rumor</li>
+  <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
   
@@ -145,15 +145,7 @@ raw_markdown: |
   <pre><code>
   Gathering context for SMH...
   Gathering market data...
-  Checking massive.com quota and fetching price history...
-  Requesting SMH prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMH/range/1/day/2021-01-18/2026-02-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-  massive.com request failed (massive.com returned no price data); switching to yfinance...
-  Requesting prices from yfinance fallback...
-    yfinance span 10d: 22 rows
-    yfinance span 3mo: 62 rows
-    yfinance span 1y: 251 rows
-    yfinance span 5y: 1256 rows
-  Price data acquired from yfinance.
+  Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/SMH/2026-02-13?apiKey=%2A%2A%2A
   Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMH/2026-02-13?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMH/prev?adjusted=true&amp;apiKey=%2A%2A%2A
@@ -163,7 +155,7 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/SMH?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/SMH?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/SMH?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/SMH?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
@@ -179,14 +171,14 @@ raw_markdown: |
   Massive earnings: attempting request with key 2QGS***XN
   Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=SMH&amp;limit=4&amp;apiKey=%2A%2A%2A
   Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=SMH&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMH&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMH&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Filtered 2 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; SMH core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=5
@@ -205,7 +197,12 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMH profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=SMH+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMH+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=5
       google_custom_search: 5 result(s)
@@ -214,7 +211,12 @@ raw_markdown: |
       google_custom_search: 5 result(s)
     newsapi search -&gt; SMH market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=5
       google_custom_search: 5 result(s)
@@ -225,9 +227,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
-      guardian: 5 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=5
       google_custom_search: 5 result(s)
@@ -239,14 +242,20 @@ raw_markdown: |
       newsapi: 1 result(s)
     newsapi search -&gt; SMH tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
-      guardian: 5 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
@@ -254,9 +263,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMH tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
-      guardian: 5 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -278,12 +288,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year and 5-year peaks at $407.72 versus lows of $179.39 and $84.45, suggesting elevated cycle risk despite an ongoing uptrend; macro froth visibility is limited to strong AI/semiconductor enthusiasm in recent sector news, while shares sit modestly above the 20-day average ($402.49) and closer to resistance ($420.04) than support ($375.56).&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies. It holds common stocks and depositary receipts of semiconductor firms, including mid-cap an
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a strong uptrend and near multi-year/5-year highs with SMH trading above its 20-day average (407.72 vs 402.49) and closer to resistance at 420.04 than support at 375.56; macro froth is hinted by sector AI enthusiasm and a recent 49% rally noted in external analysis but detailed bubble-risk metrics are limited in this dataset&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies, including common stocks and depositary receipts. It normally invests at least 80% of its assets in the benchma
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-16T08:39:19.716861+00:00">2026-02-16 08:39 UTC</time> (runtime 26.66s)
+**Generated:** <time class="js-local-time" datetime="2026-02-20T20:32:13.145144+00:00">2026-02-20 20:32 UTC</time> (runtime 38.32s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -337,7 +347,7 @@ raw_markdown: |
 <circle cx="585.37" cy="178.15" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $179.39 · 5y low $84.45</figcaption>
-<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,78.81 13.26,77.35 14.53,76.90 15.79,76.71 17.06,79.85 18.32,82.49 19.58,84.57 20.85,82.33 22.11,88.37 23.38,86.77 24.64,90.69 25.90,89.80 27.17,88.13 28.43,91.99 29.70,89.86 30.96,94.10 32.22,94.23 33.49,91.70 34.75,92.09 36.02,89.26 37.28,88.30 38.54,89.73 39.81,88.93 41.07,89.07 42.34,89.99 43.60,87.63 44.86,88.03 46.13,91.10 47.39,92.81 48.66,95.05 49.92,95.33 51.18,94.92 52.45,94.28 53.71,101.72 54.98,107.66 56.24,106.01 57.50,108.00 58.77,95.59 60.03,101.47 61.30,99.42 62.56,99.29 63.82,98.77 65.09,102.21 66.35,102.94 67.62,104.83 68.88,103.20 70.14,100.38 71.41,96.34 72.67,95.13 73.94,95.66 75.20,95.81 76.46,95.41 77.73,95.00 78.99,92.29 80.26,92.86 81.52,93.68 82.78,91.90 84.05,91.12 85.31,90.54 86.58,84.91 87.84,81.63 89.10,80.66 90.37,81.00 91.63,81.29 92.90,81.45 94.16,81.64 95.42,83.28 96.69,83.54 97.95,84.90 99.22,81.87 100.48,82.92 101.74,82.23 103.01,83.97 104.27,82.54 105.54,80.33 106.80,79.14 108.06,79.32 109.33,78.75 110.59,77.05 111.86,75.00 113.12,75.07 114.38,74.56 115.65,77.04 116.91,74.47 118.18,75.19 119.44,74.79 120.70,75.72 121.97,75.06 123.23,71.19 124.50,69.72 125.76,68.92 127.02,68.43 128.29,68.24 129.55,69.46 130.82,67.29 132.08,66.34 133.34,67.89 134.61,66.39 135.87,65.61 137.14,64.77 138.40,64.78 139.66,65.65 140.93,63.45 142.19,64.06 143.46,63.08 144.72,63.65 145.98,63.57 147.25,65.63 148.51,65.13 149.78,64.66 151.04,64.78 152.30,63.20 153.57,62.61 154.83,61.26 156.10,64.26 157.36,66.20 158.62,63.70 159.89,64.94 161.15,65.13 162.42,63.32 163.68,62.35 164.94,62.41 166.21,59.71 167.47,59.24 168.74,58.98 170.00,61.50 171.26,61.01 172.53,63.42 173.79,64.19 175.06,64.79 176.32,62.31 177.58,62.20 178.85,61.06 180.11,60.69 181.38,60.20 182.64,63.66 183.90,65.19 185.17,65.21 186.43,63.83 187.70,62.45 188.96,61.15 190.22,60.63 191.49,59.42 192.75,58.17 194.02,58.02 195.28,56.87 196.54,56.86 197.81,57.64 199.07,52.93 200.34,53.44 201.60,50.84 202.86,51.03 204.13,51.27 205.39,51.29 206.66,50.98 207.92,50.65 209.18,49.16 210.45,46.21 211.71,44.38 212.98,45.01 214.24,42.32 215.50,44.86 216.77,41.24 218.03,41.58 219.30,49.57 220.56,43.78 221.82,46.29 223.09,42.96 224.35,42.35 225.62,42.54 226.88,40.78 228.14,41.55 229.41,44.24 230.67,41.75 231.94,39.20 233.20,35.66 234.46,34.39 235.73,32.18 236.99,34.14 238.26,34.43 239.52,33.19 240.78,38.55 242.05,35.84 243.31,39.22 244.58,40.41 245.84,36.13 247.10,39.24 248.37,37.44 249.63,41.74 250.90,41.68 252.16,43.56 253.42,46.37 254.69,43.90 255.95,49.67 257.22,49.25 258.48,44.03 259.74,43.67 261.01,40.58 262.27,38.74 263.54,38.47 264.80,35.87 266.06,33.88 267.33,35.00 268.59,33.86 269.86,32.20 271.12,32.02 272.38,29.97 273.65,31.26 274.91,38.00 276.18,38.49 277.44,38.88 278.70,43.98 279.97,40.76 281.23,37.15 282.50,35.31 283.76,33.91 285.02,33.51 286.29,32.83 287.55,33.49 288.82,33.85 290.08,35.14 291.34,29.83 292.61,28.10 293.87,24.05 295.14,25.10 296.40,27.54 297.66,23.41 298.93,22.83 300.19,22.48 301.46,23.76 302.72,20.51 303.98,18.91 305.25,22.94 306.51,18.29 307.78,17.93 309.04,19.03 310.30,19.54 311.57,16.14 312.83,12.36 314.10,12.00 315.36,17.67 316.62,15.85 317.89,20.00 319.15,26.31 320.42,26.69 321.68,18.40 322.94,16.38 324.21,17.14 325.47,13.10 326.74,16.60 328.00,15.95" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,78.81 13.26,77.35 14.53,76.90 15.79,76.71 17.06,79.85 18.32,82.49 19.58,84.57 20.85,82.33 22.11,88.37 23.38,86.77 24.64,90.69 25.90,89.80 27.17,88.13 28.43,91.99 29.70,89.86 30.96,94.10 32.22,94.23 33.49,91.70 34.75,92.09 36.02,89.26 37.28,88.30 38.54,89.73 39.81,88.93 41.07,89.07 42.34,89.99 43.60,87.63 44.86,88.03 46.13,91.10 47.39,92.81 48.66,95.05 49.92,95.33 51.18,94.92 52.45,94.28 53.71,101.72 54.98,107.66 56.24,106.01 57.50,108.00 58.77,95.59 60.03,101.47 61.30,99.42 62.56,99.29 63.82,98.77 65.09,102.21 66.35,102.94 67.62,104.83 68.88,103.20 70.14,100.38 71.41,96.34 72.67,95.13 73.94,95.66 75.20,95.81 76.46,95.41 77.73,95.00 78.99,92.29 80.26,92.86 81.52,93.68 82.78,91.90 84.05,91.12 85.31,90.54 86.58,84.91 87.84,81.63 89.10,80.66 90.37,81.00 91.63,81.29 92.90,81.45 94.16,81.64 95.42,83.28 96.69,83.54 97.95,84.90 99.22,81.87 100.48,82.92 101.74,82.23 103.01,83.97 104.27,82.54 105.54,80.33 106.80,79.14 108.06,79.32 109.33,78.75 110.59,77.05 111.86,75.00 113.12,75.07 114.38,74.56 115.65,77.04 116.91,74.47 118.18,75.19 119.44,74.79 120.70,75.72 121.97,75.06 123.23,71.19 124.50,69.72 125.76,68.92 127.02,68.43 128.29,68.24 129.55,69.46 130.82,67.29 132.08,66.34 133.34,67.89 134.61,66.39 135.87,65.61 137.14,64.77 138.40,64.78 139.66,65.65 140.93,63.45 142.19,64.06 143.46,63.08 144.72,63.65 145.98,63.57 147.25,65.63 148.51,65.13 149.78,64.66 151.04,64.78 152.30,63.20 153.57,62.61 154.83,61.26 156.10,64.26 157.36,66.20 158.62,63.70 159.89,64.94 161.15,65.13 162.42,63.32 163.68,62.35 164.94,62.41 166.21,59.71 167.47,59.24 168.74,58.98 170.00,61.50 171.26,61.01 172.53,63.42 173.79,64.19 175.06,64.79 176.32,62.31 177.58,62.20 178.85,61.06 180.11,60.69 181.38,60.20 182.64,63.66 183.90,65.19 185.17,65.21 186.43,63.83 187.70,62.45 188.96,61.15 190.22,60.63 191.49,59.42 192.75,58.17 194.02,58.02 195.28,56.87 196.54,56.86 197.81,57.64 199.07,52.93 200.34,53.44 201.60,50.84 202.86,51.03 204.13,51.27 205.39,51.29 206.66,50.98 207.92,50.65 209.18,49.16 210.45,46.21 211.71,44.38 212.98,45.01 214.24,42.32 215.50,44.86 216.77,41.24 218.03,41.58 219.30,49.57 220.56,43.78 221.82,46.29 223.09,42.96 224.35,42.35 225.62,42.54 226.88,40.78 228.14,41.55 229.41,44.24 230.67,41.75 231.94,39.20 233.20,35.66 234.46,34.39 235.73,32.18 236.99,34.14 238.26,34.43 239.52,33.19 240.78,38.55 242.05,35.84 243.31,39.22 244.58,40.41 245.84,36.13 247.10,39.24 248.37,37.44 249.63,41.74 250.90,41.68 252.16,43.56 253.42,46.37 254.69,43.90 255.95,49.67 257.22,49.25 258.48,44.03 259.74,43.67 261.01,40.58 262.27,38.74 263.54,38.47 264.80,35.87 266.06,33.88 267.33,35.00 268.59,33.86 269.86,32.20 271.12,32.02 272.38,29.97 273.65,31.26 274.91,38.00 276.18,38.49 277.44,38.88 278.70,43.98 279.97,40.76 281.23,37.15 282.50,35.31 283.76,33.91 285.02,33.51 286.29,32.83 287.55,33.49 288.82,33.85 290.08,35.14 291.34,29.83 292.61,28.10 293.87,24.05 295.14,25.10 296.40,27.54 297.66,23.41 298.93,22.83 300.19,22.48 301.46,23.76 302.72,20.51 303.98,18.91 305.25,22.94 306.51,18.29 307.78,17.93 309.04,19.03 310.30,19.54 311.57,16.14 312.83,12.36 314.10,12.00 315.36,17.67 316.62,15.85 317.89,20.00 319.15,26.31 320.42,26.69 321.68,18.40 322.94,16.38 324.21,17.14 325.47,13.10 326.74,16.60 328.00,15.95 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,87.64 17.18,92.43 22.36,99.61 27.54,93.31 32.72,108.00 37.90,106.94 43.08,93.64 48.26,92.73 53.44,84.84 58.62,80.16 63.80,79.46 68.98,72.83 74.16,67.77 79.34,70.61 84.52,67.72 89.70,63.49 94.89,63.03 100.07,57.81 105.25,61.10 110.43,78.27 115.61,79.52 120.79,80.51 125.97,93.52 131.15,85.31 136.33,76.11 141.51,71.41 146.69,67.86 151.87,66.82 157.05,65.08 162.23,66.78 167.41,67.70 172.59,70.97 177.77,57.44 182.95,53.03 188.13,42.72 193.31,45.39 198.49,51.60 203.67,41.08 208.85,39.60 214.03,38.71 219.21,41.97 224.39,33.69 229.57,29.60 234.75,39.88 239.93,28.02 245.11,27.10 250.30,29.91 255.48,31.21 260.66,22.55 265.84,12.91 271.02,12.00 276.20,26.45 281.38,21.81 286.56,32.39 291.74,48.48 296.92,49.45 302.10,28.31 307.28,23.17 312.46,25.11 317.64,14.82 322.82,23.72 328.00,22.07" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,87.64 17.18,92.43 22.36,99.61 27.54,93.31 32.72,108.00 37.90,106.94 43.08,93.64 48.26,92.73 53.44,84.84 58.62,80.16 63.80,79.46 68.98,72.83 74.16,67.77 79.34,70.61 84.52,67.72 89.70,63.49 94.89,63.03 100.07,57.81 105.25,61.10 110.43,78.27 115.61,79.52 120.79,80.51 125.97,93.52 131.15,85.31 136.33,76.11 141.51,71.41 146.69,67.86 151.87,66.82 157.05,65.08 162.23,66.78 167.41,67.70 172.59,70.97 177.77,57.44 182.95,53.03 188.13,42.72 193.31,45.39 198.49,51.60 203.67,41.08 208.85,39.60 214.03,38.71 219.21,41.97 224.39,33.69 229.57,29.60 234.75,39.88 239.93,28.02 245.11,27.10 250.30,29.91 255.48,31.21 260.66,22.55 265.84,12.91 271.02,12.00 276.20,26.45 281.38,21.81 286.56,32.39 291.74,48.48 296.92,49.45 302.10,28.31 307.28,23.17 312.46,25.11 317.64,14.82 322.82,23.72 328.00,22.07 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,80.00 13.24,79.90 14.49,80.45 15.73,79.08 16.98,78.81 18.22,77.35 19.46,76.90 20.71,76.71 21.95,79.85 23.20,82.49 24.44,84.57 25.69,82.33 26.93,88.37 28.17,86.77 29.42,90.69 30.66,89.80 31.91,88.13 33.15,91.99 34.39,89.86 35.64,94.10 36.88,94.23 38.13,91.70 39.37,92.09 40.61,89.26 41.86,88.30 43.10,89.73 44.35,88.93 45.59,89.07 46.83,89.99 48.08,87.63 49.32,88.03 50.57,91.10 51.81,92.81 53.06,95.05 54.30,95.33 55.54,94.92 56.79,94.28 58.03,101.72 59.28,107.66 60.52,106.01 61.76,108.00 63.01,95.59 64.25,101.47 65.50,99.42 66.74,99.29 67.98,98.77 69.23,102.21 70.47,102.94 71.72,104.83 72.96,103.20 74.20,100.38 75.45,96.34 76.69,95.13 77.94,95.66 79.18,95.81 80.43,95.41 81.67,95.00 82.91,92.29 84.16,92.86 85.40,93.68 86.65,91.90 87.89,91.12 89.13,90.54 90.38,84.91 91.62,81.63 92.87,80.66 94.11,81.00 95.35,81.29 96.60,81.45 97.84,81.64 99.09,83.28 100.33,83.54 101.57,84.90 102.82,81.87 104.06,82.92 105.31,82.23 106.55,83.97 107.80,82.54 109.04,80.33 110.28,79.14 111.53,79.32 112.77,78.75 114.02,77.05 115.26,75.00 116.50,75.07 117.75,74.56 118.99,77.04 120.24,74.47 121.48,75.19 122.72,74.79 123.97,75.72 125.21,75.06 126.46,71.19 127.70,69.72 128.94,68.92 130.19,68.43 131.43,68.24 132.68,69.46 133.92,67.29 135.17,66.34 136.41,67.89 137.65,66.39 138.90,65.61 140.14,64.77 141.39,64.78 142.63,65.65 143.87,63.45 145.12,64.06 146.36,63.08 147.61,63.65 148.85,63.57 150.09,65.63 151.34,65.13 152.58,64.66 153.83,64.78 155.07,63.20 156.31,62.61 157.56,61.26 158.80,64.26 160.05,66.20 161.29,63.70 162.54,64.94 163.78,65.13 165.02,63.32 166.27,62.35 167.51,62.41 168.76,59.71 170.00,59.24 171.24,58.98 172.49,61.50 173.73,61.01 174.98,63.42 176.22,64.19 177.46,64.79 178.71,62.31 179.95,62.20 181.20,61.06 182.44,60.69 183.69,60.20 184.93,63.66 186.17,65.19 187.42,65.21 188.66,63.83 189.91,62.45 191.15,61.15 192.39,60.63 193.64,59.42 194.88,58.17 196.13,58.02 197.37,56.87 198.61,56.86 199.86,57.64 201.10,52.93 202.35,53.44 203.59,50.84 204.83,51.03 206.08,51.27 207.32,51.29 208.57,50.98 209.81,50.65 211.06,49.16 212.30,46.21 213.54,44.38 214.79,45.01 216.03,42.32 217.28,44.86 218.52,41.24 219.76,41.58 221.01,49.57 222.25,43.78 223.50,46.29 224.74,42.96 225.98,42.35 227.23,42.54 228.47,40.78 229.72,41.55 230.96,44.24 232.20,41.75 233.45,39.20 234.69,35.66 235.94,34.39 237.18,32.18 238.43,34.14 239.67,34.43 240.91,33.19 242.16,38.55 243.40,35.84 244.65,39.22 245.89,40.41 247.13,36.13 248.38,39.24 249.62,37.44 250.87,41.74 252.11,41.68 253.35,43.56 254.60,46.37 255.84,43.90 257.09,49.67 258.33,49.25 259.57,44.03 260.82,43.67 262.06,40.58 263.31,38.74 264.55,38.47 265.80,35.87 267.04,33.88 268.28,35.00 269.53,33.86 270.77,32.20 272.02,32.02 273.26,29.97 274.50,31.26 275.75,38.00 276.99,38.49 278.24,38.88 279.48,43.98 280.72,40.76 281.97,37.15 283.21,35.31 284.46,33.91 285.70,33.51 286.94,32.83 288.19,33.49 289.43,33.85 290.68,35.14 291.92,29.83 293.17,28.10 294.41,24.05 295.65,25.10 296.90,27.54 298.14,23.41 299.39,22.83 300.63,22.48 301.87,23.76 303.12,20.51 304.36,18.91 305.61,22.94 306.85,18.29 308.09,17.93 309.34,19.03 310.58,19.54 311.83,16.14 313.07,12.36 314.31,12.00 315.56,17.67 316.80,15.85 318.05,20.00 319.29,26.31 320.54,26.69 321.78,18.40 323.02,16.38 324.27,17.14 325.51,13.10 326.76,16.60 328.00,15.95" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,80.00 13.24,79.90 14.49,80.45 15.73,79.08 16.98,78.81 18.22,77.35 19.46,76.90 20.71,76.71 21.95,79.85 23.20,82.49 24.44,84.57 25.69,82.33 26.93,88.37 28.17,86.77 29.42,90.69 30.66,89.80 31.91,88.13 33.15,91.99 34.39,89.86 35.64,94.10 36.88,94.23 38.13,91.70 39.37,92.09 40.61,89.26 41.86,88.30 43.10,89.73 44.35,88.93 45.59,89.07 46.83,89.99 48.08,87.63 49.32,88.03 50.57,91.10 51.81,92.81 53.06,95.05 54.30,95.33 55.54,94.92 56.79,94.28 58.03,101.72 59.28,107.66 60.52,106.01 61.76,108.00 63.01,95.59 64.25,101.47 65.50,99.42 66.74,99.29 67.98,98.77 69.23,102.21 70.47,102.94 71.72,104.83 72.96,103.20 74.20,100.38 75.45,96.34 76.69,95.13 77.94,95.66 79.18,95.81 80.43,95.41 81.67,95.00 82.91,92.29 84.16,92.86 85.40,93.68 86.65,91.90 87.89,91.12 89.13,90.54 90.38,84.91 91.62,81.63 92.87,80.66 94.11,81.00 95.35,81.29 96.60,81.45 97.84,81.64 99.09,83.28 100.33,83.54 101.57,84.90 102.82,81.87 104.06,82.92 105.31,82.23 106.55,83.97 107.80,82.54 109.04,80.33 110.28,79.14 111.53,79.32 112.77,78.75 114.02,77.05 115.26,75.00 116.50,75.07 117.75,74.56 118.99,77.04 120.24,74.47 121.48,75.19 122.72,74.79 123.97,75.72 125.21,75.06 126.46,71.19 127.70,69.72 128.94,68.92 130.19,68.43 131.43,68.24 132.68,69.46 133.92,67.29 135.17,66.34 136.41,67.89 137.65,66.39 138.90,65.61 140.14,64.77 141.39,64.78 142.63,65.65 143.87,63.45 145.12,64.06 146.36,63.08 147.61,63.65 148.85,63.57 150.09,65.63 151.34,65.13 152.58,64.66 153.83,64.78 155.07,63.20 156.31,62.61 157.56,61.26 158.80,64.26 160.05,66.20 161.29,63.70 162.54,64.94 163.78,65.13 165.02,63.32 166.27,62.35 167.51,62.41 168.76,59.71 170.00,59.24 171.24,58.98 172.49,61.50 173.73,61.01 174.98,63.42 176.22,64.19 177.46,64.79 178.71,62.31 179.95,62.20 181.20,61.06 182.44,60.69 183.69,60.20 184.93,63.66 186.17,65.19 187.42,65.21 188.66,63.83 189.91,62.45 191.15,61.15 192.39,60.63 193.64,59.42 194.88,58.17 196.13,58.02 197.37,56.87 198.61,56.86 199.86,57.64 201.10,52.93 202.35,53.44 203.59,50.84 204.83,51.03 206.08,51.27 207.32,51.29 208.57,50.98 209.81,50.65 211.06,49.16 212.30,46.21 213.54,44.38 214.79,45.01 216.03,42.32 217.28,44.86 218.52,41.24 219.76,41.58 221.01,49.57 222.25,43.78 223.50,46.29 224.74,42.96 225.98,42.35 227.23,42.54 228.47,40.78 229.72,41.55 230.96,44.24 232.20,41.75 233.45,39.20 234.69,35.66 235.94,34.39 237.18,32.18 238.43,34.14 239.67,34.43 240.91,33.19 242.16,38.55 243.40,35.84 244.65,39.22 245.89,40.41 247.13,36.13 248.38,39.24 249.62,37.44 250.87,41.74 252.11,41.68 253.35,43.56 254.60,46.37 255.84,43.90 257.09,49.67 258.33,49.25 259.57,44.03 260.82,43.67 262.06,40.58 263.31,38.74 264.55,38.47 265.80,35.87 267.04,33.88 268.28,35.00 269.53,33.86 270.77,32.20 272.02,32.02 273.26,29.97 274.50,31.26 275.75,38.00 276.99,38.49 278.24,38.88 279.48,43.98 280.72,40.76 281.97,37.15 283.21,35.31 284.46,33.91 285.70,33.51 286.94,32.83 288.19,33.49 289.43,33.85 290.68,35.14 291.92,29.83 293.17,28.10 294.41,24.05 295.65,25.10 296.90,27.54 298.14,23.41 299.39,22.83 300.63,22.48 301.87,23.76 303.12,20.51 304.36,18.91 305.61,22.94 306.85,18.29 308.09,17.93 309.34,19.03 310.58,19.54 311.83,16.14 313.07,12.36 314.31,12.00 315.56,17.67 316.80,15.85 318.05,20.00 319.29,26.31 320.54,26.69 321.78,18.40 323.02,16.38 324.27,17.14 325.51,13.10 326.76,16.60 328.00,15.95 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,89.36 15.85,89.84 19.71,85.34 23.56,87.31 27.41,94.17 31.27,87.82 35.12,81.33 38.98,72.31 42.83,69.06 46.68,63.43 50.54,68.43 54.39,69.16 58.24,66.00 62.10,79.67 65.95,72.76 69.80,81.38 73.66,84.42 77.51,73.49 81.37,81.42 85.22,76.83 89.07,87.80 92.93,87.64 96.78,92.43 100.63,99.61 104.49,93.31 108.34,108.00 112.20,106.94 116.05,93.64 119.90,92.73 123.76,84.84 127.61,80.16 131.46,79.46 135.32,72.83 139.17,67.77 143.02,70.61 146.88,67.72 150.73,63.49 154.59,63.03 158.44,57.81 162.29,61.10 166.15,78.27 170.00,79.52 173.85,80.51 177.71,93.52 181.56,85.31 185.41,76.11 189.27,71.41 193.12,67.86 196.98,66.82 200.83,65.08 204.68,66.78 208.54,67.70 212.39,70.97 216.24,57.44 220.10,53.03 223.95,42.72 227.80,45.39 231.66,51.60 235.51,41.08 239.37,39.60 243.22,38.71 247.07,41.97 250.93,33.69 254.78,29.60 258.63,39.88 262.49,28.02 266.34,27.10 270.20,29.91 274.05,31.21 277.90,22.55 281.76,12.91 285.61,12.00 289.46,26.45 293.32,21.81 297.17,32.39 301.02,48.48 304.88,49.45 308.73,28.31 312.59,23.17 316.44,25.11 320.29,14.82 324.15,23.72 328.00,22.07" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,89.36 15.85,89.84 19.71,85.34 23.56,87.31 27.41,94.17 31.27,87.82 35.12,81.33 38.98,72.31 42.83,69.06 46.68,63.43 50.54,68.43 54.39,69.16 58.24,66.00 62.10,79.67 65.95,72.76 69.80,81.38 73.66,84.42 77.51,73.49 81.37,81.42 85.22,76.83 89.07,87.80 92.93,87.64 96.78,92.43 100.63,99.61 104.49,93.31 108.34,108.00 112.20,106.94 116.05,93.64 119.90,92.73 123.76,84.84 127.61,80.16 131.46,79.46 135.32,72.83 139.17,67.77 143.02,70.61 146.88,67.72 150.73,63.49 154.59,63.03 158.44,57.81 162.29,61.10 166.15,78.27 170.00,79.52 173.85,80.51 177.71,93.52 181.56,85.31 185.41,76.11 189.27,71.41 193.12,67.86 196.98,66.82 200.83,65.08 204.68,66.78 208.54,67.70 212.39,70.97 216.24,57.44 220.10,53.03 223.95,42.72 227.80,45.39 231.66,51.60 235.51,41.08 239.37,39.60 243.22,38.71 247.07,41.97 250.93,33.69 254.78,29.60 258.63,39.88 262.49,28.02 266.34,27.10 270.20,29.91 274.05,31.21 277.90,22.55 281.76,12.91 285.61,12.00 289.46,26.45 293.32,21.81 297.17,32.39 301.02,48.48 304.88,49.45 308.73,28.31 312.59,23.17 316.44,25.11 320.29,14.82 324.15,23.72 328.00,22.07 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
 </figure>
 
 ### Latest news (0-3 days)
@@ -347,23 +357,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is near 1-year and 5-year peaks at $407.72 versus lows of $179.39 and $84.45, suggesting elevated cycle risk despite an ongoing uptrend; macro froth visibility is limited to strong AI/semiconductor enthusiasm in recent sector news, while shares sit modestly above the 20-day average ($402.49) and closer to resistance ($420.04) than support ($375.56).
+0.1. **Long Entry?:** maybe — price is in a strong uptrend and near multi-year/5-year highs with SMH trading above its 20-day average (407.72 vs 402.49) and closer to resistance at 420.04 than support at 375.56; macro froth is hinted by sector AI enthusiasm and a recent 49% rally noted in external analysis but detailed bubble-risk metrics are limited in this dataset
 
 ## 1. The Biz
 
-1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies. It holds common stocks and depositary receipts of semiconductor firms, including mid-cap and foreign issuers, and is non-diversified, meaning assets are concentrated in this single industry. The fund provides equity exposure to the global semiconductor value chain via U.S. exchanges.
+1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies, including common stocks and depositary receipts. It normally invests at least 80% of its assets in the benchmark index constituents, which span medium-cap and foreign chip makers listed on U.S. exchanges. The fund is non-diversified, meaning it can take relatively concentrated positions in its top semiconductor holdings.
 
-1.2. **Profitable?:** unknown
+1.2. **Profitable?:** yes — as an ETF, SMH does not generate operating profits itself but provides exposure to a basket of underlying profitable semiconductor companies, and the dataset shows no losses or negative income at the fund level.
 
-1.3. **Customer & Markets:** The ETF's end investors are equity market participants seeking targeted exposure to the semiconductor industry, while its underlying holdings are U.S.-exchange-listed semiconductor companies. According to ETFDB, it is an equity ETF focused on global semiconductors within the information technology segment, with a vanilla, market-cap-weighted strategy. Its geographic exposure follows where leading chip companies are listed and operate globally, including the U.S. and key foreign semiconductor markets.
+1.3. **Customer & Markets:** SMH's effective "customers" are investors seeking exposure to the Technology – Semiconductors segment via a liquid ETF rather than buying individual chip stocks. Its underlying holdings are U.S. exchange-listed semiconductor producers, including significant exposure to large names like Nvidia and Taiwan Semiconductor that serve global computing and AI hardware markets.
 
-1.4. **Competition:** Primary competitors are other semiconductor-focused ETFs and technology sector funds, as indicated by peer and competitor pages comparing SMH to similar ETFs; specific rival tickers and rank positioning versus them are not detailed in the provided data.
+1.4. **Competition:** Primary competitors are other semiconductor-focused ETFs such as iShares Semiconductor ETF (SOXX), SPDR S&P Semiconductor ETF (XSD), and VanEck Fabless Semiconductor ETF (SMHX), which all target similar chip-industry exposure. SMH is cited among the top semiconductor ETFs to buy, indicating it is one of the leading, larger vehicles in this niche.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from near support toward the $407.72 close beneath resistance at $420.04.
+2.1. **7d Trend?:** up — the 7d Trend label is "up" and price has moved from the lower 400s toward the 407–412 area while staying above the 20-day moving average.
 
-2.2. **7d Buy/Sell Points?:** During the past week, the area near the recent local/7-day low around $374–$376 offered better buy entries, while approaches toward the recent high and resistance around $420 have been favorable sell or trim zones. The current price near $408 sits between these levels, offering less asymmetric short-term reward than buying closer to support.
+2.2. **7d Buy/Sell Points?:** Over the last week, the area near the recent local low/7d support around 375–376 was the best buy zone, while approaches toward the 7d resistance and local high around 420 have been favorable sell or trim levels. With price now near 408, upside to resistance is smaller than the downside back to support.
 
 2.3.1. **7d Volume:** med
 
@@ -371,15 +381,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** VanEck Semiconductor ETF is a long-established, rules-based index ETF rather than an operating company, and it invests in a broad basket of U.S.-listed semiconductor stocks. Its structure as an ETF and its focus on a large, systemically important global industry suggest institutional-scale assets rather than a fly-by-night vehicle. The fund is non-diversified by sector but diversified across multiple semiconductor issuers, spreading issuer-specific risk within the industry. Balance sheet details for the ETF entity are not provided, but as an exchange-traded fund from a major sponsor (VanEck), it operates within regulated fund structures with segregated underlying assets.
+3.1. **Stability?:** SMH appears to be a relatively stable vehicle, tracking a rules-based index of the 25 largest U.S.-listed semiconductor companies rather than relying on a single operating business. The 5-year chart shows a long operating history with major drawdowns but repeated recoveries to new highs, including a current near-peak level versus 1-year and 5-year lows. As an ETF holding liquid, large-cap semiconductor stocks and governed by VanEck's fund structure, it benefits from diversification across issuers even though it is classified as non-diversified. No balance sheet data is provided for the ETF itself, but its construction around established chip leaders suggests lower "fly-by-night" risk compared with single small-cap names.
 
-3.2. **Innovating?:** The ETF itself does not innovate products or technologies; instead, it provides exposure to semiconductor companies that are experiencing strong AI- and chip-driven growth, as reflected in sector news about accelerating AI chip and equipment demand. Its growth is tied to performance and innovation of its underlying semiconductor holdings rather than its own operations.
+3.2. **Innovating?:** SMH's growth and innovation exposure comes from its underlying semiconductor holdings, which benefit from AI-driven chip demand, as highlighted by strong results and guidance from Applied Materials and sector outperformance. The ETF itself is not an operating innovator, but it is clearly tied into structurally growing markets like AI hardware and advanced semiconductors.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines highlight strong semiconductor sector momentum, such as Applied Materials' 20%+ guided revenue growth for 2026 and a 12% stock surge, which reinforces the bullish AI-chip thesis and benefits ETFs like SMH. Another article notes semiconductors outperforming while other tech segments like software slump, showing rotation into chips. Quick facts for SMH flag 'Sell the news? yes', suggesting that strong reported results and AI enthusiasm may already be priced in and can trigger profit-taking after good news. Within the 'buy the rumor, sell the news' framework, this implies investors should be cautious chasing post-news strength in SMH, as sector-positive catalysts have recently driven it to near-peak levels.
+4.1. **News:** Recent news emphasizes a powerful AI-driven demand surge for semiconductors, with Applied Materials guiding to 20%+ equipment revenue growth and semis outperforming while software slumps. Another headline notes Taiwan overtaking China as America's top supplier largely due to AI hardware demand and tariff exemptions on chips and computer equipment, underscoring the strategic importance of SMH's core holdings. Sector strength and strong prints like AMAT's can attract speculative inflows into semiconductor ETFs such as SMH, setting up classic "buy the rumor, sell the news" dynamics if expectations get stretched. The quick-facts flag "Sell the news? yes," which aligns with the idea that strong AI and supply-chain headlines may already be priced into SMH's near-peak levels.
 
-4.2. **Tarrifs:** Tariffs have previously weighed on semiconductor ETFs like SMH, with one ETF analysis noting SMH was down 26% year-to-date during a period of heightened tariff concerns, indicating that new or escalating tariffs can significantly pressure the fund's performance despite underlying long-term demand for chips.
+4.2. **Tarrifs:** Tariffs have had a meaningful but mixed impact on SMH: sector commentary notes that Trump-era tariffs initially pressured semiconductor ETFs like SMH, but exemptions for chips and computer equipment and moves to onshore or friend-shore production have helped the fund's holdings adapt and, in some cases, benefit from U.S.-focused investment.
 
 ## 5. QuickRef
 
@@ -408,11 +418,11 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
-<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, rumor, tariff</li>
-<li>The Guardian: competitive landscape, latest news, tariffs</li>
+<li>NewsAPI: business model, rumor</li>
+<li>cached: prices &amp; technicals</li>
 </ul>
 </div>
 
@@ -422,15 +432,7 @@ raw_markdown: |
 <pre><code>
 Gathering context for SMH...
 Gathering market data...
-Checking massive.com quota and fetching price history...
-Requesting SMH prices from massive.com... (https://api.massive.com/v2/aggs/ticker/SMH/range/1/day/2021-01-18/2026-02-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-massive.com request failed (massive.com returned no price data); switching to yfinance...
-Requesting prices from yfinance fallback...
-  yfinance span 10d: 22 rows
-  yfinance span 3mo: 62 rows
-  yfinance span 1y: 251 rows
-  yfinance span 5y: 1256 rows
-Price data acquired from yfinance.
+Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/SMH/2026-02-13?apiKey=%2A%2A%2A
 Massive open-close: response 200 from https://api.massive.com/v1/open-close/SMH/2026-02-13?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/SMH/prev?adjusted=true&amp;apiKey=%2A%2A%2A
@@ -440,7 +442,7 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/SMH?tim
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/SMH?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/SMH?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/SMH?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/SMH?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/SMH?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
@@ -456,14 +458,14 @@ Retrieving earnings calendar...
 Massive earnings: attempting request with key 2QGS***XN
 Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=SMH&amp;limit=4&amp;apiKey=%2A%2A%2A
 Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=SMH&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMH&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMH&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Filtered 2 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; SMH core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=5
@@ -482,7 +484,12 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMH profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=SMH+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMH+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=5
     google_custom_search: 5 result(s)
@@ -491,7 +498,12 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
     google_custom_search: 5 result(s)
   newsapi search -&gt; SMH market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=5
     google_custom_search: 5 result(s)
@@ -502,9 +514,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
-    guardian: 5 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=5
     google_custom_search: 5 result(s)
@@ -516,14 +529,20 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+rumor&amp;pageSize=5
     newsapi: 1 result(s)
   newsapi search -&gt; SMH tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
-    guardian: 5 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
@@ -531,9 +550,10 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMH tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
-    guardian: 5 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -555,6 +575,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year and 5-year peaks at $407.72 versus lows of $179.39 and $84.45, suggesting elevated cycle risk despite an ongoing uptrend; macro froth visibility is limited to strong AI/semiconductor enthusiasm in recent sector news, while shares sit modestly above the 20-day average ($402.49) and closer to resistance ($420.04) than support ($375.56).&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies. It holds common stocks and depositary receipts of semiconductor firms, including mid-cap an
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is in a strong uptrend and near multi-year/5-year highs with SMH trading above its 20-day average (407.72 vs 402.49) and closer to resistance at 420.04 than support at 375.56; macro froth is hinted by sector AI enthusiasm and a recent 49% rally noted in external analysis but detailed bubble-risk metrics are limited in this dataset&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track an index of U.S.-listed semiconductor companies, including common stocks and depositary receipts. It normally invests at least 80% of its assets in the benchma
 </code></pre>
 </details>
