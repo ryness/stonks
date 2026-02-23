@@ -2,11 +2,11 @@
 layout: default
 title: "META Stock Report"
 ticker: "META"
-date: 2026-02-18
-generated_at: 2026-02-18T06:01:14.737827+00:00
-runtime_seconds: 24.54
+date: 2026-02-23
+generated_at: 2026-02-23T06:05:26.345254+00:00
+runtime_seconds: 32.22
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-18T06:01:14.737827+00:00">2026-02-18 06:01 UTC</time> (runtime 24.54s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-23T06:05:26.345254+00:00">2026-02-23 06:05 UTC</time> (runtime 32.22s)
   
   ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
   
@@ -49,28 +49,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [David Tepper's Appaloosa Ups Micron Stake By 250%, Trims Nvidia And Amazon](https://www.benzinga.com/markets/hedge-funds/26/02/50675304/david-teppers-appaloosa-ups-micron-stake-by-250-trims-nvidia-and-amazon?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-02-17
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — price is at all-time/local resistance around 648 and flagged as overbought while trading above 1-year and 5-year lows; macro froth is hinted by broad AI/tech enthusiasm but not clearly quantified here, and shares sit slightly below the 20-day SMA/EMA yet far above nearby support at ~598-581, skewing reward/risk for new longs
+  0.1. **Long Entry?:** maybe — price is in a strong uptrend and sitting near all-time/local resistance around 648 with the quick facts flagging it as overbought and above its 20-day average of ~611, so risk of a pullback from this level is high; macro froth context is limited, and with support down at ~598–581, better entries likely come closer to those support zones than at current prices near resistance.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. These platforms enable users and businesses to communicate, share content, and run digital businesses, while Meta monetizes primarily by packaging user data for targeted advertising. The company is also investing in its Reality Labs segment (AR/VR and metaverse technologies), though this remains a small portion of overall revenue.
+  1.1. **Activities:** Meta Platforms operates the world's largest social media network through its Family of Apps, which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these apps for communication, entertainment, and running digital businesses, while Meta monetizes them primarily by packaging user data and selling targeted digital advertising. The company is also investing in its Reality Labs unit for virtual/augmented reality, though this remains a small contributor to overall sales.
   
-  1.2. **Profitable?:** yes — Meta is profitable, with roughly $60.5B of cumulative net income over the last four reported periods, a profit margin of about 30%, and strong free cash flow generation.
+  1.2. **Profitable?:** yes — Meta is currently profitable, with a roughly 30% profit margin, multi-year cumulative net income of about $60.5 billion, and strong free cash flow and operating cash flow figures indicating sustained profitability.
   
-  1.3. **Customer & Markets:** Meta's primary customers are global digital advertisers who pay to reach the nearly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span individuals, creators, and businesses worldwide who use its platforms for communication, entertainment, and commerce, with no single geography specified as dominant in the provided data. Reality Labs also targets consumers and developers interested in virtual and mixed reality experiences.
+  1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers of all sizes that buy targeted ads across Facebook, Instagram, Messenger, and WhatsApp, while its end users are nearly 4 billion monthly active individuals and businesses globally who use its platforms for communication and commerce. Its markets are worldwide, with a focus on internet content and information services within the broader communication services sector.
   
-  1.4. **Competition:** Meta competes mainly with other large internet and digital advertising platforms such as Alphabet (Google/YouTube), Snap, Netflix, and major tech ecosystems like Apple, Amazon, Microsoft, Nvidia, Tesla, and AMD. The provided profile describes Meta as the largest social media company globally, indicating a leading position in social networking and social advertising versus these peers.
+  1.4. **Competition:** Meta's main competitors include other large internet and technology platforms such as Alphabet/Google (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Snap (SNAP), Netflix (NFLX), Nvidia (NVDA), Tesla (TSLA), and AMD, particularly in digital advertising, attention, and emerging AI/VR ecosystems. Within global social media and digital advertising, Meta ranks as the largest social media company by users and one of the dominant ad platforms.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from the high-500s/low-600s toward resistance at 648 over the period.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the stock is trading near its 7-day and 30-day resistance around 648 after rising from support levels near 597–581.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day support around 597.63 and the recent local low near 581.86 offered better buy points, while approaches to the 7-day/30-day resistance and local high around 648.05 have been good areas to take profits or trim.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the lower end of the recent range near the 7-day support around 597.63 and the local low near 581.86 represented better buy zones. The recent local and 7-day/30-day resistance around 648.05 is a logical area for short-term sells or trims.
   
   2.3.1. **7d Volume:** low
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Meta appears to be a highly stable institution rather than a fly-by-night operator. It is the largest social media company in the world with close to 4 billion monthly active users and a long operating history across multiple flagship platforms. Financially, it is strongly profitable with a ~30% profit margin, substantial cumulative net income, and large free and operating cash flows. Its scale, diversified app ecosystem, and continued hedge-fund interest (e.g., Appaloosa boosting its stake) all point to durable franchise value, although detailed balance sheet metrics are not provided here.
+  3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night company, as it operates the world's largest social media ecosystem with nearly 4 billion monthly active users. Its financials show consistent profitability, a roughly 30% profit margin, and very strong operating and free cash flow, all of which support balance sheet resilience. The company continues to invest in new areas like Reality Labs while those initiatives remain small relative to core advertising revenue, reducing overall business risk. Its scale, global user base, and sustained earnings power point to high structural stability.
   
-  3.2. **Innovating?:** Meta is actively innovating and growing, as shown by robust revenue growth of about 23.8% and earnings growth of 9.3%, alongside heavy investment in its Reality Labs business and AI-related initiatives. However, Reality Labs is still a small part of total sales, so most growth and profitability currently come from enhancing and expanding the core advertising-driven Family of Apps.
+  3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by its ongoing heavy investment in Reality Labs and solid revenue and earnings growth rates of roughly 24% and 9%, respectively. These metrics suggest it is expanding its core advertising business while pursuing new VR/AR platforms rather than becoming stagnant.
   
   ## 4. Context
   
-  4.1. **News:** Recent news notes that David Tepper's Appaloosa significantly increased its Meta position (up 62%), signaling renewed institutional confidence in the stock within the broader rotation among big tech and AI beneficiaries. This comes amid a context where tech and AI-related names have drawn substantial capital, which may already be reflected in Meta's 'overbought' technical designation and proximity to resistance. With quick facts suggesting 'Sell the news?' = 'yes', any positive headlines or hedge-fund accumulation may already be priced in, creating risk of post-news consolidation or pullback. Investors should be cautious about chasing after such news-driven rallies and instead consider whether gains have front-run the fundamentals.
+  4.1. **News:** Recent structured data show no specific headlines listed for Meta itself, but the quick facts highlight a 'Sell the news?' signal as 'yes,' suggesting that past news-driven rallies may have been followed by profit-taking. In this context, any strong positive announcements could already be priced in given the stock's overbought status and proximity to resistance. The absence of detailed current news in the dataset limits visibility into specific rumors or catalysts, so the classic 'buy the rumor, sell the news' dynamic should be applied cautiously. Overall, the technicals indicate the market has been optimistic recently, which can increase the risk that good news leads to consolidation or pullbacks rather than further immediate upside.
   
-  4.2. **Tarrifs:** Tariffs tied to U.S.–China trade policy are reported to pressure Meta's revenue from Chinese advertisers and could represent a multibillion-dollar headwind, with one estimate citing a potential $7B hit in a year. Nonetheless, coverage also notes that Meta has shrugged off some tariff-related revenue drops and still anticipates continued growth, implying tariffs are a material but not thesis-breaking drag on the stock.
+  4.2. **Tarrifs:** Tariffs have been reported as a headwind that could cost Meta billions of dollars in a given year, potentially pressuring its financials, but coverage also notes that Meta has recently beaten expectations and signaled continued growth despite these tariff impacts. Overall, tariffs are a notable risk factor that can weigh on sentiment and outlook, but they have not prevented the company from delivering strong results so far.
   
   ## 5. QuickRef
   
@@ -115,7 +115,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -156,14 +156,14 @@ raw_markdown: |
   Massive earnings: attempting request with key 2QGS***XN
   Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=%2A%2A%2A
   Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 4 headline(s) from banned sources.
+  Filtered 5 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; META core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=5
@@ -215,13 +215,13 @@ raw_markdown: |
       newsapi: 5 result(s)
     newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=5
       google_custom_search: 5 result(s)
     newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 3 result(s)
     google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=5
       google_custom_search: 5 result(s)
@@ -243,12 +243,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is at all-time/local resistance around 648 and flagged as overbought while trading above 1-year and 5-year lows; macro froth is hinted by broad AI/tech enthusiasm but not clearly quantified here, and shares sit slightly below the 20-day SMA/EMA yet far above nearby support at ~598-581, skewing reward/risk for new longs&quot;,&quot;1.1&quot;:&quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. These platforms enable users and businesses to communicate, share content, and run digital businesses, whi
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a strong uptrend and sitting near all-time/local resistance around 648 with the quick facts flagging it as overbought and above its 20-day average of ~611, so risk of a pullback from this level is high; macro froth context is limited, and with support down at ~598–581, better entries likely come closer to those support zones than at current prices near resistance.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media network through its Family of Apps, which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these apps for communicatio
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-18T06:01:14.737827+00:00">2026-02-18 06:01 UTC</time> (runtime 24.54s)
+**Generated:** <time class="js-local-time" datetime="2026-02-23T06:05:26.345254+00:00">2026-02-23 06:05 UTC</time> (runtime 32.22s)
 
 ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
 
@@ -291,28 +291,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [David Tepper's Appaloosa Ups Micron Stake By 250%, Trims Nvidia And Amazon](https://www.benzinga.com/markets/hedge-funds/26/02/50675304/david-teppers-appaloosa-ups-micron-stake-by-250-trims-nvidia-and-amazon?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-02-17
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — price is at all-time/local resistance around 648 and flagged as overbought while trading above 1-year and 5-year lows; macro froth is hinted by broad AI/tech enthusiasm but not clearly quantified here, and shares sit slightly below the 20-day SMA/EMA yet far above nearby support at ~598-581, skewing reward/risk for new longs
+0.1. **Long Entry?:** maybe — price is in a strong uptrend and sitting near all-time/local resistance around 648 with the quick facts flagging it as overbought and above its 20-day average of ~611, so risk of a pullback from this level is high; macro froth context is limited, and with support down at ~598–581, better entries likely come closer to those support zones than at current prices near resistance.
 
 ## 1. The Biz
 
-1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. These platforms enable users and businesses to communicate, share content, and run digital businesses, while Meta monetizes primarily by packaging user data for targeted advertising. The company is also investing in its Reality Labs segment (AR/VR and metaverse technologies), though this remains a small portion of overall revenue.
+1.1. **Activities:** Meta Platforms operates the world's largest social media network through its Family of Apps, which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these apps for communication, entertainment, and running digital businesses, while Meta monetizes them primarily by packaging user data and selling targeted digital advertising. The company is also investing in its Reality Labs unit for virtual/augmented reality, though this remains a small contributor to overall sales.
 
-1.2. **Profitable?:** yes — Meta is profitable, with roughly $60.5B of cumulative net income over the last four reported periods, a profit margin of about 30%, and strong free cash flow generation.
+1.2. **Profitable?:** yes — Meta is currently profitable, with a roughly 30% profit margin, multi-year cumulative net income of about $60.5 billion, and strong free cash flow and operating cash flow figures indicating sustained profitability.
 
-1.3. **Customer & Markets:** Meta's primary customers are global digital advertisers who pay to reach the nearly 4 billion monthly active users across Facebook, Instagram, Messenger, and WhatsApp. End users span individuals, creators, and businesses worldwide who use its platforms for communication, entertainment, and commerce, with no single geography specified as dominant in the provided data. Reality Labs also targets consumers and developers interested in virtual and mixed reality experiences.
+1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers of all sizes that buy targeted ads across Facebook, Instagram, Messenger, and WhatsApp, while its end users are nearly 4 billion monthly active individuals and businesses globally who use its platforms for communication and commerce. Its markets are worldwide, with a focus on internet content and information services within the broader communication services sector.
 
-1.4. **Competition:** Meta competes mainly with other large internet and digital advertising platforms such as Alphabet (Google/YouTube), Snap, Netflix, and major tech ecosystems like Apple, Amazon, Microsoft, Nvidia, Tesla, and AMD. The provided profile describes Meta as the largest social media company globally, indicating a leading position in social networking and social advertising versus these peers.
+1.4. **Competition:** Meta's main competitors include other large internet and technology platforms such as Alphabet/Google (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Snap (SNAP), Netflix (NFLX), Nvidia (NVDA), Tesla (TSLA), and AMD, particularly in digital advertising, attention, and emerging AI/VR ecosystems. Within global social media and digital advertising, Meta ranks as the largest social media company by users and one of the dominant ad platforms.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from the high-500s/low-600s toward resistance at 648 over the period.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the stock is trading near its 7-day and 30-day resistance around 648 after rising from support levels near 597–581.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day support around 597.63 and the recent local low near 581.86 offered better buy points, while approaches to the 7-day/30-day resistance and local high around 648.05 have been good areas to take profits or trim.
+2.2. **7d Buy/Sell Points?:** Over the last week, the lower end of the recent range near the 7-day support around 597.63 and the local low near 581.86 represented better buy zones. The recent local and 7-day/30-day resistance around 648.05 is a logical area for short-term sells or trims.
 
 2.3.1. **7d Volume:** low
 
@@ -320,15 +320,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Meta appears to be a highly stable institution rather than a fly-by-night operator. It is the largest social media company in the world with close to 4 billion monthly active users and a long operating history across multiple flagship platforms. Financially, it is strongly profitable with a ~30% profit margin, substantial cumulative net income, and large free and operating cash flows. Its scale, diversified app ecosystem, and continued hedge-fund interest (e.g., Appaloosa boosting its stake) all point to durable franchise value, although detailed balance sheet metrics are not provided here.
+3.1. **Stability?:** Meta appears to be a stable, mature institution rather than a fly-by-night company, as it operates the world's largest social media ecosystem with nearly 4 billion monthly active users. Its financials show consistent profitability, a roughly 30% profit margin, and very strong operating and free cash flow, all of which support balance sheet resilience. The company continues to invest in new areas like Reality Labs while those initiatives remain small relative to core advertising revenue, reducing overall business risk. Its scale, global user base, and sustained earnings power point to high structural stability.
 
-3.2. **Innovating?:** Meta is actively innovating and growing, as shown by robust revenue growth of about 23.8% and earnings growth of 9.3%, alongside heavy investment in its Reality Labs business and AI-related initiatives. However, Reality Labs is still a small part of total sales, so most growth and profitability currently come from enhancing and expanding the core advertising-driven Family of Apps.
+3.2. **Innovating?:** Meta is actively innovating and growing, as evidenced by its ongoing heavy investment in Reality Labs and solid revenue and earnings growth rates of roughly 24% and 9%, respectively. These metrics suggest it is expanding its core advertising business while pursuing new VR/AR platforms rather than becoming stagnant.
 
 ## 4. Context
 
-4.1. **News:** Recent news notes that David Tepper's Appaloosa significantly increased its Meta position (up 62%), signaling renewed institutional confidence in the stock within the broader rotation among big tech and AI beneficiaries. This comes amid a context where tech and AI-related names have drawn substantial capital, which may already be reflected in Meta's 'overbought' technical designation and proximity to resistance. With quick facts suggesting 'Sell the news?' = 'yes', any positive headlines or hedge-fund accumulation may already be priced in, creating risk of post-news consolidation or pullback. Investors should be cautious about chasing after such news-driven rallies and instead consider whether gains have front-run the fundamentals.
+4.1. **News:** Recent structured data show no specific headlines listed for Meta itself, but the quick facts highlight a 'Sell the news?' signal as 'yes,' suggesting that past news-driven rallies may have been followed by profit-taking. In this context, any strong positive announcements could already be priced in given the stock's overbought status and proximity to resistance. The absence of detailed current news in the dataset limits visibility into specific rumors or catalysts, so the classic 'buy the rumor, sell the news' dynamic should be applied cautiously. Overall, the technicals indicate the market has been optimistic recently, which can increase the risk that good news leads to consolidation or pullbacks rather than further immediate upside.
 
-4.2. **Tarrifs:** Tariffs tied to U.S.–China trade policy are reported to pressure Meta's revenue from Chinese advertisers and could represent a multibillion-dollar headwind, with one estimate citing a potential $7B hit in a year. Nonetheless, coverage also notes that Meta has shrugged off some tariff-related revenue drops and still anticipates continued growth, implying tariffs are a material but not thesis-breaking drag on the stock.
+4.2. **Tarrifs:** Tariffs have been reported as a headwind that could cost Meta billions of dollars in a given year, potentially pressuring its financials, but coverage also notes that Meta has recently beaten expectations and signaled continued growth despite these tariff impacts. Overall, tariffs are a notable risk factor that can weigh on sentiment and outlook, but they have not prevented the company from delivering strong results so far.
 
 ## 5. QuickRef
 
@@ -357,7 +357,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
@@ -398,14 +398,14 @@ Retrieving earnings calendar...
 Massive earnings: attempting request with key 2QGS***XN
 Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=%2A%2A%2A
 Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=META&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 4 headline(s) from banned sources.
+Filtered 5 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; META core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=5
@@ -457,13 +457,13 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize
     newsapi: 5 result(s)
   newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=5
     google_custom_search: 5 result(s)
   newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 3 result(s)
   google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=5
     google_custom_search: 5 result(s)
@@ -485,6 +485,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is at all-time/local resistance around 648 and flagged as overbought while trading above 1-year and 5-year lows; macro froth is hinted by broad AI/tech enthusiasm but not clearly quantified here, and shares sit slightly below the 20-day SMA/EMA yet far above nearby support at ~598-581, skewing reward/risk for new longs&quot;,&quot;1.1&quot;:&quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp. These platforms enable users and businesses to communicate, share content, and run digital businesses, whi
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a strong uptrend and sitting near all-time/local resistance around 648 with the quick facts flagging it as overbought and above its 20-day average of ~611, so risk of a pullback from this level is high; macro froth context is limited, and with support down at ~598–581, better entries likely come closer to those support zones than at current prices near resistance.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media network through its Family of Apps, which includes Facebook, Instagram, Messenger, and WhatsApp. Users access these apps for communicatio
 </code></pre>
 </details>
