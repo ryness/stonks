@@ -2,11 +2,11 @@
 layout: default
 title: "PYPL Stock Report"
 ticker: "PYPL"
-date: 2026-01-22
-generated_at: 2026-01-22T20:28:30.843743+00:00
-runtime_seconds: 28.21
+date: 2026-02-21
+generated_at: 2026-02-21T15:25:36.090013+00:00
+runtime_seconds: 45.89
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-01-22T20:28:30.843743+00:00">2026-01-22 20:28 UTC</time> (runtime 28.21s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-21T15:25:36.090013+00:00">2026-02-21 15:25 UTC</time> (runtime 45.89s)
   
   ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
   
@@ -44,32 +44,34 @@ raw_markdown: |
   <circle cx="620.49" cy="235.91" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $57.41 · 5y low $50.39</figcaption>
+  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,47.05 12.62,47.05 13.25,41.02 13.87,41.02 14.49,41.19 15.12,41.19 15.74,36.56 16.36,36.56 16.99,25.59 17.61,25.59 18.23,27.10 18.86,27.10 19.48,24.56 20.10,24.56 20.73,28.80 21.35,28.80 21.97,28.69 22.60,28.69 23.22,31.93 23.84,31.93 24.47,33.54 25.09,33.54 25.71,31.73 26.34,31.73 26.96,31.51 27.58,31.51 28.21,26.07 28.83,26.07 29.45,23.27 30.07,23.27 30.70,25.59 31.32,25.59 31.94,26.62 32.57,26.62 33.19,26.07 33.81,26.07 34.44,26.73 35.06,26.73 35.68,30.61 36.31,30.61 36.93,18.92 37.55,18.92 38.18,19.72 38.80,19.72 39.42,17.39 40.05,17.39 40.67,17.05 41.29,17.05 41.92,20.51 42.54,20.51 43.16,14.96 43.79,14.96 44.41,18.73 45.03,18.73 45.66,14.20 46.28,14.20 46.90,13.42 47.53,13.42 48.15,14.65 48.77,14.65 49.40,29.75 50.02,29.75 50.64,26.04 51.27,26.04 51.89,25.06 52.51,25.06 53.14,25.70 53.76,25.70 54.38,21.93 55.01,21.93 55.63,22.24 56.25,22.24 56.88,25.81 57.50,25.81 58.12,29.80 58.75,29.80 59.37,30.03 59.99,30.03 60.62,27.71 61.24,27.71 61.86,23.75 62.49,23.75 63.11,18.36 63.73,18.36 64.36,22.72 64.98,22.72 65.60,22.80 66.22,22.80 66.85,35.58 67.47,35.58 68.09,33.82 68.72,33.82 69.34,24.92 69.96,24.92 70.59,18.06 71.21,18.06 71.83,20.07 72.46,20.07 73.08,12.00 73.70,12.00 74.33,17.69 74.95,17.69 75.57,17.47 76.20,17.47 76.82,17.80 77.44,17.80 78.07,19.53 78.69,19.53 79.31,16.38 79.94,16.38 80.56,22.10 81.18,22.10 81.81,20.51 82.43,20.51 83.05,18.25 83.68,18.25 84.30,21.01 84.92,21.01 85.55,18.42 86.17,18.42 86.79,51.31 87.42,51.31 88.04,47.19 88.66,47.19 89.29,48.95 89.91,48.95 90.53,52.47 91.16,52.47 91.78,49.87 92.40,49.87 93.03,55.53 93.65,55.53 94.27,55.37 94.90,55.37 95.52,54.47 96.14,54.47 96.77,50.62 97.39,50.62 98.01,48.81 98.64,48.81 99.26,49.53 99.88,49.53 100.50,51.57 101.13,51.57 101.75,59.05 102.37,59.05 103.00,58.21 103.62,58.21 104.24,61.51 104.87,61.51 105.49,67.14 106.11,67.14 106.74,70.83 107.36,70.83 107.98,69.93 108.61,69.93 109.23,73.56 109.85,73.56 110.48,79.90 111.10,79.90 111.72,74.26 112.35,74.26 112.97,78.22 113.59,78.22 114.22,71.53 114.84,71.53 115.46,78.00 116.09,78.00 116.71,78.50 117.33,78.50 117.96,76.72 118.58,76.72 119.20,81.49 119.83,81.49 120.45,75.80 121.07,75.80 121.70,73.84 122.32,73.84 122.94,75.99 123.57,75.99 124.19,72.87 124.81,72.87 125.44,73.79 126.06,73.79 126.68,72.33 127.31,72.33 127.93,70.16 128.55,70.16 129.18,70.47 129.80,70.47 130.42,72.95 131.05,72.95 131.67,76.05 132.29,76.05 132.92,86.40 133.54,86.40 134.16,86.12 134.79,86.12 135.41,83.75 136.03,83.75 136.65,80.82 137.28,80.82 137.90,96.00 138.52,96.00 139.15,105.32 139.77,105.32 140.39,104.87 141.02,104.87 141.64,108.00 142.26,108.00 142.89,89.75 143.51,89.75 144.13,99.21 144.76,99.21 145.38,93.54 146.00,93.54 146.63,94.44 147.25,94.44 147.87,95.19 148.50,95.19 149.12,100.10 149.74,100.10 150.37,97.98 150.99,97.98 151.61,99.98 152.24,99.98 152.86,96.81 153.48,96.81 154.11,93.91 154.73,93.91 155.35,87.46 155.98,87.46 156.60,85.87 157.22,85.87 157.85,87.01 158.47,87.01 159.09,83.13 159.72,83.13 160.34,84.47 160.96,84.47 161.59,85.67 162.21,85.67 162.83,80.57 163.46,80.57 164.08,76.94 164.70,76.94 165.33,78.31 165.95,78.31 166.57,76.52 167.20,76.52 167.82,71.53 168.44,71.53 169.07,72.14 169.69,72.14 170.31,66.42 170.93,66.42 171.56,66.47 172.18,66.47 172.80,65.39 173.43,65.39 174.05,68.48 174.67,68.48 175.30,66.78 175.92,66.78 176.54,66.39 177.17,66.39 177.79,65.58 178.41,65.58 179.04,68.26 179.66,68.26 180.28,68.82 180.91,68.82 181.53,73.28 182.15,73.28 182.78,68.73 183.40,68.73 184.02,68.85 184.65,68.85 185.27,70.27 185.89,70.27 186.52,72.08 187.14,72.08 187.76,70.27 188.39,70.27 189.01,69.15 189.63,69.15 190.26,65.05 190.88,65.05 191.50,65.97 192.13,65.97 192.75,63.29 193.37,63.29 194.00,62.96 194.62,62.96 195.24,59.58 195.87,59.58 196.49,60.00 197.11,60.00 197.74,59.44 198.36,59.44 198.98,70.55 199.61,70.55 200.23,66.56 200.85,66.56 201.48,71.00 202.10,71.00 202.72,76.86 203.35,76.86 203.97,72.73 204.59,72.73 205.21,67.26 205.84,67.26 206.46,62.87 207.08,62.87 207.71,64.30 208.33,64.30 208.95,64.02 209.58,64.02 210.20,62.71 210.82,62.71 211.45,60.81 212.07,60.81 212.69,58.10 213.32,58.10 213.94,55.26 214.56,55.26 215.19,54.47 215.81,54.47 216.43,55.62 217.06,55.62 217.68,58.83 218.30,58.83 218.93,59.39 219.55,59.39 220.17,56.96 220.80,56.96 221.42,69.07 222.04,69.07 222.67,62.01 223.29,62.01 223.91,64.60 224.54,64.60 225.16,64.58 225.78,64.58 226.41,62.09 227.03,62.09 227.65,61.23 228.28,61.23 228.90,59.41 229.52,59.41 230.15,56.12 230.77,56.12 231.39,54.28 232.02,54.28 232.64,51.04 233.26,51.04 233.89,50.60 234.51,50.60 235.13,49.93 235.76,49.93 236.38,68.82 237.00,68.82 237.63,73.67 238.25,73.67 238.87,76.33 239.50,76.33 240.12,80.93 240.74,80.93 241.36,78.42 241.99,78.42 242.61,78.92 243.23,78.92 243.86,74.48 244.48,74.48 245.10,77.83 245.73,77.83 246.35,79.42 246.97,79.42 247.60,81.01 248.22,81.01 248.84,78.53 249.47,78.53 250.09,71.11 250.71,71.11 251.34,74.60 251.96,74.60 252.58,75.01 253.21,75.01 253.83,74.18 254.45,74.18 255.08,75.52 255.70,75.52 256.32,78.22 256.95,78.22 257.57,79.70 258.19,79.70 258.82,73.14 259.44,73.14 260.06,74.32 260.69,74.32 261.31,72.36 261.93,72.36 262.56,73.84 263.18,73.84 263.80,72.70 264.43,72.70 265.05,72.33 265.67,72.33 266.30,74.96 266.92,74.96 267.54,73.87 268.17,73.87 268.79,77.16 269.41,77.16 270.04,77.72 270.66,77.72 271.28,77.33 271.91,77.33 272.53,79.34 273.15,79.34 273.78,85.03 274.40,85.03 275.02,80.48 275.64,80.48 276.27,81.54 276.89,81.54 277.51,80.93 278.14,80.93 278.76,81.66 279.38,81.66 280.01,76.72 280.63,76.72 281.25,77.00 281.88,77.00 282.50,77.83 283.12,77.83 283.75,79.34 284.37,79.34 284.99,80.37 285.62,80.37 286.24,78.84 286.86,78.84 287.49,81.96 288.11,81.96 288.73,80.40 289.36,80.40 289.98,73.76 290.60,73.76 291.23,81.07 291.85,81.07 292.47,82.19 293.10,82.19 293.72,75.85 294.34,75.85 294.97,74.96 295.59,74.96 296.21,69.27 296.84,69.27 297.46,60.00 298.08,60.00 298.71,55.76 299.33,55.76 299.95,56.82 300.58,56.82 301.20,73.31 301.82,73.31 302.45,76.05 303.07,76.05 303.69,75.24 304.32,75.24 304.94,78.50 305.56,78.50 306.19,83.89 306.81,83.89 307.43,80.09 308.06,80.09 308.68,75.10 309.30,75.10 309.93,72.73 310.55,72.73 311.17,78.25 311.79,78.25 312.42,73.81 313.04,73.81 313.66,73.51 314.29,73.51 314.91,72.17 315.53,72.17 316.16,64.44 316.78,64.44 317.40,73.76 318.03,73.76 318.65,78.64 319.27,78.64 319.90,74.90 320.52,74.90 321.14,77.50 321.77,77.50 322.39,83.80 323.01,83.80 323.64,78.28 324.26,78.28 324.88,83.30 325.51,83.30 326.13,83.41 326.75,83.41 327.38,83.22 328.00,83.22" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,47.05 12.62,47.05 13.25,41.02 13.87,41.02 14.49,41.19 15.12,41.19 15.74,36.56 16.36,36.56 16.99,25.59 17.61,25.59 18.23,27.10 18.86,27.10 19.48,24.56 20.10,24.56 20.73,28.80 21.35,28.80 21.97,28.69 22.60,28.69 23.22,31.93 23.84,31.93 24.47,33.54 25.09,33.54 25.71,31.73 26.34,31.73 26.96,31.51 27.58,31.51 28.21,26.07 28.83,26.07 29.45,23.27 30.07,23.27 30.70,25.59 31.32,25.59 31.94,26.62 32.57,26.62 33.19,26.07 33.81,26.07 34.44,26.73 35.06,26.73 35.68,30.61 36.31,30.61 36.93,18.92 37.55,18.92 38.18,19.72 38.80,19.72 39.42,17.39 40.05,17.39 40.67,17.05 41.29,17.05 41.92,20.51 42.54,20.51 43.16,14.96 43.79,14.96 44.41,18.73 45.03,18.73 45.66,14.20 46.28,14.20 46.90,13.42 47.53,13.42 48.15,14.65 48.77,14.65 49.40,29.75 50.02,29.75 50.64,26.04 51.27,26.04 51.89,25.06 52.51,25.06 53.14,25.70 53.76,25.70 54.38,21.93 55.01,21.93 55.63,22.24 56.25,22.24 56.88,25.81 57.50,25.81 58.12,29.80 58.75,29.80 59.37,30.03 59.99,30.03 60.62,27.71 61.24,27.71 61.86,23.75 62.49,23.75 63.11,18.36 63.73,18.36 64.36,22.72 64.98,22.72 65.60,22.80 66.22,22.80 66.85,35.58 67.47,35.58 68.09,33.82 68.72,33.82 69.34,24.92 69.96,24.92 70.59,18.06 71.21,18.06 71.83,20.07 72.46,20.07 73.08,12.00 73.70,12.00 74.33,17.69 74.95,17.69 75.57,17.47 76.20,17.47 76.82,17.80 77.44,17.80 78.07,19.53 78.69,19.53 79.31,16.38 79.94,16.38 80.56,22.10 81.18,22.10 81.81,20.51 82.43,20.51 83.05,18.25 83.68,18.25 84.30,21.01 84.92,21.01 85.55,18.42 86.17,18.42 86.79,51.31 87.42,51.31 88.04,47.19 88.66,47.19 89.29,48.95 89.91,48.95 90.53,52.47 91.16,52.47 91.78,49.87 92.40,49.87 93.03,55.53 93.65,55.53 94.27,55.37 94.90,55.37 95.52,54.47 96.14,54.47 96.77,50.62 97.39,50.62 98.01,48.81 98.64,48.81 99.26,49.53 99.88,49.53 100.50,51.57 101.13,51.57 101.75,59.05 102.37,59.05 103.00,58.21 103.62,58.21 104.24,61.51 104.87,61.51 105.49,67.14 106.11,67.14 106.74,70.83 107.36,70.83 107.98,69.93 108.61,69.93 109.23,73.56 109.85,73.56 110.48,79.90 111.10,79.90 111.72,74.26 112.35,74.26 112.97,78.22 113.59,78.22 114.22,71.53 114.84,71.53 115.46,78.00 116.09,78.00 116.71,78.50 117.33,78.50 117.96,76.72 118.58,76.72 119.20,81.49 119.83,81.49 120.45,75.80 121.07,75.80 121.70,73.84 122.32,73.84 122.94,75.99 123.57,75.99 124.19,72.87 124.81,72.87 125.44,73.79 126.06,73.79 126.68,72.33 127.31,72.33 127.93,70.16 128.55,70.16 129.18,70.47 129.80,70.47 130.42,72.95 131.05,72.95 131.67,76.05 132.29,76.05 132.92,86.40 133.54,86.40 134.16,86.12 134.79,86.12 135.41,83.75 136.03,83.75 136.65,80.82 137.28,80.82 137.90,96.00 138.52,96.00 139.15,105.32 139.77,105.32 140.39,104.87 141.02,104.87 141.64,108.00 142.26,108.00 142.89,89.75 143.51,89.75 144.13,99.21 144.76,99.21 145.38,93.54 146.00,93.54 146.63,94.44 147.25,94.44 147.87,95.19 148.50,95.19 149.12,100.10 149.74,100.10 150.37,97.98 150.99,97.98 151.61,99.98 152.24,99.98 152.86,96.81 153.48,96.81 154.11,93.91 154.73,93.91 155.35,87.46 155.98,87.46 156.60,85.87 157.22,85.87 157.85,87.01 158.47,87.01 159.09,83.13 159.72,83.13 160.34,84.47 160.96,84.47 161.59,85.67 162.21,85.67 162.83,80.57 163.46,80.57 164.08,76.94 164.70,76.94 165.33,78.31 165.95,78.31 166.57,76.52 167.20,76.52 167.82,71.53 168.44,71.53 169.07,72.14 169.69,72.14 170.31,66.42 170.93,66.42 171.56,66.47 172.18,66.47 172.80,65.39 173.43,65.39 174.05,68.48 174.67,68.48 175.30,66.78 175.92,66.78 176.54,66.39 177.17,66.39 177.79,65.58 178.41,65.58 179.04,68.26 179.66,68.26 180.28,68.82 180.91,68.82 181.53,73.28 182.15,73.28 182.78,68.73 183.40,68.73 184.02,68.85 184.65,68.85 185.27,70.27 185.89,70.27 186.52,72.08 187.14,72.08 187.76,70.27 188.39,70.27 189.01,69.15 189.63,69.15 190.26,65.05 190.88,65.05 191.50,65.97 192.13,65.97 192.75,63.29 193.37,63.29 194.00,62.96 194.62,62.96 195.24,59.58 195.87,59.58 196.49,60.00 197.11,60.00 197.74,59.44 198.36,59.44 198.98,70.55 199.61,70.55 200.23,66.56 200.85,66.56 201.48,71.00 202.10,71.00 202.72,76.86 203.35,76.86 203.97,72.73 204.59,72.73 205.21,67.26 205.84,67.26 206.46,62.87 207.08,62.87 207.71,64.30 208.33,64.30 208.95,64.02 209.58,64.02 210.20,62.71 210.82,62.71 211.45,60.81 212.07,60.81 212.69,58.10 213.32,58.10 213.94,55.26 214.56,55.26 215.19,54.47 215.81,54.47 216.43,55.62 217.06,55.62 217.68,58.83 218.30,58.83 218.93,59.39 219.55,59.39 220.17,56.96 220.80,56.96 221.42,69.07 222.04,69.07 222.67,62.01 223.29,62.01 223.91,64.60 224.54,64.60 225.16,64.58 225.78,64.58 226.41,62.09 227.03,62.09 227.65,61.23 228.28,61.23 228.90,59.41 229.52,59.41 230.15,56.12 230.77,56.12 231.39,54.28 232.02,54.28 232.64,51.04 233.26,51.04 233.89,50.60 234.51,50.60 235.13,49.93 235.76,49.93 236.38,68.82 237.00,68.82 237.63,73.67 238.25,73.67 238.87,76.33 239.50,76.33 240.12,80.93 240.74,80.93 241.36,78.42 241.99,78.42 242.61,78.92 243.23,78.92 243.86,74.48 244.48,74.48 245.10,77.83 245.73,77.83 246.35,79.42 246.97,79.42 247.60,81.01 248.22,81.01 248.84,78.53 249.47,78.53 250.09,71.11 250.71,71.11 251.34,74.60 251.96,74.60 252.58,75.01 253.21,75.01 253.83,74.18 254.45,74.18 255.08,75.52 255.70,75.52 256.32,78.22 256.95,78.22 257.57,79.70 258.19,79.70 258.82,73.14 259.44,73.14 260.06,74.32 260.69,74.32 261.31,72.36 261.93,72.36 262.56,73.84 263.18,73.84 263.80,72.70 264.43,72.70 265.05,72.33 265.67,72.33 266.30,74.96 266.92,74.96 267.54,73.87 268.17,73.87 268.79,77.16 269.41,77.16 270.04,77.72 270.66,77.72 271.28,77.33 271.91,77.33 272.53,79.34 273.15,79.34 273.78,85.03 274.40,85.03 275.02,80.48 275.64,80.48 276.27,81.54 276.89,81.54 277.51,80.93 278.14,80.93 278.76,81.66 279.38,81.66 280.01,76.72 280.63,76.72 281.25,77.00 281.88,77.00 282.50,77.83 283.12,77.83 283.75,79.34 284.37,79.34 284.99,80.37 285.62,80.37 286.24,78.84 286.86,78.84 287.49,81.96 288.11,81.96 288.73,80.40 289.36,80.40 289.98,73.76 290.60,73.76 291.23,81.07 291.85,81.07 292.47,82.19 293.10,82.19 293.72,75.85 294.34,75.85 294.97,74.96 295.59,74.96 296.21,69.27 296.84,69.27 297.46,60.00 298.08,60.00 298.71,55.76 299.33,55.76 299.95,56.82 300.58,56.82 301.20,73.31 301.82,73.31 302.45,76.05 303.07,76.05 303.69,75.24 304.32,75.24 304.94,78.50 305.56,78.50 306.19,83.89 306.81,83.89 307.43,80.09 308.06,80.09 308.68,75.10 309.30,75.10 309.93,72.73 310.55,72.73 311.17,78.25 311.79,78.25 312.42,73.81 313.04,73.81 313.66,73.51 314.29,73.51 314.91,72.17 315.53,72.17 316.16,64.44 316.78,64.44 317.40,73.76 318.03,73.76 318.65,78.64 319.27,78.64 319.90,74.90 320.52,74.90 321.14,77.50 321.77,77.50 322.39,83.80 323.01,83.80 323.64,78.28 324.26,78.28 324.88,83.30 325.51,83.30 326.13,83.41 326.75,83.41 327.38,83.22 328.00,83.22 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,45.04 13.87,45.04 15.74,52.14 17.61,52.14 19.48,52.06 21.35,52.06 23.22,45.27 25.09,45.27 26.96,42.91 28.83,42.91 30.70,37.95 32.57,37.95 34.44,28.94 36.31,28.94 38.18,23.90 40.05,23.90 41.92,15.05 43.79,15.05 45.66,13.83 47.53,13.83 49.40,12.00 51.27,12.00 53.14,63.66 55.01,63.66 56.88,76.94 58.75,76.94 60.62,84.19 62.49,84.19 64.36,96.78 66.22,96.78 68.09,89.91 69.96,89.91 71.83,91.29 73.70,91.29 75.57,79.15 77.44,79.15 79.31,88.31 81.18,88.31 83.05,92.66 84.92,92.66 86.79,97.01 88.66,97.01 90.53,90.22 92.40,90.22 94.27,69.92 96.14,69.92 98.01,79.46 99.88,79.46 101.75,80.60 103.62,80.60 105.49,78.31 107.36,78.31 109.23,81.98 111.10,81.98 112.97,89.38 114.84,89.38 116.71,93.42 118.58,93.42 120.45,75.49 122.32,75.49 124.19,78.70 126.06,78.70 127.93,73.35 129.80,73.35 131.67,77.40 133.54,77.40 135.41,74.27 137.28,74.27 139.15,73.28 141.02,73.28 142.89,80.45 144.76,80.45 146.63,77.48 148.50,77.48 150.37,86.48 152.24,86.48 154.11,88.01 155.98,88.01 157.85,86.94 159.72,86.94 161.59,92.43 163.46,92.43 165.33,108.00 167.20,108.00 169.07,95.56 170.93,95.56 172.80,98.46 174.67,98.46 176.54,96.78 178.41,96.78 180.28,98.77 182.15,98.77 184.02,85.26 185.89,85.26 187.76,86.02 189.63,86.02 191.50,88.31 193.37,88.31 195.24,92.43 197.11,92.43 198.98,95.26 200.85,95.26 202.72,91.06 204.59,91.06 206.46,99.61 208.33,99.61 210.20,95.33 212.07,95.33 213.94,77.17 215.81,77.17 217.68,97.16 219.55,97.16 221.42,100.22 223.29,100.22 225.16,82.89 227.03,82.89 228.90,80.45 230.77,80.45 232.64,64.88 234.51,64.88 236.38,39.55 238.25,39.55 240.12,27.95 241.99,27.95 243.86,30.85 245.73,30.85 247.60,75.95 249.47,75.95 251.34,83.43 253.21,83.43 255.08,81.21 256.95,81.21 258.82,90.14 260.69,90.14 262.56,104.87 264.43,104.87 266.30,94.49 268.17,94.49 270.04,80.83 271.91,80.83 273.78,74.35 275.64,74.35 277.51,89.46 279.38,89.46 281.25,77.32 283.12,77.32 284.99,76.48 286.86,76.48 288.73,72.82 290.60,72.82 292.47,51.68 294.34,51.68 296.21,77.17 298.08,77.17 299.95,90.52 301.82,90.52 303.69,80.30 305.56,80.30 307.43,87.40 309.30,87.40 311.17,104.64 313.04,104.64 314.91,89.53 316.78,89.53 318.65,103.27 320.52,103.27 322.39,103.57 324.26,103.57 326.13,103.04 328.00,103.04" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,45.04 13.87,45.04 15.74,52.14 17.61,52.14 19.48,52.06 21.35,52.06 23.22,45.27 25.09,45.27 26.96,42.91 28.83,42.91 30.70,37.95 32.57,37.95 34.44,28.94 36.31,28.94 38.18,23.90 40.05,23.90 41.92,15.05 43.79,15.05 45.66,13.83 47.53,13.83 49.40,12.00 51.27,12.00 53.14,63.66 55.01,63.66 56.88,76.94 58.75,76.94 60.62,84.19 62.49,84.19 64.36,96.78 66.22,96.78 68.09,89.91 69.96,89.91 71.83,91.29 73.70,91.29 75.57,79.15 77.44,79.15 79.31,88.31 81.18,88.31 83.05,92.66 84.92,92.66 86.79,97.01 88.66,97.01 90.53,90.22 92.40,90.22 94.27,69.92 96.14,69.92 98.01,79.46 99.88,79.46 101.75,80.60 103.62,80.60 105.49,78.31 107.36,78.31 109.23,81.98 111.10,81.98 112.97,89.38 114.84,89.38 116.71,93.42 118.58,93.42 120.45,75.49 122.32,75.49 124.19,78.70 126.06,78.70 127.93,73.35 129.80,73.35 131.67,77.40 133.54,77.40 135.41,74.27 137.28,74.27 139.15,73.28 141.02,73.28 142.89,80.45 144.76,80.45 146.63,77.48 148.50,77.48 150.37,86.48 152.24,86.48 154.11,88.01 155.98,88.01 157.85,86.94 159.72,86.94 161.59,92.43 163.46,92.43 165.33,108.00 167.20,108.00 169.07,95.56 170.93,95.56 172.80,98.46 174.67,98.46 176.54,96.78 178.41,96.78 180.28,98.77 182.15,98.77 184.02,85.26 185.89,85.26 187.76,86.02 189.63,86.02 191.50,88.31 193.37,88.31 195.24,92.43 197.11,92.43 198.98,95.26 200.85,95.26 202.72,91.06 204.59,91.06 206.46,99.61 208.33,99.61 210.20,95.33 212.07,95.33 213.94,77.17 215.81,77.17 217.68,97.16 219.55,97.16 221.42,100.22 223.29,100.22 225.16,82.89 227.03,82.89 228.90,80.45 230.77,80.45 232.64,64.88 234.51,64.88 236.38,39.55 238.25,39.55 240.12,27.95 241.99,27.95 243.86,30.85 245.73,30.85 247.60,75.95 249.47,75.95 251.34,83.43 253.21,83.43 255.08,81.21 256.95,81.21 258.82,90.14 260.69,90.14 262.56,104.87 264.43,104.87 266.30,94.49 268.17,94.49 270.04,80.83 271.91,80.83 273.78,74.35 275.64,74.35 277.51,89.46 279.38,89.46 281.25,77.32 283.12,77.32 284.99,76.48 286.86,76.48 288.73,72.82 290.60,72.82 292.47,51.68 294.34,51.68 296.21,77.17 298.08,77.17 299.95,90.52 301.82,90.52 303.69,80.30 305.56,80.30 307.43,87.40 309.30,87.40 311.17,104.64 313.04,104.64 314.91,89.53 316.78,89.53 318.65,103.27 320.52,103.27 322.39,103.57 324.26,103.57 326.13,103.04 328.00,103.04 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
   </figure>
   
   ### Latest news (0-3 days)
   
-  - [PayPal (PYPL) Stock Jumps As Trump Shelves Tariff Threat](https://www.benzinga.com/trading-ideas/movers/26/01/50054636/paypal-pypl-stock-jumps-as-trump-shelves-tariff-threat?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-01-21
+  - [PYPL Stockholder Alert: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Lawsuit Against PayPal Holdings, Inc.](https://www.globenewswire.com/news-release/2026/02/20/3242174/32719/en/PYPL-Stockholder-Alert-Shareholder-Rights-Law-Firm-Robbins-LLP-Reminds-Investors-of-the-Class-Action-Lawsuit-Against-PayPal-Holdings-Inc.html) — GlobeNewswire Inc. · 2026-02-20
+  - [PYPL Investors Have Opportunity to Lead PayPal Holdings, Inc. Securities Fraud Lawsuit with the Schall Law Firm](https://www.globenewswire.com/news-release/2026/02/20/3242116/0/en/PYPL-Investors-Have-Opportunity-to-Lead-PayPal-Holdings-Inc-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html) — GlobeNewswire Inc. · 2026-02-20
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 3-month and 5-year near-bottom levels but are in a 7-day downtrend and below the 20-day moving average around 68.11 with resistance near 68.21; macro froth visibility is limited, though recent tariff-shelving news eased a prior overhang and price is close to support at 64.78
+  0.1. **Long Entry?:** maybe — trading near 5-year near-bottom levels and just above 1-year support around $64.78 suggests a potentially attractive entry but with limited margin of safety; macro froth context is not provided and price is below its 20-day average and capped by nearby resistance at ~$68.21, so confirmation of a turn from the current downtrend is still lacking.
   
   ## 1. The Biz
   
-  1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, with a focus on online and mobile transactions. Its platform includes the PayPal digital wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods, send and receive money, and pay at online and in-store merchants worldwide. The company also participates in adjacent areas such as remittances and unbranded card processing for merchants.
+  1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, focused primarily on online and digital transactions. It operates the PayPal digital wallet and checkout platform and also owns Venmo, a person-to-person payment service. The company enables payments across e-commerce and other digital channels for hundreds of millions of active accounts worldwide.
   
-  1.2. **Profitable?:** yes — PayPal is profitable, with recent net income totaling about $4.9B, a profit margin near 15%, positive free cash flow, and both revenue and earnings growing year over year.
+  1.2. **Profitable?:** yes — PayPal is profitable, with recent net income totaling about $5.23 billion, a profit margin of roughly 15.8%, and strong free cash flow generation.
   
-  1.3. **Customer & Markets:** PayPal serves consumers and merchants that need to send, receive, and process digital payments, including online retailers, small businesses, and users of peer-to-peer services like Venmo. Its markets are global, spanning over 100 countries, with significant activity in North America, Europe, and other regions where online and mobile commerce are growing rapidly. The company also supports segments like remittances and cross-border e-commerce payments.
+  1.3. **Customer & Markets:** PayPal serves both merchants and consumers as its primary customers, facilitating online and digital payments between buyers and sellers. Its markets span global e-commerce and digital payments, with 434 million active accounts reported at the end of 2024 and operations based out of the United States.
   
-  1.4. **Competition:** Key competitors include Apple, Amazon, Visa, Affirm, Coinbase, and other online and mobile payment processors, as well as fintechs like Block and Stripe referenced in third-party market share data. Within online payment processing, external sources show PayPal holding a leading share of around 30–45%, placing it among the top global players.
+  1.4. **Competition:** Key competitors include large e-commerce and payment platforms such as eBay, Shopify, Amazon, Apple, and Visa, as well as other fintech and brokerage players like Coinbase, Affirm, Robinhood, and SoFi. Recent commentary notes PayPal is facing fierce competition and has lost some market share in checkout, indicating it is under pressure rather than clearly leading the field.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the stock has been in a labeled downtrend, slipping from around resistance at 68.21 toward support near 64.78.
+  2.1. **7d Trend?:** down — the 7d trend is labeled 'down' and price has slipped from recent levels toward support around $64.78 while staying below nearby resistance at ~$68.21.
   
-  2.2. **7d Buy/Sell Points?:** In the past 7 days, prices near the identified support around 64.78 offered the better buy zone, while approaches toward resistance near 68.21 were better opportunities to sell or trim. Trading within this narrow band has defined the recent range-bound yet downward-biased action.
+  2.2. **7d Buy/Sell Points?:** Buying near the identified support around $64.78 appears to have been the better entry zone over the last week, while selling or trimming positions closer to the short-term resistance near $68.21 offered favorable exit levels.
   
   2.3.1. **7d Volume:** low
   
@@ -77,15 +79,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** PayPal is a long-established financial technology company spun off from eBay in 2015, now operating as a large multinational payments provider with 434 million active accounts at the end of 2024. Its balance sheet strength is suggested by sustained profitability, robust free cash flow of over $3.1B, and growing operating cash flow. The stock has been volatile, falling about 75.6% over five years and 37.55% over the last 12 months according to referenced sources, but this reflects sentiment and competition more than business continuity risk. Overall, PayPal appears to be a stable institution in digital payments rather than a fly-by-night operator, though investors must tolerate significant share price swings.
+  3.1. **Stability?:** PayPal is a long-established, large-cap financial technology company that was spun off from eBay in 2015 and now serves 434 million active accounts, indicating substantial scale. Its financials show consistent profitability, positive earnings growth of 28.2%, and strong free cash flow and operating cash flow, which support balance-sheet resilience. However, the stock has fallen back near IPO-era prices and toward 5-year lows, reflecting market concerns about slowed growth and competitive pressures rather than imminent failure. Multiple securities class action lawsuits related to alleged misleading statements on growth and outlook add legal and governance overhang, but they do not negate the company's underlying operational stability. Overall, it appears more like a pressured but durable institution than a fly-by-night operator.
   
-  3.2. **Innovating?:** PayPal is innovating and growing, with 7.3% revenue growth and 23.6% earnings growth, and corporate materials highlighting new AI-driven commerce innovations and an expanded portfolio across financial services and commerce enablement. However, external commentary notes that the company has at times been late to new technologies, indicating a mix of ongoing innovation with competitive pressure.
+  3.2. **Innovating?:** PayPal is still growing, with revenue up about 3.7% and earnings up 28.2%, but recent news highlights slowed growth, market share losses, and leadership uncertainty, suggesting innovation and execution have lagged peers rather than being strongly dynamic.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines emphasize that PayPal stock jumped after President Trump shelved planned tariffs, removing a trade overhang that could have hurt its European cross-border volumes, yet the shares remain in a bearish trend and down sharply over 12 months. Industry reports highlight the explosive global growth of mobile payments and stablecoins becoming core financial infrastructure, which supports long-term demand for digital payment platforms like PayPal. Additional news shows PayPal being adopted as a payment option by online casinos, reflecting continued integration into new digital commerce verticals. Given the prior tariff fears and now-positive headline about tariffs being shelved, there is evidence of a classic 'buy the rumor, sell the news' setup where the relief rally may already price in the good news while the broader downtrend persists.
+  4.1. **News:** Recent news is dominated by multiple securities class action lawsuits alleging PayPal misled investors about Branded Checkout growth prospects, revenue outlook, and 2027 financial targets. The stock fell over 20% on February 3, 2026 after disappointing Q4 results, withdrawal of long-term targets, and a CEO transition, which shifted sentiment sharply negative. Commentary notes that while the stock trades near IPO-era prices with a low P/E and record revenue, growth has slowed and competitive pressure has intensified, framing the setup as either deep value or a potential value trap. These developments suggest that earlier optimism and guidance functioned as the "rumor," with the earnings miss and leadership change being the "news" that investors sold aggressively. Going forward, legal overhang and execution risk may keep rallies vulnerable to "sell the news" reactions until credibility is rebuilt.
   
-  4.2. **Tarrifs:** News indicates that proposed Trump tariffs previously pressured PayPal shares on concerns about weaker consumer spending and cross-border volumes, while the subsequent shelving of those tariffs led to a spike in the stock as this overhang was removed. Overall, tariffs and tariff fears have created meaningful volatility in the stock tied to expectations for consumer and international transaction activity.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -93,7 +95,7 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>Last Q4</td><td>$4.92B</td></tr>
+  <tr><td>Last Q4</td><td>$5.23B</td></tr>
   <tr><td>Price</td><td>66.29</td></tr>
   <tr><td>7d Resistance</td><td>68.21</td></tr>
   <tr><td>7d Support</td><td>64.78</td></tr>
@@ -114,11 +116,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: market expansion, tariff, latest news, tariffs</li>
-  <li>The Guardian: business model, profit outlook, competitive landscape, rumor</li>
+  <li>NewsAPI: core business, profitability, earnings trend, business model, profit outlook</li>
+  <li>GNews: market share</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -156,91 +157,198 @@ raw_markdown: |
   Massive earnings: attempting request with key 2QGS***XN
   Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=PYPL&amp;limit=4&amp;apiKey=%2A%2A%2A
   Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=PYPL&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=PYPL&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PYPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 5 articles.
     massive.com returned 5 headlines
-  Filtered 1 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; PYPL core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
     google_custom_search search -&gt; PYPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 1 result(s)
     google_custom_search search -&gt; PYPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
     google_custom_search search -&gt; PYPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
-      guardian: 5 result(s)
+      newsapi: 5 result(s)
     google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+  NewsAPI search failed for &#x27;PYPL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 2 result(s)
     newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
+  Guardian search failed for &#x27;PYPL competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
-      guardian: 5 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-      newsapi: 0 result(s)
+  Guardian search failed for &#x27;PYPL rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
-      guardian: 5 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+  NewsAPI search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  NewsAPI search failed for &#x27;PYPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PYPL tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+  NewsAPI search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PYPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;PYPL tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PYPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;PYPL tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -259,12 +367,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month and 5-year near-bottom levels but are in a 7-day downtrend and below the 20-day moving average around 68.11 with resistance near 68.21; macro froth visibility is limited, though recent tariff-shelving news eased a prior overhang and price is close to support at 64.78&quot;,&quot;1.1&quot;: &quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, with a focus on online and mobile transactions. Its platform includes the PayPal digital wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods, send and rec
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — trading near 5-year near-bottom levels and just above 1-year support around $64.78 suggests a potentially attractive entry but with limited margin of safety; macro froth context is not provided and price is below its 20-day average and capped by nearby resistance at ~$68.21, so confirmation of a turn from the current downtrend is still lacking.&quot;,&quot;1.1&quot;:&quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, focused primarily on online and digital transactions. It operates the PayPal digital wallet and checkout platform and also owns Venmo, a per
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-01-22T20:28:30.843743+00:00">2026-01-22 20:28 UTC</time> (runtime 28.21s)
+**Generated:** <time class="js-local-time" datetime="2026-02-21T15:25:36.090013+00:00">2026-02-21 15:25 UTC</time> (runtime 45.89s)
 
 ![PayPal Holdings, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/PYPL.svg)
 
@@ -302,32 +410,34 @@ raw_markdown: |
 <circle cx="620.49" cy="235.91" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $57.41 · 5y low $50.39</figcaption>
+<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,47.05 12.62,47.05 13.25,41.02 13.87,41.02 14.49,41.19 15.12,41.19 15.74,36.56 16.36,36.56 16.99,25.59 17.61,25.59 18.23,27.10 18.86,27.10 19.48,24.56 20.10,24.56 20.73,28.80 21.35,28.80 21.97,28.69 22.60,28.69 23.22,31.93 23.84,31.93 24.47,33.54 25.09,33.54 25.71,31.73 26.34,31.73 26.96,31.51 27.58,31.51 28.21,26.07 28.83,26.07 29.45,23.27 30.07,23.27 30.70,25.59 31.32,25.59 31.94,26.62 32.57,26.62 33.19,26.07 33.81,26.07 34.44,26.73 35.06,26.73 35.68,30.61 36.31,30.61 36.93,18.92 37.55,18.92 38.18,19.72 38.80,19.72 39.42,17.39 40.05,17.39 40.67,17.05 41.29,17.05 41.92,20.51 42.54,20.51 43.16,14.96 43.79,14.96 44.41,18.73 45.03,18.73 45.66,14.20 46.28,14.20 46.90,13.42 47.53,13.42 48.15,14.65 48.77,14.65 49.40,29.75 50.02,29.75 50.64,26.04 51.27,26.04 51.89,25.06 52.51,25.06 53.14,25.70 53.76,25.70 54.38,21.93 55.01,21.93 55.63,22.24 56.25,22.24 56.88,25.81 57.50,25.81 58.12,29.80 58.75,29.80 59.37,30.03 59.99,30.03 60.62,27.71 61.24,27.71 61.86,23.75 62.49,23.75 63.11,18.36 63.73,18.36 64.36,22.72 64.98,22.72 65.60,22.80 66.22,22.80 66.85,35.58 67.47,35.58 68.09,33.82 68.72,33.82 69.34,24.92 69.96,24.92 70.59,18.06 71.21,18.06 71.83,20.07 72.46,20.07 73.08,12.00 73.70,12.00 74.33,17.69 74.95,17.69 75.57,17.47 76.20,17.47 76.82,17.80 77.44,17.80 78.07,19.53 78.69,19.53 79.31,16.38 79.94,16.38 80.56,22.10 81.18,22.10 81.81,20.51 82.43,20.51 83.05,18.25 83.68,18.25 84.30,21.01 84.92,21.01 85.55,18.42 86.17,18.42 86.79,51.31 87.42,51.31 88.04,47.19 88.66,47.19 89.29,48.95 89.91,48.95 90.53,52.47 91.16,52.47 91.78,49.87 92.40,49.87 93.03,55.53 93.65,55.53 94.27,55.37 94.90,55.37 95.52,54.47 96.14,54.47 96.77,50.62 97.39,50.62 98.01,48.81 98.64,48.81 99.26,49.53 99.88,49.53 100.50,51.57 101.13,51.57 101.75,59.05 102.37,59.05 103.00,58.21 103.62,58.21 104.24,61.51 104.87,61.51 105.49,67.14 106.11,67.14 106.74,70.83 107.36,70.83 107.98,69.93 108.61,69.93 109.23,73.56 109.85,73.56 110.48,79.90 111.10,79.90 111.72,74.26 112.35,74.26 112.97,78.22 113.59,78.22 114.22,71.53 114.84,71.53 115.46,78.00 116.09,78.00 116.71,78.50 117.33,78.50 117.96,76.72 118.58,76.72 119.20,81.49 119.83,81.49 120.45,75.80 121.07,75.80 121.70,73.84 122.32,73.84 122.94,75.99 123.57,75.99 124.19,72.87 124.81,72.87 125.44,73.79 126.06,73.79 126.68,72.33 127.31,72.33 127.93,70.16 128.55,70.16 129.18,70.47 129.80,70.47 130.42,72.95 131.05,72.95 131.67,76.05 132.29,76.05 132.92,86.40 133.54,86.40 134.16,86.12 134.79,86.12 135.41,83.75 136.03,83.75 136.65,80.82 137.28,80.82 137.90,96.00 138.52,96.00 139.15,105.32 139.77,105.32 140.39,104.87 141.02,104.87 141.64,108.00 142.26,108.00 142.89,89.75 143.51,89.75 144.13,99.21 144.76,99.21 145.38,93.54 146.00,93.54 146.63,94.44 147.25,94.44 147.87,95.19 148.50,95.19 149.12,100.10 149.74,100.10 150.37,97.98 150.99,97.98 151.61,99.98 152.24,99.98 152.86,96.81 153.48,96.81 154.11,93.91 154.73,93.91 155.35,87.46 155.98,87.46 156.60,85.87 157.22,85.87 157.85,87.01 158.47,87.01 159.09,83.13 159.72,83.13 160.34,84.47 160.96,84.47 161.59,85.67 162.21,85.67 162.83,80.57 163.46,80.57 164.08,76.94 164.70,76.94 165.33,78.31 165.95,78.31 166.57,76.52 167.20,76.52 167.82,71.53 168.44,71.53 169.07,72.14 169.69,72.14 170.31,66.42 170.93,66.42 171.56,66.47 172.18,66.47 172.80,65.39 173.43,65.39 174.05,68.48 174.67,68.48 175.30,66.78 175.92,66.78 176.54,66.39 177.17,66.39 177.79,65.58 178.41,65.58 179.04,68.26 179.66,68.26 180.28,68.82 180.91,68.82 181.53,73.28 182.15,73.28 182.78,68.73 183.40,68.73 184.02,68.85 184.65,68.85 185.27,70.27 185.89,70.27 186.52,72.08 187.14,72.08 187.76,70.27 188.39,70.27 189.01,69.15 189.63,69.15 190.26,65.05 190.88,65.05 191.50,65.97 192.13,65.97 192.75,63.29 193.37,63.29 194.00,62.96 194.62,62.96 195.24,59.58 195.87,59.58 196.49,60.00 197.11,60.00 197.74,59.44 198.36,59.44 198.98,70.55 199.61,70.55 200.23,66.56 200.85,66.56 201.48,71.00 202.10,71.00 202.72,76.86 203.35,76.86 203.97,72.73 204.59,72.73 205.21,67.26 205.84,67.26 206.46,62.87 207.08,62.87 207.71,64.30 208.33,64.30 208.95,64.02 209.58,64.02 210.20,62.71 210.82,62.71 211.45,60.81 212.07,60.81 212.69,58.10 213.32,58.10 213.94,55.26 214.56,55.26 215.19,54.47 215.81,54.47 216.43,55.62 217.06,55.62 217.68,58.83 218.30,58.83 218.93,59.39 219.55,59.39 220.17,56.96 220.80,56.96 221.42,69.07 222.04,69.07 222.67,62.01 223.29,62.01 223.91,64.60 224.54,64.60 225.16,64.58 225.78,64.58 226.41,62.09 227.03,62.09 227.65,61.23 228.28,61.23 228.90,59.41 229.52,59.41 230.15,56.12 230.77,56.12 231.39,54.28 232.02,54.28 232.64,51.04 233.26,51.04 233.89,50.60 234.51,50.60 235.13,49.93 235.76,49.93 236.38,68.82 237.00,68.82 237.63,73.67 238.25,73.67 238.87,76.33 239.50,76.33 240.12,80.93 240.74,80.93 241.36,78.42 241.99,78.42 242.61,78.92 243.23,78.92 243.86,74.48 244.48,74.48 245.10,77.83 245.73,77.83 246.35,79.42 246.97,79.42 247.60,81.01 248.22,81.01 248.84,78.53 249.47,78.53 250.09,71.11 250.71,71.11 251.34,74.60 251.96,74.60 252.58,75.01 253.21,75.01 253.83,74.18 254.45,74.18 255.08,75.52 255.70,75.52 256.32,78.22 256.95,78.22 257.57,79.70 258.19,79.70 258.82,73.14 259.44,73.14 260.06,74.32 260.69,74.32 261.31,72.36 261.93,72.36 262.56,73.84 263.18,73.84 263.80,72.70 264.43,72.70 265.05,72.33 265.67,72.33 266.30,74.96 266.92,74.96 267.54,73.87 268.17,73.87 268.79,77.16 269.41,77.16 270.04,77.72 270.66,77.72 271.28,77.33 271.91,77.33 272.53,79.34 273.15,79.34 273.78,85.03 274.40,85.03 275.02,80.48 275.64,80.48 276.27,81.54 276.89,81.54 277.51,80.93 278.14,80.93 278.76,81.66 279.38,81.66 280.01,76.72 280.63,76.72 281.25,77.00 281.88,77.00 282.50,77.83 283.12,77.83 283.75,79.34 284.37,79.34 284.99,80.37 285.62,80.37 286.24,78.84 286.86,78.84 287.49,81.96 288.11,81.96 288.73,80.40 289.36,80.40 289.98,73.76 290.60,73.76 291.23,81.07 291.85,81.07 292.47,82.19 293.10,82.19 293.72,75.85 294.34,75.85 294.97,74.96 295.59,74.96 296.21,69.27 296.84,69.27 297.46,60.00 298.08,60.00 298.71,55.76 299.33,55.76 299.95,56.82 300.58,56.82 301.20,73.31 301.82,73.31 302.45,76.05 303.07,76.05 303.69,75.24 304.32,75.24 304.94,78.50 305.56,78.50 306.19,83.89 306.81,83.89 307.43,80.09 308.06,80.09 308.68,75.10 309.30,75.10 309.93,72.73 310.55,72.73 311.17,78.25 311.79,78.25 312.42,73.81 313.04,73.81 313.66,73.51 314.29,73.51 314.91,72.17 315.53,72.17 316.16,64.44 316.78,64.44 317.40,73.76 318.03,73.76 318.65,78.64 319.27,78.64 319.90,74.90 320.52,74.90 321.14,77.50 321.77,77.50 322.39,83.80 323.01,83.80 323.64,78.28 324.26,78.28 324.88,83.30 325.51,83.30 326.13,83.41 326.75,83.41 327.38,83.22 328.00,83.22" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,47.05 12.62,47.05 13.25,41.02 13.87,41.02 14.49,41.19 15.12,41.19 15.74,36.56 16.36,36.56 16.99,25.59 17.61,25.59 18.23,27.10 18.86,27.10 19.48,24.56 20.10,24.56 20.73,28.80 21.35,28.80 21.97,28.69 22.60,28.69 23.22,31.93 23.84,31.93 24.47,33.54 25.09,33.54 25.71,31.73 26.34,31.73 26.96,31.51 27.58,31.51 28.21,26.07 28.83,26.07 29.45,23.27 30.07,23.27 30.70,25.59 31.32,25.59 31.94,26.62 32.57,26.62 33.19,26.07 33.81,26.07 34.44,26.73 35.06,26.73 35.68,30.61 36.31,30.61 36.93,18.92 37.55,18.92 38.18,19.72 38.80,19.72 39.42,17.39 40.05,17.39 40.67,17.05 41.29,17.05 41.92,20.51 42.54,20.51 43.16,14.96 43.79,14.96 44.41,18.73 45.03,18.73 45.66,14.20 46.28,14.20 46.90,13.42 47.53,13.42 48.15,14.65 48.77,14.65 49.40,29.75 50.02,29.75 50.64,26.04 51.27,26.04 51.89,25.06 52.51,25.06 53.14,25.70 53.76,25.70 54.38,21.93 55.01,21.93 55.63,22.24 56.25,22.24 56.88,25.81 57.50,25.81 58.12,29.80 58.75,29.80 59.37,30.03 59.99,30.03 60.62,27.71 61.24,27.71 61.86,23.75 62.49,23.75 63.11,18.36 63.73,18.36 64.36,22.72 64.98,22.72 65.60,22.80 66.22,22.80 66.85,35.58 67.47,35.58 68.09,33.82 68.72,33.82 69.34,24.92 69.96,24.92 70.59,18.06 71.21,18.06 71.83,20.07 72.46,20.07 73.08,12.00 73.70,12.00 74.33,17.69 74.95,17.69 75.57,17.47 76.20,17.47 76.82,17.80 77.44,17.80 78.07,19.53 78.69,19.53 79.31,16.38 79.94,16.38 80.56,22.10 81.18,22.10 81.81,20.51 82.43,20.51 83.05,18.25 83.68,18.25 84.30,21.01 84.92,21.01 85.55,18.42 86.17,18.42 86.79,51.31 87.42,51.31 88.04,47.19 88.66,47.19 89.29,48.95 89.91,48.95 90.53,52.47 91.16,52.47 91.78,49.87 92.40,49.87 93.03,55.53 93.65,55.53 94.27,55.37 94.90,55.37 95.52,54.47 96.14,54.47 96.77,50.62 97.39,50.62 98.01,48.81 98.64,48.81 99.26,49.53 99.88,49.53 100.50,51.57 101.13,51.57 101.75,59.05 102.37,59.05 103.00,58.21 103.62,58.21 104.24,61.51 104.87,61.51 105.49,67.14 106.11,67.14 106.74,70.83 107.36,70.83 107.98,69.93 108.61,69.93 109.23,73.56 109.85,73.56 110.48,79.90 111.10,79.90 111.72,74.26 112.35,74.26 112.97,78.22 113.59,78.22 114.22,71.53 114.84,71.53 115.46,78.00 116.09,78.00 116.71,78.50 117.33,78.50 117.96,76.72 118.58,76.72 119.20,81.49 119.83,81.49 120.45,75.80 121.07,75.80 121.70,73.84 122.32,73.84 122.94,75.99 123.57,75.99 124.19,72.87 124.81,72.87 125.44,73.79 126.06,73.79 126.68,72.33 127.31,72.33 127.93,70.16 128.55,70.16 129.18,70.47 129.80,70.47 130.42,72.95 131.05,72.95 131.67,76.05 132.29,76.05 132.92,86.40 133.54,86.40 134.16,86.12 134.79,86.12 135.41,83.75 136.03,83.75 136.65,80.82 137.28,80.82 137.90,96.00 138.52,96.00 139.15,105.32 139.77,105.32 140.39,104.87 141.02,104.87 141.64,108.00 142.26,108.00 142.89,89.75 143.51,89.75 144.13,99.21 144.76,99.21 145.38,93.54 146.00,93.54 146.63,94.44 147.25,94.44 147.87,95.19 148.50,95.19 149.12,100.10 149.74,100.10 150.37,97.98 150.99,97.98 151.61,99.98 152.24,99.98 152.86,96.81 153.48,96.81 154.11,93.91 154.73,93.91 155.35,87.46 155.98,87.46 156.60,85.87 157.22,85.87 157.85,87.01 158.47,87.01 159.09,83.13 159.72,83.13 160.34,84.47 160.96,84.47 161.59,85.67 162.21,85.67 162.83,80.57 163.46,80.57 164.08,76.94 164.70,76.94 165.33,78.31 165.95,78.31 166.57,76.52 167.20,76.52 167.82,71.53 168.44,71.53 169.07,72.14 169.69,72.14 170.31,66.42 170.93,66.42 171.56,66.47 172.18,66.47 172.80,65.39 173.43,65.39 174.05,68.48 174.67,68.48 175.30,66.78 175.92,66.78 176.54,66.39 177.17,66.39 177.79,65.58 178.41,65.58 179.04,68.26 179.66,68.26 180.28,68.82 180.91,68.82 181.53,73.28 182.15,73.28 182.78,68.73 183.40,68.73 184.02,68.85 184.65,68.85 185.27,70.27 185.89,70.27 186.52,72.08 187.14,72.08 187.76,70.27 188.39,70.27 189.01,69.15 189.63,69.15 190.26,65.05 190.88,65.05 191.50,65.97 192.13,65.97 192.75,63.29 193.37,63.29 194.00,62.96 194.62,62.96 195.24,59.58 195.87,59.58 196.49,60.00 197.11,60.00 197.74,59.44 198.36,59.44 198.98,70.55 199.61,70.55 200.23,66.56 200.85,66.56 201.48,71.00 202.10,71.00 202.72,76.86 203.35,76.86 203.97,72.73 204.59,72.73 205.21,67.26 205.84,67.26 206.46,62.87 207.08,62.87 207.71,64.30 208.33,64.30 208.95,64.02 209.58,64.02 210.20,62.71 210.82,62.71 211.45,60.81 212.07,60.81 212.69,58.10 213.32,58.10 213.94,55.26 214.56,55.26 215.19,54.47 215.81,54.47 216.43,55.62 217.06,55.62 217.68,58.83 218.30,58.83 218.93,59.39 219.55,59.39 220.17,56.96 220.80,56.96 221.42,69.07 222.04,69.07 222.67,62.01 223.29,62.01 223.91,64.60 224.54,64.60 225.16,64.58 225.78,64.58 226.41,62.09 227.03,62.09 227.65,61.23 228.28,61.23 228.90,59.41 229.52,59.41 230.15,56.12 230.77,56.12 231.39,54.28 232.02,54.28 232.64,51.04 233.26,51.04 233.89,50.60 234.51,50.60 235.13,49.93 235.76,49.93 236.38,68.82 237.00,68.82 237.63,73.67 238.25,73.67 238.87,76.33 239.50,76.33 240.12,80.93 240.74,80.93 241.36,78.42 241.99,78.42 242.61,78.92 243.23,78.92 243.86,74.48 244.48,74.48 245.10,77.83 245.73,77.83 246.35,79.42 246.97,79.42 247.60,81.01 248.22,81.01 248.84,78.53 249.47,78.53 250.09,71.11 250.71,71.11 251.34,74.60 251.96,74.60 252.58,75.01 253.21,75.01 253.83,74.18 254.45,74.18 255.08,75.52 255.70,75.52 256.32,78.22 256.95,78.22 257.57,79.70 258.19,79.70 258.82,73.14 259.44,73.14 260.06,74.32 260.69,74.32 261.31,72.36 261.93,72.36 262.56,73.84 263.18,73.84 263.80,72.70 264.43,72.70 265.05,72.33 265.67,72.33 266.30,74.96 266.92,74.96 267.54,73.87 268.17,73.87 268.79,77.16 269.41,77.16 270.04,77.72 270.66,77.72 271.28,77.33 271.91,77.33 272.53,79.34 273.15,79.34 273.78,85.03 274.40,85.03 275.02,80.48 275.64,80.48 276.27,81.54 276.89,81.54 277.51,80.93 278.14,80.93 278.76,81.66 279.38,81.66 280.01,76.72 280.63,76.72 281.25,77.00 281.88,77.00 282.50,77.83 283.12,77.83 283.75,79.34 284.37,79.34 284.99,80.37 285.62,80.37 286.24,78.84 286.86,78.84 287.49,81.96 288.11,81.96 288.73,80.40 289.36,80.40 289.98,73.76 290.60,73.76 291.23,81.07 291.85,81.07 292.47,82.19 293.10,82.19 293.72,75.85 294.34,75.85 294.97,74.96 295.59,74.96 296.21,69.27 296.84,69.27 297.46,60.00 298.08,60.00 298.71,55.76 299.33,55.76 299.95,56.82 300.58,56.82 301.20,73.31 301.82,73.31 302.45,76.05 303.07,76.05 303.69,75.24 304.32,75.24 304.94,78.50 305.56,78.50 306.19,83.89 306.81,83.89 307.43,80.09 308.06,80.09 308.68,75.10 309.30,75.10 309.93,72.73 310.55,72.73 311.17,78.25 311.79,78.25 312.42,73.81 313.04,73.81 313.66,73.51 314.29,73.51 314.91,72.17 315.53,72.17 316.16,64.44 316.78,64.44 317.40,73.76 318.03,73.76 318.65,78.64 319.27,78.64 319.90,74.90 320.52,74.90 321.14,77.50 321.77,77.50 322.39,83.80 323.01,83.80 323.64,78.28 324.26,78.28 324.88,83.30 325.51,83.30 326.13,83.41 326.75,83.41 327.38,83.22 328.00,83.22 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,45.04 13.87,45.04 15.74,52.14 17.61,52.14 19.48,52.06 21.35,52.06 23.22,45.27 25.09,45.27 26.96,42.91 28.83,42.91 30.70,37.95 32.57,37.95 34.44,28.94 36.31,28.94 38.18,23.90 40.05,23.90 41.92,15.05 43.79,15.05 45.66,13.83 47.53,13.83 49.40,12.00 51.27,12.00 53.14,63.66 55.01,63.66 56.88,76.94 58.75,76.94 60.62,84.19 62.49,84.19 64.36,96.78 66.22,96.78 68.09,89.91 69.96,89.91 71.83,91.29 73.70,91.29 75.57,79.15 77.44,79.15 79.31,88.31 81.18,88.31 83.05,92.66 84.92,92.66 86.79,97.01 88.66,97.01 90.53,90.22 92.40,90.22 94.27,69.92 96.14,69.92 98.01,79.46 99.88,79.46 101.75,80.60 103.62,80.60 105.49,78.31 107.36,78.31 109.23,81.98 111.10,81.98 112.97,89.38 114.84,89.38 116.71,93.42 118.58,93.42 120.45,75.49 122.32,75.49 124.19,78.70 126.06,78.70 127.93,73.35 129.80,73.35 131.67,77.40 133.54,77.40 135.41,74.27 137.28,74.27 139.15,73.28 141.02,73.28 142.89,80.45 144.76,80.45 146.63,77.48 148.50,77.48 150.37,86.48 152.24,86.48 154.11,88.01 155.98,88.01 157.85,86.94 159.72,86.94 161.59,92.43 163.46,92.43 165.33,108.00 167.20,108.00 169.07,95.56 170.93,95.56 172.80,98.46 174.67,98.46 176.54,96.78 178.41,96.78 180.28,98.77 182.15,98.77 184.02,85.26 185.89,85.26 187.76,86.02 189.63,86.02 191.50,88.31 193.37,88.31 195.24,92.43 197.11,92.43 198.98,95.26 200.85,95.26 202.72,91.06 204.59,91.06 206.46,99.61 208.33,99.61 210.20,95.33 212.07,95.33 213.94,77.17 215.81,77.17 217.68,97.16 219.55,97.16 221.42,100.22 223.29,100.22 225.16,82.89 227.03,82.89 228.90,80.45 230.77,80.45 232.64,64.88 234.51,64.88 236.38,39.55 238.25,39.55 240.12,27.95 241.99,27.95 243.86,30.85 245.73,30.85 247.60,75.95 249.47,75.95 251.34,83.43 253.21,83.43 255.08,81.21 256.95,81.21 258.82,90.14 260.69,90.14 262.56,104.87 264.43,104.87 266.30,94.49 268.17,94.49 270.04,80.83 271.91,80.83 273.78,74.35 275.64,74.35 277.51,89.46 279.38,89.46 281.25,77.32 283.12,77.32 284.99,76.48 286.86,76.48 288.73,72.82 290.60,72.82 292.47,51.68 294.34,51.68 296.21,77.17 298.08,77.17 299.95,90.52 301.82,90.52 303.69,80.30 305.56,80.30 307.43,87.40 309.30,87.40 311.17,104.64 313.04,104.64 314.91,89.53 316.78,89.53 318.65,103.27 320.52,103.27 322.39,103.57 324.26,103.57 326.13,103.04 328.00,103.04" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,45.04 13.87,45.04 15.74,52.14 17.61,52.14 19.48,52.06 21.35,52.06 23.22,45.27 25.09,45.27 26.96,42.91 28.83,42.91 30.70,37.95 32.57,37.95 34.44,28.94 36.31,28.94 38.18,23.90 40.05,23.90 41.92,15.05 43.79,15.05 45.66,13.83 47.53,13.83 49.40,12.00 51.27,12.00 53.14,63.66 55.01,63.66 56.88,76.94 58.75,76.94 60.62,84.19 62.49,84.19 64.36,96.78 66.22,96.78 68.09,89.91 69.96,89.91 71.83,91.29 73.70,91.29 75.57,79.15 77.44,79.15 79.31,88.31 81.18,88.31 83.05,92.66 84.92,92.66 86.79,97.01 88.66,97.01 90.53,90.22 92.40,90.22 94.27,69.92 96.14,69.92 98.01,79.46 99.88,79.46 101.75,80.60 103.62,80.60 105.49,78.31 107.36,78.31 109.23,81.98 111.10,81.98 112.97,89.38 114.84,89.38 116.71,93.42 118.58,93.42 120.45,75.49 122.32,75.49 124.19,78.70 126.06,78.70 127.93,73.35 129.80,73.35 131.67,77.40 133.54,77.40 135.41,74.27 137.28,74.27 139.15,73.28 141.02,73.28 142.89,80.45 144.76,80.45 146.63,77.48 148.50,77.48 150.37,86.48 152.24,86.48 154.11,88.01 155.98,88.01 157.85,86.94 159.72,86.94 161.59,92.43 163.46,92.43 165.33,108.00 167.20,108.00 169.07,95.56 170.93,95.56 172.80,98.46 174.67,98.46 176.54,96.78 178.41,96.78 180.28,98.77 182.15,98.77 184.02,85.26 185.89,85.26 187.76,86.02 189.63,86.02 191.50,88.31 193.37,88.31 195.24,92.43 197.11,92.43 198.98,95.26 200.85,95.26 202.72,91.06 204.59,91.06 206.46,99.61 208.33,99.61 210.20,95.33 212.07,95.33 213.94,77.17 215.81,77.17 217.68,97.16 219.55,97.16 221.42,100.22 223.29,100.22 225.16,82.89 227.03,82.89 228.90,80.45 230.77,80.45 232.64,64.88 234.51,64.88 236.38,39.55 238.25,39.55 240.12,27.95 241.99,27.95 243.86,30.85 245.73,30.85 247.60,75.95 249.47,75.95 251.34,83.43 253.21,83.43 255.08,81.21 256.95,81.21 258.82,90.14 260.69,90.14 262.56,104.87 264.43,104.87 266.30,94.49 268.17,94.49 270.04,80.83 271.91,80.83 273.78,74.35 275.64,74.35 277.51,89.46 279.38,89.46 281.25,77.32 283.12,77.32 284.99,76.48 286.86,76.48 288.73,72.82 290.60,72.82 292.47,51.68 294.34,51.68 296.21,77.17 298.08,77.17 299.95,90.52 301.82,90.52 303.69,80.30 305.56,80.30 307.43,87.40 309.30,87.40 311.17,104.64 313.04,104.64 314.91,89.53 316.78,89.53 318.65,103.27 320.52,103.27 322.39,103.57 324.26,103.57 326.13,103.04 328.00,103.04 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
 </figure>
 
 ### Latest news (0-3 days)
 
-- [PayPal (PYPL) Stock Jumps As Trump Shelves Tariff Threat](https://www.benzinga.com/trading-ideas/movers/26/01/50054636/paypal-pypl-stock-jumps-as-trump-shelves-tariff-threat?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-01-21
+- [PYPL Stockholder Alert: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Lawsuit Against PayPal Holdings, Inc.](https://www.globenewswire.com/news-release/2026/02/20/3242174/32719/en/PYPL-Stockholder-Alert-Shareholder-Rights-Law-Firm-Robbins-LLP-Reminds-Investors-of-the-Class-Action-Lawsuit-Against-PayPal-Holdings-Inc.html) — GlobeNewswire Inc. · 2026-02-20
+- [PYPL Investors Have Opportunity to Lead PayPal Holdings, Inc. Securities Fraud Lawsuit with the Schall Law Firm](https://www.globenewswire.com/news-release/2026/02/20/3242116/0/en/PYPL-Investors-Have-Opportunity-to-Lead-PayPal-Holdings-Inc-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html) — GlobeNewswire Inc. · 2026-02-20
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 3-month and 5-year near-bottom levels but are in a 7-day downtrend and below the 20-day moving average around 68.11 with resistance near 68.21; macro froth visibility is limited, though recent tariff-shelving news eased a prior overhang and price is close to support at 64.78
+0.1. **Long Entry?:** maybe — trading near 5-year near-bottom levels and just above 1-year support around $64.78 suggests a potentially attractive entry but with limited margin of safety; macro froth context is not provided and price is below its 20-day average and capped by nearby resistance at ~$68.21, so confirmation of a turn from the current downtrend is still lacking.
 
 ## 1. The Biz
 
-1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, with a focus on online and mobile transactions. Its platform includes the PayPal digital wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods, send and receive money, and pay at online and in-store merchants worldwide. The company also participates in adjacent areas such as remittances and unbranded card processing for merchants.
+1.1. **Activities:** PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, focused primarily on online and digital transactions. It operates the PayPal digital wallet and checkout platform and also owns Venmo, a person-to-person payment service. The company enables payments across e-commerce and other digital channels for hundreds of millions of active accounts worldwide.
 
-1.2. **Profitable?:** yes — PayPal is profitable, with recent net income totaling about $4.9B, a profit margin near 15%, positive free cash flow, and both revenue and earnings growing year over year.
+1.2. **Profitable?:** yes — PayPal is profitable, with recent net income totaling about $5.23 billion, a profit margin of roughly 15.8%, and strong free cash flow generation.
 
-1.3. **Customer & Markets:** PayPal serves consumers and merchants that need to send, receive, and process digital payments, including online retailers, small businesses, and users of peer-to-peer services like Venmo. Its markets are global, spanning over 100 countries, with significant activity in North America, Europe, and other regions where online and mobile commerce are growing rapidly. The company also supports segments like remittances and cross-border e-commerce payments.
+1.3. **Customer & Markets:** PayPal serves both merchants and consumers as its primary customers, facilitating online and digital payments between buyers and sellers. Its markets span global e-commerce and digital payments, with 434 million active accounts reported at the end of 2024 and operations based out of the United States.
 
-1.4. **Competition:** Key competitors include Apple, Amazon, Visa, Affirm, Coinbase, and other online and mobile payment processors, as well as fintechs like Block and Stripe referenced in third-party market share data. Within online payment processing, external sources show PayPal holding a leading share of around 30–45%, placing it among the top global players.
+1.4. **Competition:** Key competitors include large e-commerce and payment platforms such as eBay, Shopify, Amazon, Apple, and Visa, as well as other fintech and brokerage players like Coinbase, Affirm, Robinhood, and SoFi. Recent commentary notes PayPal is facing fierce competition and has lost some market share in checkout, indicating it is under pressure rather than clearly leading the field.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the stock has been in a labeled downtrend, slipping from around resistance at 68.21 toward support near 64.78.
+2.1. **7d Trend?:** down — the 7d trend is labeled 'down' and price has slipped from recent levels toward support around $64.78 while staying below nearby resistance at ~$68.21.
 
-2.2. **7d Buy/Sell Points?:** In the past 7 days, prices near the identified support around 64.78 offered the better buy zone, while approaches toward resistance near 68.21 were better opportunities to sell or trim. Trading within this narrow band has defined the recent range-bound yet downward-biased action.
+2.2. **7d Buy/Sell Points?:** Buying near the identified support around $64.78 appears to have been the better entry zone over the last week, while selling or trimming positions closer to the short-term resistance near $68.21 offered favorable exit levels.
 
 2.3.1. **7d Volume:** low
 
@@ -335,15 +445,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** PayPal is a long-established financial technology company spun off from eBay in 2015, now operating as a large multinational payments provider with 434 million active accounts at the end of 2024. Its balance sheet strength is suggested by sustained profitability, robust free cash flow of over $3.1B, and growing operating cash flow. The stock has been volatile, falling about 75.6% over five years and 37.55% over the last 12 months according to referenced sources, but this reflects sentiment and competition more than business continuity risk. Overall, PayPal appears to be a stable institution in digital payments rather than a fly-by-night operator, though investors must tolerate significant share price swings.
+3.1. **Stability?:** PayPal is a long-established, large-cap financial technology company that was spun off from eBay in 2015 and now serves 434 million active accounts, indicating substantial scale. Its financials show consistent profitability, positive earnings growth of 28.2%, and strong free cash flow and operating cash flow, which support balance-sheet resilience. However, the stock has fallen back near IPO-era prices and toward 5-year lows, reflecting market concerns about slowed growth and competitive pressures rather than imminent failure. Multiple securities class action lawsuits related to alleged misleading statements on growth and outlook add legal and governance overhang, but they do not negate the company's underlying operational stability. Overall, it appears more like a pressured but durable institution than a fly-by-night operator.
 
-3.2. **Innovating?:** PayPal is innovating and growing, with 7.3% revenue growth and 23.6% earnings growth, and corporate materials highlighting new AI-driven commerce innovations and an expanded portfolio across financial services and commerce enablement. However, external commentary notes that the company has at times been late to new technologies, indicating a mix of ongoing innovation with competitive pressure.
+3.2. **Innovating?:** PayPal is still growing, with revenue up about 3.7% and earnings up 28.2%, but recent news highlights slowed growth, market share losses, and leadership uncertainty, suggesting innovation and execution have lagged peers rather than being strongly dynamic.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines emphasize that PayPal stock jumped after President Trump shelved planned tariffs, removing a trade overhang that could have hurt its European cross-border volumes, yet the shares remain in a bearish trend and down sharply over 12 months. Industry reports highlight the explosive global growth of mobile payments and stablecoins becoming core financial infrastructure, which supports long-term demand for digital payment platforms like PayPal. Additional news shows PayPal being adopted as a payment option by online casinos, reflecting continued integration into new digital commerce verticals. Given the prior tariff fears and now-positive headline about tariffs being shelved, there is evidence of a classic 'buy the rumor, sell the news' setup where the relief rally may already price in the good news while the broader downtrend persists.
+4.1. **News:** Recent news is dominated by multiple securities class action lawsuits alleging PayPal misled investors about Branded Checkout growth prospects, revenue outlook, and 2027 financial targets. The stock fell over 20% on February 3, 2026 after disappointing Q4 results, withdrawal of long-term targets, and a CEO transition, which shifted sentiment sharply negative. Commentary notes that while the stock trades near IPO-era prices with a low P/E and record revenue, growth has slowed and competitive pressure has intensified, framing the setup as either deep value or a potential value trap. These developments suggest that earlier optimism and guidance functioned as the "rumor," with the earnings miss and leadership change being the "news" that investors sold aggressively. Going forward, legal overhang and execution risk may keep rallies vulnerable to "sell the news" reactions until credibility is rebuilt.
 
-4.2. **Tarrifs:** News indicates that proposed Trump tariffs previously pressured PayPal shares on concerns about weaker consumer spending and cross-border volumes, while the subsequent shelving of those tariffs led to a spike in the stock as this overhang was removed. Overall, tariffs and tariff fears have created meaningful volatility in the stock tied to expectations for consumer and international transaction activity.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -351,7 +461,7 @@ raw_markdown: |
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>Last Q4</td><td>$4.92B</td></tr>
+<tr><td>Last Q4</td><td>$5.23B</td></tr>
 <tr><td>Price</td><td>66.29</td></tr>
 <tr><td>7d Resistance</td><td>68.21</td></tr>
 <tr><td>7d Support</td><td>64.78</td></tr>
@@ -372,11 +482,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: market expansion, tariff, latest news, tariffs</li>
-<li>The Guardian: business model, profit outlook, competitive landscape, rumor</li>
+<li>NewsAPI: core business, profitability, earnings trend, business model, profit outlook</li>
+<li>GNews: market share</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -414,91 +523,198 @@ Retrieving earnings calendar...
 Massive earnings: attempting request with key 2QGS***XN
 Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=PYPL&amp;limit=4&amp;apiKey=%2A%2A%2A
 Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=PYPL&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=PYPL&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PYPL&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 5 articles.
   massive.com returned 5 headlines
-Filtered 1 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; PYPL core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
   google_custom_search search -&gt; PYPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+product+portfolio&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=PYPL+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=PYPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 1 result(s)
   google_custom_search search -&gt; PYPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
   google_custom_search search -&gt; PYPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; PYPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=PYPL+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=PYPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
-    guardian: 5 result(s)
+    newsapi: 5 result(s)
   google_custom_search search -&gt; PYPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+target+customers&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+NewsAPI search failed for &#x27;PYPL market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+expansion&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+market+share&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 2 result(s)
   newsapi search -&gt; PYPL competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
+Guardian search failed for &#x27;PYPL competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
-    guardian: 5 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PYPL+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PYPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-    newsapi: 0 result(s)
+Guardian search failed for &#x27;PYPL rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
-    guardian: 5 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+NewsAPI search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+NewsAPI search failed for &#x27;PYPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PYPL tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+NewsAPI search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariffs&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PYPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PYPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PYPL+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;PYPL tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PYPL+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PYPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=PYPL+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=PYPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;PYPL tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -517,6 +733,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month and 5-year near-bottom levels but are in a 7-day downtrend and below the 20-day moving average around 68.11 with resistance near 68.21; macro froth visibility is limited, though recent tariff-shelving news eased a prior overhang and price is close to support at 64.78&quot;,&quot;1.1&quot;: &quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, with a focus on online and mobile transactions. Its platform includes the PayPal digital wallet and Venmo peer-to-peer payments, enabling users to store multiple payment methods, send and rec
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — trading near 5-year near-bottom levels and just above 1-year support around $64.78 suggests a potentially attractive entry but with limited margin of safety; macro froth context is not provided and price is below its 20-day average and capped by nearby resistance at ~$68.21, so confirmation of a turn from the current downtrend is still lacking.&quot;,&quot;1.1&quot;:&quot;PayPal Holdings, Inc. provides electronic payment solutions for merchants and consumers, focused primarily on online and digital transactions. It operates the PayPal digital wallet and checkout platform and also owns Venmo, a per
 </code></pre>
 </details>

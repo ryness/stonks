@@ -2,11 +2,11 @@
 layout: default
 title: "NVDA Stock Report"
 ticker: "NVDA"
-date: 2026-02-16
-generated_at: 2026-02-16T08:43:30.935460+00:00
-runtime_seconds: 27.56
+date: 2026-02-21
+generated_at: 2026-02-21T01:58:06.199231+00:00
+runtime_seconds: 24.95
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-16T08:43:30.935460+00:00">2026-02-16 08:43 UTC</time> (runtime 27.56s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-21T01:58:06.199231+00:00">2026-02-21 01:58 UTC</time> (runtime 24.95s)
   
   ![Nvidia Corp logo](https://ryness.github.io/stonks/assets/logos/NVDA.svg)
   
@@ -62,7 +62,7 @@ raw_markdown: |
   <circle cx="584.28" cy="146.96" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $94.29 · 5y low $11.21</figcaption>
-  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,70.09 13.26,69.62 14.53,69.77 15.79,69.02 17.06,73.85 18.32,77.39 19.58,80.49 20.85,76.53 22.11,86.01 23.38,81.95 24.64,91.19 25.90,89.55 27.17,88.44 28.43,94.16 29.70,92.36 30.96,97.22 32.22,95.71 33.49,89.75 34.75,89.89 36.02,84.71 37.28,86.53 38.54,90.02 39.81,88.24 41.07,87.38 42.34,88.09 43.60,84.93 44.86,85.54 46.13,91.44 47.39,93.42 48.66,94.92 49.92,96.02 51.18,94.51 52.45,94.28 53.71,101.62 54.98,108.00 56.24,105.16 57.50,106.31 58.77,90.96 60.03,96.71 61.30,93.85 62.56,94.04 63.82,92.77 65.09,99.33 66.35,101.89 67.62,105.79 68.88,104.10 70.14,100.85 71.41,97.68 72.67,93.78 73.94,95.72 75.20,95.48 76.46,95.56 77.73,93.27 78.99,90.81 80.26,91.39 81.52,91.63 82.78,88.63 84.05,88.37 85.31,88.98 86.58,83.57 87.84,77.67 89.10,73.07 90.37,73.50 91.63,73.02 92.90,72.87 94.16,73.88 95.42,76.08 96.69,75.20 97.95,76.52 99.22,72.93 100.48,73.52 101.74,69.79 103.01,73.25 104.27,71.33 105.54,68.06 106.80,67.47 108.06,69.11 109.33,67.64 110.59,66.86 111.86,65.73 113.12,66.68 114.38,64.83 115.65,67.41 116.91,65.10 118.18,65.58 119.44,64.43 120.70,65.81 121.97,65.54 123.23,62.36 124.50,56.91 125.76,56.30 127.02,53.98 128.29,53.77 129.55,57.77 130.82,54.40 132.08,52.62 133.34,53.56 134.61,52.06 135.87,49.61 137.14,48.57 138.40,47.87 139.66,48.60 140.93,42.95 142.19,42.38 143.46,40.99 144.72,41.50 145.98,42.37 147.25,46.08 148.51,42.88 149.78,40.36 151.04,40.57 152.30,37.80 153.57,38.86 154.83,35.65 156.10,36.85 157.36,40.38 158.62,35.03 159.89,36.51 161.15,35.53 162.42,34.38 163.68,32.73 164.94,33.28 166.21,32.34 167.47,33.68 168.74,33.31 170.00,34.65 171.26,33.32 172.53,38.75 173.79,38.95 175.06,39.31 176.32,36.74 177.58,35.20 178.85,33.53 180.11,33.67 181.38,34.89 182.64,39.99 183.90,42.88 185.17,43.02 186.43,42.13 187.70,46.09 188.96,44.99 190.22,42.90 191.49,37.31 192.75,37.43 194.02,36.88 195.28,36.94 196.54,39.38 197.81,43.29 199.07,38.23 200.34,37.86 201.60,31.95 202.86,36.36 204.13,37.60 205.39,36.99 206.66,36.57 207.92,33.45 209.18,29.42 210.45,28.86 211.71,27.45 212.98,28.54 214.24,30.31 215.50,30.73 216.77,27.27 218.03,24.32 219.30,32.33 220.56,27.94 221.82,35.00 223.09,35.17 224.35,33.48 225.62,32.28 226.88,32.78 228.14,34.04 229.41,34.79 230.67,33.19 231.94,29.69 233.20,25.24 234.46,17.12 235.73,12.00 236.99,15.53 238.26,15.87 239.52,12.14 240.78,19.11 242.05,22.07 243.31,28.14 244.58,28.08 245.84,18.80 247.10,23.82 248.37,23.27 249.63,29.18 250.90,26.36 252.16,29.40 253.42,33.87 254.69,29.47 255.95,34.48 257.22,35.98 258.48,32.85 259.74,36.88 261.01,34.80 262.27,37.58 263.54,35.09 264.80,33.78 266.06,35.37 267.33,32.14 268.59,32.96 269.86,30.29 271.12,30.78 272.38,31.80 273.65,34.22 274.91,39.26 276.18,38.18 277.44,36.96 278.70,42.73 279.97,40.01 281.23,34.17 282.50,31.87 283.76,27.17 285.02,27.68 286.29,26.05 287.55,28.02 288.82,28.60 290.08,29.48 291.34,27.48 292.61,28.10 293.87,28.85 295.14,27.26 296.40,30.72 297.66,30.88 298.93,30.81 300.19,30.07 301.46,32.34 302.72,29.01 303.98,29.71 305.25,36.66 306.51,32.19 307.78,30.89 309.04,28.48 310.30,29.51 311.57,27.76 312.83,25.21 314.10,24.36 315.36,25.54 316.62,30.24 317.89,34.73 319.15,39.96 320.42,41.93 321.68,30.41 322.94,26.47 324.21,27.74 325.47,26.46 326.74,29.11 328.00,32.62" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,70.09 13.26,69.62 14.53,69.77 15.79,69.02 17.06,73.85 18.32,77.39 19.58,80.49 20.85,76.53 22.11,86.01 23.38,81.95 24.64,91.19 25.90,89.55 27.17,88.44 28.43,94.16 29.70,92.36 30.96,97.22 32.22,95.71 33.49,89.75 34.75,89.89 36.02,84.71 37.28,86.53 38.54,90.02 39.81,88.24 41.07,87.38 42.34,88.09 43.60,84.93 44.86,85.54 46.13,91.44 47.39,93.42 48.66,94.92 49.92,96.02 51.18,94.51 52.45,94.28 53.71,101.62 54.98,108.00 56.24,105.16 57.50,106.31 58.77,90.96 60.03,96.71 61.30,93.85 62.56,94.04 63.82,92.77 65.09,99.33 66.35,101.89 67.62,105.79 68.88,104.10 70.14,100.85 71.41,97.68 72.67,93.78 73.94,95.72 75.20,95.48 76.46,95.56 77.73,93.27 78.99,90.81 80.26,91.39 81.52,91.63 82.78,88.63 84.05,88.37 85.31,88.98 86.58,83.57 87.84,77.67 89.10,73.07 90.37,73.50 91.63,73.02 92.90,72.87 94.16,73.88 95.42,76.08 96.69,75.20 97.95,76.52 99.22,72.93 100.48,73.52 101.74,69.79 103.01,73.25 104.27,71.33 105.54,68.06 106.80,67.47 108.06,69.11 109.33,67.64 110.59,66.86 111.86,65.73 113.12,66.68 114.38,64.83 115.65,67.41 116.91,65.10 118.18,65.58 119.44,64.43 120.70,65.81 121.97,65.54 123.23,62.36 124.50,56.91 125.76,56.30 127.02,53.98 128.29,53.77 129.55,57.77 130.82,54.40 132.08,52.62 133.34,53.56 134.61,52.06 135.87,49.61 137.14,48.57 138.40,47.87 139.66,48.60 140.93,42.95 142.19,42.38 143.46,40.99 144.72,41.50 145.98,42.37 147.25,46.08 148.51,42.88 149.78,40.36 151.04,40.57 152.30,37.80 153.57,38.86 154.83,35.65 156.10,36.85 157.36,40.38 158.62,35.03 159.89,36.51 161.15,35.53 162.42,34.38 163.68,32.73 164.94,33.28 166.21,32.34 167.47,33.68 168.74,33.31 170.00,34.65 171.26,33.32 172.53,38.75 173.79,38.95 175.06,39.31 176.32,36.74 177.58,35.20 178.85,33.53 180.11,33.67 181.38,34.89 182.64,39.99 183.90,42.88 185.17,43.02 186.43,42.13 187.70,46.09 188.96,44.99 190.22,42.90 191.49,37.31 192.75,37.43 194.02,36.88 195.28,36.94 196.54,39.38 197.81,43.29 199.07,38.23 200.34,37.86 201.60,31.95 202.86,36.36 204.13,37.60 205.39,36.99 206.66,36.57 207.92,33.45 209.18,29.42 210.45,28.86 211.71,27.45 212.98,28.54 214.24,30.31 215.50,30.73 216.77,27.27 218.03,24.32 219.30,32.33 220.56,27.94 221.82,35.00 223.09,35.17 224.35,33.48 225.62,32.28 226.88,32.78 228.14,34.04 229.41,34.79 230.67,33.19 231.94,29.69 233.20,25.24 234.46,17.12 235.73,12.00 236.99,15.53 238.26,15.87 239.52,12.14 240.78,19.11 242.05,22.07 243.31,28.14 244.58,28.08 245.84,18.80 247.10,23.82 248.37,23.27 249.63,29.18 250.90,26.36 252.16,29.40 253.42,33.87 254.69,29.47 255.95,34.48 257.22,35.98 258.48,32.85 259.74,36.88 261.01,34.80 262.27,37.58 263.54,35.09 264.80,33.78 266.06,35.37 267.33,32.14 268.59,32.96 269.86,30.29 271.12,30.78 272.38,31.80 273.65,34.22 274.91,39.26 276.18,38.18 277.44,36.96 278.70,42.73 279.97,40.01 281.23,34.17 282.50,31.87 283.76,27.17 285.02,27.68 286.29,26.05 287.55,28.02 288.82,28.60 290.08,29.48 291.34,27.48 292.61,28.10 293.87,28.85 295.14,27.26 296.40,30.72 297.66,30.88 298.93,30.81 300.19,30.07 301.46,32.34 302.72,29.01 303.98,29.71 305.25,36.66 306.51,32.19 307.78,30.89 309.04,28.48 310.30,29.51 311.57,27.76 312.83,25.21 314.10,24.36 315.36,25.54 316.62,30.24 317.89,34.73 319.15,39.96 320.42,41.93 321.68,30.41 322.94,26.47 324.21,27.74 325.47,26.46 326.74,29.11 328.00,32.62 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,22.46 17.18,38.35 22.36,61.67 27.54,38.71 32.72,64.87 37.90,72.71 43.08,56.37 48.26,77.42 53.44,66.56 58.62,81.07 63.80,68.08 68.98,61.22 74.16,69.55 79.34,52.63 84.52,56.95 89.70,42.98 94.89,45.56 100.07,50.85 105.25,63.54 110.43,89.84 115.61,84.19 120.79,77.82 125.97,108.00 131.15,93.76 136.33,63.27 141.51,51.25 146.69,26.69 151.87,29.36 157.05,20.81 162.23,31.09 167.41,34.12 172.59,38.75 177.77,28.29 182.95,31.54 188.13,35.45 193.31,27.13 198.49,45.25 203.67,46.05 208.85,45.69 214.03,41.82 219.21,53.70 224.39,36.30 229.57,39.95 234.75,76.27 239.93,52.90 245.11,46.14 250.30,33.54 255.48,38.88 260.66,29.76 265.84,16.41 271.02,12.00 276.20,18.14 281.38,42.71 286.56,66.16 291.74,93.54 296.92,103.82 302.10,43.60 307.28,22.99 312.46,29.67 317.64,22.95 322.82,36.79 328.00,55.17" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,22.46 17.18,38.35 22.36,61.67 27.54,38.71 32.72,64.87 37.90,72.71 43.08,56.37 48.26,77.42 53.44,66.56 58.62,81.07 63.80,68.08 68.98,61.22 74.16,69.55 79.34,52.63 84.52,56.95 89.70,42.98 94.89,45.56 100.07,50.85 105.25,63.54 110.43,89.84 115.61,84.19 120.79,77.82 125.97,108.00 131.15,93.76 136.33,63.27 141.51,51.25 146.69,26.69 151.87,29.36 157.05,20.81 162.23,31.09 167.41,34.12 172.59,38.75 177.77,28.29 182.95,31.54 188.13,35.45 193.31,27.13 198.49,45.25 203.67,46.05 208.85,45.69 214.03,41.82 219.21,53.70 224.39,36.30 229.57,39.95 234.75,76.27 239.93,52.90 245.11,46.14 250.30,33.54 255.48,38.88 260.66,29.76 265.84,16.41 271.02,12.00 276.20,18.14 281.38,42.71 286.56,66.16 291.74,93.54 296.92,103.82 302.10,43.60 307.28,22.99 312.46,29.67 317.64,22.95 322.82,36.79 328.00,55.17 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,74.58 13.24,75.24 14.49,76.65 15.73,73.12 16.98,70.09 18.22,69.62 19.46,69.77 20.71,69.02 21.95,73.85 23.20,77.39 24.44,80.49 25.69,76.53 26.93,86.01 28.17,81.95 29.42,91.19 30.66,89.55 31.91,88.44 33.15,94.16 34.39,92.36 35.64,97.22 36.88,95.71 38.13,89.75 39.37,89.89 40.61,84.71 41.86,86.53 43.10,90.02 44.35,88.24 45.59,87.38 46.83,88.09 48.08,84.93 49.32,85.54 50.57,91.44 51.81,93.42 53.06,94.92 54.30,96.02 55.54,94.51 56.79,94.28 58.03,101.62 59.28,108.00 60.52,105.16 61.76,106.31 63.01,90.96 64.25,96.71 65.50,93.85 66.74,94.04 67.98,92.77 69.23,99.33 70.47,101.89 71.72,105.79 72.96,104.10 74.20,100.85 75.45,97.68 76.69,93.78 77.94,95.72 79.18,95.48 80.43,95.56 81.67,93.27 82.91,90.81 84.16,91.39 85.40,91.63 86.65,88.63 87.89,88.37 89.13,88.98 90.38,83.57 91.62,77.67 92.87,73.07 94.11,73.50 95.35,73.02 96.60,72.87 97.84,73.88 99.09,76.08 100.33,75.20 101.57,76.52 102.82,72.93 104.06,73.52 105.31,69.79 106.55,73.25 107.80,71.33 109.04,68.06 110.28,67.47 111.53,69.11 112.77,67.64 114.02,66.86 115.26,65.73 116.50,66.68 117.75,64.83 118.99,67.41 120.24,65.10 121.48,65.58 122.72,64.43 123.97,65.81 125.21,65.54 126.46,62.36 127.70,56.91 128.94,56.30 130.19,53.98 131.43,53.77 132.68,57.77 133.92,54.40 135.17,52.62 136.41,53.56 137.65,52.06 138.90,49.61 140.14,48.57 141.39,47.87 142.63,48.60 143.87,42.95 145.12,42.38 146.36,40.99 147.61,41.50 148.85,42.37 150.09,46.08 151.34,42.88 152.58,40.36 153.83,40.57 155.07,37.80 156.31,38.86 157.56,35.65 158.80,36.85 160.05,40.38 161.29,35.03 162.54,36.51 163.78,35.53 165.02,34.38 166.27,32.73 167.51,33.28 168.76,32.34 170.00,33.68 171.24,33.31 172.49,34.65 173.73,33.32 174.98,38.75 176.22,38.95 177.46,39.31 178.71,36.74 179.95,35.20 181.20,33.53 182.44,33.67 183.69,34.89 184.93,39.99 186.17,42.88 187.42,43.02 188.66,42.13 189.91,46.09 191.15,44.99 192.39,42.90 193.64,37.31 194.88,37.43 196.13,36.88 197.37,36.94 198.61,39.38 199.86,43.29 201.10,38.23 202.35,37.86 203.59,31.95 204.83,36.36 206.08,37.60 207.32,36.99 208.57,36.57 209.81,33.45 211.06,29.42 212.30,28.86 213.54,27.45 214.79,28.54 216.03,30.31 217.28,30.73 218.52,27.27 219.76,24.32 221.01,32.33 222.25,27.94 223.50,35.00 224.74,35.17 225.98,33.48 227.23,32.28 228.47,32.78 229.72,34.04 230.96,34.79 232.20,33.19 233.45,29.69 234.69,25.24 235.94,17.12 237.18,12.00 238.43,15.53 239.67,15.87 240.91,12.14 242.16,19.11 243.40,22.07 244.65,28.14 245.89,28.08 247.13,18.80 248.38,23.82 249.62,23.27 250.87,29.18 252.11,26.36 253.35,29.40 254.60,33.87 255.84,29.47 257.09,34.48 258.33,35.98 259.57,32.85 260.82,36.88 262.06,34.80 263.31,37.58 264.55,35.09 265.80,33.78 267.04,35.37 268.28,32.14 269.53,32.96 270.77,30.29 272.02,30.78 273.26,31.80 274.50,34.22 275.75,39.26 276.99,38.18 278.24,36.96 279.48,42.73 280.72,40.01 281.97,34.17 283.21,31.87 284.46,27.17 285.70,27.68 286.94,26.05 288.19,28.02 289.43,28.60 290.68,29.48 291.92,27.48 293.17,28.10 294.41,28.85 295.65,27.26 296.90,30.72 298.14,30.88 299.39,30.81 300.63,30.07 301.87,32.34 303.12,29.01 304.36,29.71 305.61,36.66 306.85,32.19 308.09,30.89 309.34,28.48 310.58,29.51 311.83,27.76 313.07,25.21 314.31,24.36 315.56,25.54 316.80,30.24 318.05,34.73 319.29,39.96 320.54,41.93 321.78,30.41 323.02,26.47 324.27,27.74 325.51,26.46 326.76,29.11 328.00,32.62" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,74.58 13.24,75.24 14.49,76.65 15.73,73.12 16.98,70.09 18.22,69.62 19.46,69.77 20.71,69.02 21.95,73.85 23.20,77.39 24.44,80.49 25.69,76.53 26.93,86.01 28.17,81.95 29.42,91.19 30.66,89.55 31.91,88.44 33.15,94.16 34.39,92.36 35.64,97.22 36.88,95.71 38.13,89.75 39.37,89.89 40.61,84.71 41.86,86.53 43.10,90.02 44.35,88.24 45.59,87.38 46.83,88.09 48.08,84.93 49.32,85.54 50.57,91.44 51.81,93.42 53.06,94.92 54.30,96.02 55.54,94.51 56.79,94.28 58.03,101.62 59.28,108.00 60.52,105.16 61.76,106.31 63.01,90.96 64.25,96.71 65.50,93.85 66.74,94.04 67.98,92.77 69.23,99.33 70.47,101.89 71.72,105.79 72.96,104.10 74.20,100.85 75.45,97.68 76.69,93.78 77.94,95.72 79.18,95.48 80.43,95.56 81.67,93.27 82.91,90.81 84.16,91.39 85.40,91.63 86.65,88.63 87.89,88.37 89.13,88.98 90.38,83.57 91.62,77.67 92.87,73.07 94.11,73.50 95.35,73.02 96.60,72.87 97.84,73.88 99.09,76.08 100.33,75.20 101.57,76.52 102.82,72.93 104.06,73.52 105.31,69.79 106.55,73.25 107.80,71.33 109.04,68.06 110.28,67.47 111.53,69.11 112.77,67.64 114.02,66.86 115.26,65.73 116.50,66.68 117.75,64.83 118.99,67.41 120.24,65.10 121.48,65.58 122.72,64.43 123.97,65.81 125.21,65.54 126.46,62.36 127.70,56.91 128.94,56.30 130.19,53.98 131.43,53.77 132.68,57.77 133.92,54.40 135.17,52.62 136.41,53.56 137.65,52.06 138.90,49.61 140.14,48.57 141.39,47.87 142.63,48.60 143.87,42.95 145.12,42.38 146.36,40.99 147.61,41.50 148.85,42.37 150.09,46.08 151.34,42.88 152.58,40.36 153.83,40.57 155.07,37.80 156.31,38.86 157.56,35.65 158.80,36.85 160.05,40.38 161.29,35.03 162.54,36.51 163.78,35.53 165.02,34.38 166.27,32.73 167.51,33.28 168.76,32.34 170.00,33.68 171.24,33.31 172.49,34.65 173.73,33.32 174.98,38.75 176.22,38.95 177.46,39.31 178.71,36.74 179.95,35.20 181.20,33.53 182.44,33.67 183.69,34.89 184.93,39.99 186.17,42.88 187.42,43.02 188.66,42.13 189.91,46.09 191.15,44.99 192.39,42.90 193.64,37.31 194.88,37.43 196.13,36.88 197.37,36.94 198.61,39.38 199.86,43.29 201.10,38.23 202.35,37.86 203.59,31.95 204.83,36.36 206.08,37.60 207.32,36.99 208.57,36.57 209.81,33.45 211.06,29.42 212.30,28.86 213.54,27.45 214.79,28.54 216.03,30.31 217.28,30.73 218.52,27.27 219.76,24.32 221.01,32.33 222.25,27.94 223.50,35.00 224.74,35.17 225.98,33.48 227.23,32.28 228.47,32.78 229.72,34.04 230.96,34.79 232.20,33.19 233.45,29.69 234.69,25.24 235.94,17.12 237.18,12.00 238.43,15.53 239.67,15.87 240.91,12.14 242.16,19.11 243.40,22.07 244.65,28.14 245.89,28.08 247.13,18.80 248.38,23.82 249.62,23.27 250.87,29.18 252.11,26.36 253.35,29.40 254.60,33.87 255.84,29.47 257.09,34.48 258.33,35.98 259.57,32.85 260.82,36.88 262.06,34.80 263.31,37.58 264.55,35.09 265.80,33.78 267.04,35.37 268.28,32.14 269.53,32.96 270.77,30.29 272.02,30.78 273.26,31.80 274.50,34.22 275.75,39.26 276.99,38.18 278.24,36.96 279.48,42.73 280.72,40.01 281.97,34.17 283.21,31.87 284.46,27.17 285.70,27.68 286.94,26.05 288.19,28.02 289.43,28.60 290.68,29.48 291.92,27.48 293.17,28.10 294.41,28.85 295.65,27.26 296.90,30.72 298.14,30.88 299.39,30.81 300.63,30.07 301.87,32.34 303.12,29.01 304.36,29.71 305.61,36.66 306.85,32.19 308.09,30.89 309.34,28.48 310.58,29.51 311.83,27.76 313.07,25.21 314.31,24.36 315.56,25.54 316.80,30.24 318.05,34.73 319.29,39.96 320.54,41.93 321.78,30.41 323.02,26.47 324.27,27.74 325.51,26.46 326.76,29.11 328.00,32.62 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,79.11 15.85,75.36 19.71,76.90 23.56,80.84 27.41,83.18 31.27,78.18 35.12,67.27 38.98,53.36 42.83,27.99 46.68,12.00 50.54,23.04 54.39,24.10 58.24,12.43 62.10,34.21 65.95,43.47 69.80,62.43 73.66,62.25 77.51,33.25 81.37,48.92 85.22,47.22 89.07,65.68 92.93,56.87 96.78,66.37 100.63,80.31 104.49,66.58 108.34,82.22 112.20,86.91 116.05,77.14 119.90,89.72 123.76,83.23 127.61,91.91 131.46,84.14 135.32,80.04 139.17,85.02 143.02,74.91 146.88,77.49 150.73,69.14 154.59,70.68 158.44,73.84 162.29,81.43 166.15,97.15 170.00,93.77 173.85,89.96 177.71,108.00 181.56,99.49 185.41,81.27 189.27,74.08 193.12,59.40 196.98,61.00 200.83,55.89 204.68,62.03 208.54,63.84 212.39,66.61 216.24,60.36 220.10,62.30 223.95,64.64 227.80,59.67 231.66,70.49 235.51,70.97 239.37,70.76 243.22,68.44 247.07,75.55 250.93,65.15 254.78,67.33 258.63,89.03 262.49,75.07 266.34,71.02 270.20,63.50 274.05,66.69 277.90,61.23 281.76,53.25 285.61,50.62 289.46,54.29 293.32,68.98 297.17,82.99 301.02,99.35 304.88,105.50 308.73,69.51 312.59,57.19 316.44,61.18 320.29,57.16 324.15,65.44 328.00,76.42" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,79.11 15.85,75.36 19.71,76.90 23.56,80.84 27.41,83.18 31.27,78.18 35.12,67.27 38.98,53.36 42.83,27.99 46.68,12.00 50.54,23.04 54.39,24.10 58.24,12.43 62.10,34.21 65.95,43.47 69.80,62.43 73.66,62.25 77.51,33.25 81.37,48.92 85.22,47.22 89.07,65.68 92.93,56.87 96.78,66.37 100.63,80.31 104.49,66.58 108.34,82.22 112.20,86.91 116.05,77.14 119.90,89.72 123.76,83.23 127.61,91.91 131.46,84.14 135.32,80.04 139.17,85.02 143.02,74.91 146.88,77.49 150.73,69.14 154.59,70.68 158.44,73.84 162.29,81.43 166.15,97.15 170.00,93.77 173.85,89.96 177.71,108.00 181.56,99.49 185.41,81.27 189.27,74.08 193.12,59.40 196.98,61.00 200.83,55.89 204.68,62.03 208.54,63.84 212.39,66.61 216.24,60.36 220.10,62.30 223.95,64.64 227.80,59.67 231.66,70.49 235.51,70.97 239.37,70.76 243.22,68.44 247.07,75.55 250.93,65.15 254.78,67.33 258.63,89.03 262.49,75.07 266.34,71.02 270.20,63.50 274.05,66.69 277.90,61.23 281.76,53.25 285.61,50.62 289.46,54.29 293.32,68.98 297.17,82.99 301.02,99.35 304.88,105.50 308.73,69.51 312.59,57.19 316.44,61.18 320.29,57.16 324.15,65.44 328.00,76.42 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
   </figure>
   
   ### Latest news (0-3 days)
@@ -72,23 +72,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — trading in an uptrend near 5-year near-peak levels with price ($182.81) just below its 20-day averages (~$184–185) and between support at ~$171 and resistance at ~$194; AI-related bubble/froth risk is flagged in recent headlines about sharp tech sell-offs and rebounds, so visibility on macro froth is limited.
+  0.1. **Long Entry?:** maybe — the stock is in a 7d uptrend and trades near the middle of its 1yr range but close to 5yr near-peak levels, suggesting some longer-term froth risk; price at 182.81 sits just below the 20-day moving average (≈185.3) and nearer to support at 171.03 than resistance at 193.66, while macro bubble visibility beyond general AI enthusiasm is limited in the provided data.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Nvidia designs and sells graphics processing units (GPUs) that were originally focused on gaming and PC graphics but now power a wide range of accelerated computing workloads. Its core platforms include GeForce for gaming and creative work, data center AI GPUs and systems for training and running large language models, and the CUDA software stack that underpins AI development. The company is also expanding into data center networking to interconnect GPUs for large-scale AI and high-performance computing.
+  1.1. **Activities:** Nvidia is a leading developer of graphics processing units (GPUs) used for gaming and, increasingly, artificial intelligence workloads such as training and running large language models. Beyond GPUs, it offers the CUDA software platform for AI model development and training, and is expanding into data center networking solutions that interconnect GPUs for complex workloads. These capabilities position Nvidia at the core of modern AI and high-performance computing infrastructure.
   
-  1.2. **Profitable?:** yes — Nvidia is highly profitable, with net income totaling about $99.2B across recent periods and a profit margin of roughly 53%, alongside strong revenue and earnings growth and robust free cash flow.
+  1.2. **Profitable?:** yes — Nvidia is profitable, with a profit margin of about 53% and nearly $99.2B in recent net income plus strong free cash flow of about $53.3B.
   
-  1.3. **Customer & Markets:** Nvidia's primary customers are gamers and creators, enterprises running data centers, professional visualization users, and automotive and embedded system customers. Its main markets are the large and growing segments of gaming, data center AI, professional visualization, and automotive, with revenue data showing these as distinct market segments. Geographically it is a U.S.-based company with a global customer base, though specific regional splits are not detailed here.
+  1.3. **Customer & Markets:** Nvidia's primary customers are technology and internet companies, cloud providers, and enterprises that need high-performance GPUs and AI infrastructure, as highlighted by large-scale AI deployments like Meta's use of Nvidia CPUs, networking, and GPUs. Its markets span gaming PCs and data centers to AI infrastructure globally, with the U.S. and other advanced economies relying on its chips for AI and computing workloads.
   
-  1.4. **Competition:** Key competitors include AMD and Intel in GPUs and AI accelerators, along with large tech platforms like Apple, Amazon, Alphabet/Google, Microsoft, Meta, Broadcom, and Tesla in overlapping AI and computing markets. Nvidia currently dominates discrete GPUs with about 92% market share, indicating a leading position versus these rivals.
+  1.4. **Competition:** Nvidia's principal competitors include semiconductor and AI hardware providers such as AMD, Intel, Broadcom, and large tech players like Google, Meta, Microsoft, Amazon, Apple, and Tesla that develop their own accelerators. Within AI GPUs, the data cites Nvidia as a standout designer and market leader, with rivals trying to catch up or carve out niches.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has been moving from support around $171 toward resistance near $194 before pulling back slightly to $182.81.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the stock has rebounded from support around 171.03 toward the 180s.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy area was near support around $171.03, while the suggested sell or trim zone was near recent highs and resistance around $193.61–$193.66.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent support area around 171.03 appears to have been a favorable entry, while the local high and resistance zone around 193.61–193.66 has been an attractive area to take profits or trim exposure.
   
   2.3.1. **7d Volume:** med
   
@@ -96,15 +96,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Nvidia appears to be a highly stable institution rather than a fly-by-night operator, as reflected in its large and recurring net income of roughly $99.2B across recent periods and a very strong profit margin above 50%. Its operating cash flow (~$83.16B) and free cash flow (~$53.28B) indicate substantial internal funding capacity and balance sheet strength. The 5-year price chart shows a long history of trading with the current level near 5-year highs, highlighting durable investor confidence. Its dominant GPU market share (around 92% of discrete GPUs) and entrenched platforms like CUDA and data center solutions further reinforce its structural stability in the semiconductor ecosystem.
+  3.1. **Stability?:** Nvidia is a large, established U.S. semiconductor company with a substantial operating history and a leading position in GPUs and AI infrastructure. Its financials indicate strong stability, with roughly $99.2B in cumulative recent net income, a profit margin above 50%, and free cash flow exceeding $53B. Operating cash flow of about $83.2B further underscores its ability to fund growth and withstand downturns. The company's role at the heart of AI hardware, coupled with diversified offerings like CUDA software and data center networking, reinforces its status as a core, not fly-by-night, institution. While the stock trades near its 5-year peak zone, the balance sheet and cash generation in the provided data point to robust underlying stability.
   
-  3.2. **Innovating?:** Nvidia is clearly innovating and growing, as shown by rapid revenue (62.5%) and earnings (65.3%) growth, expansion into AI data center networking, and platforms like CUDA and new AI chips and supercomputer platforms (e.g., Rubin and Blackwell). Recent news about acquiring Groq's AI inference assets and partnerships in autonomous delivery and telecom AI infrastructure further underscore ongoing innovation.
+  3.2. **Innovating?:** Nvidia is clearly innovating and growing, as shown by rapid revenue growth (about 62.5%), strong earnings growth (about 65.3%), and initiatives like expanding AI inference hardware (via the Groq deal and Rubin platform) and large-scale deployments of next-generation GPUs with partners like Meta. Its move into broader AI platforms and networking further indicates ongoing product and market expansion.
   
   ## 4. Context
   
-  4.1. **News:** Recent context is dominated by AI and infrastructure build-out: headlines note Nvidia's role in autonomous delivery partnerships (e.g., with Uber), its Rubin AI platform launch, and a major push into AI inference via acquisition of Groq's assets. Broader market news highlights sharp tech and AI-stock sell-offs and rebounds, with concerns about an AI bubble alongside confirmation of massive AI capex plans by big tech, which directly benefit Nvidia. Tariff-related news and regulatory headlines appear in the broader ticker context but are currently framed by analysts and management as having limited near-term impact. In light of the 'buy the rumor, sell the news' adage, the data suggest the stock has been sensitive to AI hype cycles and macro headlines but there is no single imminent catalyst here flagged as an obvious 'sell the news' event.
+  4.1. **News:** Recent context shows Nvidia at the center of the AI buildout, with headlines about Meta deploying millions of Nvidia Blackwell and Rubin GPUs and Nvidia acquiring Groq's inference chip assets to deepen its AI hardware stack. Another report notes Nvidia sold stakes in certain firms, causing those stocks to slide, which may reflect capital reallocation rather than core-operating stress. Broader market coverage describes an AI-driven tech sell-off and subsequent rebound, with Nvidia leading parts of the tech recovery and being singled out by banks like Citi and Bank of America for strong expected results. These dynamics suggest that while AI hype is significant, recent news has been more about execution and capital deployment than one-off headline events, so the usual 'buy the rumor, sell the news' pattern isn't clearly evident in the supplied data. Instead, sentiment seems tied to evolving views on AI demand and macro conditions rather than a single catalyst.
   
-  4.2. **Tarrifs:** Tariff headlines have caused bouts of volatility and sharp share price drops for Nvidia and chip stocks, but management commentary and analyst views in the provided data characterize the direct revenue impact as limited or not meaningfully negative. Overall, tariffs have created short-term sentiment and price shocks rather than a clearly material long-term earnings hit for the stock in the supplied information.
+  4.2. **Tarrifs:** Tariffs currently appear to have a mixed but somewhat mitigated effect on Nvidia-related AI hardware flows, as one article notes that Trump-era tariffs exempted computer equipment and chips fueling the AI boom, while another highlights that Nvidia must comply with strict U.S. licensing terms for certain H200 AI chip exports to China, implying regulatory and export-control constraints rather than broad tariff headwinds on its core U.S.-bound AI business.
   
   ## 5. QuickRef
   
@@ -134,9 +134,9 @@ raw_markdown: |
   <strong>Sources</strong>
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
-  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
   
@@ -146,15 +146,7 @@ raw_markdown: |
   <pre><code>
   Gathering context for NVDA...
   Gathering market data...
-  Checking massive.com quota and fetching price history...
-  Requesting NVDA prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVDA/range/1/day/2021-01-18/2026-02-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-  massive.com request failed (massive.com returned no price data); switching to yfinance...
-  Requesting prices from yfinance fallback...
-    yfinance span 10d: 22 rows
-    yfinance span 3mo: 62 rows
-    yfinance span 1y: 251 rows
-    yfinance span 5y: 1256 rows
-  Price data acquired from yfinance.
+  Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/NVDA/2026-02-13?apiKey=%2A%2A%2A
   Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVDA/2026-02-13?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVDA/prev?adjusted=true&amp;apiKey=%2A%2A%2A
@@ -164,7 +156,7 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/NVDA?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/NVDA?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/NVDA?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/NVDA?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
@@ -172,8 +164,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/NVDA?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NVDA?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/bnZpZGlhLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NVDA.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NVDA.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/NVDA?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NVDA?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 10 entries.
@@ -182,7 +173,7 @@ raw_markdown: |
   Massive earnings: attempting request with key 2QGS***XN
   Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=NVDA&amp;limit=4&amp;apiKey=%2A%2A%2A
   Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=NVDA&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+  Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
   Massive news: GET https://api.massive.com/v2/reference/news?ticker=NVDA&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
@@ -193,46 +184,76 @@ raw_markdown: |
   Running supplementary searches...
     google_custom_search search -&gt; NVDA core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; NVDA business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; NVDA profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; NVDA market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; NVDA competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 2 result(s)
     google_custom_search search -&gt; NVDA rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 4 result(s)
     google_custom_search search -&gt; NVDA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
     newsapi search -&gt; NVDA rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 1 result(s)
@@ -244,13 +265,24 @@ raw_markdown: |
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NVDA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NVDA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NVDA tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
     google_custom_search search -&gt; NVDA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search failed for &#x27;NVDA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -269,12 +301,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading in an uptrend near 5-year near-peak levels with price ($182.81) just below its 20-day averages (~$184–185) and between support at ~$171 and resistance at ~$194; AI-related bubble/froth risk is flagged in recent headlines about sharp tech sell-offs and rebounds, so visibility on macro froth is limited.&quot;, &quot;1.1&quot;: &quot;Nvidia designs and sells graphics processing units (GPUs) that were originally focused on gaming and PC graphics but now power a wide range of accelerated computing workloads. Its core platforms include GeForce for gaming and creative work, data center AI GPUs a
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 7d uptrend and trades near the middle of its 1yr range but close to 5yr near-peak levels, suggesting some longer-term froth risk; price at 182.81 sits just below the 20-day moving average (≈185.3) and nearer to support at 171.03 than resistance at 193.66, while macro bubble visibility beyond general AI enthusiasm is limited in the provided data.&quot;, &quot;1.1&quot;: &quot;Nvidia is a leading developer of graphics processing units (GPUs) used for gaming and, increasingly, artificial intelligence workloads such as training and running large language models. Beyond GPUs, it offe
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-16T08:43:30.935460+00:00">2026-02-16 08:43 UTC</time> (runtime 27.56s)
+**Generated:** <time class="js-local-time" datetime="2026-02-21T01:58:06.199231+00:00">2026-02-21 01:58 UTC</time> (runtime 24.95s)
 
 ![Nvidia Corp logo](https://ryness.github.io/stonks/assets/logos/NVDA.svg)
 
@@ -330,7 +362,7 @@ raw_markdown: |
 <circle cx="584.28" cy="146.96" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $94.29 · 5y low $11.21</figcaption>
-<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,70.09 13.26,69.62 14.53,69.77 15.79,69.02 17.06,73.85 18.32,77.39 19.58,80.49 20.85,76.53 22.11,86.01 23.38,81.95 24.64,91.19 25.90,89.55 27.17,88.44 28.43,94.16 29.70,92.36 30.96,97.22 32.22,95.71 33.49,89.75 34.75,89.89 36.02,84.71 37.28,86.53 38.54,90.02 39.81,88.24 41.07,87.38 42.34,88.09 43.60,84.93 44.86,85.54 46.13,91.44 47.39,93.42 48.66,94.92 49.92,96.02 51.18,94.51 52.45,94.28 53.71,101.62 54.98,108.00 56.24,105.16 57.50,106.31 58.77,90.96 60.03,96.71 61.30,93.85 62.56,94.04 63.82,92.77 65.09,99.33 66.35,101.89 67.62,105.79 68.88,104.10 70.14,100.85 71.41,97.68 72.67,93.78 73.94,95.72 75.20,95.48 76.46,95.56 77.73,93.27 78.99,90.81 80.26,91.39 81.52,91.63 82.78,88.63 84.05,88.37 85.31,88.98 86.58,83.57 87.84,77.67 89.10,73.07 90.37,73.50 91.63,73.02 92.90,72.87 94.16,73.88 95.42,76.08 96.69,75.20 97.95,76.52 99.22,72.93 100.48,73.52 101.74,69.79 103.01,73.25 104.27,71.33 105.54,68.06 106.80,67.47 108.06,69.11 109.33,67.64 110.59,66.86 111.86,65.73 113.12,66.68 114.38,64.83 115.65,67.41 116.91,65.10 118.18,65.58 119.44,64.43 120.70,65.81 121.97,65.54 123.23,62.36 124.50,56.91 125.76,56.30 127.02,53.98 128.29,53.77 129.55,57.77 130.82,54.40 132.08,52.62 133.34,53.56 134.61,52.06 135.87,49.61 137.14,48.57 138.40,47.87 139.66,48.60 140.93,42.95 142.19,42.38 143.46,40.99 144.72,41.50 145.98,42.37 147.25,46.08 148.51,42.88 149.78,40.36 151.04,40.57 152.30,37.80 153.57,38.86 154.83,35.65 156.10,36.85 157.36,40.38 158.62,35.03 159.89,36.51 161.15,35.53 162.42,34.38 163.68,32.73 164.94,33.28 166.21,32.34 167.47,33.68 168.74,33.31 170.00,34.65 171.26,33.32 172.53,38.75 173.79,38.95 175.06,39.31 176.32,36.74 177.58,35.20 178.85,33.53 180.11,33.67 181.38,34.89 182.64,39.99 183.90,42.88 185.17,43.02 186.43,42.13 187.70,46.09 188.96,44.99 190.22,42.90 191.49,37.31 192.75,37.43 194.02,36.88 195.28,36.94 196.54,39.38 197.81,43.29 199.07,38.23 200.34,37.86 201.60,31.95 202.86,36.36 204.13,37.60 205.39,36.99 206.66,36.57 207.92,33.45 209.18,29.42 210.45,28.86 211.71,27.45 212.98,28.54 214.24,30.31 215.50,30.73 216.77,27.27 218.03,24.32 219.30,32.33 220.56,27.94 221.82,35.00 223.09,35.17 224.35,33.48 225.62,32.28 226.88,32.78 228.14,34.04 229.41,34.79 230.67,33.19 231.94,29.69 233.20,25.24 234.46,17.12 235.73,12.00 236.99,15.53 238.26,15.87 239.52,12.14 240.78,19.11 242.05,22.07 243.31,28.14 244.58,28.08 245.84,18.80 247.10,23.82 248.37,23.27 249.63,29.18 250.90,26.36 252.16,29.40 253.42,33.87 254.69,29.47 255.95,34.48 257.22,35.98 258.48,32.85 259.74,36.88 261.01,34.80 262.27,37.58 263.54,35.09 264.80,33.78 266.06,35.37 267.33,32.14 268.59,32.96 269.86,30.29 271.12,30.78 272.38,31.80 273.65,34.22 274.91,39.26 276.18,38.18 277.44,36.96 278.70,42.73 279.97,40.01 281.23,34.17 282.50,31.87 283.76,27.17 285.02,27.68 286.29,26.05 287.55,28.02 288.82,28.60 290.08,29.48 291.34,27.48 292.61,28.10 293.87,28.85 295.14,27.26 296.40,30.72 297.66,30.88 298.93,30.81 300.19,30.07 301.46,32.34 302.72,29.01 303.98,29.71 305.25,36.66 306.51,32.19 307.78,30.89 309.04,28.48 310.30,29.51 311.57,27.76 312.83,25.21 314.10,24.36 315.36,25.54 316.62,30.24 317.89,34.73 319.15,39.96 320.42,41.93 321.68,30.41 322.94,26.47 324.21,27.74 325.47,26.46 326.74,29.11 328.00,32.62" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,70.09 13.26,69.62 14.53,69.77 15.79,69.02 17.06,73.85 18.32,77.39 19.58,80.49 20.85,76.53 22.11,86.01 23.38,81.95 24.64,91.19 25.90,89.55 27.17,88.44 28.43,94.16 29.70,92.36 30.96,97.22 32.22,95.71 33.49,89.75 34.75,89.89 36.02,84.71 37.28,86.53 38.54,90.02 39.81,88.24 41.07,87.38 42.34,88.09 43.60,84.93 44.86,85.54 46.13,91.44 47.39,93.42 48.66,94.92 49.92,96.02 51.18,94.51 52.45,94.28 53.71,101.62 54.98,108.00 56.24,105.16 57.50,106.31 58.77,90.96 60.03,96.71 61.30,93.85 62.56,94.04 63.82,92.77 65.09,99.33 66.35,101.89 67.62,105.79 68.88,104.10 70.14,100.85 71.41,97.68 72.67,93.78 73.94,95.72 75.20,95.48 76.46,95.56 77.73,93.27 78.99,90.81 80.26,91.39 81.52,91.63 82.78,88.63 84.05,88.37 85.31,88.98 86.58,83.57 87.84,77.67 89.10,73.07 90.37,73.50 91.63,73.02 92.90,72.87 94.16,73.88 95.42,76.08 96.69,75.20 97.95,76.52 99.22,72.93 100.48,73.52 101.74,69.79 103.01,73.25 104.27,71.33 105.54,68.06 106.80,67.47 108.06,69.11 109.33,67.64 110.59,66.86 111.86,65.73 113.12,66.68 114.38,64.83 115.65,67.41 116.91,65.10 118.18,65.58 119.44,64.43 120.70,65.81 121.97,65.54 123.23,62.36 124.50,56.91 125.76,56.30 127.02,53.98 128.29,53.77 129.55,57.77 130.82,54.40 132.08,52.62 133.34,53.56 134.61,52.06 135.87,49.61 137.14,48.57 138.40,47.87 139.66,48.60 140.93,42.95 142.19,42.38 143.46,40.99 144.72,41.50 145.98,42.37 147.25,46.08 148.51,42.88 149.78,40.36 151.04,40.57 152.30,37.80 153.57,38.86 154.83,35.65 156.10,36.85 157.36,40.38 158.62,35.03 159.89,36.51 161.15,35.53 162.42,34.38 163.68,32.73 164.94,33.28 166.21,32.34 167.47,33.68 168.74,33.31 170.00,34.65 171.26,33.32 172.53,38.75 173.79,38.95 175.06,39.31 176.32,36.74 177.58,35.20 178.85,33.53 180.11,33.67 181.38,34.89 182.64,39.99 183.90,42.88 185.17,43.02 186.43,42.13 187.70,46.09 188.96,44.99 190.22,42.90 191.49,37.31 192.75,37.43 194.02,36.88 195.28,36.94 196.54,39.38 197.81,43.29 199.07,38.23 200.34,37.86 201.60,31.95 202.86,36.36 204.13,37.60 205.39,36.99 206.66,36.57 207.92,33.45 209.18,29.42 210.45,28.86 211.71,27.45 212.98,28.54 214.24,30.31 215.50,30.73 216.77,27.27 218.03,24.32 219.30,32.33 220.56,27.94 221.82,35.00 223.09,35.17 224.35,33.48 225.62,32.28 226.88,32.78 228.14,34.04 229.41,34.79 230.67,33.19 231.94,29.69 233.20,25.24 234.46,17.12 235.73,12.00 236.99,15.53 238.26,15.87 239.52,12.14 240.78,19.11 242.05,22.07 243.31,28.14 244.58,28.08 245.84,18.80 247.10,23.82 248.37,23.27 249.63,29.18 250.90,26.36 252.16,29.40 253.42,33.87 254.69,29.47 255.95,34.48 257.22,35.98 258.48,32.85 259.74,36.88 261.01,34.80 262.27,37.58 263.54,35.09 264.80,33.78 266.06,35.37 267.33,32.14 268.59,32.96 269.86,30.29 271.12,30.78 272.38,31.80 273.65,34.22 274.91,39.26 276.18,38.18 277.44,36.96 278.70,42.73 279.97,40.01 281.23,34.17 282.50,31.87 283.76,27.17 285.02,27.68 286.29,26.05 287.55,28.02 288.82,28.60 290.08,29.48 291.34,27.48 292.61,28.10 293.87,28.85 295.14,27.26 296.40,30.72 297.66,30.88 298.93,30.81 300.19,30.07 301.46,32.34 302.72,29.01 303.98,29.71 305.25,36.66 306.51,32.19 307.78,30.89 309.04,28.48 310.30,29.51 311.57,27.76 312.83,25.21 314.10,24.36 315.36,25.54 316.62,30.24 317.89,34.73 319.15,39.96 320.42,41.93 321.68,30.41 322.94,26.47 324.21,27.74 325.47,26.46 326.74,29.11 328.00,32.62 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,22.46 17.18,38.35 22.36,61.67 27.54,38.71 32.72,64.87 37.90,72.71 43.08,56.37 48.26,77.42 53.44,66.56 58.62,81.07 63.80,68.08 68.98,61.22 74.16,69.55 79.34,52.63 84.52,56.95 89.70,42.98 94.89,45.56 100.07,50.85 105.25,63.54 110.43,89.84 115.61,84.19 120.79,77.82 125.97,108.00 131.15,93.76 136.33,63.27 141.51,51.25 146.69,26.69 151.87,29.36 157.05,20.81 162.23,31.09 167.41,34.12 172.59,38.75 177.77,28.29 182.95,31.54 188.13,35.45 193.31,27.13 198.49,45.25 203.67,46.05 208.85,45.69 214.03,41.82 219.21,53.70 224.39,36.30 229.57,39.95 234.75,76.27 239.93,52.90 245.11,46.14 250.30,33.54 255.48,38.88 260.66,29.76 265.84,16.41 271.02,12.00 276.20,18.14 281.38,42.71 286.56,66.16 291.74,93.54 296.92,103.82 302.10,43.60 307.28,22.99 312.46,29.67 317.64,22.95 322.82,36.79 328.00,55.17" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,22.46 17.18,38.35 22.36,61.67 27.54,38.71 32.72,64.87 37.90,72.71 43.08,56.37 48.26,77.42 53.44,66.56 58.62,81.07 63.80,68.08 68.98,61.22 74.16,69.55 79.34,52.63 84.52,56.95 89.70,42.98 94.89,45.56 100.07,50.85 105.25,63.54 110.43,89.84 115.61,84.19 120.79,77.82 125.97,108.00 131.15,93.76 136.33,63.27 141.51,51.25 146.69,26.69 151.87,29.36 157.05,20.81 162.23,31.09 167.41,34.12 172.59,38.75 177.77,28.29 182.95,31.54 188.13,35.45 193.31,27.13 198.49,45.25 203.67,46.05 208.85,45.69 214.03,41.82 219.21,53.70 224.39,36.30 229.57,39.95 234.75,76.27 239.93,52.90 245.11,46.14 250.30,33.54 255.48,38.88 260.66,29.76 265.84,16.41 271.02,12.00 276.20,18.14 281.38,42.71 286.56,66.16 291.74,93.54 296.92,103.82 302.10,43.60 307.28,22.99 312.46,29.67 317.64,22.95 322.82,36.79 328.00,55.17 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,74.58 13.24,75.24 14.49,76.65 15.73,73.12 16.98,70.09 18.22,69.62 19.46,69.77 20.71,69.02 21.95,73.85 23.20,77.39 24.44,80.49 25.69,76.53 26.93,86.01 28.17,81.95 29.42,91.19 30.66,89.55 31.91,88.44 33.15,94.16 34.39,92.36 35.64,97.22 36.88,95.71 38.13,89.75 39.37,89.89 40.61,84.71 41.86,86.53 43.10,90.02 44.35,88.24 45.59,87.38 46.83,88.09 48.08,84.93 49.32,85.54 50.57,91.44 51.81,93.42 53.06,94.92 54.30,96.02 55.54,94.51 56.79,94.28 58.03,101.62 59.28,108.00 60.52,105.16 61.76,106.31 63.01,90.96 64.25,96.71 65.50,93.85 66.74,94.04 67.98,92.77 69.23,99.33 70.47,101.89 71.72,105.79 72.96,104.10 74.20,100.85 75.45,97.68 76.69,93.78 77.94,95.72 79.18,95.48 80.43,95.56 81.67,93.27 82.91,90.81 84.16,91.39 85.40,91.63 86.65,88.63 87.89,88.37 89.13,88.98 90.38,83.57 91.62,77.67 92.87,73.07 94.11,73.50 95.35,73.02 96.60,72.87 97.84,73.88 99.09,76.08 100.33,75.20 101.57,76.52 102.82,72.93 104.06,73.52 105.31,69.79 106.55,73.25 107.80,71.33 109.04,68.06 110.28,67.47 111.53,69.11 112.77,67.64 114.02,66.86 115.26,65.73 116.50,66.68 117.75,64.83 118.99,67.41 120.24,65.10 121.48,65.58 122.72,64.43 123.97,65.81 125.21,65.54 126.46,62.36 127.70,56.91 128.94,56.30 130.19,53.98 131.43,53.77 132.68,57.77 133.92,54.40 135.17,52.62 136.41,53.56 137.65,52.06 138.90,49.61 140.14,48.57 141.39,47.87 142.63,48.60 143.87,42.95 145.12,42.38 146.36,40.99 147.61,41.50 148.85,42.37 150.09,46.08 151.34,42.88 152.58,40.36 153.83,40.57 155.07,37.80 156.31,38.86 157.56,35.65 158.80,36.85 160.05,40.38 161.29,35.03 162.54,36.51 163.78,35.53 165.02,34.38 166.27,32.73 167.51,33.28 168.76,32.34 170.00,33.68 171.24,33.31 172.49,34.65 173.73,33.32 174.98,38.75 176.22,38.95 177.46,39.31 178.71,36.74 179.95,35.20 181.20,33.53 182.44,33.67 183.69,34.89 184.93,39.99 186.17,42.88 187.42,43.02 188.66,42.13 189.91,46.09 191.15,44.99 192.39,42.90 193.64,37.31 194.88,37.43 196.13,36.88 197.37,36.94 198.61,39.38 199.86,43.29 201.10,38.23 202.35,37.86 203.59,31.95 204.83,36.36 206.08,37.60 207.32,36.99 208.57,36.57 209.81,33.45 211.06,29.42 212.30,28.86 213.54,27.45 214.79,28.54 216.03,30.31 217.28,30.73 218.52,27.27 219.76,24.32 221.01,32.33 222.25,27.94 223.50,35.00 224.74,35.17 225.98,33.48 227.23,32.28 228.47,32.78 229.72,34.04 230.96,34.79 232.20,33.19 233.45,29.69 234.69,25.24 235.94,17.12 237.18,12.00 238.43,15.53 239.67,15.87 240.91,12.14 242.16,19.11 243.40,22.07 244.65,28.14 245.89,28.08 247.13,18.80 248.38,23.82 249.62,23.27 250.87,29.18 252.11,26.36 253.35,29.40 254.60,33.87 255.84,29.47 257.09,34.48 258.33,35.98 259.57,32.85 260.82,36.88 262.06,34.80 263.31,37.58 264.55,35.09 265.80,33.78 267.04,35.37 268.28,32.14 269.53,32.96 270.77,30.29 272.02,30.78 273.26,31.80 274.50,34.22 275.75,39.26 276.99,38.18 278.24,36.96 279.48,42.73 280.72,40.01 281.97,34.17 283.21,31.87 284.46,27.17 285.70,27.68 286.94,26.05 288.19,28.02 289.43,28.60 290.68,29.48 291.92,27.48 293.17,28.10 294.41,28.85 295.65,27.26 296.90,30.72 298.14,30.88 299.39,30.81 300.63,30.07 301.87,32.34 303.12,29.01 304.36,29.71 305.61,36.66 306.85,32.19 308.09,30.89 309.34,28.48 310.58,29.51 311.83,27.76 313.07,25.21 314.31,24.36 315.56,25.54 316.80,30.24 318.05,34.73 319.29,39.96 320.54,41.93 321.78,30.41 323.02,26.47 324.27,27.74 325.51,26.46 326.76,29.11 328.00,32.62" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,74.58 13.24,75.24 14.49,76.65 15.73,73.12 16.98,70.09 18.22,69.62 19.46,69.77 20.71,69.02 21.95,73.85 23.20,77.39 24.44,80.49 25.69,76.53 26.93,86.01 28.17,81.95 29.42,91.19 30.66,89.55 31.91,88.44 33.15,94.16 34.39,92.36 35.64,97.22 36.88,95.71 38.13,89.75 39.37,89.89 40.61,84.71 41.86,86.53 43.10,90.02 44.35,88.24 45.59,87.38 46.83,88.09 48.08,84.93 49.32,85.54 50.57,91.44 51.81,93.42 53.06,94.92 54.30,96.02 55.54,94.51 56.79,94.28 58.03,101.62 59.28,108.00 60.52,105.16 61.76,106.31 63.01,90.96 64.25,96.71 65.50,93.85 66.74,94.04 67.98,92.77 69.23,99.33 70.47,101.89 71.72,105.79 72.96,104.10 74.20,100.85 75.45,97.68 76.69,93.78 77.94,95.72 79.18,95.48 80.43,95.56 81.67,93.27 82.91,90.81 84.16,91.39 85.40,91.63 86.65,88.63 87.89,88.37 89.13,88.98 90.38,83.57 91.62,77.67 92.87,73.07 94.11,73.50 95.35,73.02 96.60,72.87 97.84,73.88 99.09,76.08 100.33,75.20 101.57,76.52 102.82,72.93 104.06,73.52 105.31,69.79 106.55,73.25 107.80,71.33 109.04,68.06 110.28,67.47 111.53,69.11 112.77,67.64 114.02,66.86 115.26,65.73 116.50,66.68 117.75,64.83 118.99,67.41 120.24,65.10 121.48,65.58 122.72,64.43 123.97,65.81 125.21,65.54 126.46,62.36 127.70,56.91 128.94,56.30 130.19,53.98 131.43,53.77 132.68,57.77 133.92,54.40 135.17,52.62 136.41,53.56 137.65,52.06 138.90,49.61 140.14,48.57 141.39,47.87 142.63,48.60 143.87,42.95 145.12,42.38 146.36,40.99 147.61,41.50 148.85,42.37 150.09,46.08 151.34,42.88 152.58,40.36 153.83,40.57 155.07,37.80 156.31,38.86 157.56,35.65 158.80,36.85 160.05,40.38 161.29,35.03 162.54,36.51 163.78,35.53 165.02,34.38 166.27,32.73 167.51,33.28 168.76,32.34 170.00,33.68 171.24,33.31 172.49,34.65 173.73,33.32 174.98,38.75 176.22,38.95 177.46,39.31 178.71,36.74 179.95,35.20 181.20,33.53 182.44,33.67 183.69,34.89 184.93,39.99 186.17,42.88 187.42,43.02 188.66,42.13 189.91,46.09 191.15,44.99 192.39,42.90 193.64,37.31 194.88,37.43 196.13,36.88 197.37,36.94 198.61,39.38 199.86,43.29 201.10,38.23 202.35,37.86 203.59,31.95 204.83,36.36 206.08,37.60 207.32,36.99 208.57,36.57 209.81,33.45 211.06,29.42 212.30,28.86 213.54,27.45 214.79,28.54 216.03,30.31 217.28,30.73 218.52,27.27 219.76,24.32 221.01,32.33 222.25,27.94 223.50,35.00 224.74,35.17 225.98,33.48 227.23,32.28 228.47,32.78 229.72,34.04 230.96,34.79 232.20,33.19 233.45,29.69 234.69,25.24 235.94,17.12 237.18,12.00 238.43,15.53 239.67,15.87 240.91,12.14 242.16,19.11 243.40,22.07 244.65,28.14 245.89,28.08 247.13,18.80 248.38,23.82 249.62,23.27 250.87,29.18 252.11,26.36 253.35,29.40 254.60,33.87 255.84,29.47 257.09,34.48 258.33,35.98 259.57,32.85 260.82,36.88 262.06,34.80 263.31,37.58 264.55,35.09 265.80,33.78 267.04,35.37 268.28,32.14 269.53,32.96 270.77,30.29 272.02,30.78 273.26,31.80 274.50,34.22 275.75,39.26 276.99,38.18 278.24,36.96 279.48,42.73 280.72,40.01 281.97,34.17 283.21,31.87 284.46,27.17 285.70,27.68 286.94,26.05 288.19,28.02 289.43,28.60 290.68,29.48 291.92,27.48 293.17,28.10 294.41,28.85 295.65,27.26 296.90,30.72 298.14,30.88 299.39,30.81 300.63,30.07 301.87,32.34 303.12,29.01 304.36,29.71 305.61,36.66 306.85,32.19 308.09,30.89 309.34,28.48 310.58,29.51 311.83,27.76 313.07,25.21 314.31,24.36 315.56,25.54 316.80,30.24 318.05,34.73 319.29,39.96 320.54,41.93 321.78,30.41 323.02,26.47 324.27,27.74 325.51,26.46 326.76,29.11 328.00,32.62 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,79.11 15.85,75.36 19.71,76.90 23.56,80.84 27.41,83.18 31.27,78.18 35.12,67.27 38.98,53.36 42.83,27.99 46.68,12.00 50.54,23.04 54.39,24.10 58.24,12.43 62.10,34.21 65.95,43.47 69.80,62.43 73.66,62.25 77.51,33.25 81.37,48.92 85.22,47.22 89.07,65.68 92.93,56.87 96.78,66.37 100.63,80.31 104.49,66.58 108.34,82.22 112.20,86.91 116.05,77.14 119.90,89.72 123.76,83.23 127.61,91.91 131.46,84.14 135.32,80.04 139.17,85.02 143.02,74.91 146.88,77.49 150.73,69.14 154.59,70.68 158.44,73.84 162.29,81.43 166.15,97.15 170.00,93.77 173.85,89.96 177.71,108.00 181.56,99.49 185.41,81.27 189.27,74.08 193.12,59.40 196.98,61.00 200.83,55.89 204.68,62.03 208.54,63.84 212.39,66.61 216.24,60.36 220.10,62.30 223.95,64.64 227.80,59.67 231.66,70.49 235.51,70.97 239.37,70.76 243.22,68.44 247.07,75.55 250.93,65.15 254.78,67.33 258.63,89.03 262.49,75.07 266.34,71.02 270.20,63.50 274.05,66.69 277.90,61.23 281.76,53.25 285.61,50.62 289.46,54.29 293.32,68.98 297.17,82.99 301.02,99.35 304.88,105.50 308.73,69.51 312.59,57.19 316.44,61.18 320.29,57.16 324.15,65.44 328.00,76.42" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,79.11 15.85,75.36 19.71,76.90 23.56,80.84 27.41,83.18 31.27,78.18 35.12,67.27 38.98,53.36 42.83,27.99 46.68,12.00 50.54,23.04 54.39,24.10 58.24,12.43 62.10,34.21 65.95,43.47 69.80,62.43 73.66,62.25 77.51,33.25 81.37,48.92 85.22,47.22 89.07,65.68 92.93,56.87 96.78,66.37 100.63,80.31 104.49,66.58 108.34,82.22 112.20,86.91 116.05,77.14 119.90,89.72 123.76,83.23 127.61,91.91 131.46,84.14 135.32,80.04 139.17,85.02 143.02,74.91 146.88,77.49 150.73,69.14 154.59,70.68 158.44,73.84 162.29,81.43 166.15,97.15 170.00,93.77 173.85,89.96 177.71,108.00 181.56,99.49 185.41,81.27 189.27,74.08 193.12,59.40 196.98,61.00 200.83,55.89 204.68,62.03 208.54,63.84 212.39,66.61 216.24,60.36 220.10,62.30 223.95,64.64 227.80,59.67 231.66,70.49 235.51,70.97 239.37,70.76 243.22,68.44 247.07,75.55 250.93,65.15 254.78,67.33 258.63,89.03 262.49,75.07 266.34,71.02 270.20,63.50 274.05,66.69 277.90,61.23 281.76,53.25 285.61,50.62 289.46,54.29 293.32,68.98 297.17,82.99 301.02,99.35 304.88,105.50 308.73,69.51 312.59,57.19 316.44,61.18 320.29,57.16 324.15,65.44 328.00,76.42 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
 </figure>
 
 ### Latest news (0-3 days)
@@ -340,23 +372,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — trading in an uptrend near 5-year near-peak levels with price ($182.81) just below its 20-day averages (~$184–185) and between support at ~$171 and resistance at ~$194; AI-related bubble/froth risk is flagged in recent headlines about sharp tech sell-offs and rebounds, so visibility on macro froth is limited.
+0.1. **Long Entry?:** maybe — the stock is in a 7d uptrend and trades near the middle of its 1yr range but close to 5yr near-peak levels, suggesting some longer-term froth risk; price at 182.81 sits just below the 20-day moving average (≈185.3) and nearer to support at 171.03 than resistance at 193.66, while macro bubble visibility beyond general AI enthusiasm is limited in the provided data.
 
 ## 1. The Biz
 
-1.1. **Activities:** Nvidia designs and sells graphics processing units (GPUs) that were originally focused on gaming and PC graphics but now power a wide range of accelerated computing workloads. Its core platforms include GeForce for gaming and creative work, data center AI GPUs and systems for training and running large language models, and the CUDA software stack that underpins AI development. The company is also expanding into data center networking to interconnect GPUs for large-scale AI and high-performance computing.
+1.1. **Activities:** Nvidia is a leading developer of graphics processing units (GPUs) used for gaming and, increasingly, artificial intelligence workloads such as training and running large language models. Beyond GPUs, it offers the CUDA software platform for AI model development and training, and is expanding into data center networking solutions that interconnect GPUs for complex workloads. These capabilities position Nvidia at the core of modern AI and high-performance computing infrastructure.
 
-1.2. **Profitable?:** yes — Nvidia is highly profitable, with net income totaling about $99.2B across recent periods and a profit margin of roughly 53%, alongside strong revenue and earnings growth and robust free cash flow.
+1.2. **Profitable?:** yes — Nvidia is profitable, with a profit margin of about 53% and nearly $99.2B in recent net income plus strong free cash flow of about $53.3B.
 
-1.3. **Customer & Markets:** Nvidia's primary customers are gamers and creators, enterprises running data centers, professional visualization users, and automotive and embedded system customers. Its main markets are the large and growing segments of gaming, data center AI, professional visualization, and automotive, with revenue data showing these as distinct market segments. Geographically it is a U.S.-based company with a global customer base, though specific regional splits are not detailed here.
+1.3. **Customer & Markets:** Nvidia's primary customers are technology and internet companies, cloud providers, and enterprises that need high-performance GPUs and AI infrastructure, as highlighted by large-scale AI deployments like Meta's use of Nvidia CPUs, networking, and GPUs. Its markets span gaming PCs and data centers to AI infrastructure globally, with the U.S. and other advanced economies relying on its chips for AI and computing workloads.
 
-1.4. **Competition:** Key competitors include AMD and Intel in GPUs and AI accelerators, along with large tech platforms like Apple, Amazon, Alphabet/Google, Microsoft, Meta, Broadcom, and Tesla in overlapping AI and computing markets. Nvidia currently dominates discrete GPUs with about 92% market share, indicating a leading position versus these rivals.
+1.4. **Competition:** Nvidia's principal competitors include semiconductor and AI hardware providers such as AMD, Intel, Broadcom, and large tech players like Google, Meta, Microsoft, Amazon, Apple, and Tesla that develop their own accelerators. Within AI GPUs, the data cites Nvidia as a standout designer and market leader, with rivals trying to catch up or carve out niches.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has been moving from support around $171 toward resistance near $194 before pulling back slightly to $182.81.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and the stock has rebounded from support around 171.03 toward the 180s.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, the suggested buy area was near support around $171.03, while the suggested sell or trim zone was near recent highs and resistance around $193.61–$193.66.
+2.2. **7d Buy/Sell Points?:** Buying near the recent support area around 171.03 appears to have been a favorable entry, while the local high and resistance zone around 193.61–193.66 has been an attractive area to take profits or trim exposure.
 
 2.3.1. **7d Volume:** med
 
@@ -364,15 +396,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Nvidia appears to be a highly stable institution rather than a fly-by-night operator, as reflected in its large and recurring net income of roughly $99.2B across recent periods and a very strong profit margin above 50%. Its operating cash flow (~$83.16B) and free cash flow (~$53.28B) indicate substantial internal funding capacity and balance sheet strength. The 5-year price chart shows a long history of trading with the current level near 5-year highs, highlighting durable investor confidence. Its dominant GPU market share (around 92% of discrete GPUs) and entrenched platforms like CUDA and data center solutions further reinforce its structural stability in the semiconductor ecosystem.
+3.1. **Stability?:** Nvidia is a large, established U.S. semiconductor company with a substantial operating history and a leading position in GPUs and AI infrastructure. Its financials indicate strong stability, with roughly $99.2B in cumulative recent net income, a profit margin above 50%, and free cash flow exceeding $53B. Operating cash flow of about $83.2B further underscores its ability to fund growth and withstand downturns. The company's role at the heart of AI hardware, coupled with diversified offerings like CUDA software and data center networking, reinforces its status as a core, not fly-by-night, institution. While the stock trades near its 5-year peak zone, the balance sheet and cash generation in the provided data point to robust underlying stability.
 
-3.2. **Innovating?:** Nvidia is clearly innovating and growing, as shown by rapid revenue (62.5%) and earnings (65.3%) growth, expansion into AI data center networking, and platforms like CUDA and new AI chips and supercomputer platforms (e.g., Rubin and Blackwell). Recent news about acquiring Groq's AI inference assets and partnerships in autonomous delivery and telecom AI infrastructure further underscore ongoing innovation.
+3.2. **Innovating?:** Nvidia is clearly innovating and growing, as shown by rapid revenue growth (about 62.5%), strong earnings growth (about 65.3%), and initiatives like expanding AI inference hardware (via the Groq deal and Rubin platform) and large-scale deployments of next-generation GPUs with partners like Meta. Its move into broader AI platforms and networking further indicates ongoing product and market expansion.
 
 ## 4. Context
 
-4.1. **News:** Recent context is dominated by AI and infrastructure build-out: headlines note Nvidia's role in autonomous delivery partnerships (e.g., with Uber), its Rubin AI platform launch, and a major push into AI inference via acquisition of Groq's assets. Broader market news highlights sharp tech and AI-stock sell-offs and rebounds, with concerns about an AI bubble alongside confirmation of massive AI capex plans by big tech, which directly benefit Nvidia. Tariff-related news and regulatory headlines appear in the broader ticker context but are currently framed by analysts and management as having limited near-term impact. In light of the 'buy the rumor, sell the news' adage, the data suggest the stock has been sensitive to AI hype cycles and macro headlines but there is no single imminent catalyst here flagged as an obvious 'sell the news' event.
+4.1. **News:** Recent context shows Nvidia at the center of the AI buildout, with headlines about Meta deploying millions of Nvidia Blackwell and Rubin GPUs and Nvidia acquiring Groq's inference chip assets to deepen its AI hardware stack. Another report notes Nvidia sold stakes in certain firms, causing those stocks to slide, which may reflect capital reallocation rather than core-operating stress. Broader market coverage describes an AI-driven tech sell-off and subsequent rebound, with Nvidia leading parts of the tech recovery and being singled out by banks like Citi and Bank of America for strong expected results. These dynamics suggest that while AI hype is significant, recent news has been more about execution and capital deployment than one-off headline events, so the usual 'buy the rumor, sell the news' pattern isn't clearly evident in the supplied data. Instead, sentiment seems tied to evolving views on AI demand and macro conditions rather than a single catalyst.
 
-4.2. **Tarrifs:** Tariff headlines have caused bouts of volatility and sharp share price drops for Nvidia and chip stocks, but management commentary and analyst views in the provided data characterize the direct revenue impact as limited or not meaningfully negative. Overall, tariffs have created short-term sentiment and price shocks rather than a clearly material long-term earnings hit for the stock in the supplied information.
+4.2. **Tarrifs:** Tariffs currently appear to have a mixed but somewhat mitigated effect on Nvidia-related AI hardware flows, as one article notes that Trump-era tariffs exempted computer equipment and chips fueling the AI boom, while another highlights that Nvidia must comply with strict U.S. licensing terms for certain H200 AI chip exports to China, implying regulatory and export-control constraints rather than broad tariff headwinds on its core U.S.-bound AI business.
 
 ## 5. QuickRef
 
@@ -402,9 +434,9 @@ raw_markdown: |
 <strong>Sources</strong>
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
-<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>yfinance: fundamentals, earnings calendar</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>cached: prices &amp; technicals</li>
 </ul>
 </div>
 
@@ -414,15 +446,7 @@ raw_markdown: |
 <pre><code>
 Gathering context for NVDA...
 Gathering market data...
-Checking massive.com quota and fetching price history...
-Requesting NVDA prices from massive.com... (https://api.massive.com/v2/aggs/ticker/NVDA/range/1/day/2021-01-18/2026-02-16?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-massive.com request failed (massive.com returned no price data); switching to yfinance...
-Requesting prices from yfinance fallback...
-  yfinance span 10d: 22 rows
-  yfinance span 3mo: 62 rows
-  yfinance span 1y: 251 rows
-  yfinance span 5y: 1256 rows
-Price data acquired from yfinance.
+Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/NVDA/2026-02-13?apiKey=%2A%2A%2A
 Massive open-close: response 200 from https://api.massive.com/v1/open-close/NVDA/2026-02-13?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/NVDA/prev?adjusted=true&amp;apiKey=%2A%2A%2A
@@ -432,7 +456,7 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/NVDA?ti
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/NVDA?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/NVDA?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/NVDA?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/NVDA?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/NVDA?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
@@ -440,8 +464,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/NVDA?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/NVDA?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/bnZpZGlhLmNvbQ/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/NVDA.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/NVDA.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/NVDA?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/NVDA?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 10 entries.
@@ -450,7 +473,7 @@ Retrieving earnings calendar...
 Massive earnings: attempting request with key 2QGS***XN
 Massive earnings: GET https://api.massive.com/benzinga/v1/earnings?ticker=NVDA&amp;limit=4&amp;apiKey=%2A%2A%2A
 Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings?ticker=NVDA&amp;limit=4&amp;apiKey=&lt;redacted&gt;
-Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://polygon.io/pricing
+Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
 Massive news: GET https://api.massive.com/v2/reference/news?ticker=NVDA&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
@@ -461,46 +484,76 @@ Filtered 4 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; NVDA core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; NVDA business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; NVDA profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; NVDA market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; NVDA competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 2 result(s)
   google_custom_search search -&gt; NVDA rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 4 result(s)
   google_custom_search search -&gt; NVDA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
   newsapi search -&gt; NVDA rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 1 result(s)
@@ -512,13 +565,24 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+news&amp;pag
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NVDA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NVDA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NVDA tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
   google_custom_search search -&gt; NVDA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search failed for &#x27;NVDA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -537,6 +601,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading in an uptrend near 5-year near-peak levels with price ($182.81) just below its 20-day averages (~$184–185) and between support at ~$171 and resistance at ~$194; AI-related bubble/froth risk is flagged in recent headlines about sharp tech sell-offs and rebounds, so visibility on macro froth is limited.&quot;, &quot;1.1&quot;: &quot;Nvidia designs and sells graphics processing units (GPUs) that were originally focused on gaming and PC graphics but now power a wide range of accelerated computing workloads. Its core platforms include GeForce for gaming and creative work, data center AI GPUs a
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 7d uptrend and trades near the middle of its 1yr range but close to 5yr near-peak levels, suggesting some longer-term froth risk; price at 182.81 sits just below the 20-day moving average (≈185.3) and nearer to support at 171.03 than resistance at 193.66, while macro bubble visibility beyond general AI enthusiasm is limited in the provided data.&quot;, &quot;1.1&quot;: &quot;Nvidia is a leading developer of graphics processing units (GPUs) used for gaming and, increasingly, artificial intelligence workloads such as training and running large language models. Beyond GPUs, it offe
 </code></pre>
 </details>
