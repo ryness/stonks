@@ -2,11 +2,11 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2026-02-20
-generated_at: 2026-02-20T15:37:17.959778+00:00
-runtime_seconds: 32.23
+date: 2026-02-25
+generated_at: 2026-02-25T20:36:25.154386+00:00
+runtime_seconds: 42.56
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-20T15:37:17.959778+00:00">2026-02-20 15:37 UTC</time> (runtime 32.23s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-25T20:36:25.154386+00:00">2026-02-25 20:36 UTC</time> (runtime 42.56s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
@@ -54,23 +54,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in a short-term downtrend near 3-month and 30-day support around $31.03 and slightly above its 20-day moving average of ~$31.16; AI-related valuations show some froth in peers but recent headlines emphasize selectivity rather than a broad bubble, so risk/reward near support is mixed but not clearly extreme.
+  0.1. **Long Entry?:** maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, modular blade servers, workstations, networking devices, and server sub-systems. It offers full rack-scale, turnkey solutions that are designed, developed, validated, and installed for AI datacenters, cloud computing, data centers, high-performance computing, and IoT/embedded markets. The company operates as a single segment focused on modular, open-standard architectures for server solutions.
+  1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack solutions, networking devices, and server sub-systems. It focuses on turn-key, modular, open-standard architectures optimized for AI datacenters, cloud computing, high-performance computing, and IoT/embedded markets. The company operates through a single segment providing integrated high-performance server solutions from design through installation.
   
-  1.2. **Profitable?:** yes — the company generated positive net income in recent periods totaling about $872.78M with a profit margin of 3.1% and positive free cash flow, indicating current profitability.
+  1.2. **Profitable?:** yes — net income has been positive for the last four reported periods totaling $872.78M with a 3.1% profit margin and positive free cash flow, indicating current profitability despite margin pressure concerns in recent commentary.
   
-  1.3. **Customer & Markets:** Super Micro primarily serves cloud computing providers, enterprise and hyperscale data centers, high-performance computing customers, and IoT/embedded system integrators that need high-performance server infrastructure. More than half of its revenue comes from customers in the United States, with the remainder from Europe, Asia, and other regions, positioning it as a global supplier to AI, cloud, and data center markets.
+  1.3. **Customer & Markets:** Super Micro primarily serves cloud providers, hyperscale and enterprise data centers, AI datacenters, and high-performance computing customers, along with IoT and embedded system clients. More than half of its revenue comes from the United States, with additional sales in Europe, Asia, and other international regions, positioning it as a global infrastructure supplier to AI and cloud build-outs.
   
-  1.4. **Competition:** Key competitors include other server and data center hardware providers and AI ecosystem players such as Dell, HPE, Nvidia, AMD, and Intel, which also target cloud and AI infrastructure spending. Within this group, Super Micro is highlighted in recent articles as a leading but more cyclical AI server hardware supplier rather than a dominant chip vendor.
+  1.4. **Competition:** Key competitors and peers include major compute and infrastructure players such as Dell, HPE, Nvidia, AMD, Intel, Arista Networks, and large cloud/AI platform companies like Microsoft, Google, and Meta; within this group it is positioned as a specialist AI server and infrastructure vendor rather than a dominant mega-cap platform.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last week the stock has trended lower within a labeled downtrend, moving from the mid-$30s toward support around $31.03 despite a recent bounce.
+  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' with price sliding from a recent local high near $35.82 toward support around $31.03.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent local low and strong support around $31.03 appears to have offered favorable entry points, while selling or trimming near short-term resistance and the recent local high around $35.78–$35.82 would have been attractive exit levels. The quick facts also flag $31.03 as both 7-day and 30-day support with $35.78 as 7-day resistance.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around $31.03 were the most attractive buy levels given repeated tests of that floor. Rebounds toward the 7-day resistance and recent local high near $35.78–$35.82 offered better short-term selling or trimming opportunities.
   
   2.3.1. **7d Volume:** med
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Super Micro Computer is a multi-decade technology company (celebrating 30 years of innovation per its corporate materials) with a substantial global presence in server and data center hardware. Financially, it shows consistent profitability over recent periods with cumulative net income of about $872.78M, positive operating cash flow of ~$549M, and positive free cash flow, suggesting a functioning and self-funding business model. Its revenue base is geographically diversified, with more than half from the U.S. and the rest from Europe, Asia, and other regions, which reduces reliance on any single market. However, news and search results also note challenges such as margin pressure, market-share shifts, and sensitivity to cyclical hardware demand, indicating that while it is not a fly-by-night firm, its stability is influenced by competitive and macro factors.
+  3.1. **Stability?:** Super Micro is a long-established technology hardware company with a global customer base in data centers, AI, and cloud infrastructure rather than a nascent startup. It generates substantial revenue (with 123% growth recently cited) and has produced cumulative net income of about $873M alongside positive operating and free cash flow, supporting balance-sheet resilience. The firm secured a $2 billion credit facility and expanded manufacturing capacity for NVIDIA's Vera Rubin AI platforms, which helps address prior liquidity and governance concerns. However, articles note margin compression (down to 9.3% and expected toward 6.5%) and sensitivity to cyclical hardware demand, so while it is not fly-by-night, investors should recognize its exposure to industry cycles and competitive pricing pressure.
   
-  3.2. **Innovating?:** The company is clearly innovating and growing, with 123% recent sales growth and a focus on AI datacenter and high-performance server solutions highlighted across news and its product portfolio. Its modular, open-standard architectures and expanding AI infrastructure offerings position it as an active participant in the evolving AI hardware ecosystem rather than a stale hardware vendor.
+  3.2. **Innovating?:** Super Micro is clearly innovating and growing, with rapid revenue expansion (123% sales growth, expected 64% FY2026 growth tied to NVIDIA Blackwell servers) and new higher-margin product lines like DCBBS and Vera Rubin AI server platforms. At the same time, its aggressive 'land grab' strategy and compressed margins show it is prioritizing scale and market share over near-term profit maximization rather than stagnating.
   
   ## 4. Context
   
-  4.1. **News:** Recent news frames Super Micro as a key but volatile AI infrastructure beneficiary: articles cite 123% sales growth and strong AI server demand, yet also emphasize investor rotation within AI names and concerns about SMCI as a more cyclical hardware supplier. Headlines such as "Beyond Nvidia: 4 AI Stocks Flying Under the Radar" position it as an underappreciated alternative to mega-cap AI plays, while others note that SMCI, Nvidia, and AMD are no longer moving in sync as investors become more selective. Additional coverage highlights margin pressure, market-share questions, and a still-unresolved CFO search as ongoing overhangs despite robust top-line growth. In the context of "buy the rumor, sell the news," the data suggest that strong growth and AI optimism (the news) have at times been met with share-price pullbacks and heightened scrutiny rather than uninterrupted rallies, underscoring the need for valuation discipline even on seemingly good news.
+  4.1. **News:** Recent coverage frames Super Micro as a high-growth AI server infrastructure play that has nonetheless fallen about 46% from its 52-week high amid concerns over margin compression and cyclical hardware demand. Earnings were strong, with Q2 revenue and EPS beating expectations and guidance raised, sparking double-digit percentage pops and talk of potential short squeezes given 17–18% short interest and a key $35 resistance level. Other articles emphasize that the broader AI trade is entering a more selective phase, with SMCI increasingly viewed as a cyclical supplier rather than a pure AI secular winner, which has driven rotation even as AI demand accelerates. The "Rubin rally" narrative around expanded capacity for NVIDIA's Vera Rubin platforms and expected doubling of quarterly revenue shows how optimism and strong news have already produced sharp rebounds, so chasing post-earnings spikes may risk buying into "sell the news" moves despite quick_facts currently flagging 'no' for both buy-the-rumor and sell-the-news.
   
-  4.2. **Tarrifs:** Tariffs have had a negative impact on Super Micro's stock, with multiple reports tying earnings pressure and stock declines to tariff-related uncertainty and management explicitly citing tariff impacts as a short-term headwind. Sources note that a meaningful share of SMCI's revenue is exposed to regions affected by tariffs, and recent sell-offs in SMCI and Nvidia were linked to trade/tariff concerns, making tariffs a material risk factor for the shares.
+  4.2. **Tarrifs:** Tariff-related headlines have recently pressured SMCI as "reignited tariff fears" weighed on the stock, but options flow and commentary describe this as creating a contrarian bullish setup rather than a clear long-term fundamental impairment. Overall, tariffs have introduced bouts of negative sentiment and volatility rather than a well-quantified, lasting hit to earnings in the supplied data.
   
   ## 5. QuickRef
   
@@ -115,10 +115,9 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -159,81 +158,295 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 7 headline(s) from banned sources.
+  Latest news fallback search -&gt; SMCI latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; SMCI earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;SMCI earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 6 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; SMCI analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Super Micro Computer, Inc. Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Super Micro Computer, Inc. Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Super Micro Computer, . Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Super Micro Computer, . Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
     google_custom_search search -&gt; SMCI core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
+      gnews: 1 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 6 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 8 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 3 result(s)
+      gnews: 1 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: cached 2 result(s)
+      gnews: cached 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 4 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;SMCI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;SMCI tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -252,12 +465,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a short-term downtrend near 3-month and 30-day support around $31.03 and slightly above its 20-day moving average of ~$31.16; AI-related valuations show some froth in peers but recent headlines emphasize selectivity rather than a broad bubble, so risk/reward near support is mixed but not clearly extreme.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, modular blade servers, workstations, networking devices, and server sub-systems. It offers full rack-scale, turnkey solutions that are designed, developed, va
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack so
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-20T15:37:17.959778+00:00">2026-02-20 15:37 UTC</time> (runtime 32.23s)
+**Generated:** <time class="js-local-time" datetime="2026-02-25T20:36:25.154386+00:00">2026-02-25 20:36 UTC</time> (runtime 42.56s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
@@ -305,23 +518,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in a short-term downtrend near 3-month and 30-day support around $31.03 and slightly above its 20-day moving average of ~$31.16; AI-related valuations show some froth in peers but recent headlines emphasize selectivity rather than a broad bubble, so risk/reward near support is mixed but not clearly extreme.
+0.1. **Long Entry?:** maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, modular blade servers, workstations, networking devices, and server sub-systems. It offers full rack-scale, turnkey solutions that are designed, developed, validated, and installed for AI datacenters, cloud computing, data centers, high-performance computing, and IoT/embedded markets. The company operates as a single segment focused on modular, open-standard architectures for server solutions.
+1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack solutions, networking devices, and server sub-systems. It focuses on turn-key, modular, open-standard architectures optimized for AI datacenters, cloud computing, high-performance computing, and IoT/embedded markets. The company operates through a single segment providing integrated high-performance server solutions from design through installation.
 
-1.2. **Profitable?:** yes — the company generated positive net income in recent periods totaling about $872.78M with a profit margin of 3.1% and positive free cash flow, indicating current profitability.
+1.2. **Profitable?:** yes — net income has been positive for the last four reported periods totaling $872.78M with a 3.1% profit margin and positive free cash flow, indicating current profitability despite margin pressure concerns in recent commentary.
 
-1.3. **Customer & Markets:** Super Micro primarily serves cloud computing providers, enterprise and hyperscale data centers, high-performance computing customers, and IoT/embedded system integrators that need high-performance server infrastructure. More than half of its revenue comes from customers in the United States, with the remainder from Europe, Asia, and other regions, positioning it as a global supplier to AI, cloud, and data center markets.
+1.3. **Customer & Markets:** Super Micro primarily serves cloud providers, hyperscale and enterprise data centers, AI datacenters, and high-performance computing customers, along with IoT and embedded system clients. More than half of its revenue comes from the United States, with additional sales in Europe, Asia, and other international regions, positioning it as a global infrastructure supplier to AI and cloud build-outs.
 
-1.4. **Competition:** Key competitors include other server and data center hardware providers and AI ecosystem players such as Dell, HPE, Nvidia, AMD, and Intel, which also target cloud and AI infrastructure spending. Within this group, Super Micro is highlighted in recent articles as a leading but more cyclical AI server hardware supplier rather than a dominant chip vendor.
+1.4. **Competition:** Key competitors and peers include major compute and infrastructure players such as Dell, HPE, Nvidia, AMD, Intel, Arista Networks, and large cloud/AI platform companies like Microsoft, Google, and Meta; within this group it is positioned as a specialist AI server and infrastructure vendor rather than a dominant mega-cap platform.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last week the stock has trended lower within a labeled downtrend, moving from the mid-$30s toward support around $31.03 despite a recent bounce.
+2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' with price sliding from a recent local high near $35.82 toward support around $31.03.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent local low and strong support around $31.03 appears to have offered favorable entry points, while selling or trimming near short-term resistance and the recent local high around $35.78–$35.82 would have been attractive exit levels. The quick facts also flag $31.03 as both 7-day and 30-day support with $35.78 as 7-day resistance.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around $31.03 were the most attractive buy levels given repeated tests of that floor. Rebounds toward the 7-day resistance and recent local high near $35.78–$35.82 offered better short-term selling or trimming opportunities.
 
 2.3.1. **7d Volume:** med
 
@@ -329,15 +542,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Super Micro Computer is a multi-decade technology company (celebrating 30 years of innovation per its corporate materials) with a substantial global presence in server and data center hardware. Financially, it shows consistent profitability over recent periods with cumulative net income of about $872.78M, positive operating cash flow of ~$549M, and positive free cash flow, suggesting a functioning and self-funding business model. Its revenue base is geographically diversified, with more than half from the U.S. and the rest from Europe, Asia, and other regions, which reduces reliance on any single market. However, news and search results also note challenges such as margin pressure, market-share shifts, and sensitivity to cyclical hardware demand, indicating that while it is not a fly-by-night firm, its stability is influenced by competitive and macro factors.
+3.1. **Stability?:** Super Micro is a long-established technology hardware company with a global customer base in data centers, AI, and cloud infrastructure rather than a nascent startup. It generates substantial revenue (with 123% growth recently cited) and has produced cumulative net income of about $873M alongside positive operating and free cash flow, supporting balance-sheet resilience. The firm secured a $2 billion credit facility and expanded manufacturing capacity for NVIDIA's Vera Rubin AI platforms, which helps address prior liquidity and governance concerns. However, articles note margin compression (down to 9.3% and expected toward 6.5%) and sensitivity to cyclical hardware demand, so while it is not fly-by-night, investors should recognize its exposure to industry cycles and competitive pricing pressure.
 
-3.2. **Innovating?:** The company is clearly innovating and growing, with 123% recent sales growth and a focus on AI datacenter and high-performance server solutions highlighted across news and its product portfolio. Its modular, open-standard architectures and expanding AI infrastructure offerings position it as an active participant in the evolving AI hardware ecosystem rather than a stale hardware vendor.
+3.2. **Innovating?:** Super Micro is clearly innovating and growing, with rapid revenue expansion (123% sales growth, expected 64% FY2026 growth tied to NVIDIA Blackwell servers) and new higher-margin product lines like DCBBS and Vera Rubin AI server platforms. At the same time, its aggressive 'land grab' strategy and compressed margins show it is prioritizing scale and market share over near-term profit maximization rather than stagnating.
 
 ## 4. Context
 
-4.1. **News:** Recent news frames Super Micro as a key but volatile AI infrastructure beneficiary: articles cite 123% sales growth and strong AI server demand, yet also emphasize investor rotation within AI names and concerns about SMCI as a more cyclical hardware supplier. Headlines such as "Beyond Nvidia: 4 AI Stocks Flying Under the Radar" position it as an underappreciated alternative to mega-cap AI plays, while others note that SMCI, Nvidia, and AMD are no longer moving in sync as investors become more selective. Additional coverage highlights margin pressure, market-share questions, and a still-unresolved CFO search as ongoing overhangs despite robust top-line growth. In the context of "buy the rumor, sell the news," the data suggest that strong growth and AI optimism (the news) have at times been met with share-price pullbacks and heightened scrutiny rather than uninterrupted rallies, underscoring the need for valuation discipline even on seemingly good news.
+4.1. **News:** Recent coverage frames Super Micro as a high-growth AI server infrastructure play that has nonetheless fallen about 46% from its 52-week high amid concerns over margin compression and cyclical hardware demand. Earnings were strong, with Q2 revenue and EPS beating expectations and guidance raised, sparking double-digit percentage pops and talk of potential short squeezes given 17–18% short interest and a key $35 resistance level. Other articles emphasize that the broader AI trade is entering a more selective phase, with SMCI increasingly viewed as a cyclical supplier rather than a pure AI secular winner, which has driven rotation even as AI demand accelerates. The "Rubin rally" narrative around expanded capacity for NVIDIA's Vera Rubin platforms and expected doubling of quarterly revenue shows how optimism and strong news have already produced sharp rebounds, so chasing post-earnings spikes may risk buying into "sell the news" moves despite quick_facts currently flagging 'no' for both buy-the-rumor and sell-the-news.
 
-4.2. **Tarrifs:** Tariffs have had a negative impact on Super Micro's stock, with multiple reports tying earnings pressure and stock declines to tariff-related uncertainty and management explicitly citing tariff impacts as a short-term headwind. Sources note that a meaningful share of SMCI's revenue is exposed to regions affected by tariffs, and recent sell-offs in SMCI and Nvidia were linked to trade/tariff concerns, making tariffs a material risk factor for the shares.
+4.2. **Tarrifs:** Tariff-related headlines have recently pressured SMCI as "reignited tariff fears" weighed on the stock, but options flow and commentary describe this as creating a contrarian bullish setup rather than a clear long-term fundamental impairment. Overall, tariffs have introduced bouts of negative sentiment and volatility rather than a well-quantified, lasting hit to earnings in the supplied data.
 
 ## 5. QuickRef
 
@@ -366,10 +579,9 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -410,81 +622,295 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=SMCI&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 7 headline(s) from banned sources.
+Latest news fallback search -&gt; SMCI latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; SMCI earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;SMCI earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 6 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; SMCI analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+analyst+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Super Micro Computer, Inc. Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Super Micro Computer, Inc. Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Super Micro Computer, . Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Super Micro Computer, . Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
   google_custom_search search -&gt; SMCI core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+core+business&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+profitability&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
+    gnews: 1 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 6 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+segments&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+competitors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+market+share&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 8 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+rumors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 3 result(s)
+    gnews: 1 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: cached 2 result(s)
+    gnews: cached 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 4 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;SMCI tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;SMCI tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -503,6 +929,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a short-term downtrend near 3-month and 30-day support around $31.03 and slightly above its 20-day moving average of ~$31.16; AI-related valuations show some froth in peers but recent headlines emphasize selectivity rather than a broad bubble, so risk/reward near support is mixed but not clearly extreme.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, modular blade servers, workstations, networking devices, and server sub-systems. It offers full rack-scale, turnkey solutions that are designed, developed, va
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack so
 </code></pre>
 </details>
