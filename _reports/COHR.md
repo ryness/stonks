@@ -2,11 +2,11 @@
 layout: default
 title: "COHR Stock Report"
 ticker: "COHR"
-date: 2026-02-20
-generated_at: 2026-02-20T18:02:05.156479+00:00
-runtime_seconds: 41.55
+date: 2026-02-25
+generated_at: 2026-02-25T18:32:12.314853+00:00
+runtime_seconds: 47.34
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-20T18:02:05.156479+00:00">2026-02-20 18:02 UTC</time> (runtime 41.55s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-25T18:32:12.314853+00:00">2026-02-25 18:32 UTC</time> (runtime 47.34s)
   
   ![Coherent Corp. logo](https://ryness.github.io/stonks/assets/logos/COHR.svg)
   
@@ -62,7 +62,7 @@ raw_markdown: |
   <circle cx="582.10" cy="218.69" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
   </svg>
   <figcaption>1y low $50.58 · 5y low $27.66</figcaption>
-  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,90.65 13.26,92.40 14.52,93.58 15.78,95.57 17.04,94.46 18.29,96.16 19.55,96.03 20.81,99.39 22.07,98.76 23.33,97.66 24.59,100.96 25.85,100.23 27.11,102.05 28.37,100.26 29.63,99.86 30.88,102.25 32.14,101.32 33.40,100.02 34.66,100.80 35.92,98.66 37.18,99.18 38.44,99.41 39.70,95.29 40.96,95.81 42.22,97.83 43.47,99.57 44.73,100.63 45.99,101.01 47.25,101.62 48.51,99.75 49.77,106.38 51.03,108.00 52.29,106.91 53.55,107.61 54.80,101.94 56.06,105.64 57.32,105.75 58.58,105.29 59.84,105.10 61.10,105.63 62.36,105.71 63.62,107.25 64.88,105.79 66.14,103.74 67.39,101.71 68.65,101.23 69.91,101.08 71.17,101.06 72.43,101.31 73.69,98.95 74.95,97.75 76.21,98.09 77.47,98.65 78.73,98.74 79.98,98.26 81.24,98.27 82.50,94.77 83.76,94.22 85.02,93.34 86.28,94.26 87.54,94.37 88.80,93.99 90.06,93.95 91.31,93.90 92.57,94.23 93.83,94.43 95.09,93.11 96.35,94.54 97.61,93.92 98.87,95.81 100.13,95.25 101.39,93.44 102.65,92.89 103.90,93.86 105.16,93.81 106.42,93.11 107.68,92.70 108.94,92.95 110.20,93.22 111.46,94.97 112.72,93.32 113.98,93.80 115.24,92.57 116.49,93.10 117.75,93.37 119.01,93.22 120.27,90.95 121.53,88.88 122.79,90.17 124.05,89.20 125.31,90.45 126.57,89.62 127.82,88.38 129.08,89.77 130.34,88.63 131.60,88.21 132.86,87.01 134.12,87.21 135.38,86.62 136.64,85.87 137.90,85.02 139.16,83.82 140.41,84.15 141.67,84.01 142.93,85.40 144.19,84.72 145.45,84.58 146.71,83.89 147.97,81.86 149.23,80.56 150.49,80.44 151.75,80.26 153.00,82.60 154.26,80.67 155.52,81.23 156.78,80.48 158.04,77.23 159.30,76.44 160.56,77.34 161.82,75.90 163.08,77.14 164.33,88.02 165.59,87.17 166.85,88.58 168.11,89.91 169.37,90.50 170.63,90.47 171.89,88.87 173.15,88.58 174.41,88.05 175.67,88.47 176.92,86.29 178.18,88.59 179.44,89.89 180.70,89.56 181.96,86.09 183.22,85.01 184.48,84.60 185.74,84.33 187.00,82.26 188.25,82.25 189.51,82.50 190.77,80.87 192.03,81.78 193.29,82.30 194.55,80.04 195.81,79.52 197.07,76.85 198.33,79.43 199.59,80.78 200.84,80.76 202.10,80.55 203.36,80.08 204.62,80.20 205.88,76.83 207.14,77.73 208.40,77.35 209.66,76.77 210.92,77.36 212.18,75.84 213.43,73.08 214.69,78.55 215.95,76.59 217.21,79.40 218.47,78.89 219.73,76.19 220.99,76.00 222.25,74.13 223.51,73.84 224.76,76.48 226.02,73.48 227.28,69.68 228.54,66.93 229.80,67.29 231.06,65.44 232.32,68.04 233.58,68.40 234.84,68.38 236.10,69.99 237.35,67.10 238.61,55.10 239.87,57.43 241.13,51.49 242.39,55.73 243.65,56.38 244.91,64.51 246.17,64.82 247.43,64.94 248.69,65.39 249.94,63.06 251.20,66.63 252.46,64.73 253.72,58.75 254.98,60.19 256.24,57.68 257.50,52.69 258.76,53.06 260.02,52.38 261.27,49.43 262.53,46.32 263.79,44.16 265.05,42.18 266.31,38.84 267.57,36.54 268.83,36.03 270.09,45.84 271.35,45.78 272.61,47.37 273.86,49.68 275.12,47.12 276.38,42.19 277.64,39.69 278.90,39.25 280.16,39.50 281.42,39.33 282.68,40.64 283.94,41.72 285.20,42.81 286.45,38.06 287.71,41.94 288.97,38.16 290.23,39.38 291.49,48.36 292.75,45.97 294.01,42.51 295.27,40.15 296.53,43.03 297.78,37.26 299.04,39.66 300.30,38.48 301.56,34.59 302.82,33.98 304.08,36.79 305.34,36.39 306.60,28.49 307.86,25.01 309.12,27.58 310.37,29.37 311.63,24.38 312.89,21.10 314.15,29.95 315.41,30.80 316.67,21.83 317.93,14.64 319.19,21.50 320.45,23.77 321.71,27.47 322.96,26.92 324.22,25.59 325.48,23.67 326.74,19.50 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,90.65 13.26,92.40 14.52,93.58 15.78,95.57 17.04,94.46 18.29,96.16 19.55,96.03 20.81,99.39 22.07,98.76 23.33,97.66 24.59,100.96 25.85,100.23 27.11,102.05 28.37,100.26 29.63,99.86 30.88,102.25 32.14,101.32 33.40,100.02 34.66,100.80 35.92,98.66 37.18,99.18 38.44,99.41 39.70,95.29 40.96,95.81 42.22,97.83 43.47,99.57 44.73,100.63 45.99,101.01 47.25,101.62 48.51,99.75 49.77,106.38 51.03,108.00 52.29,106.91 53.55,107.61 54.80,101.94 56.06,105.64 57.32,105.75 58.58,105.29 59.84,105.10 61.10,105.63 62.36,105.71 63.62,107.25 64.88,105.79 66.14,103.74 67.39,101.71 68.65,101.23 69.91,101.08 71.17,101.06 72.43,101.31 73.69,98.95 74.95,97.75 76.21,98.09 77.47,98.65 78.73,98.74 79.98,98.26 81.24,98.27 82.50,94.77 83.76,94.22 85.02,93.34 86.28,94.26 87.54,94.37 88.80,93.99 90.06,93.95 91.31,93.90 92.57,94.23 93.83,94.43 95.09,93.11 96.35,94.54 97.61,93.92 98.87,95.81 100.13,95.25 101.39,93.44 102.65,92.89 103.90,93.86 105.16,93.81 106.42,93.11 107.68,92.70 108.94,92.95 110.20,93.22 111.46,94.97 112.72,93.32 113.98,93.80 115.24,92.57 116.49,93.10 117.75,93.37 119.01,93.22 120.27,90.95 121.53,88.88 122.79,90.17 124.05,89.20 125.31,90.45 126.57,89.62 127.82,88.38 129.08,89.77 130.34,88.63 131.60,88.21 132.86,87.01 134.12,87.21 135.38,86.62 136.64,85.87 137.90,85.02 139.16,83.82 140.41,84.15 141.67,84.01 142.93,85.40 144.19,84.72 145.45,84.58 146.71,83.89 147.97,81.86 149.23,80.56 150.49,80.44 151.75,80.26 153.00,82.60 154.26,80.67 155.52,81.23 156.78,80.48 158.04,77.23 159.30,76.44 160.56,77.34 161.82,75.90 163.08,77.14 164.33,88.02 165.59,87.17 166.85,88.58 168.11,89.91 169.37,90.50 170.63,90.47 171.89,88.87 173.15,88.58 174.41,88.05 175.67,88.47 176.92,86.29 178.18,88.59 179.44,89.89 180.70,89.56 181.96,86.09 183.22,85.01 184.48,84.60 185.74,84.33 187.00,82.26 188.25,82.25 189.51,82.50 190.77,80.87 192.03,81.78 193.29,82.30 194.55,80.04 195.81,79.52 197.07,76.85 198.33,79.43 199.59,80.78 200.84,80.76 202.10,80.55 203.36,80.08 204.62,80.20 205.88,76.83 207.14,77.73 208.40,77.35 209.66,76.77 210.92,77.36 212.18,75.84 213.43,73.08 214.69,78.55 215.95,76.59 217.21,79.40 218.47,78.89 219.73,76.19 220.99,76.00 222.25,74.13 223.51,73.84 224.76,76.48 226.02,73.48 227.28,69.68 228.54,66.93 229.80,67.29 231.06,65.44 232.32,68.04 233.58,68.40 234.84,68.38 236.10,69.99 237.35,67.10 238.61,55.10 239.87,57.43 241.13,51.49 242.39,55.73 243.65,56.38 244.91,64.51 246.17,64.82 247.43,64.94 248.69,65.39 249.94,63.06 251.20,66.63 252.46,64.73 253.72,58.75 254.98,60.19 256.24,57.68 257.50,52.69 258.76,53.06 260.02,52.38 261.27,49.43 262.53,46.32 263.79,44.16 265.05,42.18 266.31,38.84 267.57,36.54 268.83,36.03 270.09,45.84 271.35,45.78 272.61,47.37 273.86,49.68 275.12,47.12 276.38,42.19 277.64,39.69 278.90,39.25 280.16,39.50 281.42,39.33 282.68,40.64 283.94,41.72 285.20,42.81 286.45,38.06 287.71,41.94 288.97,38.16 290.23,39.38 291.49,48.36 292.75,45.97 294.01,42.51 295.27,40.15 296.53,43.03 297.78,37.26 299.04,39.66 300.30,38.48 301.56,34.59 302.82,33.98 304.08,36.79 305.34,36.39 306.60,28.49 307.86,25.01 309.12,27.58 310.37,29.37 311.63,24.38 312.89,21.10 314.15,29.95 315.41,30.80 316.67,21.83 317.93,14.64 319.19,21.50 320.45,23.77 321.71,27.47 322.96,26.92 324.22,25.59 325.48,23.67 326.74,19.50 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,108.00 17.18,104.67 22.36,94.15 27.54,96.68 32.72,92.28 37.90,83.50 43.08,84.15 48.26,82.96 53.44,77.77 58.62,72.31 63.80,68.51 68.98,65.03 74.16,59.16 79.34,55.12 84.52,54.23 89.70,71.46 94.89,71.37 100.07,74.15 105.25,78.22 110.43,73.71 115.61,65.06 120.79,60.66 125.97,59.90 131.15,60.32 136.33,60.02 141.51,62.33 146.69,64.22 151.87,66.14 157.05,57.79 162.23,64.61 167.41,57.98 172.59,60.11 177.77,75.90 182.95,71.70 188.13,65.62 193.31,61.47 198.49,66.53 203.67,56.40 208.85,60.60 214.03,58.54 219.21,51.70 224.39,50.62 229.57,55.56 234.75,54.86 239.93,40.97 245.11,34.87 250.30,39.38 255.48,42.53 260.66,33.76 265.84,27.99 271.02,43.54 276.20,45.04 281.38,29.28 286.56,16.64 291.74,28.69 296.92,32.69 302.10,39.18 307.28,38.21 312.46,35.88 317.64,32.52 322.82,25.17 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,108.00 17.18,104.67 22.36,94.15 27.54,96.68 32.72,92.28 37.90,83.50 43.08,84.15 48.26,82.96 53.44,77.77 58.62,72.31 63.80,68.51 68.98,65.03 74.16,59.16 79.34,55.12 84.52,54.23 89.70,71.46 94.89,71.37 100.07,74.15 105.25,78.22 110.43,73.71 115.61,65.06 120.79,60.66 125.97,59.90 131.15,60.32 136.33,60.02 141.51,62.33 146.69,64.22 151.87,66.14 157.05,57.79 162.23,64.61 167.41,57.98 172.59,60.11 177.77,75.90 182.95,71.70 188.13,65.62 193.31,61.47 198.49,66.53 203.67,56.40 208.85,60.60 214.03,58.54 219.21,51.70 224.39,50.62 229.57,55.56 234.75,54.86 239.93,40.97 245.11,34.87 250.30,39.38 255.48,42.53 260.66,33.76 265.84,27.99 271.02,43.54 276.20,45.04 281.38,29.28 286.56,16.64 291.74,28.69 296.92,32.69 302.10,39.18 307.28,38.21 312.46,35.88 317.64,32.52 322.82,25.17 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+  <div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,89.46 13.25,90.58 14.50,90.65 15.75,92.40 17.00,93.58 18.25,95.57 19.49,94.46 20.74,96.16 21.99,96.03 23.24,99.39 24.49,98.76 25.74,97.66 26.99,100.96 28.24,100.23 29.49,102.05 30.74,100.26 31.98,99.86 33.23,102.25 34.48,101.32 35.73,100.02 36.98,100.80 38.23,98.66 39.48,99.18 40.73,99.41 41.98,95.29 43.23,95.81 44.47,97.83 45.72,99.57 46.97,100.63 48.22,101.01 49.47,101.62 50.72,99.75 51.97,106.38 53.22,108.00 54.47,106.91 55.72,107.61 56.96,101.94 58.21,105.64 59.46,105.75 60.71,105.29 61.96,105.10 63.21,105.63 64.46,105.71 65.71,107.25 66.96,105.79 68.21,103.74 69.45,101.71 70.70,101.23 71.95,101.08 73.20,101.06 74.45,101.31 75.70,98.95 76.95,97.75 78.20,98.09 79.45,98.65 80.70,98.74 81.94,98.26 83.19,98.27 84.44,94.77 85.69,94.22 86.94,93.34 88.19,94.26 89.44,94.37 90.69,93.99 91.94,93.95 93.19,93.90 94.43,94.23 95.68,94.43 96.93,93.11 98.18,94.54 99.43,93.92 100.68,95.81 101.93,95.25 103.18,93.44 104.43,92.89 105.68,93.86 106.92,93.81 108.17,93.11 109.42,92.70 110.67,92.95 111.92,93.22 113.17,94.97 114.42,93.32 115.67,93.80 116.92,92.57 118.17,93.10 119.42,93.37 120.66,93.22 121.91,90.95 123.16,88.88 124.41,90.17 125.66,89.20 126.91,90.45 128.16,89.62 129.41,88.38 130.66,89.77 131.91,88.63 133.15,88.21 134.40,87.01 135.65,87.21 136.90,86.62 138.15,85.87 139.40,85.02 140.65,83.82 141.90,84.15 143.15,84.01 144.40,85.40 145.64,84.72 146.89,84.58 148.14,83.89 149.39,81.86 150.64,80.56 151.89,80.44 153.14,80.26 154.39,82.60 155.64,80.67 156.89,81.23 158.13,80.48 159.38,77.23 160.63,76.44 161.88,77.34 163.13,75.90 164.38,77.14 165.63,88.02 166.88,87.17 168.13,88.58 169.38,89.91 170.62,90.50 171.87,90.47 173.12,88.87 174.37,88.58 175.62,88.05 176.87,88.47 178.12,86.29 179.37,88.59 180.62,89.89 181.87,89.56 183.11,86.09 184.36,85.01 185.61,84.60 186.86,84.33 188.11,82.26 189.36,82.25 190.61,82.50 191.86,80.87 193.11,81.78 194.36,82.30 195.60,80.04 196.85,79.52 198.10,76.85 199.35,79.43 200.60,80.78 201.85,80.76 203.10,80.55 204.35,80.08 205.60,80.20 206.85,76.83 208.09,77.73 209.34,77.35 210.59,76.77 211.84,77.36 213.09,75.84 214.34,73.08 215.59,78.55 216.84,76.59 218.09,79.40 219.34,78.89 220.58,76.19 221.83,76.00 223.08,74.13 224.33,73.84 225.58,76.48 226.83,73.48 228.08,69.68 229.33,66.93 230.58,67.29 231.83,65.44 233.08,68.04 234.32,68.40 235.57,68.38 236.82,69.99 238.07,67.10 239.32,55.10 240.57,57.43 241.82,51.49 243.07,55.73 244.32,56.38 245.57,64.51 246.81,64.82 248.06,64.94 249.31,65.39 250.56,63.06 251.81,66.63 253.06,64.73 254.31,58.75 255.56,60.19 256.81,57.68 258.06,52.69 259.30,53.06 260.55,52.38 261.80,49.43 263.05,46.32 264.30,44.16 265.55,42.18 266.80,38.84 268.05,36.54 269.30,36.03 270.55,45.84 271.79,45.78 273.04,47.37 274.29,49.68 275.54,47.12 276.79,42.19 278.04,39.69 279.29,39.25 280.54,39.50 281.79,39.33 283.04,40.64 284.28,41.72 285.53,42.81 286.78,38.06 288.03,41.94 289.28,38.16 290.53,39.38 291.78,48.36 293.03,45.97 294.28,42.51 295.53,40.15 296.77,43.03 298.02,37.26 299.27,39.66 300.52,38.48 301.77,34.59 303.02,33.98 304.27,36.79 305.52,36.39 306.77,28.49 308.02,25.01 309.26,27.58 310.51,29.37 311.76,24.38 313.01,21.10 314.26,29.95 315.51,30.80 316.76,21.83 318.01,14.64 319.26,21.50 320.51,23.77 321.75,27.47 323.00,26.92 324.25,25.59 325.50,23.67 326.75,19.50 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,89.46 13.25,90.58 14.50,90.65 15.75,92.40 17.00,93.58 18.25,95.57 19.49,94.46 20.74,96.16 21.99,96.03 23.24,99.39 24.49,98.76 25.74,97.66 26.99,100.96 28.24,100.23 29.49,102.05 30.74,100.26 31.98,99.86 33.23,102.25 34.48,101.32 35.73,100.02 36.98,100.80 38.23,98.66 39.48,99.18 40.73,99.41 41.98,95.29 43.23,95.81 44.47,97.83 45.72,99.57 46.97,100.63 48.22,101.01 49.47,101.62 50.72,99.75 51.97,106.38 53.22,108.00 54.47,106.91 55.72,107.61 56.96,101.94 58.21,105.64 59.46,105.75 60.71,105.29 61.96,105.10 63.21,105.63 64.46,105.71 65.71,107.25 66.96,105.79 68.21,103.74 69.45,101.71 70.70,101.23 71.95,101.08 73.20,101.06 74.45,101.31 75.70,98.95 76.95,97.75 78.20,98.09 79.45,98.65 80.70,98.74 81.94,98.26 83.19,98.27 84.44,94.77 85.69,94.22 86.94,93.34 88.19,94.26 89.44,94.37 90.69,93.99 91.94,93.95 93.19,93.90 94.43,94.23 95.68,94.43 96.93,93.11 98.18,94.54 99.43,93.92 100.68,95.81 101.93,95.25 103.18,93.44 104.43,92.89 105.68,93.86 106.92,93.81 108.17,93.11 109.42,92.70 110.67,92.95 111.92,93.22 113.17,94.97 114.42,93.32 115.67,93.80 116.92,92.57 118.17,93.10 119.42,93.37 120.66,93.22 121.91,90.95 123.16,88.88 124.41,90.17 125.66,89.20 126.91,90.45 128.16,89.62 129.41,88.38 130.66,89.77 131.91,88.63 133.15,88.21 134.40,87.01 135.65,87.21 136.90,86.62 138.15,85.87 139.40,85.02 140.65,83.82 141.90,84.15 143.15,84.01 144.40,85.40 145.64,84.72 146.89,84.58 148.14,83.89 149.39,81.86 150.64,80.56 151.89,80.44 153.14,80.26 154.39,82.60 155.64,80.67 156.89,81.23 158.13,80.48 159.38,77.23 160.63,76.44 161.88,77.34 163.13,75.90 164.38,77.14 165.63,88.02 166.88,87.17 168.13,88.58 169.38,89.91 170.62,90.50 171.87,90.47 173.12,88.87 174.37,88.58 175.62,88.05 176.87,88.47 178.12,86.29 179.37,88.59 180.62,89.89 181.87,89.56 183.11,86.09 184.36,85.01 185.61,84.60 186.86,84.33 188.11,82.26 189.36,82.25 190.61,82.50 191.86,80.87 193.11,81.78 194.36,82.30 195.60,80.04 196.85,79.52 198.10,76.85 199.35,79.43 200.60,80.78 201.85,80.76 203.10,80.55 204.35,80.08 205.60,80.20 206.85,76.83 208.09,77.73 209.34,77.35 210.59,76.77 211.84,77.36 213.09,75.84 214.34,73.08 215.59,78.55 216.84,76.59 218.09,79.40 219.34,78.89 220.58,76.19 221.83,76.00 223.08,74.13 224.33,73.84 225.58,76.48 226.83,73.48 228.08,69.68 229.33,66.93 230.58,67.29 231.83,65.44 233.08,68.04 234.32,68.40 235.57,68.38 236.82,69.99 238.07,67.10 239.32,55.10 240.57,57.43 241.82,51.49 243.07,55.73 244.32,56.38 245.57,64.51 246.81,64.82 248.06,64.94 249.31,65.39 250.56,63.06 251.81,66.63 253.06,64.73 254.31,58.75 255.56,60.19 256.81,57.68 258.06,52.69 259.30,53.06 260.55,52.38 261.80,49.43 263.05,46.32 264.30,44.16 265.55,42.18 266.80,38.84 268.05,36.54 269.30,36.03 270.55,45.84 271.79,45.78 273.04,47.37 274.29,49.68 275.54,47.12 276.79,42.19 278.04,39.69 279.29,39.25 280.54,39.50 281.79,39.33 283.04,40.64 284.28,41.72 285.53,42.81 286.78,38.06 288.03,41.94 289.28,38.16 290.53,39.38 291.78,48.36 293.03,45.97 294.28,42.51 295.53,40.15 296.77,43.03 298.02,37.26 299.27,39.66 300.52,38.48 301.77,34.59 303.02,33.98 304.27,36.79 305.52,36.39 306.77,28.49 308.02,25.01 309.26,27.58 310.51,29.37 311.76,24.38 313.01,21.10 314.26,29.95 315.51,30.80 316.76,21.83 318.01,14.64 319.26,21.50 320.51,23.77 321.75,27.47 323.00,26.92 324.25,25.59 325.50,23.67 326.75,19.50 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,108.00 15.90,102.06 19.80,97.77 23.70,98.34 27.60,95.43 31.51,99.50 35.41,100.07 39.31,100.04 43.21,102.55 47.11,98.04 51.01,79.30 54.91,82.94 58.81,73.66 62.72,80.28 66.62,81.30 70.52,93.98 74.42,94.47 78.32,94.67 82.22,95.37 86.12,91.73 90.02,97.30 93.93,94.33 97.83,84.99 101.73,87.24 105.63,83.32 109.53,75.53 113.43,76.11 117.33,75.05 121.23,70.44 125.14,65.59 129.04,62.21 132.94,59.12 136.84,53.90 140.74,50.32 144.64,49.52 148.54,64.83 152.44,64.75 156.35,67.22 160.25,70.84 164.15,66.83 168.05,59.14 171.95,55.23 175.85,54.55 179.75,54.93 183.65,54.67 187.56,56.72 191.46,58.40 195.36,60.10 199.26,52.69 203.16,58.74 207.06,52.85 210.96,54.74 214.86,68.78 218.77,65.05 222.67,59.64 226.57,55.95 230.47,60.45 234.37,51.45 238.27,55.19 242.17,53.35 246.07,47.27 249.98,46.31 253.88,50.70 257.78,50.08 261.68,37.74 265.58,32.32 269.48,36.33 273.38,39.13 277.28,31.33 281.19,26.21 285.09,40.02 288.99,41.36 292.89,27.35 296.79,16.12 300.69,26.83 304.59,30.38 308.49,36.15 312.40,35.29 316.30,33.21 320.20,30.23 324.10,23.70 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,108.00 15.90,102.06 19.80,97.77 23.70,98.34 27.60,95.43 31.51,99.50 35.41,100.07 39.31,100.04 43.21,102.55 47.11,98.04 51.01,79.30 54.91,82.94 58.81,73.66 62.72,80.28 66.62,81.30 70.52,93.98 74.42,94.47 78.32,94.67 82.22,95.37 86.12,91.73 90.02,97.30 93.93,94.33 97.83,84.99 101.73,87.24 105.63,83.32 109.53,75.53 113.43,76.11 117.33,75.05 121.23,70.44 125.14,65.59 129.04,62.21 132.94,59.12 136.84,53.90 140.74,50.32 144.64,49.52 148.54,64.83 152.44,64.75 156.35,67.22 160.25,70.84 164.15,66.83 168.05,59.14 171.95,55.23 175.85,54.55 179.75,54.93 183.65,54.67 187.56,56.72 191.46,58.40 195.36,60.10 199.26,52.69 203.16,58.74 207.06,52.85 210.96,54.74 214.86,68.78 218.77,65.05 222.67,59.64 226.57,55.95 230.47,60.45 234.37,51.45 238.27,55.19 242.17,53.35 246.07,47.27 249.98,46.31 253.88,50.70 257.78,50.08 261.68,37.74 265.58,32.32 269.48,36.33 273.38,39.13 277.28,31.33 281.19,26.21 285.09,40.02 288.99,41.36 292.89,27.35 296.79,16.12 300.69,26.83 304.59,30.38 308.49,36.15 312.40,35.29 316.30,33.21 320.20,30.23 324.10,23.70 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
   </figure>
   
   ### Latest news (0-3 days)
@@ -72,23 +72,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — price is at 1yr/3mo/5yr peak near short-term resistance ($247.88 vs $252.49) and ~13% above the 20-day average, suggesting a stretched entry; macro froth visibility is limited but recent inflation-driven rallies in growth stocks point to sentiment tailwinds better bought on pullbacks toward support around $204.57 or the ~$200 SMA.
+  0.1. **Long Entry?:** no — the stock is at 1yr/3mo/5yr peaks with price far above its 20‑day average ($247.88 vs ~$220) and close to near-term resistance at ~$252; macro froth is evident in AI/data-center infrastructure rallies and recent inflation-driven risk-on moves, so risk/reward is unfavorable vs support around ~$205
   
   ## 1. The Biz
   
-  1.1. **Activities:** Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers used across industrial, communications, electronics, and instrumentation markets. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. The company is vertically integrated and serves customers globally across North America, Europe, China, Japan, and the rest of the world.
+  1.1. **Activities:** Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. Its products are used across industrial, communications, electronics, and instrumentation markets.
   
-  1.2. **Profitable?:** yes — Coherent is currently profitable, with a positive net income sum of $293.16M, a profit margin of 4.66%, positive free cash flow, and strong recent earnings and revenue growth.
+  1.2. **Profitable?:** yes — the company is currently profitable, with a positive net income sum of about $293M and a profit margin of 4.66%, supported by positive free cash flow and strong recent earnings beats.
   
-  1.3. **Customer & Markets:** Coherent's primary customers are in industrial, communications, electronics, and instrumentation markets that use optical networking, photonics, and laser solutions. It serves hyperscale data centers and communications customers through its Networking segment and supplies materials and laser technology to a broad set of electronics and industrial OEMs. Geographically, revenue comes from North America, Europe, China, Japan, and other international markets.
+  1.3. **Customer & Markets:** Coherent serves customers in industrial, communications, electronics, and instrumentation markets that use optical networking, photonics, and laser solutions. Its revenue is generated globally across North America, Europe, China, Japan, and the rest of the world, with strong demand from data center and communications customers highlighted in recent results.
   
-  1.4. **Competition:** Key competitors include companies in optical networking, photonics, and scientific/technical instruments such as Ciena, Lumentum, Cognex, and other peers listed in industry competitor screens, with Coherent positioned among larger players by revenue and market cap but without a specific rank disclosed. Comparative data shows its revenue growth has recently trailed the average of its competitor set.
+  1.4. **Competition:** unknown
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from the low end of the recent range ($216.87) toward and above the prior local high ($237.60) to close at $247.88.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from around the local low near $217 toward resistance around $252.
   
-  2.2. **7d Buy/Sell Points?:** In the last week, pullbacks toward the suggested buy zone and local low around $216.87 offered better buying opportunities. Strength into and above the recent local high and suggested sell zone around $237.60, and now near resistance at $252.49, has been the area to trim or sell.
+  2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the suggested buy zone and local low around $217 were attractive buying areas, while approaches to the local high and resistance near $238–$252 offered favorable selling opportunities.
   
   2.3.1. **7d Volume:** med
   
@@ -96,15 +96,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Coherent appears to be a relatively stable institution in the scientific and technical instruments space, with diversified operations spanning Networking, Materials, and Lasers and a global geographic footprint. It has generated positive cumulative net income over the recent periods and maintains positive operating cash flow of $397.1M and free cash flow of $130.4M, supporting balance-sheet resilience. The company's scale (multi-billion revenue and large market cap) and sustained investment in its core segments further underpin its institutional stability. However, profitability margins are modest, and its high-growth, cyclical end-markets can introduce earnings volatility.
+  3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly-by-night company, given its global operations across North America, Europe, China, Japan, and other regions. Financially, it shows cumulative positive net income (~$293M), a positive profit margin, and solid operating and free cash flow. The company is actively managing its portfolio and balance sheet, exemplified by the planned $400M sale of its Aerospace and Defense business to reduce debt. However, recent legal investigations following guidance-related stock drops indicate some event and execution risk for investors.
   
-  3.2. **Innovating?:** Coherent is actively innovating and growing, with recent strong revenue growth of 17.5%, earnings growth of 41.9%, and Q2 results driven by robust demand in data center and communications. The company's focus on AI-related data center infrastructure and portfolio streamlining toward higher-margin businesses indicates an ongoing innovation and growth agenda.
+  3.2. **Innovating?:** The company is innovating and growing, as evidenced by strong revenue and earnings growth rates and the showcase of next-generation optical communication technologies such as 2D VCSEL arrays, 100G ZR modules, and quantum-safe networking solutions. Its positioning in AI-driven data center and communications demand further underscores ongoing growth and innovation.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights a strong Q2 earnings beat for Coherent, with EPS and revenue above consensus and guidance for Q3 also ahead of expectations, which drove a 5% after-hours stock jump. Broader macro news shows softer-than-expected inflation at 2.4%, sparking rallies in growth-sensitive stocks and supporting risk-on sentiment that has helped push COHR to multi-period peaks. Sector commentary on AI infrastructure and photonics notes that peers are extended and suggests disciplined entries on pullbacks, aligning with quick-fact flags of 'sell the news' rather than 'buy the rumor' for this name. For COHR, much of the recent upside appears tied to realized news (earnings beats, AI data center demand, macro relief), so the buy-the-rumor/sell-the-news pattern implies caution about chasing current levels.
+  4.1. **News:** Recent context shows Coherent benefiting from the AI infrastructure and data center boom, with articles grouping it among soaring data center and optical networking stocks tied to cloud and AI demand. The stock jumped after Q2 earnings and revenue beat expectations, and guidance for the next quarter was solid, which likely fueled further price gains. At the same time, analysts have flagged that some related names look extended, and quick facts for COHR itself recommend 'sell the news,' suggesting that strong results may already be priced in. There has also been negative sentiment around a business sale and weak guidance that caused a sharp drop and prompted a law firm investigation, highlighting volatility around news events. Overall, the pattern aligns with 'buy the rumor, sell the news' dynamics, where positive AI and earnings headlines have led to sharp rallies that may be vulnerable to reversals.
   
-  4.2. **Tarrifs:** Tariffs have periodically pressured Coherent's stock, with prior U.S. tariff announcements causing selloffs in optical networking and photonics names including COHR, but management has recently stated they do not expect significant tariff impacts in the near-term and historical impacts have been described as moderate.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -133,10 +133,9 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
-  <li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: profit outlook, market expansion, tariffs</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
+  <li>yfinance: fundamentals, earnings calendar</li>
+  <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
   
@@ -146,17 +145,9 @@ raw_markdown: |
   <pre><code>
   Gathering context for COHR...
   Gathering market data...
-  Checking massive.com quota and fetching price history...
-  Requesting COHR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/COHR/range/1/day/2021-01-22/2026-02-20?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-  massive.com request failed (massive.com returned no price data); switching to yfinance...
-  Requesting prices from yfinance fallback...
-    yfinance span 10d: 23 rows
-    yfinance span 3mo: 62 rows
-    yfinance span 1y: 252 rows
-    yfinance span 5y: 1256 rows
-  Price data acquired from yfinance.
+  Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
   Massive open-close: GET https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=%2A%2A%2A
-  Massive open-close: response 403 from https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=&lt;redacted&gt;
+  Massive open-close: response 200 from https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=&lt;redacted&gt;
   Massive previous close: GET https://api.massive.com/v2/aggs/ticker/COHR/prev?adjusted=true&amp;apiKey=%2A%2A%2A
   Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/COHR/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive SMA: GET https://api.massive.com/v1/indicators/sma/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -164,7 +155,7 @@ raw_markdown: |
   Massive EMA: GET https://api.massive.com/v1/indicators/ema/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive MACD: GET https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-  Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+  Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Massive RSI: GET https://api.massive.com/v1/indicators/rsi/COHR?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
   Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/COHR?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
   Calculating technical snapshot...
@@ -172,8 +163,7 @@ raw_markdown: |
   Massive profile: GET https://api.massive.com/v3/reference/tickers/COHR?apiKey=%2A%2A%2A
   Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/COHR?apiKey=&lt;redacted&gt;
   Massive profile: company metadata retrieved successfully.
-  Massive logo: GET https://api.massive.com/v1/reference/company-branding/aWktdmkuY29t/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-  Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/COHR.svg
+  Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/COHR.svg
   Massive related companies: GET https://api.massive.com/v1/related-companies/COHR?apiKey=%2A%2A%2A
   Massive related companies: response 200 from https://api.massive.com/v1/related-companies/COHR?apiKey=&lt;redacted&gt;
   Massive related companies: retrieved 0 entries.
@@ -185,97 +175,322 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
-  Filtered 2 headline(s) from banned sources.
-  Running supplementary searches...
-    google_custom_search search -&gt; COHR core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 7 headline(s) from banned sources.
+  Latest news fallback search -&gt; COHR latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; COHR earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; COHR analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Coherent Corp. latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Coherent Corp. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Coherent Corp. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Coherent Corp. earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Coherent Corp. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Coherent Corp. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Coherent latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Coherent+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Coherent+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Coherent latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Coherent earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Coherent+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Coherent+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Coherent earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Running supplementary searches...
+    google_custom_search search -&gt; COHR core business (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
-      gnews: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;COHR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -294,12 +509,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — price is at 1yr/3mo/5yr peak near short-term resistance ($247.88 vs $252.49) and ~13% above the 20-day average, suggesting a stretched entry; macro froth visibility is limited but recent inflation-driven rallies in growth stocks point to sentiment tailwinds better bought on pullbacks toward support around $204.57 or the ~$200 SMA.&quot;, &quot;1.1&quot;: &quot;Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers used across industrial, communications, electronics, and instrumentation markets. It operates through three segments—Net
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — the stock is at 1yr/3mo/5yr peaks with price far above its 20‑day average ($247.88 vs ~$220) and close to near-term resistance at ~$252; macro froth is evident in AI/data-center infrastructure rallies and recent inflation-driven risk-on moves, so risk/reward is unfavorable vs support around ~$205&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. Its products are used across in
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-20T18:02:05.156479+00:00">2026-02-20 18:02 UTC</time> (runtime 41.55s)
+**Generated:** <time class="js-local-time" datetime="2026-02-25T18:32:12.314853+00:00">2026-02-25 18:32 UTC</time> (runtime 47.34s)
 
 ![Coherent Corp. logo](https://ryness.github.io/stonks/assets/logos/COHR.svg)
 
@@ -355,7 +570,7 @@ raw_markdown: |
 <circle cx="582.10" cy="218.69" r="4" fill="#2b6cb0" stroke="#fff" stroke-width="1.5" />
 </svg>
 <figcaption>1y low $50.58 · 5y low $27.66</figcaption>
-<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,90.65 13.26,92.40 14.52,93.58 15.78,95.57 17.04,94.46 18.29,96.16 19.55,96.03 20.81,99.39 22.07,98.76 23.33,97.66 24.59,100.96 25.85,100.23 27.11,102.05 28.37,100.26 29.63,99.86 30.88,102.25 32.14,101.32 33.40,100.02 34.66,100.80 35.92,98.66 37.18,99.18 38.44,99.41 39.70,95.29 40.96,95.81 42.22,97.83 43.47,99.57 44.73,100.63 45.99,101.01 47.25,101.62 48.51,99.75 49.77,106.38 51.03,108.00 52.29,106.91 53.55,107.61 54.80,101.94 56.06,105.64 57.32,105.75 58.58,105.29 59.84,105.10 61.10,105.63 62.36,105.71 63.62,107.25 64.88,105.79 66.14,103.74 67.39,101.71 68.65,101.23 69.91,101.08 71.17,101.06 72.43,101.31 73.69,98.95 74.95,97.75 76.21,98.09 77.47,98.65 78.73,98.74 79.98,98.26 81.24,98.27 82.50,94.77 83.76,94.22 85.02,93.34 86.28,94.26 87.54,94.37 88.80,93.99 90.06,93.95 91.31,93.90 92.57,94.23 93.83,94.43 95.09,93.11 96.35,94.54 97.61,93.92 98.87,95.81 100.13,95.25 101.39,93.44 102.65,92.89 103.90,93.86 105.16,93.81 106.42,93.11 107.68,92.70 108.94,92.95 110.20,93.22 111.46,94.97 112.72,93.32 113.98,93.80 115.24,92.57 116.49,93.10 117.75,93.37 119.01,93.22 120.27,90.95 121.53,88.88 122.79,90.17 124.05,89.20 125.31,90.45 126.57,89.62 127.82,88.38 129.08,89.77 130.34,88.63 131.60,88.21 132.86,87.01 134.12,87.21 135.38,86.62 136.64,85.87 137.90,85.02 139.16,83.82 140.41,84.15 141.67,84.01 142.93,85.40 144.19,84.72 145.45,84.58 146.71,83.89 147.97,81.86 149.23,80.56 150.49,80.44 151.75,80.26 153.00,82.60 154.26,80.67 155.52,81.23 156.78,80.48 158.04,77.23 159.30,76.44 160.56,77.34 161.82,75.90 163.08,77.14 164.33,88.02 165.59,87.17 166.85,88.58 168.11,89.91 169.37,90.50 170.63,90.47 171.89,88.87 173.15,88.58 174.41,88.05 175.67,88.47 176.92,86.29 178.18,88.59 179.44,89.89 180.70,89.56 181.96,86.09 183.22,85.01 184.48,84.60 185.74,84.33 187.00,82.26 188.25,82.25 189.51,82.50 190.77,80.87 192.03,81.78 193.29,82.30 194.55,80.04 195.81,79.52 197.07,76.85 198.33,79.43 199.59,80.78 200.84,80.76 202.10,80.55 203.36,80.08 204.62,80.20 205.88,76.83 207.14,77.73 208.40,77.35 209.66,76.77 210.92,77.36 212.18,75.84 213.43,73.08 214.69,78.55 215.95,76.59 217.21,79.40 218.47,78.89 219.73,76.19 220.99,76.00 222.25,74.13 223.51,73.84 224.76,76.48 226.02,73.48 227.28,69.68 228.54,66.93 229.80,67.29 231.06,65.44 232.32,68.04 233.58,68.40 234.84,68.38 236.10,69.99 237.35,67.10 238.61,55.10 239.87,57.43 241.13,51.49 242.39,55.73 243.65,56.38 244.91,64.51 246.17,64.82 247.43,64.94 248.69,65.39 249.94,63.06 251.20,66.63 252.46,64.73 253.72,58.75 254.98,60.19 256.24,57.68 257.50,52.69 258.76,53.06 260.02,52.38 261.27,49.43 262.53,46.32 263.79,44.16 265.05,42.18 266.31,38.84 267.57,36.54 268.83,36.03 270.09,45.84 271.35,45.78 272.61,47.37 273.86,49.68 275.12,47.12 276.38,42.19 277.64,39.69 278.90,39.25 280.16,39.50 281.42,39.33 282.68,40.64 283.94,41.72 285.20,42.81 286.45,38.06 287.71,41.94 288.97,38.16 290.23,39.38 291.49,48.36 292.75,45.97 294.01,42.51 295.27,40.15 296.53,43.03 297.78,37.26 299.04,39.66 300.30,38.48 301.56,34.59 302.82,33.98 304.08,36.79 305.34,36.39 306.60,28.49 307.86,25.01 309.12,27.58 310.37,29.37 311.63,24.38 312.89,21.10 314.15,29.95 315.41,30.80 316.67,21.83 317.93,14.64 319.19,21.50 320.45,23.77 321.71,27.47 322.96,26.92 324.22,25.59 325.48,23.67 326.74,19.50 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,90.65 13.26,92.40 14.52,93.58 15.78,95.57 17.04,94.46 18.29,96.16 19.55,96.03 20.81,99.39 22.07,98.76 23.33,97.66 24.59,100.96 25.85,100.23 27.11,102.05 28.37,100.26 29.63,99.86 30.88,102.25 32.14,101.32 33.40,100.02 34.66,100.80 35.92,98.66 37.18,99.18 38.44,99.41 39.70,95.29 40.96,95.81 42.22,97.83 43.47,99.57 44.73,100.63 45.99,101.01 47.25,101.62 48.51,99.75 49.77,106.38 51.03,108.00 52.29,106.91 53.55,107.61 54.80,101.94 56.06,105.64 57.32,105.75 58.58,105.29 59.84,105.10 61.10,105.63 62.36,105.71 63.62,107.25 64.88,105.79 66.14,103.74 67.39,101.71 68.65,101.23 69.91,101.08 71.17,101.06 72.43,101.31 73.69,98.95 74.95,97.75 76.21,98.09 77.47,98.65 78.73,98.74 79.98,98.26 81.24,98.27 82.50,94.77 83.76,94.22 85.02,93.34 86.28,94.26 87.54,94.37 88.80,93.99 90.06,93.95 91.31,93.90 92.57,94.23 93.83,94.43 95.09,93.11 96.35,94.54 97.61,93.92 98.87,95.81 100.13,95.25 101.39,93.44 102.65,92.89 103.90,93.86 105.16,93.81 106.42,93.11 107.68,92.70 108.94,92.95 110.20,93.22 111.46,94.97 112.72,93.32 113.98,93.80 115.24,92.57 116.49,93.10 117.75,93.37 119.01,93.22 120.27,90.95 121.53,88.88 122.79,90.17 124.05,89.20 125.31,90.45 126.57,89.62 127.82,88.38 129.08,89.77 130.34,88.63 131.60,88.21 132.86,87.01 134.12,87.21 135.38,86.62 136.64,85.87 137.90,85.02 139.16,83.82 140.41,84.15 141.67,84.01 142.93,85.40 144.19,84.72 145.45,84.58 146.71,83.89 147.97,81.86 149.23,80.56 150.49,80.44 151.75,80.26 153.00,82.60 154.26,80.67 155.52,81.23 156.78,80.48 158.04,77.23 159.30,76.44 160.56,77.34 161.82,75.90 163.08,77.14 164.33,88.02 165.59,87.17 166.85,88.58 168.11,89.91 169.37,90.50 170.63,90.47 171.89,88.87 173.15,88.58 174.41,88.05 175.67,88.47 176.92,86.29 178.18,88.59 179.44,89.89 180.70,89.56 181.96,86.09 183.22,85.01 184.48,84.60 185.74,84.33 187.00,82.26 188.25,82.25 189.51,82.50 190.77,80.87 192.03,81.78 193.29,82.30 194.55,80.04 195.81,79.52 197.07,76.85 198.33,79.43 199.59,80.78 200.84,80.76 202.10,80.55 203.36,80.08 204.62,80.20 205.88,76.83 207.14,77.73 208.40,77.35 209.66,76.77 210.92,77.36 212.18,75.84 213.43,73.08 214.69,78.55 215.95,76.59 217.21,79.40 218.47,78.89 219.73,76.19 220.99,76.00 222.25,74.13 223.51,73.84 224.76,76.48 226.02,73.48 227.28,69.68 228.54,66.93 229.80,67.29 231.06,65.44 232.32,68.04 233.58,68.40 234.84,68.38 236.10,69.99 237.35,67.10 238.61,55.10 239.87,57.43 241.13,51.49 242.39,55.73 243.65,56.38 244.91,64.51 246.17,64.82 247.43,64.94 248.69,65.39 249.94,63.06 251.20,66.63 252.46,64.73 253.72,58.75 254.98,60.19 256.24,57.68 257.50,52.69 258.76,53.06 260.02,52.38 261.27,49.43 262.53,46.32 263.79,44.16 265.05,42.18 266.31,38.84 267.57,36.54 268.83,36.03 270.09,45.84 271.35,45.78 272.61,47.37 273.86,49.68 275.12,47.12 276.38,42.19 277.64,39.69 278.90,39.25 280.16,39.50 281.42,39.33 282.68,40.64 283.94,41.72 285.20,42.81 286.45,38.06 287.71,41.94 288.97,38.16 290.23,39.38 291.49,48.36 292.75,45.97 294.01,42.51 295.27,40.15 296.53,43.03 297.78,37.26 299.04,39.66 300.30,38.48 301.56,34.59 302.82,33.98 304.08,36.79 305.34,36.39 306.60,28.49 307.86,25.01 309.12,27.58 310.37,29.37 311.63,24.38 312.89,21.10 314.15,29.95 315.41,30.80 316.67,21.83 317.93,14.64 319.19,21.50 320.45,23.77 321.71,27.47 322.96,26.92 324.22,25.59 325.48,23.67 326.74,19.50 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,108.00 17.18,104.67 22.36,94.15 27.54,96.68 32.72,92.28 37.90,83.50 43.08,84.15 48.26,82.96 53.44,77.77 58.62,72.31 63.80,68.51 68.98,65.03 74.16,59.16 79.34,55.12 84.52,54.23 89.70,71.46 94.89,71.37 100.07,74.15 105.25,78.22 110.43,73.71 115.61,65.06 120.79,60.66 125.97,59.90 131.15,60.32 136.33,60.02 141.51,62.33 146.69,64.22 151.87,66.14 157.05,57.79 162.23,64.61 167.41,57.98 172.59,60.11 177.77,75.90 182.95,71.70 188.13,65.62 193.31,61.47 198.49,66.53 203.67,56.40 208.85,60.60 214.03,58.54 219.21,51.70 224.39,50.62 229.57,55.56 234.75,54.86 239.93,40.97 245.11,34.87 250.30,39.38 255.48,42.53 260.66,33.76 265.84,27.99 271.02,43.54 276.20,45.04 281.38,29.28 286.56,16.64 291.74,28.69 296.92,32.69 302.10,39.18 307.28,38.21 312.46,35.88 317.64,32.52 322.82,25.17 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,108.00 17.18,104.67 22.36,94.15 27.54,96.68 32.72,92.28 37.90,83.50 43.08,84.15 48.26,82.96 53.44,77.77 58.62,72.31 63.80,68.51 68.98,65.03 74.16,59.16 79.34,55.12 84.52,54.23 89.70,71.46 94.89,71.37 100.07,74.15 105.25,78.22 110.43,73.71 115.61,65.06 120.79,60.66 125.97,59.90 131.15,60.32 136.33,60.02 141.51,62.33 146.69,64.22 151.87,66.14 157.05,57.79 162.23,64.61 167.41,57.98 172.59,60.11 177.77,75.90 182.95,71.70 188.13,65.62 193.31,61.47 198.49,66.53 203.67,56.40 208.85,60.60 214.03,58.54 219.21,51.70 224.39,50.62 229.57,55.56 234.75,54.86 239.93,40.97 245.11,34.87 250.30,39.38 255.48,42.53 260.66,33.76 265.84,27.99 271.02,43.54 276.20,45.04 281.38,29.28 286.56,16.64 291.74,28.69 296.92,32.69 302.10,39.18 307.28,38.21 312.46,35.88 317.64,32.52 322.82,25.17 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
+<div class="mini-chart-row" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;"><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">1-year view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,89.46 13.25,90.58 14.50,90.65 15.75,92.40 17.00,93.58 18.25,95.57 19.49,94.46 20.74,96.16 21.99,96.03 23.24,99.39 24.49,98.76 25.74,97.66 26.99,100.96 28.24,100.23 29.49,102.05 30.74,100.26 31.98,99.86 33.23,102.25 34.48,101.32 35.73,100.02 36.98,100.80 38.23,98.66 39.48,99.18 40.73,99.41 41.98,95.29 43.23,95.81 44.47,97.83 45.72,99.57 46.97,100.63 48.22,101.01 49.47,101.62 50.72,99.75 51.97,106.38 53.22,108.00 54.47,106.91 55.72,107.61 56.96,101.94 58.21,105.64 59.46,105.75 60.71,105.29 61.96,105.10 63.21,105.63 64.46,105.71 65.71,107.25 66.96,105.79 68.21,103.74 69.45,101.71 70.70,101.23 71.95,101.08 73.20,101.06 74.45,101.31 75.70,98.95 76.95,97.75 78.20,98.09 79.45,98.65 80.70,98.74 81.94,98.26 83.19,98.27 84.44,94.77 85.69,94.22 86.94,93.34 88.19,94.26 89.44,94.37 90.69,93.99 91.94,93.95 93.19,93.90 94.43,94.23 95.68,94.43 96.93,93.11 98.18,94.54 99.43,93.92 100.68,95.81 101.93,95.25 103.18,93.44 104.43,92.89 105.68,93.86 106.92,93.81 108.17,93.11 109.42,92.70 110.67,92.95 111.92,93.22 113.17,94.97 114.42,93.32 115.67,93.80 116.92,92.57 118.17,93.10 119.42,93.37 120.66,93.22 121.91,90.95 123.16,88.88 124.41,90.17 125.66,89.20 126.91,90.45 128.16,89.62 129.41,88.38 130.66,89.77 131.91,88.63 133.15,88.21 134.40,87.01 135.65,87.21 136.90,86.62 138.15,85.87 139.40,85.02 140.65,83.82 141.90,84.15 143.15,84.01 144.40,85.40 145.64,84.72 146.89,84.58 148.14,83.89 149.39,81.86 150.64,80.56 151.89,80.44 153.14,80.26 154.39,82.60 155.64,80.67 156.89,81.23 158.13,80.48 159.38,77.23 160.63,76.44 161.88,77.34 163.13,75.90 164.38,77.14 165.63,88.02 166.88,87.17 168.13,88.58 169.38,89.91 170.62,90.50 171.87,90.47 173.12,88.87 174.37,88.58 175.62,88.05 176.87,88.47 178.12,86.29 179.37,88.59 180.62,89.89 181.87,89.56 183.11,86.09 184.36,85.01 185.61,84.60 186.86,84.33 188.11,82.26 189.36,82.25 190.61,82.50 191.86,80.87 193.11,81.78 194.36,82.30 195.60,80.04 196.85,79.52 198.10,76.85 199.35,79.43 200.60,80.78 201.85,80.76 203.10,80.55 204.35,80.08 205.60,80.20 206.85,76.83 208.09,77.73 209.34,77.35 210.59,76.77 211.84,77.36 213.09,75.84 214.34,73.08 215.59,78.55 216.84,76.59 218.09,79.40 219.34,78.89 220.58,76.19 221.83,76.00 223.08,74.13 224.33,73.84 225.58,76.48 226.83,73.48 228.08,69.68 229.33,66.93 230.58,67.29 231.83,65.44 233.08,68.04 234.32,68.40 235.57,68.38 236.82,69.99 238.07,67.10 239.32,55.10 240.57,57.43 241.82,51.49 243.07,55.73 244.32,56.38 245.57,64.51 246.81,64.82 248.06,64.94 249.31,65.39 250.56,63.06 251.81,66.63 253.06,64.73 254.31,58.75 255.56,60.19 256.81,57.68 258.06,52.69 259.30,53.06 260.55,52.38 261.80,49.43 263.05,46.32 264.30,44.16 265.55,42.18 266.80,38.84 268.05,36.54 269.30,36.03 270.55,45.84 271.79,45.78 273.04,47.37 274.29,49.68 275.54,47.12 276.79,42.19 278.04,39.69 279.29,39.25 280.54,39.50 281.79,39.33 283.04,40.64 284.28,41.72 285.53,42.81 286.78,38.06 288.03,41.94 289.28,38.16 290.53,39.38 291.78,48.36 293.03,45.97 294.28,42.51 295.53,40.15 296.77,43.03 298.02,37.26 299.27,39.66 300.52,38.48 301.77,34.59 303.02,33.98 304.27,36.79 305.52,36.39 306.77,28.49 308.02,25.01 309.26,27.58 310.51,29.37 311.76,24.38 313.01,21.10 314.26,29.95 315.51,30.80 316.76,21.83 318.01,14.64 319.26,21.50 320.51,23.77 321.75,27.47 323.00,26.92 324.25,25.59 325.50,23.67 326.75,19.50 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,89.46 13.25,90.58 14.50,90.65 15.75,92.40 17.00,93.58 18.25,95.57 19.49,94.46 20.74,96.16 21.99,96.03 23.24,99.39 24.49,98.76 25.74,97.66 26.99,100.96 28.24,100.23 29.49,102.05 30.74,100.26 31.98,99.86 33.23,102.25 34.48,101.32 35.73,100.02 36.98,100.80 38.23,98.66 39.48,99.18 40.73,99.41 41.98,95.29 43.23,95.81 44.47,97.83 45.72,99.57 46.97,100.63 48.22,101.01 49.47,101.62 50.72,99.75 51.97,106.38 53.22,108.00 54.47,106.91 55.72,107.61 56.96,101.94 58.21,105.64 59.46,105.75 60.71,105.29 61.96,105.10 63.21,105.63 64.46,105.71 65.71,107.25 66.96,105.79 68.21,103.74 69.45,101.71 70.70,101.23 71.95,101.08 73.20,101.06 74.45,101.31 75.70,98.95 76.95,97.75 78.20,98.09 79.45,98.65 80.70,98.74 81.94,98.26 83.19,98.27 84.44,94.77 85.69,94.22 86.94,93.34 88.19,94.26 89.44,94.37 90.69,93.99 91.94,93.95 93.19,93.90 94.43,94.23 95.68,94.43 96.93,93.11 98.18,94.54 99.43,93.92 100.68,95.81 101.93,95.25 103.18,93.44 104.43,92.89 105.68,93.86 106.92,93.81 108.17,93.11 109.42,92.70 110.67,92.95 111.92,93.22 113.17,94.97 114.42,93.32 115.67,93.80 116.92,92.57 118.17,93.10 119.42,93.37 120.66,93.22 121.91,90.95 123.16,88.88 124.41,90.17 125.66,89.20 126.91,90.45 128.16,89.62 129.41,88.38 130.66,89.77 131.91,88.63 133.15,88.21 134.40,87.01 135.65,87.21 136.90,86.62 138.15,85.87 139.40,85.02 140.65,83.82 141.90,84.15 143.15,84.01 144.40,85.40 145.64,84.72 146.89,84.58 148.14,83.89 149.39,81.86 150.64,80.56 151.89,80.44 153.14,80.26 154.39,82.60 155.64,80.67 156.89,81.23 158.13,80.48 159.38,77.23 160.63,76.44 161.88,77.34 163.13,75.90 164.38,77.14 165.63,88.02 166.88,87.17 168.13,88.58 169.38,89.91 170.62,90.50 171.87,90.47 173.12,88.87 174.37,88.58 175.62,88.05 176.87,88.47 178.12,86.29 179.37,88.59 180.62,89.89 181.87,89.56 183.11,86.09 184.36,85.01 185.61,84.60 186.86,84.33 188.11,82.26 189.36,82.25 190.61,82.50 191.86,80.87 193.11,81.78 194.36,82.30 195.60,80.04 196.85,79.52 198.10,76.85 199.35,79.43 200.60,80.78 201.85,80.76 203.10,80.55 204.35,80.08 205.60,80.20 206.85,76.83 208.09,77.73 209.34,77.35 210.59,76.77 211.84,77.36 213.09,75.84 214.34,73.08 215.59,78.55 216.84,76.59 218.09,79.40 219.34,78.89 220.58,76.19 221.83,76.00 223.08,74.13 224.33,73.84 225.58,76.48 226.83,73.48 228.08,69.68 229.33,66.93 230.58,67.29 231.83,65.44 233.08,68.04 234.32,68.40 235.57,68.38 236.82,69.99 238.07,67.10 239.32,55.10 240.57,57.43 241.82,51.49 243.07,55.73 244.32,56.38 245.57,64.51 246.81,64.82 248.06,64.94 249.31,65.39 250.56,63.06 251.81,66.63 253.06,64.73 254.31,58.75 255.56,60.19 256.81,57.68 258.06,52.69 259.30,53.06 260.55,52.38 261.80,49.43 263.05,46.32 264.30,44.16 265.55,42.18 266.80,38.84 268.05,36.54 269.30,36.03 270.55,45.84 271.79,45.78 273.04,47.37 274.29,49.68 275.54,47.12 276.79,42.19 278.04,39.69 279.29,39.25 280.54,39.50 281.79,39.33 283.04,40.64 284.28,41.72 285.53,42.81 286.78,38.06 288.03,41.94 289.28,38.16 290.53,39.38 291.78,48.36 293.03,45.97 294.28,42.51 295.53,40.15 296.77,43.03 298.02,37.26 299.27,39.66 300.52,38.48 301.77,34.59 303.02,33.98 304.27,36.79 305.52,36.39 306.77,28.49 308.02,25.01 309.26,27.58 310.51,29.37 311.76,24.38 313.01,21.10 314.26,29.95 315.51,30.80 316.76,21.83 318.01,14.64 319.26,21.50 320.51,23.77 321.75,27.47 323.00,26.92 324.25,25.59 325.50,23.67 326.75,19.50 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div><div class="mini-chart" style="flex:1; min-width:280px;"><div style="font-size:12px; color:#4a5568; margin-bottom:4px;">3-month view</div><svg viewBox="0 0 340 120" preserveAspectRatio="none"><polyline points="12.00,108.00 15.90,102.06 19.80,97.77 23.70,98.34 27.60,95.43 31.51,99.50 35.41,100.07 39.31,100.04 43.21,102.55 47.11,98.04 51.01,79.30 54.91,82.94 58.81,73.66 62.72,80.28 66.62,81.30 70.52,93.98 74.42,94.47 78.32,94.67 82.22,95.37 86.12,91.73 90.02,97.30 93.93,94.33 97.83,84.99 101.73,87.24 105.63,83.32 109.53,75.53 113.43,76.11 117.33,75.05 121.23,70.44 125.14,65.59 129.04,62.21 132.94,59.12 136.84,53.90 140.74,50.32 144.64,49.52 148.54,64.83 152.44,64.75 156.35,67.22 160.25,70.84 164.15,66.83 168.05,59.14 171.95,55.23 175.85,54.55 179.75,54.93 183.65,54.67 187.56,56.72 191.46,58.40 195.36,60.10 199.26,52.69 203.16,58.74 207.06,52.85 210.96,54.74 214.86,68.78 218.77,65.05 222.67,59.64 226.57,55.95 230.47,60.45 234.37,51.45 238.27,55.19 242.17,53.35 246.07,47.27 249.98,46.31 253.88,50.70 257.78,50.08 261.68,37.74 265.58,32.32 269.48,36.33 273.38,39.13 277.28,31.33 281.19,26.21 285.09,40.02 288.99,41.36 292.89,27.35 296.79,16.12 300.69,26.83 304.59,30.38 308.49,36.15 312.40,35.29 316.30,33.21 320.20,30.23 324.10,23.70 328.00,12.00" fill="none" stroke="#111" stroke-width="2" vector-effect="non-scaling-stroke" /><polygon points="12.00,108.00 15.90,102.06 19.80,97.77 23.70,98.34 27.60,95.43 31.51,99.50 35.41,100.07 39.31,100.04 43.21,102.55 47.11,98.04 51.01,79.30 54.91,82.94 58.81,73.66 62.72,80.28 66.62,81.30 70.52,93.98 74.42,94.47 78.32,94.67 82.22,95.37 86.12,91.73 90.02,97.30 93.93,94.33 97.83,84.99 101.73,87.24 105.63,83.32 109.53,75.53 113.43,76.11 117.33,75.05 121.23,70.44 125.14,65.59 129.04,62.21 132.94,59.12 136.84,53.90 140.74,50.32 144.64,49.52 148.54,64.83 152.44,64.75 156.35,67.22 160.25,70.84 164.15,66.83 168.05,59.14 171.95,55.23 175.85,54.55 179.75,54.93 183.65,54.67 187.56,56.72 191.46,58.40 195.36,60.10 199.26,52.69 203.16,58.74 207.06,52.85 210.96,54.74 214.86,68.78 218.77,65.05 222.67,59.64 226.57,55.95 230.47,60.45 234.37,51.45 238.27,55.19 242.17,53.35 246.07,47.27 249.98,46.31 253.88,50.70 257.78,50.08 261.68,37.74 265.58,32.32 269.48,36.33 273.38,39.13 277.28,31.33 281.19,26.21 285.09,40.02 288.99,41.36 292.89,27.35 296.79,16.12 300.69,26.83 304.59,30.38 308.49,36.15 312.40,35.29 316.30,33.21 320.20,30.23 324.10,23.70 328.00,12.00 328.00,108.00 12.00,108.00" fill="#e8f1ff" opacity="0.35" /><line x1="12.00" y1="110.00" x2="328.00" y2="110.00" stroke="#cbd5e0" stroke-width="1" vector-effect="non-scaling-stroke" /></svg></div></div>
 </figure>
 
 ### Latest news (0-3 days)
@@ -365,23 +580,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — price is at 1yr/3mo/5yr peak near short-term resistance ($247.88 vs $252.49) and ~13% above the 20-day average, suggesting a stretched entry; macro froth visibility is limited but recent inflation-driven rallies in growth stocks point to sentiment tailwinds better bought on pullbacks toward support around $204.57 or the ~$200 SMA.
+0.1. **Long Entry?:** no — the stock is at 1yr/3mo/5yr peaks with price far above its 20‑day average ($247.88 vs ~$220) and close to near-term resistance at ~$252; macro froth is evident in AI/data-center infrastructure rallies and recent inflation-driven risk-on moves, so risk/reward is unfavorable vs support around ~$205
 
 ## 1. The Biz
 
-1.1. **Activities:** Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers used across industrial, communications, electronics, and instrumentation markets. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. The company is vertically integrated and serves customers globally across North America, Europe, China, Japan, and the rest of the world.
+1.1. **Activities:** Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. Its products are used across industrial, communications, electronics, and instrumentation markets.
 
-1.2. **Profitable?:** yes — Coherent is currently profitable, with a positive net income sum of $293.16M, a profit margin of 4.66%, positive free cash flow, and strong recent earnings and revenue growth.
+1.2. **Profitable?:** yes — the company is currently profitable, with a positive net income sum of about $293M and a profit margin of 4.66%, supported by positive free cash flow and strong recent earnings beats.
 
-1.3. **Customer & Markets:** Coherent's primary customers are in industrial, communications, electronics, and instrumentation markets that use optical networking, photonics, and laser solutions. It serves hyperscale data centers and communications customers through its Networking segment and supplies materials and laser technology to a broad set of electronics and industrial OEMs. Geographically, revenue comes from North America, Europe, China, Japan, and other international markets.
+1.3. **Customer & Markets:** Coherent serves customers in industrial, communications, electronics, and instrumentation markets that use optical networking, photonics, and laser solutions. Its revenue is generated globally across North America, Europe, China, Japan, and the rest of the world, with strong demand from data center and communications customers highlighted in recent results.
 
-1.4. **Competition:** Key competitors include companies in optical networking, photonics, and scientific/technical instruments such as Ciena, Lumentum, Cognex, and other peers listed in industry competitor screens, with Coherent positioned among larger players by revenue and market cap but without a specific rank disclosed. Comparative data shows its revenue growth has recently trailed the average of its competitor set.
+1.4. **Competition:** unknown
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from the low end of the recent range ($216.87) toward and above the prior local high ($237.60) to close at $247.88.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has moved from around the local low near $217 toward resistance around $252.
 
-2.2. **7d Buy/Sell Points?:** In the last week, pullbacks toward the suggested buy zone and local low around $216.87 offered better buying opportunities. Strength into and above the recent local high and suggested sell zone around $237.60, and now near resistance at $252.49, has been the area to trim or sell.
+2.2. **7d Buy/Sell Points?:** During the last week, pullbacks toward the suggested buy zone and local low around $217 were attractive buying areas, while approaches to the local high and resistance near $238–$252 offered favorable selling opportunities.
 
 2.3.1. **7d Volume:** med
 
@@ -389,15 +604,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Coherent appears to be a relatively stable institution in the scientific and technical instruments space, with diversified operations spanning Networking, Materials, and Lasers and a global geographic footprint. It has generated positive cumulative net income over the recent periods and maintains positive operating cash flow of $397.1M and free cash flow of $130.4M, supporting balance-sheet resilience. The company's scale (multi-billion revenue and large market cap) and sustained investment in its core segments further underpin its institutional stability. However, profitability margins are modest, and its high-growth, cyclical end-markets can introduce earnings volatility.
+3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly-by-night company, given its global operations across North America, Europe, China, Japan, and other regions. Financially, it shows cumulative positive net income (~$293M), a positive profit margin, and solid operating and free cash flow. The company is actively managing its portfolio and balance sheet, exemplified by the planned $400M sale of its Aerospace and Defense business to reduce debt. However, recent legal investigations following guidance-related stock drops indicate some event and execution risk for investors.
 
-3.2. **Innovating?:** Coherent is actively innovating and growing, with recent strong revenue growth of 17.5%, earnings growth of 41.9%, and Q2 results driven by robust demand in data center and communications. The company's focus on AI-related data center infrastructure and portfolio streamlining toward higher-margin businesses indicates an ongoing innovation and growth agenda.
+3.2. **Innovating?:** The company is innovating and growing, as evidenced by strong revenue and earnings growth rates and the showcase of next-generation optical communication technologies such as 2D VCSEL arrays, 100G ZR modules, and quantum-safe networking solutions. Its positioning in AI-driven data center and communications demand further underscores ongoing growth and innovation.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights a strong Q2 earnings beat for Coherent, with EPS and revenue above consensus and guidance for Q3 also ahead of expectations, which drove a 5% after-hours stock jump. Broader macro news shows softer-than-expected inflation at 2.4%, sparking rallies in growth-sensitive stocks and supporting risk-on sentiment that has helped push COHR to multi-period peaks. Sector commentary on AI infrastructure and photonics notes that peers are extended and suggests disciplined entries on pullbacks, aligning with quick-fact flags of 'sell the news' rather than 'buy the rumor' for this name. For COHR, much of the recent upside appears tied to realized news (earnings beats, AI data center demand, macro relief), so the buy-the-rumor/sell-the-news pattern implies caution about chasing current levels.
+4.1. **News:** Recent context shows Coherent benefiting from the AI infrastructure and data center boom, with articles grouping it among soaring data center and optical networking stocks tied to cloud and AI demand. The stock jumped after Q2 earnings and revenue beat expectations, and guidance for the next quarter was solid, which likely fueled further price gains. At the same time, analysts have flagged that some related names look extended, and quick facts for COHR itself recommend 'sell the news,' suggesting that strong results may already be priced in. There has also been negative sentiment around a business sale and weak guidance that caused a sharp drop and prompted a law firm investigation, highlighting volatility around news events. Overall, the pattern aligns with 'buy the rumor, sell the news' dynamics, where positive AI and earnings headlines have led to sharp rallies that may be vulnerable to reversals.
 
-4.2. **Tarrifs:** Tariffs have periodically pressured Coherent's stock, with prior U.S. tariff announcements causing selloffs in optical networking and photonics names including COHR, but management has recently stated they do not expect significant tariff impacts in the near-term and historical impacts have been described as moderate.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -426,10 +641,9 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
-<li>yfinance: prices &amp; technicals, fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: profit outlook, market expansion, tariffs</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
+<li>yfinance: fundamentals, earnings calendar</li>
+<li>cached: prices &amp; technicals</li>
 </ul>
 </div>
 
@@ -439,17 +653,9 @@ raw_markdown: |
 <pre><code>
 Gathering context for COHR...
 Gathering market data...
-Checking massive.com quota and fetching price history...
-Requesting COHR prices from massive.com... (https://api.massive.com/v2/aggs/ticker/COHR/range/1/day/2021-01-22/2026-02-20?adjusted=true&amp;sort=asc&amp;limit=5000&amp;apiKey=%2A%2A%2A)
-massive.com request failed (massive.com returned no price data); switching to yfinance...
-Requesting prices from yfinance fallback...
-  yfinance span 10d: 23 rows
-  yfinance span 3mo: 62 rows
-  yfinance span 1y: 252 rows
-  yfinance span 5y: 1256 rows
-Price data acquired from yfinance.
+Using cached price bars from database (rows=1256, spans=[&#x27;5y&#x27;, &#x27;1y&#x27;, &#x27;3mo&#x27;, &#x27;10d&#x27;]).
 Massive open-close: GET https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=%2A%2A%2A
-Massive open-close: response 403 from https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=&lt;redacted&gt;
+Massive open-close: response 200 from https://api.massive.com/v1/open-close/COHR/2026-02-20?apiKey=&lt;redacted&gt;
 Massive previous close: GET https://api.massive.com/v2/aggs/ticker/COHR/prev?adjusted=true&amp;apiKey=%2A%2A%2A
 Massive previous close: response 200 from https://api.massive.com/v2/aggs/ticker/COHR/prev?adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive SMA: GET https://api.massive.com/v1/indicators/sma/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
@@ -457,7 +663,7 @@ Massive SMA: response 200 from https://api.massive.com/v1/indicators/sma/COHR?ti
 Massive EMA: GET https://api.massive.com/v1/indicators/ema/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive EMA: response 200 from https://api.massive.com/v1/indicators/ema/COHR?timespan=day&amp;window=50&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive MACD: GET https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
-Massive MACD: response 429 from https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
+Massive MACD: response 200 from https://api.massive.com/v1/indicators/macd/COHR?timespan=day&amp;series_type=close&amp;fast=12&amp;slow=26&amp;signal=9&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Massive RSI: GET https://api.massive.com/v1/indicators/rsi/COHR?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=%2A%2A%2A
 Massive RSI: response 429 from https://api.massive.com/v1/indicators/rsi/COHR?timespan=day&amp;window=14&amp;series_type=close&amp;order=desc&amp;limit=1&amp;adjusted=true&amp;apiKey=&lt;redacted&gt;
 Calculating technical snapshot...
@@ -465,8 +671,7 @@ Fetching company profile (massive.com)...
 Massive profile: GET https://api.massive.com/v3/reference/tickers/COHR?apiKey=%2A%2A%2A
 Massive profile: response 200 from https://api.massive.com/v3/reference/tickers/COHR?apiKey=&lt;redacted&gt;
 Massive profile: company metadata retrieved successfully.
-Massive logo: GET https://api.massive.com/v1/reference/company-branding/aWktdmkuY29t/images/2025-04-04_logo.svg?apiKey=%2A%2A%2A
-Massive logo: cached to /home/runner/work/stonks/stonks/assets/logos/COHR.svg
+Massive logo: using cached asset /home/runner/work/stonks/stonks/assets/logos/COHR.svg
 Massive related companies: GET https://api.massive.com/v1/related-companies/COHR?apiKey=%2A%2A%2A
 Massive related companies: response 200 from https://api.massive.com/v1/related-companies/COHR?apiKey=&lt;redacted&gt;
 Massive related companies: retrieved 0 entries.
@@ -478,97 +683,322 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
-Filtered 2 headline(s) from banned sources.
-Running supplementary searches...
-  google_custom_search search -&gt; COHR core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=COHR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 7 headline(s) from banned sources.
+Latest news fallback search -&gt; COHR latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; COHR earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; COHR analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Coherent Corp. latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Coherent Corp. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Coherent Corp. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Coherent Corp. earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Coherent Corp. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Coherent Corp. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Coherent latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Coherent+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Coherent+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Coherent latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Coherent earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Coherent+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Coherent+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Coherent earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Running supplementary searches...
+  google_custom_search search -&gt; COHR core business (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
-    gnews: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;COHR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -587,6 +1017,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — price is at 1yr/3mo/5yr peak near short-term resistance ($247.88 vs $252.49) and ~13% above the 20-day average, suggesting a stretched entry; macro froth visibility is limited but recent inflation-driven rallies in growth stocks point to sentiment tailwinds better bought on pullbacks toward support around $204.57 or the ~$200 SMA.&quot;, &quot;1.1&quot;: &quot;Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers used across industrial, communications, electronics, and instrumentation markets. It operates through three segments—Net
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — the stock is at 1yr/3mo/5yr peaks with price far above its 20‑day average ($247.88 vs ~$220) and close to near-term resistance at ~$252; macro froth is evident in AI/data-center infrastructure rallies and recent inflation-driven risk-on moves, so risk/reward is unfavorable vs support around ~$205&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and lasers. It operates through three segments—Networking, Materials, and Lasers—with the Networking segment generating the most revenue. Its products are used across in
 </code></pre>
 </details>
