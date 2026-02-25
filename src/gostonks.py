@@ -95,6 +95,12 @@ NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 GNEWS_API_KEY = os.getenv("GNEWS_API_KEY") or os.getenv("GNEWS_TOKEN")
 GUARDIAN_API_KEY = os.getenv("GUARDIAN_API_KEY") or os.getenv("THE_GUARDIAN_API_KEY")
 MAX_SEARCH_RESULTS = 5
+SUPPLEMENTARY_SEARCH_AGGREGATE_RESULTS = 12
+RAW_TICKER_NEWS_POOL_LIMIT = 20
+LATEST_NEWS_WINDOW_DAYS = 3
+LATEST_NEWS_FALLBACK_WINDOW_DAYS = 7
+LATEST_NEWS_MAX_ITEMS = 3
+LATEST_NEWS_KEYWORD_FALLBACK_QUERY_LIMIT = 12
 SEARCH_PROVIDER_PRIORITY = {
     "google_custom_search": ["google_custom_search", "newsapi", "gnews", "guardian"],
     "newsapi": ["newsapi", "gnews", "guardian"],
@@ -455,38 +461,54 @@ def _google_custom_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[Li
         return cached, f"cached {len(cached)} result(s)"
     if NO_API:
         return [], "api disabled by noapi flag"
-    params = {
-        "key": GOOGLE_CSE_API_KEY,
-        "cx": GOOGLE_CSE_ENGINE_ID,
-        "q": query,
-        "num": num,
-    }
+    page_size = max(1, min(num, 10))
+    target = max(1, num)
     try:
         base_url = "https://www.googleapis.com/customsearch/v1"
-        log_params = {k: v for k, v in params.items()}
-        log_params["key"] = "***"
-        log_status(f"Google Custom Search: GET {base_url}?{urlencode(log_params)}")
-        response = requests.get(
-            base_url,
-            params=params,
-            timeout=10,
-        )
-        response.raise_for_status()
-        data = response.json()
+        items: List[Dict[str, Any]] = []
+        start = 1
+        while len(items) < target and start <= 91:
+            params = {
+                "key": GOOGLE_CSE_API_KEY,
+                "cx": GOOGLE_CSE_ENGINE_ID,
+                "q": query,
+                "num": min(page_size, target - len(items)),
+                "start": start,
+            }
+            log_params = {k: v for k, v in params.items()}
+            log_params["key"] = "***"
+            log_status(f"Google Custom Search: GET {base_url}?{urlencode(log_params)}")
+            response = requests.get(
+                base_url,
+                params=params,
+                timeout=10,
+            )
+            response.raise_for_status()
+            data = response.json()
+            page_items = data.get("items") or []
+            if not page_items:
+                break
+            for item in page_items:
+                items.append(
+                    {
+                        "title": item.get("title"),
+                        "summary": item.get("snippet"),
+                        "url": item.get("link"),
+                        "displayLink": item.get("displayLink"),
+                    }
+                )
+                if len(items) >= target:
+                    break
+            queries_meta = data.get("queries") or {}
+            next_pages = queries_meta.get("nextPage") or []
+            next_start = next_pages[0].get("startIndex") if next_pages and isinstance(next_pages[0], Mapping) else None
+            if not isinstance(next_start, int):
+                break
+            start = next_start
     except Exception as exc:
         message = _sanitize_message(str(exc))
         log_status(f"Google Custom Search failed for '{query}': {message}")
         return [], f"error: {message}"
-    items: List[Dict[str, Any]] = []
-    for item in data.get("items", [])[:num]:
-        items.append(
-            {
-                "title": item.get("title"),
-                "summary": item.get("snippet"),
-                "url": item.get("link"),
-                "displayLink": item.get("displayLink"),
-            }
-        )
     _cache_write(cache_key, items)
     return items, f"{len(items)} result(s)"
 
@@ -500,40 +522,53 @@ def _newsapi_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dic
         return cached, f"cached {len(cached)} result(s)"
     if NO_API:
         return [], "api disabled by noapi flag"
-    params = {
-        "q": query,
-        "pageSize": num,
-        "language": "en",
-        "sortBy": "publishedAt",
-        "apiKey": NEWSAPI_KEY,
-    }
+    target = max(1, num)
+    page_size = max(1, min(target, 100))
     try:
         base_url = "https://newsapi.org/v2/everything"
-        log_params = {k: v for k, v in params.items()}
-        log_params["apiKey"] = "***"
-        log_status(f"NewsAPI search: GET {base_url}?{urlencode(log_params)}")
-        response = requests.get(
-            base_url,
-            params=params,
-            timeout=10,
-        )
-        response.raise_for_status()
-        data = response.json()
+        articles: List[Dict[str, Any]] = []
+        page = 1
+        while len(articles) < target:
+            params = {
+                "q": query,
+                "pageSize": min(page_size, target - len(articles)),
+                "page": page,
+                "language": "en",
+                "sortBy": "publishedAt",
+                "apiKey": NEWSAPI_KEY,
+            }
+            log_params = {k: v for k, v in params.items()}
+            log_params["apiKey"] = "***"
+            log_status(f"NewsAPI search: GET {base_url}?{urlencode(log_params)}")
+            response = requests.get(
+                base_url,
+                params=params,
+                timeout=10,
+            )
+            response.raise_for_status()
+            data = response.json()
+            page_articles = data.get("articles") or []
+            if not page_articles:
+                break
+            for article in page_articles:
+                articles.append(
+                    {
+                        "title": article.get("title"),
+                        "summary": article.get("description"),
+                        "url": article.get("url"),
+                        "source": (article.get("source") or {}).get("name"),
+                        "published": article.get("publishedAt"),
+                    }
+                )
+                if len(articles) >= target:
+                    break
+            if len(page_articles) < params["pageSize"]:
+                break
+            page += 1
     except Exception as exc:
         message = _sanitize_message(str(exc))
         log_status(f"NewsAPI search failed for '{query}': {message}")
         return [], f"error: {message}"
-    articles: List[Dict[str, Any]] = []
-    for article in data.get("articles", [])[:num]:
-        articles.append(
-            {
-                "title": article.get("title"),
-                "summary": article.get("description"),
-                "url": article.get("url"),
-                "source": (article.get("source") or {}).get("name"),
-                "published": article.get("publishedAt"),
-            }
-        )
     _cache_write(cache_key, articles)
     return articles, f"{len(articles)} result(s)"
 
@@ -547,35 +582,48 @@ def _gnews_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Dict[
         return cached, f"cached {len(cached)} result(s)"
     if NO_API:
         return [], "api disabled by noapi flag"
-    params = {
-        "q": query,
-        "lang": "en",
-        "max": min(num, 10),
-        "token": GNEWS_API_KEY,
-    }
+    target = max(1, num)
+    page_size = max(1, min(target, 10))
     try:
         base_url = "https://gnews.io/api/v4/search"
-        log_params = {**params, "token": "***"}
-        log_status(f"GNews search: GET {base_url}?{urlencode(log_params)}")
-        response = requests.get(base_url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+        articles: List[Dict[str, Any]] = []
+        page = 1
+        while len(articles) < target:
+            params = {
+                "q": query,
+                "lang": "en",
+                "max": min(page_size, target - len(articles)),
+                "page": page,
+                "token": GNEWS_API_KEY,
+            }
+            log_params = {**params, "token": "***"}
+            log_status(f"GNews search: GET {base_url}?{urlencode(log_params)}")
+            response = requests.get(base_url, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            page_articles = data.get("articles") or []
+            if not page_articles:
+                break
+            for article in page_articles:
+                source_info = article.get("source") or {}
+                articles.append(
+                    {
+                        "title": article.get("title"),
+                        "summary": article.get("description"),
+                        "url": article.get("url"),
+                        "source": source_info.get("name"),
+                        "published": article.get("publishedAt"),
+                    }
+                )
+                if len(articles) >= target:
+                    break
+            if len(page_articles) < params["max"]:
+                break
+            page += 1
     except Exception as exc:
         message = _sanitize_message(str(exc))
         log_status(f"GNews search failed for '{query}': {message}")
         return [], f"error: {message}"
-    articles: List[Dict[str, Any]] = []
-    for article in data.get("articles", [])[:num]:
-        source_info = article.get("source") or {}
-        articles.append(
-            {
-                "title": article.get("title"),
-                "summary": article.get("description"),
-                "url": article.get("url"),
-                "source": source_info.get("name"),
-                "published": article.get("publishedAt"),
-            }
-        )
     _cache_write(cache_key, articles)
     return articles, f"{len(articles)} result(s)"
 
@@ -589,40 +637,135 @@ def _guardian_search(query: str, num: int = MAX_SEARCH_RESULTS) -> Tuple[List[Di
         return cached, f"cached {len(cached)} result(s)"
     if NO_API:
         return [], "api disabled by noapi flag"
-    params = {
-        "q": query,
-        "api-key": GUARDIAN_API_KEY,
-        "page-size": min(num, 10),
-        "order-by": "newest",
-        "show-fields": "trailText",
-    }
+    target = max(1, num)
+    page_size = max(1, min(target, 50))
     try:
         base_url = "https://content.guardianapis.com/search"
-        log_params = {**params, "api-key": "***"}
-        log_status(f"Guardian search: GET {base_url}?{urlencode(log_params)}")
-        response = requests.get(base_url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+        articles: List[Dict[str, Any]] = []
+        page = 1
+        while len(articles) < target:
+            params = {
+                "q": query,
+                "api-key": GUARDIAN_API_KEY,
+                "page-size": min(page_size, target - len(articles)),
+                "page": page,
+                "order-by": "newest",
+                "show-fields": "trailText",
+            }
+            log_params = {**params, "api-key": "***"}
+            log_status(f"Guardian search: GET {base_url}?{urlencode(log_params)}")
+            response = requests.get(base_url, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            response_payload = data.get("response") or {}
+            results = response_payload.get("results") or []
+            if not results:
+                break
+            for item in results:
+                fields = item.get("fields") or {}
+                articles.append(
+                    {
+                        "title": item.get("webTitle"),
+                        "summary": fields.get("trailText"),
+                        "url": item.get("webUrl"),
+                        "source": "The Guardian",
+                        "published": item.get("webPublicationDate"),
+                    }
+                )
+                if len(articles) >= target:
+                    break
+            if len(results) < params["page-size"]:
+                break
+            page += 1
     except Exception as exc:
         message = _sanitize_message(str(exc))
         log_status(f"Guardian search failed for '{query}': {message}")
         return [], f"error: {message}"
-    response_payload = data.get("response") or {}
-    results = response_payload.get("results") or []
-    articles: List[Dict[str, Any]] = []
-    for item in results[:num]:
-        fields = item.get("fields") or {}
-        articles.append(
-            {
-                "title": item.get("webTitle"),
-                "summary": fields.get("trailText"),
-                "url": item.get("webUrl"),
-                "source": "The Guardian",
-                "published": item.get("webPublicationDate"),
-            }
-        )
     _cache_write(cache_key, articles)
     return articles, f"{len(articles)} result(s)"
+
+
+def _normalized_url(url: Any) -> str:
+    text = str(url or "").strip()
+    if not text:
+        return ""
+    try:
+        parsed = urlparse(text)
+    except Exception:
+        return text.casefold()
+    query_pairs: List[Tuple[str, str]] = []
+    for key, values in parse_qs(parsed.query, keep_blank_values=True).items():
+        if str(key).lower().startswith("utm_"):
+            continue
+        for value in values:
+            query_pairs.append((str(key), str(value)))
+    normalized_query = urlencode(sorted(query_pairs), doseq=True) if query_pairs else ""
+    netloc = (parsed.netloc or "").casefold()
+    if netloc.startswith("www."):
+        netloc = netloc[4:]
+    path = parsed.path or ""
+    if path.endswith("/") and len(path) > 1:
+        path = path.rstrip("/")
+    normalized = parsed._replace(netloc=netloc, path=path, query=normalized_query, fragment="")
+    return normalized.geturl().casefold()
+
+
+def _dedupe_articles(items: Sequence[Mapping[str, Any]], limit: Optional[int] = None) -> List[Dict[str, Any]]:
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
+    deduped: List[Dict[str, Any]] = []
+    for item in items:
+        title = str(item.get("title") or "").strip()
+        if not title:
+            continue
+        title_key = title.casefold()
+        url_key = _normalized_url(item.get("url"))
+        if title_key in seen_titles:
+            continue
+        if url_key and url_key in seen_urls:
+            continue
+        seen_titles.add(title_key)
+        if url_key:
+            seen_urls.add(url_key)
+        deduped.append(dict(item))
+        if limit is not None and len(deduped) >= limit:
+            break
+    return deduped
+
+
+def _run_search_aggregate(
+    query: str,
+    providers: Sequence[str],
+    *,
+    target_results: int = SUPPLEMENTARY_SEARCH_AGGREGATE_RESULTS,
+) -> Tuple[List[Dict[str, Any]], Optional[str], List[Tuple[str, str]], List[str]]:
+    attempts: List[Tuple[str, str]] = []
+    collected: List[Dict[str, Any]] = []
+    providers_used: List[str] = []
+    if not providers:
+        return [], None, attempts, providers_used
+    per_provider_target = max(MAX_SEARCH_RESULTS, min(target_results, 12))
+    for provider in providers:
+        provider_lower = provider.lower()
+        if provider_lower == "google_custom_search":
+            results, status = _google_custom_search(query, num=per_provider_target)
+        elif provider_lower == "newsapi":
+            results, status = _newsapi_search(query, num=per_provider_target)
+        elif provider_lower == "gnews":
+            results, status = _gnews_search(query, num=per_provider_target)
+        elif provider_lower == "guardian":
+            results, status = _guardian_search(query, num=per_provider_target)
+        else:
+            status = "error: unknown provider"
+            log_status(f"Unknown search provider '{provider}' for query '{query}'")
+            results = []
+        attempts.append((provider_lower, status))
+        if results:
+            providers_used.append(provider_lower)
+            collected.extend(results)
+    deduped = _dedupe_articles(collected, limit=target_results)
+    primary_provider = providers_used[0] if providers_used else providers[-1].lower()
+    return deduped, primary_provider, attempts, providers_used
 
 
 def _run_search_with_priority(
@@ -700,7 +843,11 @@ def _execute_search_tasks(
         provider_lower = provider.lower()
         priority_chain = SEARCH_PROVIDER_PRIORITY.get(provider_lower, [provider_lower])
         log_status(f"  {provider_lower} search -> {query} (priority: {', '.join(priority_chain)})")
-        data, provider_used, attempts = _run_search_with_priority(query, priority_chain)
+        data, provider_used, attempts, providers_used = _run_search_aggregate(
+            query,
+            priority_chain,
+            target_results=SUPPLEMENTARY_SEARCH_AGGREGATE_RESULTS,
+        )
         for attempt_provider, attempt_status in attempts:
             log_status(f"    {attempt_provider}: {attempt_status}")
         results[provider_lower].append(
@@ -709,6 +856,7 @@ def _execute_search_tasks(
                 "source": source,
                 "results": data,
                 "provider_used": provider_used,
+                "providers_used": providers_used,
                 "attempts": attempts,
             }
         )
@@ -1642,7 +1790,11 @@ def fetch_massive_indicators(ticker: str, api_key: Optional[str]) -> Dict[str, D
     return indicators
 
 
-def fetch_massive_news(ticker: str, api_key: Optional[str], limit: int = 5) -> List[Dict[str, Optional[str]]]:
+def fetch_massive_news(
+    ticker: str,
+    api_key: Optional[str],
+    limit: int = RAW_TICKER_NEWS_POOL_LIMIT,
+) -> List[Dict[str, Optional[str]]]:
     """Pull recent news articles from massive.com."""
 
     if not api_key:
@@ -2315,7 +2467,7 @@ def gather_market_context(prompt_config: PromptConfig) -> Tuple[Dict[str, Any], 
     return context, storage_payload
 
 
-def collect_news(ticker_obj: yf.Ticker, limit: int = 5) -> List[Dict[str, Optional[str]]]:
+def collect_news(ticker_obj: yf.Ticker, limit: int = RAW_TICKER_NEWS_POOL_LIMIT) -> List[Dict[str, Optional[str]]]:
     """Fetch a handful of the latest headlines for the LLM to summarize."""
 
     items: List[Dict[str, Optional[str]]] = []
@@ -2325,10 +2477,30 @@ def collect_news(ticker_obj: yf.Ticker, limit: int = 5) -> List[Dict[str, Option
         summary = content.get("summary") or entry.get("summary")
         if not title:
             continue
+        provider = None
+        provider_raw = content.get("provider") or entry.get("provider")
+        if isinstance(provider_raw, Mapping):
+            provider = provider_raw.get("displayName") or provider_raw.get("name")
+        if not provider:
+            provider = entry.get("publisher")
+        url = None
+        for raw_url in (
+            content.get("canonicalUrl"),
+            content.get("clickThroughUrl"),
+            entry.get("link"),
+            entry.get("url"),
+        ):
+            if isinstance(raw_url, Mapping):
+                raw_url = raw_url.get("url")
+            if raw_url:
+                url = str(raw_url)
+                break
         items.append({
             "title": title,
             "summary": summary,
             "published": content.get("pubDate") or entry.get("providerPublishTime"),
+            "url": url,
+            "source": provider,
         })
     return items
 
@@ -2379,6 +2551,33 @@ def _matches_entity(text: str, ticker: str, company_name: Optional[str]) -> bool
         if simplified and simplified in text_folded:
             return True
     return False
+
+
+def _company_name_variants(company_name: Optional[str]) -> List[str]:
+    if not company_name:
+        return []
+    raw = str(company_name).strip()
+    if not raw:
+        return []
+    variants = [raw]
+    simplified = re.sub(
+        r"\b(inc|incorporated|corp|corporation|co|company|ltd|limited|plc|holdings?)\.?\b",
+        "",
+        raw,
+        flags=re.IGNORECASE,
+    )
+    simplified = re.sub(r"\s{2,}", " ", simplified).strip(" ,.-")
+    if simplified and simplified.casefold() != raw.casefold():
+        variants.append(simplified)
+    deduped: List[str] = []
+    seen: set[str] = set()
+    for variant in variants:
+        key = variant.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(variant)
+    return deduped
 
 
 def _exclude_banned_sources(
@@ -2433,6 +2632,94 @@ def select_recent_headlines(
             "source": item.get("source"),
             "published_at": published_at.isoformat(),
         })
+        if len(selected) >= limit:
+            break
+    return selected
+
+
+def _merge_latest_news_items(
+    base_items: Sequence[Mapping[str, Any]],
+    extra_items: Sequence[Mapping[str, Any]],
+    *,
+    limit: int,
+) -> List[Dict[str, Any]]:
+    merged = [dict(item) for item in base_items]
+    seen_titles = {
+        str(item.get("title") or "").strip().casefold()
+        for item in merged
+        if str(item.get("title") or "").strip()
+    }
+    seen_urls = {
+        key for key in (_normalized_url(item.get("url")) for item in merged) if key
+    }
+    for item in extra_items:
+        title = str(item.get("title") or "").strip()
+        if not title:
+            continue
+        title_key = title.casefold()
+        url_key = _normalized_url(item.get("url"))
+        if title_key in seen_titles:
+            continue
+        if url_key and url_key in seen_urls:
+            continue
+        merged.append(dict(item))
+        seen_titles.add(title_key)
+        if url_key:
+            seen_urls.add(url_key)
+        if len(merged) >= limit:
+            break
+    return merged[:limit]
+
+
+def _search_latest_news_fallback(
+    ticker: str,
+    company_name: Optional[str],
+    *,
+    days: int,
+    limit: int,
+) -> List[Dict[str, Any]]:
+    providers = ["newsapi", "gnews", "guardian", "google_custom_search"]
+    queries: List[str] = [
+        f"{ticker} latest news",
+        f"{ticker} earnings news",
+        f"{ticker} analyst news",
+    ]
+    for name in _company_name_variants(company_name):
+        queries.extend([f"{name} latest news", f"{name} earnings news"])
+
+    selected: List[Dict[str, Any]] = []
+    seen_queries: set[str] = set()
+    for query in queries:
+        query_key = query.casefold()
+        if query_key in seen_queries:
+            continue
+        seen_queries.add(query_key)
+        log_status(f"Latest news fallback search -> {query}")
+        results, _provider_used, attempts, _providers_used = _run_search_aggregate(
+            query,
+            providers,
+            target_results=LATEST_NEWS_KEYWORD_FALLBACK_QUERY_LIMIT,
+        )
+        for attempt_provider, status in attempts:
+            log_status(f"    {attempt_provider}: {status}")
+        normalized_feed = [
+            {
+                "title": item.get("title"),
+                "summary": item.get("summary"),
+                "url": item.get("url"),
+                "source": item.get("source") or item.get("displayLink"),
+                "published": item.get("published"),
+            }
+            for item in results
+        ]
+        filtered = select_recent_headlines(
+            normalized_feed,
+            ticker=ticker,
+            company_name=company_name,
+            days=days,
+            limit=limit,
+        )
+        selected = _merge_latest_news_items(selected, filtered, limit=limit)
         if len(selected) >= limit:
             break
     return selected
@@ -2511,12 +2798,12 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
     quick_facts = build_quick_facts(snapshot, histories, financial_metrics, prompt_config)
     price_low_lines_chart = build_low_lines_chart(histories)
     if NO_API:
-        news_items = collect_news(ticker_obj)
+        news_items = collect_news(ticker_obj, limit=RAW_TICKER_NEWS_POOL_LIMIT)
         news_source = "yfinance"
         massive_news_note = "headlines skipped (noapi)"
     else:
         log_status("Collecting latest headlines (massive.com)...")
-        news_items = fetch_massive_news(ticker, massive_api_key)
+        news_items = fetch_massive_news(ticker, massive_api_key, limit=RAW_TICKER_NEWS_POOL_LIMIT)
         massive_news_note: Optional[str] = None
         if not massive_api_key:
             massive_news_note = "headlines skipped (missing API key)"
@@ -2525,7 +2812,7 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
             news_source = "massive.com"
         else:
             log_status("  massive.com returned no headlines; falling back to yfinance.")
-            news_items = collect_news(ticker_obj)
+            news_items = collect_news(ticker_obj, limit=RAW_TICKER_NEWS_POOL_LIMIT)
             log_status(f"  yfinance returned {len(news_items)} headlines")
             news_source = "yfinance"
             if massive_api_key and massive_news_note is None:
@@ -2535,7 +2822,30 @@ def gather_context(ticker: str, prompt_config: PromptConfig) -> Tuple[Dict[str, 
             log_status(f"Filtered {len(news_items) - len(filtered_news)} headline(s) from banned sources.")
         news_items = filtered_news
     company_name = (massive_profile or {}).get("name") or info.get("longName") or ticker_upper
-    latest_news = select_recent_headlines(news_items, ticker=ticker_upper, company_name=company_name, days=3, limit=3)
+    latest_news = select_recent_headlines(
+        news_items,
+        ticker=ticker_upper,
+        company_name=company_name,
+        days=LATEST_NEWS_WINDOW_DAYS,
+        limit=LATEST_NEWS_MAX_ITEMS,
+    )
+    if len(latest_news) < LATEST_NEWS_MAX_ITEMS:
+        expanded_news = select_recent_headlines(
+            news_items,
+            ticker=ticker_upper,
+            company_name=company_name,
+            days=LATEST_NEWS_FALLBACK_WINDOW_DAYS,
+            limit=LATEST_NEWS_MAX_ITEMS,
+        )
+        latest_news = _merge_latest_news_items(latest_news, expanded_news, limit=LATEST_NEWS_MAX_ITEMS)
+    if len(latest_news) < LATEST_NEWS_MAX_ITEMS and not NO_API:
+        fallback_news = _search_latest_news_fallback(
+            ticker_upper,
+            company_name,
+            days=LATEST_NEWS_FALLBACK_WINDOW_DAYS,
+            limit=LATEST_NEWS_MAX_ITEMS,
+        )
+        latest_news = _merge_latest_news_items(latest_news, fallback_news, limit=LATEST_NEWS_MAX_ITEMS)
     log_status("Running supplementary searches...")
     search_results = _execute_search_tasks(ticker, prompt_config)
     volume_metrics = evaluate_volume_label(snapshot)
