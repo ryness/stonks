@@ -3,10 +3,10 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2026-02-26
-generated_at: 2026-02-26T05:59:19.413695+00:00
-runtime_seconds: 43.27
+generated_at: 2026-02-26T10:46:47.498814+00:00
+runtime_seconds: 45.89
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-26T05:59:19.413695+00:00">2026-02-26 05:59 UTC</time> (runtime 43.27s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-26T10:46:47.498814+00:00">2026-02-26 10:46 UTC</time> (runtime 45.89s)
   
   ### Latest news (0-3 days)
   
@@ -15,23 +15,27 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  ["Equities closed with a constructive tone as all major U.S. benchmarks finished higher on the day, led by the Nasdaq Composite up 1.26% and QQQ up 1.45%, while the S&P 500 gained 0.81% and the Dow rose 0.63%. Small caps participated but lagged, with the Russell 2000 up 0.41%, and breadth modestly positive at 9 advances versus 6 declines across tracked assets, pointing to an improving but still selective risk appetite. Over the past week, tech-heavy gauges are leading, with the Nasdaq up 2.69% and QQQ up 2.45%, versus 1.61% for the S&P 500 and essentially flat for the Dow at -0.04%.","Volatility is easing tactically: the VIX fell 8.29% on the day and is down 12.96% over 7 days, even though it remains about 18.6% higher than 30 days ago, suggesting that the acute stress from recent selloffs and AI/trade fears is fading but not fully resolved. S&P and Nasdaq futures are slightly in the red overnight (ES -0.18%, NQ -0.29%), indicating consolidation rather than a sharp extension higher, while Russell and Dow futures are essentially flat to mildly negative, which tempers the strength of the intraday risk-on move.","Rates and cross-asset signals are supportive of a measured risk-on stance: the 10Y Treasury yield is nearly unchanged over 7 days (-0.20%) and lower by 3.32% over 30 days, while rising a modest 0.37% on the latest session to 4.05%. At the same time, traditional havens are strong on a longer horizon, with gold futures up 6.68% over 7 days and 13.51% over 30 days and crude up 5.20% and 7.23% over the same periods, indicating lingering macro and geopolitical caution even as near-term equity risk appetite improves. Overall, risk appetite is rebuilding in the short term, but the elevated 30-day VIX change and strong gold bid show it remains fragile."]
+  Across equities, the tone is cautiously risk-on with a growth tilt. The S&P 500 is up 0.81% on the day and 1.61% over 7 days, while the Nasdaq Composite is stronger at +1.26% 1d and +2.69% 7d, indicating renewed appetite for tech and growth after a weak 30-day tape (Nasdaq -2.45% over 30d). Small caps are participating but less aggressively, with the Russell 2000 up 0.41% on the day and 0.63% over the week, suggesting improving but not explosive breadth.
   
-  1.1. **Market Health:** Market health looks moderately positive in the short term. Breadth is tilted to the upside with 9 assets up versus 6 down and the average 1d index move near 0.9%, led by the Nasdaq's 1.26% gain and a 0.81% rise in the S&P 500. Volatility is normalizing with the VIX down 8.29% on the day and nearly 13% over the week, while the 10Y Treasury yield is roughly flat over 7 days and lower over 30 days, reducing immediate rate pressure on equities. Taken together, this points to a market that has stabilized after recent stress but still carries residual caution, as reflected in an only modestly positive Dow on a weekly view and strong performance from gold.
+  Volatility and futures confirm a moderate, but not euphoric, risk tone. Spot VIX is little changed on the day (+0.56%) but has dropped 11.14% over the past week even as equities advanced, indicating that risk appetite has improved from last week despite VIX still sitting about 12.83% above its 30-day level at 18.0. Equity futures are flat to slightly negative overnight (S&P -0.06%, Nasdaq -0.07%, Dow -0.13%) after their 7-day gains, which points more to consolidation than a decisive shift back to risk-off.
   
-  1.2. **Leadership:** Over the last day, leadership is clearly in large-cap growth and tech: the Nasdaq Composite gained 1.26% and QQQ rose 1.45%, making them standout outperformers alongside the S&P 500 at +0.81%. On the downside, small caps and cyclicals lagged, with the Russell 2000 up only 0.41% and Dow futures currently softer than other futures at -0.22% overnight versus 7-day Dow cash performance of -0.04%. Over the week, the Nasdaq Composite (+2.69%) and QQQ (+2.45%) are the clear leaders, while the Dow 30 (-0.04% over 7d) is a relative laggard, underscoring ongoing rotation toward growth and away from more value/industrial-heavy benchmarks.
+  Rates and cross-asset signals are broadly supportive of risk. The 10-year Treasury yield is up a modest 0.37% on the day but down 3.32% over 30 days to around 4.05%, easing some rate pressure on valuations. At the same time, classic hedges have been bid over the month, with gold up 13.11% and oil up 5.36% over 30 days, while the US dollar is down 1.39% over that period. Put together, the data show an equity market where risk appetite has improved over the last week but remains layered with macro hedging and residual uncertainty.
+  
+  1.1. **Market Health:** Market health looks moderately constructive. Breadth is positive, with 10 assets up versus 5 down and an average 1-day index gain of about 0.90%, indicating that the advance is not confined to a single benchmark. Volatility is contained but not complacent, as VIX is roughly flat on the day and still elevated versus 30 days ago, while the 10-year yield has drifted lower over the month, easing financial conditions on the margin. Overall, this combination points to a reasonably healthy, grinding-up market rather than a late-stage blow-off or a stressed tape.
+  
+  1.2. **Leadership:** Leadership is clearly in large-cap growth and tech over both the last day and week. The Nasdaq Composite gained 1.26% today and 2.69% over 7 days, while QQQ rose 1.45% on the day and 2.45% over the week, making them standout outperformers. On the downside, energy is a notable laggard in the near term with WTI crude off 1.51% today, and the Dow has underperformed on a weekly basis with a -0.04% 7-day move and only a 0.63% gain today, making blue chips a relative laggard versus the broader and tech-heavy benchmarks.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** ["Macro and geopolitical themes around trade policy and tariffs remain central drivers of recent volatility. News flow references renewed and potential future tariff threats from President Trump and the U.S. Supreme Court striking down prior tariffs, with markets reacting differently across indices as blue-chip, trade-sensitive names underperform while tech benchmarks rebound. This dynamic tends to inject headline risk and periodic risk-off episodes, but the latest session's gains in the Nasdaq and S&P 500 alongside lower VIX indicate that, for now, these trade concerns are being partially discounted, skewing the tape back toward risk-on.","Concerns about AI-related disruption have also been a notable macro narrative, with prior reports pointing to selloffs in IT and AI-exposed sectors and references to fears over AI's impact on jobs and corporate business models. Those AI-driven worries helped fuel earlier volatility and sector rotation, but the current strong performance in QQQ (+1.45% 1d, +2.45% 7d) and the Nasdaq Composite (+1.26% 1d, +2.69% 7d) suggests markets are shifting back toward embracing AI-linked growth themes after an initial risk-off repricing. At the same time, the continued strength in gold (up 6.68% over 7 days and 13.51% over 30 days) and firmness in crude oil prices reflect an undercurrent of macro and geopolitical caution—linked in the headlines to Middle East tensions and broader recession or policy risks—that caps how far risk-on sentiment can extend."
+  2.1. **Catalysts:** Macro and geopolitical themes around trade policy and tariffs continue to hang over sentiment. Recent coverage highlights US equity selloffs tied to renewed trade-war fears and tariff headlines, including reports of large-cap tech and "Magnificent Seven" names being hit when tariff risks rise. When these concerns dominate, they have translated into risk-off moves, particularly in cyclical and globally exposed names, while today's rebound in the Nasdaq and S&P suggests some of that trade-related anxiety has eased in the very near term. AI disruption and sector rotation are another key theme influencing the tape. News flow references sharp selloffs driven by fears of AI-driven disruption, especially in IT and certain service industries, followed by rebounds framed as a "stock picker's market" where investors reallocate rather than exit risk entirely. That pattern is consistent with the current setup: tech-heavy benchmarks like the Nasdaq and QQQ are leading on the day and week, signaling a swing back toward risk-on within growth, even as elevated VIX over 30 days and strong gold performance suggest investors are still hedging against further AI or tech-related volatility. Broader macro concerns around recession risk and crypto/credit stress are present in the background but not dictating today's price action. Articles flag U.S. recession risks, potential Bitcoin downside, and credit stress beneath high equity valuations, and these have historically been associated with risk-off episodes and flows into havens like gold, which is up over 13% in 30 days. However, simultaneous weekly gains in major equity indices and a 7-day drop of over 11% in VIX indicate that, at least for now, markets are looking through these macro worries and are cautiously re-engaging in risk assets.
   
-  2.2. **Upcoming Triggers:** Near-term, markets are poised to react to U.S. macro commentary and data and to political events such as President Trump's State of the Union address and related tariff rhetoric, which recent futures commentary flags as key for S&P 500 index futures. Investors are also watching upcoming U.S. economic releases highlighted in futures recap pieces, including GDP and inflation data like PCE, as prior GDP misses and inflation surprises have moved S&P futures and rates. In addition, global developments tied to U.S.-Iran tensions and central bank decisions such as China's loan prime rate, referenced in Asia-Pacific market previews, could influence risk appetite via moves in crude, gold, and global equities over the next 24 hours.
+  2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** up 60% – The balance of evidence tilts modestly higher for the next 24 hours: U.S. equities just logged broad, tech-led gains (Nasdaq +1.26%, S&P 500 +0.81%, Russell 2000 +0.41%) with positive breadth (9 up vs 6 down) and a sharply lower VIX (-8.29% 1d, -12.96% 7d), indicating improving risk appetite. Futures are slightly negative to flat (ES -0.18%, NQ -0.29%, RTY -0.05%), suggesting consolidation rather than a reversal, so any incremental positive surprise from upcoming macro or political events could extend the rebound. However, strong gold and oil over the past week and month plus elevated VIX versus 30 days ago highlight persistent macro and geopolitical risks, keeping confidence in a further advance only moderate rather than high.
+  3.1. **Next 24h Bias:** flat 55% The most likely direction in the next 24 hours is flat, with a slight consolidation bias. Major indices just posted solid 1-day gains (S&P 500 +0.81%, Nasdaq +1.26%), but equity futures are marginally negative to flat overnight (S&P -0.06%, Nasdaq -0.07%, Dow -0.13%), suggesting digestion rather than extension. VIX is subdued over the week but still higher than 30 days ago, and the 10-year yield is roughly stable on the day, pointing to no strong new macro impulse. Together, this favors a sideways session with limited net change rather than a strong directional move up or down.
   
-  3.2. **Watch List:** ["Traders should monitor how U.S. index futures trade around recent cash closes, particularly S&P 500 futures near 6,950 and Nasdaq futures around 25,300, as holding these areas would confirm that the latest equity rebound is being respected overnight. Sector-wise, tech and large-cap growth leadership is central: sustained strength in QQQ and the Nasdaq Composite after their 1.45% and 1.26% daily gains would be consistent with the projected upward bias, while any abrupt underperformance there relative to the S&P 500 would be an early warning that the rally is stalling.","On the macro side, attention should stay on U.S. political and tariff headlines around President Trump's public appearances and State of the Union messaging, since prior tariff threats and legal rulings have driven sharp cross-asset moves. Watch the 10Y Treasury yield around the 4.0%–4.1% area and the VIX near its current 17.9 level: a renewed spike in yields or volatility would challenge the risk-on setup, whereas stable or lower yields and further VIX compression would support additional upside in equities, even as strong gold and firm crude prices continue to flag underlying macro tension."]
+  3.2. **Watch List:** Overnight and into the next session, traders should focus on whether futures weakness deepens or stabilizes around current levels: S&P futures near 6,955, Nasdaq futures around 25,365, Dow futures just under 49,500, and Russell futures near 2,674. Holding roughly flat around these marks would validate a consolidation scenario, while a decisive break lower would challenge the current risk-on tilt seen in the cash Nasdaq and S&P 500. Watch the VIX around 18; a move meaningfully above recent levels after this week's 11% decline would be an early warning that hedging demand is returning. Sector-wise, the existing leadership and laggards provide the key tells. Continued outperformance in the Nasdaq and QQQ versus the Dow and Russell 2000 would confirm that the market is consolidating with a growth bias rather than broadening aggressively. At the same time, monitor oil and gold—WTI is down 1.51% on the day while gold is flat to slightly off after big 7-day and 30-day gains; a stabilization in crude and a pause in gold's uptrend would align with a benign, flat equity tape, whereas renewed spikes in either could signal shifting macro or geopolitical risk that might break the current equilibrium. Rates and the dollar are the final cross-checks for a flat bias. The 10-year yield is hovering near 4.05% after a small 0.37% daily uptick but a 3.32% decline over 30 days, and the US Dollar Index is nearly unchanged on the day at +0.05%. If the 10-year remains close to this zone and the dollar stays stable, equity valuations are unlikely to face a fresh shock over the next session. Any abrupt move higher in yields or a sharp dollar spike would be the main catalysts capable of shifting a flat outlook into a downside bias.
   
   ## 4. QuickRef
   
@@ -45,15 +49,15 @@ raw_markdown: |
   <tr><td>Russell 2000</td><td>1d +0.41% | 7d +0.63% | 30d +1.05% | last 2,663.33</td></tr>
   <tr><td>SPY ETF</td><td>1d +0.84% | 7d +1.67% | 30d -0.29% | last 693.15</td></tr>
   <tr><td>QQQ ETF</td><td>1d +1.45% | 7d +2.45% | 30d -1.67% | last 616.68</td></tr>
-  <tr><td>VIX</td><td>1d -8.29% | 7d -12.96% | 30d +18.58% | last 17.93</td></tr>
-  <tr><td>S&amp;P Fut</td><td>1d -0.18% | 7d +1.27% | 30d -0.77% | last 6,947.50</td></tr>
-  <tr><td>Nasdaq Fut</td><td>1d -0.29% | 7d +2.18% | 30d -2.31% | last 25,307.50</td></tr>
-  <tr><td>Dow Fut</td><td>1d -0.22% | 7d -0.38% | 30d +0.03% | last 49,424.00</td></tr>
-  <tr><td>Russell Fut</td><td>1d -0.05% | 7d +0.48% | 30d +0.70% | last 2,666.30</td></tr>
+  <tr><td>VIX</td><td>1d +0.56% | 7d -11.14% | 30d +12.83% | last 18.03</td></tr>
+  <tr><td>S&amp;P Fut</td><td>1d -0.06% | 7d +1.38% | 30d -0.66% | last 6,955.25</td></tr>
+  <tr><td>Nasdaq Fut</td><td>1d -0.07% | 7d +2.41% | 30d -2.09% | last 25,365.50</td></tr>
+  <tr><td>Dow Fut</td><td>1d -0.13% | 7d -0.28% | 30d +0.13% | last 49,472.00</td></tr>
+  <tr><td>Russell Fut</td><td>1d +0.22% | 7d +0.75% | 30d +0.97% | last 2,673.60</td></tr>
   <tr><td>10Y Treasury</td><td>1d +0.37% | 7d -0.20% | 30d -3.32% | last 4.05</td></tr>
-  <tr><td>Gold Fut</td><td>1d +0.05% | 7d +6.68% | 30d +13.51% | last 5,209.00</td></tr>
-  <tr><td>WTI Crude</td><td>1d +0.23% | 7d +5.20% | 30d +7.23% | last 65.57</td></tr>
-  <tr><td>US Dollar</td><td>1d -0.13% | 7d +0.43% | 30d -1.57% | last 97.57</td></tr>
+  <tr><td>Gold Fut</td><td>1d -0.30% | 7d +6.31% | 30d +13.11% | last 5,191.00</td></tr>
+  <tr><td>WTI Crude</td><td>1d -1.51% | 7d +3.37% | 30d +5.36% | last 64.43</td></tr>
+  <tr><td>US Dollar</td><td>1d +0.05% | 7d +0.61% | 30d -1.39% | last 97.75</td></tr>
   </tbody></table>
   </div>
   
@@ -95,18 +99,18 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=global+futures+market+snapshot&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=global+futures+market+snapshot&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;global futures market snapshot&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 10 result(s)
+      newsapi: 11 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=what+is+driving+S%26P+500+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=what+is+driving+S%26P+500+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 12 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -128,30 +132,33 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=investors+focus+today+stock+market&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=investors+focus+today+stock+market&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;investors focus today stock market&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 12 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 7 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 11 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
@@ -166,12 +173,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities closed with a constructive tone as all major U.S. benchmarks finished higher on the day, led by the Nasdaq Composite up 1.26% and QQQ up 1.45%, while the S&amp;P 500 gained 0.81% and the Dow rose 0.63%. Small caps participated but lagged, with the Russell 2000 up 0.41%, and breadth modestly positive at 9 advances versus 6 declines across tracked assets, pointing to an improving but still selective risk appetite. Over the past week, tech-heavy gauges are leading, with the Nasdaq up 2.69% and QQQ up 2.45%, versus 1.61% for the S&amp;P 500 and essentially flat for the Dow at -0.04%.&quot;,&quot;V
+  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is cautiously risk-on with a growth tilt. The S&amp;P 500 is up 0.81% on the day and 1.61% over 7 days, while the Nasdaq Composite is stronger at +1.26% 1d and +2.69% 7d, indicating renewed appetite for tech and growth after a weak 30-day tape (Nasdaq -2.45% over 30d). Small caps are participating but less aggressively, with the Russell 2000 up 0.41% on the day and 0.63% over the week, suggesting improving but not explosive breadth.&quot;,\n    &quot;Volatility and futures confirm a moderate, but not euphoric, risk tone. Spot VIX is little changed on the day (+0
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-26T05:59:19.413695+00:00">2026-02-26 05:59 UTC</time> (runtime 43.27s)
+**Generated:** <time class="js-local-time" datetime="2026-02-26T10:46:47.498814+00:00">2026-02-26 10:46 UTC</time> (runtime 45.89s)
 
 ### Latest news (0-3 days)
 
@@ -180,23 +187,27 @@ raw_markdown: |
 
 ## 1. Pulse
 
-["Equities closed with a constructive tone as all major U.S. benchmarks finished higher on the day, led by the Nasdaq Composite up 1.26% and QQQ up 1.45%, while the S&P 500 gained 0.81% and the Dow rose 0.63%. Small caps participated but lagged, with the Russell 2000 up 0.41%, and breadth modestly positive at 9 advances versus 6 declines across tracked assets, pointing to an improving but still selective risk appetite. Over the past week, tech-heavy gauges are leading, with the Nasdaq up 2.69% and QQQ up 2.45%, versus 1.61% for the S&P 500 and essentially flat for the Dow at -0.04%.","Volatility is easing tactically: the VIX fell 8.29% on the day and is down 12.96% over 7 days, even though it remains about 18.6% higher than 30 days ago, suggesting that the acute stress from recent selloffs and AI/trade fears is fading but not fully resolved. S&P and Nasdaq futures are slightly in the red overnight (ES -0.18%, NQ -0.29%), indicating consolidation rather than a sharp extension higher, while Russell and Dow futures are essentially flat to mildly negative, which tempers the strength of the intraday risk-on move.","Rates and cross-asset signals are supportive of a measured risk-on stance: the 10Y Treasury yield is nearly unchanged over 7 days (-0.20%) and lower by 3.32% over 30 days, while rising a modest 0.37% on the latest session to 4.05%. At the same time, traditional havens are strong on a longer horizon, with gold futures up 6.68% over 7 days and 13.51% over 30 days and crude up 5.20% and 7.23% over the same periods, indicating lingering macro and geopolitical caution even as near-term equity risk appetite improves. Overall, risk appetite is rebuilding in the short term, but the elevated 30-day VIX change and strong gold bid show it remains fragile."]
+Across equities, the tone is cautiously risk-on with a growth tilt. The S&P 500 is up 0.81% on the day and 1.61% over 7 days, while the Nasdaq Composite is stronger at +1.26% 1d and +2.69% 7d, indicating renewed appetite for tech and growth after a weak 30-day tape (Nasdaq -2.45% over 30d). Small caps are participating but less aggressively, with the Russell 2000 up 0.41% on the day and 0.63% over the week, suggesting improving but not explosive breadth.
 
-1.1. **Market Health:** Market health looks moderately positive in the short term. Breadth is tilted to the upside with 9 assets up versus 6 down and the average 1d index move near 0.9%, led by the Nasdaq's 1.26% gain and a 0.81% rise in the S&P 500. Volatility is normalizing with the VIX down 8.29% on the day and nearly 13% over the week, while the 10Y Treasury yield is roughly flat over 7 days and lower over 30 days, reducing immediate rate pressure on equities. Taken together, this points to a market that has stabilized after recent stress but still carries residual caution, as reflected in an only modestly positive Dow on a weekly view and strong performance from gold.
+Volatility and futures confirm a moderate, but not euphoric, risk tone. Spot VIX is little changed on the day (+0.56%) but has dropped 11.14% over the past week even as equities advanced, indicating that risk appetite has improved from last week despite VIX still sitting about 12.83% above its 30-day level at 18.0. Equity futures are flat to slightly negative overnight (S&P -0.06%, Nasdaq -0.07%, Dow -0.13%) after their 7-day gains, which points more to consolidation than a decisive shift back to risk-off.
 
-1.2. **Leadership:** Over the last day, leadership is clearly in large-cap growth and tech: the Nasdaq Composite gained 1.26% and QQQ rose 1.45%, making them standout outperformers alongside the S&P 500 at +0.81%. On the downside, small caps and cyclicals lagged, with the Russell 2000 up only 0.41% and Dow futures currently softer than other futures at -0.22% overnight versus 7-day Dow cash performance of -0.04%. Over the week, the Nasdaq Composite (+2.69%) and QQQ (+2.45%) are the clear leaders, while the Dow 30 (-0.04% over 7d) is a relative laggard, underscoring ongoing rotation toward growth and away from more value/industrial-heavy benchmarks.
+Rates and cross-asset signals are broadly supportive of risk. The 10-year Treasury yield is up a modest 0.37% on the day but down 3.32% over 30 days to around 4.05%, easing some rate pressure on valuations. At the same time, classic hedges have been bid over the month, with gold up 13.11% and oil up 5.36% over 30 days, while the US dollar is down 1.39% over that period. Put together, the data show an equity market where risk appetite has improved over the last week but remains layered with macro hedging and residual uncertainty.
+
+1.1. **Market Health:** Market health looks moderately constructive. Breadth is positive, with 10 assets up versus 5 down and an average 1-day index gain of about 0.90%, indicating that the advance is not confined to a single benchmark. Volatility is contained but not complacent, as VIX is roughly flat on the day and still elevated versus 30 days ago, while the 10-year yield has drifted lower over the month, easing financial conditions on the margin. Overall, this combination points to a reasonably healthy, grinding-up market rather than a late-stage blow-off or a stressed tape.
+
+1.2. **Leadership:** Leadership is clearly in large-cap growth and tech over both the last day and week. The Nasdaq Composite gained 1.26% today and 2.69% over 7 days, while QQQ rose 1.45% on the day and 2.45% over the week, making them standout outperformers. On the downside, energy is a notable laggard in the near term with WTI crude off 1.51% today, and the Dow has underperformed on a weekly basis with a -0.04% 7-day move and only a 0.63% gain today, making blue chips a relative laggard versus the broader and tech-heavy benchmarks.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** ["Macro and geopolitical themes around trade policy and tariffs remain central drivers of recent volatility. News flow references renewed and potential future tariff threats from President Trump and the U.S. Supreme Court striking down prior tariffs, with markets reacting differently across indices as blue-chip, trade-sensitive names underperform while tech benchmarks rebound. This dynamic tends to inject headline risk and periodic risk-off episodes, but the latest session's gains in the Nasdaq and S&P 500 alongside lower VIX indicate that, for now, these trade concerns are being partially discounted, skewing the tape back toward risk-on.","Concerns about AI-related disruption have also been a notable macro narrative, with prior reports pointing to selloffs in IT and AI-exposed sectors and references to fears over AI's impact on jobs and corporate business models. Those AI-driven worries helped fuel earlier volatility and sector rotation, but the current strong performance in QQQ (+1.45% 1d, +2.45% 7d) and the Nasdaq Composite (+1.26% 1d, +2.69% 7d) suggests markets are shifting back toward embracing AI-linked growth themes after an initial risk-off repricing. At the same time, the continued strength in gold (up 6.68% over 7 days and 13.51% over 30 days) and firmness in crude oil prices reflect an undercurrent of macro and geopolitical caution—linked in the headlines to Middle East tensions and broader recession or policy risks—that caps how far risk-on sentiment can extend."
+2.1. **Catalysts:** Macro and geopolitical themes around trade policy and tariffs continue to hang over sentiment. Recent coverage highlights US equity selloffs tied to renewed trade-war fears and tariff headlines, including reports of large-cap tech and "Magnificent Seven" names being hit when tariff risks rise. When these concerns dominate, they have translated into risk-off moves, particularly in cyclical and globally exposed names, while today's rebound in the Nasdaq and S&P suggests some of that trade-related anxiety has eased in the very near term. AI disruption and sector rotation are another key theme influencing the tape. News flow references sharp selloffs driven by fears of AI-driven disruption, especially in IT and certain service industries, followed by rebounds framed as a "stock picker's market" where investors reallocate rather than exit risk entirely. That pattern is consistent with the current setup: tech-heavy benchmarks like the Nasdaq and QQQ are leading on the day and week, signaling a swing back toward risk-on within growth, even as elevated VIX over 30 days and strong gold performance suggest investors are still hedging against further AI or tech-related volatility. Broader macro concerns around recession risk and crypto/credit stress are present in the background but not dictating today's price action. Articles flag U.S. recession risks, potential Bitcoin downside, and credit stress beneath high equity valuations, and these have historically been associated with risk-off episodes and flows into havens like gold, which is up over 13% in 30 days. However, simultaneous weekly gains in major equity indices and a 7-day drop of over 11% in VIX indicate that, at least for now, markets are looking through these macro worries and are cautiously re-engaging in risk assets.
 
-2.2. **Upcoming Triggers:** Near-term, markets are poised to react to U.S. macro commentary and data and to political events such as President Trump's State of the Union address and related tariff rhetoric, which recent futures commentary flags as key for S&P 500 index futures. Investors are also watching upcoming U.S. economic releases highlighted in futures recap pieces, including GDP and inflation data like PCE, as prior GDP misses and inflation surprises have moved S&P futures and rates. In addition, global developments tied to U.S.-Iran tensions and central bank decisions such as China's loan prime rate, referenced in Asia-Pacific market previews, could influence risk appetite via moves in crude, gold, and global equities over the next 24 hours.
+2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** up 60% – The balance of evidence tilts modestly higher for the next 24 hours: U.S. equities just logged broad, tech-led gains (Nasdaq +1.26%, S&P 500 +0.81%, Russell 2000 +0.41%) with positive breadth (9 up vs 6 down) and a sharply lower VIX (-8.29% 1d, -12.96% 7d), indicating improving risk appetite. Futures are slightly negative to flat (ES -0.18%, NQ -0.29%, RTY -0.05%), suggesting consolidation rather than a reversal, so any incremental positive surprise from upcoming macro or political events could extend the rebound. However, strong gold and oil over the past week and month plus elevated VIX versus 30 days ago highlight persistent macro and geopolitical risks, keeping confidence in a further advance only moderate rather than high.
+3.1. **Next 24h Bias:** flat 55% The most likely direction in the next 24 hours is flat, with a slight consolidation bias. Major indices just posted solid 1-day gains (S&P 500 +0.81%, Nasdaq +1.26%), but equity futures are marginally negative to flat overnight (S&P -0.06%, Nasdaq -0.07%, Dow -0.13%), suggesting digestion rather than extension. VIX is subdued over the week but still higher than 30 days ago, and the 10-year yield is roughly stable on the day, pointing to no strong new macro impulse. Together, this favors a sideways session with limited net change rather than a strong directional move up or down.
 
-3.2. **Watch List:** ["Traders should monitor how U.S. index futures trade around recent cash closes, particularly S&P 500 futures near 6,950 and Nasdaq futures around 25,300, as holding these areas would confirm that the latest equity rebound is being respected overnight. Sector-wise, tech and large-cap growth leadership is central: sustained strength in QQQ and the Nasdaq Composite after their 1.45% and 1.26% daily gains would be consistent with the projected upward bias, while any abrupt underperformance there relative to the S&P 500 would be an early warning that the rally is stalling.","On the macro side, attention should stay on U.S. political and tariff headlines around President Trump's public appearances and State of the Union messaging, since prior tariff threats and legal rulings have driven sharp cross-asset moves. Watch the 10Y Treasury yield around the 4.0%–4.1% area and the VIX near its current 17.9 level: a renewed spike in yields or volatility would challenge the risk-on setup, whereas stable or lower yields and further VIX compression would support additional upside in equities, even as strong gold and firm crude prices continue to flag underlying macro tension."]
+3.2. **Watch List:** Overnight and into the next session, traders should focus on whether futures weakness deepens or stabilizes around current levels: S&P futures near 6,955, Nasdaq futures around 25,365, Dow futures just under 49,500, and Russell futures near 2,674. Holding roughly flat around these marks would validate a consolidation scenario, while a decisive break lower would challenge the current risk-on tilt seen in the cash Nasdaq and S&P 500. Watch the VIX around 18; a move meaningfully above recent levels after this week's 11% decline would be an early warning that hedging demand is returning. Sector-wise, the existing leadership and laggards provide the key tells. Continued outperformance in the Nasdaq and QQQ versus the Dow and Russell 2000 would confirm that the market is consolidating with a growth bias rather than broadening aggressively. At the same time, monitor oil and gold—WTI is down 1.51% on the day while gold is flat to slightly off after big 7-day and 30-day gains; a stabilization in crude and a pause in gold's uptrend would align with a benign, flat equity tape, whereas renewed spikes in either could signal shifting macro or geopolitical risk that might break the current equilibrium. Rates and the dollar are the final cross-checks for a flat bias. The 10-year yield is hovering near 4.05% after a small 0.37% daily uptick but a 3.32% decline over 30 days, and the US Dollar Index is nearly unchanged on the day at +0.05%. If the 10-year remains close to this zone and the dollar stays stable, equity valuations are unlikely to face a fresh shock over the next session. Any abrupt move higher in yields or a sharp dollar spike would be the main catalysts capable of shifting a flat outlook into a downside bias.
 
 ## 4. QuickRef
 
@@ -210,15 +221,15 @@ raw_markdown: |
 <tr><td>Russell 2000</td><td>1d +0.41% | 7d +0.63% | 30d +1.05% | last 2,663.33</td></tr>
 <tr><td>SPY ETF</td><td>1d +0.84% | 7d +1.67% | 30d -0.29% | last 693.15</td></tr>
 <tr><td>QQQ ETF</td><td>1d +1.45% | 7d +2.45% | 30d -1.67% | last 616.68</td></tr>
-<tr><td>VIX</td><td>1d -8.29% | 7d -12.96% | 30d +18.58% | last 17.93</td></tr>
-<tr><td>S&amp;P Fut</td><td>1d -0.18% | 7d +1.27% | 30d -0.77% | last 6,947.50</td></tr>
-<tr><td>Nasdaq Fut</td><td>1d -0.29% | 7d +2.18% | 30d -2.31% | last 25,307.50</td></tr>
-<tr><td>Dow Fut</td><td>1d -0.22% | 7d -0.38% | 30d +0.03% | last 49,424.00</td></tr>
-<tr><td>Russell Fut</td><td>1d -0.05% | 7d +0.48% | 30d +0.70% | last 2,666.30</td></tr>
+<tr><td>VIX</td><td>1d +0.56% | 7d -11.14% | 30d +12.83% | last 18.03</td></tr>
+<tr><td>S&amp;P Fut</td><td>1d -0.06% | 7d +1.38% | 30d -0.66% | last 6,955.25</td></tr>
+<tr><td>Nasdaq Fut</td><td>1d -0.07% | 7d +2.41% | 30d -2.09% | last 25,365.50</td></tr>
+<tr><td>Dow Fut</td><td>1d -0.13% | 7d -0.28% | 30d +0.13% | last 49,472.00</td></tr>
+<tr><td>Russell Fut</td><td>1d +0.22% | 7d +0.75% | 30d +0.97% | last 2,673.60</td></tr>
 <tr><td>10Y Treasury</td><td>1d +0.37% | 7d -0.20% | 30d -3.32% | last 4.05</td></tr>
-<tr><td>Gold Fut</td><td>1d +0.05% | 7d +6.68% | 30d +13.51% | last 5,209.00</td></tr>
-<tr><td>WTI Crude</td><td>1d +0.23% | 7d +5.20% | 30d +7.23% | last 65.57</td></tr>
-<tr><td>US Dollar</td><td>1d -0.13% | 7d +0.43% | 30d -1.57% | last 97.57</td></tr>
+<tr><td>Gold Fut</td><td>1d -0.30% | 7d +6.31% | 30d +13.11% | last 5,191.00</td></tr>
+<tr><td>WTI Crude</td><td>1d -1.51% | 7d +3.37% | 30d +5.36% | last 64.43</td></tr>
+<tr><td>US Dollar</td><td>1d +0.05% | 7d +0.61% | 30d -1.39% | last 97.75</td></tr>
 </tbody></table>
 </div>
 
@@ -260,18 +271,18 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=global+futures+market+sn
 GNews search: GET https://gnews.io/api/v4/search?q=global+futures+market+snapshot&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=global+futures+market+snapshot&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;global futures market snapshot&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 10 result(s)
+    newsapi: 11 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; what is driving S&amp;P 500 today (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=what+is+driving+S%26P+500+today&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=what+is+driving+S%26P+500+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=what+is+driving+S%26P+500+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=what+is+driving+S%26P+500+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 12 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -293,30 +304,33 @@ Guardian search failed for &#x27;federal reserve commentary today&#x27;: 401 Cli
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=investors+focus+today+stock+market&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=investors+focus+today+stock+market&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;investors focus today stock market&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 12 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 7 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 11 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
@@ -331,6 +345,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities closed with a constructive tone as all major U.S. benchmarks finished higher on the day, led by the Nasdaq Composite up 1.26% and QQQ up 1.45%, while the S&amp;P 500 gained 0.81% and the Dow rose 0.63%. Small caps participated but lagged, with the Russell 2000 up 0.41%, and breadth modestly positive at 9 advances versus 6 declines across tracked assets, pointing to an improving but still selective risk appetite. Over the past week, tech-heavy gauges are leading, with the Nasdaq up 2.69% and QQQ up 2.45%, versus 1.61% for the S&amp;P 500 and essentially flat for the Dow at -0.04%.&quot;,&quot;V
+LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is cautiously risk-on with a growth tilt. The S&amp;P 500 is up 0.81% on the day and 1.61% over 7 days, while the Nasdaq Composite is stronger at +1.26% 1d and +2.69% 7d, indicating renewed appetite for tech and growth after a weak 30-day tape (Nasdaq -2.45% over 30d). Small caps are participating but less aggressively, with the Russell 2000 up 0.41% on the day and 0.63% over the week, suggesting improving but not explosive breadth.&quot;,\n    &quot;Volatility and futures confirm a moderate, but not euphoric, risk tone. Spot VIX is little changed on the day (+0
 </code></pre>
 </details>

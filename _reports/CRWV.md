@@ -2,11 +2,11 @@
 layout: default
 title: "CRWV Stock Report"
 ticker: "CRWV"
-date: 2026-02-21
-generated_at: 2026-02-21T05:42:01.512019+00:00
-runtime_seconds: 25.39
+date: 2026-02-26
+generated_at: 2026-02-26T10:46:01.579925+00:00
+runtime_seconds: 65.55
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-21T05:42:01.512019+00:00">2026-02-21 05:42 UTC</time> (runtime 25.39s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-26T10:46:01.579925+00:00">2026-02-26 10:46 UTC</time> (runtime 1m 6s)
   
   ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
   
@@ -33,28 +33,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [CRWV DEADLINE ALERT: ROSEN, A GLOBALLY RECOGNIZED LAW FIRM, Encourages CoreWeave, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action – CRWV](https://www.globenewswire.com/news-release/2026/02/20/3242167/673/en/CRWV-DEADLINE-ALERT-ROSEN-A-GLOBALLY-RECOGNIZED-LAW-FIRM-Encourages-CoreWeave-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-.html) — GlobeNewswire Inc. · 2026-02-20
+  - [CoreWeave Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against CoreWeave, Inc. - CRWV](https://www.globenewswire.com/news-release/2026/02/26/3245170/35454/en/CoreWeave-Shareholder-Alert-ClaimsFiler-Reminds-Investors-With-Losses-In-Excess-Of-100-000-Of-Lead-Plaintiff-Deadline-In-Class-Action-Lawsuit-Against-CoreWeave-Inc-CRWV.html) — GlobeNewswire Inc. · 2026-02-26
+  - [Deadline Alert: CoreWeave, Inc. (CRWV) Shareholders Who Lost Money Urged To Contact Glancy Prongay Wolke & Rotter LLP About Securities Fraud Lawsuit](https://www.globenewswire.com/news-release/2026/02/24/3243892/34548/en/Deadline-Alert-CoreWeave-Inc-CRWV-Shareholders-Who-Lost-Money-Urged-To-Contact-Glancy-Prongay-Wolke-Rotter-LLP-About-Securities-Fraud-Lawsuit.html) — GlobeNewswire Inc. · 2026-02-24
+  - [CRWV ALERT: Hagens Berman Investigating Claims Against CoreWeave, Inc. (CRWV) Over Alleged Data Center Delays and Concealed Infrastructure Risks](https://www.globenewswire.com/news-release/2026/02/23/3242958/32716/en/CRWV-ALERT-Hagens-Berman-Investigating-Claims-Against-CoreWeave-Inc-CRWV-Over-Alleged-Data-Center-Delays-and-Concealed-Infrastructure-Risks.html) — GlobeNewswire Inc. · 2026-02-23
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares are in an uptrend but trading just under short-term resistance at 76.60 and well above the 65.22 support after a recent plunge from a 30d high of 116.44; macro froth visibility is limited but high-volatility AI-infrastructure sentiment plus the stock sitting below its 20‑day average (~74.05) and below its SMA/EMA (86.65/91.22) amid class-action overhang argues against adding here
+  0.1. **Long Entry?:** maybe — shares trade near 3-month bottom and mid-range of 1y/5y history with support around 65.22 and resistance at 76.60, but the price sits below the 20-day and well below the 50-day SMA/EMA after a sharp drawdown; macro-level froth context is unclear while multiple class-action headlines and financing concerns suggest elevated idiosyncratic risk rather than broad AI bubble euphoria.
   
   ## 1. The Biz
   
-  1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform. Its proprietary software and cloud services deliver automation and efficiency to manage complex AI infrastructure at scale. The platform supports development and deployment of advanced AI models and next-generation AI applications used across many domains.
+  1.1. **Activities:** CoreWeave, Inc. is a modern, AI-native cloud infrastructure company that provides the CoreWeave Cloud Platform. Its platform delivers proprietary software and cloud services that automate and manage complex AI infrastructure at scale. Key offerings include GPU and CPU compute and storage services to support the training, deployment, and operation of next-generation AI applications.
   
-  1.2. **Profitable?:** no — CoreWeave is not profitable, with cumulative net losses of about $766.6M, a negative profit margin of -17.8%, and deeply negative free cash flow despite strong revenue growth of 133.7%.
+  1.2. **Profitable?:** no — the company is not currently profitable, with cumulative net income of about -$766.6M, negative profit margin of -17.8%, and deeply negative free cash flow despite strong revenue growth.
   
-  1.3. **Customer & Markets:** CoreWeave primarily serves customers that need large-scale AI compute and infrastructure, such as organizations building and running advanced AI models and applications. Its market is the AI-focused cloud computing and infrastructure segment, with operations based in the United States but enabling AI use cases globally as indicated by its platform supporting applications "across the globe."
+  1.3. **Customer & Markets:** CoreWeave primarily serves large AI and cloud customers such as OpenAI, Mistral AI, IBM, Microsoft, Meta, and other enterprises building or running AI workloads. Its markets are AI infrastructure and cloud computing, with a focus on high-performance GPU-based compute for global technology and public-sector clients, including entry into the U.S. federal market. The company operates mainly from the United States but supports AI applications used worldwide.
   
-  1.4. **Competition:** CoreWeave's main competitors are large cloud and AI infrastructure providers such as Nvidia, Microsoft, Meta, Google/Alphabet, and Amazon, as listed in its related and competitor candidates. Its relative market share or ranking versus these hyperscale competitors is not specified in the provided data.
+  1.4. **Competition:** CoreWeave competes with hyperscale cloud and AI infrastructure providers including Nvidia-backed neocloud peers and large platforms such as Microsoft Azure, Google Cloud, Amazon Web Services, and Nebius. It is an emerging specialist in AI cloud rather than the market share leader, facing intense competition from these larger incumbents.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has rebounded from the 7d support of 65.22 toward resistance at 76.60.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with the price rebounding from support near 65.22 toward 73.89 and pressing against short-term resistance at 76.60.
   
-  2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, the region near the 7d support around 65.22 was a favorable buy zone, while approaches toward the recent local/7d resistance near 76.60 and the local high around 83.49 offered better short-term sell or trim opportunities.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent local low and support around 65.22 appears to have been an attractive entry zone. Selling into strength toward the recent local high and resistance around 76.60–83.49 would have been favorable exit levels.
   
   2.3.1. **7d Volume:** low
   
@@ -62,15 +64,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** CoreWeave is a recently public, rapidly growing AI cloud infrastructure provider rather than a long-established blue-chip institution. The company shows substantial operating cash flow ($1.69B) but also very large negative free cash flow (-$6.95B), reflecting heavy capital intensity and investment. Persistent net losses totaling about $766.6M and a negative profit margin indicate it is still in a scale-up phase with meaningful financial risk. Multiple securities class actions and investigations related to alleged misstatements and infrastructure risks further cloud its risk profile and perceived stability.
+  3.1. **Stability?:** CoreWeave is a relatively young but rapidly scaling public company, founded in 2017 and now listed on Nasdaq, operating in the capital-intensive AI cloud infrastructure space. Its financials show significant losses (about -$766.6M net income in recent periods) and large negative free cash flow, indicating reliance on external financing and a still-developing balance sheet. Multiple securities class action lawsuits alleging misleading statements about capacity, data center risks, and a failed Core Scientific merger highlight governance and execution concerns. Recent financing headlines involving Blue Owl Capital and halted redemptions in a related fund also underscore liquidity and funding risks in its ecosystem. Overall, it is not a fly-by-night entity but remains a higher-risk, less-established institution compared with mature tech incumbents.
   
-  3.2. **Innovating?:** CoreWeave appears to be innovating and growing, as evidenced by very high revenue growth of 133.7% and its focus on large-scale AI infrastructure and next-generation AI applications. However, this growth is accompanied by significant cash burn and legal overhangs.
+  3.2. **Innovating?:** The company is clearly innovating and growing, with triple-digit revenue growth (revenue up about 133.7%), expansion of its AI-native cloud platform, and new products and partnerships such as advanced storage offerings and collaborations with Nvidia. However, its aggressive build-out has led to infrastructure delays and execution issues, as reflected in data center setbacks and related lawsuits.
   
   ## 4. Context
   
-  4.1. **News:** Recent news is dominated by securities class actions and investigations alleging CoreWeave understated infrastructure and supplier risks, coinciding with a 34% stock plunge and large investor losses. Additional headlines highlight financing concerns around a major data center project with Blue Owl Capital and broader liquidity jitters in the AI infrastructure sector, which have pressured the stock further. There are also notes of prior optimism, such as Deutsche Bank's upgrade to Buy and Nvidia-related enthusiasm, but Nvidia later sold stakes in some firms, contributing to share weakness. In this context, the "buy the rumor, sell the news" pattern is muted: prior AI hype and Nvidia association fueled rallies, but the subsequent negative news and lawsuits have driven selling rather than a clean post-news relief rally.
+  4.1. **News:** Recent news is dominated by securities class action filings and investigations alleging CoreWeave overstated its ability to meet customer demand and concealed data center delays, particularly at a major Texas facility, which coincided with a roughly $14B market cap decline and a 16% stock drop on infrastructure delays. Multiple law firms are soliciting lead plaintiffs ahead of a March 13, 2026 deadline, keeping legal and sentiment pressure high. Separate headlines note financing stress around a Blue Owl–backed Pennsylvania data center project, with reports of funding shortfalls and halted redemptions in a Blue Owl fund spooking the stock despite claims of a $500M bridge loan. Earlier, the stock had rallied on Nvidia's multi-billion-dollar investment and strategic collaboration, but that "good news" has since been followed by negative revelations, fitting a buy-the-rumor, sell-the-news pattern. Overall, the current narrative is skewed toward litigation, execution risk, and funding uncertainty rather than positive catalysts.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariff news has periodically driven volatility across tech and AI infrastructure stocks, and CoreWeave has traded lower on broad tariff headlines, but services like cloud compute are generally less directly exposed to tariffs, so the impact appears to be mostly sentiment-driven rather than clearly quantified in its fundamentals.
   
   ## 5. QuickRef
   
@@ -99,9 +101,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (14 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, rumors, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -142,135 +145,205 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
-  Filtered 1 headline(s) from banned sources.
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 6 headline(s) from banned sources.
   Running supplementary searches...
     google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
-  Google Custom Search failed for &#x27;CRWV core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
-  Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
-    newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
-    google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
-  Google Custom Search failed for &#x27;CRWV profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 4 result(s)
-    google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
-  Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
-    newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 1 result(s)
-    google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
-  Google Custom Search failed for &#x27;CRWV target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
       newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 5 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
-  Google Custom Search failed for &#x27;CRWV market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 10 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
-  Google Custom Search failed for &#x27;CRWV competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
-  Google Custom Search failed for &#x27;CRWV market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
-  Google Custom Search failed for &#x27;CRWV rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
       newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
-  Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
       newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
-  Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; CRWV tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;CRWV tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 7 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; CRWV tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
-  Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;CRWV tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -292,12 +365,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;no — shares are in an uptrend but trading just under short-term resistance at 76.60 and well above the 65.22 support after a recent plunge from a 30d high of 116.44; macro froth visibility is limited but high-volatility AI-infrastructure sentiment plus the stock sitting below its 20‑day average (~74.05) and below its SMA/EMA (86.65/91.22) amid class-action overhang argues against adding here&quot;,\n  &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform. Its proprietary software and cloud services deliver automati
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month bottom and mid-range of 1y/5y history with support around 65.22 and resistance at 76.60, but the price sits below the 20-day and well below the 50-day SMA/EMA after a sharp drawdown; macro-level froth context is unclear while multiple class-action headlines and financing concerns suggest elevated idiosyncratic risk rather than broad AI bubble euphoria.&quot;, &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern, AI-native cloud infrastructure company that provides the CoreWeave Cloud Platform. Its platform delivers proprietary software and cloud services that automate and 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-21T05:42:01.512019+00:00">2026-02-21 05:42 UTC</time> (runtime 25.39s)
+**Generated:** <time class="js-local-time" datetime="2026-02-26T10:46:01.579925+00:00">2026-02-26 10:46 UTC</time> (runtime 1m 6s)
 
 ![CoreWeave, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/CRWV.png)
 
@@ -324,28 +397,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [CRWV DEADLINE ALERT: ROSEN, A GLOBALLY RECOGNIZED LAW FIRM, Encourages CoreWeave, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action – CRWV](https://www.globenewswire.com/news-release/2026/02/20/3242167/673/en/CRWV-DEADLINE-ALERT-ROSEN-A-GLOBALLY-RECOGNIZED-LAW-FIRM-Encourages-CoreWeave-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-.html) — GlobeNewswire Inc. · 2026-02-20
+- [CoreWeave Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against CoreWeave, Inc. - CRWV](https://www.globenewswire.com/news-release/2026/02/26/3245170/35454/en/CoreWeave-Shareholder-Alert-ClaimsFiler-Reminds-Investors-With-Losses-In-Excess-Of-100-000-Of-Lead-Plaintiff-Deadline-In-Class-Action-Lawsuit-Against-CoreWeave-Inc-CRWV.html) — GlobeNewswire Inc. · 2026-02-26
+- [Deadline Alert: CoreWeave, Inc. (CRWV) Shareholders Who Lost Money Urged To Contact Glancy Prongay Wolke & Rotter LLP About Securities Fraud Lawsuit](https://www.globenewswire.com/news-release/2026/02/24/3243892/34548/en/Deadline-Alert-CoreWeave-Inc-CRWV-Shareholders-Who-Lost-Money-Urged-To-Contact-Glancy-Prongay-Wolke-Rotter-LLP-About-Securities-Fraud-Lawsuit.html) — GlobeNewswire Inc. · 2026-02-24
+- [CRWV ALERT: Hagens Berman Investigating Claims Against CoreWeave, Inc. (CRWV) Over Alleged Data Center Delays and Concealed Infrastructure Risks](https://www.globenewswire.com/news-release/2026/02/23/3242958/32716/en/CRWV-ALERT-Hagens-Berman-Investigating-Claims-Against-CoreWeave-Inc-CRWV-Over-Alleged-Data-Center-Delays-and-Concealed-Infrastructure-Risks.html) — GlobeNewswire Inc. · 2026-02-23
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares are in an uptrend but trading just under short-term resistance at 76.60 and well above the 65.22 support after a recent plunge from a 30d high of 116.44; macro froth visibility is limited but high-volatility AI-infrastructure sentiment plus the stock sitting below its 20‑day average (~74.05) and below its SMA/EMA (86.65/91.22) amid class-action overhang argues against adding here
+0.1. **Long Entry?:** maybe — shares trade near 3-month bottom and mid-range of 1y/5y history with support around 65.22 and resistance at 76.60, but the price sits below the 20-day and well below the 50-day SMA/EMA after a sharp drawdown; macro-level froth context is unclear while multiple class-action headlines and financing concerns suggest elevated idiosyncratic risk rather than broad AI bubble euphoria.
 
 ## 1. The Biz
 
-1.1. **Activities:** CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform. Its proprietary software and cloud services deliver automation and efficiency to manage complex AI infrastructure at scale. The platform supports development and deployment of advanced AI models and next-generation AI applications used across many domains.
+1.1. **Activities:** CoreWeave, Inc. is a modern, AI-native cloud infrastructure company that provides the CoreWeave Cloud Platform. Its platform delivers proprietary software and cloud services that automate and manage complex AI infrastructure at scale. Key offerings include GPU and CPU compute and storage services to support the training, deployment, and operation of next-generation AI applications.
 
-1.2. **Profitable?:** no — CoreWeave is not profitable, with cumulative net losses of about $766.6M, a negative profit margin of -17.8%, and deeply negative free cash flow despite strong revenue growth of 133.7%.
+1.2. **Profitable?:** no — the company is not currently profitable, with cumulative net income of about -$766.6M, negative profit margin of -17.8%, and deeply negative free cash flow despite strong revenue growth.
 
-1.3. **Customer & Markets:** CoreWeave primarily serves customers that need large-scale AI compute and infrastructure, such as organizations building and running advanced AI models and applications. Its market is the AI-focused cloud computing and infrastructure segment, with operations based in the United States but enabling AI use cases globally as indicated by its platform supporting applications "across the globe."
+1.3. **Customer & Markets:** CoreWeave primarily serves large AI and cloud customers such as OpenAI, Mistral AI, IBM, Microsoft, Meta, and other enterprises building or running AI workloads. Its markets are AI infrastructure and cloud computing, with a focus on high-performance GPU-based compute for global technology and public-sector clients, including entry into the U.S. federal market. The company operates mainly from the United States but supports AI applications used worldwide.
 
-1.4. **Competition:** CoreWeave's main competitors are large cloud and AI infrastructure providers such as Nvidia, Microsoft, Meta, Google/Alphabet, and Amazon, as listed in its related and competitor candidates. Its relative market share or ranking versus these hyperscale competitors is not specified in the provided data.
+1.4. **Competition:** CoreWeave competes with hyperscale cloud and AI infrastructure providers including Nvidia-backed neocloud peers and large platforms such as Microsoft Azure, Google Cloud, Amazon Web Services, and Nebius. It is an emerging specialist in AI cloud rather than the market share leader, facing intense competition from these larger incumbents.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has rebounded from the 7d support of 65.22 toward resistance at 76.60.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with the price rebounding from support near 65.22 toward 73.89 and pressing against short-term resistance at 76.60.
 
-2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, the region near the 7d support around 65.22 was a favorable buy zone, while approaches toward the recent local/7d resistance near 76.60 and the local high around 83.49 offered better short-term sell or trim opportunities.
+2.2. **7d Buy/Sell Points?:** Buying near the recent local low and support around 65.22 appears to have been an attractive entry zone. Selling into strength toward the recent local high and resistance around 76.60–83.49 would have been favorable exit levels.
 
 2.3.1. **7d Volume:** low
 
@@ -353,15 +428,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** CoreWeave is a recently public, rapidly growing AI cloud infrastructure provider rather than a long-established blue-chip institution. The company shows substantial operating cash flow ($1.69B) but also very large negative free cash flow (-$6.95B), reflecting heavy capital intensity and investment. Persistent net losses totaling about $766.6M and a negative profit margin indicate it is still in a scale-up phase with meaningful financial risk. Multiple securities class actions and investigations related to alleged misstatements and infrastructure risks further cloud its risk profile and perceived stability.
+3.1. **Stability?:** CoreWeave is a relatively young but rapidly scaling public company, founded in 2017 and now listed on Nasdaq, operating in the capital-intensive AI cloud infrastructure space. Its financials show significant losses (about -$766.6M net income in recent periods) and large negative free cash flow, indicating reliance on external financing and a still-developing balance sheet. Multiple securities class action lawsuits alleging misleading statements about capacity, data center risks, and a failed Core Scientific merger highlight governance and execution concerns. Recent financing headlines involving Blue Owl Capital and halted redemptions in a related fund also underscore liquidity and funding risks in its ecosystem. Overall, it is not a fly-by-night entity but remains a higher-risk, less-established institution compared with mature tech incumbents.
 
-3.2. **Innovating?:** CoreWeave appears to be innovating and growing, as evidenced by very high revenue growth of 133.7% and its focus on large-scale AI infrastructure and next-generation AI applications. However, this growth is accompanied by significant cash burn and legal overhangs.
+3.2. **Innovating?:** The company is clearly innovating and growing, with triple-digit revenue growth (revenue up about 133.7%), expansion of its AI-native cloud platform, and new products and partnerships such as advanced storage offerings and collaborations with Nvidia. However, its aggressive build-out has led to infrastructure delays and execution issues, as reflected in data center setbacks and related lawsuits.
 
 ## 4. Context
 
-4.1. **News:** Recent news is dominated by securities class actions and investigations alleging CoreWeave understated infrastructure and supplier risks, coinciding with a 34% stock plunge and large investor losses. Additional headlines highlight financing concerns around a major data center project with Blue Owl Capital and broader liquidity jitters in the AI infrastructure sector, which have pressured the stock further. There are also notes of prior optimism, such as Deutsche Bank's upgrade to Buy and Nvidia-related enthusiasm, but Nvidia later sold stakes in some firms, contributing to share weakness. In this context, the "buy the rumor, sell the news" pattern is muted: prior AI hype and Nvidia association fueled rallies, but the subsequent negative news and lawsuits have driven selling rather than a clean post-news relief rally.
+4.1. **News:** Recent news is dominated by securities class action filings and investigations alleging CoreWeave overstated its ability to meet customer demand and concealed data center delays, particularly at a major Texas facility, which coincided with a roughly $14B market cap decline and a 16% stock drop on infrastructure delays. Multiple law firms are soliciting lead plaintiffs ahead of a March 13, 2026 deadline, keeping legal and sentiment pressure high. Separate headlines note financing stress around a Blue Owl–backed Pennsylvania data center project, with reports of funding shortfalls and halted redemptions in a Blue Owl fund spooking the stock despite claims of a $500M bridge loan. Earlier, the stock had rallied on Nvidia's multi-billion-dollar investment and strategic collaboration, but that "good news" has since been followed by negative revelations, fitting a buy-the-rumor, sell-the-news pattern. Overall, the current narrative is skewed toward litigation, execution risk, and funding uncertainty rather than positive catalysts.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariff news has periodically driven volatility across tech and AI infrastructure stocks, and CoreWeave has traded lower on broad tariff headlines, but services like cloud compute are generally less directly exposed to tariffs, so the impact appears to be mostly sentiment-driven rather than clearly quantified in its fundamentals.
 
 ## 5. QuickRef
 
@@ -390,9 +465,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (14 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, rumors, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -433,135 +509,205 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
-Filtered 1 headline(s) from banned sources.
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=CRWV&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 6 headline(s) from banned sources.
 Running supplementary searches...
   google_custom_search search -&gt; CRWV core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=5
-Google Custom Search failed for &#x27;CRWV core business&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+core+business&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=5
-Google Custom Search failed for &#x27;CRWV product portfolio&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
-  newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
-  google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=5
-Google Custom Search failed for &#x27;CRWV profitability&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 4 result(s)
-  google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=5
-Google Custom Search failed for &#x27;CRWV earnings trend&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
-  newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 1 result(s)
-  google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=5
-Google Custom Search failed for &#x27;CRWV target customers&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+product+portfolio&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
     newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; CRWV business model (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; CRWV profitability (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+profitability&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 5 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; CRWV earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+earnings+trend&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; CRWV profit outlook (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; CRWV target customers (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+target+customers&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=5
-Google Custom Search failed for &#x27;CRWV market segments&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+segments&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+segments&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 10 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=5
-Google Custom Search failed for &#x27;CRWV competitors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitors&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitors&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+competitors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=5
-Google Custom Search failed for &#x27;CRWV market share&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+market+share&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=5
-Google Custom Search failed for &#x27;CRWV rumors&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+rumors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
     newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=5
-Google Custom Search failed for &#x27;CRWV tariffs news&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariffs+news&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
     newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=5
-Google Custom Search failed for &#x27;CRWV latest rumor&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+latest+rumor&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; CRWV tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;CRWV tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 7 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; CRWV tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=5
-Google Custom Search failed for &#x27;CRWV tariff impact&#x27;: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
-NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff+impact&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=CRWV+tariff+impact&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=CRWV+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=CRWV+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=CRWV+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;CRWV tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 403 Client Error: Forbidden for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -583,6 +729,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {\n  &quot;0.1&quot;: &quot;no — shares are in an uptrend but trading just under short-term resistance at 76.60 and well above the 65.22 support after a recent plunge from a 30d high of 116.44; macro froth visibility is limited but high-volatility AI-infrastructure sentiment plus the stock sitting below its 20‑day average (~74.05) and below its SMA/EMA (86.65/91.22) amid class-action overhang argues against adding here&quot;,\n  &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern cloud infrastructure technology company focused on providing the CoreWeave Cloud Platform. Its proprietary software and cloud services deliver automati
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade near 3-month bottom and mid-range of 1y/5y history with support around 65.22 and resistance at 76.60, but the price sits below the 20-day and well below the 50-day SMA/EMA after a sharp drawdown; macro-level froth context is unclear while multiple class-action headlines and financing concerns suggest elevated idiosyncratic risk rather than broad AI bubble euphoria.&quot;, &quot;1.1&quot;: &quot;CoreWeave, Inc. is a modern, AI-native cloud infrastructure company that provides the CoreWeave Cloud Platform. Its platform delivers proprietary software and cloud services that automate and 
 </code></pre>
 </details>
