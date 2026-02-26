@@ -3,10 +3,10 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2026-02-26
-generated_at: 2026-02-26T15:55:06.023466+00:00
-runtime_seconds: 45.84
+generated_at: 2026-02-26T20:39:06.856576+00:00
+runtime_seconds: 41.69
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-26T15:55:06.023466+00:00">2026-02-26 15:55 UTC</time> (runtime 45.84s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-26T20:39:06.856576+00:00">2026-02-26 20:39 UTC</time> (runtime 41.69s)
   
   ### Latest news (0-3 days)
   
@@ -15,27 +15,23 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  Across equities, the tone is risk-off today with a clear tilt away from growth and tech. The S&P 500 is down 0.81% and the Nasdaq Composite is off 1.53%, while the QQQ ETF mirrors that weakness at -1.54% on the day. Small caps are softer but more resilient with the Russell 2000 down 0.37%, and the Dow 30 is the only major index slightly higher at +0.10%, signaling a defensive rotation into more stable, value-oriented names rather than a broad risk bid.
+  ["Equities show a mixed-to-negative tone with a clear tilt away from large-cap growth and toward cyclicals and small caps. The S&P 500 is down 0.53% on the day while still up 0.97% over 7d, and the Nasdaq is off 1.22% on the day and down 3.55% over 30d, indicating fading risk appetite in tech and growth. In contrast, the Dow eked out a 0.08% gain and the Russell 2000 added 0.49%, with small caps up 1.64% over 30d, signaling rotation rather than broad risk-on. Overall, the average index change of about -0.50% reflects a modest risk-off day.","Volatility and futures corroborate the cautious tone. The VIX is up 4.91% on the day to 18.81, though still down 7.29% over the week but 17.71% higher over 30d, pointing to a near-term uptick in hedging demand on top of a structurally higher volatility backdrop. S&P futures are down 0.62% and Nasdaq futures down 1.36% on the day versus only a 0.04% gain in Dow futures and a 0.45% rise in Russell futures, underscoring that risk appetite is fading specifically in growth-heavy benchmarks while remaining more resilient in value and small caps.","Rates and cross-asset moves send a more nuanced signal. The 10Y Treasury yield is lower by 3.69% over 30d to 4.02% and down 0.77% on the day, typically supportive for equities, yet the concurrent strength in gold (+13.57% over 30d) and oil (+7.05% over 30d) plus a modestly firmer dollar over 7d suggest some defensive and inflation-hedging behavior. Taken together, risk appetite looks to be rotating and selectively fading in high-duration assets rather than improving broadly."]
   
-  Volatility and futures confirm fading risk appetite. The VIX jumped 9.76% on the day to 19.68 and is up 23.15% over 30 days, consistent with growing demand for downside protection even as the 7d move is slightly negative. S&P futures (ES) fell 0.94% and Nasdaq futures (NQ) dropped 1.56% today, outpacing the modest 0.15% decline in Dow futures, indicating that investors are de-risking most aggressively in higher-beta areas.
+  1.1. **Market Health:** Market health is moderately fragile, with an average 1d index change of about -0.50% despite slightly positive breadth (8 assets up vs 7 down). The S&P 500 and Nasdaq both fell today while the Dow and Russell 2000 rose, indicating underlying support but also meaningful dispersion. The VIX's 4.91% jump today, atop a 17.71% rise over 30d, points to investors paying up for protection even as the 10Y Treasury yield drifts lower by 3.69% over 30d to 4.02%. Overall, the market looks mixed but not distressed, with healthier conditions in cyclicals and small caps offset by pressure in large-cap growth and elevated volatility pricing.
   
-  Rates and cross-asset signals are mixed but lean mildly supportive in the background versus the acute equity risk-off. The 10Y Treasury yield slipped 0.62% on the day and is down 3.55% over 30 days to 4.02%, which typically eases financial conditions, yet this has not prevented equity weakness. Gold is marginally lower today (-0.33%) but remains sharply higher over 7d (+6.27%) and 30d (+13.07%), while WTI crude is up 0.89% today and nearly 8% over 30d, underscoring a bid for hedges and hard assets rather than pure growth risk; overall, near-term risk appetite is fading despite a friendlier rate backdrop.
-  
-  1.1. **Market Health:** Market health today is fragile, skewed negative by both breadth and price action. Breadth shows only 4 assets up versus 11 down, and the average 1d index change is -0.83%, with the S&P 500 and Nasdaq both meaningfully lower. The near-10% spike in VIX to 19.68 points to elevated short-term stress, even though the 10Y Treasury yield has eased slightly to 4.02%, which would normally be supportive. Taken together, the market looks tactically risk-off with defensive pockets (Dow, Treasuries) but not outright disorderly.
-  
-  1.2. **Leadership:** Leadership has rotated toward defensive and value segments, with the Dow 30 the standout on the day at +0.10% while most risk proxies are in the red. On the downside, the Nasdaq Composite is the clear laggard with a 1d move of -1.53%, closely tracked by the QQQ ETF at -1.54%, highlighting tech and growth underperformance. Over the past week, however, growth benchmarks like the Nasdaq (+0.97%) and QQQ (+0.98%) still lead, while Dow futures are slightly negative over 7d (-0.30%), indicating that today's move is a reversal within a still tech-led weekly tape.
+  1.2. **Leadership:** Leadership over the last day and week has tilted toward small caps and value while large-cap tech lags. The Russell 2000 is a clear positive standout, up 0.49% on the day and 1.13% over 7d, with Russell futures similarly higher by 0.45% on the day and 0.98% over 7d. On the downside, the Nasdaq Composite is a notable laggard with a -1.22% 1d move and -3.55% over 30d, echoed by QQQ's -1.27% 1d decline. Over the week, major benchmarks like the S&P 500 (+0.97% 7d) and Nasdaq (+1.29% 7d) remain positive, but today's tape clearly favors Dow and Russell leadership against tech-heavy indices.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** unknown unknown
+  2.1. **Catalysts:** ["unknown","unknown"]
   
   2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** down 60% confidence. The primary equity benchmarks are broadly weaker today, with the S&P 500 down 0.81% and the Nasdaq off 1.53%, while futures echo that negativity as ES falls 0.94% and NQ drops 1.56%. Volatility is rising sharply with VIX up 9.76% to 19.68, indicating increased demand for protection and a defensive positioning shift. Although the 10Y yield is drifting lower, which is usually supportive, the combination of negative breadth (11 assets down vs 4 up), tech-led selling, and higher implied volatility tilts the 24h bias modestly to the downside rather than a stable or higher close.
+  3.1. **Next 24h Bias:** down 60% confidence; today's average index decline of about -0.50%, led by the Nasdaq's -1.22% and S&P 500's -0.53% drops, alongside S&P and Nasdaq futures down 0.62% and 1.36% respectively, points to a short-term risk-off tone. The VIX's 4.91% jump and its elevated 30d gain of 17.71% indicate rising demand for protection despite lower 10Y yields, which would normally support equities. Leadership is rotating into the Russell 2000 and Dow while large-cap growth sells off, suggesting de-risking from the prior winners rather than broad risk-on. With no explicit positive catalysts in the provided data and growth benchmarks under pressure, the balance of evidence favors modest downside bias over the next 24 hours.
   
-  3.2. **Watch List:** Traders should monitor how the S&P 500 and Nasdaq trade around today's lows as guided by the futures complex, with ES at 6,894.75 (-0.93% on the day) and NQ at 24,985.75 (-1.56% on the day); sustained pressure or further downside in NQ would confirm ongoing de-risking in growth. Attention should also remain on the Dow versus the broader market, as the Dow 30's slight gain (+0.10%) against broader weakness may signal continued rotation into more defensive large-cap value names rather than a broad-based recovery. Volatility and rates will be key cross-checks for any shift in tone; if VIX remains elevated near 20 or pushes higher from its 9.76% 1d jump, that would support a continued downside bias, while a reversal lower could open the door to stabilization. The 10Y Treasury at 4.02% has been drifting down over 7d and 30d, so traders should watch whether further yield declines coincide with more equity selling (signaling growth fears) or finally help underpin risk assets; in either case, tech-heavy vehicles like QQQ (-1.54% today) and small caps via Russell futures (-0.30% today) will be important gauges of whether the risk-off move broadens or remains concentrated in megacap growth.
+  3.2. **Watch List:** ["Traders should monitor the growth-heavy benchmarks where pressure is most acute, particularly the Nasdaq Composite around its latest close of 22,869.31 and the QQQ ETF near 608.84, given their 1d declines of roughly 1.2–1.3%. S&P 500 cash and futures (last 6,909.47 and 6,916.50 respectively) are also key reference points; sustained trading below these levels would confirm that today's risk-off bias is extending rather than reversing. The relative resilience of the Dow (49,521.79) and Russell 2000 (2,676.42) should be watched for signs of whether rotation into value and small caps continues or if weakness broadens out.","Overnight and into the next session, focus on cross-asset risk signals such as the VIX at 18.81, the 10Y yield near 4.02%, and gold and oil which have been strong over 7–30 days. A further rise in the VIX from today's 4.91% jump, combined with continued strength in gold (+13.57% over 30d) and elevated crude (+7.05% over 30d), would support the risk-off, "down" bias. Conversely, stabilization or pullback in volatility and safe-haven assets, along with S&P and Nasdaq futures reclaiming today's losses, would be early indications that downside momentum is easing despite the current cautious tone."]
   
   ## 4. QuickRef
   
@@ -43,21 +39,21 @@ raw_markdown: |
   <table>
   <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
   <tbody>
-  <tr><td>S&amp;P 500</td><td>1d -0.81% | 7d +0.68% | 30d -1.06% | last 6,889.64</td></tr>
-  <tr><td>Dow 30</td><td>1d +0.10% | 7d -0.00% | 30d +0.69% | last 49,531.00</td></tr>
-  <tr><td>Nasdaq Composite</td><td>1d -1.53% | 7d +0.97% | 30d -3.85% | last 22,797.70</td></tr>
-  <tr><td>Russell 2000</td><td>1d -0.37% | 7d +0.26% | 30d +0.77% | last 2,653.45</td></tr>
-  <tr><td>SPY ETF</td><td>1d -0.83% | 7d +0.66% | 30d -0.92% | last 687.38</td></tr>
-  <tr><td>QQQ ETF</td><td>1d -1.54% | 7d +0.98% | 30d -3.04% | last 607.19</td></tr>
-  <tr><td>VIX</td><td>1d +9.76% | 7d -3.01% | 30d +23.15% | last 19.68</td></tr>
-  <tr><td>S&amp;P Fut</td><td>1d -0.93% | 7d +0.50% | 30d -1.53% | last 6,894.75</td></tr>
-  <tr><td>Nasdaq Fut</td><td>1d -1.56% | 7d +0.88% | 30d -3.55% | last 24,985.75</td></tr>
-  <tr><td>Dow Fut</td><td>1d -0.15% | 7d -0.30% | 30d +0.11% | last 49,462.00</td></tr>
-  <tr><td>Russell Fut</td><td>1d -0.30% | 7d +0.23% | 30d +0.45% | last 2,659.80</td></tr>
-  <tr><td>10Y Treasury</td><td>1d -0.62% | 7d -0.72% | 30d -3.55% | last 4.02</td></tr>
-  <tr><td>Gold Fut</td><td>1d -0.33% | 7d +6.27% | 30d +13.07% | last 5,189.20</td></tr>
-  <tr><td>WTI Crude</td><td>1d +0.89% | 7d +5.89% | 30d +7.93% | last 66.00</td></tr>
-  <tr><td>US Dollar</td><td>1d +0.09% | 7d +0.65% | 30d -1.35% | last 97.79</td></tr>
+  <tr><td>S&amp;P 500</td><td>1d -0.53% | 7d +0.97% | 30d -0.78% | last 6,909.47</td></tr>
+  <tr><td>Dow 30</td><td>1d +0.08% | 7d -0.02% | 30d +0.67% | last 49,521.79</td></tr>
+  <tr><td>Nasdaq Composite</td><td>1d -1.22% | 7d +1.29% | 30d -3.55% | last 22,869.31</td></tr>
+  <tr><td>Russell 2000</td><td>1d +0.49% | 7d +1.13% | 30d +1.64% | last 2,676.42</td></tr>
+  <tr><td>SPY ETF</td><td>1d -0.55% | 7d +0.95% | 30d -0.64% | last 689.33</td></tr>
+  <tr><td>QQQ ETF</td><td>1d -1.27% | 7d +1.25% | 30d -2.78% | last 608.84</td></tr>
+  <tr><td>VIX</td><td>1d +4.91% | 7d -7.29% | 30d +17.71% | last 18.81</td></tr>
+  <tr><td>S&amp;P Fut</td><td>1d -0.62% | 7d +0.82% | 30d -1.22% | last 6,916.50</td></tr>
+  <tr><td>Nasdaq Fut</td><td>1d -1.36% | 7d +1.09% | 30d -3.35% | last 25,037.75</td></tr>
+  <tr><td>Dow Fut</td><td>1d +0.04% | 7d -0.12% | 30d +0.29% | last 49,553.00</td></tr>
+  <tr><td>Russell Fut</td><td>1d +0.45% | 7d +0.98% | 30d +1.20% | last 2,679.60</td></tr>
+  <tr><td>10Y Treasury</td><td>1d -0.77% | 7d -0.86% | 30d -3.69% | last 4.02</td></tr>
+  <tr><td>Gold Fut</td><td>1d +0.11% | 7d +6.74% | 30d +13.57% | last 5,211.90</td></tr>
+  <tr><td>WTI Crude</td><td>1d +0.06% | 7d +5.02% | 30d +7.05% | last 65.46</td></tr>
+  <tr><td>US Dollar</td><td>1d +0.07% | 7d +0.63% | 30d -1.37% | last 97.77</td></tr>
   </tbody></table>
   </div>
   
@@ -205,12 +201,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Across equities, the tone is risk-off today with a clear tilt away from growth and tech. The S&amp;P 500 is down 0.81% and the Nasdaq Composite is off 1.53%, while the QQQ ETF mirrors that weakness at -1.54% on the day. Small caps are softer but more resilient with the Russell 2000 down 0.37%, and the Dow 30 is the only major index slightly higher at +0.10%, signaling a defensive rotation into more stable, value-oriented names rather than a broad risk bid.&quot;,&quot;Volatility and futures confirm fading risk appetite. The VIX jumped 9.76% on the day to 19.68 and is up 23.15% over 30 days, consist
+  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities show a mixed-to-negative tone with a clear tilt away from large-cap growth and toward cyclicals and small caps. The S&amp;P 500 is down 0.53% on the day while still up 0.97% over 7d, and the Nasdaq is off 1.22% on the day and down 3.55% over 30d, indicating fading risk appetite in tech and growth. In contrast, the Dow eked out a 0.08% gain and the Russell 2000 added 0.49%, with small caps up 1.64% over 30d, signaling rotation rather than broad risk-on. Overall, the average index change of about -0.50% reflects a modest risk-off day.&quot;,&quot;Volatility and futures corroborate the cautio
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-26T15:55:06.023466+00:00">2026-02-26 15:55 UTC</time> (runtime 45.84s)
+**Generated:** <time class="js-local-time" datetime="2026-02-26T20:39:06.856576+00:00">2026-02-26 20:39 UTC</time> (runtime 41.69s)
 
 ### Latest news (0-3 days)
 
@@ -219,27 +215,23 @@ raw_markdown: |
 
 ## 1. Pulse
 
-Across equities, the tone is risk-off today with a clear tilt away from growth and tech. The S&P 500 is down 0.81% and the Nasdaq Composite is off 1.53%, while the QQQ ETF mirrors that weakness at -1.54% on the day. Small caps are softer but more resilient with the Russell 2000 down 0.37%, and the Dow 30 is the only major index slightly higher at +0.10%, signaling a defensive rotation into more stable, value-oriented names rather than a broad risk bid.
+["Equities show a mixed-to-negative tone with a clear tilt away from large-cap growth and toward cyclicals and small caps. The S&P 500 is down 0.53% on the day while still up 0.97% over 7d, and the Nasdaq is off 1.22% on the day and down 3.55% over 30d, indicating fading risk appetite in tech and growth. In contrast, the Dow eked out a 0.08% gain and the Russell 2000 added 0.49%, with small caps up 1.64% over 30d, signaling rotation rather than broad risk-on. Overall, the average index change of about -0.50% reflects a modest risk-off day.","Volatility and futures corroborate the cautious tone. The VIX is up 4.91% on the day to 18.81, though still down 7.29% over the week but 17.71% higher over 30d, pointing to a near-term uptick in hedging demand on top of a structurally higher volatility backdrop. S&P futures are down 0.62% and Nasdaq futures down 1.36% on the day versus only a 0.04% gain in Dow futures and a 0.45% rise in Russell futures, underscoring that risk appetite is fading specifically in growth-heavy benchmarks while remaining more resilient in value and small caps.","Rates and cross-asset moves send a more nuanced signal. The 10Y Treasury yield is lower by 3.69% over 30d to 4.02% and down 0.77% on the day, typically supportive for equities, yet the concurrent strength in gold (+13.57% over 30d) and oil (+7.05% over 30d) plus a modestly firmer dollar over 7d suggest some defensive and inflation-hedging behavior. Taken together, risk appetite looks to be rotating and selectively fading in high-duration assets rather than improving broadly."]
 
-Volatility and futures confirm fading risk appetite. The VIX jumped 9.76% on the day to 19.68 and is up 23.15% over 30 days, consistent with growing demand for downside protection even as the 7d move is slightly negative. S&P futures (ES) fell 0.94% and Nasdaq futures (NQ) dropped 1.56% today, outpacing the modest 0.15% decline in Dow futures, indicating that investors are de-risking most aggressively in higher-beta areas.
+1.1. **Market Health:** Market health is moderately fragile, with an average 1d index change of about -0.50% despite slightly positive breadth (8 assets up vs 7 down). The S&P 500 and Nasdaq both fell today while the Dow and Russell 2000 rose, indicating underlying support but also meaningful dispersion. The VIX's 4.91% jump today, atop a 17.71% rise over 30d, points to investors paying up for protection even as the 10Y Treasury yield drifts lower by 3.69% over 30d to 4.02%. Overall, the market looks mixed but not distressed, with healthier conditions in cyclicals and small caps offset by pressure in large-cap growth and elevated volatility pricing.
 
-Rates and cross-asset signals are mixed but lean mildly supportive in the background versus the acute equity risk-off. The 10Y Treasury yield slipped 0.62% on the day and is down 3.55% over 30 days to 4.02%, which typically eases financial conditions, yet this has not prevented equity weakness. Gold is marginally lower today (-0.33%) but remains sharply higher over 7d (+6.27%) and 30d (+13.07%), while WTI crude is up 0.89% today and nearly 8% over 30d, underscoring a bid for hedges and hard assets rather than pure growth risk; overall, near-term risk appetite is fading despite a friendlier rate backdrop.
-
-1.1. **Market Health:** Market health today is fragile, skewed negative by both breadth and price action. Breadth shows only 4 assets up versus 11 down, and the average 1d index change is -0.83%, with the S&P 500 and Nasdaq both meaningfully lower. The near-10% spike in VIX to 19.68 points to elevated short-term stress, even though the 10Y Treasury yield has eased slightly to 4.02%, which would normally be supportive. Taken together, the market looks tactically risk-off with defensive pockets (Dow, Treasuries) but not outright disorderly.
-
-1.2. **Leadership:** Leadership has rotated toward defensive and value segments, with the Dow 30 the standout on the day at +0.10% while most risk proxies are in the red. On the downside, the Nasdaq Composite is the clear laggard with a 1d move of -1.53%, closely tracked by the QQQ ETF at -1.54%, highlighting tech and growth underperformance. Over the past week, however, growth benchmarks like the Nasdaq (+0.97%) and QQQ (+0.98%) still lead, while Dow futures are slightly negative over 7d (-0.30%), indicating that today's move is a reversal within a still tech-led weekly tape.
+1.2. **Leadership:** Leadership over the last day and week has tilted toward small caps and value while large-cap tech lags. The Russell 2000 is a clear positive standout, up 0.49% on the day and 1.13% over 7d, with Russell futures similarly higher by 0.45% on the day and 0.98% over 7d. On the downside, the Nasdaq Composite is a notable laggard with a -1.22% 1d move and -3.55% over 30d, echoed by QQQ's -1.27% 1d decline. Over the week, major benchmarks like the S&P 500 (+0.97% 7d) and Nasdaq (+1.29% 7d) remain positive, but today's tape clearly favors Dow and Russell leadership against tech-heavy indices.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** unknown unknown
+2.1. **Catalysts:** ["unknown","unknown"]
 
 2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** down 60% confidence. The primary equity benchmarks are broadly weaker today, with the S&P 500 down 0.81% and the Nasdaq off 1.53%, while futures echo that negativity as ES falls 0.94% and NQ drops 1.56%. Volatility is rising sharply with VIX up 9.76% to 19.68, indicating increased demand for protection and a defensive positioning shift. Although the 10Y yield is drifting lower, which is usually supportive, the combination of negative breadth (11 assets down vs 4 up), tech-led selling, and higher implied volatility tilts the 24h bias modestly to the downside rather than a stable or higher close.
+3.1. **Next 24h Bias:** down 60% confidence; today's average index decline of about -0.50%, led by the Nasdaq's -1.22% and S&P 500's -0.53% drops, alongside S&P and Nasdaq futures down 0.62% and 1.36% respectively, points to a short-term risk-off tone. The VIX's 4.91% jump and its elevated 30d gain of 17.71% indicate rising demand for protection despite lower 10Y yields, which would normally support equities. Leadership is rotating into the Russell 2000 and Dow while large-cap growth sells off, suggesting de-risking from the prior winners rather than broad risk-on. With no explicit positive catalysts in the provided data and growth benchmarks under pressure, the balance of evidence favors modest downside bias over the next 24 hours.
 
-3.2. **Watch List:** Traders should monitor how the S&P 500 and Nasdaq trade around today's lows as guided by the futures complex, with ES at 6,894.75 (-0.93% on the day) and NQ at 24,985.75 (-1.56% on the day); sustained pressure or further downside in NQ would confirm ongoing de-risking in growth. Attention should also remain on the Dow versus the broader market, as the Dow 30's slight gain (+0.10%) against broader weakness may signal continued rotation into more defensive large-cap value names rather than a broad-based recovery. Volatility and rates will be key cross-checks for any shift in tone; if VIX remains elevated near 20 or pushes higher from its 9.76% 1d jump, that would support a continued downside bias, while a reversal lower could open the door to stabilization. The 10Y Treasury at 4.02% has been drifting down over 7d and 30d, so traders should watch whether further yield declines coincide with more equity selling (signaling growth fears) or finally help underpin risk assets; in either case, tech-heavy vehicles like QQQ (-1.54% today) and small caps via Russell futures (-0.30% today) will be important gauges of whether the risk-off move broadens or remains concentrated in megacap growth.
+3.2. **Watch List:** ["Traders should monitor the growth-heavy benchmarks where pressure is most acute, particularly the Nasdaq Composite around its latest close of 22,869.31 and the QQQ ETF near 608.84, given their 1d declines of roughly 1.2–1.3%. S&P 500 cash and futures (last 6,909.47 and 6,916.50 respectively) are also key reference points; sustained trading below these levels would confirm that today's risk-off bias is extending rather than reversing. The relative resilience of the Dow (49,521.79) and Russell 2000 (2,676.42) should be watched for signs of whether rotation into value and small caps continues or if weakness broadens out.","Overnight and into the next session, focus on cross-asset risk signals such as the VIX at 18.81, the 10Y yield near 4.02%, and gold and oil which have been strong over 7–30 days. A further rise in the VIX from today's 4.91% jump, combined with continued strength in gold (+13.57% over 30d) and elevated crude (+7.05% over 30d), would support the risk-off, "down" bias. Conversely, stabilization or pullback in volatility and safe-haven assets, along with S&P and Nasdaq futures reclaiming today's losses, would be early indications that downside momentum is easing despite the current cautious tone."]
 
 ## 4. QuickRef
 
@@ -247,21 +239,21 @@ Rates and cross-asset signals are mixed but lean mildly supportive in the backgr
 <table>
 <thead><tr><th>Metric</th><th>Answer</th></tr></thead>
 <tbody>
-<tr><td>S&amp;P 500</td><td>1d -0.81% | 7d +0.68% | 30d -1.06% | last 6,889.64</td></tr>
-<tr><td>Dow 30</td><td>1d +0.10% | 7d -0.00% | 30d +0.69% | last 49,531.00</td></tr>
-<tr><td>Nasdaq Composite</td><td>1d -1.53% | 7d +0.97% | 30d -3.85% | last 22,797.70</td></tr>
-<tr><td>Russell 2000</td><td>1d -0.37% | 7d +0.26% | 30d +0.77% | last 2,653.45</td></tr>
-<tr><td>SPY ETF</td><td>1d -0.83% | 7d +0.66% | 30d -0.92% | last 687.38</td></tr>
-<tr><td>QQQ ETF</td><td>1d -1.54% | 7d +0.98% | 30d -3.04% | last 607.19</td></tr>
-<tr><td>VIX</td><td>1d +9.76% | 7d -3.01% | 30d +23.15% | last 19.68</td></tr>
-<tr><td>S&amp;P Fut</td><td>1d -0.93% | 7d +0.50% | 30d -1.53% | last 6,894.75</td></tr>
-<tr><td>Nasdaq Fut</td><td>1d -1.56% | 7d +0.88% | 30d -3.55% | last 24,985.75</td></tr>
-<tr><td>Dow Fut</td><td>1d -0.15% | 7d -0.30% | 30d +0.11% | last 49,462.00</td></tr>
-<tr><td>Russell Fut</td><td>1d -0.30% | 7d +0.23% | 30d +0.45% | last 2,659.80</td></tr>
-<tr><td>10Y Treasury</td><td>1d -0.62% | 7d -0.72% | 30d -3.55% | last 4.02</td></tr>
-<tr><td>Gold Fut</td><td>1d -0.33% | 7d +6.27% | 30d +13.07% | last 5,189.20</td></tr>
-<tr><td>WTI Crude</td><td>1d +0.89% | 7d +5.89% | 30d +7.93% | last 66.00</td></tr>
-<tr><td>US Dollar</td><td>1d +0.09% | 7d +0.65% | 30d -1.35% | last 97.79</td></tr>
+<tr><td>S&amp;P 500</td><td>1d -0.53% | 7d +0.97% | 30d -0.78% | last 6,909.47</td></tr>
+<tr><td>Dow 30</td><td>1d +0.08% | 7d -0.02% | 30d +0.67% | last 49,521.79</td></tr>
+<tr><td>Nasdaq Composite</td><td>1d -1.22% | 7d +1.29% | 30d -3.55% | last 22,869.31</td></tr>
+<tr><td>Russell 2000</td><td>1d +0.49% | 7d +1.13% | 30d +1.64% | last 2,676.42</td></tr>
+<tr><td>SPY ETF</td><td>1d -0.55% | 7d +0.95% | 30d -0.64% | last 689.33</td></tr>
+<tr><td>QQQ ETF</td><td>1d -1.27% | 7d +1.25% | 30d -2.78% | last 608.84</td></tr>
+<tr><td>VIX</td><td>1d +4.91% | 7d -7.29% | 30d +17.71% | last 18.81</td></tr>
+<tr><td>S&amp;P Fut</td><td>1d -0.62% | 7d +0.82% | 30d -1.22% | last 6,916.50</td></tr>
+<tr><td>Nasdaq Fut</td><td>1d -1.36% | 7d +1.09% | 30d -3.35% | last 25,037.75</td></tr>
+<tr><td>Dow Fut</td><td>1d +0.04% | 7d -0.12% | 30d +0.29% | last 49,553.00</td></tr>
+<tr><td>Russell Fut</td><td>1d +0.45% | 7d +0.98% | 30d +1.20% | last 2,679.60</td></tr>
+<tr><td>10Y Treasury</td><td>1d -0.77% | 7d -0.86% | 30d -3.69% | last 4.02</td></tr>
+<tr><td>Gold Fut</td><td>1d +0.11% | 7d +6.74% | 30d +13.57% | last 5,211.90</td></tr>
+<tr><td>WTI Crude</td><td>1d +0.06% | 7d +5.02% | 30d +7.05% | last 65.46</td></tr>
+<tr><td>US Dollar</td><td>1d +0.07% | 7d +0.63% | 30d -1.37% | last 97.77</td></tr>
 </tbody></table>
 </div>
 
@@ -409,6 +401,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Across equities, the tone is risk-off today with a clear tilt away from growth and tech. The S&amp;P 500 is down 0.81% and the Nasdaq Composite is off 1.53%, while the QQQ ETF mirrors that weakness at -1.54% on the day. Small caps are softer but more resilient with the Russell 2000 down 0.37%, and the Dow 30 is the only major index slightly higher at +0.10%, signaling a defensive rotation into more stable, value-oriented names rather than a broad risk bid.&quot;,&quot;Volatility and futures confirm fading risk appetite. The VIX jumped 9.76% on the day to 19.68 and is up 23.15% over 30 days, consist
+LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Equities show a mixed-to-negative tone with a clear tilt away from large-cap growth and toward cyclicals and small caps. The S&amp;P 500 is down 0.53% on the day while still up 0.97% over 7d, and the Nasdaq is off 1.22% on the day and down 3.55% over 30d, indicating fading risk appetite in tech and growth. In contrast, the Dow eked out a 0.08% gain and the Russell 2000 added 0.49%, with small caps up 1.64% over 30d, signaling rotation rather than broad risk-on. Overall, the average index change of about -0.50% reflects a modest risk-off day.&quot;,&quot;Volatility and futures corroborate the cautio
 </code></pre>
 </details>
