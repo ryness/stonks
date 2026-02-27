@@ -2,11 +2,11 @@
 layout: default
 title: "INTC Stock Report"
 ticker: "INTC"
-date: 2026-02-22
-generated_at: 2026-02-22T02:07:40.302227+00:00
-runtime_seconds: 26.35
+date: 2026-02-27
+generated_at: 2026-02-27T05:52:51.554286+00:00
+runtime_seconds: 55.53
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-22T02:07:40.302227+00:00">2026-02-22 02:07 UTC</time> (runtime 26.35s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-27T05:52:51.554286+00:00">2026-02-27 05:52 UTC</time> (runtime 55.53s)
   
   ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
   
@@ -49,28 +49,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - no news is good news?
+  - [Intel (INTC) Stock Closes at $43.63 as SambaNova AI Partnership Provides Lift Amid Ongoing Challenges](https://www.ibtimes.com.au/intel-intc-stock-closes-4363-sambanova-ai-partnership-provides-lift-amid-ongoing-challenges-1862000) — Ibtimes.com.au · 2026-02-24
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in an uptrend but still below the 20-day moving average and sitting near the middle of their 5-year range with nearby support around 36.8 and resistance at 39.84; macro AI-chip froth is evident in peers but specific bubble-risk signals for INTC are limited in the data and the stock is described as neither overbought nor oversold.
+  0.1. **Long Entry?:** maybe — the stock is in an uptrend but trading just under short-term resistance at $39.84 and slightly below its 20-day moving average of ~$39.18, after a 1-year move from a $18.13 low to near-peak levels; macro AI-bubble concerns are flagged in the data but broad froth context is limited, so adding near support around $36.8 looks more favorable than chasing here.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Intel designs and manufactures microprocessors and related chips for personal computers and data center servers, built around its x86 CPU architecture. The company operates through its Intel Products business and its Intel Foundry business, the latter aiming to provide leading-edge manufacturing capacity to external customers. It is focused on revitalizing its manufacturing roadmap while expanding a portfolio that includes Core-branded client CPUs and data-centric products.
+  1.1. **Activities:** Intel designs and manufactures microprocessors and related semiconductor components for PCs, servers, and data centers, having pioneered the x86 architecture and driven Moore's law advances. Its operations are organized around the Intel Products business, which develops CPUs and other leading-edge chips, and the Intel Foundry business, which provides manufacturing services and is being reinvigorated as a contract foundry. The company is increasingly aligning its portfolio with AI infrastructure through partnerships such as the SambaNova deal.
   
-  1.2. **Profitable?:** no — Intel's recent net income sum is slightly negative with a -0.5% profit margin and negative free cash flow, indicating it is not currently profitable, and the provided data does not specify when it will sustainably return to profitability.
+  1.2. **Profitable?:** no — Intel is currently unprofitable, with a recent net income sum of -$267 million, a negative profit margin of -0.51%, and negative free cash flow of about -$4.5 billion.
   
-  1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, data center operators, and other technology companies that integrate its CPUs and related chips into computing and communications systems. It serves global markets, with significant exposure to client computing, data center and AI infrastructure, and foundry services across regions including the United States and China. Segment references such as Client Computing Group, Data Center and AI, and Intel Foundry Services highlight its focus on both consumer and enterprise/commercial markets.
+  1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, server and data center operators, AI infrastructure providers, and large technology companies that use its CPUs and related chips, as well as prospective foundry clients like Apple and Nvidia mentioned in recent coverage. It sells into global markets, with strength in personal computers and enterprise/data center servers, and is pursuing growth in AI systems and US-based foundry services that appeal to hyperscalers and government-backed initiatives. Its chips and manufacturing services are positioned within broader AI, cloud, and digital infrastructure supply chains across North America, Asia-Pacific, and Europe as referenced in the news flow.
   
-  1.4. **Competition:** Intel competes primarily with AMD and Nvidia in CPUs and AI/data center semiconductors, and also with large technology companies like Qualcomm, Apple, Micron, and major foundry players. It remains the market share leader in PC and server CPUs according to the profile, though recent reports indicate its overall processor market share has declined and peers like AMD and Nvidia are threatening its position.
+  1.4. **Competition:** Intel's main competitors are other major semiconductor and platform companies including AMD, Nvidia, Qualcomm, Apple, Microsoft, Micron, Alphabet/Google, Meta, and Amazon, as listed in its competitor set. It remains the market share leader in PC and server CPUs but trails Nvidia and others in AI accelerators and cutting-edge foundry competitiveness according to the supplied summaries.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — over the last few sessions the stock has fallen sharply from a prior close of 44.11 to 38.45 despite a labeled broader uptrend, indicating a short-term downward move.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up', with price lifting from the local low of $36.63 toward resistance at $39.84 and closing at $38.45.
   
-  2.2. **7d Buy/Sell Points?:** In the last week, the area near the recent local low and stated 7-day support around 36.63–36.80 offered the more attractive buy zone; prices approaching the 7-day resistance and local high around 39.84 were better short-term selling or trimming levels.
+  2.2. **7d Buy/Sell Points?:** Buying near the recent local low and 7d support around $36.63–$36.80 appears to have offered favorable entry, while the local high and resistance zone near $39.84 has been the area to take profits or trim. The 30d resistance at $42.48 marks a higher-level sell or de-risking zone if the current uptrend extends.
   
   2.3.1. **7d Volume:** med
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Intel is a long-established semiconductor company that pioneered the x86 architecture and has long held leading market share in PC and server CPUs, which points to institutional-scale stability rather than a fly-by-night profile. While current profitability is slightly negative and free cash flow is under pressure, operating cash flow remains positive, suggesting it still generates substantial internal funding. The company is actively restructuring its foundry and products businesses and continues to attract significant market and government attention, indicating ongoing strategic importance. Overall, the data supports viewing Intel as a large, durable enterprise navigating a difficult transition rather than a structurally fragile firm.
+  3.1. **Stability?:** Intel is a long-established semiconductor company headquartered in the United States, with a decades-long history as the leading provider of x86 CPUs for PCs and servers, suggesting it is a stable institution rather than a fly-by-night firm. Despite this, its recent financials show strain: a negative net income sum of -$267 million, slightly negative profit margin, and negative free cash flow, indicating current earnings pressure. However, it still generates sizable operating cash flow (~$9.7 billion), which provides some balance sheet flexibility to invest in its foundry and AI strategies. The company is also cited in government-backed and strategic initiatives, which can further underpin its long-term stability even as it navigates a challenging profitability phase.
   
-  3.2. **Innovating?:** Intel is actively trying to reinvigorate its chip manufacturing and product roadmap, including its Intel Foundry initiative and new Core Ultra processors, which indicates ongoing innovation efforts. However, revenue and earnings pressure and commentary about competitive threats from Nvidia and AMD show that its growth and competitive resurgence are still a work in progress.
+  3.2. **Innovating?:** Intel appears to be actively innovating and repositioning for growth, as seen in its efforts to reinvigorate the Intel Foundry business and develop leading-edge products in its Intel Products segment. Recent partnerships such as the multiyear AI deal with SambaNova and reported interest from Apple and Nvidia in its foundry services underscore ongoing innovation and strategic expansion rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage highlights that Nvidia's multi-year AI chip deal with Meta strengthens Nvidia's AI dominance and puts additional competitive pressure on Intel in data center and AI infrastructure. Other headlines note that Intel's stock plunged about 16% after Q4 2025 results due to a disappointing outlook despite beating EPS estimates, and that Wall Street sentiment has turned cautious with a "show-me" stance on its turnaround. There are also pieces discussing takeover rumors, leadership shifts, and speculation about big new customers or government stakes, underscoring a backdrop of rumor-driven volatility around the stock. For "buy the rumor, sell the news," the data suggests rumors and expectations around AI and foundry deals have at times driven sharp upside and downside swings, while the quick facts explicitly flag "no" for both buy-the-rumor and sell-the-news at present, implying recent news has not been a straightforward contrarian trading signal.
+  4.1. **News:** Recent news highlights Intel's multiyear AI partnership with SambaNova, under which Xeon chips replace AMD processors in SambaNova systems, and this has given the stock a lift even as headlines note 'ongoing challenges' and a 'show-me' reset from Wall Street. There are also reports of Apple and potentially Nvidia looking to partner with Intel's U.S. foundries, and of major institutions like Bridgewater and Nvidia adding Intel exposure, which has fueled rallies such as an 11% gain on Nvidia/Apple order buzz and a new Street-high price target. At the same time, broader coverage flags AI-stock selloffs and questions about an AI bubble, along with a sharp post–Q4 guidance-driven drop, reflecting a tug-of-war between optimism and skepticism. In the context of 'buy the rumor, sell the news,' the data show Intel often popping on partnership rumors and strategic announcements, while disappointing earnings or cautious guidance have triggered sharp selloffs once the news is fully digested. Overall, sentiment is mixed, with smart-money interest and government backing on one side and execution risks and recent negative profitability on the other.
   
-  4.2. **Tarrifs:** Tariff developments have had a significant impact on Intel's stock, with reports of shares hitting 16-year lows and massive selloffs when semiconductor tariffs were announced, and later pieces describing Intel as a potential tariff beneficiary or relatively insulated due to U.S. manufacturing and possible exemptions. Overall, tariffs and related policy shifts contribute to elevated volatility and headline-driven moves in INTC, but the net long-term impact is mixed in the provided data.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -115,10 +115,9 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, tariff impact, business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -159,77 +158,292 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 14 headline(s) from banned sources.
+  Latest news fallback search -&gt; INTC latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;INTC latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; INTC earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; INTC analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Intel Corp latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+Corp+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Intel+Corp+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Intel+Corp+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Intel Corp latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+Corp+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Intel Corp latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 11 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Intel Corp earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+Corp+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Intel+Corp+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Intel+Corp+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Intel Corp earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+Corp+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Intel Corp earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Intel latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Intel+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Intel+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Intel+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Intel latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Intel latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: 12 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Intel earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Intel+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Intel earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Intel+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Intel earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Intel earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
     google_custom_search search -&gt; INTC core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 6 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;INTC business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 3 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+profitability&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 6 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;INTC earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+target+customers&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;INTC target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 6 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+segments&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+competitors&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; INTC market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+share&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+competitors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; INTC market share (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+share&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;INTC market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;INTC tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 7 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;INTC rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 7 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: cached 3 result(s)
+      gnews: cached 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; INTC tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;INTC tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; INTC tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;INTC tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;INTC tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -248,12 +462,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in an uptrend but still below the 20-day moving average and sitting near the middle of their 5-year range with nearby support around 36.8 and resistance at 39.84; macro AI-chip froth is evident in peers but specific bubble-risk signals for INTC are limited in the data and the stock is described as neither overbought nor oversold.&quot;,&quot;1.1&quot;:&quot;Intel designs and manufactures microprocessors and related chips for personal computers and data center servers, built around its x86 CPU architecture. The company operates through its Intel Products business and its Intel Foundry bu
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend but trading just under short-term resistance at $39.84 and slightly below its 20-day moving average of ~$39.18, after a 1-year move from a $18.13 low to near-peak levels; macro AI-bubble concerns are flagged in the data but broad froth context is limited, so adding near support around $36.8 looks more favorable than chasing here.&quot;,&quot;1.1&quot;: &quot;Intel designs and manufactures microprocessors and related semiconductor components for PCs, servers, and data centers, having pioneered the x86 architecture and driven Moore&#x27;s law advances. Its operations are organ
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-22T02:07:40.302227+00:00">2026-02-22 02:07 UTC</time> (runtime 26.35s)
+**Generated:** <time class="js-local-time" datetime="2026-02-27T05:52:51.554286+00:00">2026-02-27 05:52 UTC</time> (runtime 55.53s)
 
 ![Intel Corp logo](https://ryness.github.io/stonks/assets/logos/INTC.svg)
 
@@ -296,28 +510,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- no news is good news?
+- [Intel (INTC) Stock Closes at $43.63 as SambaNova AI Partnership Provides Lift Amid Ongoing Challenges](https://www.ibtimes.com.au/intel-intc-stock-closes-4363-sambanova-ai-partnership-provides-lift-amid-ongoing-challenges-1862000) — Ibtimes.com.au · 2026-02-24
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in an uptrend but still below the 20-day moving average and sitting near the middle of their 5-year range with nearby support around 36.8 and resistance at 39.84; macro AI-chip froth is evident in peers but specific bubble-risk signals for INTC are limited in the data and the stock is described as neither overbought nor oversold.
+0.1. **Long Entry?:** maybe — the stock is in an uptrend but trading just under short-term resistance at $39.84 and slightly below its 20-day moving average of ~$39.18, after a 1-year move from a $18.13 low to near-peak levels; macro AI-bubble concerns are flagged in the data but broad froth context is limited, so adding near support around $36.8 looks more favorable than chasing here.
 
 ## 1. The Biz
 
-1.1. **Activities:** Intel designs and manufactures microprocessors and related chips for personal computers and data center servers, built around its x86 CPU architecture. The company operates through its Intel Products business and its Intel Foundry business, the latter aiming to provide leading-edge manufacturing capacity to external customers. It is focused on revitalizing its manufacturing roadmap while expanding a portfolio that includes Core-branded client CPUs and data-centric products.
+1.1. **Activities:** Intel designs and manufactures microprocessors and related semiconductor components for PCs, servers, and data centers, having pioneered the x86 architecture and driven Moore's law advances. Its operations are organized around the Intel Products business, which develops CPUs and other leading-edge chips, and the Intel Foundry business, which provides manufacturing services and is being reinvigorated as a contract foundry. The company is increasingly aligning its portfolio with AI infrastructure through partnerships such as the SambaNova deal.
 
-1.2. **Profitable?:** no — Intel's recent net income sum is slightly negative with a -0.5% profit margin and negative free cash flow, indicating it is not currently profitable, and the provided data does not specify when it will sustainably return to profitability.
+1.2. **Profitable?:** no — Intel is currently unprofitable, with a recent net income sum of -$267 million, a negative profit margin of -0.51%, and negative free cash flow of about -$4.5 billion.
 
-1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, data center operators, and other technology companies that integrate its CPUs and related chips into computing and communications systems. It serves global markets, with significant exposure to client computing, data center and AI infrastructure, and foundry services across regions including the United States and China. Segment references such as Client Computing Group, Data Center and AI, and Intel Foundry Services highlight its focus on both consumer and enterprise/commercial markets.
+1.3. **Customer & Markets:** Intel's primary customers are PC OEMs, server and data center operators, AI infrastructure providers, and large technology companies that use its CPUs and related chips, as well as prospective foundry clients like Apple and Nvidia mentioned in recent coverage. It sells into global markets, with strength in personal computers and enterprise/data center servers, and is pursuing growth in AI systems and US-based foundry services that appeal to hyperscalers and government-backed initiatives. Its chips and manufacturing services are positioned within broader AI, cloud, and digital infrastructure supply chains across North America, Asia-Pacific, and Europe as referenced in the news flow.
 
-1.4. **Competition:** Intel competes primarily with AMD and Nvidia in CPUs and AI/data center semiconductors, and also with large technology companies like Qualcomm, Apple, Micron, and major foundry players. It remains the market share leader in PC and server CPUs according to the profile, though recent reports indicate its overall processor market share has declined and peers like AMD and Nvidia are threatening its position.
+1.4. **Competition:** Intel's main competitors are other major semiconductor and platform companies including AMD, Nvidia, Qualcomm, Apple, Microsoft, Micron, Alphabet/Google, Meta, and Amazon, as listed in its competitor set. It remains the market share leader in PC and server CPUs but trails Nvidia and others in AI accelerators and cutting-edge foundry competitiveness according to the supplied summaries.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — over the last few sessions the stock has fallen sharply from a prior close of 44.11 to 38.45 despite a labeled broader uptrend, indicating a short-term downward move.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up', with price lifting from the local low of $36.63 toward resistance at $39.84 and closing at $38.45.
 
-2.2. **7d Buy/Sell Points?:** In the last week, the area near the recent local low and stated 7-day support around 36.63–36.80 offered the more attractive buy zone; prices approaching the 7-day resistance and local high around 39.84 were better short-term selling or trimming levels.
+2.2. **7d Buy/Sell Points?:** Buying near the recent local low and 7d support around $36.63–$36.80 appears to have offered favorable entry, while the local high and resistance zone near $39.84 has been the area to take profits or trim. The 30d resistance at $42.48 marks a higher-level sell or de-risking zone if the current uptrend extends.
 
 2.3.1. **7d Volume:** med
 
@@ -325,15 +539,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Intel is a long-established semiconductor company that pioneered the x86 architecture and has long held leading market share in PC and server CPUs, which points to institutional-scale stability rather than a fly-by-night profile. While current profitability is slightly negative and free cash flow is under pressure, operating cash flow remains positive, suggesting it still generates substantial internal funding. The company is actively restructuring its foundry and products businesses and continues to attract significant market and government attention, indicating ongoing strategic importance. Overall, the data supports viewing Intel as a large, durable enterprise navigating a difficult transition rather than a structurally fragile firm.
+3.1. **Stability?:** Intel is a long-established semiconductor company headquartered in the United States, with a decades-long history as the leading provider of x86 CPUs for PCs and servers, suggesting it is a stable institution rather than a fly-by-night firm. Despite this, its recent financials show strain: a negative net income sum of -$267 million, slightly negative profit margin, and negative free cash flow, indicating current earnings pressure. However, it still generates sizable operating cash flow (~$9.7 billion), which provides some balance sheet flexibility to invest in its foundry and AI strategies. The company is also cited in government-backed and strategic initiatives, which can further underpin its long-term stability even as it navigates a challenging profitability phase.
 
-3.2. **Innovating?:** Intel is actively trying to reinvigorate its chip manufacturing and product roadmap, including its Intel Foundry initiative and new Core Ultra processors, which indicates ongoing innovation efforts. However, revenue and earnings pressure and commentary about competitive threats from Nvidia and AMD show that its growth and competitive resurgence are still a work in progress.
+3.2. **Innovating?:** Intel appears to be actively innovating and repositioning for growth, as seen in its efforts to reinvigorate the Intel Foundry business and develop leading-edge products in its Intel Products segment. Recent partnerships such as the multiyear AI deal with SambaNova and reported interest from Apple and Nvidia in its foundry services underscore ongoing innovation and strategic expansion rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage highlights that Nvidia's multi-year AI chip deal with Meta strengthens Nvidia's AI dominance and puts additional competitive pressure on Intel in data center and AI infrastructure. Other headlines note that Intel's stock plunged about 16% after Q4 2025 results due to a disappointing outlook despite beating EPS estimates, and that Wall Street sentiment has turned cautious with a "show-me" stance on its turnaround. There are also pieces discussing takeover rumors, leadership shifts, and speculation about big new customers or government stakes, underscoring a backdrop of rumor-driven volatility around the stock. For "buy the rumor, sell the news," the data suggests rumors and expectations around AI and foundry deals have at times driven sharp upside and downside swings, while the quick facts explicitly flag "no" for both buy-the-rumor and sell-the-news at present, implying recent news has not been a straightforward contrarian trading signal.
+4.1. **News:** Recent news highlights Intel's multiyear AI partnership with SambaNova, under which Xeon chips replace AMD processors in SambaNova systems, and this has given the stock a lift even as headlines note 'ongoing challenges' and a 'show-me' reset from Wall Street. There are also reports of Apple and potentially Nvidia looking to partner with Intel's U.S. foundries, and of major institutions like Bridgewater and Nvidia adding Intel exposure, which has fueled rallies such as an 11% gain on Nvidia/Apple order buzz and a new Street-high price target. At the same time, broader coverage flags AI-stock selloffs and questions about an AI bubble, along with a sharp post–Q4 guidance-driven drop, reflecting a tug-of-war between optimism and skepticism. In the context of 'buy the rumor, sell the news,' the data show Intel often popping on partnership rumors and strategic announcements, while disappointing earnings or cautious guidance have triggered sharp selloffs once the news is fully digested. Overall, sentiment is mixed, with smart-money interest and government backing on one side and execution risks and recent negative profitability on the other.
 
-4.2. **Tarrifs:** Tariff developments have had a significant impact on Intel's stock, with reports of shares hitting 16-year lows and massive selloffs when semiconductor tariffs were announced, and later pieces describing Intel as a potential tariff beneficiary or relatively insulated due to U.S. manufacturing and possible exemptions. Overall, tariffs and related policy shifts contribute to elevated volatility and headline-driven moves in INTC, but the net long-term impact is mixed in the provided data.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -362,10 +576,9 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, tariff impact, business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -406,77 +619,292 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=INTC&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 14 headline(s) from banned sources.
+Latest news fallback search -&gt; INTC latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;INTC latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; INTC earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; INTC analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+analyst+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Intel Corp latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+Corp+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Intel+Corp+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Intel+Corp+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Intel Corp latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+Corp+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Intel Corp latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 11 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Intel Corp earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+Corp+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Intel+Corp+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Intel+Corp+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Intel Corp earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+Corp+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Intel Corp earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Intel latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Intel+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Intel+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Intel+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Intel latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Intel latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: 12 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Intel earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Intel+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Intel+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Intel earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Intel+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Intel earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Intel+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Intel earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
   google_custom_search search -&gt; INTC core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+core+business&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 6 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;INTC business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 3 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+profitability&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 6 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+earnings+trend&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;INTC earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+target+customers&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;INTC target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 6 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+segments&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+competitors&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; INTC market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+share&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+competitors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; INTC market share (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+market+share&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;INTC market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; INTC competitive landscape (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+rumors&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;INTC tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 7 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;INTC rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 7 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: cached 3 result(s)
+    gnews: cached 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; INTC tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;INTC tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; INTC tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=INTC+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;INTC tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+NewsAPI search: GET https://newsapi.org/v2/everything?q=INTC+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=INTC+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=INTC+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;INTC tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -495,6 +923,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in an uptrend but still below the 20-day moving average and sitting near the middle of their 5-year range with nearby support around 36.8 and resistance at 39.84; macro AI-chip froth is evident in peers but specific bubble-risk signals for INTC are limited in the data and the stock is described as neither overbought nor oversold.&quot;,&quot;1.1&quot;:&quot;Intel designs and manufactures microprocessors and related chips for personal computers and data center servers, built around its x86 CPU architecture. The company operates through its Intel Products business and its Intel Foundry bu
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend but trading just under short-term resistance at $39.84 and slightly below its 20-day moving average of ~$39.18, after a 1-year move from a $18.13 low to near-peak levels; macro AI-bubble concerns are flagged in the data but broad froth context is limited, so adding near support around $36.8 looks more favorable than chasing here.&quot;,&quot;1.1&quot;: &quot;Intel designs and manufactures microprocessors and related semiconductor components for PCs, servers, and data centers, having pioneered the x86 architecture and driven Moore&#x27;s law advances. Its operations are organ
 </code></pre>
 </details>
