@@ -2,11 +2,11 @@
 layout: default
 title: "OKLO Stock Report"
 ticker: "OKLO"
-date: 2026-02-22
-generated_at: 2026-02-22T05:51:30.573975+00:00
-runtime_seconds: 22.82
+date: 2026-02-27
+generated_at: 2026-02-27T10:38:21.295406+00:00
+runtime_seconds: 63.26
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-22T05:51:30.573975+00:00">2026-02-22 05:51 UTC</time> (runtime 22.82s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-27T10:38:21.295406+00:00">2026-02-27 10:38 UTC</time> (runtime 1m 3s)
   
   ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
   
@@ -50,23 +50,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares are in a short-term downtrend and sit between nearby support around 97.06 and resistance at 123.44 while still trading above the 20-day moving average near 123.69 and well above the 1-year low of 18; macro froth context is limited, but the huge multi-bagger move off the lows and recent high volatility (ATR ~11% of price) argue for caution on new longs.
+  0.1. **Long Entry?:** no — shares are in a short-term downtrend with price ($111.52) below the 20-day average ($123.69) and closer to 7d/30d support ($97.06) than resistance ($123.44–154.45); macro froth risk is elevated given a 5-year move from a $5.59 low to a recent $193.84 high and recent cautions like 'Buy the dip? no'.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to generate up to 15 megawatts of electricity from both recycled and fresh nuclear fuel. The company also plans to offer used nuclear fuel recycling services to the U.S. market.
+  1.1. **Activities:** Oklo Inc. develops advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line is designed to generate up to 15 MWe (and in other disclosures up to 15–75 MWe) using both recycled and fresh nuclear fuel. In addition to selling power, Oklo also plans to offer used nuclear fuel recycling services to the U.S. market.
   
-  1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net losses of about $74.5M, zero profit margin, and negative free and operating cash flow.
+  1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net income of about -$74.5M, negative free and operating cash flow, no meaningful revenue, and recent EPS around -$0.50 to -$0.56 over the last twelve months.
   
-  1.3. **Customer & Markets:** Oklo targets customers needing reliable, commercial-scale power, including data centers and industrial users in both regulated and deregulated markets. It plans to serve primarily U.S. customers with electricity and heat via long-term power purchase agreements and to sell used nuclear fuel recycling services into the U.S. market. The company is also pursuing opportunities in critical space and terrestrial environments through its proposed acquisition of Atomic Alchemy.
+  1.3. **Customer & Markets:** Oklo's primary customers are large power users such as data center operators, industrial facilities, defense and off-grid users, who buy electricity and heat via long-term power purchase agreements. Its markets are initially focused on the United States, including sites like Idaho National Laboratory and Southern Ohio, with expansion plans across regulated and deregulated power markets. The company also targets utilities and organizations needing nuclear fuel recycling services in the U.S. nuclear sector.
   
-  1.4. **Competition:** Oklo's primary competitors include other advanced nuclear and microreactor developers such as NuScale (SMR) and Nano Nuclear Energy (NNE). Industry coverage lists Oklo among leading nuclear power companies, but specific market-share or rank versus these peers is not quantified.
+  1.4. **Competition:** Oklo's main competitors include other advanced nuclear and small modular reactor developers such as NuScale Power (SMR) and Nano Nuclear Energy (NNE), along with various fusion and reactor technology firms cited in competitor lists. It is viewed as a differentiated early-stage sector leader by some analysts but does not yet have deployed plants, so its market ranking is based on pipeline and partnerships rather than operating share.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and price has moved lower from a recent 7-day resistance near 123.44 toward 111.52.
+  2.1. **7d Trend?:** down — over the last week price fell from $123.44 resistance toward $111.52 with a labeled 7d Trend of 'down'.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, dips toward the identified support around 97.06 would have offered better buy entries, while rallies toward the 7-day resistance near 123.44 were favorable areas to take profits or trim.
+  2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the identified support around $97.06 represented better buy entries, while approaches to the 7d resistance near $123.44 offered favorable short-term selling or trimming points.
   
   2.3.1. **7d Volume:** med
   
@@ -74,13 +74,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Oklo is an early-stage advanced nuclear company rather than a mature utility, but it is positioning itself as a long-term power producer with regulated-type contracts. Financially, it has significant accumulated net losses (about $74.5M) and negative operating and free cash flow, which indicates reliance on external financing rather than an internally self-sustaining balance sheet. However, it operates in a heavily regulated sector, has secured an advanced reactor site use permit and access to recycled fuel, and is listed on the NYSE, suggesting institutional oversight and some operational durability. Overall, it is not a fly-by-night operation, but it also lacks the earnings track record and cash generation of a traditional stable utility.
+  3.1. **Stability?:** Oklo is not a fly-by-night operation but remains an early-stage, pre-revenue company with execution and regulatory risk. It has secured a New York Stock Exchange listing, a market cap around $10–11B, DOE site-use permits, and agreements for fuel and reactor deployments, which indicate institutional backing and sector credibility. However, the balance sheet shows substantial cumulative losses, negative operating and free cash flow, and ongoing capital-raising activities such as an at-the-market offering, underscoring financial dependence on external funding. The company's long-term stability will hinge on successfully licensing and commissioning its Aurora reactors and fuel recycling facilities.
   
-  3.2. **Innovating?:** Oklo is clearly in an innovation and growth phase, developing liquid metal fast reactors and the Aurora powerhouse product line, expanding its microreactor project pipeline, and targeting new markets such as data centers and space-related radioisotope power. Its lack of current profitability reflects heavy investment in technology development and commercialization rather than a mature, slow-growth profile.
+  3.2. **Innovating?:** Oklo is actively innovating and growing, developing liquid metal fast reactors, pursuing used fuel recycling facilities, and expanding its project pipeline and strategic partnerships with data center operators and fuel/fabrication partners. Its microreactor and Aurora powerhouse program, along with fuel recycling initiatives, show a focus on new technology and market expansion rather than a mature, static business.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights agreements and MOUs that validate Oklo's technology and market fit, including a major 1.2 GW nuclear energy development agreement with Meta in southern Ohio and a monitoring-room collaboration with ABB to advance Aurora powerhouse deployment. The company has also received design approval for a fuel facility to repurpose used nuclear fuel and has drawn both bullish analyst upgrades (e.g., BofA) and cautionary commentary about regulatory and commercialization risks. Options activity and double-digit price moves around DOE nuclear development programs show traders reacting strongly to policy and partnership headlines. These items suggest substantial "rumor and news" sensitivity, but quick facts currently flag "Buy the rumor? no" and "Sell the news? no," implying that, so far, price action may not be a classic buy-the-rumor, sell-the-news pattern but rather an ongoing repricing to evolving fundamentals and policy support.
+  4.1. **News:** Recent context emphasizes a broader 'atomic pivot' where AI and hyperscaler demand is pushing major capital toward nuclear energy, which benefits SMR developers like Oklo. Company-specific headlines highlight large nuclear supply agreements with data center operators and Meta, DOE nuclear development programs, and ground-breaking on Aurora and fuel recycling facilities, all feeding substantial optimism. Options activity and analyst commentary note strong share price gains and volatility, with some voices warning that Oklo is not yet a commercial enterprise despite the hype. These dynamics suggest that much of the positive narrative may already be reflected in the stock, so blindly 'buying the rumor' or aggressively 'selling the news' is not clearly supported by the data; instead, investors should be wary of AI/nuclear hype cycles and dilution risk.
   
   4.2. **Tarrifs:** unknown
   
@@ -111,10 +111,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+  <li>NewsAPI: business model, market expansion, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -155,82 +155,263 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
-  Filtered 5 headline(s) from banned sources.
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 19 headline(s) from banned sources.
+  Latest news fallback search -&gt; OKLO latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+news&amp;num=2&amp;start=11
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; OKLO earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+news&amp;num=2&amp;start=11
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; OKLO analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+analyst+news&amp;num=2&amp;start=11
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Oklo Inc. latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Oklo+Inc.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Oklo+Inc.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Oklo Inc. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Oklo+Inc.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Oklo Inc. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+latest+news&amp;num=2&amp;start=11
+      newsapi: 1 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Oklo Inc. earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Oklo+Inc.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Oklo+Inc.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Oklo Inc. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Oklo+Inc.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Oklo Inc. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+earnings+news&amp;num=2&amp;start=11
+      newsapi: 2 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
   Running supplementary searches...
     google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;OKLO profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 4 result(s)
-    google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
       newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 3 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 5 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 2 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;OKLO rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 2 result(s)
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: cached 2 result(s)
+      gnews: cached 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; OKLO tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; OKLO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;OKLO tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -249,12 +430,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in a short-term downtrend and sit between nearby support around 97.06 and resistance at 123.44 while still trading above the 20-day moving average near 123.69 and well above the 1-year low of 18; macro froth context is limited, but the huge multi-bagger move off the lows and recent high volatility (ATR ~11% of price) argue for caution on new longs.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to ge
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are in a short-term downtrend with price ($111.52) below the 20-day average ($123.69) and closer to 7d/30d support ($97.06) than resistance ($123.44–154.45); macro froth risk is elevated given a 5-year move from a $5.59 low to a recent $193.84 high and recent cautions like &#x27;Buy the dip? no&#x27;.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. develops advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line is designed to generate up to 15 MWe (and in other disclosures up to 15–75 MWe) using both recyc
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-22T05:51:30.573975+00:00">2026-02-22 05:51 UTC</time> (runtime 22.82s)
+**Generated:** <time class="js-local-time" datetime="2026-02-27T10:38:21.295406+00:00">2026-02-27 10:38 UTC</time> (runtime 1m 3s)
 
 ![Oklo Inc. logo](https://ryness.github.io/stonks/assets/logos/OKLO.png)
 
@@ -298,23 +479,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares are in a short-term downtrend and sit between nearby support around 97.06 and resistance at 123.44 while still trading above the 20-day moving average near 123.69 and well above the 1-year low of 18; macro froth context is limited, but the huge multi-bagger move off the lows and recent high volatility (ATR ~11% of price) argue for caution on new longs.
+0.1. **Long Entry?:** no — shares are in a short-term downtrend with price ($111.52) below the 20-day average ($123.69) and closer to 7d/30d support ($97.06) than resistance ($123.44–154.45); macro froth risk is elevated given a 5-year move from a $5.59 low to a recent $193.84 high and recent cautions like 'Buy the dip? no'.
 
 ## 1. The Biz
 
-1.1. **Activities:** Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to generate up to 15 megawatts of electricity from both recycled and fresh nuclear fuel. The company also plans to offer used nuclear fuel recycling services to the U.S. market.
+1.1. **Activities:** Oklo Inc. develops advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line is designed to generate up to 15 MWe (and in other disclosures up to 15–75 MWe) using both recycled and fresh nuclear fuel. In addition to selling power, Oklo also plans to offer used nuclear fuel recycling services to the U.S. market.
 
-1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net losses of about $74.5M, zero profit margin, and negative free and operating cash flow.
+1.2. **Profitable?:** no — Oklo is not profitable, with cumulative net income of about -$74.5M, negative free and operating cash flow, no meaningful revenue, and recent EPS around -$0.50 to -$0.56 over the last twelve months.
 
-1.3. **Customer & Markets:** Oklo targets customers needing reliable, commercial-scale power, including data centers and industrial users in both regulated and deregulated markets. It plans to serve primarily U.S. customers with electricity and heat via long-term power purchase agreements and to sell used nuclear fuel recycling services into the U.S. market. The company is also pursuing opportunities in critical space and terrestrial environments through its proposed acquisition of Atomic Alchemy.
+1.3. **Customer & Markets:** Oklo's primary customers are large power users such as data center operators, industrial facilities, defense and off-grid users, who buy electricity and heat via long-term power purchase agreements. Its markets are initially focused on the United States, including sites like Idaho National Laboratory and Southern Ohio, with expansion plans across regulated and deregulated power markets. The company also targets utilities and organizations needing nuclear fuel recycling services in the U.S. nuclear sector.
 
-1.4. **Competition:** Oklo's primary competitors include other advanced nuclear and microreactor developers such as NuScale (SMR) and Nano Nuclear Energy (NNE). Industry coverage lists Oklo among leading nuclear power companies, but specific market-share or rank versus these peers is not quantified.
+1.4. **Competition:** Oklo's main competitors include other advanced nuclear and small modular reactor developers such as NuScale Power (SMR) and Nano Nuclear Energy (NNE), along with various fusion and reactor technology firms cited in competitor lists. It is viewed as a differentiated early-stage sector leader by some analysts but does not yet have deployed plants, so its market ranking is based on pipeline and partnerships rather than operating share.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and price has moved lower from a recent 7-day resistance near 123.44 toward 111.52.
+2.1. **7d Trend?:** down — over the last week price fell from $123.44 resistance toward $111.52 with a labeled 7d Trend of 'down'.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, dips toward the identified support around 97.06 would have offered better buy entries, while rallies toward the 7-day resistance near 123.44 were favorable areas to take profits or trim.
+2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the identified support around $97.06 represented better buy entries, while approaches to the 7d resistance near $123.44 offered favorable short-term selling or trimming points.
 
 2.3.1. **7d Volume:** med
 
@@ -322,13 +503,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Oklo is an early-stage advanced nuclear company rather than a mature utility, but it is positioning itself as a long-term power producer with regulated-type contracts. Financially, it has significant accumulated net losses (about $74.5M) and negative operating and free cash flow, which indicates reliance on external financing rather than an internally self-sustaining balance sheet. However, it operates in a heavily regulated sector, has secured an advanced reactor site use permit and access to recycled fuel, and is listed on the NYSE, suggesting institutional oversight and some operational durability. Overall, it is not a fly-by-night operation, but it also lacks the earnings track record and cash generation of a traditional stable utility.
+3.1. **Stability?:** Oklo is not a fly-by-night operation but remains an early-stage, pre-revenue company with execution and regulatory risk. It has secured a New York Stock Exchange listing, a market cap around $10–11B, DOE site-use permits, and agreements for fuel and reactor deployments, which indicate institutional backing and sector credibility. However, the balance sheet shows substantial cumulative losses, negative operating and free cash flow, and ongoing capital-raising activities such as an at-the-market offering, underscoring financial dependence on external funding. The company's long-term stability will hinge on successfully licensing and commissioning its Aurora reactors and fuel recycling facilities.
 
-3.2. **Innovating?:** Oklo is clearly in an innovation and growth phase, developing liquid metal fast reactors and the Aurora powerhouse product line, expanding its microreactor project pipeline, and targeting new markets such as data centers and space-related radioisotope power. Its lack of current profitability reflects heavy investment in technology development and commercialization rather than a mature, slow-growth profile.
+3.2. **Innovating?:** Oklo is actively innovating and growing, developing liquid metal fast reactors, pursuing used fuel recycling facilities, and expanding its project pipeline and strategic partnerships with data center operators and fuel/fabrication partners. Its microreactor and Aurora powerhouse program, along with fuel recycling initiatives, show a focus on new technology and market expansion rather than a mature, static business.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights agreements and MOUs that validate Oklo's technology and market fit, including a major 1.2 GW nuclear energy development agreement with Meta in southern Ohio and a monitoring-room collaboration with ABB to advance Aurora powerhouse deployment. The company has also received design approval for a fuel facility to repurpose used nuclear fuel and has drawn both bullish analyst upgrades (e.g., BofA) and cautionary commentary about regulatory and commercialization risks. Options activity and double-digit price moves around DOE nuclear development programs show traders reacting strongly to policy and partnership headlines. These items suggest substantial "rumor and news" sensitivity, but quick facts currently flag "Buy the rumor? no" and "Sell the news? no," implying that, so far, price action may not be a classic buy-the-rumor, sell-the-news pattern but rather an ongoing repricing to evolving fundamentals and policy support.
+4.1. **News:** Recent context emphasizes a broader 'atomic pivot' where AI and hyperscaler demand is pushing major capital toward nuclear energy, which benefits SMR developers like Oklo. Company-specific headlines highlight large nuclear supply agreements with data center operators and Meta, DOE nuclear development programs, and ground-breaking on Aurora and fuel recycling facilities, all feeding substantial optimism. Options activity and analyst commentary note strong share price gains and volatility, with some voices warning that Oklo is not yet a commercial enterprise despite the hype. These dynamics suggest that much of the positive narrative may already be reflected in the stock, so blindly 'buying the rumor' or aggressively 'selling the news' is not clearly supported by the data; instead, investors should be wary of AI/nuclear hype cycles and dilution risk.
 
 4.2. **Tarrifs:** unknown
 
@@ -359,10 +540,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (1 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
+<li>NewsAPI: business model, market expansion, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -403,82 +584,263 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
-Filtered 5 headline(s) from banned sources.
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=OKLO&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 19 headline(s) from banned sources.
+Latest news fallback search -&gt; OKLO latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+news&amp;num=2&amp;start=11
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; OKLO earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+news&amp;num=2&amp;start=11
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; OKLO analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+analyst+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+analyst+news&amp;num=2&amp;start=11
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Oklo Inc. latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Oklo+Inc.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Oklo+Inc.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Oklo Inc. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Oklo+Inc.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Oklo Inc. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+latest+news&amp;num=2&amp;start=11
+    newsapi: 1 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Oklo Inc. earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Oklo+Inc.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Oklo+Inc.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Oklo Inc. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Oklo+Inc.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Oklo Inc. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Oklo+Inc.+earnings+news&amp;num=2&amp;start=11
+    newsapi: 2 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
 Running supplementary searches...
   google_custom_search search -&gt; OKLO core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+core+business&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+product+portfolio&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+profitability&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+earnings+trend&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;OKLO profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 4 result(s)
-  google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+target+customers&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
     newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; OKLO market segments (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+segments&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; OKLO market expansion (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 3 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; OKLO competitors (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+competitors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; OKLO market share (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+market+share&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 5 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; OKLO competitive landscape (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+rumors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariffs+news&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 2 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;OKLO rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 2 result(s)
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: cached 2 result(s)
+    gnews: cached 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+latest+rumor&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; OKLO tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; OKLO tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=OKLO+tariff+impact&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=OKLO+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=OKLO+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=OKLO+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;OKLO tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -497,6 +859,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are in a short-term downtrend and sit between nearby support around 97.06 and resistance at 123.44 while still trading above the 20-day moving average near 123.69 and well above the 1-year low of 18; macro froth context is limited, but the huge multi-bagger move off the lows and recent high volatility (ATR ~11% of price) argue for caution on new longs.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. is developing advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy at scale. Its core Aurora powerhouse product line is designed to ge
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are in a short-term downtrend with price ($111.52) below the 20-day average ($123.69) and closer to 7d/30d support ($97.06) than resistance ($123.44–154.45); macro froth risk is elevated given a 5-year move from a $5.59 low to a recent $193.84 high and recent cautions like &#x27;Buy the dip? no&#x27;.&quot;,&quot;1.1&quot;:&quot;Oklo Inc. develops advanced fission power plants using liquid metal fast reactor technology to provide clean, reliable, and affordable energy. Its core Aurora powerhouse product line is designed to generate up to 15 MWe (and in other disclosures up to 15–75 MWe) using both recyc
 </code></pre>
 </details>
