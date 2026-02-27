@@ -2,11 +2,11 @@
 layout: default
 title: "MRNA Stock Report"
 ticker: "MRNA"
-date: 2026-02-22
-generated_at: 2026-02-22T10:25:17.190152+00:00
-runtime_seconds: 24.68
+date: 2026-02-27
+generated_at: 2026-02-27T15:38:23.155957+00:00
+runtime_seconds: 72.98
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-22T10:25:17.190152+00:00">2026-02-22 10:25 UTC</time> (runtime 24.68s)
+  **Generated:** <time class="js-local-time" datetime="2026-02-27T15:38:23.155957+00:00">2026-02-27 15:38 UTC</time> (runtime 1m 13s)
   
   ![Moderna, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/MRNA.svg)
   
@@ -54,23 +54,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares trade near 5-year bottom and close to 7d resistance at 26.62 after a sharp move from 1y/5y lows around 23.51, suggesting limited immediate upside; macro bubble/froth cues are not evident in the data, but price is labeled overbought and stretched above 20-day average 25.23 and support at 23.04.
+  0.1. **Long Entry?:** maybe — the stock trades near 5-year lows and a 1-year near-bottom zone, suggesting long-term de-frothing, but macro froth visibility is limited beyond a general growth-stock rally on softer inflation; price is in a short-term uptrend slightly above its 20-day average and sitting just under nearby resistance at 26.62 with support around 23.04, which tempers the entry appeal.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on messenger RNA (mRNA) technology. Its lead commercial product is an mRNA-based COVID-19 vaccine, and it has a pipeline of 35 mRNA development candidates as of August 2025. These programs span infectious diseases, oncology, cardiovascular diseases, and rare genetic disorders.
+  1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on mRNA technology. Its validated COVID-19 vaccine underpins current revenue, while a broad pipeline of 35 mRNA development candidates targets infectious diseases, oncology, cardiovascular disease, and rare genetic disorders. The company uses a platform approach to advance multiple therapeutic areas in parallel.
   
-  1.2. **Profitable?:** no — Moderna is currently unprofitable, with a net income sum of about -$2.0 billion, a profit margin of -145% and negative free and operating cash flow, and the provided data does not specify when it will return to sustained profitability.
+  1.2. **Profitable?:** no — Moderna is currently unprofitable, with recent net income totaling about -$2.0 billion, a profit margin of -145%, and negative free and operating cash flow, and no specific profitability timeline given in the data.
   
-  1.3. **Customer & Markets:** Moderna's end customers are patients receiving vaccines and therapeutics in areas such as infectious disease, oncology, cardiovascular disease, and rare genetic diseases. Its commercial focus to date has been global COVID-19 vaccination, with newer programs like flu and RSV targeting adult populations, primarily in the United States and other developed healthcare markets as implied by FDA filings. Detailed geographic revenue splits are not provided in the data.
+  1.3. **Customer & Markets:** Moderna's primary end customers are patients requiring vaccines and therapeutics in infectious diseases (including COVID-19 and flu), oncology, cardiovascular disease, and rare genetic conditions. It operates globally, with initiatives such as a long-term agreement with the Mexican government and Laboratorios Liomont to supply up to 10 million COVID-19 vaccine doses for 2025–2026 and local mRNA manufacturing capabilities in Mexico. Its markets span both public-sector immunization programs and broader healthcare systems in the United States and internationally.
   
-  1.4. **Competition:** Moderna's primary competitors include large vaccine and biotech players such as Pfizer, Novavax, Johnson & Johnson, AstraZeneca, Merck, Regeneron, CRISPR Therapeutics, and Ocugen, which also develop vaccines or advanced therapeutics. The data does not quantify Moderna's exact rank among them, but these firms represent its main competitive set in COVID-19 and next-generation vaccine and oncology markets.
+  1.4. **Competition:** Key competitors include large vaccine and biotech players such as Pfizer, Novavax, Johnson & Johnson, AstraZeneca, Merck, Regeneron, CRISPR Therapeutics, and Ocugen in areas like COVID-19, flu, and oncology. Market research cited in the data notes Moderna as a leading mRNA therapeutics player with a sizable market share, but no precise rank versus each competitor is specified.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from support near 23.04 toward resistance around 26.62.
+  2.1. **7d Trend?:** up — over the last week the stock is labeled in an uptrend, rising from near support around 23.04 toward resistance around 26.62, with the latest close at 26.41 above the 20-day moving average.
   
-  2.2. **7d Buy/Sell Points?:** Over the past week, entries near the 7d/30d support around $23.04 would have been attractive buys, while prices near the recent local high and 7d resistance around $26.62 offered favorable short-term selling points.
+  2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, buying near the identified support around 23.04 would have been favorable, while selling or trimming near the local and 7-day resistance around 26.62 represented attractive exit levels. The recent move from the low-20s to the mid-20s into this resistance band marks the key buy/sell range in this window.
   
   2.3.1. **7d Volume:** med
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Moderna appears to be a relatively stable institution for a biotech, having been founded in 2010 and public since 2018, with a validated mRNA platform via its authorized COVID-19 vaccine. It has built a broad clinical pipeline of 35 mRNA development candidates across multiple therapeutic areas as of August 2025, indicating long-term R&D investment. However, recent financials show significant net losses, deeply negative profit margin, and negative free and operating cash flow, which introduces balance sheet and funding risk typical of development-heavy biotech firms. Overall, it is not a fly-by-night operation but remains financially dependent on successfully commercializing its pipeline and managing cash burn.
+  3.1. **Stability?:** Moderna is a relatively young but established biotech, founded in 2010 and public since 2018, with its mRNA platform strongly validated by an authorized COVID-19 vaccine. It has built a broad clinical pipeline with 35 mRNA candidates across multiple therapeutic areas, indicating substantial ongoing investment and institutional heft. However, financials show cumulative net losses of about $2.0 billion recently, deeply negative margins, and negative free and operating cash flow, which points to balance-sheet and cash-burn risk typical of platform biotechs. Overall it is not a fly-by-night entity given its global partnerships and commercial product, but its financial profile is still that of a high-risk, development-heavy biotech rather than a mature stable cash generator.
   
-  3.2. **Innovating?:** Moderna is actively innovating and growing its pipeline, with 35 mRNA candidates in clinical studies spanning infectious diseases, oncology, cardiovascular, and rare genetic diseases. Recent news about FDA review of its mRNA-1010 flu vaccine and development of next-generation COVID-19 vaccines also supports an ongoing focus on new product development rather than a stale portfolio.
+  3.2. **Innovating?:** Moderna is actively innovating and growing its mRNA platform, with 35 clinical programs spanning infectious disease, oncology, cardiovascular, and rare genetic diseases and new products like its mRNA-1010 flu vaccine under FDA review. Recent positive oncology vaccine trial data and a strategic manufacturing partnership in Mexico further underscore ongoing pipeline and geographic expansion rather than stasis.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights both positive regulatory momentum and emerging legal risks for Moderna. The FDA reversed a prior refusal-to-file and agreed to review Moderna's mRNA-1010 flu vaccine for adults 50+, triggering a 5.77% stock surge and accompanied by a Q4 result that beat expectations with a smaller loss and higher-than-expected $678 million in revenue. At the same time, BioNTech filed a patent infringement lawsuit over Moderna's next-generation COVID-19 vaccine mNEXSPIKE, seeking monetary damages tied to domain-based spike protein technology. Given that the quick facts flag 'Sell the news? yes', traders may have bought ahead of the FDA U-turn and are now inclined to take profits on the positive review news, while the lawsuit adds uncertainty that could temper sustained rallies.
+  4.1. **News:** Recent news flow is dominated by Moderna's platform and regulatory milestones: the FDA initially refused, then later accepted review of its mRNA-1010 flu vaccine, triggering notable stock rallies on the acceptance and Q4 revenue beat. The company has also reported positive long-term data from its personalized cancer vaccine with Merck, which drove substantial share gains and reinforced the oncology story, and it signed a strategic mRNA manufacturing deal with Mexico for COVID-19 doses, adding a growth narrative. At the same time, a patent infringement lawsuit from BioNTech over Moderna's next-generation COVID-19 shot introduces legal and IP risk, and broader macro news highlights that growth-sensitive names like Moderna have benefited from softer-than-expected inflation and rate-cut hopes. Given that the quick facts flag the stock as "sell the news" and "overbought," the recent sharp pops on FDA and oncology headlines look vulnerable to post-news profit-taking consistent with the buy-the-rumor, sell-the-news pattern.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariff impacts on Moderna's stock are unknown based on the provided data; while tariffs and pharma trade tensions are mentioned in broader news, no specific effect on MRNA is detailed.
   
   ## 5. QuickRef
   
@@ -115,7 +115,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (12 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -159,77 +159,298 @@ raw_markdown: |
   Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
   Assembling quick facts...
   Collecting latest headlines (massive.com)...
-  Massive news: GET https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-  Massive news: collected 5 articles.
-    massive.com returned 5 headlines
-  Filtered 3 headline(s) from banned sources.
-  Running supplementary searches...
-    google_custom_search search -&gt; MRNA core business (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; MRNA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA business model (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
-    google_custom_search search -&gt; MRNA profitability (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; MRNA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
-    google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; MRNA market segments (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA market expansion (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
-    google_custom_search search -&gt; MRNA competitors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; MRNA market share (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
-    google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=5
-      google_custom_search: 5 result(s)
-    google_custom_search search -&gt; MRNA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA rumor (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;MRNA rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+  Massive news: GET https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+  Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+  Massive news: collected 20 articles.
+    massive.com returned 20 headlines
+  Filtered 8 headline(s) from banned sources.
+  Latest news fallback search -&gt; MRNA latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+news&amp;num=2&amp;start=11
+      newsapi: 9 result(s)
+      gnews: 3 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; MRNA earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+news&amp;num=2&amp;start=11
+      newsapi: 10 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
-    newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; MRNA analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+analyst+news&amp;num=2&amp;start=11
       newsapi: 4 result(s)
-    google_custom_search search -&gt; MRNA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=5
-      google_custom_search: 5 result(s)
-    newsapi search -&gt; MRNA tariffs (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Moderna, Inc. Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Moderna, Inc. Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Moderna, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Moderna, Inc. Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Moderna, Inc. Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Moderna, Inc. Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Moderna, . Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Moderna, . Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Moderna, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+latest+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Latest news fallback search -&gt; Moderna, . Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Moderna, . Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Moderna, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+earnings+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+  Running supplementary searches...
+    google_custom_search search -&gt; MRNA core business (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA business model (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA profitability (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 4 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 5 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA market segments (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA market expansion (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 12 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA competitors (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 2 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA market share (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 12 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA rumor (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 10 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: cached 9 result(s)
+      gnews: cached 3 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search search -&gt; MRNA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi search -&gt; MRNA tariffs (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      newsapi: 8 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; MRNA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=5
-      google_custom_search: 5 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=2&amp;start=11
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;MRNA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;MRNA tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: 12 result(s)
+      newsapi: 5 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
   Dispatching bullets to OpenAI:
@@ -248,12 +469,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 5-year bottom and close to 7d resistance at 26.62 after a sharp move from 1y/5y lows around 23.51, suggesting limited immediate upside; macro bubble/froth cues are not evident in the data, but price is labeled overbought and stretched above 20-day average 25.23 and support at 23.04.&quot;,&quot;1.1&quot;:&quot;Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on messenger RNA (mRNA) technology. Its lead commercial product is an mRNA-based COVID-19 vaccine, and it has a pipeline of 35 mRNA development candidates as of Aug
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows and a 1-year near-bottom zone, suggesting long-term de-frothing, but macro froth visibility is limited beyond a general growth-stock rally on softer inflation; price is in a short-term uptrend slightly above its 20-day average and sitting just under nearby resistance at 26.62 with support around 23.04, which tempers the entry appeal.&quot;, &quot;1.1&quot;: &quot;Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on mRNA technology. Its validated COVID-19 vaccine underpins current revenue, while a broad p
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-22T10:25:17.190152+00:00">2026-02-22 10:25 UTC</time> (runtime 24.68s)
+**Generated:** <time class="js-local-time" datetime="2026-02-27T15:38:23.155957+00:00">2026-02-27 15:38 UTC</time> (runtime 1m 13s)
 
 ![Moderna, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/MRNA.svg)
 
@@ -301,23 +522,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares trade near 5-year bottom and close to 7d resistance at 26.62 after a sharp move from 1y/5y lows around 23.51, suggesting limited immediate upside; macro bubble/froth cues are not evident in the data, but price is labeled overbought and stretched above 20-day average 25.23 and support at 23.04.
+0.1. **Long Entry?:** maybe — the stock trades near 5-year lows and a 1-year near-bottom zone, suggesting long-term de-frothing, but macro froth visibility is limited beyond a general growth-stock rally on softer inflation; price is in a short-term uptrend slightly above its 20-day average and sitting just under nearby resistance at 26.62 with support around 23.04, which tempers the entry appeal.
 
 ## 1. The Biz
 
-1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on messenger RNA (mRNA) technology. Its lead commercial product is an mRNA-based COVID-19 vaccine, and it has a pipeline of 35 mRNA development candidates as of August 2025. These programs span infectious diseases, oncology, cardiovascular diseases, and rare genetic disorders.
+1.1. **Activities:** Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on mRNA technology. Its validated COVID-19 vaccine underpins current revenue, while a broad pipeline of 35 mRNA development candidates targets infectious diseases, oncology, cardiovascular disease, and rare genetic disorders. The company uses a platform approach to advance multiple therapeutic areas in parallel.
 
-1.2. **Profitable?:** no — Moderna is currently unprofitable, with a net income sum of about -$2.0 billion, a profit margin of -145% and negative free and operating cash flow, and the provided data does not specify when it will return to sustained profitability.
+1.2. **Profitable?:** no — Moderna is currently unprofitable, with recent net income totaling about -$2.0 billion, a profit margin of -145%, and negative free and operating cash flow, and no specific profitability timeline given in the data.
 
-1.3. **Customer & Markets:** Moderna's end customers are patients receiving vaccines and therapeutics in areas such as infectious disease, oncology, cardiovascular disease, and rare genetic diseases. Its commercial focus to date has been global COVID-19 vaccination, with newer programs like flu and RSV targeting adult populations, primarily in the United States and other developed healthcare markets as implied by FDA filings. Detailed geographic revenue splits are not provided in the data.
+1.3. **Customer & Markets:** Moderna's primary end customers are patients requiring vaccines and therapeutics in infectious diseases (including COVID-19 and flu), oncology, cardiovascular disease, and rare genetic conditions. It operates globally, with initiatives such as a long-term agreement with the Mexican government and Laboratorios Liomont to supply up to 10 million COVID-19 vaccine doses for 2025–2026 and local mRNA manufacturing capabilities in Mexico. Its markets span both public-sector immunization programs and broader healthcare systems in the United States and internationally.
 
-1.4. **Competition:** Moderna's primary competitors include large vaccine and biotech players such as Pfizer, Novavax, Johnson & Johnson, AstraZeneca, Merck, Regeneron, CRISPR Therapeutics, and Ocugen, which also develop vaccines or advanced therapeutics. The data does not quantify Moderna's exact rank among them, but these firms represent its main competitive set in COVID-19 and next-generation vaccine and oncology markets.
+1.4. **Competition:** Key competitors include large vaccine and biotech players such as Pfizer, Novavax, Johnson & Johnson, AstraZeneca, Merck, Regeneron, CRISPR Therapeutics, and Ocugen in areas like COVID-19, flu, and oncology. Market research cited in the data notes Moderna as a leading mRNA therapeutics player with a sizable market share, but no precise rank versus each competitor is specified.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' and price has moved from support near 23.04 toward resistance around 26.62.
+2.1. **7d Trend?:** up — over the last week the stock is labeled in an uptrend, rising from near support around 23.04 toward resistance around 26.62, with the latest close at 26.41 above the 20-day moving average.
 
-2.2. **7d Buy/Sell Points?:** Over the past week, entries near the 7d/30d support around $23.04 would have been attractive buys, while prices near the recent local high and 7d resistance around $26.62 offered favorable short-term selling points.
+2.2. **7d Buy/Sell Points?:** During the last 3–7 trading days, buying near the identified support around 23.04 would have been favorable, while selling or trimming near the local and 7-day resistance around 26.62 represented attractive exit levels. The recent move from the low-20s to the mid-20s into this resistance band marks the key buy/sell range in this window.
 
 2.3.1. **7d Volume:** med
 
@@ -325,15 +546,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Moderna appears to be a relatively stable institution for a biotech, having been founded in 2010 and public since 2018, with a validated mRNA platform via its authorized COVID-19 vaccine. It has built a broad clinical pipeline of 35 mRNA development candidates across multiple therapeutic areas as of August 2025, indicating long-term R&D investment. However, recent financials show significant net losses, deeply negative profit margin, and negative free and operating cash flow, which introduces balance sheet and funding risk typical of development-heavy biotech firms. Overall, it is not a fly-by-night operation but remains financially dependent on successfully commercializing its pipeline and managing cash burn.
+3.1. **Stability?:** Moderna is a relatively young but established biotech, founded in 2010 and public since 2018, with its mRNA platform strongly validated by an authorized COVID-19 vaccine. It has built a broad clinical pipeline with 35 mRNA candidates across multiple therapeutic areas, indicating substantial ongoing investment and institutional heft. However, financials show cumulative net losses of about $2.0 billion recently, deeply negative margins, and negative free and operating cash flow, which points to balance-sheet and cash-burn risk typical of platform biotechs. Overall it is not a fly-by-night entity given its global partnerships and commercial product, but its financial profile is still that of a high-risk, development-heavy biotech rather than a mature stable cash generator.
 
-3.2. **Innovating?:** Moderna is actively innovating and growing its pipeline, with 35 mRNA candidates in clinical studies spanning infectious diseases, oncology, cardiovascular, and rare genetic diseases. Recent news about FDA review of its mRNA-1010 flu vaccine and development of next-generation COVID-19 vaccines also supports an ongoing focus on new product development rather than a stale portfolio.
+3.2. **Innovating?:** Moderna is actively innovating and growing its mRNA platform, with 35 clinical programs spanning infectious disease, oncology, cardiovascular, and rare genetic diseases and new products like its mRNA-1010 flu vaccine under FDA review. Recent positive oncology vaccine trial data and a strategic manufacturing partnership in Mexico further underscore ongoing pipeline and geographic expansion rather than stasis.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights both positive regulatory momentum and emerging legal risks for Moderna. The FDA reversed a prior refusal-to-file and agreed to review Moderna's mRNA-1010 flu vaccine for adults 50+, triggering a 5.77% stock surge and accompanied by a Q4 result that beat expectations with a smaller loss and higher-than-expected $678 million in revenue. At the same time, BioNTech filed a patent infringement lawsuit over Moderna's next-generation COVID-19 vaccine mNEXSPIKE, seeking monetary damages tied to domain-based spike protein technology. Given that the quick facts flag 'Sell the news? yes', traders may have bought ahead of the FDA U-turn and are now inclined to take profits on the positive review news, while the lawsuit adds uncertainty that could temper sustained rallies.
+4.1. **News:** Recent news flow is dominated by Moderna's platform and regulatory milestones: the FDA initially refused, then later accepted review of its mRNA-1010 flu vaccine, triggering notable stock rallies on the acceptance and Q4 revenue beat. The company has also reported positive long-term data from its personalized cancer vaccine with Merck, which drove substantial share gains and reinforced the oncology story, and it signed a strategic mRNA manufacturing deal with Mexico for COVID-19 doses, adding a growth narrative. At the same time, a patent infringement lawsuit from BioNTech over Moderna's next-generation COVID-19 shot introduces legal and IP risk, and broader macro news highlights that growth-sensitive names like Moderna have benefited from softer-than-expected inflation and rate-cut hopes. Given that the quick facts flag the stock as "sell the news" and "overbought," the recent sharp pops on FDA and oncology headlines look vulnerable to post-news profit-taking consistent with the buy-the-rumor, sell-the-news pattern.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariff impacts on Moderna's stock are unknown based on the provided data; while tariffs and pharma trade tensions are mentioned in broader news, no specific effect on MRNA is detailed.
 
 ## 5. QuickRef
 
@@ -362,7 +583,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (2 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (12 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, tariff, latest news, tariffs</li>
@@ -406,77 +627,298 @@ Massive earnings: response 403 from https://api.massive.com/benzinga/v1/earnings
 Massive earnings: access denied (403) - You are not entitled to this data. Please upgrade your plan at https://massive.com/pricing
 Assembling quick facts...
 Collecting latest headlines (massive.com)...
-Massive news: GET https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=5&amp;order=desc&amp;apiKey=%2A%2A%2A
-Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=5&amp;order=desc&amp;apiKey=&lt;redacted&gt;
-Massive news: collected 5 articles.
-  massive.com returned 5 headlines
-Filtered 3 headline(s) from banned sources.
-Running supplementary searches...
-  google_custom_search search -&gt; MRNA core business (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; MRNA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA business model (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+business+model&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
-  google_custom_search search -&gt; MRNA profitability (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; MRNA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
-  google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; MRNA market segments (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA market expansion (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+expansion&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
-  google_custom_search search -&gt; MRNA competitors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; MRNA market share (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
-  google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=5
-    google_custom_search: 5 result(s)
-  google_custom_search search -&gt; MRNA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA rumor (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumor&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumor&amp;lang=en&amp;max=5&amp;token=%2A%2A%2A
-Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumor&amp;api-key=%2A%2A%2A&amp;page-size=5&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;MRNA rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+Massive news: GET https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=20&amp;order=desc&amp;apiKey=%2A%2A%2A
+Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=MRNA&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
+Massive news: collected 20 articles.
+  massive.com returned 20 headlines
+Filtered 8 headline(s) from banned sources.
+Latest news fallback search -&gt; MRNA latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+news&amp;num=2&amp;start=11
+    newsapi: 9 result(s)
+    gnews: 3 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; MRNA earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+news&amp;num=2&amp;start=11
+    newsapi: 10 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
-  newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+news&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; MRNA analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+analyst+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+analyst+news&amp;num=2&amp;start=11
     newsapi: 4 result(s)
-  google_custom_search search -&gt; MRNA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=5
-    google_custom_search: 5 result(s)
-  newsapi search -&gt; MRNA tariffs (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs&amp;pageSize=5&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Moderna, Inc. Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Moderna, Inc. Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Moderna, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Moderna, Inc. Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Moderna, Inc. Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Moderna, Inc. Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+Inc.+Common+Stock+earnings+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Moderna, . Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+.+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+.+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Moderna, . Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Moderna, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+latest+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Latest news fallback search -&gt; Moderna, . Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Moderna%2C+.+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=Moderna%2C+.+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Moderna, . Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=Moderna%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Moderna, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Moderna%2C+.+Common+Stock+earnings+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+Running supplementary searches...
+  google_custom_search search -&gt; MRNA core business (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+core+business&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+product+portfolio&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA business model (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA profitability (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+profitability&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+earnings+trend&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 4 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA profit outlook (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 5 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA target customers (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+target+customers&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA market segments (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+segments&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA market expansion (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 12 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA competitors (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+competitors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 2 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA market share (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+market+share&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA competitive landscape (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 12 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA rumors (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+rumors&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariffs+news&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA rumor (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA tariff (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 10 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA latest news (priority: newsapi, gnews, guardian)
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: cached 9 result(s)
+    gnews: cached 3 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  google_custom_search search -&gt; MRNA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+latest+rumor&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  newsapi search -&gt; MRNA tariffs (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    newsapi: 8 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; MRNA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=5
-    google_custom_search: 5 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=MRNA+tariff+impact&amp;num=2&amp;start=11
+NewsAPI search: GET https://newsapi.org/v2/everything?q=MRNA+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=MRNA+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;MRNA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+Guardian search: GET https://content.guardianapis.com/search?q=MRNA+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;MRNA tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: 12 result(s)
+    newsapi: 5 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
 Dispatching bullets to OpenAI:
@@ -495,6 +937,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares trade near 5-year bottom and close to 7d resistance at 26.62 after a sharp move from 1y/5y lows around 23.51, suggesting limited immediate upside; macro bubble/froth cues are not evident in the data, but price is labeled overbought and stretched above 20-day average 25.23 and support at 23.04.&quot;,&quot;1.1&quot;:&quot;Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on messenger RNA (mRNA) technology. Its lead commercial product is an mRNA-based COVID-19 vaccine, and it has a pipeline of 35 mRNA development candidates as of Aug
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades near 5-year lows and a 1-year near-bottom zone, suggesting long-term de-frothing, but macro froth visibility is limited beyond a general growth-stock rally on softer inflation; price is in a short-term uptrend slightly above its 20-day average and sitting just under nearby resistance at 26.62 with support around 23.04, which tempers the entry appeal.&quot;, &quot;1.1&quot;: &quot;Moderna is a commercial-stage biotechnology company focused on developing and commercializing medicines based on mRNA technology. Its validated COVID-19 vaccine underpins current revenue, while a broad p
 </code></pre>
 </details>
