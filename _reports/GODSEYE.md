@@ -3,10 +3,10 @@ layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
 date: 2026-03-01
-generated_at: 2026-03-01T02:14:50.642449+00:00
-runtime_seconds: 28.29
+generated_at: 2026-03-01T05:52:48.193486+00:00
+runtime_seconds: 31.90
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-01T02:14:50.642449+00:00">2026-03-01 02:14 UTC</time> (runtime 28.29s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-01T05:52:48.193486+00:00">2026-03-01 05:52 UTC</time> (runtime 31.90s)
   
   ### Latest news (0-3 days)
   
@@ -15,23 +15,35 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  ["Risk tone across equities is negative, with all major U.S. indices lower on the day and average index performance at -0.81%. The Dow 30 is the clear laggard at -1.05% 1d, followed by the Russell 2000 at -1.68% and the Nasdaq Composite at -0.92%, while the S&P 500 is down a milder -0.43%. SPY is off -0.48% and QQQ -0.32%, indicating broad but not panic-level de-risking, consistent with fading risk appetite rather than outright capitulation.","Volatility is firming meaningfully: the VIX is up 6.60% on the day and 18.57% over 30 days to 19.86, showing a clear repricing higher of equity risk premia. Equity futures mirror the cash tone, with S&P futures down -0.45%, Dow futures -1.07%, Nasdaq futures -0.30%, and Russell futures -1.71% on the day, reinforcing a short-term risk-off bias centered on cyclicals and small caps.","Rates and cross-asset hedges confirm a defensive shift: the 10Y Treasury yield is down 1.37% on the day and 4.30% over 30 days to 3.96%, while classic havens/hedges like gold (+1.04% 1d, +13.06% 30d) and oil (+2.78% 1d, +8.06% 30d) are bid. The U.S. dollar is slightly softer (-0.18% 1d, -1.53% 30d), which, together with falling yields and rising VIX, points to investors rotating toward safety assets and inflation hedges rather than adding equity risk, so overall risk appetite is clearly fading."]
+  [
+      "Across equities, the tone is clearly risk-off, with all major U.S. indices lower on the day and an average index decline of about -0.81%. The Dow 30 is the weakest large-cap benchmark, down -1.05% on the day and -1.38% over the week, while the Russell 2000 fell -1.68% today, signaling particular stress in small caps. The S&P 500 and Nasdaq Composite are also negative on the day (-0.43% and -0.92%, respectively), and the Nasdaq is down -3.42% over 30 days, pointing to fading risk appetite in growth and tech despite only modest month-on-month slippage in the S&P 500.",
+      "Volatility and haven assets confirm the defensive tone, with the VIX up 6.6% today and 18.6% over 30 days to 19.86, indicating a sustained rise in hedging demand. At the same time, the 10Y Treasury yield is down 1.37% on the day and 4.30% over 30 days to 3.96%, showing a bid for safety in rates even as equities sell off. Gold futures are up 1.38% today and 13.44% over 30 days, and crude oil has gained 2.78% today and 8.06% over 30 days, underscoring a mix of flight-to-quality and inflation/geopolitical premia, which together suggest risk appetite is deteriorating rather than improving.",
+      "Equity futures mirror the cash weakness, with S&P, Dow, Nasdaq, and Russell futures all down on the day, led by Russell futures at -1.71% and Dow futures at -1.07%. Over the past week, futures show a similar pattern: Dow and Russell contracts are down more than 1%, while Nasdaq futures are only slightly higher (+0.20%), reflecting a relative but fragile resilience in large-cap growth. The combination of broad equity declines, higher implied volatility, lower yields, and strong performance in gold and oil quantifiably points to a risk-off regime with investors rotating toward safety and inflation hedges."
+    ]
   
-  1.1. **Market Health:** Market health is weak in the near term: breadth shows 3 assets up versus 12 down, and the average index move of -0.81% in the last day reflects broad-based risk-off pressure. Elevated and rising volatility, with VIX up 6.60% today and nearly 19% over 30 days to just under 20, signals growing stress rather than calm conditions. However, the 10Y Treasury yield has fallen to 3.96% and is down 4.30% over 30 days, suggesting bond markets are providing some cushion via lower discount rates. Taken together, the tape looks fragile but not disorderly, with equity weakness offset to a degree by supportive rates and functioning flight-to-quality dynamics.
+  1.1. **Market Health:** Market health is weak on today's read, with breadth showing only 3 instruments up versus 12 down and an average 1-day index move of about -0.81%. All four major U.S. equity benchmarks are negative on the day and either flat to lower over 7 and 30 days, with the Nasdaq Composite down -3.42% over a month and the Russell 2000 down -0.73%. Elevated volatility, with the VIX at 19.86 and up 18.6% over 30 days, signals rising stress rather than calm. While the 10Y yield has fallen to 3.96% and is down 4.3% over 30 days, that drop appears driven more by risk aversion and growth concerns than by a benign backdrop, leaving overall market health fragile.
   
-  1.2. **Leadership:** Over the last day, the relative leaders are mega-cap tech proxies, with QQQ down only -0.32% and the Nasdaq futures off -0.30%, and gold futures standing out positively with a +1.04% 1d move. On the downside, small caps and cyclicals are clear laggards, with the Russell 2000 down -1.68% and Russell futures -1.71% on the day, while the Dow 30 is also weak at -1.05% alongside Dow futures at -1.07%. Over the week, QQQ (+0.25% 7d) and Nasdaq futures (+0.20% 7d) modestly outperform, whereas the Dow 30 (-1.38% 7d) and Dow futures (-1.45% 7d) are notable underperformers, indicating leadership remains with growth/tech while traditional cyclicals and small caps lag.
+  1.2. **Leadership:** Over the last day, the best relative performer among the major benchmarks is QQQ, down a comparatively mild -0.32%, and Nasdaq futures are also the least negative at -0.30%, suggesting mega-cap tech is a relative leader despite still being under pressure. On the downside, the Russell 2000 is a clear laggard with a -1.68% 1-day move, and Russell futures are down -1.71%, indicating small caps are bearing the brunt of risk reduction. The Dow 30 also stands out negatively with a -1.05% 1-day decline and Dow futures off -1.07%, showing particular weakness in cyclicals and blue chips compared with the broader S&P 500's -0.43%.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** ["The primary macro driver today is a hotter-than-expected U.S. wholesale inflation print, with January PPI rising 0.5% and core PPI 0.8% month-on-month, according to the news summaries. This has lowered expectations for near-term Federal Reserve rate cuts, shifting the policy narrative to "higher for longer" and prompting investors to reduce risk exposure. That backdrop aligns with broad equity declines (S&P 500 -0.43%, Dow 30 -1.05%, Nasdaq -0.92%) and a higher VIX (+6.60% 1d), reinforcing a risk-off tone linked directly to inflation and Fed repricing.","A second key theme is geopolitical risk around U.S.–Iran tensions, which is explicitly tied in the news to a nearly 3% move higher in oil prices, consistent with WTI crude's +2.78% 1d gain. The combination of war fears and higher crude feeds additional inflation concerns, amplifying the pressure on equities while lifting inflation hedges such as gold, which is up 1.04% on the day and 13.06% over 30 days. These forces support a defensive, risk-off allocation pattern, with investors rotating toward commodities and away from equities, particularly cyclicals.","The news also highlights concerns around AI disruption and elevated AI-related spending, which is weighing on technology shares despite strong earnings. This helps explain why the Nasdaq Composite is down -0.92% on the day and QQQ, while relatively resilient, is still off -0.32%. The fact that tech is under pressure alongside broader macro and geopolitical worries contributes to a more comprehensive risk-off environment, as one of the prior leadership areas is now being questioned by investors."
+  2.1. **Catalysts:** [
+      "The dominant macro driver today is hotter-than-expected U.S. inflation via the wholesale and Producer Price Index data, with January PPI rising 0.5% and core PPI up 0.8%, according to the news summaries. This has reduced expectations for near-term Federal Reserve rate cuts and reinforced a "higher for longer" policy path, which is a clear risk-off catalyst for equities. The reaction is visible in broad index declines (S&P 500 -0.43%, Dow 30 -1.05%, Nasdaq Composite -0.92%) and a 6.6% jump in the VIX, as investors reprice the cost of capital and growth-sensitive names come under pressure.",
+      "Geopolitical tensions centered on Iran are another key theme, with reports citing Iran war fears and rising oil prices as contributors to the Dow's sharp drop. WTI crude is up 2.78% today and 8.06% over 30 days, reflecting both geopolitical risk and added inflation pressure, which together weigh on risk assets. These developments push the tape toward risk-off by simultaneously raising input costs and reinforcing inflation concerns, exacerbating equity weakness while supporting commodities such as oil.",
+      "Sectorally, technology and AI-linked stocks are highlighted as underperformers due to worries about AI disruption and elevated spending, even in the face of strong earnings. This aligns with the Nasdaq Composite's 1-day decline of -0.92% and its -3.42% 30-day loss, showing that growth and innovation themes are no longer a straightforward risk-on trade in the current macro backdrop. The combination of inflation shocks, geopolitical uncertainty, and skepticism about AI-related capital intensity has translated into reduced risk exposure across benchmarks and stronger flows into havens like gold, which is up 13.44% over 30 days."
+    ]
   
-  2.2. **Upcoming Triggers:** Concrete market-moving events in the next 24 hours are not specified in the provided data, including any scheduled earnings, economic releases, or policy meetings, so upcoming triggers are unknown.
+  2.2. **Upcoming Triggers:** unknown
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** down 65% – The most likely direction over the next 24 hours is lower, given that all major U.S. equity benchmarks are red on the day (average index change -0.81%), small caps and the Dow are underperforming, and equity futures are also negative (S&P -0.45%, Dow -1.07%, Russell -1.71%). The sharp 6.60% jump in VIX and still-elevated level near 19.86, alongside safe-haven and inflation-hedge strength (gold +1.04%, oil +2.78%), indicate persistent risk-off positioning linked to hotter PPI and geopolitical tensions cited in the news. While lower 10Y yields (-1.37% 1d to 3.96%) offer some support, the dominant near-term impulse appears to be further de-risking rather than immediate stabilization or rebound.
+  3.1. **Next 24h Bias:** down 65% confidence. Broad-based equity weakness today (average index change about -0.81%, with the Dow 30 -1.05% and Russell 2000 -1.68%) alongside a 6.6% spike in the VIX and strong moves in havens like gold (+1.38% today) constitute a clear risk-off pattern. The news flow attributes the selloff to a hotter PPI print and Iran-related tensions that have pushed oil higher, and these catalysts do not appear resolved within the next day based on the provided data. With futures already mirroring the downside (e.g., Dow futures -1.07%, Russell futures -1.71%) and no offsetting positive triggers identified, the balance of evidence favors further pressure rather than a quick reversal.
   
-  3.2. **Watch List:** ["Into the next session, traders should monitor whether the S&P 500 and its futures can stabilize near current levels around 6,878–6,889, as continued pressure there would confirm follow-through on today's de-risking. The VIX near 19.86 is another key gauge; a sustained break higher from the recent 18–20 zone, especially after today's 6.60% jump, would validate a down-bias and argue for maintaining hedges or tighter risk limits. Watching Dow and Russell futures, which are already down around -1.07% and -1.71% respectively, will help gauge whether selling remains concentrated in cyclicals and small caps or broadens further.","Sector-wise, focus should be on technology and AI-related names that led prior rallies but are now under pressure amid concerns about AI disruption and spending, as reflected in the Nasdaq Composite's -0.92% move and QQQ's -0.32% decline. On the macro side, traders should track 10Y yields around 3.96% and price action in gold and oil (gold at 5,230.50, WTI at 67.02), since continued strength in these hedges alongside falling yields would confirm a defensive, risk-off regime consistent with a downward equity bias. Any moderation in oil's recent 2.78% daily surge or stabilization in yields could hint at easing inflation and geopolitical fears, which would be necessary to challenge the current downside tilt.",""]
+  3.2. **Watch List:** [
+      "Traders should watch how S&P 500 levels around the recent cash close of 6,878.88 and S&P futures near 6,889 trade relative to today's lows, as sustained trading below these marks would confirm ongoing downside momentum. Relative performance between large-cap growth (QQQ and Nasdaq futures) and small caps (Russell 2000 and Russell futures) will be important, since small-cap underperformance today (Russell futures -1.71%) signals higher sensitivity to any further tightening in financial conditions or growth worries. Monitoring the VIX around 20 is also key, as another leg higher from 19.86 would likely coincide with additional equity selling.",
+      "On the macro and cross-asset side, focus should remain on 10Y Treasury yields around 3.96% as a gauge of risk aversion versus inflation fears, and on gold and crude oil, which have both been strong. Continued strength in WTI crude above roughly $67, especially after today's 2.78% gain, would reinforce the inflation and geopolitical narrative that has been pressuring stocks. Similarly, further upside in gold from $5,247.90 would signal persistent demand for safety and could accompany additional equity downside, particularly in the more vulnerable indices like the Dow 30 and Russell 2000.",
+      "Given the inflation and geopolitical drivers highlighted, traders should also pay close attention to any incremental headlines tied to U.S. inflation expectations or Iran-related developments, as these have directly impacted today's move according to the news summaries. Within equities, tracking whether the Nasdaq Composite and QQQ can maintain relative resilience versus the Dow and Russell will be important; if tech joins small caps in underperforming, it would confirm a broadening of the risk-off move. Absent any identified positive macro surprises in the next 24 hours, tape action in futures overnight will be a primary signal of whether today's selling is extending or stabilizing."
+    ]
   
   ## 4. QuickRef
   
@@ -51,9 +63,9 @@ raw_markdown: |
   <tr><td>Dow Fut</td><td>1d -1.07% | 7d -1.45% | 30d -0.72% | last 49,000.00</td></tr>
   <tr><td>Russell Fut</td><td>1d -1.71% | 7d -1.06% | 30d -1.18% | last 2,634.70</td></tr>
   <tr><td>10Y Treasury</td><td>1d -1.37% | 7d -2.87% | 30d -4.30% | last 3.96</td></tr>
-  <tr><td>Gold Fut</td><td>1d +1.04% | 7d +4.89% | 30d +13.06% | last 5,230.50</td></tr>
+  <tr><td>Gold Fut</td><td>1d +1.38% | 7d +5.24% | 30d +13.44% | last 5,247.90</td></tr>
   <tr><td>WTI Crude</td><td>1d +2.78% | 7d +2.81% | 30d +8.06% | last 67.02</td></tr>
-  <tr><td>US Dollar</td><td>1d -0.18% | 7d -0.09% | 30d -1.53% | last 97.61</td></tr>
+  <tr><td>US Dollar</td><td>1d -0.15% | 7d -0.06% | 30d -1.50% | last 97.65</td></tr>
   </tbody></table>
   </div>
   
@@ -133,20 +145,20 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=stock+market+catalysts+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=stock+market+catalysts+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;stock market catalysts today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; federal reserve commentary today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commentary+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=federal+reserve+commentary+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;federal reserve commentary today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
@@ -164,11 +176,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -192,12 +203,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Risk tone across equities is negative, with all major U.S. indices lower on the day and average index performance at -0.81%. The Dow 30 is the clear laggard at -1.05% 1d, followed by the Russell 2000 at -1.68% and the Nasdaq Composite at -0.92%, while the S&amp;P 500 is down a milder -0.43%. SPY is off -0.48% and QQQ -0.32%, indicating broad but not panic-level de-risking, consistent with fading risk appetite rather than outright capitulation.&quot;,&quot;Volatility is firming meaningfully: the VIX is up 6.60% on the day and 18.57% over 30 days to 19.86, showing a clear repricing higher of equity r
+  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is clearly risk-off, with all major U.S. indices lower on the day and an average index decline of about -0.81%. The Dow 30 is the weakest large-cap benchmark, down -1.05% on the day and -1.38% over the week, while the Russell 2000 fell -1.68% today, signaling particular stress in small caps. The S&amp;P 500 and Nasdaq Composite are also negative on the day (-0.43% and -0.92%, respectively), and the Nasdaq is down -3.42% over 30 days, pointing to fading risk appetite in growth and tech despite only modest month-on-month slippage in the S&amp;P 500.&quot;,\n    &quot;
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-01T02:14:50.642449+00:00">2026-03-01 02:14 UTC</time> (runtime 28.29s)
+**Generated:** <time class="js-local-time" datetime="2026-03-01T05:52:48.193486+00:00">2026-03-01 05:52 UTC</time> (runtime 31.90s)
 
 ### Latest news (0-3 days)
 
@@ -206,23 +217,35 @@ raw_markdown: |
 
 ## 1. Pulse
 
-["Risk tone across equities is negative, with all major U.S. indices lower on the day and average index performance at -0.81%. The Dow 30 is the clear laggard at -1.05% 1d, followed by the Russell 2000 at -1.68% and the Nasdaq Composite at -0.92%, while the S&P 500 is down a milder -0.43%. SPY is off -0.48% and QQQ -0.32%, indicating broad but not panic-level de-risking, consistent with fading risk appetite rather than outright capitulation.","Volatility is firming meaningfully: the VIX is up 6.60% on the day and 18.57% over 30 days to 19.86, showing a clear repricing higher of equity risk premia. Equity futures mirror the cash tone, with S&P futures down -0.45%, Dow futures -1.07%, Nasdaq futures -0.30%, and Russell futures -1.71% on the day, reinforcing a short-term risk-off bias centered on cyclicals and small caps.","Rates and cross-asset hedges confirm a defensive shift: the 10Y Treasury yield is down 1.37% on the day and 4.30% over 30 days to 3.96%, while classic havens/hedges like gold (+1.04% 1d, +13.06% 30d) and oil (+2.78% 1d, +8.06% 30d) are bid. The U.S. dollar is slightly softer (-0.18% 1d, -1.53% 30d), which, together with falling yields and rising VIX, points to investors rotating toward safety assets and inflation hedges rather than adding equity risk, so overall risk appetite is clearly fading."]
+[
+    "Across equities, the tone is clearly risk-off, with all major U.S. indices lower on the day and an average index decline of about -0.81%. The Dow 30 is the weakest large-cap benchmark, down -1.05% on the day and -1.38% over the week, while the Russell 2000 fell -1.68% today, signaling particular stress in small caps. The S&P 500 and Nasdaq Composite are also negative on the day (-0.43% and -0.92%, respectively), and the Nasdaq is down -3.42% over 30 days, pointing to fading risk appetite in growth and tech despite only modest month-on-month slippage in the S&P 500.",
+    "Volatility and haven assets confirm the defensive tone, with the VIX up 6.6% today and 18.6% over 30 days to 19.86, indicating a sustained rise in hedging demand. At the same time, the 10Y Treasury yield is down 1.37% on the day and 4.30% over 30 days to 3.96%, showing a bid for safety in rates even as equities sell off. Gold futures are up 1.38% today and 13.44% over 30 days, and crude oil has gained 2.78% today and 8.06% over 30 days, underscoring a mix of flight-to-quality and inflation/geopolitical premia, which together suggest risk appetite is deteriorating rather than improving.",
+    "Equity futures mirror the cash weakness, with S&P, Dow, Nasdaq, and Russell futures all down on the day, led by Russell futures at -1.71% and Dow futures at -1.07%. Over the past week, futures show a similar pattern: Dow and Russell contracts are down more than 1%, while Nasdaq futures are only slightly higher (+0.20%), reflecting a relative but fragile resilience in large-cap growth. The combination of broad equity declines, higher implied volatility, lower yields, and strong performance in gold and oil quantifiably points to a risk-off regime with investors rotating toward safety and inflation hedges."
+  ]
 
-1.1. **Market Health:** Market health is weak in the near term: breadth shows 3 assets up versus 12 down, and the average index move of -0.81% in the last day reflects broad-based risk-off pressure. Elevated and rising volatility, with VIX up 6.60% today and nearly 19% over 30 days to just under 20, signals growing stress rather than calm conditions. However, the 10Y Treasury yield has fallen to 3.96% and is down 4.30% over 30 days, suggesting bond markets are providing some cushion via lower discount rates. Taken together, the tape looks fragile but not disorderly, with equity weakness offset to a degree by supportive rates and functioning flight-to-quality dynamics.
+1.1. **Market Health:** Market health is weak on today's read, with breadth showing only 3 instruments up versus 12 down and an average 1-day index move of about -0.81%. All four major U.S. equity benchmarks are negative on the day and either flat to lower over 7 and 30 days, with the Nasdaq Composite down -3.42% over a month and the Russell 2000 down -0.73%. Elevated volatility, with the VIX at 19.86 and up 18.6% over 30 days, signals rising stress rather than calm. While the 10Y yield has fallen to 3.96% and is down 4.3% over 30 days, that drop appears driven more by risk aversion and growth concerns than by a benign backdrop, leaving overall market health fragile.
 
-1.2. **Leadership:** Over the last day, the relative leaders are mega-cap tech proxies, with QQQ down only -0.32% and the Nasdaq futures off -0.30%, and gold futures standing out positively with a +1.04% 1d move. On the downside, small caps and cyclicals are clear laggards, with the Russell 2000 down -1.68% and Russell futures -1.71% on the day, while the Dow 30 is also weak at -1.05% alongside Dow futures at -1.07%. Over the week, QQQ (+0.25% 7d) and Nasdaq futures (+0.20% 7d) modestly outperform, whereas the Dow 30 (-1.38% 7d) and Dow futures (-1.45% 7d) are notable underperformers, indicating leadership remains with growth/tech while traditional cyclicals and small caps lag.
+1.2. **Leadership:** Over the last day, the best relative performer among the major benchmarks is QQQ, down a comparatively mild -0.32%, and Nasdaq futures are also the least negative at -0.30%, suggesting mega-cap tech is a relative leader despite still being under pressure. On the downside, the Russell 2000 is a clear laggard with a -1.68% 1-day move, and Russell futures are down -1.71%, indicating small caps are bearing the brunt of risk reduction. The Dow 30 also stands out negatively with a -1.05% 1-day decline and Dow futures off -1.07%, showing particular weakness in cyclicals and blue chips compared with the broader S&P 500's -0.43%.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** ["The primary macro driver today is a hotter-than-expected U.S. wholesale inflation print, with January PPI rising 0.5% and core PPI 0.8% month-on-month, according to the news summaries. This has lowered expectations for near-term Federal Reserve rate cuts, shifting the policy narrative to "higher for longer" and prompting investors to reduce risk exposure. That backdrop aligns with broad equity declines (S&P 500 -0.43%, Dow 30 -1.05%, Nasdaq -0.92%) and a higher VIX (+6.60% 1d), reinforcing a risk-off tone linked directly to inflation and Fed repricing.","A second key theme is geopolitical risk around U.S.–Iran tensions, which is explicitly tied in the news to a nearly 3% move higher in oil prices, consistent with WTI crude's +2.78% 1d gain. The combination of war fears and higher crude feeds additional inflation concerns, amplifying the pressure on equities while lifting inflation hedges such as gold, which is up 1.04% on the day and 13.06% over 30 days. These forces support a defensive, risk-off allocation pattern, with investors rotating toward commodities and away from equities, particularly cyclicals.","The news also highlights concerns around AI disruption and elevated AI-related spending, which is weighing on technology shares despite strong earnings. This helps explain why the Nasdaq Composite is down -0.92% on the day and QQQ, while relatively resilient, is still off -0.32%. The fact that tech is under pressure alongside broader macro and geopolitical worries contributes to a more comprehensive risk-off environment, as one of the prior leadership areas is now being questioned by investors."
+2.1. **Catalysts:** [
+    "The dominant macro driver today is hotter-than-expected U.S. inflation via the wholesale and Producer Price Index data, with January PPI rising 0.5% and core PPI up 0.8%, according to the news summaries. This has reduced expectations for near-term Federal Reserve rate cuts and reinforced a "higher for longer" policy path, which is a clear risk-off catalyst for equities. The reaction is visible in broad index declines (S&P 500 -0.43%, Dow 30 -1.05%, Nasdaq Composite -0.92%) and a 6.6% jump in the VIX, as investors reprice the cost of capital and growth-sensitive names come under pressure.",
+    "Geopolitical tensions centered on Iran are another key theme, with reports citing Iran war fears and rising oil prices as contributors to the Dow's sharp drop. WTI crude is up 2.78% today and 8.06% over 30 days, reflecting both geopolitical risk and added inflation pressure, which together weigh on risk assets. These developments push the tape toward risk-off by simultaneously raising input costs and reinforcing inflation concerns, exacerbating equity weakness while supporting commodities such as oil.",
+    "Sectorally, technology and AI-linked stocks are highlighted as underperformers due to worries about AI disruption and elevated spending, even in the face of strong earnings. This aligns with the Nasdaq Composite's 1-day decline of -0.92% and its -3.42% 30-day loss, showing that growth and innovation themes are no longer a straightforward risk-on trade in the current macro backdrop. The combination of inflation shocks, geopolitical uncertainty, and skepticism about AI-related capital intensity has translated into reduced risk exposure across benchmarks and stronger flows into havens like gold, which is up 13.44% over 30 days."
+  ]
 
-2.2. **Upcoming Triggers:** Concrete market-moving events in the next 24 hours are not specified in the provided data, including any scheduled earnings, economic releases, or policy meetings, so upcoming triggers are unknown.
+2.2. **Upcoming Triggers:** unknown
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** down 65% – The most likely direction over the next 24 hours is lower, given that all major U.S. equity benchmarks are red on the day (average index change -0.81%), small caps and the Dow are underperforming, and equity futures are also negative (S&P -0.45%, Dow -1.07%, Russell -1.71%). The sharp 6.60% jump in VIX and still-elevated level near 19.86, alongside safe-haven and inflation-hedge strength (gold +1.04%, oil +2.78%), indicate persistent risk-off positioning linked to hotter PPI and geopolitical tensions cited in the news. While lower 10Y yields (-1.37% 1d to 3.96%) offer some support, the dominant near-term impulse appears to be further de-risking rather than immediate stabilization or rebound.
+3.1. **Next 24h Bias:** down 65% confidence. Broad-based equity weakness today (average index change about -0.81%, with the Dow 30 -1.05% and Russell 2000 -1.68%) alongside a 6.6% spike in the VIX and strong moves in havens like gold (+1.38% today) constitute a clear risk-off pattern. The news flow attributes the selloff to a hotter PPI print and Iran-related tensions that have pushed oil higher, and these catalysts do not appear resolved within the next day based on the provided data. With futures already mirroring the downside (e.g., Dow futures -1.07%, Russell futures -1.71%) and no offsetting positive triggers identified, the balance of evidence favors further pressure rather than a quick reversal.
 
-3.2. **Watch List:** ["Into the next session, traders should monitor whether the S&P 500 and its futures can stabilize near current levels around 6,878–6,889, as continued pressure there would confirm follow-through on today's de-risking. The VIX near 19.86 is another key gauge; a sustained break higher from the recent 18–20 zone, especially after today's 6.60% jump, would validate a down-bias and argue for maintaining hedges or tighter risk limits. Watching Dow and Russell futures, which are already down around -1.07% and -1.71% respectively, will help gauge whether selling remains concentrated in cyclicals and small caps or broadens further.","Sector-wise, focus should be on technology and AI-related names that led prior rallies but are now under pressure amid concerns about AI disruption and spending, as reflected in the Nasdaq Composite's -0.92% move and QQQ's -0.32% decline. On the macro side, traders should track 10Y yields around 3.96% and price action in gold and oil (gold at 5,230.50, WTI at 67.02), since continued strength in these hedges alongside falling yields would confirm a defensive, risk-off regime consistent with a downward equity bias. Any moderation in oil's recent 2.78% daily surge or stabilization in yields could hint at easing inflation and geopolitical fears, which would be necessary to challenge the current downside tilt.",""]
+3.2. **Watch List:** [
+    "Traders should watch how S&P 500 levels around the recent cash close of 6,878.88 and S&P futures near 6,889 trade relative to today's lows, as sustained trading below these marks would confirm ongoing downside momentum. Relative performance between large-cap growth (QQQ and Nasdaq futures) and small caps (Russell 2000 and Russell futures) will be important, since small-cap underperformance today (Russell futures -1.71%) signals higher sensitivity to any further tightening in financial conditions or growth worries. Monitoring the VIX around 20 is also key, as another leg higher from 19.86 would likely coincide with additional equity selling.",
+    "On the macro and cross-asset side, focus should remain on 10Y Treasury yields around 3.96% as a gauge of risk aversion versus inflation fears, and on gold and crude oil, which have both been strong. Continued strength in WTI crude above roughly $67, especially after today's 2.78% gain, would reinforce the inflation and geopolitical narrative that has been pressuring stocks. Similarly, further upside in gold from $5,247.90 would signal persistent demand for safety and could accompany additional equity downside, particularly in the more vulnerable indices like the Dow 30 and Russell 2000.",
+    "Given the inflation and geopolitical drivers highlighted, traders should also pay close attention to any incremental headlines tied to U.S. inflation expectations or Iran-related developments, as these have directly impacted today's move according to the news summaries. Within equities, tracking whether the Nasdaq Composite and QQQ can maintain relative resilience versus the Dow and Russell will be important; if tech joins small caps in underperforming, it would confirm a broadening of the risk-off move. Absent any identified positive macro surprises in the next 24 hours, tape action in futures overnight will be a primary signal of whether today's selling is extending or stabilizing."
+  ]
 
 ## 4. QuickRef
 
@@ -242,9 +265,9 @@ raw_markdown: |
 <tr><td>Dow Fut</td><td>1d -1.07% | 7d -1.45% | 30d -0.72% | last 49,000.00</td></tr>
 <tr><td>Russell Fut</td><td>1d -1.71% | 7d -1.06% | 30d -1.18% | last 2,634.70</td></tr>
 <tr><td>10Y Treasury</td><td>1d -1.37% | 7d -2.87% | 30d -4.30% | last 3.96</td></tr>
-<tr><td>Gold Fut</td><td>1d +1.04% | 7d +4.89% | 30d +13.06% | last 5,230.50</td></tr>
+<tr><td>Gold Fut</td><td>1d +1.38% | 7d +5.24% | 30d +13.44% | last 5,247.90</td></tr>
 <tr><td>WTI Crude</td><td>1d +2.78% | 7d +2.81% | 30d +8.06% | last 67.02</td></tr>
-<tr><td>US Dollar</td><td>1d -0.18% | 7d -0.09% | 30d -1.53% | last 97.61</td></tr>
+<tr><td>US Dollar</td><td>1d -0.15% | 7d -0.06% | 30d -1.50% | last 97.65</td></tr>
 </tbody></table>
 </div>
 
@@ -324,20 +347,20 @@ Guardian search failed for &#x27;what is driving S&amp;P 500 today&#x27;: 401 Cl
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+catalysts+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=stock+market+catalysts+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;stock market catalysts today&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=stock+market+catalysts+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;stock market catalysts today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; federal reserve commentary today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=federal+reserve+commentary+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=federal+reserve+commentary+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;federal reserve commentary today&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;federal reserve commentary today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
@@ -355,11 +378,10 @@ Guardian search failed for &#x27;investors focus today stock market&#x27;: 401 C
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -383,6 +405,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;1.0&quot;:[&quot;Risk tone across equities is negative, with all major U.S. indices lower on the day and average index performance at -0.81%. The Dow 30 is the clear laggard at -1.05% 1d, followed by the Russell 2000 at -1.68% and the Nasdaq Composite at -0.92%, while the S&amp;P 500 is down a milder -0.43%. SPY is off -0.48% and QQQ -0.32%, indicating broad but not panic-level de-risking, consistent with fading risk appetite rather than outright capitulation.&quot;,&quot;Volatility is firming meaningfully: the VIX is up 6.60% on the day and 18.57% over 30 days to 19.86, showing a clear repricing higher of equity r
+LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is clearly risk-off, with all major U.S. indices lower on the day and an average index decline of about -0.81%. The Dow 30 is the weakest large-cap benchmark, down -1.05% on the day and -1.38% over the week, while the Russell 2000 fell -1.68% today, signaling particular stress in small caps. The S&amp;P 500 and Nasdaq Composite are also negative on the day (-0.43% and -0.92%, respectively), and the Nasdaq is down -3.42% over 30 days, pointing to fading risk appetite in growth and tech despite only modest month-on-month slippage in the S&amp;P 500.&quot;,\n    &quot;
 </code></pre>
 </details>
