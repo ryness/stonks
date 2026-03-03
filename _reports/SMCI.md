@@ -2,11 +2,11 @@
 layout: default
 title: "SMCI Stock Report"
 ticker: "SMCI"
-date: 2026-02-25
-generated_at: 2026-02-25T20:36:25.154386+00:00
-runtime_seconds: 42.56
+date: 2026-03-03
+generated_at: 2026-03-03T05:50:49.084242+00:00
+runtime_seconds: 71.79
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-25T20:36:25.154386+00:00">2026-02-25 20:36 UTC</time> (runtime 42.56s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-03T05:50:49.084242+00:00">2026-03-03 05:50 UTC</time> (runtime 1m 12s)
   
   ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
   
@@ -54,23 +54,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.
+  0.1. **Long Entry?:** maybe — the stock is in a 7d downtrend and trading near multi-month and 30d support around $31.03 after a ~46% drop from its 52-week high, suggesting a potential buy-the-dip zone; AI-related macro froth remains elevated but recent rotation out of premium AI names into more selective plays plus price sitting just above support and below the 20-day moving average (~$35.49) argue for cautious, staged entries rather than an aggressive add.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack solutions, networking devices, and server sub-systems. It focuses on turn-key, modular, open-standard architectures optimized for AI datacenters, cloud computing, high-performance computing, and IoT/embedded markets. The company operates through a single segment providing integrated high-performance server solutions from design through installation.
+  1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server subsystems, and management software. These turnkey systems are architected, validated, and installed for AI datacenters using a modular, open-standard architecture under a single operating segment.
   
-  1.2. **Profitable?:** yes — net income has been positive for the last four reported periods totaling $872.78M with a 3.1% profit margin and positive free cash flow, indicating current profitability despite margin pressure concerns in recent commentary.
+  1.2. **Profitable?:** yes — the company is profitable, with positive net income totaling $872.78M over recent periods, a profit margin of 3.1%, and positive free cash flow of about $103M.
   
-  1.3. **Customer & Markets:** Super Micro primarily serves cloud providers, hyperscale and enterprise data centers, AI datacenters, and high-performance computing customers, along with IoT and embedded system clients. More than half of its revenue comes from the United States, with additional sales in Europe, Asia, and other international regions, positioning it as a global infrastructure supplier to AI and cloud build-outs.
+  1.3. **Customer & Markets:** Super Micro primarily serves enterprise and hyperscale customers building cloud infrastructure, AI data centers, and high-performance computing environments, as well as customers deploying IoT and embedded systems. More than half of its revenue comes from the United States, with the remainder generated across Europe, Asia, and other international regions, reflecting a globally diversified customer base in data center and cloud markets.
   
-  1.4. **Competition:** Key competitors and peers include major compute and infrastructure players such as Dell, HPE, Nvidia, AMD, Intel, Arista Networks, and large cloud/AI platform companies like Microsoft, Google, and Meta; within this group it is positioned as a specialist AI server and infrastructure vendor rather than a dominant mega-cap platform.
+  1.4. **Competition:** Key competitors and related players include Nvidia, AMD, Arista Networks, Dell, Intel, HPE, Palantir, Alphabet (Google), Meta, and Microsoft, which participate across AI accelerators, servers, networking, and cloud platforms; within this landscape, SMCI is positioned as a leading AI server and infrastructure provider but specific market share rankings are not provided.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' with price sliding from a recent local high near $35.82 toward support around $31.03.
+  2.1. **7d Trend?:** down — the 7d trend is labeled 'down' with price sliding from recent local highs near $35.8 toward support around $31.03.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around $31.03 were the most attractive buy levels given repeated tests of that floor. Rebounds toward the 7-day resistance and recent local high near $35.78–$35.82 offered better short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** In the past week, entries near the identified support around $31.03 appear to have offered attractive buy points, while the local high and resistance area around $35.78–$35.82 marked good short-term sell or trim levels. The current close at $32.19 leaves limited upside to the 7d resistance versus downside back to support.
   
   2.3.1. **7d Volume:** med
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Super Micro is a long-established technology hardware company with a global customer base in data centers, AI, and cloud infrastructure rather than a nascent startup. It generates substantial revenue (with 123% growth recently cited) and has produced cumulative net income of about $873M alongside positive operating and free cash flow, supporting balance-sheet resilience. The firm secured a $2 billion credit facility and expanded manufacturing capacity for NVIDIA's Vera Rubin AI platforms, which helps address prior liquidity and governance concerns. However, articles note margin compression (down to 9.3% and expected toward 6.5%) and sensitivity to cyclical hardware demand, so while it is not fly-by-night, investors should recognize its exposure to industry cycles and competitive pricing pressure.
+  3.1. **Stability?:** Super Micro is a long-established technology company with a global customer base and one consolidated operating segment focused on high-performance server solutions, indicating it is not a fly-by-night operation. Financially, it generates consistent positive net income totaling $872.78M over recent periods and maintains positive operating and free cash flow, though its profit margin is relatively thin at 3.1% and analysts highlight margin compression risks. The firm recently secured a $2 billion credit facility to address prior liquidity concerns and expand manufacturing capacity for NVIDIA Vera Rubin AI platforms, which supports balance sheet flexibility. Nonetheless, news flow notes governance and liquidity crises it had to resolve and ongoing concerns about declining margins, so while it is operationally stable and deeply embedded in AI infrastructure, its financial stability is somewhat constrained by aggressive growth and pricing strategies.
   
-  3.2. **Innovating?:** Super Micro is clearly innovating and growing, with rapid revenue expansion (123% sales growth, expected 64% FY2026 growth tied to NVIDIA Blackwell servers) and new higher-margin product lines like DCBBS and Vera Rubin AI server platforms. At the same time, its aggressive 'land grab' strategy and compressed margins show it is prioritizing scale and market share over near-term profit maximization rather than stagnating.
+  3.2. **Innovating?:** Super Micro is clearly innovating and growing, with 123% sales growth, a new DCBBS product line targeting higher margins, and expanded manufacturing capacity for NVIDIA Vera Rubin AI platforms. However, this aggressive growth and 'land grab' strategy has come with profit margin compression and analyst concern over earnings quality, indicating growth is strong but profitability is under pressure.
   
   ## 4. Context
   
-  4.1. **News:** Recent coverage frames Super Micro as a high-growth AI server infrastructure play that has nonetheless fallen about 46% from its 52-week high amid concerns over margin compression and cyclical hardware demand. Earnings were strong, with Q2 revenue and EPS beating expectations and guidance raised, sparking double-digit percentage pops and talk of potential short squeezes given 17–18% short interest and a key $35 resistance level. Other articles emphasize that the broader AI trade is entering a more selective phase, with SMCI increasingly viewed as a cyclical supplier rather than a pure AI secular winner, which has driven rotation even as AI demand accelerates. The "Rubin rally" narrative around expanded capacity for NVIDIA's Vera Rubin platforms and expected doubling of quarterly revenue shows how optimism and strong news have already produced sharp rebounds, so chasing post-earnings spikes may risk buying into "sell the news" moves despite quick_facts currently flagging 'no' for both buy-the-rumor and sell-the-news.
+  4.1. **News:** Recent news frames SMCI as a key second-order AI infrastructure beneficiary, with 123% revenue growth and strong Q2 results (revenue $12.68B vs. $10.22B expected and EPS $0.69 vs. $0.49 expected) that drove post-earnings rallies and short-squeeze speculation around the $35 resistance level. At the same time, several analysts (e.g., Goldman Sachs, Mizuho, Barclays) have turned more cautious, citing margin compression toward 6.5–9.3%, cyclical hardware exposure, and governance/liquidity history, even as they acknowledge robust AI server demand and potential recovery via higher-margin product lines. The broader AI theme remains strong, with TSMC's raised CapEx and Nvidia's anticipated guidance seen as confirming AI demand, but investors are becoming more selective and treating SMCI less like a pure structural AI winner and more like a cyclical supplier. In a buy-the-rumor, sell-the-news context, SMCI's spikes on blockbuster earnings and AI demand news have often been followed by sharp pullbacks and downgrades, suggesting that chasing good news has been risky while contrarian entries after tariff scares or analyst downgrades have attracted interest. Overall, sentiment is mixed: strong growth and AI tailwinds versus valuation, margin, and cyclical concerns, which makes disciplined entry and exit timing around news especially important.
   
-  4.2. **Tarrifs:** Tariff-related headlines have recently pressured SMCI as "reignited tariff fears" weighed on the stock, but options flow and commentary describe this as creating a contrarian bullish setup rather than a clear long-term fundamental impairment. Overall, tariffs have introduced bouts of negative sentiment and volatility rather than a well-quantified, lasting hit to earnings in the supplied data.
+  4.2. **Tarrifs:** Tariff-related fears have weighed on SMCI at times, with reports of the stock getting caught in renewed tariff anxieties, but options market activity suggests some investors are using such pullbacks as contrarian bullish opportunities rather than viewing tariffs as a structurally damaging headwind.
   
   ## 5. QuickRef
   
@@ -117,7 +117,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -170,20 +170,18 @@ raw_markdown: |
   Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=2&amp;start=11
-  Google Custom Search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; SMCI earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;SMCI earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 6 result(s)
+      newsapi: 7 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -194,7 +192,7 @@ raw_markdown: |
   Guardian search failed for &#x27;SMCI analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+analyst+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;SMCI analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -205,7 +203,6 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 1 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -230,6 +227,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 1 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -242,6 +240,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 0 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -303,11 +302,10 @@ raw_markdown: |
     newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 6 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=10&amp;start=1
@@ -325,12 +323,11 @@ raw_markdown: |
   Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -356,12 +353,11 @@ raw_markdown: |
   Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 8 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 9 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -387,12 +383,11 @@ raw_markdown: |
   Google Custom Search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 2 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -413,7 +408,7 @@ raw_markdown: |
     newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: cached 2 result(s)
+      newsapi: cached 3 result(s)
       gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -430,11 +425,10 @@ raw_markdown: |
     newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMCI tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 4 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 5 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=10&amp;start=1
@@ -465,12 +459,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack so
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 7d downtrend and trading near multi-month and 30d support around $31.03 after a ~46% drop from its 52-week high, suggesting a potential buy-the-dip zone; AI-related macro froth remains elevated but recent rotation out of premium AI names into more selective plays plus price sitting just above support and below the 20-day moving average (~$35.49) argue for cautious, staged entries rather than an aggressive add.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage solutions for cloud computing, data centers, high-per
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-25T20:36:25.154386+00:00">2026-02-25 20:36 UTC</time> (runtime 42.56s)
+**Generated:** <time class="js-local-time" datetime="2026-03-03T05:50:49.084242+00:00">2026-03-03 05:50 UTC</time> (runtime 1m 12s)
 
 ![Super Micro Computer, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/SMCI.svg)
 
@@ -518,23 +512,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.
+0.1. **Long Entry?:** maybe — the stock is in a 7d downtrend and trading near multi-month and 30d support around $31.03 after a ~46% drop from its 52-week high, suggesting a potential buy-the-dip zone; AI-related macro froth remains elevated but recent rotation out of premium AI names into more selective plays plus price sitting just above support and below the 20-day moving average (~$35.49) argue for cautious, staged entries rather than an aggressive add.
 
 ## 1. The Biz
 
-1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack solutions, networking devices, and server sub-systems. It focuses on turn-key, modular, open-standard architectures optimized for AI datacenters, cloud computing, high-performance computing, and IoT/embedded markets. The company operates through a single segment providing integrated high-performance server solutions from design through installation.
+1.1. **Activities:** Super Micro Computer, Inc. designs and manufactures high-performance server and storage solutions for cloud computing, data centers, high-performance computing, and IoT/embedded markets. Its portfolio includes servers, storage systems, modular blade servers, workstations, full rack-scale solutions, networking devices, server subsystems, and management software. These turnkey systems are architected, validated, and installed for AI datacenters using a modular, open-standard architecture under a single operating segment.
 
-1.2. **Profitable?:** yes — net income has been positive for the last four reported periods totaling $872.78M with a 3.1% profit margin and positive free cash flow, indicating current profitability despite margin pressure concerns in recent commentary.
+1.2. **Profitable?:** yes — the company is profitable, with positive net income totaling $872.78M over recent periods, a profit margin of 3.1%, and positive free cash flow of about $103M.
 
-1.3. **Customer & Markets:** Super Micro primarily serves cloud providers, hyperscale and enterprise data centers, AI datacenters, and high-performance computing customers, along with IoT and embedded system clients. More than half of its revenue comes from the United States, with additional sales in Europe, Asia, and other international regions, positioning it as a global infrastructure supplier to AI and cloud build-outs.
+1.3. **Customer & Markets:** Super Micro primarily serves enterprise and hyperscale customers building cloud infrastructure, AI data centers, and high-performance computing environments, as well as customers deploying IoT and embedded systems. More than half of its revenue comes from the United States, with the remainder generated across Europe, Asia, and other international regions, reflecting a globally diversified customer base in data center and cloud markets.
 
-1.4. **Competition:** Key competitors and peers include major compute and infrastructure players such as Dell, HPE, Nvidia, AMD, Intel, Arista Networks, and large cloud/AI platform companies like Microsoft, Google, and Meta; within this group it is positioned as a specialist AI server and infrastructure vendor rather than a dominant mega-cap platform.
+1.4. **Competition:** Key competitors and related players include Nvidia, AMD, Arista Networks, Dell, Intel, HPE, Palantir, Alphabet (Google), Meta, and Microsoft, which participate across AI accelerators, servers, networking, and cloud platforms; within this landscape, SMCI is positioned as a leading AI server and infrastructure provider but specific market share rankings are not provided.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' with price sliding from a recent local high near $35.82 toward support around $31.03.
+2.1. **7d Trend?:** down — the 7d trend is labeled 'down' with price sliding from recent local highs near $35.8 toward support around $31.03.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support around $31.03 were the most attractive buy levels given repeated tests of that floor. Rebounds toward the 7-day resistance and recent local high near $35.78–$35.82 offered better short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** In the past week, entries near the identified support around $31.03 appear to have offered attractive buy points, while the local high and resistance area around $35.78–$35.82 marked good short-term sell or trim levels. The current close at $32.19 leaves limited upside to the 7d resistance versus downside back to support.
 
 2.3.1. **7d Volume:** med
 
@@ -542,15 +536,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Super Micro is a long-established technology hardware company with a global customer base in data centers, AI, and cloud infrastructure rather than a nascent startup. It generates substantial revenue (with 123% growth recently cited) and has produced cumulative net income of about $873M alongside positive operating and free cash flow, supporting balance-sheet resilience. The firm secured a $2 billion credit facility and expanded manufacturing capacity for NVIDIA's Vera Rubin AI platforms, which helps address prior liquidity and governance concerns. However, articles note margin compression (down to 9.3% and expected toward 6.5%) and sensitivity to cyclical hardware demand, so while it is not fly-by-night, investors should recognize its exposure to industry cycles and competitive pricing pressure.
+3.1. **Stability?:** Super Micro is a long-established technology company with a global customer base and one consolidated operating segment focused on high-performance server solutions, indicating it is not a fly-by-night operation. Financially, it generates consistent positive net income totaling $872.78M over recent periods and maintains positive operating and free cash flow, though its profit margin is relatively thin at 3.1% and analysts highlight margin compression risks. The firm recently secured a $2 billion credit facility to address prior liquidity concerns and expand manufacturing capacity for NVIDIA Vera Rubin AI platforms, which supports balance sheet flexibility. Nonetheless, news flow notes governance and liquidity crises it had to resolve and ongoing concerns about declining margins, so while it is operationally stable and deeply embedded in AI infrastructure, its financial stability is somewhat constrained by aggressive growth and pricing strategies.
 
-3.2. **Innovating?:** Super Micro is clearly innovating and growing, with rapid revenue expansion (123% sales growth, expected 64% FY2026 growth tied to NVIDIA Blackwell servers) and new higher-margin product lines like DCBBS and Vera Rubin AI server platforms. At the same time, its aggressive 'land grab' strategy and compressed margins show it is prioritizing scale and market share over near-term profit maximization rather than stagnating.
+3.2. **Innovating?:** Super Micro is clearly innovating and growing, with 123% sales growth, a new DCBBS product line targeting higher margins, and expanded manufacturing capacity for NVIDIA Vera Rubin AI platforms. However, this aggressive growth and 'land grab' strategy has come with profit margin compression and analyst concern over earnings quality, indicating growth is strong but profitability is under pressure.
 
 ## 4. Context
 
-4.1. **News:** Recent coverage frames Super Micro as a high-growth AI server infrastructure play that has nonetheless fallen about 46% from its 52-week high amid concerns over margin compression and cyclical hardware demand. Earnings were strong, with Q2 revenue and EPS beating expectations and guidance raised, sparking double-digit percentage pops and talk of potential short squeezes given 17–18% short interest and a key $35 resistance level. Other articles emphasize that the broader AI trade is entering a more selective phase, with SMCI increasingly viewed as a cyclical supplier rather than a pure AI secular winner, which has driven rotation even as AI demand accelerates. The "Rubin rally" narrative around expanded capacity for NVIDIA's Vera Rubin platforms and expected doubling of quarterly revenue shows how optimism and strong news have already produced sharp rebounds, so chasing post-earnings spikes may risk buying into "sell the news" moves despite quick_facts currently flagging 'no' for both buy-the-rumor and sell-the-news.
+4.1. **News:** Recent news frames SMCI as a key second-order AI infrastructure beneficiary, with 123% revenue growth and strong Q2 results (revenue $12.68B vs. $10.22B expected and EPS $0.69 vs. $0.49 expected) that drove post-earnings rallies and short-squeeze speculation around the $35 resistance level. At the same time, several analysts (e.g., Goldman Sachs, Mizuho, Barclays) have turned more cautious, citing margin compression toward 6.5–9.3%, cyclical hardware exposure, and governance/liquidity history, even as they acknowledge robust AI server demand and potential recovery via higher-margin product lines. The broader AI theme remains strong, with TSMC's raised CapEx and Nvidia's anticipated guidance seen as confirming AI demand, but investors are becoming more selective and treating SMCI less like a pure structural AI winner and more like a cyclical supplier. In a buy-the-rumor, sell-the-news context, SMCI's spikes on blockbuster earnings and AI demand news have often been followed by sharp pullbacks and downgrades, suggesting that chasing good news has been risky while contrarian entries after tariff scares or analyst downgrades have attracted interest. Overall, sentiment is mixed: strong growth and AI tailwinds versus valuation, margin, and cyclical concerns, which makes disciplined entry and exit timing around news especially important.
 
-4.2. **Tarrifs:** Tariff-related headlines have recently pressured SMCI as "reignited tariff fears" weighed on the stock, but options flow and commentary describe this as creating a contrarian bullish setup rather than a clear long-term fundamental impairment. Overall, tariffs have introduced bouts of negative sentiment and volatility rather than a well-quantified, lasting hit to earnings in the supplied data.
+4.2. **Tarrifs:** Tariff-related fears have weighed on SMCI at times, with reports of the stock getting caught in renewed tariff anxieties, but options market activity suggests some investors are using such pullbacks as contrarian bullish opportunities rather than viewing tariffs as a structurally damaging headwind.
 
 ## 5. QuickRef
 
@@ -581,7 +575,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (13 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, market share, tariffs news, business model, profit outlook, market expansion, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -634,20 +628,18 @@ Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&
 Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+latest+news&amp;num=2&amp;start=11
-Google Custom Search failed for &#x27;SMCI latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; SMCI earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+earnings+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;SMCI earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 6 result(s)
+    newsapi: 7 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -658,7 +650,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=SMCI+analyst+news
 Guardian search failed for &#x27;SMCI analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+analyst+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;SMCI analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -669,7 +661,6 @@ GNews search failed for &#x27;Super Micro Computer, Inc. Common Stock latest new
 Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+Inc.+Common+Stock+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;Super Micro Computer, Inc. Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 1 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -694,6 +685,7 @@ GNews search failed for &#x27;Super Micro Computer, . Common Stock latest news&#
 Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 1 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -706,6 +698,7 @@ GNews search failed for &#x27;Super Micro Computer, . Common Stock earnings news
 Guardian search: GET https://content.guardianapis.com/search?q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Super+Micro+Computer%2C+.+Common+Stock+earnings+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;Super Micro Computer, . Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 0 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -767,11 +760,10 @@ Guardian search failed for &#x27;SMCI earnings trend&#x27;: 401 Client Error: Un
   newsapi search -&gt; SMCI profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 6 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+target+customers&amp;num=10&amp;start=1
@@ -789,12 +781,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -820,12 +811,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 8 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 9 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -851,12 +841,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 2 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMCI rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -877,7 +866,7 @@ Guardian search failed for &#x27;SMCI tariff&#x27;: 401 Client Error: Unauthoriz
   newsapi search -&gt; SMCI latest news (priority: newsapi, gnews, guardian)
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: cached 2 result(s)
+    newsapi: cached 3 result(s)
     gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -894,11 +883,10 @@ Guardian search failed for &#x27;SMCI latest rumor&#x27;: 401 Client Error: Unau
   newsapi search -&gt; SMCI tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMCI+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=SMCI+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SMCI tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SMCI+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMCI tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 4 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 5 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMCI tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMCI+tariff+impact&amp;num=10&amp;start=1
@@ -929,6 +917,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 3-month near-bottom zone and ~46% off its 52-week high with price sitting just above strong support at ~$31.03; macro AI remains popular but articles highlight investors getting more selective rather than outright frothy, and shares now trade below the 20-day average (~35.49) and near the 20-day SMA (~30.94), suggesting a better entry after confirmation that the current downtrend has stabilized.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage systems, including modular blade servers, workstations, full-rack so
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 7d downtrend and trading near multi-month and 30d support around $31.03 after a ~46% drop from its 52-week high, suggesting a potential buy-the-dip zone; AI-related macro froth remains elevated but recent rotation out of premium AI names into more selective plays plus price sitting just above support and below the 20-day moving average (~$35.49) argue for cautious, staged entries rather than an aggressive add.&quot;, &quot;1.1&quot;: &quot;Super Micro Computer, Inc. designs and manufactures high-performance server and storage solutions for cloud computing, data centers, high-per
 </code></pre>
 </details>
