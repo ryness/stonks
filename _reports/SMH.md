@@ -2,11 +2,11 @@
 layout: default
 title: "SMH Stock Report"
 ticker: "SMH"
-date: 2026-02-26
-generated_at: 2026-02-26T02:03:13.474047+00:00
-runtime_seconds: 51.19
+date: 2026-03-03
+generated_at: 2026-03-03T10:39:38.797779+00:00
+runtime_seconds: 61.83
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-02-26T02:03:13.474047+00:00">2026-02-26 02:03 UTC</time> (runtime 51.19s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-03T10:39:38.797779+00:00">2026-03-03 10:39 UTC</time> (runtime 1m 2s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -52,23 +52,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is near 1-year/5-year highs with the 1yr/3mo both labeled 'near-peak', but currently pulling back in a 7d downtrend toward short-term support around 401.83 and the 20-day average near 401; macro froth visibility is limited to sector AI enthusiasm (e.g., AMAT's AI windfall) and mixed signals about a potential semiconductor momentum slowdown.
+  0.1. **Long Entry?:** maybe — SMH is trading near 1-year/5-year highs ('near-peak') after a strong multi-year run, which raises some bubble-risk concerns but with limited explicit macro froth data; price is in a short-term downtrend yet holding just above 7d support and the 20-day average (~$401–402) and slightly above its SMA/EMA (~$392–394), making adds near support more reasonable than chasing toward $420 resistance.
   
   ## 1. The Biz
   
-  1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies. It invests at least 80% of total assets in common stocks and depositary receipts of firms in the semiconductor industry, including mid-cap and foreign names. The fund is non-diversified, so its holdings are concentrated within the semiconductor space.
+  1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies, investing at least 80% of total assets in the index constituents. Its portfolio holds common stocks and depositary receipts of large and medium-cap chip designers, manufacturers, and equipment makers, including foreign firms listed in the U.S. The fund is non-diversified, meaning a relatively concentrated set of holdings drives its performance.
   
-  1.2. **Profitable?:** unknown
+  1.2. **Profitable?:** yes — as an ETF, SMH holds a basket of underlying semiconductor companies that are generally profitable, and the fund itself does not operate an unprofitable business model or show operating losses in the provided data.
   
-  1.3. **Customer & Markets:** The ETF's primary customers are investors seeking exposure to the semiconductor industry through a single, tradable fund rather than buying individual chip stocks. Its underlying holdings are semiconductor companies listed on U.S. exchanges, including both domestic and foreign issuers, providing broad industry exposure tied to global semiconductor demand and AI-related hardware trends highlighted in recent sector news.
+  1.3. **Customer & Markets:** SMH's primary customers are investors seeking equity exposure to the semiconductor industry through a single, liquid ETF vehicle. It targets global markets via U.S.-listed semiconductor stocks, giving exposure to developed-market chip leaders (e.g., U.S. and Taiwan-based firms) across end-markets like AI, data centers, autos, and consumer electronics.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** SMH's main competitors are other semiconductor-focused ETFs such as iShares Semiconductor ETF (SOXX) and First Trust Nasdaq Semiconductor ETF (FTXL), which track similar segments of the global semiconductor industry. It ranks as one of the largest, highly traded semiconductor ETFs, with concentrated exposure where its top holdings account for a significant share of assets.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the quick facts flag a 7d downtrend and the price has retreated from a recent local high/resistance around 420.04 toward support near 401.83.
+  2.1. **7d Trend?:** down — over the last week SMH has been labeled in a 'down' trend, pulling back from around the $420 area toward the low $400s while staying above nearby support.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, dips toward the suggested buy zone and support around 397–401.83 looked like better buy points, while tests of resistance and the local high near 420.04 offered favorable areas to trim or sell.
+  2.2. **7d Buy/Sell Points?:** In the last 7 days, dips toward the suggested buy zone and 7d support around $397–402 offered better entry points. Strength into the local high and 7d resistance near $420 was a favorable area to trim or take profits.
   
   2.3.1. **7d Volume:** med
   
@@ -76,15 +76,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SMH is a long-standing, rules-based ETF tracking a semiconductor index rather than a fly-by-night operating company. It holds a diversified basket of U.S.-listed semiconductor and related depositary receipts, though it is technically non-diversified and thus sector-concentrated. The 5-year price chart shows a substantial rise from a 5-year low of about $84.45 to recent levels above $400, reflecting both durability and cyclicality tied to the chip cycle. As an ETF, its balance sheet risk is mainly the underlying holdings and sector volatility, not corporate solvency in the traditional sense.
+  3.1. **Stability?:** SMH is a long-standing, large ETF structure backed by VanEck, holding established semiconductor companies like Nvidia, Taiwan Semiconductor, and other blue-chip chipmakers rather than speculative microcaps. It tracks a broad, liquid index with market-cap weighting and has substantial assets and trading volume, which supports liquidity and lowers risk of closure relative to tiny niche funds. The underlying semiconductor industry is cyclical but benefits from structural demand drivers in AI, data centers, and autos, and SMH's diversified basket helps mitigate single-company blowups. Overall, this makes SMH a relatively stable way to gain exposure to a volatile but strategically important sector.
   
-  3.2. **Innovating?:** The ETF itself is not an operating business, but its portfolio is levered to an innovating and growing semiconductor ecosystem, as evidenced by news of accelerating AI chip and equipment demand (e.g., Applied Materials' strong AI-driven guidance).
+  3.2. **Innovating?:** SMH is structurally tied to an industry that is clearly innovating and growing, as highlighted by accelerating AI chip and semiconductor equipment demand and strong results from key holdings such as Applied Materials. Sector-wide capex and AI-related growth drivers indicate that the ETF's constituents are on the leading edge of technology rather than being stale.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines emphasize strong AI-driven demand for semiconductors and equipment, with Applied Materials guiding for 20%+ revenue growth, which supports the bullish thesis behind semiconductor ETFs like SMH. Other commentary notes that semiconductors and energy have outperformed while software has slumped, reinforcing a sector rotation into chips. At the same time, prior analysis warned that semiconductor momentum could stall, highlighting the risk of consolidation after strong gains. The quick facts suggest "sell the news" rather than "buy the rumor," implying that positive AI and sector headlines may already be priced in and could precede pullbacks rather than fresh breakouts.
+  4.1. **News:** Recent news emphasizes strong AI-driven semiconductor demand, with Applied Materials guiding to 20%+ equipment revenue growth and semiconductors outperforming while software slumps. Macro headlines about Taiwan surpassing China as a key U.S. supplier, aided by AI hardware demand and tariff exemptions on chips, underscore the sector's strategic importance. At the same time, some commentary flags that semiconductor momentum could stall or consolidate after a powerful run, and that SMH is trading on high earnings assumptions with concentrated AI exposure. For a 'buy the rumor, sell the news' lens, much good AI and reshoring news appears already priced in, so positive headlines may now provoke choppy reactions or profit-taking rather than straight-line gains.
   
-  4.2. **Tarrifs:** Tariff effects are mixed: one article notes Trump's tariffs exempt computer equipment and chips, helping Taiwan become a key AI hardware supplier to the U.S., which indirectly supports semiconductor demand; however, separate discussion of potential tech export crackdowns on China highlights ongoing geopolitical and trade-policy risks for the broader tech and chip complex.
+  4.2. **Tarrifs:** Tariffs have introduced volatility but have not structurally impaired SMH; Trump-era tariffs have often exempted key AI-related computer equipment and chips, sometimes causing sharp dips in SMH on negative headlines followed by rebounds as investors reassessed that semiconductors remained relatively protected. Analyses note that while tariff scares can drive short-term drawdowns (SMH was down materially year-to-date at one tariff panic), semiconductor ETFs like SMH have also surged on favorable tariff news (e.g., exemptions and pro-tech moves), making tariffs a source of trading swings rather than a clear long-term drag in the supplied data.
   
   ## 5. QuickRef
   
@@ -115,7 +115,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>NewsAPI: core business, target customers, market share, rumors</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -162,254 +162,278 @@ raw_markdown: |
   Filtered 13 headline(s) from banned sources.
   Latest news fallback search -&gt; SMH latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+news&amp;num=2&amp;start=11
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; SMH earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+news&amp;num=2&amp;start=11
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; SMH analyst news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+analyst+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+analyst+news&amp;num=2&amp;start=11
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; VanEck Semiconductor ETF latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VanEck+Semiconductor+ETF+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=VanEck+Semiconductor+ETF+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=VanEck+Semiconductor+ETF+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+latest+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+latest+news&amp;num=2&amp;start=11
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; VanEck Semiconductor ETF earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=VanEck+Semiconductor+ETF+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=VanEck+Semiconductor+ETF+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=VanEck+Semiconductor+ETF+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+earnings+news&amp;num=2&amp;start=11
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Running supplementary searches...
     google_custom_search search -&gt; SMH core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+product+portfolio&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+product+portfolio&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+profitability&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+profitability&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+trend&amp;num=2&amp;start=11
-  Google Custom Search failed for &#x27;SMH earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+segments&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+segments&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+share&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+share&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 1 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariffs+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariffs+news&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH latest news (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: cached 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=2&amp;start=11
-  Google Custom Search failed for &#x27;SMH latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; SMH tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; SMH tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SMH tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;SMH tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SMH tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
@@ -430,12 +454,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year/5-year highs with the 1yr/3mo both labeled &#x27;near-peak&#x27;, but currently pulling back in a 7d downtrend toward short-term support around 401.83 and the 20-day average near 401; macro froth visibility is limited to sector AI enthusiasm (e.g., AMAT’s AI windfall) and mixed signals about a potential semiconductor momentum slowdown.&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies. It invests at least 80% of total assets in common stocks and depositary receipts o
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — SMH is trading near 1-year/5-year highs (&#x27;near-peak&#x27;) after a strong multi-year run, which raises some bubble-risk concerns but with limited explicit macro froth data; price is in a short-term downtrend yet holding just above 7d support and the 20-day average (~$401–402) and slightly above its SMA/EMA (~$392–394), making adds near support more reasonable than chasing toward $420 resistance.&quot;, &quot;1.1&quot;: &quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies, investing at least 80% of total as
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-02-26T02:03:13.474047+00:00">2026-02-26 02:03 UTC</time> (runtime 51.19s)
+**Generated:** <time class="js-local-time" datetime="2026-03-03T10:39:38.797779+00:00">2026-03-03 10:39 UTC</time> (runtime 1m 2s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -481,23 +505,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is near 1-year/5-year highs with the 1yr/3mo both labeled 'near-peak', but currently pulling back in a 7d downtrend toward short-term support around 401.83 and the 20-day average near 401; macro froth visibility is limited to sector AI enthusiasm (e.g., AMAT's AI windfall) and mixed signals about a potential semiconductor momentum slowdown.
+0.1. **Long Entry?:** maybe — SMH is trading near 1-year/5-year highs ('near-peak') after a strong multi-year run, which raises some bubble-risk concerns but with limited explicit macro froth data; price is in a short-term downtrend yet holding just above 7d support and the 20-day average (~$401–402) and slightly above its SMA/EMA (~$392–394), making adds near support more reasonable than chasing toward $420 resistance.
 
 ## 1. The Biz
 
-1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies. It invests at least 80% of total assets in common stocks and depositary receipts of firms in the semiconductor industry, including mid-cap and foreign names. The fund is non-diversified, so its holdings are concentrated within the semiconductor space.
+1.1. **Activities:** VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies, investing at least 80% of total assets in the index constituents. Its portfolio holds common stocks and depositary receipts of large and medium-cap chip designers, manufacturers, and equipment makers, including foreign firms listed in the U.S. The fund is non-diversified, meaning a relatively concentrated set of holdings drives its performance.
 
-1.2. **Profitable?:** unknown
+1.2. **Profitable?:** yes — as an ETF, SMH holds a basket of underlying semiconductor companies that are generally profitable, and the fund itself does not operate an unprofitable business model or show operating losses in the provided data.
 
-1.3. **Customer & Markets:** The ETF's primary customers are investors seeking exposure to the semiconductor industry through a single, tradable fund rather than buying individual chip stocks. Its underlying holdings are semiconductor companies listed on U.S. exchanges, including both domestic and foreign issuers, providing broad industry exposure tied to global semiconductor demand and AI-related hardware trends highlighted in recent sector news.
+1.3. **Customer & Markets:** SMH's primary customers are investors seeking equity exposure to the semiconductor industry through a single, liquid ETF vehicle. It targets global markets via U.S.-listed semiconductor stocks, giving exposure to developed-market chip leaders (e.g., U.S. and Taiwan-based firms) across end-markets like AI, data centers, autos, and consumer electronics.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** SMH's main competitors are other semiconductor-focused ETFs such as iShares Semiconductor ETF (SOXX) and First Trust Nasdaq Semiconductor ETF (FTXL), which track similar segments of the global semiconductor industry. It ranks as one of the largest, highly traded semiconductor ETFs, with concentrated exposure where its top holdings account for a significant share of assets.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the quick facts flag a 7d downtrend and the price has retreated from a recent local high/resistance around 420.04 toward support near 401.83.
+2.1. **7d Trend?:** down — over the last week SMH has been labeled in a 'down' trend, pulling back from around the $420 area toward the low $400s while staying above nearby support.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, dips toward the suggested buy zone and support around 397–401.83 looked like better buy points, while tests of resistance and the local high near 420.04 offered favorable areas to trim or sell.
+2.2. **7d Buy/Sell Points?:** In the last 7 days, dips toward the suggested buy zone and 7d support around $397–402 offered better entry points. Strength into the local high and 7d resistance near $420 was a favorable area to trim or take profits.
 
 2.3.1. **7d Volume:** med
 
@@ -505,15 +529,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SMH is a long-standing, rules-based ETF tracking a semiconductor index rather than a fly-by-night operating company. It holds a diversified basket of U.S.-listed semiconductor and related depositary receipts, though it is technically non-diversified and thus sector-concentrated. The 5-year price chart shows a substantial rise from a 5-year low of about $84.45 to recent levels above $400, reflecting both durability and cyclicality tied to the chip cycle. As an ETF, its balance sheet risk is mainly the underlying holdings and sector volatility, not corporate solvency in the traditional sense.
+3.1. **Stability?:** SMH is a long-standing, large ETF structure backed by VanEck, holding established semiconductor companies like Nvidia, Taiwan Semiconductor, and other blue-chip chipmakers rather than speculative microcaps. It tracks a broad, liquid index with market-cap weighting and has substantial assets and trading volume, which supports liquidity and lowers risk of closure relative to tiny niche funds. The underlying semiconductor industry is cyclical but benefits from structural demand drivers in AI, data centers, and autos, and SMH's diversified basket helps mitigate single-company blowups. Overall, this makes SMH a relatively stable way to gain exposure to a volatile but strategically important sector.
 
-3.2. **Innovating?:** The ETF itself is not an operating business, but its portfolio is levered to an innovating and growing semiconductor ecosystem, as evidenced by news of accelerating AI chip and equipment demand (e.g., Applied Materials' strong AI-driven guidance).
+3.2. **Innovating?:** SMH is structurally tied to an industry that is clearly innovating and growing, as highlighted by accelerating AI chip and semiconductor equipment demand and strong results from key holdings such as Applied Materials. Sector-wide capex and AI-related growth drivers indicate that the ETF's constituents are on the leading edge of technology rather than being stale.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines emphasize strong AI-driven demand for semiconductors and equipment, with Applied Materials guiding for 20%+ revenue growth, which supports the bullish thesis behind semiconductor ETFs like SMH. Other commentary notes that semiconductors and energy have outperformed while software has slumped, reinforcing a sector rotation into chips. At the same time, prior analysis warned that semiconductor momentum could stall, highlighting the risk of consolidation after strong gains. The quick facts suggest "sell the news" rather than "buy the rumor," implying that positive AI and sector headlines may already be priced in and could precede pullbacks rather than fresh breakouts.
+4.1. **News:** Recent news emphasizes strong AI-driven semiconductor demand, with Applied Materials guiding to 20%+ equipment revenue growth and semiconductors outperforming while software slumps. Macro headlines about Taiwan surpassing China as a key U.S. supplier, aided by AI hardware demand and tariff exemptions on chips, underscore the sector's strategic importance. At the same time, some commentary flags that semiconductor momentum could stall or consolidate after a powerful run, and that SMH is trading on high earnings assumptions with concentrated AI exposure. For a 'buy the rumor, sell the news' lens, much good AI and reshoring news appears already priced in, so positive headlines may now provoke choppy reactions or profit-taking rather than straight-line gains.
 
-4.2. **Tarrifs:** Tariff effects are mixed: one article notes Trump's tariffs exempt computer equipment and chips, helping Taiwan become a key AI hardware supplier to the U.S., which indirectly supports semiconductor demand; however, separate discussion of potential tech export crackdowns on China highlights ongoing geopolitical and trade-policy risks for the broader tech and chip complex.
+4.2. **Tarrifs:** Tariffs have introduced volatility but have not structurally impaired SMH; Trump-era tariffs have often exempted key AI-related computer equipment and chips, sometimes causing sharp dips in SMH on negative headlines followed by rebounds as investors reassessed that semiconductors remained relatively protected. Analyses note that while tariff scares can drive short-term drawdowns (SMH was down materially year-to-date at one tariff panic), semiconductor ETFs like SMH have also surged on favorable tariff news (e.g., exemptions and pro-tech moves), making tariffs a source of trading swings rather than a clear long-term drag in the supplied data.
 
 ## 5. QuickRef
 
@@ -544,7 +568,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>NewsAPI: core business, target customers, market share, rumors</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -591,254 +615,278 @@ Massive news: collected 20 articles.
 Filtered 13 headline(s) from banned sources.
 Latest news fallback search -&gt; SMH latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+news&amp;num=2&amp;start=11
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; SMH earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+news&amp;num=2&amp;start=11
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; SMH analyst news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+analyst+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+analyst+news&amp;num=2&amp;start=11
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; VanEck Semiconductor ETF latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VanEck+Semiconductor+ETF+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=VanEck+Semiconductor+ETF+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=VanEck+Semiconductor+ETF+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+latest+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;VanEck Semiconductor ETF latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+latest+news&amp;num=2&amp;start=11
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; VanEck Semiconductor ETF earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=VanEck+Semiconductor+ETF+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=VanEck+Semiconductor+ETF+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=VanEck+Semiconductor+ETF+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+earnings+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;VanEck Semiconductor ETF earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=VanEck+Semiconductor+ETF+earnings+news&amp;num=2&amp;start=11
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Running supplementary searches...
   google_custom_search search -&gt; SMH core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+core+business&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+product+portfolio&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+product+portfolio&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+profitability&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+profitability&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+earnings+trend&amp;num=2&amp;start=11
-Google Custom Search failed for &#x27;SMH earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+target+customers&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+segments&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+segments&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+competitors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+share&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+market+share&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+rumors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 1 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariffs+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariffs+news&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH latest news (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: cached 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+latest+rumor&amp;num=2&amp;start=11
-Google Custom Search failed for &#x27;SMH latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; SMH tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; SMH tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SMH tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SMH+tariff+impact&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SMH+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;SMH tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SMH+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=SMH+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SMH tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
@@ -859,6 +907,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — price is near 1-year/5-year highs with the 1yr/3mo both labeled &#x27;near-peak&#x27;, but currently pulling back in a 7d downtrend toward short-term support around 401.83 and the 20-day average near 401; macro froth visibility is limited to sector AI enthusiasm (e.g., AMAT’s AI windfall) and mixed signals about a potential semiconductor momentum slowdown.&quot;,&quot;1.1&quot;:&quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies. It invests at least 80% of total assets in common stocks and depositary receipts o
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — SMH is trading near 1-year/5-year highs (&#x27;near-peak&#x27;) after a strong multi-year run, which raises some bubble-risk concerns but with limited explicit macro froth data; price is in a short-term downtrend yet holding just above 7d support and the 20-day average (~$401–402) and slightly above its SMA/EMA (~$392–394), making adds near support more reasonable than chasing toward $420 resistance.&quot;, &quot;1.1&quot;: &quot;VanEck Semiconductor ETF (SMH) is an exchange-traded fund that seeks to track a benchmark index of U.S.-exchange-listed semiconductor companies, investing at least 80% of total as
 </code></pre>
 </details>
