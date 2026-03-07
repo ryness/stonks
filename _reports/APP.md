@@ -2,11 +2,11 @@
 layout: default
 title: "APP Stock Report"
 ticker: "APP"
-date: 2026-03-02
-generated_at: 2026-03-02T05:53:51.153613+00:00
-runtime_seconds: 63.95
+date: 2026-03-07
+generated_at: 2026-03-07T05:37:14.543051+00:00
+runtime_seconds: 43.77
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-02T05:53:51.153613+00:00">2026-03-02 05:53 UTC</time> (runtime 1m 4s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-07T05:37:14.543051+00:00">2026-03-07 05:37 UTC</time> (runtime 43.77s)
   
   ![Applovin Corporation Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/APP.svg)
   
@@ -47,30 +47,29 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Chelsea youngster makes surprise return to squad as injury predictions proved wrong](https://www.yardbarker.com/soccer/articles/chelsea_youngster_makes_surprise_return_to_squad_as_injury_predictions_proved_wrong/s1_15956_43522797) — Yardbarker · 2026-02-26
-  - [PWD revamps Sewa app to simplify civic complaint tracking across Delhi](https://www.hindustantimes.com/cities/delhi-news/pwd-revamps-sewa-app-to-simplify-civic-complaint-tracking-across-delhi-101772044955234.html) — Hindustan Times · 2026-02-25
-  - [Meerra Chopraa shares ‘scary’ cab experience, says driver was ‘almost sleeping while driving’](https://www.lokmattimes.com/entertainment/meerra-chopraa-shares-scary-cab-experience-says-driver-was-almost-sleeping-while-driving/) — Lokmat Times · 2026-02-24
+  - [‘Call Before You Dig’ app made mandatory for road work in Delhi](https://www.hindustantimes.com/cities/delhi-news/call-before-you-dig-app-made-mandatory-for-road-work-in-delhi-101772737620258.html) — Hindustan Times · 2026-03-05
+  - [Cybersecurity firm flags fake 'Red Alert' app spreading via SMS spoofing amid West Asia conflict](https://www.lokmattimes.com/business/cybersecurity-firm-flags-fake-red-alert-app-spreading-via-sms-spoofing-amid-west-asia-conflict/) — Lokmat Times · 2026-03-03
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares are overbought and trading just below 7‑day resistance at 415.44 while far above support at 359 and well above 1‑year low 219.37; sector-wide software rout headlines point to macro froth/AI-reset risk rather than a clean value entry here
+  0.1. **Long Entry?:** no — shares are near 1-year/5-year mid-range and right at 7d resistance/20-day average with an overbought tag after a sharp rebound from ~$219; macro froth is notable in software/AI where the sector just suffered a rout and APP saw a 14% surge followed by a near-5% post-earnings drop, suggesting choppy sentiment and elevated bubble risk
   
   ## 1. The Biz
   
-  1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for app publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from the SSP product Max. Its AXON 2 ad optimizer uses data and algorithms within the DSP to place ads to meet specific return thresholds for advertisers.
+  1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers and a supply-side platform (SSP) for app and game publishers, with an exchange in between. Around 80% of revenue comes from its DSP product AppDiscovery, while the rest comes from its SSP Max. A key growth lever is its AXON 2 AI-driven ad optimization engine, which helps advertisers target and bid to specified return thresholds.
   
-  1.2. **Profitable?:** yes — the company has generated positive net income for multiple recent periods totaling about $3.33 billion with a high profit margin of 60.8% and strong earnings growth of 84%.
+  1.2. **Profitable?:** yes — AppLovin is profitable, with positive net income in recent periods totaling about $3.33 billion, a high profit margin of roughly 61%, and strong free cash flow and earnings growth.
   
-  1.3. **Customer & Markets:** AppLovin's primary customers are advertisers seeking performance-based mobile advertising and app publishers monetizing their inventory through its SSP and exchange. It operates in the global digital advertising and mobile app markets, serving communication services and broader tech ecosystems from its base in the United States.
+  1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking performance-based mobile ad campaigns and app/game publishers monetizing their inventory through programmatic advertising. Its markets are digital advertising and mobile app monetization, with operations centered in the United States but participating broadly in global app advertising ecosystems as an ad tech intermediary.
   
-  1.4. **Competition:** Key competitors include large digital advertising and app ecosystem players such as Unity (U), Duolingo (DUOL), Apple (AAPL), and Meta (META), with AppLovin positioned as a specialized ad-tech platform rather than the largest overall player. Specific market share rankings versus these firms are not provided in the data.
+  1.4. **Competition:** Key competitors include other large digital advertising and ad-tech platforms such as Meta Platforms and Apple's advertising stack, as well as app-centric platforms like Unity and Duolingo that monetize mobile engagement. The data does not provide explicit market-share rankings, only that AppLovin is one of several major players in advertising technology.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from near 7-day support at 359 toward the recent close of 412 near resistance 415.44.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rebounding from support around $359 toward resistance near $415.
   
-  2.2. **7d Buy/Sell Points?:** Prices near the 7-day and 30-day support around 359 were the most favorable recent buying levels, while levels approaching the 7-day resistance/local high around 415.44 offered good short-term selling or trimming opportunities.
+  2.2. **7d Buy/Sell Points?:** Good buy levels in the past week were near the suggested support around $359, while attractive sell or trim levels were near the recent local high and resistance around $415. Trading between this support-resistance band offered the best short-term entries and exits.
   
   2.3.1. **7d Volume:** med
   
@@ -78,13 +77,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** AppLovin appears to be a relatively stable institution within ad-tech, with several consecutive periods of positive net income totaling about $3.33 billion and a strong 60.8% profit margin. It generates robust operating cash flow of about $4.0 billion and free cash flow of roughly $2.7 billion, indicating solid internal funding capacity. The company has endured a severe multi-year price cycle from a 5-year low of $9.30 to well above $400, suggesting it can navigate volatility even as its stock remains sensitive to sector sentiment. While detailed balance sheet metrics are not provided, the combination of strong profitability and cash generation supports its stability versus typical early-stage or fly-by-night firms.
+  3.1. **Stability?:** AppLovin appears to be a relatively stable, scaled institution rather than a fly-by-night operator, with multi-year trading history and a 5-year low of $9.30 versus a current price above $400. Its financials show consistent positive net income over the last four periods totaling $3.33 billion, a strong profit margin above 60%, and robust free cash flow and operating cash flow, all of which point to solid underlying economics. The company operates in the established digital advertising sector as a core infrastructure provider (DSP, SSP, and exchange), which tends to have recurring revenue from advertisers and publishers. While its stock has been volatile, including large drawdowns and rebounds as software stocks sold off and later rallied, the balance-sheet and cash generation metrics in the data suggest a durable business rather than a speculative shell. Overall stability is supported by profitability and cash flow, even if equity volatility remains high.
   
-  3.2. **Innovating?:** AppLovin is innovating and growing, as shown by its AI-driven AXON 2 optimizer within the DSP and high revenue growth of 65.9% and earnings growth of 84%. Recent coverage highlighting it among 'best software stocks to buy that AI can't disrupt' further underscores its positioning as an evolving, AI-levered platform rather than a stale software vendor.
+  3.2. **Innovating?:** AppLovin is innovating and growing, as evidenced by strong revenue growth (about 66%) and earnings growth (about 84%), and by the development of AXON 2, an advanced ad optimization engine within its DSP. Recent coverage also highlights it as a software business positioned to benefit from AI rather than be disrupted by it, indicating ongoing product evolution.
   
   ## 4. Context
   
-  4.1. **News:** Recent news depicts APP as a profitable AI-linked software name caught in a volatile software sector: it beat expectations yet fell ~5% around a strong jobs report, and has been down 33% YTD while also posting a 14% rebound day in a broader software bounce. Articles highlight expectations for strong double-digit sales and earnings growth and even a potential earnings surprise, but also stress a sector-wide software rout driven by fears that AI will compress traditional software models. Sentiment pieces frame AppLovin as one of the software businesses likely to benefit from AI rather than be disrupted, even as software ETFs suffer their worst month since 2008. Given quick facts that flag 'Sell the news? yes' and 'Buy the rumor? no', the pattern suggests positive AI/earnings narratives are largely being sold into, aligning with the 'buy the rumor, sell the news' adage.
+  4.1. **News:** Recent news shows AppLovin at the center of the broader software and AI narrative: it's cited among software stocks rebounding sharply, including a 14% single-day surge during a sector bounce. Articles highlight expectations for strong earnings with double-digit sales and nearly 50% earnings growth, and note that it beat expectations even as the share price fell around 5% afterward, a classic 'sell the news' pattern. Another piece frames AppLovin as a resilient software/AI beneficiary in a market where traditional software models are under pressure and the software ETF is off roughly 20% year-to-date, contributing to volatility. The quick-facts explicitly flag 'Sell the news? yes' and 'Buy the rumor? no', suggesting that positive headlines and earnings have recently been more of an opportunity for profit-taking than fresh entry. Overall, the context implies that strong fundamental or AI-related news may already be priced in quickly, with traders inclined to sell into good reports rather than chase them.
   
   4.2. **Tarrifs:** unknown
   
@@ -117,7 +116,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (11 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>GNews: profitability, target customers, market share, business model, market expansion, latest news, tariffs</li>
+  <li>GNews: profitability, target customers, competitors, market share, rumors, business model, market expansion, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -171,10 +170,81 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 12 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; APP earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;APP earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 1 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; APP analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;APP analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=APP+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=APP+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;APP analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;APP analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Applovin Corporation Class A Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Applovin Corporation Class A Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Applovin Class A Common Stock latest news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; Applovin Class A Common Stock earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
@@ -221,7 +291,7 @@ raw_markdown: |
   Guardian search failed for &#x27;APP profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 2 result(s)
+      gnews: 3 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+trend&amp;num=10&amp;start=1
@@ -258,7 +328,6 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -276,7 +345,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=APP+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 4 result(s)
+      gnews: 3 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+competitors&amp;num=10&amp;start=1
@@ -284,12 +353,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=APP+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+share&amp;num=10&amp;start=1
@@ -318,12 +386,11 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=APP+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariffs+news&amp;num=10&amp;start=1
@@ -350,11 +417,10 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP latest news (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -415,12 +481,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are overbought and trading just below 7‑day resistance at 415.44 while far above support at 359 and well above 1‑year low 219.37; sector-wide software rout headlines point to macro froth/AI-reset risk rather than a clean value entry here&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for app publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from the SSP product M
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are near 1-year/5-year mid-range and right at 7d resistance/20-day average with an overbought tag after a sharp rebound from ~$219; macro froth is notable in software/AI where the sector just suffered a rout and APP saw a 14% surge followed by a near-5% post-earnings drop, suggesting choppy sentiment and elevated bubble risk&quot;,&quot;1.1&quot;:&quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers and a supply-side platform (SSP) for app and game publishers, with an exchange in between. Around 80% of revenue comes from
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-02T05:53:51.153613+00:00">2026-03-02 05:53 UTC</time> (runtime 1m 4s)
+**Generated:** <time class="js-local-time" datetime="2026-03-07T05:37:14.543051+00:00">2026-03-07 05:37 UTC</time> (runtime 43.77s)
 
 ![Applovin Corporation Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/APP.svg)
 
@@ -461,30 +527,29 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Chelsea youngster makes surprise return to squad as injury predictions proved wrong](https://www.yardbarker.com/soccer/articles/chelsea_youngster_makes_surprise_return_to_squad_as_injury_predictions_proved_wrong/s1_15956_43522797) — Yardbarker · 2026-02-26
-- [PWD revamps Sewa app to simplify civic complaint tracking across Delhi](https://www.hindustantimes.com/cities/delhi-news/pwd-revamps-sewa-app-to-simplify-civic-complaint-tracking-across-delhi-101772044955234.html) — Hindustan Times · 2026-02-25
-- [Meerra Chopraa shares ‘scary’ cab experience, says driver was ‘almost sleeping while driving’](https://www.lokmattimes.com/entertainment/meerra-chopraa-shares-scary-cab-experience-says-driver-was-almost-sleeping-while-driving/) — Lokmat Times · 2026-02-24
+- [‘Call Before You Dig’ app made mandatory for road work in Delhi](https://www.hindustantimes.com/cities/delhi-news/call-before-you-dig-app-made-mandatory-for-road-work-in-delhi-101772737620258.html) — Hindustan Times · 2026-03-05
+- [Cybersecurity firm flags fake 'Red Alert' app spreading via SMS spoofing amid West Asia conflict](https://www.lokmattimes.com/business/cybersecurity-firm-flags-fake-red-alert-app-spreading-via-sms-spoofing-amid-west-asia-conflict/) — Lokmat Times · 2026-03-03
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares are overbought and trading just below 7‑day resistance at 415.44 while far above support at 359 and well above 1‑year low 219.37; sector-wide software rout headlines point to macro froth/AI-reset risk rather than a clean value entry here
+0.1. **Long Entry?:** no — shares are near 1-year/5-year mid-range and right at 7d resistance/20-day average with an overbought tag after a sharp rebound from ~$219; macro froth is notable in software/AI where the sector just suffered a rout and APP saw a 14% surge followed by a near-5% post-earnings drop, suggesting choppy sentiment and elevated bubble risk
 
 ## 1. The Biz
 
-1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for app publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from the SSP product Max. Its AXON 2 ad optimizer uses data and algorithms within the DSP to place ads to meet specific return thresholds for advertisers.
+1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers and a supply-side platform (SSP) for app and game publishers, with an exchange in between. Around 80% of revenue comes from its DSP product AppDiscovery, while the rest comes from its SSP Max. A key growth lever is its AXON 2 AI-driven ad optimization engine, which helps advertisers target and bid to specified return thresholds.
 
-1.2. **Profitable?:** yes — the company has generated positive net income for multiple recent periods totaling about $3.33 billion with a high profit margin of 60.8% and strong earnings growth of 84%.
+1.2. **Profitable?:** yes — AppLovin is profitable, with positive net income in recent periods totaling about $3.33 billion, a high profit margin of roughly 61%, and strong free cash flow and earnings growth.
 
-1.3. **Customer & Markets:** AppLovin's primary customers are advertisers seeking performance-based mobile advertising and app publishers monetizing their inventory through its SSP and exchange. It operates in the global digital advertising and mobile app markets, serving communication services and broader tech ecosystems from its base in the United States.
+1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking performance-based mobile ad campaigns and app/game publishers monetizing their inventory through programmatic advertising. Its markets are digital advertising and mobile app monetization, with operations centered in the United States but participating broadly in global app advertising ecosystems as an ad tech intermediary.
 
-1.4. **Competition:** Key competitors include large digital advertising and app ecosystem players such as Unity (U), Duolingo (DUOL), Apple (AAPL), and Meta (META), with AppLovin positioned as a specialized ad-tech platform rather than the largest overall player. Specific market share rankings versus these firms are not provided in the data.
+1.4. **Competition:** Key competitors include other large digital advertising and ad-tech platforms such as Meta Platforms and Apple's advertising stack, as well as app-centric platforms like Unity and Duolingo that monetize mobile engagement. The data does not provide explicit market-share rankings, only that AppLovin is one of several major players in advertising technology.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from near 7-day support at 359 toward the recent close of 412 near resistance 415.44.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rebounding from support around $359 toward resistance near $415.
 
-2.2. **7d Buy/Sell Points?:** Prices near the 7-day and 30-day support around 359 were the most favorable recent buying levels, while levels approaching the 7-day resistance/local high around 415.44 offered good short-term selling or trimming opportunities.
+2.2. **7d Buy/Sell Points?:** Good buy levels in the past week were near the suggested support around $359, while attractive sell or trim levels were near the recent local high and resistance around $415. Trading between this support-resistance band offered the best short-term entries and exits.
 
 2.3.1. **7d Volume:** med
 
@@ -492,13 +557,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** AppLovin appears to be a relatively stable institution within ad-tech, with several consecutive periods of positive net income totaling about $3.33 billion and a strong 60.8% profit margin. It generates robust operating cash flow of about $4.0 billion and free cash flow of roughly $2.7 billion, indicating solid internal funding capacity. The company has endured a severe multi-year price cycle from a 5-year low of $9.30 to well above $400, suggesting it can navigate volatility even as its stock remains sensitive to sector sentiment. While detailed balance sheet metrics are not provided, the combination of strong profitability and cash generation supports its stability versus typical early-stage or fly-by-night firms.
+3.1. **Stability?:** AppLovin appears to be a relatively stable, scaled institution rather than a fly-by-night operator, with multi-year trading history and a 5-year low of $9.30 versus a current price above $400. Its financials show consistent positive net income over the last four periods totaling $3.33 billion, a strong profit margin above 60%, and robust free cash flow and operating cash flow, all of which point to solid underlying economics. The company operates in the established digital advertising sector as a core infrastructure provider (DSP, SSP, and exchange), which tends to have recurring revenue from advertisers and publishers. While its stock has been volatile, including large drawdowns and rebounds as software stocks sold off and later rallied, the balance-sheet and cash generation metrics in the data suggest a durable business rather than a speculative shell. Overall stability is supported by profitability and cash flow, even if equity volatility remains high.
 
-3.2. **Innovating?:** AppLovin is innovating and growing, as shown by its AI-driven AXON 2 optimizer within the DSP and high revenue growth of 65.9% and earnings growth of 84%. Recent coverage highlighting it among 'best software stocks to buy that AI can't disrupt' further underscores its positioning as an evolving, AI-levered platform rather than a stale software vendor.
+3.2. **Innovating?:** AppLovin is innovating and growing, as evidenced by strong revenue growth (about 66%) and earnings growth (about 84%), and by the development of AXON 2, an advanced ad optimization engine within its DSP. Recent coverage also highlights it as a software business positioned to benefit from AI rather than be disrupted by it, indicating ongoing product evolution.
 
 ## 4. Context
 
-4.1. **News:** Recent news depicts APP as a profitable AI-linked software name caught in a volatile software sector: it beat expectations yet fell ~5% around a strong jobs report, and has been down 33% YTD while also posting a 14% rebound day in a broader software bounce. Articles highlight expectations for strong double-digit sales and earnings growth and even a potential earnings surprise, but also stress a sector-wide software rout driven by fears that AI will compress traditional software models. Sentiment pieces frame AppLovin as one of the software businesses likely to benefit from AI rather than be disrupted, even as software ETFs suffer their worst month since 2008. Given quick facts that flag 'Sell the news? yes' and 'Buy the rumor? no', the pattern suggests positive AI/earnings narratives are largely being sold into, aligning with the 'buy the rumor, sell the news' adage.
+4.1. **News:** Recent news shows AppLovin at the center of the broader software and AI narrative: it's cited among software stocks rebounding sharply, including a 14% single-day surge during a sector bounce. Articles highlight expectations for strong earnings with double-digit sales and nearly 50% earnings growth, and note that it beat expectations even as the share price fell around 5% afterward, a classic 'sell the news' pattern. Another piece frames AppLovin as a resilient software/AI beneficiary in a market where traditional software models are under pressure and the software ETF is off roughly 20% year-to-date, contributing to volatility. The quick-facts explicitly flag 'Sell the news? yes' and 'Buy the rumor? no', suggesting that positive headlines and earnings have recently been more of an opportunity for profit-taking than fresh entry. Overall, the context implies that strong fundamental or AI-related news may already be priced in quickly, with traders inclined to sell into good reports rather than chase them.
 
 4.2. **Tarrifs:** unknown
 
@@ -531,7 +596,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (11 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>GNews: profitability, target customers, market share, business model, market expansion, latest news, tariffs</li>
+<li>GNews: profitability, target customers, competitors, market share, rumors, business model, market expansion, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -585,10 +650,81 @@ GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+news&amp;lang=en&a
 Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 12 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; APP earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;APP earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 1 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; APP analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;APP analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=APP+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=APP+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;APP analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+analyst+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;APP analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Applovin Corporation Class A Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Corporation+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Applovin Corporation Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Applovin Corporation Class A Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Corporation+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Applovin Corporation Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Applovin Class A Common Stock latest news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Applovin Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; Applovin Class A Common Stock earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=Applovin+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=Applovin+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=Applovin+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Applovin+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;Applovin Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
@@ -635,7 +771,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=APP+profitability
 Guardian search failed for &#x27;APP profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 2 result(s)
+    gnews: 3 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+trend&amp;num=10&amp;start=1
@@ -672,7 +808,6 @@ Guardian search failed for &#x27;APP target customers&#x27;: 401 Client Error: U
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
@@ -690,7 +825,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=APP+market+expansion&amp;lang
 Guardian search: GET https://content.guardianapis.com/search?q=APP+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 4 result(s)
+    gnews: 3 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+competitors&amp;num=10&amp;start=1
@@ -698,12 +833,11 @@ Google Custom Search failed for &#x27;APP competitors&#x27;: 429 Client Error: T
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=APP+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+share&amp;num=10&amp;start=1
@@ -732,12 +866,11 @@ Google Custom Search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Ma
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=APP+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariffs+news&amp;num=10&amp;start=1
@@ -764,11 +897,10 @@ Guardian search failed for &#x27;APP rumor&#x27;: 401 Client Error: Unauthorized
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP latest news (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -829,6 +961,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are overbought and trading just below 7‑day resistance at 415.44 while far above support at 359 and well above 1‑year low 219.37; sector-wide software rout headlines point to macro froth/AI-reset risk rather than a clean value entry here&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for app publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from the SSP product M
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares are near 1-year/5-year mid-range and right at 7d resistance/20-day average with an overbought tag after a sharp rebound from ~$219; macro froth is notable in software/AI where the sector just suffered a rout and APP saw a 14% surge followed by a near-5% post-earnings drop, suggesting choppy sentiment and elevated bubble risk&quot;,&quot;1.1&quot;:&quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers and a supply-side platform (SSP) for app and game publishers, with an exchange in between. Around 80% of revenue comes from
 </code></pre>
 </details>
