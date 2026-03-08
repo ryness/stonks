@@ -2,11 +2,11 @@
 layout: default
 title: "NOW Stock Report"
 ticker: "NOW"
-date: 2026-03-04
-generated_at: 2026-03-04T10:37:09.373572+00:00
-runtime_seconds: 63.96
+date: 2026-03-08
+generated_at: 2026-03-08T02:05:53.472442+00:00
+runtime_seconds: 49.38
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-04T10:37:09.373572+00:00">2026-03-04 10:37 UTC</time> (runtime 1m 4s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-08T02:05:53.472442+00:00">2026-03-08 02:05 UTC</time> (runtime 49.38s)
   
   ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
   
@@ -49,30 +49,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Google turns Pixel’s Now Playing into a standalone app — and it’s a big deal](https://www.androidcentral.com/apps-software/google-turns-pixels-now-playing-into-a-standalone-app-and-its-a-big-deal) — Android Central · 2026-03-03
-  - [Inside the March Edition: Exclusive Interviews, Inspiring comebacks, and the latest in women’s football](https://www.plymouthherald.co.uk/sport/football/football-news/inside-march-edition-exclusive-interviews-10845920) — Plymouth Live · 2026-03-03
-  - [Carlyle (CG) Targets $200B Capital Goal Amid Strategic Turnaround](https://finance.yahoo.com/news/carlyle-cg-targets-200b-capital-102508955.html) — Yahoo Entertainment · 2026-03-03
+  - [Dubai, Abu Dhabi, Qatar, and Bahrain War News Live Updates: Marshall Islands-Flagged Tanker In Gulf Targeted, Claims IRGC](https://www.timesnownews.com/world/middle-east/gulf-news-live-uae-dubai-qatar-kuwait-bahrain-israel-iran-war-targeting-the-us-bases-flight-cancellations-latest-news-liveblog-153757451) — Times Now · 2026-03-07
+  - [US crude futures now up 12% per barrel amid Iran war](https://economictimes.indiatimes.com/industry/energy/oil-gas/us-crude-futures-now-up-12-per-barrel-amid-iran-war/articleshow/129189103.cms) — The Times of India · 2026-03-07
+  - [Preview: It's UND and Omaha in the playoffs. . . again](https://www.grandforksherald.com/sports/und-hockey/preview-its-playoff-time-in-grand-forks-1) — Grand Forks Herald · 2026-03-07
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — trading near 1-year mid-range and above 5-year lows with the 3‑month view flagged as 'near-bottom' suggests a reasonable but not washed-out entry; macro froth context is unclear beyond a sector-wide SaaS sell-off driven by AI fears; price at $812.93 is slightly below the 20-day moving average of ~$832 and just above $795 support and $831.69 near-term resistance, indicating a tight risk/reward band.
+  0.1. **Long Entry?:** maybe — shares trade in the middle of their 1-year and 5-year ranges and are near 1-year support around $795 with price slightly below the 20-day average of ~$832; sector news shows a recent SaaS valuation reset and macro AI "saaspocalypse" fears rather than obvious bubble froth, but price is also close to short-term resistance near $832–835 limiting near-term upside.
   
   ## 1. The Biz
   
-  1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It began with IT service management and expanded across IT workflows, then into customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflows.
+  1.1. **Activities:** ServiceNow provides cloud-based software to structure and automate business workflows via a software-as-a-service (SaaS) delivery model. It began in IT service management, then expanded across the broader IT function and into areas like customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service to help customers build custom workflow apps.
   
-  1.2. **Profitable?:** yes — the company generated positive net income totaling about $1.75 billion over recent periods with a 13.2% profit margin, positive earnings growth, and strong free cash flow.
+  1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive profit margin of about 13% and a net income sum of roughly $1.75 billion across recent periods plus strong free cash flow generation.
   
-  1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers, originally focusing on IT departments and now extending into customer service, HR, and security operations across organizations. Its markets are global but anchored in the United States technology and enterprise software sector, targeting companies that need workflow automation across multiple business functions.
+  1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, including IT departments, customer service organizations, HR teams, and security operations. Its markets are global, with a focus on large organizations across industries that adopt SaaS workflow platforms, anchored in its home base in the United States.
   
-  1.4. **Competition:** Key competitors include large enterprise and application software vendors such as Salesforce (CRM), Microsoft (MSFT), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Alphabet/Google (GOOGL), Meta (META), and Nvidia (NVDA), with ServiceNow positioned as a leading workflow and IT service management platform among these peers.
+  1.4. **Competition:** Key competitors include large enterprise and application software vendors such as Salesforce (CRM), Microsoft (MSFT), Alphabet/Google (GOOGL), Meta (META), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), and Nvidia (NVDA) in AI-related workloads; the data does not state a clear rank but places ServiceNow among leading software peers.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price is trading above the 7-day support of $795 toward resistance near $831.69.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from near the $795 support toward recent closes around $813 and testing resistance at about $832.
   
-  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the $795 support area were favorable buy points, while approaches toward $831.69–$835, near recent local highs and short-term resistance, offered better sell or trim zones.
+  2.2. **7d Buy/Sell Points?:** Buying near the identified support around $795 over the last week offered favorable entries as price was near the 7d and 30d support. Selling or trimming positions near $831–835 aligned with the noted 7d resistance and local high zone.
   
   2.3.1. **7d Volume:** low
   
@@ -80,13 +80,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** ServiceNow appears to be a relatively stable institution within the technology sector. It has a solidly profitable business with a net income margin around 13% and robust free cash flow of roughly $5.0 billion against strong operating cash flow. The company serves large enterprise customers across mission-critical IT and business workflows, which typically implies sticky, recurring subscription revenue. Its stock has a five-year trading history that has moved from a low of about $341.76 to current levels above $800, indicating long-term value creation despite volatility.
+  3.1. **Stability?:** ServiceNow appears to be a relatively stable, established technology company rather than a fly-by-night operator. It generates consistent positive net income and healthy free cash flow, with profit margins over 13% and operating cash flow above $5.4 billion. The company operates in mission-critical enterprise software segments like IT service management and workflow automation, which typically involve long-term contracts and high switching costs. Its inclusion alongside large-cap peers such as Microsoft, Salesforce, Alphabet, and Nvidia suggests it is viewed as a major, durable participant in its industry. No specific balance sheet metrics are provided, but the strong cash generation and profitability support an overall picture of stability.
   
-  3.2. **Innovating?:** ServiceNow is innovating and growing, as shown by its expansion beyond core IT service management into customer service, HR, security operations, and an application development platform, along with 20.7% revenue growth and positive earnings growth.
+  3.2. **Innovating?:** ServiceNow is actively innovating and expanding, evidenced by its move beyond IT into customer service, HR, and security workflows and by new AI-driven offerings like Autonomous Workforce and EmployeeWorks. Its recent collaboration with NTT DOCOMO and StarHub to build an AI-based inter-carrier roaming operations model further indicates ongoing product and market innovation.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines describe a sharp, AI-driven SaaS sector sell-off, with major SaaS names hitting 52-week lows amid fears that autonomous agents will erode per-seat licensing models. In this context, ServiceNow issued cautious guidance that contributed to the downturn, but another article notes that its fundamentals remain strong with 21% subscription revenue growth and 57% free cash flow margins. Importantly, insiders at ServiceNow have been buying stock and terminating automatic selling plans during the panic, signaling internal confidence that the 'AI SaaSpocalypse' narrative is overdone. Other coverage from HSBC and sector commentators argues that software will ultimately benefit from AI rather than be displaced, suggesting the sell-off may reflect overshooting of negative expectations. For a 'buy the rumor, sell the news' lens, the current setup looks more like 'sell the rumor, buy the fear' as pessimistic AI rumors drove prices down despite resilient fundamentals.
+  4.1. **News:** Recent news highlights both company-specific and sector-wide dynamics. ServiceNow shares recently climbed in premarket trading after announcing an AI collaboration with NTT DOCOMO and StarHub to tackle roaming issues, alongside launches of Autonomous Workforce and EmployeeWorks. Sector headlines describe a sharp SaaS sell-off driven by fears that autonomous AI agents will undermine per-seat SaaS models, with ServiceNow's cautious guidance cited as one trigger, while other commentary (e.g., HSBC) argues that software will ultimately benefit from AI. In this context, 'buy the rumor, sell the news' has partly played out at the sector level where strong earnings or AI narratives (e.g., Salesforce) have still led to selloffs, but ServiceNow's own positive AI partnership news has coincided with a bounce from 52-week sector lows. Overall, sentiment appears reset from prior exuberance, with mixed reactions to news and a focus on long-term AI integration rather than short-term hype.
   
   4.2. **Tarrifs:** unknown
   
@@ -119,8 +119,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -185,94 +184,107 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; NOW analyst news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=NOW+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=NOW+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;NOW analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+analyst+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;NOW analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 12 result(s)
+      gnews: 3 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
     google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 11 result(s)
       gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 1 result(s)
+      gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: 9 result(s)
+      newsapi: 11 result(s)
+      gnews: 6 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 11 result(s)
       gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: 5 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -280,75 +292,76 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: 12 result(s)
+      newsapi: 11 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 11 result(s)
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: 8 result(s)
+      newsapi: 11 result(s)
+      gnews: 7 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 12 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 11 result(s)
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: 12 result(s)
+      gnews: 7 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -356,7 +369,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 11 result(s)
+      newsapi: 12 result(s)
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
@@ -367,12 +380,12 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -380,22 +393,22 @@ raw_markdown: |
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: 12 result(s)
+      newsapi: 11 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 12 result(s)
-      gnews: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 10 result(s)
+      gnews: 8 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -415,12 +428,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 1-year mid-range and above 5-year lows with the 3‑month view flagged as &#x27;near-bottom&#x27; suggests a reasonable but not washed-out entry; macro froth context is unclear beyond a sector-wide SaaS sell-off driven by AI fears; price at $812.93 is slightly below the 20-day moving average of ~$832 and just above $795 support and $831.69 near-term resistance, indicating a tight risk/reward band.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It began with IT service management and 
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade in the middle of their 1-year and 5-year ranges and are near 1-year support around $795 with price slightly below the 20-day average of ~$832; sector news shows a recent SaaS valuation reset and macro AI \&quot;saaspocalypse\&quot; fears rather than obvious bubble froth, but price is also close to short-term resistance near $832–835 limiting near-term upside.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software to structure and automate business workflows via a software-as-a-service (SaaS) delivery model. It began in IT service management, then expanded across the broader IT 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-04T10:37:09.373572+00:00">2026-03-04 10:37 UTC</time> (runtime 1m 4s)
+**Generated:** <time class="js-local-time" datetime="2026-03-08T02:05:53.472442+00:00">2026-03-08 02:05 UTC</time> (runtime 49.38s)
 
 ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
 
@@ -463,30 +476,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Google turns Pixel’s Now Playing into a standalone app — and it’s a big deal](https://www.androidcentral.com/apps-software/google-turns-pixels-now-playing-into-a-standalone-app-and-its-a-big-deal) — Android Central · 2026-03-03
-- [Inside the March Edition: Exclusive Interviews, Inspiring comebacks, and the latest in women’s football](https://www.plymouthherald.co.uk/sport/football/football-news/inside-march-edition-exclusive-interviews-10845920) — Plymouth Live · 2026-03-03
-- [Carlyle (CG) Targets $200B Capital Goal Amid Strategic Turnaround](https://finance.yahoo.com/news/carlyle-cg-targets-200b-capital-102508955.html) — Yahoo Entertainment · 2026-03-03
+- [Dubai, Abu Dhabi, Qatar, and Bahrain War News Live Updates: Marshall Islands-Flagged Tanker In Gulf Targeted, Claims IRGC](https://www.timesnownews.com/world/middle-east/gulf-news-live-uae-dubai-qatar-kuwait-bahrain-israel-iran-war-targeting-the-us-bases-flight-cancellations-latest-news-liveblog-153757451) — Times Now · 2026-03-07
+- [US crude futures now up 12% per barrel amid Iran war](https://economictimes.indiatimes.com/industry/energy/oil-gas/us-crude-futures-now-up-12-per-barrel-amid-iran-war/articleshow/129189103.cms) — The Times of India · 2026-03-07
+- [Preview: It's UND and Omaha in the playoffs. . . again](https://www.grandforksherald.com/sports/und-hockey/preview-its-playoff-time-in-grand-forks-1) — Grand Forks Herald · 2026-03-07
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — trading near 1-year mid-range and above 5-year lows with the 3‑month view flagged as 'near-bottom' suggests a reasonable but not washed-out entry; macro froth context is unclear beyond a sector-wide SaaS sell-off driven by AI fears; price at $812.93 is slightly below the 20-day moving average of ~$832 and just above $795 support and $831.69 near-term resistance, indicating a tight risk/reward band.
+0.1. **Long Entry?:** maybe — shares trade in the middle of their 1-year and 5-year ranges and are near 1-year support around $795 with price slightly below the 20-day average of ~$832; sector news shows a recent SaaS valuation reset and macro AI "saaspocalypse" fears rather than obvious bubble froth, but price is also close to short-term resistance near $832–835 limiting near-term upside.
 
 ## 1. The Biz
 
-1.1. **Activities:** ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It began with IT service management and expanded across IT workflows, then into customer service, HR service delivery, and security operations. The company also offers an application development platform as a service for building custom workflows.
+1.1. **Activities:** ServiceNow provides cloud-based software to structure and automate business workflows via a software-as-a-service (SaaS) delivery model. It began in IT service management, then expanded across the broader IT function and into areas like customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service to help customers build custom workflow apps.
 
-1.2. **Profitable?:** yes — the company generated positive net income totaling about $1.75 billion over recent periods with a 13.2% profit margin, positive earnings growth, and strong free cash flow.
+1.2. **Profitable?:** yes — ServiceNow is profitable, with a positive profit margin of about 13% and a net income sum of roughly $1.75 billion across recent periods plus strong free cash flow generation.
 
-1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers, originally focusing on IT departments and now extending into customer service, HR, and security operations across organizations. Its markets are global but anchored in the United States technology and enterprise software sector, targeting companies that need workflow automation across multiple business functions.
+1.3. **Customer & Markets:** ServiceNow primarily serves enterprise customers that need to automate and manage IT and business workflows, including IT departments, customer service organizations, HR teams, and security operations. Its markets are global, with a focus on large organizations across industries that adopt SaaS workflow platforms, anchored in its home base in the United States.
 
-1.4. **Competition:** Key competitors include large enterprise and application software vendors such as Salesforce (CRM), Microsoft (MSFT), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), Alphabet/Google (GOOGL), Meta (META), and Nvidia (NVDA), with ServiceNow positioned as a leading workflow and IT service management platform among these peers.
+1.4. **Competition:** Key competitors include large enterprise and application software vendors such as Salesforce (CRM), Microsoft (MSFT), Alphabet/Google (GOOGL), Meta (META), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), and Nvidia (NVDA) in AI-related workloads; the data does not state a clear rank but places ServiceNow among leading software peers.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price is trading above the 7-day support of $795 toward resistance near $831.69.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from near the $795 support toward recent closes around $813 and testing resistance at about $832.
 
-2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the $795 support area were favorable buy points, while approaches toward $831.69–$835, near recent local highs and short-term resistance, offered better sell or trim zones.
+2.2. **7d Buy/Sell Points?:** Buying near the identified support around $795 over the last week offered favorable entries as price was near the 7d and 30d support. Selling or trimming positions near $831–835 aligned with the noted 7d resistance and local high zone.
 
 2.3.1. **7d Volume:** low
 
@@ -494,13 +507,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** ServiceNow appears to be a relatively stable institution within the technology sector. It has a solidly profitable business with a net income margin around 13% and robust free cash flow of roughly $5.0 billion against strong operating cash flow. The company serves large enterprise customers across mission-critical IT and business workflows, which typically implies sticky, recurring subscription revenue. Its stock has a five-year trading history that has moved from a low of about $341.76 to current levels above $800, indicating long-term value creation despite volatility.
+3.1. **Stability?:** ServiceNow appears to be a relatively stable, established technology company rather than a fly-by-night operator. It generates consistent positive net income and healthy free cash flow, with profit margins over 13% and operating cash flow above $5.4 billion. The company operates in mission-critical enterprise software segments like IT service management and workflow automation, which typically involve long-term contracts and high switching costs. Its inclusion alongside large-cap peers such as Microsoft, Salesforce, Alphabet, and Nvidia suggests it is viewed as a major, durable participant in its industry. No specific balance sheet metrics are provided, but the strong cash generation and profitability support an overall picture of stability.
 
-3.2. **Innovating?:** ServiceNow is innovating and growing, as shown by its expansion beyond core IT service management into customer service, HR, security operations, and an application development platform, along with 20.7% revenue growth and positive earnings growth.
+3.2. **Innovating?:** ServiceNow is actively innovating and expanding, evidenced by its move beyond IT into customer service, HR, and security workflows and by new AI-driven offerings like Autonomous Workforce and EmployeeWorks. Its recent collaboration with NTT DOCOMO and StarHub to build an AI-based inter-carrier roaming operations model further indicates ongoing product and market innovation.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines describe a sharp, AI-driven SaaS sector sell-off, with major SaaS names hitting 52-week lows amid fears that autonomous agents will erode per-seat licensing models. In this context, ServiceNow issued cautious guidance that contributed to the downturn, but another article notes that its fundamentals remain strong with 21% subscription revenue growth and 57% free cash flow margins. Importantly, insiders at ServiceNow have been buying stock and terminating automatic selling plans during the panic, signaling internal confidence that the 'AI SaaSpocalypse' narrative is overdone. Other coverage from HSBC and sector commentators argues that software will ultimately benefit from AI rather than be displaced, suggesting the sell-off may reflect overshooting of negative expectations. For a 'buy the rumor, sell the news' lens, the current setup looks more like 'sell the rumor, buy the fear' as pessimistic AI rumors drove prices down despite resilient fundamentals.
+4.1. **News:** Recent news highlights both company-specific and sector-wide dynamics. ServiceNow shares recently climbed in premarket trading after announcing an AI collaboration with NTT DOCOMO and StarHub to tackle roaming issues, alongside launches of Autonomous Workforce and EmployeeWorks. Sector headlines describe a sharp SaaS sell-off driven by fears that autonomous AI agents will undermine per-seat SaaS models, with ServiceNow's cautious guidance cited as one trigger, while other commentary (e.g., HSBC) argues that software will ultimately benefit from AI. In this context, 'buy the rumor, sell the news' has partly played out at the sector level where strong earnings or AI narratives (e.g., Salesforce) have still led to selloffs, but ServiceNow's own positive AI partnership news has coincided with a bounce from 52-week sector lows. Overall, sentiment appears reset from prior exuberance, with mixed reactions to news and a focus on long-term AI integration rather than short-term hype.
 
 4.2. **Tarrifs:** unknown
 
@@ -533,8 +546,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -599,94 +611,107 @@ GNews search: GET https://gnews.io/api/v4/search?q=NOW+earnings+news&amp;lang=en
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; NOW analyst news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=NOW+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=NOW+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;NOW analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+analyst+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;NOW analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 12 result(s)
+    gnews: 3 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
   google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+core+business&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+product+portfolio&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 11 result(s)
     gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+business+model&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW business model&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+profitability&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 1 result(s)
+    gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: 9 result(s)
+    newsapi: 11 result(s)
+    gnews: 6 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 11 result(s)
     gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: 5 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -694,75 +719,76 @@ Guardian search failed for &#x27;NOW market segments&#x27;: 401 Client Error: Un
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+expansion&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: 12 result(s)
+    newsapi: 11 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+competitors&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 11 result(s)
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=NOW+market+share&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: 8 result(s)
+    newsapi: 11 result(s)
+    gnews: 7 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+rumors&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 12 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 11 result(s)
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumor&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: 12 result(s)
+    gnews: 7 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -770,7 +796,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff&amp;lang=en&amp;ma
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 11 result(s)
+    newsapi: 12 result(s)
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW latest news (priority: newsapi, gnews, guardian)
@@ -781,12 +807,12 @@ Guardian search failed for &#x27;NOW latest news&#x27;: 401 Client Error: Unauth
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+rumor&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -794,22 +820,22 @@ Guardian search failed for &#x27;NOW latest rumor&#x27;: 401 Client Error: Unaut
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;NOW tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: 12 result(s)
+    newsapi: 11 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariff+impact&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;NOW tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariff+impact&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 12 result(s)
-    gnews: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 10 result(s)
+    gnews: 8 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -829,6 +855,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — trading near 1-year mid-range and above 5-year lows with the 3‑month view flagged as &#x27;near-bottom&#x27; suggests a reasonable but not washed-out entry; macro froth context is unclear beyond a sector-wide SaaS sell-off driven by AI fears; price at $812.93 is slightly below the 20-day moving average of ~$832 and just above $795 support and $831.69 near-term resistance, indicating a tight risk/reward band.&quot;, &quot;1.1&quot;: &quot;ServiceNow, Inc. provides cloud-based software solutions that structure and automate business processes via a SaaS delivery model. It began with IT service management and 
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares trade in the middle of their 1-year and 5-year ranges and are near 1-year support around $795 with price slightly below the 20-day average of ~$832; sector news shows a recent SaaS valuation reset and macro AI \&quot;saaspocalypse\&quot; fears rather than obvious bubble froth, but price is also close to short-term resistance near $832–835 limiting near-term upside.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software to structure and automate business workflows via a software-as-a-service (SaaS) delivery model. It began in IT service management, then expanded across the broader IT 
 </code></pre>
 </details>
