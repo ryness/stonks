@@ -2,11 +2,11 @@
 layout: default
 title: "ALMU Stock Report"
 ticker: "ALMU"
-date: 2026-03-08
-generated_at: 2026-03-08T15:24:26.118802+00:00
-runtime_seconds: 57.57
+date: 2026-03-10
+generated_at: 2026-03-10T10:39:42.951165+00:00
+runtime_seconds: 61.73
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-08T15:24:26.118802+00:00">2026-03-08 15:24 UTC</time> (runtime 57.57s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-10T10:39:42.951165+00:00">2026-03-10 10:39 UTC</time> (runtime 1m 2s)
   
   ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
   
@@ -44,23 +44,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in the middle of its 1-year and 5-year ranges and just above 7d support at $11.82 after a sharp 3-month rise from near-bottom levels; macro froth context is limited, and shares now trade below the 20-day moving average ($13.16) and well below recent SMA/EMA levels (around $17–18), suggesting volatility and unclear reward-to-risk near resistance at $14.16.
+  0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading between 1-year/5-year middle ranges but still below its 20-day and longer SMAs, suggesting a potential but not low-risk add near support around $11.82; macro froth or bubble context is not provided so broader risk visibility is limited.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Aeluma, Inc. is a semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops compound semiconductor materials and chips on large-diameter substrates used in mass-market microelectronics. Its technologies target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
+  1.1. **Activities:** Aeluma, Inc. is a U.S.-based semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops sensor technology and compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Its solutions target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
   
-  1.2. **Profitable?:** no — the company has a negative profit margin of about -52% and a cumulative net loss over recent periods, with commentary emphasizing an uncertain path to consistent profitability despite revenue growth efforts.
+  1.2. **Profitable?:** no — the company has a negative net income sum of about -$2.74M and a profit margin of -52%, indicating it is not yet profitable, though it has positive free cash flow and is transitioning toward commercialization.
   
-  1.3. **Customer & Markets:** Aeluma's primary customers are OEMs and system integrators in markets such as mobile devices, automotive, AI and data center, defense and aerospace, industrial automation, robotics, communications, AR/VR, and quantum computing. Its markets are primarily U.S.-centric but aimed at large global semiconductor and photonics demand pools through partnerships like the Midwest Microelectronics Consortium and AIM Photonics.
+  1.3. **Customer & Markets:** Aeluma's primary customers are in commercial and defense-related markets that need advanced sensing and communications semiconductors, including mobile, automotive, AI, defense and aerospace, industrial, AR/VR, and quantum computing sectors. Geographically, its activities and partnerships, such as joining the Midwest Microelectronics Consortium, indicate a focus on U.S. markets and U.S. government agency partners.
   
-  1.4. **Competition:** Key competitors include large semiconductor and photonics firms such as NVIDIA, AMD, Intel, Qualcomm and other optics/photonics players referenced in coverage, with Aeluma positioned as a small, emerging niche player rather than a market leader. MarketBeat also lists solar and display semiconductor companies as peers, underscoring that Aeluma competes in a crowded, well-capitalized field.
+  1.4. **Competition:** Key competitors include large semiconductor and communications chipmakers such as NVIDIA, AMD, Intel, and Qualcomm, as listed in its competitor candidates. Aeluma operates as a much smaller, specialized player within the broader semiconductor and photonics ecosystem, without disclosed leading market share versus these incumbents.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has risen from support near $11.82 toward recent resistance around $14.16.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of $13.81 is moving from support near $11.82 toward resistance around $14.16.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the identified 7d/30d support around $11.82 offered a favorable entry during this period. Selling or trimming positions near the recent local high and resistance around $14.16 would have captured short-term gains.
+  2.2. **7d Buy/Sell Points?:** Over the last week, the area near the 7-day/30-day support around $11.82 appeared to be a favorable buy zone. The region near recent local and 7-day resistance around $14.16 offered better short-term selling or trimming opportunities.
   
   2.3.1. **7d Volume:** low
   
@@ -68,13 +68,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Aeluma appears more established than a fly-by-night operation but is still an early-stage, higher-risk company. It has joined industry initiatives like the Midwest Microelectronics Consortium and AIM Photonics and recently completed an oversubscribed public offering raising $25.4M, bringing cash to $39.2M, which supports its commercialization push. Financials show negative net income and profit margins but positive free cash flow in the latest data, indicating some balance-sheet support despite ongoing losses. Its NASDAQ listing, institutional coverage, and participation in multiple conferences point to growing but not yet fully proven stability.
+  3.1. **Stability?:** Aeluma is an emerging semiconductor company rather than a long-established blue-chip, but it has been steadily building its technology and market presence, including uplisting to Nasdaq and joining industry consortia like the Midwest Microelectronics Consortium. Financially it remains loss-making with a negative profit margin, but it has positive free cash flow of about $0.49M and recently bolstered its balance sheet with a $25.4M oversubscribed public offering, bringing cash to $39.2M. The acquisition of significant capital equipment assets and participation in multiple conferences suggest an organized push toward commercialization and manufacturing readiness. Overall, it is not a fly-by-night entity, but still in an early, higher-risk phase of its corporate lifecycle.
   
-  3.2. **Innovating?:** It is actively innovating and growing, as shown by its expanding patent portfolio (35 semiconductor IP assets), novel large-diameter compound semiconductor processes, and new capital equipment acquisitions to accelerate manufacturing readiness. News about joining MMEC and AIM Photonics and focusing on AI, mobile, and defense markets further indicates ongoing R&D and market expansion rather than stagnation.
+  3.2. **Innovating?:** Aeluma appears to be actively innovating and growing, as evidenced by expanding its semiconductor photonics patent portfolio, acquiring capital equipment to accelerate manufacturing readiness, and joining innovation hubs like MMEC. Its targeted applications in AI, defense, and advanced communications further indicate a focus on cutting-edge technology rather than a mature, stagnant business.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on strategic moves to accelerate commercialization: joining the Midwest Microelectronics Consortium, acquiring significant capital equipment, and participating in investor-focused conferences and fireside chats. The company also completed an oversubscribed public offering at $13.00 per share, materially strengthening its cash position to support scaling. Additionally, it has filed new patents expanding its IP portfolio and signaling continued technology advancement. Given the 'Sell the news? yes' quick fact, these positive announcements may have seen initial enthusiasm followed by post-news consolidation or profit taking, consistent with the buy-the-rumor, sell-the-news pattern.
+  4.1. **News:** Recent news highlights Aeluma raising $25.4M in an oversubscribed public offering to support its commercialization, acquiring capital equipment to accelerate manufacturing readiness, and joining the Midwest Microelectronics Consortium to deepen ties with defense and commercial markets. The company is also expanding its patent portfolio in semiconductor photonics manufacturing and participating in investor conferences and fireside chats, which increase visibility and may build expectations. Given quick facts that flag 'Sell the news?' as 'yes', investors may have been inclined to take profits after these positive announcements. This pattern fits the 'buy the rumor, sell the news' adage, where upbeat catalysts and visibility events can be followed by consolidation or selling as expectations are priced in.
   
   4.2. **Tarrifs:** unknown
   
@@ -156,13 +156,12 @@ raw_markdown: |
   Filtered 1 headline(s) from banned sources.
   Latest news fallback search -&gt; ALMU latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;ALMU latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=ALMU+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -390,17 +389,15 @@ raw_markdown: |
     newsapi search -&gt; ALMU tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; ALMU latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 0 result(s)
+      newsapi: cached 0 result(s)
       gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; ALMU latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -408,33 +405,30 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+rumor&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=ALMU+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
       newsapi: 0 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; ALMU tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 0 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; ALMU tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariff+impact&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariff+impact&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;ALMU tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;ALMU tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
       newsapi: 0 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -454,12 +448,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the middle of its 1-year and 5-year ranges and just above 7d support at $11.82 after a sharp 3-month rise from near-bottom levels; macro froth context is limited, and shares now trade below the 20-day moving average ($13.16) and well below recent SMA/EMA levels (around $17–18), suggesting volatility and unclear reward-to-risk near resistance at $14.16.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops compound semiconductor materials and chips on large-diameter subst
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading between 1-year/5-year middle ranges but still below its 20-day and longer SMAs, suggesting a potential but not low-risk add near support around $11.82; macro froth or bubble context is not provided so broader risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a U.S.-based semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops sensor technology and compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Its solutions tar
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-08T15:24:26.118802+00:00">2026-03-08 15:24 UTC</time> (runtime 57.57s)
+**Generated:** <time class="js-local-time" datetime="2026-03-10T10:39:42.951165+00:00">2026-03-10 10:39 UTC</time> (runtime 1m 2s)
 
 ![Aeluma, Inc. Common Stock logo](https://ryness.github.io/stonks/assets/logos/ALMU.svg)
 
@@ -497,23 +491,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in the middle of its 1-year and 5-year ranges and just above 7d support at $11.82 after a sharp 3-month rise from near-bottom levels; macro froth context is limited, and shares now trade below the 20-day moving average ($13.16) and well below recent SMA/EMA levels (around $17–18), suggesting volatility and unclear reward-to-risk near resistance at $14.16.
+0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading between 1-year/5-year middle ranges but still below its 20-day and longer SMAs, suggesting a potential but not low-risk add near support around $11.82; macro froth or bubble context is not provided so broader risk visibility is limited.
 
 ## 1. The Biz
 
-1.1. **Activities:** Aeluma, Inc. is a semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops compound semiconductor materials and chips on large-diameter substrates used in mass-market microelectronics. Its technologies target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
+1.1. **Activities:** Aeluma, Inc. is a U.S.-based semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops sensor technology and compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Its solutions target applications across mobile, automotive, AI, defense and aerospace, communications, AR/VR, and quantum computing.
 
-1.2. **Profitable?:** no — the company has a negative profit margin of about -52% and a cumulative net loss over recent periods, with commentary emphasizing an uncertain path to consistent profitability despite revenue growth efforts.
+1.2. **Profitable?:** no — the company has a negative net income sum of about -$2.74M and a profit margin of -52%, indicating it is not yet profitable, though it has positive free cash flow and is transitioning toward commercialization.
 
-1.3. **Customer & Markets:** Aeluma's primary customers are OEMs and system integrators in markets such as mobile devices, automotive, AI and data center, defense and aerospace, industrial automation, robotics, communications, AR/VR, and quantum computing. Its markets are primarily U.S.-centric but aimed at large global semiconductor and photonics demand pools through partnerships like the Midwest Microelectronics Consortium and AIM Photonics.
+1.3. **Customer & Markets:** Aeluma's primary customers are in commercial and defense-related markets that need advanced sensing and communications semiconductors, including mobile, automotive, AI, defense and aerospace, industrial, AR/VR, and quantum computing sectors. Geographically, its activities and partnerships, such as joining the Midwest Microelectronics Consortium, indicate a focus on U.S. markets and U.S. government agency partners.
 
-1.4. **Competition:** Key competitors include large semiconductor and photonics firms such as NVIDIA, AMD, Intel, Qualcomm and other optics/photonics players referenced in coverage, with Aeluma positioned as a small, emerging niche player rather than a market leader. MarketBeat also lists solar and display semiconductor companies as peers, underscoring that Aeluma competes in a crowded, well-capitalized field.
+1.4. **Competition:** Key competitors include large semiconductor and communications chipmakers such as NVIDIA, AMD, Intel, and Qualcomm, as listed in its competitor candidates. Aeluma operates as a much smaller, specialized player within the broader semiconductor and photonics ecosystem, without disclosed leading market share versus these incumbents.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the price has risen from support near $11.82 toward recent resistance around $14.16.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the current price of $13.81 is moving from support near $11.82 toward resistance around $14.16.
 
-2.2. **7d Buy/Sell Points?:** Buying near the identified 7d/30d support around $11.82 offered a favorable entry during this period. Selling or trimming positions near the recent local high and resistance around $14.16 would have captured short-term gains.
+2.2. **7d Buy/Sell Points?:** Over the last week, the area near the 7-day/30-day support around $11.82 appeared to be a favorable buy zone. The region near recent local and 7-day resistance around $14.16 offered better short-term selling or trimming opportunities.
 
 2.3.1. **7d Volume:** low
 
@@ -521,13 +515,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Aeluma appears more established than a fly-by-night operation but is still an early-stage, higher-risk company. It has joined industry initiatives like the Midwest Microelectronics Consortium and AIM Photonics and recently completed an oversubscribed public offering raising $25.4M, bringing cash to $39.2M, which supports its commercialization push. Financials show negative net income and profit margins but positive free cash flow in the latest data, indicating some balance-sheet support despite ongoing losses. Its NASDAQ listing, institutional coverage, and participation in multiple conferences point to growing but not yet fully proven stability.
+3.1. **Stability?:** Aeluma is an emerging semiconductor company rather than a long-established blue-chip, but it has been steadily building its technology and market presence, including uplisting to Nasdaq and joining industry consortia like the Midwest Microelectronics Consortium. Financially it remains loss-making with a negative profit margin, but it has positive free cash flow of about $0.49M and recently bolstered its balance sheet with a $25.4M oversubscribed public offering, bringing cash to $39.2M. The acquisition of significant capital equipment assets and participation in multiple conferences suggest an organized push toward commercialization and manufacturing readiness. Overall, it is not a fly-by-night entity, but still in an early, higher-risk phase of its corporate lifecycle.
 
-3.2. **Innovating?:** It is actively innovating and growing, as shown by its expanding patent portfolio (35 semiconductor IP assets), novel large-diameter compound semiconductor processes, and new capital equipment acquisitions to accelerate manufacturing readiness. News about joining MMEC and AIM Photonics and focusing on AI, mobile, and defense markets further indicates ongoing R&D and market expansion rather than stagnation.
+3.2. **Innovating?:** Aeluma appears to be actively innovating and growing, as evidenced by expanding its semiconductor photonics patent portfolio, acquiring capital equipment to accelerate manufacturing readiness, and joining innovation hubs like MMEC. Its targeted applications in AI, defense, and advanced communications further indicate a focus on cutting-edge technology rather than a mature, stagnant business.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on strategic moves to accelerate commercialization: joining the Midwest Microelectronics Consortium, acquiring significant capital equipment, and participating in investor-focused conferences and fireside chats. The company also completed an oversubscribed public offering at $13.00 per share, materially strengthening its cash position to support scaling. Additionally, it has filed new patents expanding its IP portfolio and signaling continued technology advancement. Given the 'Sell the news? yes' quick fact, these positive announcements may have seen initial enthusiasm followed by post-news consolidation or profit taking, consistent with the buy-the-rumor, sell-the-news pattern.
+4.1. **News:** Recent news highlights Aeluma raising $25.4M in an oversubscribed public offering to support its commercialization, acquiring capital equipment to accelerate manufacturing readiness, and joining the Midwest Microelectronics Consortium to deepen ties with defense and commercial markets. The company is also expanding its patent portfolio in semiconductor photonics manufacturing and participating in investor conferences and fireside chats, which increase visibility and may build expectations. Given quick facts that flag 'Sell the news?' as 'yes', investors may have been inclined to take profits after these positive announcements. This pattern fits the 'buy the rumor, sell the news' adage, where upbeat catalysts and visibility events can be followed by consolidation or selling as expectations are priced in.
 
 4.2. **Tarrifs:** unknown
 
@@ -609,13 +603,12 @@ Massive news: collected 7 articles.
 Filtered 1 headline(s) from banned sources.
 Latest news fallback search -&gt; ALMU latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;ALMU latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=ALMU+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -843,17 +836,15 @@ Guardian search failed for &#x27;ALMU rumor&#x27;: 401 Client Error: Unauthorize
   newsapi search -&gt; ALMU tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; ALMU latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 0 result(s)
+    newsapi: cached 0 result(s)
     gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; ALMU latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -861,33 +852,30 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+latest+rumor&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=ALMU+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
     newsapi: 0 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; ALMU tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 0 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; ALMU tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariff+impact&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=ALMU+tariff+impact&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=ALMU+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=ALMU+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;ALMU tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=ALMU+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;ALMU tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
     newsapi: 0 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -907,6 +895,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in the middle of its 1-year and 5-year ranges and just above 7d support at $11.82 after a sharp 3-month rise from near-bottom levels; macro froth context is limited, and shares now trade below the 20-day moving average ($13.16) and well below recent SMA/EMA levels (around $17–18), suggesting volatility and unclear reward-to-risk near resistance at $14.16.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops compound semiconductor materials and chips on large-diameter subst
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading between 1-year/5-year middle ranges but still below its 20-day and longer SMAs, suggesting a potential but not low-risk add near support around $11.82; macro froth or bubble context is not provided so broader risk visibility is limited.&quot;, &quot;1.1&quot;: &quot;Aeluma, Inc. is a U.S.-based semiconductor company specializing in high-performance optoelectronic devices for sensing and communications. It develops sensor technology and compound semiconductor devices on large-diameter substrates commonly used in mass-market microelectronics. Its solutions tar
 </code></pre>
 </details>
