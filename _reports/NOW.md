@@ -2,11 +2,11 @@
 layout: default
 title: "NOW Stock Report"
 ticker: "NOW"
-date: 2026-03-17
-generated_at: 2026-03-17T02:06:11.269783+00:00
-runtime_seconds: 64.62
+date: 2026-03-19
+generated_at: 2026-03-19T02:10:43.953198+00:00
+runtime_seconds: 48.38
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-17T02:06:11.269783+00:00">2026-03-17 02:06 UTC</time> (runtime 1m 5s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-19T02:10:43.953198+00:00">2026-03-19 02:10 UTC</time> (runtime 48.38s)
   
   ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
   
@@ -49,30 +49,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Is it safe to travel to Dubai? Latest UK FCO advice after drone strike near airport](https://metro.co.uk/2026/03/16/safe-travel-dubai-latest-uk-foreign-office-drone-strike-near-airport-27464249/) — Metro.co.uk · 2026-03-16
-  - [Those who once aspired to be Vishwaguru are now making people stand in long queues: Akhilesh Yadav](https://www.lokmattimes.com/national/those-who-once-aspired-to-be-vishwaguru-are-now-making-people-stand-in-long-queues-akhilesh-yadav/) — Lokmat Times · 2026-03-16
-  - [Salman Khan's ’Battle of Galwan' to be called 'Maatrubhumi' now: May War Rest in Peace](https://www.lokmattimes.com/entertainment/salman-khans-battle-of-galwan-to-be-called-maatrubhumi-now-may-war-rest-in-peace/) — Lokmat Times · 2026-03-16
+  - [14 Arrested in Varanasi for Hosting Iftar, Eating Biryani on Ganga - Watch Video](https://www.timesnownews.com/india/14-arrested-in-varanasi-for-hosting-iftar-eating-biryani-on-ganga-watch-video-article-153863543) — Times Now · 2026-03-18
+  - [Iran Intelligence Minister Esmail Khatib Likely Eliminated in Overnight Tehran Strikes](https://www.timesnownews.com/world/iran-intelligence-minister-esmail-khatib-likely-eliminated-in-overnight-tehran-strikes-article-153862684) — Times Now · 2026-03-18
+  - [‘Class traitor’ jibe boomerangs on CPI(M) amid wave of defections](https://www.lokmattimes.com/national/class-traitor-jibe-boomerangs-on-cpim-amid-wave-of-defections/) — Lokmat Times · 2026-03-18
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in a 3-month near-bottom zone and mid-range versus 1-year/5-year history but sits just under its 20-day average ($812.93 vs ~$832) near support at $795; macro froth visibility is limited beyond sector-wide SaaS sell-off headlines, and resistance is nearby at ~$832–835 which caps immediate upside.
+  0.1. **Long Entry?:** maybe — the stock trades in the middle of its 1-year and 5-year ranges with a recent near-bottom 3-month profile, suggesting no extreme bubble but not a deep value setup either; macro froth visibility is limited to sector-wide software sell-off headlines, while the price is in an uptrend sitting just above key support around 795 and slightly below its 20-day moving average and nearby resistance around 831-835.
   
   ## 1. The Biz
   
-  1.1. **Activities:** ServiceNow provides cloud-based software-as-a-service (SaaS) platforms that structure and automate enterprise workflows. It started with IT service management and expanded across IT operations to customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service for building custom workflow apps.
+  1.1. **Activities:** ServiceNow provides cloud-based software solutions that structure and automate enterprise workflows via a SaaS delivery model. It started in IT service management and has expanded across IT operations, customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service to let customers build custom workflow apps.
   
-  1.2. **Profitable?:** yes — the company is profitable, with positive net income in recent periods totaling about $1.75B and a profit margin of roughly 13%.
+  1.2. **Profitable?:** yes — ServiceNow is profitable, with positive net income over the last four periods totaling about $1.75B and a profit margin of roughly 13%.
   
-  1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers that need to automate and manage complex IT and business workflows. Its markets span IT, customer service, HR, and security operations, with a global enterprise SaaS footprint anchored in the United States.
+  1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise and corporate customers that need to automate IT service management, customer service, HR, and security workflows. Its core market is the global enterprise software sector, with operations based in the United States but solutions applicable across industries that require digital workflow automation.
   
-  1.4. **Competition:** Key competitors include large software and platform vendors such as Microsoft, Salesforce (CRM), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Adobe (ADSK), Meta, Google, and Nvidia in broader AI/software. ServiceNow is a leading player within IT service management and workflow automation among these application software peers.
+  1.4. **Competition:** Key competitors include large enterprise software and cloud providers such as Salesforce (CRM), Microsoft (MSFT), Alphabet/Google (GOOGL), Meta (META), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), and Nvidia (NVDA); ServiceNow positions itself among these leading application software players in workflow and automation platforms.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from support near $795 toward resistance around $831.69.
+  2.1. **7d Trend?:** up — the 7-day trend is labeled as an uptrend, with price moving from support near 795 toward resistance around 831.69.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the identified support around $795 within the last week offered favorable entry points. Selling or trimming near the local high and resistance zone around $831–835 represented attractive short-term exit levels.
+  2.2. **7d Buy/Sell Points?:** Buying near the identified support around 795 has been the more favorable entry area over the past week, while selling or trimming near the recent local high and resistance around 831–835 has offered better exit points.
   
   2.3.1. **7d Volume:** low
   
@@ -80,13 +80,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in the enterprise software sector, operating a recurring-revenue SaaS model. It has generated consistent positive net income over recent periods and strong free cash flow of about $5.0B versus operating cash flow of about $5.4B, indicating solid cash generation. The company's position in mission-critical IT and business workflows for large enterprises supports durability of demand. While detailed balance sheet data and founding date are not provided here, its scale, profitability, and entrenched enterprise footprint all point to a stable, not fly-by-night, profile.
+  3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operator. It generates consistent positive net income, with four recent periods summing to about $1.75B and a profit margin above 13%, and it produces strong operating and free cash flow (around $5.4B and $5.0B respectively). The company operates in the core enterprise IT and workflow automation space, serving large organizations with mission-critical SaaS solutions. Its stock trades around the middle of its 1-year and 5-year ranges, suggesting it has weathered market cycles without extreme distress. Overall, the combination of recurring SaaS revenue, profitability, and cash generation supports its institutional stability.
   
-  3.2. **Innovating?:** ServiceNow is actively innovating and growing, with revenue growth of about 20.7% and earnings growth of about 4.4%. Recent launches like Autonomous Workforce and EmployeeWorks and AI-focused partnerships (e.g., Cohesity for AI agent recovery, NTT DOCOMO and StarHub for AI-powered roaming operations) underscore its push into AI-driven workflow automation.
+  3.2. **Innovating?:** ServiceNow is clearly innovating and growing, as shown by revenue growth of about 20.7% and earnings growth of 4.4%, along with new AI-driven offerings and partnerships like the AI Agent Control Tower integration with Cohesity and AI-powered roaming and workforce products. These initiatives indicate active product expansion in high-growth areas such as enterprise AI agents and autonomous workflows.
   
   ## 4. Context
   
-  4.1. **News:** Recent news flow around ServiceNow is largely positive and innovation-focused, including strategic AI partnerships with Cohesity to make enterprise AI agents more resilient and with NTT DOCOMO and StarHub to build an AI-driven inter-carrier roaming model, which lifted shares in premarket trading. Another article highlights CEO insider buying on bad news as a potential confidence signal, suggesting that some prior selloffs may have been overreactions. Sector commentary (e.g., HSBC dismissing 'SaaSpocalypse' fears and noting that software will benefit from AI) provides a supportive macro narrative for quality SaaS names like ServiceNow. In a 'buy the rumor, sell the news' context, the stock may have already sold off with the broader $1T software correction and then bounced on concrete AI partnership news, implying better opportunities buying into pessimism rather than into upbeat headlines.
+  4.1. **News:** Recent news flow around ServiceNow has focused on AI-driven partnerships and product launches, such as collaborations with Cohesity to make enterprise AI agents more resilient and with NTT DOCOMO and StarHub to use AI to improve roaming, alongside new Autonomous Workforce and EmployeeWorks offerings. Another article highlights insider buying by ServiceNow's CEO on bad news as a potential positive signal, while broader sector pieces discuss fears of a "SaaSpocalypse" and argue that software is likely to benefit from AI rather than be displaced. These headlines suggest that earlier AI disruption worries may have contributed to a broader software sell-off, with subsequent positive AI announcements and insider confidence potentially acting as "buy the rumor" catalysts. However, the quick-facts flag "Sell the news? yes" and "Buy the rumor? no," implying that rallies on concrete announcements may be faded and that better entries may come on dips after good news. Overall, the context supports using pullbacks on or after strong AI-related headlines as potential accumulation points, consistent with the "Buy the dip? yes" cue.
   
   4.2. **Tarrifs:** unknown
   
@@ -119,7 +119,8 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>GNews: core business, product portfolio, earnings trend, market segments, market share, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, latest news, tariffs</li>
+  <li>Google Custom Search: tariffs news</li>
+  <li>GNews: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -173,11 +174,11 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+news&amp;num=2&amp;start=11
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Running supplementary searches...
     google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=10&amp;start=1
@@ -202,7 +203,7 @@ raw_markdown: |
   Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 2 result(s)
+      gnews: 3 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -221,12 +222,11 @@ raw_markdown: |
   NewsAPI search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=10&amp;start=1
@@ -247,7 +247,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 5 result(s)
+      gnews: 4 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=10&amp;start=1
@@ -259,7 +259,7 @@ raw_markdown: |
   Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=10&amp;start=1
@@ -271,7 +271,7 @@ raw_markdown: |
   Guardian search failed for &#x27;NOW market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 2 result(s)
+      gnews: 3 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -290,12 +290,11 @@ raw_markdown: |
   NewsAPI search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=10&amp;start=1
@@ -326,26 +325,24 @@ raw_markdown: |
   NewsAPI search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   NewsAPI search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NOW tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -427,12 +424,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 3-month near-bottom zone and mid-range versus 1-year/5-year history but sits just under its 20-day average ($812.93 vs ~$832) near support at $795; macro froth visibility is limited beyond sector-wide SaaS sell-off headlines, and resistance is nearby at ~$832–835 which caps immediate upside.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software-as-a-service (SaaS) platforms that structure and automate enterprise workflows. It started with IT service management and expanded across IT operations to customer service, HR service delivery, and security operations. The co
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades in the middle of its 1-year and 5-year ranges with a recent near-bottom 3-month profile, suggesting no extreme bubble but not a deep value setup either; macro froth visibility is limited to sector-wide software sell-off headlines, while the price is in an uptrend sitting just above key support around 795 and slightly below its 20-day moving average and nearby resistance around 831-835.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software solutions that structure and automate enterprise workflows via a SaaS delivery model. It started in IT service management and 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-17T02:06:11.269783+00:00">2026-03-17 02:06 UTC</time> (runtime 1m 5s)
+**Generated:** <time class="js-local-time" datetime="2026-03-19T02:10:43.953198+00:00">2026-03-19 02:10 UTC</time> (runtime 48.38s)
 
 ![SERVICENOW, INC. logo](https://ryness.github.io/stonks/assets/logos/NOW.svg)
 
@@ -475,30 +472,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Is it safe to travel to Dubai? Latest UK FCO advice after drone strike near airport](https://metro.co.uk/2026/03/16/safe-travel-dubai-latest-uk-foreign-office-drone-strike-near-airport-27464249/) — Metro.co.uk · 2026-03-16
-- [Those who once aspired to be Vishwaguru are now making people stand in long queues: Akhilesh Yadav](https://www.lokmattimes.com/national/those-who-once-aspired-to-be-vishwaguru-are-now-making-people-stand-in-long-queues-akhilesh-yadav/) — Lokmat Times · 2026-03-16
-- [Salman Khan's ’Battle of Galwan' to be called 'Maatrubhumi' now: May War Rest in Peace](https://www.lokmattimes.com/entertainment/salman-khans-battle-of-galwan-to-be-called-maatrubhumi-now-may-war-rest-in-peace/) — Lokmat Times · 2026-03-16
+- [14 Arrested in Varanasi for Hosting Iftar, Eating Biryani on Ganga - Watch Video](https://www.timesnownews.com/india/14-arrested-in-varanasi-for-hosting-iftar-eating-biryani-on-ganga-watch-video-article-153863543) — Times Now · 2026-03-18
+- [Iran Intelligence Minister Esmail Khatib Likely Eliminated in Overnight Tehran Strikes](https://www.timesnownews.com/world/iran-intelligence-minister-esmail-khatib-likely-eliminated-in-overnight-tehran-strikes-article-153862684) — Times Now · 2026-03-18
+- [‘Class traitor’ jibe boomerangs on CPI(M) amid wave of defections](https://www.lokmattimes.com/national/class-traitor-jibe-boomerangs-on-cpim-amid-wave-of-defections/) — Lokmat Times · 2026-03-18
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in a 3-month near-bottom zone and mid-range versus 1-year/5-year history but sits just under its 20-day average ($812.93 vs ~$832) near support at $795; macro froth visibility is limited beyond sector-wide SaaS sell-off headlines, and resistance is nearby at ~$832–835 which caps immediate upside.
+0.1. **Long Entry?:** maybe — the stock trades in the middle of its 1-year and 5-year ranges with a recent near-bottom 3-month profile, suggesting no extreme bubble but not a deep value setup either; macro froth visibility is limited to sector-wide software sell-off headlines, while the price is in an uptrend sitting just above key support around 795 and slightly below its 20-day moving average and nearby resistance around 831-835.
 
 ## 1. The Biz
 
-1.1. **Activities:** ServiceNow provides cloud-based software-as-a-service (SaaS) platforms that structure and automate enterprise workflows. It started with IT service management and expanded across IT operations to customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service for building custom workflow apps.
+1.1. **Activities:** ServiceNow provides cloud-based software solutions that structure and automate enterprise workflows via a SaaS delivery model. It started in IT service management and has expanded across IT operations, customer service, HR service delivery, and security operations. The company also offers an application development platform-as-a-service to let customers build custom workflow apps.
 
-1.2. **Profitable?:** yes — the company is profitable, with positive net income in recent periods totaling about $1.75B and a profit margin of roughly 13%.
+1.2. **Profitable?:** yes — ServiceNow is profitable, with positive net income over the last four periods totaling about $1.75B and a profit margin of roughly 13%.
 
-1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise customers that need to automate and manage complex IT and business workflows. Its markets span IT, customer service, HR, and security operations, with a global enterprise SaaS footprint anchored in the United States.
+1.3. **Customer & Markets:** ServiceNow primarily serves large enterprise and corporate customers that need to automate IT service management, customer service, HR, and security workflows. Its core market is the global enterprise software sector, with operations based in the United States but solutions applicable across industries that require digital workflow automation.
 
-1.4. **Competition:** Key competitors include large software and platform vendors such as Microsoft, Salesforce (CRM), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Adobe (ADSK), Meta, Google, and Nvidia in broader AI/software. ServiceNow is a leading player within IT service management and workflow automation among these application software peers.
+1.4. **Competition:** Key competitors include large enterprise software and cloud providers such as Salesforce (CRM), Microsoft (MSFT), Alphabet/Google (GOOGL), Meta (META), Atlassian (TEAM), HubSpot (HUBS), Intuit (INTU), Autodesk (ADSK), and Nvidia (NVDA); ServiceNow positions itself among these leading application software players in workflow and automation platforms.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from support near $795 toward resistance around $831.69.
+2.1. **7d Trend?:** up — the 7-day trend is labeled as an uptrend, with price moving from support near 795 toward resistance around 831.69.
 
-2.2. **7d Buy/Sell Points?:** Buying near the identified support around $795 within the last week offered favorable entry points. Selling or trimming near the local high and resistance zone around $831–835 represented attractive short-term exit levels.
+2.2. **7d Buy/Sell Points?:** Buying near the identified support around 795 has been the more favorable entry area over the past week, while selling or trimming near the recent local high and resistance around 831–835 has offered better exit points.
 
 2.3.1. **7d Volume:** low
 
@@ -506,13 +503,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** ServiceNow appears to be a relatively stable institution in the enterprise software sector, operating a recurring-revenue SaaS model. It has generated consistent positive net income over recent periods and strong free cash flow of about $5.0B versus operating cash flow of about $5.4B, indicating solid cash generation. The company's position in mission-critical IT and business workflows for large enterprises supports durability of demand. While detailed balance sheet data and founding date are not provided here, its scale, profitability, and entrenched enterprise footprint all point to a stable, not fly-by-night, profile.
+3.1. **Stability?:** ServiceNow appears to be a relatively stable, established software company rather than a fly-by-night operator. It generates consistent positive net income, with four recent periods summing to about $1.75B and a profit margin above 13%, and it produces strong operating and free cash flow (around $5.4B and $5.0B respectively). The company operates in the core enterprise IT and workflow automation space, serving large organizations with mission-critical SaaS solutions. Its stock trades around the middle of its 1-year and 5-year ranges, suggesting it has weathered market cycles without extreme distress. Overall, the combination of recurring SaaS revenue, profitability, and cash generation supports its institutional stability.
 
-3.2. **Innovating?:** ServiceNow is actively innovating and growing, with revenue growth of about 20.7% and earnings growth of about 4.4%. Recent launches like Autonomous Workforce and EmployeeWorks and AI-focused partnerships (e.g., Cohesity for AI agent recovery, NTT DOCOMO and StarHub for AI-powered roaming operations) underscore its push into AI-driven workflow automation.
+3.2. **Innovating?:** ServiceNow is clearly innovating and growing, as shown by revenue growth of about 20.7% and earnings growth of 4.4%, along with new AI-driven offerings and partnerships like the AI Agent Control Tower integration with Cohesity and AI-powered roaming and workforce products. These initiatives indicate active product expansion in high-growth areas such as enterprise AI agents and autonomous workflows.
 
 ## 4. Context
 
-4.1. **News:** Recent news flow around ServiceNow is largely positive and innovation-focused, including strategic AI partnerships with Cohesity to make enterprise AI agents more resilient and with NTT DOCOMO and StarHub to build an AI-driven inter-carrier roaming model, which lifted shares in premarket trading. Another article highlights CEO insider buying on bad news as a potential confidence signal, suggesting that some prior selloffs may have been overreactions. Sector commentary (e.g., HSBC dismissing 'SaaSpocalypse' fears and noting that software will benefit from AI) provides a supportive macro narrative for quality SaaS names like ServiceNow. In a 'buy the rumor, sell the news' context, the stock may have already sold off with the broader $1T software correction and then bounced on concrete AI partnership news, implying better opportunities buying into pessimism rather than into upbeat headlines.
+4.1. **News:** Recent news flow around ServiceNow has focused on AI-driven partnerships and product launches, such as collaborations with Cohesity to make enterprise AI agents more resilient and with NTT DOCOMO and StarHub to use AI to improve roaming, alongside new Autonomous Workforce and EmployeeWorks offerings. Another article highlights insider buying by ServiceNow's CEO on bad news as a potential positive signal, while broader sector pieces discuss fears of a "SaaSpocalypse" and argue that software is likely to benefit from AI rather than be displaced. These headlines suggest that earlier AI disruption worries may have contributed to a broader software sell-off, with subsequent positive AI announcements and insider confidence potentially acting as "buy the rumor" catalysts. However, the quick-facts flag "Sell the news? yes" and "Buy the rumor? no," implying that rallies on concrete announcements may be faded and that better entries may come on dips after good news. Overall, the context supports using pullbacks on or after strong AI-related headlines as potential accumulation points, consistent with the "Buy the dip? yes" cue.
 
 4.2. **Tarrifs:** unknown
 
@@ -545,7 +542,8 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>GNews: core business, product portfolio, earnings trend, market segments, market share, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, latest news, tariffs</li>
+<li>Google Custom Search: tariffs news</li>
+<li>GNews: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -599,11 +597,11 @@ GNews search: GET https://gnews.io/api/v4/search?q=NOW+latest+news&amp;lang=en&a
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NOW latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+latest+news&amp;num=2&amp;start=11
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Running supplementary searches...
   google_custom_search search -&gt; NOW core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+core+business&amp;num=10&amp;start=1
@@ -628,7 +626,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=NOW+product+portf
 Guardian search failed for &#x27;NOW product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 2 result(s)
+    gnews: 3 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -647,12 +645,11 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+profitability&amp;pa
 NewsAPI search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+profitability&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NOW profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+earnings+trend&amp;num=10&amp;start=1
@@ -673,7 +670,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=NOW+profit+outlook&amp;lang=e
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 5 result(s)
+    gnews: 4 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+target+customers&amp;num=10&amp;start=1
@@ -685,7 +682,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=NOW+target+custom
 Guardian search failed for &#x27;NOW target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+segments&amp;num=10&amp;start=1
@@ -697,7 +694,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=NOW+market+segmen
 Guardian search failed for &#x27;NOW market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 2 result(s)
+    gnews: 3 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -716,12 +713,11 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+competitors&amp;page
 NewsAPI search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+competitors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NOW competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+market+share&amp;num=10&amp;start=1
@@ -752,26 +748,24 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumors&amp;pageSize=
 NewsAPI search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+rumors&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NOW rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NOW tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NOW+tariffs+news&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 NewsAPI search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NOW+tariffs+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NOW tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NOW+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NOW tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NOW rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NOW+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -853,6 +847,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in a 3-month near-bottom zone and mid-range versus 1-year/5-year history but sits just under its 20-day average ($812.93 vs ~$832) near support at $795; macro froth visibility is limited beyond sector-wide SaaS sell-off headlines, and resistance is nearby at ~$832–835 which caps immediate upside.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software-as-a-service (SaaS) platforms that structure and automate enterprise workflows. It started with IT service management and expanded across IT operations to customer service, HR service delivery, and security operations. The co
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock trades in the middle of its 1-year and 5-year ranges with a recent near-bottom 3-month profile, suggesting no extreme bubble but not a deep value setup either; macro froth visibility is limited to sector-wide software sell-off headlines, while the price is in an uptrend sitting just above key support around 795 and slightly below its 20-day moving average and nearby resistance around 831-835.&quot;, &quot;1.1&quot;: &quot;ServiceNow provides cloud-based software solutions that structure and automate enterprise workflows via a SaaS delivery model. It started in IT service management and 
 </code></pre>
 </details>
