@@ -2,11 +2,11 @@
 layout: default
 title: "PLTR Stock Report"
 ticker: "PLTR"
-date: 2026-03-21
-generated_at: 2026-03-21T05:40:56.941351+00:00
-runtime_seconds: 32.88
+date: 2026-03-23
+generated_at: 2026-03-23T02:12:01.826584+00:00
+runtime_seconds: 37.10
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-21T05:40:56.941351+00:00">2026-03-21 05:40 UTC</time> (runtime 32.88s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-23T02:12:01.826584+00:00">2026-03-23 02:12 UTC</time> (runtime 37.10s)
   
   ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
   
@@ -54,23 +54,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — price is in an uptrend but sits above its 20-day average ($162.25 vs. $169.81 dma20) and closer to resistance ($174.57) than support ($147.56), suggesting limited near-term upside; macro froth context is mixed with AI enthusiasm and war-driven defense tailwinds but no explicit bubble signal in the provided data.
+  0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle range and above the 20-day DMA (162.25 vs 169.81) but not far from nearby resistance at 174.57; macro froth context is limited to AI/defense enthusiasm in headlines so bubble risk visibility is incomplete.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Palantir Technologies is an artificial intelligence, analytics, and automated decision-making software company. It provides the Gotham platform for government and defense clients and the Foundry platform for commercial enterprises, helping them integrate and analyze data to improve operational efficiency and decision-making. The company focuses on customers in Western-allied nations and reserves the right not to work with entities it deems antithetical to Western values.
+  1.1. **Activities:** Palantir is an artificial intelligence, analytics, and automated decision-making software company focused on helping organizations use data to drive efficiency. It delivers its capabilities primarily through two platforms: Gotham for government and defense customers, and Foundry for commercial enterprises. The company emphasizes working with Western-allied nations and reserves the right to avoid clients it deems contrary to Western values.
   
-  1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over the last four reported periods totaling about $1.63 billion and a profit margin of roughly 36%.
+  1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.63 billion and a profit margin of roughly 36%.
   
-  1.3. **Customer & Markets:** Palantir's primary customers are government agencies, especially in defense and intelligence, via Gotham, and commercial enterprises across sectors such as financial services and mortgages via Foundry and AI platforms. Its markets are concentrated in Western-allied countries, where data sovereignty, security, and AI-driven decision support are critical. Recent partnerships, like with Moder for AI-powered mortgage operations and with NVIDIA for sovereign AI OS, underscore its focus on regulated, data-sensitive industries in the U.S. and allied regions.
+  1.3. **Customer & Markets:** Palantir's primary customers are government and defense agencies (served via Gotham) and large commercial enterprises across sectors like finance, mortgage lending, and industrials (served via Foundry and AI platforms). Its markets are mainly Western-allied countries, with recent activity tied to U.S. government contracts, European defense initiatives, and commercial deployments such as AI-powered mortgage operations in the U.S.
   
-  1.4. **Competition:** Palantir competes with large AI and cloud/data platforms such as Microsoft, Google, Amazon, Nvidia, Snowflake, and other analytics players, as indicated by its listed competitor and related-company set. Several analysts describe it as in a "category of one" in terms of combining defense-grade data platforms and AI, suggesting a differentiated but contested position in the broader AI/software infrastructure space.
+  1.4. **Competition:** Palantir competes with large technology and AI infrastructure players such as Microsoft, Google, Amazon, Nvidia, Meta, Snowflake, AMD, and AI-focused peers like C3.ai. Recent coverage characterizes Palantir as being in a 'category of one' in terms of combining AI, data analytics, and government-grade platforms, suggesting a differentiated position rather than direct parity with these competitors.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the stock has risen from a prior close of $150.68 to $162.25, remaining in a labeled uptrend and above its 20-day moving average.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from the prior close of 150.68 to 162.25 with MACD positive.
   
-  2.2. **7d Buy/Sell Points?:** During the last 7 days, entries near support around $147.56 and the recent low near $149.09 offered better buy points, while approaches toward the 7-day/local high and resistance near $174.57 would have been favorable sell or trim zones. The move from roughly the mid-$150s open to the recent $162.25 close also provided an intermediate trading range for partial profit-taking.
+  2.2. **7d Buy/Sell Points?:** In the last week, price traded near support around 147.56–149.09, which would have been attractive buy levels; selling or trimming near the recent local high and resistance around 174.57 would have been a favorable exit zone.
   
   2.3.1. **7d Volume:** med
   
@@ -78,13 +78,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Palantir is a relatively established technology company, founded in 2003 and public since 2020, with a long operating history in sensitive government and commercial data environments. Financially, it shows consistent profitability (about $1.63 billion cumulative recent net income), strong margins (~36%), and robust cash generation, including over $2.1 billion in operating cash flow and more than $1.26 billion in free cash flow. These metrics suggest a solid balance between growth and financial stability rather than a fragile or speculative operation. Its focus on Western-allied, mission-critical government and enterprise work further underscores its institutional footing and recurring demand profile. Overall, the company appears far from fly-by-night and more akin to a durable, strategically important software vendor.
+  3.1. **Stability?:** Palantir was founded in 2003 and went public in 2020, indicating more than two decades of operating history rather than a fly-by-night profile. Financially, it is generating consistent net income (about $1.6 billion cumulative over recent periods), strong profit margins (~36%), and robust free cash flow and operating cash flow. The firm serves mission-critical roles for government and defense, and has long-term contracts and strategic partnerships (e.g., with NVIDIA and defense-related firms), which typically support revenue durability. Its stated focus on Western-allied clients and data sovereignty further anchors it to established institutional customers, enhancing perceived stability.
   
-  3.2. **Innovating?:** Palantir is actively innovating and growing, as reflected in 70% revenue growth, very strong earnings growth, and multiple new AI-driven initiatives such as its AIP platform, a sovereign AI OS with NVIDIA, and an AI-powered mortgage operations partnership with Moder. Analyst upgrades and commentary describing it as being in a "category of one" in AI/data infrastructure further highlight ongoing innovation momentum rather than stagnation.
+  3.2. **Innovating?:** Palantir appears to be actively innovating and growing, as evidenced by rapid revenue and earnings growth (70% revenue growth, 6.7x earnings growth) and new AI initiatives like the sovereign AI OS with NVIDIA and an AI-powered mortgage operations platform. Its positioning in AI, defense tech, and data-driven decision platforms suggests ongoing product and market expansion rather than stagnation.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights strong AI and defense momentum: Palantir announced a strategic AI partnership with NVIDIA for a sovereign AI OS and teamed with Moder on an AI mortgage platform, while also partnering with Ondas on autonomous defense systems. Geopolitical conflict, particularly the Iran war and broader regional instability, has boosted demand for defense, drone, and data-intelligence stocks, with Palantir cited as a key beneficiary and recovering strongly in early 2026. At the same time, Michael Burry's high-profile bearish puts and $46 fair-value call have injected valuation skepticism and short-side "rumor" pressure, even as the CEO publicly dismisses those views. The stock has seen rallies followed by profit-taking pullbacks, and quick facts flag "no" on both "buy the rumor" and "sell the news," suggesting that, so far, news and rumor have produced choppy moves rather than a clean buy-the-rumor/sell-the-news pattern. Overall, the context is one of elevated attention and mixed sentiment: bullish on AI/defense themes, cautious on valuation and sustainability of the run.
+  4.1. **News:** Recent news highlights Palantir's expanding AI partnerships, including a sovereign AI OS architecture with NVIDIA and a mortgage-operations AI platform with Moder and Freedom Mortgage, indicating strong product momentum. The company is also cited in the context of geopolitical conflict and defense demand (Iran war, drone defense, European drone initiatives), which has boosted investor interest in defense- and AI-related names. Analyst coverage notes strong AI-driven upgrades and describes Palantir as being in a 'category of one,' while some pieces flag valuation and execution risks. So far, headlines and analyst upgrades have led to rallies followed by modest pullbacks (e.g., a 1.5% dip as investors locked in gains), suggesting that 'buy the rumor, sell the news' behavior has been present but not extreme. Overall, the flow of positive news and war-driven demand has supported the stock, with occasional profit-taking rather than a clear post-news collapse.
   
   4.2. **Tarrifs:** unknown
   
@@ -115,7 +115,7 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
@@ -162,13 +162,14 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 14 headline(s) from banned sources.
+  Filtered 15 headline(s) from banned sources.
   Latest news fallback search -&gt; PLTR latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 5 result(s)
       gnews: 0 result(s)
@@ -227,6 +228,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 0 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -261,12 +263,11 @@ raw_markdown: |
   Google Custom Search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 2 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -335,7 +336,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 5 result(s)
+      newsapi: 6 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
@@ -364,11 +365,10 @@ raw_markdown: |
     newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 3 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=10&amp;start=1
@@ -386,28 +386,29 @@ raw_markdown: |
   Google Custom Search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 5 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 1 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 5 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
@@ -429,11 +430,10 @@ raw_markdown: |
     newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 6 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=10&amp;start=1
@@ -464,12 +464,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend but sits above its 20-day average ($162.25 vs. $169.81 dma20) and closer to resistance ($174.57) than support ($147.56), suggesting limited near-term upside; macro froth context is mixed with AI enthusiasm and war-driven defense tailwinds but no explicit bubble signal in the provided data.&quot;,&quot;1.1&quot;: &quot;Palantir Technologies is an artificial intelligence, analytics, and automated decision-making software company. It provides the Gotham platform for government and defense clients and the Foundry platform for commercial enterprises, helping them integrate and a
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit in the 1-year and 5-year middle range and above the 20-day DMA (162.25 vs 169.81) but not far from nearby resistance at 174.57; macro froth context is limited to AI/defense enthusiasm in headlines so bubble risk visibility is incomplete.&quot;, &quot;1.1&quot;: &quot;Palantir is an artificial intelligence, analytics, and automated decision-making software company focused on helping organizations use data to drive efficiency. It delivers its capabilities primarily through two platforms: Gotham for government and defense customers, and Foundry for commercial enterprises. The company emph
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-21T05:40:56.941351+00:00">2026-03-21 05:40 UTC</time> (runtime 32.88s)
+**Generated:** <time class="js-local-time" datetime="2026-03-23T02:12:01.826584+00:00">2026-03-23 02:12 UTC</time> (runtime 37.10s)
 
 ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
 
@@ -517,23 +517,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — price is in an uptrend but sits above its 20-day average ($162.25 vs. $169.81 dma20) and closer to resistance ($174.57) than support ($147.56), suggesting limited near-term upside; macro froth context is mixed with AI enthusiasm and war-driven defense tailwinds but no explicit bubble signal in the provided data.
+0.1. **Long Entry?:** maybe — shares sit in the 1-year and 5-year middle range and above the 20-day DMA (162.25 vs 169.81) but not far from nearby resistance at 174.57; macro froth context is limited to AI/defense enthusiasm in headlines so bubble risk visibility is incomplete.
 
 ## 1. The Biz
 
-1.1. **Activities:** Palantir Technologies is an artificial intelligence, analytics, and automated decision-making software company. It provides the Gotham platform for government and defense clients and the Foundry platform for commercial enterprises, helping them integrate and analyze data to improve operational efficiency and decision-making. The company focuses on customers in Western-allied nations and reserves the right not to work with entities it deems antithetical to Western values.
+1.1. **Activities:** Palantir is an artificial intelligence, analytics, and automated decision-making software company focused on helping organizations use data to drive efficiency. It delivers its capabilities primarily through two platforms: Gotham for government and defense customers, and Foundry for commercial enterprises. The company emphasizes working with Western-allied nations and reserves the right to avoid clients it deems contrary to Western values.
 
-1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over the last four reported periods totaling about $1.63 billion and a profit margin of roughly 36%.
+1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.63 billion and a profit margin of roughly 36%.
 
-1.3. **Customer & Markets:** Palantir's primary customers are government agencies, especially in defense and intelligence, via Gotham, and commercial enterprises across sectors such as financial services and mortgages via Foundry and AI platforms. Its markets are concentrated in Western-allied countries, where data sovereignty, security, and AI-driven decision support are critical. Recent partnerships, like with Moder for AI-powered mortgage operations and with NVIDIA for sovereign AI OS, underscore its focus on regulated, data-sensitive industries in the U.S. and allied regions.
+1.3. **Customer & Markets:** Palantir's primary customers are government and defense agencies (served via Gotham) and large commercial enterprises across sectors like finance, mortgage lending, and industrials (served via Foundry and AI platforms). Its markets are mainly Western-allied countries, with recent activity tied to U.S. government contracts, European defense initiatives, and commercial deployments such as AI-powered mortgage operations in the U.S.
 
-1.4. **Competition:** Palantir competes with large AI and cloud/data platforms such as Microsoft, Google, Amazon, Nvidia, Snowflake, and other analytics players, as indicated by its listed competitor and related-company set. Several analysts describe it as in a "category of one" in terms of combining defense-grade data platforms and AI, suggesting a differentiated but contested position in the broader AI/software infrastructure space.
+1.4. **Competition:** Palantir competes with large technology and AI infrastructure players such as Microsoft, Google, Amazon, Nvidia, Meta, Snowflake, AMD, and AI-focused peers like C3.ai. Recent coverage characterizes Palantir as being in a 'category of one' in terms of combining AI, data analytics, and government-grade platforms, suggesting a differentiated position rather than direct parity with these competitors.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the stock has risen from a prior close of $150.68 to $162.25, remaining in a labeled uptrend and above its 20-day moving average.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and price has moved from the prior close of 150.68 to 162.25 with MACD positive.
 
-2.2. **7d Buy/Sell Points?:** During the last 7 days, entries near support around $147.56 and the recent low near $149.09 offered better buy points, while approaches toward the 7-day/local high and resistance near $174.57 would have been favorable sell or trim zones. The move from roughly the mid-$150s open to the recent $162.25 close also provided an intermediate trading range for partial profit-taking.
+2.2. **7d Buy/Sell Points?:** In the last week, price traded near support around 147.56–149.09, which would have been attractive buy levels; selling or trimming near the recent local high and resistance around 174.57 would have been a favorable exit zone.
 
 2.3.1. **7d Volume:** med
 
@@ -541,13 +541,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Palantir is a relatively established technology company, founded in 2003 and public since 2020, with a long operating history in sensitive government and commercial data environments. Financially, it shows consistent profitability (about $1.63 billion cumulative recent net income), strong margins (~36%), and robust cash generation, including over $2.1 billion in operating cash flow and more than $1.26 billion in free cash flow. These metrics suggest a solid balance between growth and financial stability rather than a fragile or speculative operation. Its focus on Western-allied, mission-critical government and enterprise work further underscores its institutional footing and recurring demand profile. Overall, the company appears far from fly-by-night and more akin to a durable, strategically important software vendor.
+3.1. **Stability?:** Palantir was founded in 2003 and went public in 2020, indicating more than two decades of operating history rather than a fly-by-night profile. Financially, it is generating consistent net income (about $1.6 billion cumulative over recent periods), strong profit margins (~36%), and robust free cash flow and operating cash flow. The firm serves mission-critical roles for government and defense, and has long-term contracts and strategic partnerships (e.g., with NVIDIA and defense-related firms), which typically support revenue durability. Its stated focus on Western-allied clients and data sovereignty further anchors it to established institutional customers, enhancing perceived stability.
 
-3.2. **Innovating?:** Palantir is actively innovating and growing, as reflected in 70% revenue growth, very strong earnings growth, and multiple new AI-driven initiatives such as its AIP platform, a sovereign AI OS with NVIDIA, and an AI-powered mortgage operations partnership with Moder. Analyst upgrades and commentary describing it as being in a "category of one" in AI/data infrastructure further highlight ongoing innovation momentum rather than stagnation.
+3.2. **Innovating?:** Palantir appears to be actively innovating and growing, as evidenced by rapid revenue and earnings growth (70% revenue growth, 6.7x earnings growth) and new AI initiatives like the sovereign AI OS with NVIDIA and an AI-powered mortgage operations platform. Its positioning in AI, defense tech, and data-driven decision platforms suggests ongoing product and market expansion rather than stagnation.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights strong AI and defense momentum: Palantir announced a strategic AI partnership with NVIDIA for a sovereign AI OS and teamed with Moder on an AI mortgage platform, while also partnering with Ondas on autonomous defense systems. Geopolitical conflict, particularly the Iran war and broader regional instability, has boosted demand for defense, drone, and data-intelligence stocks, with Palantir cited as a key beneficiary and recovering strongly in early 2026. At the same time, Michael Burry's high-profile bearish puts and $46 fair-value call have injected valuation skepticism and short-side "rumor" pressure, even as the CEO publicly dismisses those views. The stock has seen rallies followed by profit-taking pullbacks, and quick facts flag "no" on both "buy the rumor" and "sell the news," suggesting that, so far, news and rumor have produced choppy moves rather than a clean buy-the-rumor/sell-the-news pattern. Overall, the context is one of elevated attention and mixed sentiment: bullish on AI/defense themes, cautious on valuation and sustainability of the run.
+4.1. **News:** Recent news highlights Palantir's expanding AI partnerships, including a sovereign AI OS architecture with NVIDIA and a mortgage-operations AI platform with Moder and Freedom Mortgage, indicating strong product momentum. The company is also cited in the context of geopolitical conflict and defense demand (Iran war, drone defense, European drone initiatives), which has boosted investor interest in defense- and AI-related names. Analyst coverage notes strong AI-driven upgrades and describes Palantir as being in a 'category of one,' while some pieces flag valuation and execution risks. So far, headlines and analyst upgrades have led to rallies followed by modest pullbacks (e.g., a 1.5% dip as investors locked in gains), suggesting that 'buy the rumor, sell the news' behavior has been present but not extreme. Overall, the flow of positive news and war-driven demand has supported the stock, with occasional profit-taking rather than a clear post-news collapse.
 
 4.2. **Tarrifs:** unknown
 
@@ -578,7 +578,7 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
@@ -625,13 +625,14 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 14 headline(s) from banned sources.
+Filtered 15 headline(s) from banned sources.
 Latest news fallback search -&gt; PLTR latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 5 result(s)
     gnews: 0 result(s)
@@ -690,6 +691,7 @@ GNews search failed for &#x27;Palantir Technologies . Class A Common Stock lates
 Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 0 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
@@ -724,12 +726,11 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 2 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -798,7 +799,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+expansion&am
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 5 result(s)
+    newsapi: 6 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
@@ -827,11 +828,10 @@ Guardian search failed for &#x27;PLTR market share&#x27;: 401 Client Error: Unau
   newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 3 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=10&amp;start=1
@@ -849,28 +849,29 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 5 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 1 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 5 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
@@ -892,11 +893,10 @@ Guardian search failed for &#x27;PLTR latest rumor&#x27;: 401 Client Error: Unau
   newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 6 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=10&amp;start=1
@@ -927,6 +927,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend but sits above its 20-day average ($162.25 vs. $169.81 dma20) and closer to resistance ($174.57) than support ($147.56), suggesting limited near-term upside; macro froth context is mixed with AI enthusiasm and war-driven defense tailwinds but no explicit bubble signal in the provided data.&quot;,&quot;1.1&quot;: &quot;Palantir Technologies is an artificial intelligence, analytics, and automated decision-making software company. It provides the Gotham platform for government and defense clients and the Foundry platform for commercial enterprises, helping them integrate and a
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — shares sit in the 1-year and 5-year middle range and above the 20-day DMA (162.25 vs 169.81) but not far from nearby resistance at 174.57; macro froth context is limited to AI/defense enthusiasm in headlines so bubble risk visibility is incomplete.&quot;, &quot;1.1&quot;: &quot;Palantir is an artificial intelligence, analytics, and automated decision-making software company focused on helping organizations use data to drive efficiency. It delivers its capabilities primarily through two platforms: Gotham for government and defense customers, and Foundry for commercial enterprises. The company emph
 </code></pre>
 </details>
