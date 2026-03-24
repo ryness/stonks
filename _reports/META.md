@@ -2,11 +2,11 @@
 layout: default
 title: "META Stock Report"
 ticker: "META"
-date: 2026-03-22
-generated_at: 2026-03-22T20:28:56.500210+00:00
-runtime_seconds: 60.05
+date: 2026-03-24
+generated_at: 2026-03-24T16:06:50.610276+00:00
+runtime_seconds: 57.93
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-22T20:28:56.500210+00:00">2026-03-22 20:28 UTC</time> (runtime 1m 0s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-24T16:06:50.610276+00:00">2026-03-24 16:06 UTC</time> (runtime 57.93s)
   
   ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
   
@@ -49,29 +49,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Move Over Meta, Microsoft — Constellation, NextEra Hit Big Tech Valuations In 2026's Weirdest Trade](https://www.benzinga.com/trading-ideas/movers/26/03/51360797/move-over-meta-microsoft-constellation-nextera-hit-big-tech-valuations-in-2026s-weirdest-tra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-19
-  - [The Great Magnificent 7 Breakup: Nvidia Stands Tall While Tesla, Microsoft Stumble And Fall](https://www.benzinga.com/trading-ideas/long-ideas/26/03/51360457/magnificent-7-stocks-breakup-nvidia-tesla-microsoft-aapl-amzn-meta-googl?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-19
+  - [Nebius Just Locked Up $49B in AI Contracts: 5 Ways to Play the Neocloud Boom](https://www.investing.com/analysis/nebius-just-locked-up-49b-in-ai-contracts-5-ways-to-play-the-neocloud-boom-200677144) — Investing.com · 2026-03-24
+  - [Jensen Huang Explains His Extreme Co-Design Strategy— And Why One-On-One Meetings Don't Work](https://www.benzinga.com/markets/tech/26/03/51429537/why-nvidia-ceo-jensen-huang-avoids-one-on-one-meetings?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-24
+  - [Mark Zuckerberg builds AI CEO to help him run Meta](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) — The-independent.com · 2026-03-23
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — price is at all-time/local resistance around 648 and flagged as overbought versus 7d/30d support near 598–581; macro context shows rotation away from big tech and stagflation/tariff fears pressuring valuations, with limited evidence of a fresh upside bubble here.
+  0.1. **Long Entry?:** no — price is at the 1-year area high near immediate resistance $648.05 and flagged as overbought versus a 1-year low of $483.96; macro froth visibility is limited to broad AI enthusiasm in headlines, while the stock trades only modestly above its 20-day average ($611.37) with nearby support far lower at ~$597.63.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp, which reach nearly 4 billion monthly active users. Consumers and businesses use these apps for social networking, messaging, content sharing, and running digital businesses. Meta monetizes this user attention and data primarily by selling targeted digital advertising, while its Reality Labs (VR/metaverse) segment remains a small contributor to overall sales.
+  1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its "Family of Apps" that includes Facebook, Instagram, Messenger, and WhatsApp, which users access for communication, content sharing, and digital commerce. The company aggregates user and activity data across these platforms to sell targeted digital advertising to businesses. It is also investing in its Reality Labs segment for virtual/augmented reality and metaverse technologies, though this remains a small portion of overall sales.
   
-  1.2. **Profitable?:** yes — Meta is highly profitable, with a ~30% profit margin, cumulative net income over $60 billion across recent periods, and strong free cash flow and operating cash flow.
+  1.2. **Profitable?:** yes — Meta is highly profitable, with recent net income totaling about $60.46B over the latest four reported periods, a profit margin of roughly 30%, strong free cash flow of over $23B, and positive revenue and earnings growth.
   
-  1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers of all sizes, from global brands to small businesses, who pay to reach users across Facebook, Instagram, Messenger, and WhatsApp. Its end users are billions of individuals worldwide who use these apps for communication, entertainment, and commerce. The company operates globally, with a particularly large presence in the United States and broad international exposure.
+  1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers ranging from small businesses to large global brands that pay for targeted ads across Facebook, Instagram, Messenger, and WhatsApp. Its end users are nearly 4 billion monthly active individuals worldwide who use these apps for social networking, content consumption, and commerce, giving Meta a broad, global market across geographies and industries. This two-sided platform model monetizes user engagement by selling ad impressions and performance-based campaigns to advertisers.
   
-  1.4. **Competition:** Meta competes mainly with other large internet and technology platforms such as Alphabet/Google (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Snapchat (SNAP), and Netflix (NFLX) for digital ad budgets and user time. Within global social media and online advertising, Meta is described as the largest social media company in the world, indicating a leading position versus these competitors.
+  1.4. **Competition:** Meta's main competitors include large digital and tech platforms such as Alphabet/Google, Microsoft, Amazon, Apple, Netflix, Snap, and others in online advertising, social media, and digital content. Within global social platforms it remains one of the dominant players by user base and market capitalization, though competition for ad budgets and user attention is intense.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the stock has risen from the low 600s toward the 7d/30d resistance at about 648 with an indicated uptrend label.
+  2.1. **7d Trend?:** up — over the last week the stock has moved from around $604 to $647.95, sitting in a labeled uptrend and pressing against 7-day resistance at $648.05.
   
-  2.2. **7d Buy/Sell Points?:** During the past 7 days, the suggested buy zone was near the recent local low/support around 581.86–597.63, while selling or trimming near the local high and resistance around 648.05 would have captured the short-term move.
+  2.2. **7d Buy/Sell Points?:** Over the past week, attractive buy levels were near short-term support around $597.63–$605, while logical sell or trim levels have been near the recent local and 7-day resistance/high at roughly $648.05.
   
   2.3.1. **7d Volume:** low
   
@@ -79,15 +80,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Meta is a large, established U.S.-based technology company and the world's biggest social media platform, serving nearly 4 billion monthly active users across its Family of Apps. Financially it appears very stable, with roughly 30% profit margins, more than $60 billion in cumulative net income across recent years, and strong free and operating cash flow. These metrics suggest a robust balance sheet and significant internal funding capacity for investment. Its Reality Labs segment is still small relative to the core advertising business, limiting risk from that investment to the company's overall stability.
+  3.1. **Stability?:** Meta Platforms is a large, mature technology company headquartered in the United States with close to 4 billion monthly active users, indicating substantial scale and entrenched network effects. Financially it appears robust, with roughly $60B in recent net income, a 30% profit margin, strong free and operating cash flow, and ongoing revenue and earnings growth. Its global social platforms (Facebook, Instagram, WhatsApp, Messenger) are deeply embedded in personal and business communication, reducing the likelihood of it being a transient or "fly-by-night" player. While the company faces competitive and regulatory pressures, the balance of evidence from size, profitability, and cash generation points to a stable institution.
   
-  3.2. **Innovating?:** Meta is actively innovating and investing for growth, notably through heavy spending on its Reality Labs/metaverse initiatives. At the same time, its core Family of Apps advertising business continues to grow revenue and earnings, indicating ongoing expansion rather than stasis.
+  3.2. **Innovating?:** Meta is actively innovating and growing, investing heavily in AI and its Reality Labs/metaverse initiatives while still expanding its high-margin advertising business, as shown by solid revenue and earnings growth. Recent news such as a $27B AI cloud deal with Nebius and internal AI tools like an AI "CEO" underscore its push to integrate AI across operations and infrastructure.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines show broader markets under pressure from $100 oil and stagflation fears, which has weighed on the S&P 500 and big tech valuations. One article notes an unusual rotation where utilities like Constellation and NextEra now trade at higher multiples than Meta, implying some valuation pressure on traditional tech leaders. Another piece highlights the breakup of the "Magnificent Seven," with Nvidia remaining strong while companies including Meta have been losing ground as investors judge each on fundamentals rather than hype. In this context, the quick facts flag "Sell the news? yes," suggesting that positive AI or growth narratives may already be priced in and that news-driven rallies could be opportunities to lock in gains rather than chase them.
+  4.1. **News:** Recent news flow highlights Meta as a major AI spender and partner, including a $27B AI infrastructure deal with Nebius and references to its leadership style and AI integration in operations. Broader market articles discuss an AI infrastructure boom and macro uncertainty around geopolitics (e.g., Iran talks), which frame a risk-on backdrop where AI-related names, including Meta, have been key beneficiaries. Quick facts label the stock as overbought, with guidance to "sell the news" rather than "buy the dip" or "buy the rumor," suggesting that good AI headlines may already be priced in. In this context, strong AI contract news and internal AI initiatives could invite profit-taking as investors follow the classic "buy the rumor, sell the news" pattern.
   
-  4.2. **Tarrifs:** Tariff-related coverage indicates Meta could face a multi-billion-dollar revenue headwind from tough China tariffs and potential cuts in ad spending, but recent reports also say it has beaten expectations and boosted spending while largely shrugging off immediate tariff impacts; overall, tariffs are a risk factor that can pressure growth and sentiment but have not yet derailed performance.
+  4.2. **Tarrifs:** Tariffs have been cited as a potential headwind, with reports that Trump-era China-focused tariffs could cost Meta up to $7 billion in a year and pressure ad spend, yet other coverage notes the company has so far largely shrugged off tariff impacts by continuing to beat expectations and increase AI-related spending.
   
   ## 5. QuickRef
   
@@ -116,9 +117,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -163,96 +165,28 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 17 headline(s) from banned sources.
+  Filtered 16 headline(s) from banned sources.
   Latest news fallback search -&gt; META latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=META+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 11 result(s)
+      gnews: 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; META earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-  Latest news fallback search -&gt; META analyst news
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=META+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META analyst news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=META+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;META analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+analyst+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+analyst+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-  Latest news fallback search -&gt; Meta Platforms, Inc. Class A Common Stock latest news
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-  Latest news fallback search -&gt; Meta Platforms, Inc. Class A Common Stock earnings news
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-  Latest news fallback search -&gt; Meta Platforms, . Class A Common Stock latest news
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-  Latest news fallback search -&gt; Meta Platforms, . Class A Common Stock earnings news
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-  Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-  Guardian search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 12 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Running supplementary searches...
@@ -260,236 +194,210 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 12 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 11 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 11 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 11 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 11 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 10 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-  GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;META latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: cached 11 result(s)
+      gnews: cached 12 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 5 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 10 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;META tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=META+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;META tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=META+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;META tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
@@ -510,12 +418,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is at all-time/local resistance around 648 and flagged as overbought versus 7d/30d support near 598–581; macro context shows rotation away from big tech and stagflation/tariff fears pressuring valuations, with limited evidence of a fresh upside bubble here.&quot;,&quot;1.1&quot;:&quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp, which reach nearly 4 billion monthly active users. Consumers and businesses use these apps for social networking, messaging, content sharing, and running digital busines
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — price is at the 1-year area high near immediate resistance $648.05 and flagged as overbought versus a 1-year low of $483.96; macro froth visibility is limited to broad AI enthusiasm in headlines, while the stock trades only modestly above its 20-day average ($611.37) with nearby support far lower at ~$597.63.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its “Family of Apps” that includes Facebook, Instagram, Messenger, and WhatsApp, which users access for communication, content sharing, and digital commerce. The company aggregates user
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-22T20:28:56.500210+00:00">2026-03-22 20:28 UTC</time> (runtime 1m 0s)
+**Generated:** <time class="js-local-time" datetime="2026-03-24T16:06:50.610276+00:00">2026-03-24 16:06 UTC</time> (runtime 57.93s)
 
 ![Meta Platforms, Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/META.svg)
 
@@ -558,29 +466,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Move Over Meta, Microsoft — Constellation, NextEra Hit Big Tech Valuations In 2026's Weirdest Trade](https://www.benzinga.com/trading-ideas/movers/26/03/51360797/move-over-meta-microsoft-constellation-nextera-hit-big-tech-valuations-in-2026s-weirdest-tra?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-19
-- [The Great Magnificent 7 Breakup: Nvidia Stands Tall While Tesla, Microsoft Stumble And Fall](https://www.benzinga.com/trading-ideas/long-ideas/26/03/51360457/magnificent-7-stocks-breakup-nvidia-tesla-microsoft-aapl-amzn-meta-googl?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-19
+- [Nebius Just Locked Up $49B in AI Contracts: 5 Ways to Play the Neocloud Boom](https://www.investing.com/analysis/nebius-just-locked-up-49b-in-ai-contracts-5-ways-to-play-the-neocloud-boom-200677144) — Investing.com · 2026-03-24
+- [Jensen Huang Explains His Extreme Co-Design Strategy— And Why One-On-One Meetings Don't Work](https://www.benzinga.com/markets/tech/26/03/51429537/why-nvidia-ceo-jensen-huang-avoids-one-on-one-meetings?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-24
+- [Mark Zuckerberg builds AI CEO to help him run Meta](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) — The-independent.com · 2026-03-23
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — price is at all-time/local resistance around 648 and flagged as overbought versus 7d/30d support near 598–581; macro context shows rotation away from big tech and stagflation/tariff fears pressuring valuations, with limited evidence of a fresh upside bubble here.
+0.1. **Long Entry?:** no — price is at the 1-year area high near immediate resistance $648.05 and flagged as overbought versus a 1-year low of $483.96; macro froth visibility is limited to broad AI enthusiasm in headlines, while the stock trades only modestly above its 20-day average ($611.37) with nearby support far lower at ~$597.63.
 
 ## 1. The Biz
 
-1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp, which reach nearly 4 billion monthly active users. Consumers and businesses use these apps for social networking, messaging, content sharing, and running digital businesses. Meta monetizes this user attention and data primarily by selling targeted digital advertising, while its Reality Labs (VR/metaverse) segment remains a small contributor to overall sales.
+1.1. **Activities:** Meta Platforms operates the world's largest social media ecosystem, centered on its "Family of Apps" that includes Facebook, Instagram, Messenger, and WhatsApp, which users access for communication, content sharing, and digital commerce. The company aggregates user and activity data across these platforms to sell targeted digital advertising to businesses. It is also investing in its Reality Labs segment for virtual/augmented reality and metaverse technologies, though this remains a small portion of overall sales.
 
-1.2. **Profitable?:** yes — Meta is highly profitable, with a ~30% profit margin, cumulative net income over $60 billion across recent periods, and strong free cash flow and operating cash flow.
+1.2. **Profitable?:** yes — Meta is highly profitable, with recent net income totaling about $60.46B over the latest four reported periods, a profit margin of roughly 30%, strong free cash flow of over $23B, and positive revenue and earnings growth.
 
-1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers of all sizes, from global brands to small businesses, who pay to reach users across Facebook, Instagram, Messenger, and WhatsApp. Its end users are billions of individuals worldwide who use these apps for communication, entertainment, and commerce. The company operates globally, with a particularly large presence in the United States and broad international exposure.
+1.3. **Customer & Markets:** Meta's primary customers on the revenue side are digital advertisers ranging from small businesses to large global brands that pay for targeted ads across Facebook, Instagram, Messenger, and WhatsApp. Its end users are nearly 4 billion monthly active individuals worldwide who use these apps for social networking, content consumption, and commerce, giving Meta a broad, global market across geographies and industries. This two-sided platform model monetizes user engagement by selling ad impressions and performance-based campaigns to advertisers.
 
-1.4. **Competition:** Meta competes mainly with other large internet and technology platforms such as Alphabet/Google (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Snapchat (SNAP), and Netflix (NFLX) for digital ad budgets and user time. Within global social media and online advertising, Meta is described as the largest social media company in the world, indicating a leading position versus these competitors.
+1.4. **Competition:** Meta's main competitors include large digital and tech platforms such as Alphabet/Google, Microsoft, Amazon, Apple, Netflix, Snap, and others in online advertising, social media, and digital content. Within global social platforms it remains one of the dominant players by user base and market capitalization, though competition for ad budgets and user attention is intense.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the stock has risen from the low 600s toward the 7d/30d resistance at about 648 with an indicated uptrend label.
+2.1. **7d Trend?:** up — over the last week the stock has moved from around $604 to $647.95, sitting in a labeled uptrend and pressing against 7-day resistance at $648.05.
 
-2.2. **7d Buy/Sell Points?:** During the past 7 days, the suggested buy zone was near the recent local low/support around 581.86–597.63, while selling or trimming near the local high and resistance around 648.05 would have captured the short-term move.
+2.2. **7d Buy/Sell Points?:** Over the past week, attractive buy levels were near short-term support around $597.63–$605, while logical sell or trim levels have been near the recent local and 7-day resistance/high at roughly $648.05.
 
 2.3.1. **7d Volume:** low
 
@@ -588,15 +497,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Meta is a large, established U.S.-based technology company and the world's biggest social media platform, serving nearly 4 billion monthly active users across its Family of Apps. Financially it appears very stable, with roughly 30% profit margins, more than $60 billion in cumulative net income across recent years, and strong free and operating cash flow. These metrics suggest a robust balance sheet and significant internal funding capacity for investment. Its Reality Labs segment is still small relative to the core advertising business, limiting risk from that investment to the company's overall stability.
+3.1. **Stability?:** Meta Platforms is a large, mature technology company headquartered in the United States with close to 4 billion monthly active users, indicating substantial scale and entrenched network effects. Financially it appears robust, with roughly $60B in recent net income, a 30% profit margin, strong free and operating cash flow, and ongoing revenue and earnings growth. Its global social platforms (Facebook, Instagram, WhatsApp, Messenger) are deeply embedded in personal and business communication, reducing the likelihood of it being a transient or "fly-by-night" player. While the company faces competitive and regulatory pressures, the balance of evidence from size, profitability, and cash generation points to a stable institution.
 
-3.2. **Innovating?:** Meta is actively innovating and investing for growth, notably through heavy spending on its Reality Labs/metaverse initiatives. At the same time, its core Family of Apps advertising business continues to grow revenue and earnings, indicating ongoing expansion rather than stasis.
+3.2. **Innovating?:** Meta is actively innovating and growing, investing heavily in AI and its Reality Labs/metaverse initiatives while still expanding its high-margin advertising business, as shown by solid revenue and earnings growth. Recent news such as a $27B AI cloud deal with Nebius and internal AI tools like an AI "CEO" underscore its push to integrate AI across operations and infrastructure.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines show broader markets under pressure from $100 oil and stagflation fears, which has weighed on the S&P 500 and big tech valuations. One article notes an unusual rotation where utilities like Constellation and NextEra now trade at higher multiples than Meta, implying some valuation pressure on traditional tech leaders. Another piece highlights the breakup of the "Magnificent Seven," with Nvidia remaining strong while companies including Meta have been losing ground as investors judge each on fundamentals rather than hype. In this context, the quick facts flag "Sell the news? yes," suggesting that positive AI or growth narratives may already be priced in and that news-driven rallies could be opportunities to lock in gains rather than chase them.
+4.1. **News:** Recent news flow highlights Meta as a major AI spender and partner, including a $27B AI infrastructure deal with Nebius and references to its leadership style and AI integration in operations. Broader market articles discuss an AI infrastructure boom and macro uncertainty around geopolitics (e.g., Iran talks), which frame a risk-on backdrop where AI-related names, including Meta, have been key beneficiaries. Quick facts label the stock as overbought, with guidance to "sell the news" rather than "buy the dip" or "buy the rumor," suggesting that good AI headlines may already be priced in. In this context, strong AI contract news and internal AI initiatives could invite profit-taking as investors follow the classic "buy the rumor, sell the news" pattern.
 
-4.2. **Tarrifs:** Tariff-related coverage indicates Meta could face a multi-billion-dollar revenue headwind from tough China tariffs and potential cuts in ad spending, but recent reports also say it has beaten expectations and boosted spending while largely shrugging off immediate tariff impacts; overall, tariffs are a risk factor that can pressure growth and sentiment but have not yet derailed performance.
+4.2. **Tarrifs:** Tariffs have been cited as a potential headwind, with reports that Trump-era China-focused tariffs could cost Meta up to $7 billion in a year and pressure ad spend, yet other coverage notes the company has so far largely shrugged off tariff impacts by continuing to beat expectations and increase AI-related spending.
 
 ## 5. QuickRef
 
@@ -625,9 +534,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -672,96 +582,28 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=META&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=META&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 17 headline(s) from banned sources.
+Filtered 16 headline(s) from banned sources.
 Latest news fallback search -&gt; META latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=META+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 11 result(s)
+    gnews: 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; META earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-Latest news fallback search -&gt; META analyst news
-NewsAPI search: GET https://newsapi.org/v2/everything?q=META+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=META+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META analyst news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=META+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;META analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+analyst+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+analyst+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-Latest news fallback search -&gt; Meta Platforms, Inc. Class A Common Stock latest news
-NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;Meta Platforms, Inc. Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-Latest news fallback search -&gt; Meta Platforms, Inc. Class A Common Stock earnings news
-NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;Meta Platforms, Inc. Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+Inc.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-Latest news fallback search -&gt; Meta Platforms, . Class A Common Stock latest news
-NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;Meta Platforms, . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-Latest news fallback search -&gt; Meta Platforms, . Class A Common Stock earnings news
-NewsAPI search: GET https://newsapi.org/v2/everything?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
-Guardian search: GET https://content.guardianapis.com/search?q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
-Guardian search failed for &#x27;Meta Platforms, . Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Meta+Platforms%2C+.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 12 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Running supplementary searches...
@@ -769,236 +611,210 @@ Running supplementary searches...
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+core+business&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+product+portfolio&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 12 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+profitability&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+earnings+trend&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 11 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+target+customers&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+segments&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+competitors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+market+share&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 11 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+rumors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariffs+news&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 11 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 11 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 10 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-GNews search: GET https://gnews.io/api/v4/search?q=META+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;META latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: cached 11 result(s)
+    gnews: cached 12 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+latest+rumor&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 5 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; META tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 10 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; META tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=META+tariff+impact&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=META+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;META tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=META+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;META tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=META+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;META tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
@@ -1019,6 +835,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — price is at all-time/local resistance around 648 and flagged as overbought versus 7d/30d support near 598–581; macro context shows rotation away from big tech and stagflation/tariff fears pressuring valuations, with limited evidence of a fresh upside bubble here.&quot;,&quot;1.1&quot;:&quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its Family of Apps: Facebook, Instagram, Messenger, and WhatsApp, which reach nearly 4 billion monthly active users. Consumers and businesses use these apps for social networking, messaging, content sharing, and running digital busines
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — price is at the 1-year area high near immediate resistance $648.05 and flagged as overbought versus a 1-year low of $483.96; macro froth visibility is limited to broad AI enthusiasm in headlines, while the stock trades only modestly above its 20-day average ($611.37) with nearby support far lower at ~$597.63.&quot;, &quot;1.1&quot;: &quot;Meta Platforms operates the world’s largest social media ecosystem, centered on its “Family of Apps” that includes Facebook, Instagram, Messenger, and WhatsApp, which users access for communication, content sharing, and digital commerce. The company aggregates user
 </code></pre>
 </details>
