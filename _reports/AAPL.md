@@ -2,11 +2,11 @@
 layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
-date: 2026-03-25
-generated_at: 2026-03-25T16:11:06.474482+00:00
-runtime_seconds: 72.45
+date: 2026-03-27
+generated_at: 2026-03-27T10:50:57.112551+00:00
+runtime_seconds: 59.53
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-25T16:11:06.474482+00:00">2026-03-25 16:11 UTC</time> (runtime 1m 12s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-27T10:50:57.112551+00:00">2026-03-27 10:50 UTC</time> (runtime 59.53s)
   
   ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
   
@@ -49,29 +49,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [AI Infrastructure Boom Is Driving a Clearer Split in Big Tech](https://www.investing.com/analysis/ai-infrastructure-boom-is-driving-a-clearer-split-in-big-tech-200677077) — Investing.com · 2026-03-23
   - [Apple to make AI comeback bid at annual developers conference](https://financialpost.com/technology/apple-ai-comeback-bid) — Financial Post · 2026-03-23
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares sit at 5-year peak and are flagged overbought while trading just below near-term resistance at 280.38 and well above the 20-day moving average and support; macro froth visibility is limited, but the AI-infrastructure boom is favoring peers like Microsoft over Apple, suggesting elevated sentiment risk rather than a favorable long-entry setup here.
+  0.1. **Long Entry?:** no — shares trade near multi-year peak levels with 1yr/5yr labeled 'peak' and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data
   
   ## 1. The Biz
   
-  1.1. **Activities:** Apple Inc. designs and sells consumer hardware such as the iPhone, Mac, iPad, Apple Watch, and related accessories, anchored around the iPhone as the hub of an integrated ecosystem. It also develops its own software and semiconductors, and offers services including streaming video, subscription bundles, advertising, AppleCare, cloud services, digital content, and payment services. Manufacturing of devices and chips is outsourced to partners like Foxconn and TSMC, while distribution is split between Apple's own stores and third-party channels.
+  1.1. **Activities:** Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while outsourcing manufacturing to partners like Foxconn and TSMC. Sales are generated both directly through Apple's flagship stores and indirectly via carrier and retail distribution partners.
   
-  1.2. **Profitable?:** yes — Apple is profitable, with net income totaling about $117.8 billion over recent periods, a profit margin of roughly 27%, strong free cash flow, and positive revenue and earnings growth.
+  1.2. **Profitable?:** yes — Apple is highly profitable, with net income totaling about $118 billion across recent periods, profit margin of roughly 27%, strong free cash flow over $100 billion, and positive revenue and earnings growth.
   
-  1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses purchasing smartphones, computers, tablets, wearables, and digital services. It serves global markets, with sales driven by its iPhone-centric hardware ecosystem and expanding services such as the App Store, advertising, cloud, and payments, and distribution through both Apple's own stores and partner channels. Slightly less than half of its sales are direct, with the majority coming indirectly via partnerships and distributors worldwide.
+  1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses that buy smartphones, PCs, tablets, wearables, and related services within its ecosystem. It serves global markets, with revenue reported across major geographic segments and significant sales through both its own stores and external distribution partners. Its markets span consumer electronics, digital services, cloud, payments, and content distribution.
   
-  1.4. **Competition:** Apple's main competitors include large technology and consumer platforms such as Microsoft, Amazon, Alphabet/Google, Meta, Netflix, Disney, Nvidia, Tesla, and Berkshire-linked holdings, which vie across hardware, software, cloud, media, and advertising. Among these, Apple ranks as one of the largest global technology companies by market capitalization and consumer reach but is currently viewed as less directly leveraged to the AI infrastructure boom than Microsoft.
+  1.4. **Competition:** Apple's key competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway listed as related or competitor candidates, and it ranks among the largest global tech firms by market capitalization and profitability.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the stock has risen from a previous close near 251.64 to 278.85, with technicals labeling it in an uptrend and sitting just below short-term resistance.
+  2.1. **7d Trend?:** up — over the last week the price has climbed from about 252.89 to 278.85 and the 7d trend is labeled 'up'.
   
-  2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the local and 30-day support area around 265.67–270.90 offered better buy points, while approaches to the recent local high and resistance near 280.38 have been favorable zones to trim or sell. The suggested buy zone in the data aligns with the 7d low at 265.67, and the suggested sell zone matches the 7d/30d resistance at 280.38.
+  2.2. **7d Buy/Sell Points?:** In the last 7 days, pullbacks toward the recent local/30d support area around 265.67–270.90 were favorable buy zones, while approaches to the local and 7d/30d resistance near 280.38 offered better short-term selling or trimming levels.
   
   2.3.1. **7d Volume:** low
   
@@ -79,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Apple is a long-established, large-cap technology company headquartered in the United States and is described as among the largest companies in the world, indicating substantial scale and longevity. Financially, it shows strong stability with cumulative net income of about $117.8 billion over recent periods, a high profit margin around 27%, robust free cash flow exceeding $100 billion, and solid operating cash flow. The firm's diversified revenue mix across hardware and services, global distribution channels, and control over key components like in-house software and semiconductors further support its resilience. Its balance of direct and indirect sales and ongoing earnings and revenue growth suggest it is a stable institution rather than a fly-by-night entity.
+  3.1. **Stability?:** Apple is a highly stable, long-established technology company and one of the world's largest by market capitalization, operating in core consumer electronics and services markets. Its recent net income of roughly $118 billion, 27% profit margin, and over $106 billion in free cash flow indicate a very strong earnings and cash-generation profile. Operating cash flow is robust at about $135 billion, supporting continued investment and shareholder returns. The firm's diversified product and services ecosystem and global distribution further underpin its institutional stability.
   
-  3.2. **Innovating?:** Apple is still innovating and growing, adding new applications like streaming video, subscription bundles, and augmented reality on top of its hardware ecosystem, and preparing a "make-or-break" collection of AI features for its developers conference. However, recent context notes that Apple remains structurally disconnected from the current enterprise AI infrastructure boom that is directly benefiting peers like Microsoft, which may make its growth profile look less AI-leveraged in the near term.
+  3.2. **Innovating?:** Apple is actively innovating and growing, with revenue and earnings growth both around 15–16% and an explicit push into new applications like streaming video, subscription bundles, and augmented reality. The latest news highlights a major upcoming AI feature rollout at its developers conference, reinforcing its innovation focus.
   
   ## 4. Context
   
-  4.1. **News:** Recent news highlights a broader market backdrop of geopolitical tension and relief rallies, with stocks rebounding after de-escalation in Iran, which can create short-term sentiment swings that traders sometimes attempt to front-run ("buy the rumor") and then fade ("sell the news"). Specific to Apple, coverage points to an AI infrastructure boom that is currently favoring Microsoft due to its Azure exposure, while Apple, despite record consumer revenue, is seen as less directly tied to enterprise AI capex, and the MSFT/AAPL spread trade has emerged as a way to play this divergence. Another headline frames Apple's upcoming Worldwide Developers Conference as a pivotal "make-or-break" moment for unveiling new AI features, suggesting elevated expectations into the event that could fit a "buy the rumor, sell the news" pattern if the announcements underwhelm. Overall, the news flow emphasizes macro risk, AI positioning debates within big tech, and event-driven expectations around Apple's AI roadmap rather than concrete new fundamentals already realized in the numbers.
+  4.1. **News:** Recent context centers on Apple's forthcoming "make-or-break" AI feature unveiling at its Worldwide Developers Conference, framing expectations for a significant strategic update. Quick facts flag "Buy the rumor? no" and "Sell the news? yes," suggesting that historically the stock may not reward pre-event speculation but can see selling pressure after big announcements. The stock is currently at multi-period peaks and labeled overbought, which could amplify any post-news "sell the news" reaction if AI announcements fail to exceed lofty expectations. Broader market headlines mention geopolitical and macro developments but do not show Apple-specific shocks beyond event-driven anticipation. Overall, the setup points to elevated expectations where upside may already be priced in ahead of the AI event.
   
-  4.2. **Tarrifs:** Tariffs have imposed significant costs on Apple, with reports of a roughly $900 million quarterly tariff hit and concerns about valuation pressure, though some analyses argue that proactive supply-chain shifts and partial exemptions have kept the revenue impact relatively limited. Overall, tariffs have created headline and cost volatility for the stock but have not fundamentally derailed its profitability or long-term business to date.
+  4.2. **Tarrifs:** Tariffs have added meaningful costs (with one period citing a $900 million quarterly impact) and created headline risk for Apple, but multiple analyses indicate that tariffs have not significantly impaired its overall results and that supply-chain shifts (such as more India production) help mitigate the impact on the stock.
   
   ## 5. QuickRef
   
@@ -116,10 +115,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>NewsAPI: business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -164,7 +163,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 14 headline(s) from banned sources.
+  Filtered 17 headline(s) from banned sources.
   Latest news fallback search -&gt; AAPL latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -172,7 +171,7 @@ raw_markdown: |
   Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=2&amp;start=11
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -183,7 +182,7 @@ raw_markdown: |
   Guardian search failed for &#x27;AAPL earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=2&amp;start=11
-      newsapi: 6 result(s)
+      newsapi: 5 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -241,7 +240,7 @@ raw_markdown: |
   Guardian search failed for &#x27;Apple earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=2&amp;start=11
-      newsapi: 12 result(s)
+      newsapi: 11 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -254,7 +253,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
@@ -273,7 +272,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 5 result(s)
+      newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
@@ -284,7 +283,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
@@ -295,7 +294,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
+      newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
@@ -303,7 +302,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 1 result(s)
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
@@ -333,7 +332,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 10 result(s)
+      newsapi: 8 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
@@ -344,7 +343,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 2 result(s)
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
@@ -374,7 +373,7 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      newsapi: 2 result(s)
       gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
@@ -401,13 +400,13 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 1 result(s)
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL latest news (priority: newsapi, gnews, guardian)
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: cached 4 result(s)
+      newsapi: cached 3 result(s)
       gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -458,12 +457,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares sit at 5-year peak and are flagged overbought while trading just below near-term resistance at 280.38 and well above the 20-day moving average and support; macro froth visibility is limited, but the AI-infrastructure boom is favoring peers like Microsoft over Apple, suggesting elevated sentiment risk rather than a favorable long-entry setup here.&quot;,&quot;1.1&quot;:&quot;Apple Inc. designs and sells consumer hardware such as the iPhone, Mac, iPad, Apple Watch, and related accessories, anchored around the iPhone as the hub of an integrated ecosystem. It also develops its own software and sem
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares trade near multi-year peak levels with 1yr/5yr labeled &#x27;peak&#x27; and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data&quot;,&quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-25T16:11:06.474482+00:00">2026-03-25 16:11 UTC</time> (runtime 1m 12s)
+**Generated:** <time class="js-local-time" datetime="2026-03-27T10:50:57.112551+00:00">2026-03-27 10:50 UTC</time> (runtime 59.53s)
 
 ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
 
@@ -506,29 +505,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [AI Infrastructure Boom Is Driving a Clearer Split in Big Tech](https://www.investing.com/analysis/ai-infrastructure-boom-is-driving-a-clearer-split-in-big-tech-200677077) — Investing.com · 2026-03-23
 - [Apple to make AI comeback bid at annual developers conference](https://financialpost.com/technology/apple-ai-comeback-bid) — Financial Post · 2026-03-23
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares sit at 5-year peak and are flagged overbought while trading just below near-term resistance at 280.38 and well above the 20-day moving average and support; macro froth visibility is limited, but the AI-infrastructure boom is favoring peers like Microsoft over Apple, suggesting elevated sentiment risk rather than a favorable long-entry setup here.
+0.1. **Long Entry?:** no — shares trade near multi-year peak levels with 1yr/5yr labeled 'peak' and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data
 
 ## 1. The Biz
 
-1.1. **Activities:** Apple Inc. designs and sells consumer hardware such as the iPhone, Mac, iPad, Apple Watch, and related accessories, anchored around the iPhone as the hub of an integrated ecosystem. It also develops its own software and semiconductors, and offers services including streaming video, subscription bundles, advertising, AppleCare, cloud services, digital content, and payment services. Manufacturing of devices and chips is outsourced to partners like Foxconn and TSMC, while distribution is split between Apple's own stores and third-party channels.
+1.1. **Activities:** Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while outsourcing manufacturing to partners like Foxconn and TSMC. Sales are generated both directly through Apple's flagship stores and indirectly via carrier and retail distribution partners.
 
-1.2. **Profitable?:** yes — Apple is profitable, with net income totaling about $117.8 billion over recent periods, a profit margin of roughly 27%, strong free cash flow, and positive revenue and earnings growth.
+1.2. **Profitable?:** yes — Apple is highly profitable, with net income totaling about $118 billion across recent periods, profit margin of roughly 27%, strong free cash flow over $100 billion, and positive revenue and earnings growth.
 
-1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses purchasing smartphones, computers, tablets, wearables, and digital services. It serves global markets, with sales driven by its iPhone-centric hardware ecosystem and expanding services such as the App Store, advertising, cloud, and payments, and distribution through both Apple's own stores and partner channels. Slightly less than half of its sales are direct, with the majority coming indirectly via partnerships and distributors worldwide.
+1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses that buy smartphones, PCs, tablets, wearables, and related services within its ecosystem. It serves global markets, with revenue reported across major geographic segments and significant sales through both its own stores and external distribution partners. Its markets span consumer electronics, digital services, cloud, payments, and content distribution.
 
-1.4. **Competition:** Apple's main competitors include large technology and consumer platforms such as Microsoft, Amazon, Alphabet/Google, Meta, Netflix, Disney, Nvidia, Tesla, and Berkshire-linked holdings, which vie across hardware, software, cloud, media, and advertising. Among these, Apple ranks as one of the largest global technology companies by market capitalization and consumer reach but is currently viewed as less directly leveraged to the AI infrastructure boom than Microsoft.
+1.4. **Competition:** Apple's key competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway listed as related or competitor candidates, and it ranks among the largest global tech firms by market capitalization and profitability.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the stock has risen from a previous close near 251.64 to 278.85, with technicals labeling it in an uptrend and sitting just below short-term resistance.
+2.1. **7d Trend?:** up — over the last week the price has climbed from about 252.89 to 278.85 and the 7d trend is labeled 'up'.
 
-2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the local and 30-day support area around 265.67–270.90 offered better buy points, while approaches to the recent local high and resistance near 280.38 have been favorable zones to trim or sell. The suggested buy zone in the data aligns with the 7d low at 265.67, and the suggested sell zone matches the 7d/30d resistance at 280.38.
+2.2. **7d Buy/Sell Points?:** In the last 7 days, pullbacks toward the recent local/30d support area around 265.67–270.90 were favorable buy zones, while approaches to the local and 7d/30d resistance near 280.38 offered better short-term selling or trimming levels.
 
 2.3.1. **7d Volume:** low
 
@@ -536,15 +534,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Apple is a long-established, large-cap technology company headquartered in the United States and is described as among the largest companies in the world, indicating substantial scale and longevity. Financially, it shows strong stability with cumulative net income of about $117.8 billion over recent periods, a high profit margin around 27%, robust free cash flow exceeding $100 billion, and solid operating cash flow. The firm's diversified revenue mix across hardware and services, global distribution channels, and control over key components like in-house software and semiconductors further support its resilience. Its balance of direct and indirect sales and ongoing earnings and revenue growth suggest it is a stable institution rather than a fly-by-night entity.
+3.1. **Stability?:** Apple is a highly stable, long-established technology company and one of the world's largest by market capitalization, operating in core consumer electronics and services markets. Its recent net income of roughly $118 billion, 27% profit margin, and over $106 billion in free cash flow indicate a very strong earnings and cash-generation profile. Operating cash flow is robust at about $135 billion, supporting continued investment and shareholder returns. The firm's diversified product and services ecosystem and global distribution further underpin its institutional stability.
 
-3.2. **Innovating?:** Apple is still innovating and growing, adding new applications like streaming video, subscription bundles, and augmented reality on top of its hardware ecosystem, and preparing a "make-or-break" collection of AI features for its developers conference. However, recent context notes that Apple remains structurally disconnected from the current enterprise AI infrastructure boom that is directly benefiting peers like Microsoft, which may make its growth profile look less AI-leveraged in the near term.
+3.2. **Innovating?:** Apple is actively innovating and growing, with revenue and earnings growth both around 15–16% and an explicit push into new applications like streaming video, subscription bundles, and augmented reality. The latest news highlights a major upcoming AI feature rollout at its developers conference, reinforcing its innovation focus.
 
 ## 4. Context
 
-4.1. **News:** Recent news highlights a broader market backdrop of geopolitical tension and relief rallies, with stocks rebounding after de-escalation in Iran, which can create short-term sentiment swings that traders sometimes attempt to front-run ("buy the rumor") and then fade ("sell the news"). Specific to Apple, coverage points to an AI infrastructure boom that is currently favoring Microsoft due to its Azure exposure, while Apple, despite record consumer revenue, is seen as less directly tied to enterprise AI capex, and the MSFT/AAPL spread trade has emerged as a way to play this divergence. Another headline frames Apple's upcoming Worldwide Developers Conference as a pivotal "make-or-break" moment for unveiling new AI features, suggesting elevated expectations into the event that could fit a "buy the rumor, sell the news" pattern if the announcements underwhelm. Overall, the news flow emphasizes macro risk, AI positioning debates within big tech, and event-driven expectations around Apple's AI roadmap rather than concrete new fundamentals already realized in the numbers.
+4.1. **News:** Recent context centers on Apple's forthcoming "make-or-break" AI feature unveiling at its Worldwide Developers Conference, framing expectations for a significant strategic update. Quick facts flag "Buy the rumor? no" and "Sell the news? yes," suggesting that historically the stock may not reward pre-event speculation but can see selling pressure after big announcements. The stock is currently at multi-period peaks and labeled overbought, which could amplify any post-news "sell the news" reaction if AI announcements fail to exceed lofty expectations. Broader market headlines mention geopolitical and macro developments but do not show Apple-specific shocks beyond event-driven anticipation. Overall, the setup points to elevated expectations where upside may already be priced in ahead of the AI event.
 
-4.2. **Tarrifs:** Tariffs have imposed significant costs on Apple, with reports of a roughly $900 million quarterly tariff hit and concerns about valuation pressure, though some analyses argue that proactive supply-chain shifts and partial exemptions have kept the revenue impact relatively limited. Overall, tariffs have created headline and cost volatility for the stock but have not fundamentally derailed its profitability or long-term business to date.
+4.2. **Tarrifs:** Tariffs have added meaningful costs (with one period citing a $900 million quarterly impact) and created headline risk for Apple, but multiple analyses indicate that tariffs have not significantly impaired its overall results and that supply-chain shifts (such as more India production) help mitigate the impact on the stock.
 
 ## 5. QuickRef
 
@@ -573,10 +571,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (6 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>NewsAPI: business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -621,7 +619,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 14 headline(s) from banned sources.
+Filtered 17 headline(s) from banned sources.
 Latest news fallback search -&gt; AAPL latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -629,7 +627,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&
 Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=2&amp;start=11
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -640,7 +638,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+new
 Guardian search failed for &#x27;AAPL earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=2&amp;start=11
-    newsapi: 6 result(s)
+    newsapi: 5 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -698,7 +696,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=Apple+earnings+ne
 Guardian search failed for &#x27;Apple earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=2&amp;start=11
-    newsapi: 12 result(s)
+    newsapi: 11 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -711,7 +709,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=AAPL+core+business&amp;lang=e
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
@@ -730,7 +728,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+business+model&amp;
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 5 result(s)
+    newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
@@ -741,7 +739,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profitability&amp;lang=e
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
@@ -752,7 +750,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+trend&amp;lang=
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
+    newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
@@ -760,7 +758,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 1 result(s)
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
@@ -790,7 +788,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+expansion&am
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 10 result(s)
+    newsapi: 8 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
@@ -801,7 +799,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitors&amp;lang=en&
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 2 result(s)
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
@@ -831,7 +829,7 @@ GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumors&amp;lang=en&amp;m
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    newsapi: 2 result(s)
     gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
@@ -858,13 +856,13 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff&amp;pageSize
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 1 result(s)
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL latest news (priority: newsapi, gnews, guardian)
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: cached 4 result(s)
+    newsapi: cached 3 result(s)
     gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
@@ -915,6 +913,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — shares sit at 5-year peak and are flagged overbought while trading just below near-term resistance at 280.38 and well above the 20-day moving average and support; macro froth visibility is limited, but the AI-infrastructure boom is favoring peers like Microsoft over Apple, suggesting elevated sentiment risk rather than a favorable long-entry setup here.&quot;,&quot;1.1&quot;:&quot;Apple Inc. designs and sells consumer hardware such as the iPhone, Mac, iPad, Apple Watch, and related accessories, anchored around the iPhone as the hub of an integrated ecosystem. It also develops its own software and sem
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares trade near multi-year peak levels with 1yr/5yr labeled &#x27;peak&#x27; and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data&quot;,&quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while
 </code></pre>
 </details>
