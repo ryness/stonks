@@ -2,11 +2,11 @@
 layout: default
 title: "AAPL Stock Report"
 ticker: "AAPL"
-date: 2026-03-27
-generated_at: 2026-03-27T10:50:57.112551+00:00
-runtime_seconds: 59.53
+date: 2026-03-29
+generated_at: 2026-03-29T06:11:34.521196+00:00
+runtime_seconds: 33.33
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-27T10:50:57.112551+00:00">2026-03-27 10:50 UTC</time> (runtime 59.53s)
+  **Generated:** <time class="js-local-time" datetime="2026-03-29T06:11:34.521196+00:00">2026-03-29 06:11 UTC</time> (runtime 33.33s)
   
   ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
   
@@ -49,28 +49,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Apple to make AI comeback bid at annual developers conference](https://financialpost.com/technology/apple-ai-comeback-bid) — Financial Post · 2026-03-23
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares trade near multi-year peak levels with 1yr/5yr labeled 'peak' and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data
+  0.1. **Long Entry?:** no — shares are at 3-month, 1-year, and 5-year peak levels and flagged as overbought, indicating elevated historical positioning; macro froth visibility is limited in the data; price sits just under near-term resistance at 280.38 and well above both 20-day (272.29) and longer SMAs/EMAs (~260), offering a less favorable risk/reward versus nearby supports around 270.90–265.32.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while outsourcing manufacturing to partners like Foxconn and TSMC. Sales are generated both directly through Apple's flagship stores and indirectly via carrier and retail distribution partners.
+  1.1. **Activities:** Apple designs and sells consumer electronics like the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone generating the majority of its sales. These devices are tightly integrated with Apple's proprietary software, services, and semiconductor designs, forming a broad hardware–software ecosystem. The company also offers services such as streaming video, subscription bundles, and augmented reality experiences, distributed through its own stores and third-party partners.
   
-  1.2. **Profitable?:** yes — Apple is highly profitable, with net income totaling about $118 billion across recent periods, profit margin of roughly 27%, strong free cash flow over $100 billion, and positive revenue and earnings growth.
+  1.2. **Profitable?:** yes — Apple is highly profitable, with a profit margin of about 27% and cumulative net income of roughly $118 billion over the last four reported periods plus strong free cash flow of over $106 billion.
   
-  1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses that buy smartphones, PCs, tablets, wearables, and related services within its ecosystem. It serves global markets, with revenue reported across major geographic segments and significant sales through both its own stores and external distribution partners. Its markets span consumer electronics, digital services, cloud, payments, and content distribution.
+  1.3. **Customer & Markets:** Apple's primary customers are global consumers and businesses that buy iPhones and complementary devices like Macs, iPads, and Watches, which are all designed around an integrated ecosystem. Sales are generated both directly through Apple's flagship retail and online stores and indirectly via carrier and retail partners worldwide, including key markets like China where iPhone sales recently surged 23% in early 2026. The company is also expanding into segments like education with products such as the MacBook Neo and continues to grow its services customer base.
   
-  1.4. **Competition:** Apple's key competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway listed as related or competitor candidates, and it ranks among the largest global tech firms by market capitalization and profitability.
+  1.4. **Competition:** Apple's main competitors are other mega-cap technology and consumer platforms such as Microsoft, Amazon, Alphabet (Google), Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway, which vie for consumer attention, device share, and digital ecosystems. Within this peer group Apple remains one of the largest and most influential holdings, as reflected by continued buy ratings and large institutional positions cited in the news.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the price has climbed from about 252.89 to 278.85 and the 7d trend is labeled 'up'.
+  2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the stock has rallied from a prior close around 248.8 to 278.85, approaching its short-term resistance.
   
-  2.2. **7d Buy/Sell Points?:** In the last 7 days, pullbacks toward the recent local/30d support area around 265.67–270.90 were favorable buy zones, while approaches to the local and 7d/30d resistance near 280.38 offered better short-term selling or trimming levels.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support area around 270.90–265.32 (near the recent local low of 265.67) were the better buy zones. Moves into the resistance area around 280.38, near the recent local high, have been more attractive levels to trim or sell.
   
   2.3.1. **7d Volume:** low
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Apple is a highly stable, long-established technology company and one of the world's largest by market capitalization, operating in core consumer electronics and services markets. Its recent net income of roughly $118 billion, 27% profit margin, and over $106 billion in free cash flow indicate a very strong earnings and cash-generation profile. Operating cash flow is robust at about $135 billion, supporting continued investment and shareholder returns. The firm's diversified product and services ecosystem and global distribution further underpin its institutional stability.
+  3.1. **Stability?:** Apple is a long-established technology leader and one of the largest companies globally, with a diversified hardware, software, and services ecosystem anchored by the iPhone. Its financials indicate strong stability, with about $118 billion of net income over recent periods, a 27% profit margin, and over $106 billion in free cash flow alongside robust operating cash flow. The firm designs its own software and semiconductors but relies on experienced subcontractors like Foxconn and TSMC for manufacturing, spreading operational risk. Its broad distribution through flagship stores and partners worldwide, plus sustained analyst coverage and institutional ownership, further support its status as a stable blue-chip rather than a fly-by-night operator.
   
-  3.2. **Innovating?:** Apple is actively innovating and growing, with revenue and earnings growth both around 15–16% and an explicit push into new applications like streaming video, subscription bundles, and augmented reality. The latest news highlights a major upcoming AI feature rollout at its developers conference, reinforcing its innovation focus.
+  3.2. **Innovating?:** Apple appears to be innovating and growing, adding new applications such as streaming video, subscription bundles, augmented reality, and new hardware like the MacBook Neo to broaden its ecosystem and reach segments like education. Recent coverage also highlights strong momentum in services and fresh product launches that are driving customer enthusiasm and incremental revenue.
   
   ## 4. Context
   
-  4.1. **News:** Recent context centers on Apple's forthcoming "make-or-break" AI feature unveiling at its Worldwide Developers Conference, framing expectations for a significant strategic update. Quick facts flag "Buy the rumor? no" and "Sell the news? yes," suggesting that historically the stock may not reward pre-event speculation but can see selling pressure after big announcements. The stock is currently at multi-period peaks and labeled overbought, which could amplify any post-news "sell the news" reaction if AI announcements fail to exceed lofty expectations. Broader market headlines mention geopolitical and macro developments but do not show Apple-specific shocks beyond event-driven anticipation. Overall, the setup points to elevated expectations where upside may already be priced in ahead of the AI event.
+  4.1. **News:** Recent headlines focus on Apple's stock resilience and modest moves amid geopolitical tensions and rising oil prices, with shares holding near the mid-$250s in March 2026 and occasionally dipping on macro jitters. At the same time, reports cite strong product and services momentum, including new device launches, expanding services revenue, and a 23% surge in China iPhone sales early in 2026, which underpin bullish analyst stances like Citi's reiterated Buy and $315 target. There are also product rumors, such as potential ProMotion displays on future iPhone 19e models, that contribute to forward-looking enthusiasm. Given quick facts that flag 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the data suggest recent strength may already reflect optimistic news and rumors, making post-announcement pullbacks more consistent with a 'buy the rumor, sell the news' dynamic.
   
-  4.2. **Tarrifs:** Tariffs have added meaningful costs (with one period citing a $900 million quarterly impact) and created headline risk for Apple, but multiple analyses indicate that tariffs have not significantly impaired its overall results and that supply-chain shifts (such as more India production) help mitigate the impact on the stock.
+  4.2. **Tarrifs:** unknown
   
   ## 5. QuickRef
   
@@ -115,10 +115,9 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
+  <li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -163,40 +162,40 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 17 headline(s) from banned sources.
+  Filtered 20 headline(s) from banned sources.
   Latest news fallback search -&gt; AAPL latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 3 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; AAPL earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=2&amp;start=11
-      newsapi: 5 result(s)
+  Google Custom Search failed for &#x27;AAPL earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; AAPL analyst news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+analyst+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+analyst+news&amp;num=2&amp;start=11
-      newsapi: 3 result(s)
+  Google Custom Search failed for &#x27;AAPL analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 2 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Apple Inc. latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+Inc.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=Apple+Inc.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -204,11 +203,11 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Apple+Inc.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Apple Inc. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+latest+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;Apple Inc. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 11 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Apple Inc. earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+Inc.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=Apple+Inc.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -216,86 +215,89 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=Apple+Inc.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Apple Inc. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+earnings+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;Apple Inc. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Apple latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=Apple+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=Apple+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;Apple latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Apple+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Apple latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+latest+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+latest+news&amp;num=2&amp;start=11
-      newsapi: 8 result(s)
-      gnews: 12 result(s)
+  Google Custom Search failed for &#x27;Apple latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 9 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Apple earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=Apple+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=Apple+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Apple earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;Apple earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 11 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
     google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 5 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 3 result(s)
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 3 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -307,53 +309,55 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 4 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 2 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 8 result(s)
+      newsapi: 7 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
-      gnews: 0 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 5 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -367,33 +371,35 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 2 result(s)
-      gnews: 2 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 1 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 1 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -411,31 +417,32 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; AAPL tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;AAPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 1 result(s)
-      gnews: 1 result(s)
+      newsapi: 2 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; AAPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=2&amp;start=11
+  Google Custom Search failed for &#x27;AAPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;AAPL tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: 12 result(s)
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -457,12 +464,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares trade near multi-year peak levels with 1yr/5yr labeled &#x27;peak&#x27; and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data&quot;,&quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are at 3-month, 1-year, and 5-year peak levels and flagged as overbought, indicating elevated historical positioning; macro froth visibility is limited in the data; price sits just under near-term resistance at 280.38 and well above both 20-day (272.29) and longer SMAs/EMAs (~260), offering a less favorable risk/reward versus nearby supports around 270.90–265.32.&quot;, &quot;1.1&quot;: &quot;Apple designs and sells consumer electronics like the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone generating the majority of its sales. These devices are tightly integrated w
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-27T10:50:57.112551+00:00">2026-03-27 10:50 UTC</time> (runtime 59.53s)
+**Generated:** <time class="js-local-time" datetime="2026-03-29T06:11:34.521196+00:00">2026-03-29 06:11 UTC</time> (runtime 33.33s)
 
 ![Apple Inc. logo](https://ryness.github.io/stonks/assets/logos/AAPL.svg)
 
@@ -505,28 +512,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Apple to make AI comeback bid at annual developers conference](https://financialpost.com/technology/apple-ai-comeback-bid) — Financial Post · 2026-03-23
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares trade near multi-year peak levels with 1yr/5yr labeled 'peak' and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data
+0.1. **Long Entry?:** no — shares are at 3-month, 1-year, and 5-year peak levels and flagged as overbought, indicating elevated historical positioning; macro froth visibility is limited in the data; price sits just under near-term resistance at 280.38 and well above both 20-day (272.29) and longer SMAs/EMAs (~260), offering a less favorable risk/reward versus nearby supports around 270.90–265.32.
 
 ## 1. The Biz
 
-1.1. **Activities:** Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while outsourcing manufacturing to partners like Foxconn and TSMC. Sales are generated both directly through Apple's flagship stores and indirectly via carrier and retail distribution partners.
+1.1. **Activities:** Apple designs and sells consumer electronics like the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone generating the majority of its sales. These devices are tightly integrated with Apple's proprietary software, services, and semiconductor designs, forming a broad hardware–software ecosystem. The company also offers services such as streaming video, subscription bundles, and augmented reality experiences, distributed through its own stores and third-party partners.
 
-1.2. **Profitable?:** yes — Apple is highly profitable, with net income totaling about $118 billion across recent periods, profit margin of roughly 27%, strong free cash flow over $100 billion, and positive revenue and earnings growth.
+1.2. **Profitable?:** yes — Apple is highly profitable, with a profit margin of about 27% and cumulative net income of roughly $118 billion over the last four reported periods plus strong free cash flow of over $106 billion.
 
-1.3. **Customer & Markets:** Apple's primary customers are consumers and businesses that buy smartphones, PCs, tablets, wearables, and related services within its ecosystem. It serves global markets, with revenue reported across major geographic segments and significant sales through both its own stores and external distribution partners. Its markets span consumer electronics, digital services, cloud, payments, and content distribution.
+1.3. **Customer & Markets:** Apple's primary customers are global consumers and businesses that buy iPhones and complementary devices like Macs, iPads, and Watches, which are all designed around an integrated ecosystem. Sales are generated both directly through Apple's flagship retail and online stores and indirectly via carrier and retail partners worldwide, including key markets like China where iPhone sales recently surged 23% in early 2026. The company is also expanding into segments like education with products such as the MacBook Neo and continues to grow its services customer base.
 
-1.4. **Competition:** Apple's key competitors include large technology and platform companies such as Microsoft, Amazon, Alphabet/Google, Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway listed as related or competitor candidates, and it ranks among the largest global tech firms by market capitalization and profitability.
+1.4. **Competition:** Apple's main competitors are other mega-cap technology and consumer platforms such as Microsoft, Amazon, Alphabet (Google), Nvidia, Tesla, Meta, Netflix, Disney, and Berkshire Hathaway, which vie for consumer attention, device share, and digital ecosystems. Within this peer group Apple remains one of the largest and most influential holdings, as reflected by continued buy ratings and large institutional positions cited in the news.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the price has climbed from about 252.89 to 278.85 and the 7d trend is labeled 'up'.
+2.1. **7d Trend?:** up — the 7d Trend is labeled 'up' and the stock has rallied from a prior close around 248.8 to 278.85, approaching its short-term resistance.
 
-2.2. **7d Buy/Sell Points?:** In the last 7 days, pullbacks toward the recent local/30d support area around 265.67–270.90 were favorable buy zones, while approaches to the local and 7d/30d resistance near 280.38 offered better short-term selling or trimming levels.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the 7-day/30-day support area around 270.90–265.32 (near the recent local low of 265.67) were the better buy zones. Moves into the resistance area around 280.38, near the recent local high, have been more attractive levels to trim or sell.
 
 2.3.1. **7d Volume:** low
 
@@ -534,15 +541,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Apple is a highly stable, long-established technology company and one of the world's largest by market capitalization, operating in core consumer electronics and services markets. Its recent net income of roughly $118 billion, 27% profit margin, and over $106 billion in free cash flow indicate a very strong earnings and cash-generation profile. Operating cash flow is robust at about $135 billion, supporting continued investment and shareholder returns. The firm's diversified product and services ecosystem and global distribution further underpin its institutional stability.
+3.1. **Stability?:** Apple is a long-established technology leader and one of the largest companies globally, with a diversified hardware, software, and services ecosystem anchored by the iPhone. Its financials indicate strong stability, with about $118 billion of net income over recent periods, a 27% profit margin, and over $106 billion in free cash flow alongside robust operating cash flow. The firm designs its own software and semiconductors but relies on experienced subcontractors like Foxconn and TSMC for manufacturing, spreading operational risk. Its broad distribution through flagship stores and partners worldwide, plus sustained analyst coverage and institutional ownership, further support its status as a stable blue-chip rather than a fly-by-night operator.
 
-3.2. **Innovating?:** Apple is actively innovating and growing, with revenue and earnings growth both around 15–16% and an explicit push into new applications like streaming video, subscription bundles, and augmented reality. The latest news highlights a major upcoming AI feature rollout at its developers conference, reinforcing its innovation focus.
+3.2. **Innovating?:** Apple appears to be innovating and growing, adding new applications such as streaming video, subscription bundles, augmented reality, and new hardware like the MacBook Neo to broaden its ecosystem and reach segments like education. Recent coverage also highlights strong momentum in services and fresh product launches that are driving customer enthusiasm and incremental revenue.
 
 ## 4. Context
 
-4.1. **News:** Recent context centers on Apple's forthcoming "make-or-break" AI feature unveiling at its Worldwide Developers Conference, framing expectations for a significant strategic update. Quick facts flag "Buy the rumor? no" and "Sell the news? yes," suggesting that historically the stock may not reward pre-event speculation but can see selling pressure after big announcements. The stock is currently at multi-period peaks and labeled overbought, which could amplify any post-news "sell the news" reaction if AI announcements fail to exceed lofty expectations. Broader market headlines mention geopolitical and macro developments but do not show Apple-specific shocks beyond event-driven anticipation. Overall, the setup points to elevated expectations where upside may already be priced in ahead of the AI event.
+4.1. **News:** Recent headlines focus on Apple's stock resilience and modest moves amid geopolitical tensions and rising oil prices, with shares holding near the mid-$250s in March 2026 and occasionally dipping on macro jitters. At the same time, reports cite strong product and services momentum, including new device launches, expanding services revenue, and a 23% surge in China iPhone sales early in 2026, which underpin bullish analyst stances like Citi's reiterated Buy and $315 target. There are also product rumors, such as potential ProMotion displays on future iPhone 19e models, that contribute to forward-looking enthusiasm. Given quick facts that flag 'Buy the rumor?' as 'no' and 'Sell the news?' as 'yes', the data suggest recent strength may already reflect optimistic news and rumors, making post-announcement pullbacks more consistent with a 'buy the rumor, sell the news' dynamic.
 
-4.2. **Tarrifs:** Tariffs have added meaningful costs (with one period citing a $900 million quarterly impact) and created headline risk for Apple, but multiple analyses indicate that tariffs have not significantly impaired its overall results and that supply-chain shifts (such as more India production) help mitigate the impact on the stock.
+4.2. **Tarrifs:** unknown
 
 ## 5. QuickRef
 
@@ -571,10 +578,9 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (3 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (none)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
+<li>NewsAPI: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, business model, market expansion, competitive landscape, rumor, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -619,40 +625,40 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=AAPL&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 17 headline(s) from banned sources.
+Filtered 20 headline(s) from banned sources.
 Latest news fallback search -&gt; AAPL latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 3 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; AAPL earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+news&amp;num=2&amp;start=11
-    newsapi: 5 result(s)
+Google Custom Search failed for &#x27;AAPL earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; AAPL analyst news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+analyst+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+analyst+news&amp;num=2&amp;start=11
-    newsapi: 3 result(s)
+Google Custom Search failed for &#x27;AAPL analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 2 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Apple Inc. latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+Inc.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=Apple+Inc.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -660,11 +666,11 @@ GNews search failed for &#x27;Apple Inc. latest news&#x27;: 400 Client Error: Ba
 Guardian search: GET https://content.guardianapis.com/search?q=Apple+Inc.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Apple Inc. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+latest+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;Apple Inc. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 11 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Apple Inc. earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+Inc.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=Apple+Inc.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -672,86 +678,89 @@ GNews search failed for &#x27;Apple Inc. earnings news&#x27;: 400 Client Error: 
 Guardian search: GET https://content.guardianapis.com/search?q=Apple+Inc.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Apple Inc. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+Inc.+earnings+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;Apple Inc. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Apple latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=Apple+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=Apple+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
+GNews search failed for &#x27;Apple latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Apple+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Apple latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+latest+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+latest+news&amp;num=2&amp;start=11
-    newsapi: 8 result(s)
-    gnews: 12 result(s)
+Google Custom Search failed for &#x27;Apple latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 9 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Apple earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Apple+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=Apple+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=Apple+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Apple earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Apple+earnings+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;Apple earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 11 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
   google_custom_search search -&gt; AAPL core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+core+business&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+product+portfolio&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 5 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 3 result(s)
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+profitability&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+earnings+trend&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 3 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -763,53 +772,55 @@ Guardian search failed for &#x27;AAPL profit outlook&#x27;: 401 Client Error: Un
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+target+customers&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 4 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+segments&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 2 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 8 result(s)
+    newsapi: 7 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+competitors&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
-    gnews: 0 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 5 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+market+share&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -823,33 +834,35 @@ Guardian search failed for &#x27;AAPL competitive landscape&#x27;: 401 Client Er
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+rumors&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 2 result(s)
-    gnews: 2 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariffs+news&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 1 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 1 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -867,31 +880,32 @@ Guardian search failed for &#x27;AAPL latest news&#x27;: 401 Client Error: Unaut
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+latest+rumor&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; AAPL tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;AAPL tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 1 result(s)
-    gnews: 1 result(s)
+    newsapi: 2 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; AAPL tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=AAPL+tariff+impact&amp;num=2&amp;start=11
+Google Custom Search failed for &#x27;AAPL tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=AAPL+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=AAPL+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=AAPL+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;AAPL tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: 12 result(s)
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -913,6 +927,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares trade near multi-year peak levels with 1yr/5yr labeled &#x27;peak&#x27; and overbought conditions; price sits just under 7d/30d resistance at 280.38 and well above 20-day and longer SMAs, while macro froth context beyond broad tech strength is limited in the data&quot;,&quot;1.1&quot;: &quot;Apple Inc. designs and sells consumer electronics like the iPhone, Mac, iPad, and Apple Watch, which are integrated through its proprietary software and services ecosystem. It also offers services such as streaming video, subscription bundles, cloud, payments, and AppleCare, and designs its own semiconductors while
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are at 3-month, 1-year, and 5-year peak levels and flagged as overbought, indicating elevated historical positioning; macro froth visibility is limited in the data; price sits just under near-term resistance at 280.38 and well above both 20-day (272.29) and longer SMAs/EMAs (~260), offering a less favorable risk/reward versus nearby supports around 270.90–265.32.&quot;, &quot;1.1&quot;: &quot;Apple designs and sells consumer electronics like the iPhone, Mac, iPad, Apple Watch, and related accessories, with the iPhone generating the majority of its sales. These devices are tightly integrated w
 </code></pre>
 </details>
