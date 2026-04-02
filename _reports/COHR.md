@@ -2,11 +2,11 @@
 layout: default
 title: "COHR Stock Report"
 ticker: "COHR"
-date: 2026-03-31
-generated_at: 2026-03-31T06:16:38.654474+00:00
-runtime_seconds: 58.74
+date: 2026-04-02
+generated_at: 2026-04-02T02:13:27.909032+00:00
+runtime_seconds: 30.06
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-03-31T06:16:38.654474+00:00">2026-03-31 06:16 UTC</time> (runtime 58.74s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-02T02:13:27.909032+00:00">2026-04-02 02:13 UTC</time> (runtime 30.06s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -52,23 +52,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — shares sit near multi‑year peak and close to 7d/30d resistance at $252.49 after a powerful run from a 1y low of $50.58; macro AI enthusiasm and Nvidia's $2B deal point to frothy sentiment even as price holds above the 20‑day average ($227.97) and well above support at $204.57.
+  0.1. **Long Entry?:** maybe — shares are near 1-year and 5-year peak levels and just below short-term resistance at $252.49 while still above support at $204.57 and the 20-day average around $228; macro context shows strong AI- and semiconductor-led enthusiasm including S&P 500 inclusion and a multibillion Nvidia deal, indicating some froth but not enough data here to confirm a full bubble.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Coherent Corp. develops, manufactures, and markets lasers, optical and optoelectronic devices, transceivers, modules, systems, and engineered materials. Its offerings support high‑speed communications, industrial, instrumentation, and electronics applications. The company reports in two main segments: Datacenter Communications and Industrial, and sells across North America, Europe, China, Japan, and the rest of the world.
+  1.1. **Activities:** Coherent Corp. develops, manufactures, and markets lasers, optical transceivers, and other optical and optoelectronic devices, modules, and systems. It also produces engineered materials supporting these products. The company operates through two primary segments: Datacenter Communications and Industrial.
   
-  1.2. **Profitable?:** yes — Coherent is profitable, with positive net income over the last four reported periods totaling $293.16M, a profit margin of about 4.7%, and positive free cash flow.
+  1.2. **Profitable?:** yes — Coherent is currently profitable, with positive net income over recent periods, a net income sum of $293.16M, and a profit margin of about 4.7%.
   
-  1.3. **Customer & Markets:** Coherent primarily serves communications and data center customers via its Datacenter Communications segment, as well as industrial, instrumentation, and electronics customers through its Industrial segment. Its markets span major global regions including North America, Europe, China, Japan, and the rest of the world, supplying key optical components and systems into AI data centers and broader communications infrastructure.
+  1.3. **Customer & Markets:** Coherent's primary customers are in communications, industrial, instrumentation, and electronics markets, particularly data center and communications customers driving recent demand. It sells into major geographic regions including North America, Europe, China, Japan, and the rest of the world.
   
   1.4. **Competition:** unknown
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — over the last week the stock has been in an uptrend, rebounding from around the 20‑day average near $228 to close about $247.88 and pressing toward resistance at $252.49.
+  2.1. **7d Trend?:** up — over the last week the stock has moved higher in an uptrend, trading near recent resistance at $252.49 with the close around $247.88 above the 20-day moving average.
   
-  2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the suggested buy zone and support near $204.57 offered the best entry points, while approaches to the recent local high and resistance around $252.49 provided attractive areas to take profits or trim.
+  2.2. **7d Buy/Sell Points?:** In the past 7 days, pullbacks toward support around $204.57 were attractive buy levels, while approaches to the local high and resistance near $252.49 offered favorable sell or trim points.
   
   2.3.1. **7d Volume:** med
   
@@ -76,13 +76,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly‑by‑night operator. It has a diversified business across Datacenter Communications and Industrial segments and operates in multiple major regions, reducing single‑market risk. Financially, it is generating positive net income (about a 4.7% margin), solid revenue growth of 17.5%, and positive operating and free cash flow. Its inclusion in the S&P 500 and the multibillion‑dollar strategic and investment agreement with Nvidia further reinforce its standing as an established, system‑critical supplier in AI and optical infrastructure.
+  3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly-by-night company. It has an established position as a vertically integrated manufacturer in lasers, transceivers, and engineered materials, with diversified end-markets and global geographic exposure across North America, Europe, China, Japan, and other regions. The company generates positive net income with a cumulative $293.16M over recent periods and positive free cash flow of about $130M and operating cash flow near $397M, supporting balance-sheet resilience. Its inclusion in the S&P 500 and a multibillion-dollar strategic partnership and investment from Nvidia further underscore its strategic importance and institutional stature.
   
-  3.2. **Innovating?:** It is clearly innovating and growing, as shown by strong revenue and earnings growth, the launch of new products like the WaveMaker 4000A for Super C‑Band DWDM testing, and its strategic role in Nvidia's AI data center ecosystem. Recent AI‑driven data center demand and index inclusion also indicate ongoing growth momentum rather than stagnation.
+  3.2. **Innovating?:** Coherent is clearly innovating and growing, as evidenced by strong revenue growth of 17.5%, earnings growth of 41.9%, and the launch of new products like the WaveMaker 4000A optical spectrum synthesizer. Its strategic AI data-center partnership with Nvidia and S&P 500 inclusion also highlight its role in next-generation data center infrastructure rather than a stale, low-growth business.
   
   ## 4. Context
   
-  4.1. **News:** Recent news centers on Coherent's strategic partnership with Nvidia, including a multibillion‑dollar purchase agreement and a $2B Nvidia investment, which drove a 15% surge followed by a pullback as some investors likely "sold the news." The stock's addition to the S&P 500 and its 45% YTD gain tied to AI photonics enthusiasm highlight strong "rumor/expectation" buildup around AI infrastructure. Earnings have also beaten expectations, with Q2 EPS and revenue ahead of consensus and robust guidance, reinforcing the fundamental story behind the rally. At the same time, broader markets are contending with stagflation and rate‑hike fears, which could temper speculative excess. Overall, the pattern of sharp pops on AI and Nvidia headlines followed by retracements matches a classic buy‑the‑rumor, sell‑the‑news dynamic flagged in the quick facts ("Sell the news? yes").
+  4.1. **News:** Recent news centers on Coherent's role in the AI infrastructure buildout, highlighted by Nvidia's $2 billion investment and multibillion-dollar purchase agreement for advanced optics, and Coherent's addition to the S&P 500 alongside other AI-related names. Articles note that Coherent shares have rallied sharply (around 45% YTD) and are trading near 52-week highs following these AI and index-inclusion catalysts. The company also reported Q2 earnings and revenue beats with strong data center and communications demand, adding to the bullish narrative. New product launches like the WaveMaker 4000A reinforce the growth story in optical networking. Given the "buy the dip? no / sell the news? yes" quick facts and pullback after the Nvidia deal surge, the data suggest much of the good news may already be priced in, aligning with a "sell the news" dynamic.
   
   4.2. **Tarrifs:** unknown
   
@@ -115,6 +115,7 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (15 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
+  <li>NewsAPI: earnings trend, target customers, market share, market expansion</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -161,87 +162,80 @@ raw_markdown: |
   Filtered 5 headline(s) from banned sources.
   Latest news fallback search -&gt; COHR latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=2&amp;start=11
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; COHR earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 1 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; COHR analyst news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 1 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Coherent Corp. latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Coherent Corp. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Coherent Corp. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+latest+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 3 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Coherent Corp. earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Coherent Corp. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Coherent Corp. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+earnings+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Coherent latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Coherent+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=Coherent+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Coherent latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+latest+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 11 result(s)
       gnews: 2 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Latest news fallback search -&gt; Coherent earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Coherent+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=Coherent+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Coherent earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+earnings+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 12 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -250,222 +244,202 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=10&amp;start=1
-  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 1 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 2 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 0 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: cached 0 result(s)
       gnews: cached 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; COHR tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; COHR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;COHR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      newsapi: 0 result(s)
       gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
@@ -486,12 +460,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit near multi‑year peak and close to 7d/30d resistance at $252.49 after a powerful run from a 1y low of $50.58; macro AI enthusiasm and Nvidia’s $2B deal point to frothy sentiment even as price holds above the 20‑day average ($227.97) and well above support at $204.57.&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets lasers, optical and optoelectronic devices, transceivers, modules, systems, and engineered materials. Its offerings support high‑speed communications, industrial, instrumentation, and electronics applications. The company reports in two main segme
+  LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are near 1-year and 5-year peak levels and just below short-term resistance at $252.49 while still above support at $204.57 and the 20-day average around $228; macro context shows strong AI- and semiconductor-led enthusiasm including S&amp;P 500 inclusion and a multibillion Nvidia deal, indicating some froth but not enough data here to confirm a full bubble.&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets lasers, optical transceivers, and other optical and optoelectronic devices, modules, and systems. It also produces engineered materials supporting these products
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-03-31T06:16:38.654474+00:00">2026-03-31 06:16 UTC</time> (runtime 58.74s)
+**Generated:** <time class="js-local-time" datetime="2026-04-02T02:13:27.909032+00:00">2026-04-02 02:13 UTC</time> (runtime 30.06s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -537,23 +511,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — shares sit near multi‑year peak and close to 7d/30d resistance at $252.49 after a powerful run from a 1y low of $50.58; macro AI enthusiasm and Nvidia's $2B deal point to frothy sentiment even as price holds above the 20‑day average ($227.97) and well above support at $204.57.
+0.1. **Long Entry?:** maybe — shares are near 1-year and 5-year peak levels and just below short-term resistance at $252.49 while still above support at $204.57 and the 20-day average around $228; macro context shows strong AI- and semiconductor-led enthusiasm including S&P 500 inclusion and a multibillion Nvidia deal, indicating some froth but not enough data here to confirm a full bubble.
 
 ## 1. The Biz
 
-1.1. **Activities:** Coherent Corp. develops, manufactures, and markets lasers, optical and optoelectronic devices, transceivers, modules, systems, and engineered materials. Its offerings support high‑speed communications, industrial, instrumentation, and electronics applications. The company reports in two main segments: Datacenter Communications and Industrial, and sells across North America, Europe, China, Japan, and the rest of the world.
+1.1. **Activities:** Coherent Corp. develops, manufactures, and markets lasers, optical transceivers, and other optical and optoelectronic devices, modules, and systems. It also produces engineered materials supporting these products. The company operates through two primary segments: Datacenter Communications and Industrial.
 
-1.2. **Profitable?:** yes — Coherent is profitable, with positive net income over the last four reported periods totaling $293.16M, a profit margin of about 4.7%, and positive free cash flow.
+1.2. **Profitable?:** yes — Coherent is currently profitable, with positive net income over recent periods, a net income sum of $293.16M, and a profit margin of about 4.7%.
 
-1.3. **Customer & Markets:** Coherent primarily serves communications and data center customers via its Datacenter Communications segment, as well as industrial, instrumentation, and electronics customers through its Industrial segment. Its markets span major global regions including North America, Europe, China, Japan, and the rest of the world, supplying key optical components and systems into AI data centers and broader communications infrastructure.
+1.3. **Customer & Markets:** Coherent's primary customers are in communications, industrial, instrumentation, and electronics markets, particularly data center and communications customers driving recent demand. It sells into major geographic regions including North America, Europe, China, Japan, and the rest of the world.
 
 1.4. **Competition:** unknown
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — over the last week the stock has been in an uptrend, rebounding from around the 20‑day average near $228 to close about $247.88 and pressing toward resistance at $252.49.
+2.1. **7d Trend?:** up — over the last week the stock has moved higher in an uptrend, trading near recent resistance at $252.49 with the close around $247.88 above the 20-day moving average.
 
-2.2. **7d Buy/Sell Points?:** During the last 7 days, pullbacks toward the suggested buy zone and support near $204.57 offered the best entry points, while approaches to the recent local high and resistance around $252.49 provided attractive areas to take profits or trim.
+2.2. **7d Buy/Sell Points?:** In the past 7 days, pullbacks toward support around $204.57 were attractive buy levels, while approaches to the local high and resistance near $252.49 offered favorable sell or trim points.
 
 2.3.1. **7d Volume:** med
 
@@ -561,13 +535,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly‑by‑night operator. It has a diversified business across Datacenter Communications and Industrial segments and operates in multiple major regions, reducing single‑market risk. Financially, it is generating positive net income (about a 4.7% margin), solid revenue growth of 17.5%, and positive operating and free cash flow. Its inclusion in the S&P 500 and the multibillion‑dollar strategic and investment agreement with Nvidia further reinforce its standing as an established, system‑critical supplier in AI and optical infrastructure.
+3.1. **Stability?:** Coherent appears to be a relatively stable institution rather than a fly-by-night company. It has an established position as a vertically integrated manufacturer in lasers, transceivers, and engineered materials, with diversified end-markets and global geographic exposure across North America, Europe, China, Japan, and other regions. The company generates positive net income with a cumulative $293.16M over recent periods and positive free cash flow of about $130M and operating cash flow near $397M, supporting balance-sheet resilience. Its inclusion in the S&P 500 and a multibillion-dollar strategic partnership and investment from Nvidia further underscore its strategic importance and institutional stature.
 
-3.2. **Innovating?:** It is clearly innovating and growing, as shown by strong revenue and earnings growth, the launch of new products like the WaveMaker 4000A for Super C‑Band DWDM testing, and its strategic role in Nvidia's AI data center ecosystem. Recent AI‑driven data center demand and index inclusion also indicate ongoing growth momentum rather than stagnation.
+3.2. **Innovating?:** Coherent is clearly innovating and growing, as evidenced by strong revenue growth of 17.5%, earnings growth of 41.9%, and the launch of new products like the WaveMaker 4000A optical spectrum synthesizer. Its strategic AI data-center partnership with Nvidia and S&P 500 inclusion also highlight its role in next-generation data center infrastructure rather than a stale, low-growth business.
 
 ## 4. Context
 
-4.1. **News:** Recent news centers on Coherent's strategic partnership with Nvidia, including a multibillion‑dollar purchase agreement and a $2B Nvidia investment, which drove a 15% surge followed by a pullback as some investors likely "sold the news." The stock's addition to the S&P 500 and its 45% YTD gain tied to AI photonics enthusiasm highlight strong "rumor/expectation" buildup around AI infrastructure. Earnings have also beaten expectations, with Q2 EPS and revenue ahead of consensus and robust guidance, reinforcing the fundamental story behind the rally. At the same time, broader markets are contending with stagflation and rate‑hike fears, which could temper speculative excess. Overall, the pattern of sharp pops on AI and Nvidia headlines followed by retracements matches a classic buy‑the‑rumor, sell‑the‑news dynamic flagged in the quick facts ("Sell the news? yes").
+4.1. **News:** Recent news centers on Coherent's role in the AI infrastructure buildout, highlighted by Nvidia's $2 billion investment and multibillion-dollar purchase agreement for advanced optics, and Coherent's addition to the S&P 500 alongside other AI-related names. Articles note that Coherent shares have rallied sharply (around 45% YTD) and are trading near 52-week highs following these AI and index-inclusion catalysts. The company also reported Q2 earnings and revenue beats with strong data center and communications demand, adding to the bullish narrative. New product launches like the WaveMaker 4000A reinforce the growth story in optical networking. Given the "buy the dip? no / sell the news? yes" quick facts and pullback after the Nvidia deal surge, the data suggest much of the good news may already be priced in, aligning with a "sell the news" dynamic.
 
 4.2. **Tarrifs:** unknown
 
@@ -600,6 +574,7 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (15 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
+<li>NewsAPI: earnings trend, target customers, market share, market expansion</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -646,87 +621,80 @@ Massive news: collected 20 articles.
 Filtered 5 headline(s) from banned sources.
 Latest news fallback search -&gt; COHR latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+news&amp;num=2&amp;start=11
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; COHR earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 1 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; COHR analyst news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+analyst+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 1 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Coherent Corp. latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Coherent Corp. latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Coherent Corp. latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+latest+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;Coherent Corp. latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 3 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Coherent Corp. earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+Corp.+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Coherent+Corp.+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Coherent Corp. earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Coherent+Corp.+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Coherent Corp. earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+Corp.+earnings+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;Coherent Corp. earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Coherent latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Coherent+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=Coherent+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Coherent latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+latest+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;Coherent latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 11 result(s)
     gnews: 2 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Latest news fallback search -&gt; Coherent earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Coherent+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Coherent+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=Coherent+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Coherent earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Coherent+earnings+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;Coherent earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 12 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
@@ -735,222 +703,202 @@ Running supplementary searches...
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+core+business&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+product+portfolio&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;COHR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+profitability&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;COHR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=10&amp;start=1
-Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+target+customers&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+segments&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;COHR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 1 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+competitors&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+market+share&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 2 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;COHR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+rumors&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariffs+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;COHR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 0 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;COHR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: cached 0 result(s)
     gnews: cached 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+latest+rumor&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; COHR tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; COHR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=COHR+tariff+impact&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=COHR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=COHR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;COHR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=COHR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;COHR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    newsapi: 0 result(s)
     gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
@@ -971,6 +919,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares sit near multi‑year peak and close to 7d/30d resistance at $252.49 after a powerful run from a 1y low of $50.58; macro AI enthusiasm and Nvidia’s $2B deal point to frothy sentiment even as price holds above the 20‑day average ($227.97) and well above support at $204.57.&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets lasers, optical and optoelectronic devices, transceivers, modules, systems, and engineered materials. Its offerings support high‑speed communications, industrial, instrumentation, and electronics applications. The company reports in two main segme
+LLM raw output (truncated): {&quot;0.1&quot;:&quot;maybe — shares are near 1-year and 5-year peak levels and just below short-term resistance at $252.49 while still above support at $204.57 and the 20-day average around $228; macro context shows strong AI- and semiconductor-led enthusiasm including S&amp;P 500 inclusion and a multibillion Nvidia deal, indicating some froth but not enough data here to confirm a full bubble.&quot;,&quot;1.1&quot;:&quot;Coherent Corp. develops, manufactures, and markets lasers, optical transceivers, and other optical and optoelectronic devices, modules, and systems. It also produces engineered materials supporting these products
 </code></pre>
 </details>
