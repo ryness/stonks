@@ -2,11 +2,11 @@
 layout: default
 title: "PLTR Stock Report"
 ticker: "PLTR"
-date: 2026-04-04
-generated_at: 2026-04-04T15:32:10.516747+00:00
-runtime_seconds: 59.82
+date: 2026-04-06
+generated_at: 2026-04-06T10:57:18.953930+00:00
+runtime_seconds: 53.09
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-04-04T15:32:10.516747+00:00">2026-04-04 15:32 UTC</time> (runtime 59.82s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-06T10:57:18.953930+00:00">2026-04-06 10:57 UTC</time> (runtime 53.09s)
   
   ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
   
@@ -49,28 +49,28 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain As Trump Calls Iran's New Leaders 'Very Reasonable'— PLTR, RZLV, ENTX In Focus (UPDATED)](https://www.benzinga.com/markets/equities/26/03/51532274/stock-market-today-sp-500-dow-futures-gain-as-trump-calls-irans-new-leaders-very-reasonable-pala?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-30
+  - no news is good news?
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading between 7d support at about 147.6 and resistance near 174.6 while sitting slightly below its 20-day moving average of 169.8; AI macro froth and bubble risks are highlighted by a 37% drawdown from its recent peak and noted short bets on the AI theme, so entry here is more reasonable than at prior highs but not clearly de-risked.
+  0.1. **Long Entry?:** maybe — price is in an uptrend and sits modestly above 20-day and SMA/EMA plus well above the 1-year near-bottom zone, suggesting strength but not deep value; however, AI macro froth is highlighted by Michael Burry's prior short on PLTR and quick facts show it trading in the middle of its multi-year range with limited bubble visibility beyond this.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Palantir develops artificial intelligence, data analytics, and automated decision-making software platforms. Its key products include Gotham for government and defense customers and Foundry for commercial enterprises, which help integrate, analyze, and operationalize large datasets. The company focuses on Western-allied clients and positions its platforms as central operating systems for customer operations.
+  1.1. **Activities:** Palantir Technologies builds artificial intelligence, analytics, and automated decision-making software that helps organizations leverage data to drive operational efficiency. It delivers its capabilities mainly through two core platforms: Gotham for government and intelligence clients, and Foundry for commercial enterprises. The company focuses on Western-allied nations and reserves the right not to serve entities it views as antithetical to Western values.
   
-  1.2. **Profitable?:** yes — it is profitable, with cumulative net income of about $1.63 billion over recent periods and a profit margin of roughly 36%.
+  1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.63 billion and a profit margin of roughly 36%.
   
-  1.3. **Customer & Markets:** Palantir primarily serves government and defense agencies via its Gotham platform and commercial enterprises across industries via Foundry. Its markets span Western-allied countries, with strong demand from U.S. government and commercial sectors, and it is increasingly expanding into broader enterprise AI markets. Customers use its software as core operating and decision-support infrastructure across functions.
+  1.3. **Customer & Markets:** Palantir serves commercial enterprises and government agencies, with Foundry targeting business and operational teams and Gotham aimed at defense, intelligence, and public-sector users. Its markets span U.S. and other Western-allied countries across sectors like defense, intelligence, and broader commercial industries where data-driven decision-making is critical.
   
-  1.4. **Competition:** Palantir competes with large technology and cloud providers and specialized data/AI firms such as Microsoft, Google, Amazon, NVIDIA, Snowflake, AMD, and others in AI and data infrastructure. It is recognized as a leading AI software provider, having been ranked No. 1 in worldwide AI software market share and revenue in a prior study, indicating a top-tier position among competitors.
+  1.4. **Competition:** Primary competitors include large AI and cloud/software names such as Microsoft, Google, Amazon, NVIDIA, Snowflake, and other infrastructure and analytics players, as indicated by the related/competitor list. Within AI infrastructure and analytics, Palantir is viewed as a leading provider and even cited alongside NVIDIA as a favored "infrastructure play" delivering tangible AI benefits.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rising from a previous close of 148.46 to 162.25 and approaching, but not exceeding, recent resistance around 174.57.
+  2.1. **7d Trend?:** up — the quick facts label the 7d Trend as up and the latest close of 162.25 is well above prior support around 147.56.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the identified support around 147.56–148.5 offered favorable entry, while selling or trimming near the recent 7d resistance/local high around 174.57 would have been an attractive exit zone. Current pricing at 162.25 sits between these levels, offering less asymmetric short-term buy or sell opportunity than those extremes.
+  2.2. **7d Buy/Sell Points?:** Over the last week, attractive buy points were near the identified support zone around 147.56, where the previous close clustered after trading as low as 137.99. The suggested sell or trim area is around the 7-day resistance/local high near 174.57.
   
   2.3.1. **7d Volume:** med
   
@@ -78,15 +78,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Palantir appears to be a relatively stable institution: it was founded in 2003 and has operated for over two decades, going public in 2020. Financially, it shows consistent profitability with roughly $1.6 billion in cumulative net income, a strong 36% profit margin, robust revenue and earnings growth, and over $1.2 billion in free cash flow and $2.1 billion in operating cash flow. It serves critical government and commercial clients in Western-allied nations, which often implies long-duration contracts and recurring revenue. While the stock has experienced significant volatility and drawdowns, the underlying business profile and cash generation suggest operational stability rather than a fly-by-night operation.
+  3.1. **Stability?:** Palantir appears to be a relatively stable institution rather than a fly-by-night operator, having been founded in 2003 and operating for over two decades before going public in 2020. It generates substantial and growing revenues (70% revenue growth and strong earnings growth) with cumulative net income exceeding $1.6 billion and a healthy profit margin. The company also produces significant operating and free cash flow, indicating a strong cash-generating business. Its focus on government and commercial clients in Western-allied nations, along with leading AI software rankings, further supports its durability and strategic importance.
   
-  3.2. **Innovating?:** Palantir is clearly innovating and growing, evidenced by 70% revenue growth, over 6x earnings growth, and strong commercial AI demand and defense wins cited in recent coverage. Its positioning as a leading AI software provider and expansion of enterprise AI partnerships underscore an active innovation and growth strategy rather than stagnation.
+  3.2. **Innovating?:** Palantir is clearly innovating and growing, with rapid revenue growth (around 56–70% year over year in recent periods) and very strong earnings growth. Its AI, analytics, and automated decision-making platforms are central to clients' core operations, and it is cited as a top AI infrastructure play delivering tangible benefits.
   
   ## 4. Context
   
-  4.1. **News:** Recent news frames Palantir within broader AI and macro narratives: Michael Burry previously shorted Palantir as part of an AI bubble thesis but has hinted that his shorts may be closing after a rough quarter for AI names, while other investors favor Palantir as an infrastructure play with tangible AI benefits. Headline flow also shows Palantir among key market movers on volatile macro days, with mentions alongside tariff headlines and stagflation concerns, and notes of the stock being down ~20% year-to-date after a strong 2025 run. Additional reports highlight strong AI-driven defense and commercial growth, as well as analyst attention and tariff-related volatility episodes where Palantir led AI rebounds. Overall, this mix of prior hype, profit-taking, and renewed contract-driven optimism suggests that much "rumor" and expectation has already cycled through, and the current setup is less a classic "buy the rumor, sell the news" moment than a digestion phase of earlier AI exuberance.
+  4.1. **News:** Recent context around Palantir centers on AI and market sentiment rather than specific company events in the latest headlines provided. Michael Burry's earlier AI bubble short, including against PLTR, coincided with the stock being down about 20% year to date, suggesting that prior AI exuberance has been partially worked off. Another hedge fund manager explicitly favors Palantir as an infrastructure AI play with real benefits versus SaaS names that merely talk about AI, hinting at differentiated fundamentals beneath the volatility. Given that the quick facts flag "Buy the rumor?", "Sell the news?", and "Buy the dip?" all as no, the recent moves appear more like broad AI sentiment and macro rotations than a classic buy-the-rumor/sell-the-news setup tied to a specific catalyst.
   
-  4.2. **Tarrifs:** Tariffs have impacted Palantir mainly through sentiment and macro volatility rather than direct operational costs: the stock has sold off on tariff scares and tariff-driven market declines, but it has also led rebounds and even hit record highs when optimism around easing or manageable tariffs boosted tech. Several analyses suggest Palantir, with its software-heavy, non-import-intensive model, may be relatively resilient to tariff headwinds and can even benefit as companies use its tools to manage complex tariff and supply-chain impacts.
+  4.2. **Tarrifs:** Tariffs have mostly affected Palantir's stock indirectly via broad market selloffs and rebounds, with PLTR caught in tariff-driven AI routs but also leading AI rebounds afterward. Commentary and articles describe Palantir as relatively tariff-resistant since it is a software and services business, and some analysis even frames Trump-era tariff waves as potential catalysts rather than direct headwinds for the stock.
   
   ## 5. QuickRef
   
@@ -115,10 +115,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
   <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>GNews: latest news</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -163,85 +163,92 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 15 headline(s) from banned sources.
+  Filtered 16 headline(s) from banned sources.
   Latest news fallback search -&gt; PLTR latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=2&amp;start=11
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; PLTR earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+news&amp;num=2&amp;start=11
-      newsapi: 5 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; PLTR analyst news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+analyst+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+analyst+news&amp;num=2&amp;start=11
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; Palantir Technologies Inc. Class A Common Stock latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; Palantir Technologies Inc. Class A Common Stock earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; Palantir Technologies . Class A Common Stock latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Latest news fallback search -&gt; Palantir Technologies . Class A Common Stock earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -250,201 +257,216 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 7 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 2 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 2 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 10 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 3 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 12 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 1 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 0 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 1 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 2 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: cached 4 result(s)
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
       gnews: cached 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 1 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 5 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  NewsAPI search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;PLTR tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;PLTR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 1 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -464,12 +486,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading between 7d support at about 147.6 and resistance near 174.6 while sitting slightly below its 20-day moving average of 169.8; AI macro froth and bubble risks are highlighted by a 37% drawdown from its recent peak and noted short bets on the AI theme, so entry here is more reasonable than at prior highs but not clearly de-risked.&quot;, &quot;1.1&quot;: &quot;Palantir develops artificial intelligence, data analytics, and automated decision-making software platforms. Its key products include Gotham for government and defense customers and Foundry for commercial
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend and sits modestly above 20-day and SMA/EMA plus well above the 1-year near-bottom zone, suggesting strength but not deep value; however, AI macro froth is highlighted by Michael Burry’s prior short on PLTR and quick facts show it trading in the middle of its multi-year range with limited bubble visibility beyond this.&quot;, &quot;1.1&quot;: &quot;Palantir Technologies builds artificial intelligence, analytics, and automated decision-making software that helps organizations leverage data to drive operational efficiency. It delivers its capabilities mainly through two core p
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-04-04T15:32:10.516747+00:00">2026-04-04 15:32 UTC</time> (runtime 59.82s)
+**Generated:** <time class="js-local-time" datetime="2026-04-06T10:57:18.953930+00:00">2026-04-06 10:57 UTC</time> (runtime 53.09s)
 
 ![Palantir Technologies Inc. Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/PLTR.svg)
 
@@ -512,28 +534,28 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain As Trump Calls Iran's New Leaders 'Very Reasonable'— PLTR, RZLV, ENTX In Focus (UPDATED)](https://www.benzinga.com/markets/equities/26/03/51532274/stock-market-today-sp-500-dow-futures-gain-as-trump-calls-irans-new-leaders-very-reasonable-pala?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel) — Benzinga · 2026-03-30
+- no news is good news?
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock is in an uptrend and trading between 7d support at about 147.6 and resistance near 174.6 while sitting slightly below its 20-day moving average of 169.8; AI macro froth and bubble risks are highlighted by a 37% drawdown from its recent peak and noted short bets on the AI theme, so entry here is more reasonable than at prior highs but not clearly de-risked.
+0.1. **Long Entry?:** maybe — price is in an uptrend and sits modestly above 20-day and SMA/EMA plus well above the 1-year near-bottom zone, suggesting strength but not deep value; however, AI macro froth is highlighted by Michael Burry's prior short on PLTR and quick facts show it trading in the middle of its multi-year range with limited bubble visibility beyond this.
 
 ## 1. The Biz
 
-1.1. **Activities:** Palantir develops artificial intelligence, data analytics, and automated decision-making software platforms. Its key products include Gotham for government and defense customers and Foundry for commercial enterprises, which help integrate, analyze, and operationalize large datasets. The company focuses on Western-allied clients and positions its platforms as central operating systems for customer operations.
+1.1. **Activities:** Palantir Technologies builds artificial intelligence, analytics, and automated decision-making software that helps organizations leverage data to drive operational efficiency. It delivers its capabilities mainly through two core platforms: Gotham for government and intelligence clients, and Foundry for commercial enterprises. The company focuses on Western-allied nations and reserves the right not to serve entities it views as antithetical to Western values.
 
-1.2. **Profitable?:** yes — it is profitable, with cumulative net income of about $1.63 billion over recent periods and a profit margin of roughly 36%.
+1.2. **Profitable?:** yes — Palantir is profitable, with positive net income over recent periods totaling about $1.63 billion and a profit margin of roughly 36%.
 
-1.3. **Customer & Markets:** Palantir primarily serves government and defense agencies via its Gotham platform and commercial enterprises across industries via Foundry. Its markets span Western-allied countries, with strong demand from U.S. government and commercial sectors, and it is increasingly expanding into broader enterprise AI markets. Customers use its software as core operating and decision-support infrastructure across functions.
+1.3. **Customer & Markets:** Palantir serves commercial enterprises and government agencies, with Foundry targeting business and operational teams and Gotham aimed at defense, intelligence, and public-sector users. Its markets span U.S. and other Western-allied countries across sectors like defense, intelligence, and broader commercial industries where data-driven decision-making is critical.
 
-1.4. **Competition:** Palantir competes with large technology and cloud providers and specialized data/AI firms such as Microsoft, Google, Amazon, NVIDIA, Snowflake, AMD, and others in AI and data infrastructure. It is recognized as a leading AI software provider, having been ranked No. 1 in worldwide AI software market share and revenue in a prior study, indicating a top-tier position among competitors.
+1.4. **Competition:** Primary competitors include large AI and cloud/software names such as Microsoft, Google, Amazon, NVIDIA, Snowflake, and other infrastructure and analytics players, as indicated by the related/competitor list. Within AI infrastructure and analytics, Palantir is viewed as a leading provider and even cited alongside NVIDIA as a favored "infrastructure play" delivering tangible AI benefits.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price rising from a previous close of 148.46 to 162.25 and approaching, but not exceeding, recent resistance around 174.57.
+2.1. **7d Trend?:** up — the quick facts label the 7d Trend as up and the latest close of 162.25 is well above prior support around 147.56.
 
-2.2. **7d Buy/Sell Points?:** Buying near the identified support around 147.56–148.5 offered favorable entry, while selling or trimming near the recent 7d resistance/local high around 174.57 would have been an attractive exit zone. Current pricing at 162.25 sits between these levels, offering less asymmetric short-term buy or sell opportunity than those extremes.
+2.2. **7d Buy/Sell Points?:** Over the last week, attractive buy points were near the identified support zone around 147.56, where the previous close clustered after trading as low as 137.99. The suggested sell or trim area is around the 7-day resistance/local high near 174.57.
 
 2.3.1. **7d Volume:** med
 
@@ -541,15 +563,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Palantir appears to be a relatively stable institution: it was founded in 2003 and has operated for over two decades, going public in 2020. Financially, it shows consistent profitability with roughly $1.6 billion in cumulative net income, a strong 36% profit margin, robust revenue and earnings growth, and over $1.2 billion in free cash flow and $2.1 billion in operating cash flow. It serves critical government and commercial clients in Western-allied nations, which often implies long-duration contracts and recurring revenue. While the stock has experienced significant volatility and drawdowns, the underlying business profile and cash generation suggest operational stability rather than a fly-by-night operation.
+3.1. **Stability?:** Palantir appears to be a relatively stable institution rather than a fly-by-night operator, having been founded in 2003 and operating for over two decades before going public in 2020. It generates substantial and growing revenues (70% revenue growth and strong earnings growth) with cumulative net income exceeding $1.6 billion and a healthy profit margin. The company also produces significant operating and free cash flow, indicating a strong cash-generating business. Its focus on government and commercial clients in Western-allied nations, along with leading AI software rankings, further supports its durability and strategic importance.
 
-3.2. **Innovating?:** Palantir is clearly innovating and growing, evidenced by 70% revenue growth, over 6x earnings growth, and strong commercial AI demand and defense wins cited in recent coverage. Its positioning as a leading AI software provider and expansion of enterprise AI partnerships underscore an active innovation and growth strategy rather than stagnation.
+3.2. **Innovating?:** Palantir is clearly innovating and growing, with rapid revenue growth (around 56–70% year over year in recent periods) and very strong earnings growth. Its AI, analytics, and automated decision-making platforms are central to clients' core operations, and it is cited as a top AI infrastructure play delivering tangible benefits.
 
 ## 4. Context
 
-4.1. **News:** Recent news frames Palantir within broader AI and macro narratives: Michael Burry previously shorted Palantir as part of an AI bubble thesis but has hinted that his shorts may be closing after a rough quarter for AI names, while other investors favor Palantir as an infrastructure play with tangible AI benefits. Headline flow also shows Palantir among key market movers on volatile macro days, with mentions alongside tariff headlines and stagflation concerns, and notes of the stock being down ~20% year-to-date after a strong 2025 run. Additional reports highlight strong AI-driven defense and commercial growth, as well as analyst attention and tariff-related volatility episodes where Palantir led AI rebounds. Overall, this mix of prior hype, profit-taking, and renewed contract-driven optimism suggests that much "rumor" and expectation has already cycled through, and the current setup is less a classic "buy the rumor, sell the news" moment than a digestion phase of earlier AI exuberance.
+4.1. **News:** Recent context around Palantir centers on AI and market sentiment rather than specific company events in the latest headlines provided. Michael Burry's earlier AI bubble short, including against PLTR, coincided with the stock being down about 20% year to date, suggesting that prior AI exuberance has been partially worked off. Another hedge fund manager explicitly favors Palantir as an infrastructure AI play with real benefits versus SaaS names that merely talk about AI, hinting at differentiated fundamentals beneath the volatility. Given that the quick facts flag "Buy the rumor?", "Sell the news?", and "Buy the dip?" all as no, the recent moves appear more like broad AI sentiment and macro rotations than a classic buy-the-rumor/sell-the-news setup tied to a specific catalyst.
 
-4.2. **Tarrifs:** Tariffs have impacted Palantir mainly through sentiment and macro volatility rather than direct operational costs: the stock has sold off on tariff scares and tariff-driven market declines, but it has also led rebounds and even hit record highs when optimism around easing or manageable tariffs boosted tech. Several analyses suggest Palantir, with its software-heavy, non-import-intensive model, may be relatively resilient to tariff headwinds and can even benefit as companies use its tools to manage complex tariff and supply-chain impacts.
+4.2. **Tarrifs:** Tariffs have mostly affected Palantir's stock indirectly via broad market selloffs and rebounds, with PLTR caught in tariff-driven AI routs but also leading AI rebounds afterward. Commentary and articles describe Palantir as relatively tariff-resistant since it is a software and services business, and some analysis even frames Trump-era tariff waves as potential catalysts rather than direct headwinds for the stock.
 
 ## 5. QuickRef
 
@@ -578,10 +600,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (4 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
 <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
-<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>GNews: latest news</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -626,85 +648,92 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=PLTR&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 15 headline(s) from banned sources.
+Filtered 16 headline(s) from banned sources.
 Latest news fallback search -&gt; PLTR latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+news&amp;num=2&amp;start=11
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; PLTR earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+news&amp;num=2&amp;start=11
-    newsapi: 5 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; PLTR analyst news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+analyst+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+analyst+news&amp;num=2&amp;start=11
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; Palantir Technologies Inc. Class A Common Stock latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Palantir Technologies Inc. Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; Palantir Technologies Inc. Class A Common Stock earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Palantir Technologies Inc. Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+Inc.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; Palantir Technologies . Class A Common Stock latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+latest+news&amp;num=2&amp;start=11
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Latest news fallback search -&gt; Palantir Technologies . Class A Common Stock earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;Palantir Technologies . Class A Common Stock earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Palantir+Technologies+.+Class+A+Common+Stock+earnings+news&amp;num=2&amp;start=11
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -713,201 +742,216 @@ Running supplementary searches...
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+core+business&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 7 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+product+portfolio&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 2 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+profitability&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+earnings+trend&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 2 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+target+customers&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+segments&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 10 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+competitors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 3 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+market+share&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 12 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 1 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+rumors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 0 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariffs+news&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 1 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 2 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR latest news (priority: newsapi, gnews, guardian)
+NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: cached 4 result(s)
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
     gnews: cached 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+latest+rumor&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 1 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; PLTR tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 5 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; PLTR tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=PLTR+tariff+impact&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=PLTR+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+NewsAPI search failed for &#x27;PLTR tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=PLTR+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;PLTR tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=PLTR+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;PLTR tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 1 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -927,6 +971,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in an uptrend and trading between 7d support at about 147.6 and resistance near 174.6 while sitting slightly below its 20-day moving average of 169.8; AI macro froth and bubble risks are highlighted by a 37% drawdown from its recent peak and noted short bets on the AI theme, so entry here is more reasonable than at prior highs but not clearly de-risked.&quot;, &quot;1.1&quot;: &quot;Palantir develops artificial intelligence, data analytics, and automated decision-making software platforms. Its key products include Gotham for government and defense customers and Foundry for commercial
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — price is in an uptrend and sits modestly above 20-day and SMA/EMA plus well above the 1-year near-bottom zone, suggesting strength but not deep value; however, AI macro froth is highlighted by Michael Burry’s prior short on PLTR and quick facts show it trading in the middle of its multi-year range with limited bubble visibility beyond this.&quot;, &quot;1.1&quot;: &quot;Palantir Technologies builds artificial intelligence, analytics, and automated decision-making software that helps organizations leverage data to drive operational efficiency. It delivers its capabilities mainly through two core p
 </code></pre>
 </details>
