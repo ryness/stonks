@@ -2,11 +2,11 @@
 layout: default
 title: "GLD Stock Report"
 ticker: "GLD"
-date: 2026-04-05
-generated_at: 2026-04-05T02:29:31.028288+00:00
-runtime_seconds: 42.37
+date: 2026-04-06
+generated_at: 2026-04-06T20:37:34.967455+00:00
+runtime_seconds: 41.22
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-04-05T02:29:31.028288+00:00">2026-04-05 02:29 UTC</time> (runtime 42.37s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-06T20:37:34.967455+00:00">2026-04-06 20:37 UTC</time> (runtime 41.22s)
   
   <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
   <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -52,23 +52,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — GLD trades near 1-year and 5-year peaks and is labeled overbought while price (~380.1) sits just below 7d resistance (382.5) and above support (371.9) and its 20-dma (~377.5); macro context shows broader equity froth and gold-ETF surge headlines but no GLD-specific bubble clearing, making fresh long entries riskier here.
+  0.1. **Long Entry?:** no — GLD is trading near 1-year and 5-year peaks and flagged as overbought with price just below short-term resistance ($382.52) and slightly above its 20-day average; macro context shows broad equity froth and strong gold-bull narratives but no specific sign of panic discount here, while technicals (MACD negative vs higher prior SMA/EMA) point to downside risk versus support around $371.85.
   
   ## 1. The Biz
   
-  1.1. **Activities:** SPDR Gold Trust (GLD) is an exchange-traded trust that holds physical gold bars and issues shares backed by that bullion. Its objective is for the share price to reflect the performance of the spot price of gold bullion, minus trust expenses. It offers investors a cost-effective, exchange-traded vehicle for gaining direct exposure to gold prices.
+  1.1. **Activities:** SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds gold bars and issues/redeems large blocks of shares ("Baskets") in exchange for deposits or withdrawals of gold. Its sole objective is for the shares to reflect the performance of the price of gold bullion, less the trust's expenses. For many investors it serves as a cost-effective, liquid vehicle to gain exposure to gold without handling physical metal.
   
   1.2. **Profitable?:** unknown
   
-  1.3. **Customer & Markets:** The trust is designed for investors seeking exposure to gold prices, including individuals, advisors, and institutions using ETFs for asset allocation. Its market is global investors in commodities and financial markets who want a liquid, exchange-traded proxy for physical gold bullion rather than owning and storing bars themselves.
+  1.3. **Customer & Markets:** The trust is designed for investors seeking exposure to gold prices, including individuals and institutions that want a cost-effective alternative to buying, storing, and insuring physical bullion. Its market spans global capital markets where GLD trades, serving portfolios that use gold as a hedge, store of value, or diversification tool rather than a specific industry niche.
   
-  1.4. **Competition:** unknown
+  1.4. **Competition:** Primary competitors are other physically backed gold ETFs such as iShares Gold Trust (IAU), SPDR Gold MiniShares Trust (GLDM), and Aberdeen Standard Physical Gold (SGOL), which offer similar exposure to bullion. GLD is described in external comparisons as the dominant, flagship gold ETF, though it now faces lower-cost rivals targeting its market share.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7d Trend is flagged as an uptrend with price moving from near support (371.9) toward resistance (382.5).
+  2.1. **7d Trend?:** up — the 7d Trend label is 'up' with price moving from nearer support toward resistance within that range.
   
-  2.2. **7d Buy/Sell Points?:** A notable buy zone in the past week was near the identified 7d support around 371.85, while attractive short-term sell or trim levels appeared near the 7d resistance and local high around 382.52.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the identified support around $371.85 were the better buy points, while approaches to short-term resistance and the local high near $382.52 offered favorable selling levels. This aligns with the provided suggested buy zone at $371.85 and sell zone at $382.52.
   
   2.3.1. **7d Volume:** med
   
@@ -76,15 +76,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** SPDR Gold Trust is a long-standing commodity-backed ETF structure rather than an operating company, holding allocated gold bars to back its shares. The product is positioned as a cost-effective, liquid vehicle for gold exposure, suggesting institutional-grade custody and governance around the bullion. While traditional balance-sheet data are not provided, the trust's stability is rooted in its physical gold holdings and expense structure rather than leverage or complex operations. The historical price chart shows multi-year trading history with significant assets implied, indicating it is an established instrument rather than a fly-by-night product.
+  3.1. **Stability?:** SPDR Gold Shares is a large, established gold-backed exchange-traded trust with tens of billions of dollars referenced in external tariff-related coverage, suggesting significant scale. The trust holds allocated gold bars and is structured simply, with its performance tied directly to bullion prices minus expenses rather than to an operating business with leverage or credit risk. Balance-sheet risk is primarily associated with gold price movements, not traditional debt-financed operations, and the product has traded across multiple market cycles per the 5-year price history. Overall, GLD functions as a relatively stable institutional vehicle for gold exposure, though its market value can be volatile with shifts in macro conditions and sentiment toward gold.
   
-  3.2. **Innovating?:** The trust's mandate is to passively track gold bullion prices, so it is not an innovator in the traditional sense but a stable exposure vehicle. Growth in its relevance comes from broader gold demand trends and ETF usage rather than internal product innovation.
+  3.2. **Innovating?:** GLD itself is a passive vehicle and does not innovate in the way an operating company would; its role is to track gold bullion prices. Growth or contraction in GLD is driven by investor demand for gold exposure rather than product expansion or technological innovation.
   
   ## 4. Context
   
-  4.1. **News:** Recent headlines emphasize macro themes—Fed rate-cut timing, inflation gauges like PCE, and geopolitical tensions—as key drivers of gold and gold ETFs, including GLD. Articles highlight that cooling inflation and potential rate cuts, alongside central-bank and private buying, have supported gold's rally and could push prices higher, even toward $3,000/oz in some analyses. At the same time, some notes mention episodes where strong jobs data and rising yields pressured GLD, causing sharp single-day drops. For a "buy the rumor, sell the news" lens, expectations of rate cuts and geopolitical stress act as the 'rumor' phase lifting gold ETFs, while actual data surprises (e.g., strong jobs, sticky inflation) can trigger 'sell the news' pullbacks in GLD. Overall, sentiment around gold ETFs is constructive but sensitive to each macro data release and Fed communication.
+  4.1. **News:** Recent coverage centers on macro drivers for gold and gold ETFs: Zacks and Benzinga pieces highlight potential Fed rate cuts, cooling inflation, geopolitical tensions, and central-bank buying as catalysts that could push gold prices sharply higher, with one Bank of America analysis citing a potential move to $3,000/oz and explicitly mentioning GLD's role. Other articles discuss broader ETF strategies for 2H24, positioning gold ETFs as beneficiaries of easing inflation and rising rate-cut expectations. There are also notes that gold and GLD have rebounded on days when equities pause and yields dip, and that strong jobs data or higher yields can pressure GLD, as seen in a sharp 2.5% drop after a blowout payrolls report. Overall, much of the positive narrative is already public ("news"), so traders buying purely on these bullish headlines may be vulnerable to "sell the news" behavior if rate cuts or geopolitical developments unfold in line with expectations.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** News specifically cites a 'tariff-driven selloff' in which GLD's large asset base could not shield it from market-wide risk-off moves tied to tariff escalation, indicating that trade tensions and related tariffs can hurt GLD via stronger dollar/rates or risk sentiment even though gold is often seen as a haven. In general, tariff flare-ups can introduce volatility and periods of selling pressure for GLD rather than a consistently positive or negative impact.
   
   ## 5. QuickRef
   
@@ -115,6 +115,8 @@ raw_markdown: |
   <ul>
   <li>massive.com: company profile &amp; branding, technical indicators, headlines (20 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, competitors</li>
+  <li>NewsAPI: market segments, market share, business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -160,281 +162,281 @@ raw_markdown: |
     massive.com returned 20 headlines
   Latest news fallback search -&gt; GLD latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+news&amp;num=2&amp;start=11
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; GLD earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; GLD analyst news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD analyst news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+analyst+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+analyst+news&amp;num=2&amp;start=11
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; SPDR Gold Trust, SPDR Gold Shares latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Latest news fallback search -&gt; SPDR Gold Trust, SPDR Gold Shares earnings news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;num=2&amp;start=11
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
   Running supplementary searches...
     google_custom_search search -&gt; GLD core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+core+business&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+core+business&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+product+portfolio&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+product+portfolio&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+trend&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+trend&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;GLD target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+market+segments&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;GLD market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 2 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;GLD competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+market+share&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;GLD market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 4 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+rumors&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;GLD rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariffs+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;GLD tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD latest news (priority: newsapi, gnews, guardian)
-  NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+  GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: cached 0 result(s)
+      newsapi: cached 1 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+rumor&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;GLD latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; GLD tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 2 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; GLD tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariff+impact&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariff+impact&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;GLD tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-  NewsAPI search failed for &#x27;GLD tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
   GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;GLD tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;GLD tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-      gnews: 0 result(s)
+      newsapi: 0 result(s)
+      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -454,12 +456,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — GLD trades near 1-year and 5-year peaks and is labeled overbought while price (~380.1) sits just below 7d resistance (382.5) and above support (371.9) and its 20-dma (~377.5); macro context shows broader equity froth and gold-ETF surge headlines but no GLD-specific bubble clearing, making fresh long entries riskier here.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Trust (GLD) is an exchange-traded trust that holds physical gold bars and issues shares backed by that bullion. Its objective is for the share price to reflect the performance of the spot price of gold bullion, minus trust expenses. It offers inv
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — GLD is trading near 1-year and 5-year peaks and flagged as overbought with price just below short-term resistance ($382.52) and slightly above its 20-day average; macro context shows broad equity froth and strong gold-bull narratives but no specific sign of panic discount here, while technicals (MACD negative vs higher prior SMA/EMA) point to downside risk versus support around $371.85.&quot;, &quot;1.1&quot;: &quot;SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds gold bars and issues/redeems large blocks of shares (“Baskets”) in exchange for deposits or withdrawals of 
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-04-05T02:29:31.028288+00:00">2026-04-05 02:29 UTC</time> (runtime 42.37s)
+**Generated:** <time class="js-local-time" datetime="2026-04-06T20:37:34.967455+00:00">2026-04-06 20:37 UTC</time> (runtime 41.22s)
 
 <figure class="price-chart" role="img" aria-label="5-year price chart with 1-year and 5-year lows">
 <svg viewBox="0 0 720 260" preserveAspectRatio="none">
@@ -505,23 +507,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — GLD trades near 1-year and 5-year peaks and is labeled overbought while price (~380.1) sits just below 7d resistance (382.5) and above support (371.9) and its 20-dma (~377.5); macro context shows broader equity froth and gold-ETF surge headlines but no GLD-specific bubble clearing, making fresh long entries riskier here.
+0.1. **Long Entry?:** no — GLD is trading near 1-year and 5-year peaks and flagged as overbought with price just below short-term resistance ($382.52) and slightly above its 20-day average; macro context shows broad equity froth and strong gold-bull narratives but no specific sign of panic discount here, while technicals (MACD negative vs higher prior SMA/EMA) point to downside risk versus support around $371.85.
 
 ## 1. The Biz
 
-1.1. **Activities:** SPDR Gold Trust (GLD) is an exchange-traded trust that holds physical gold bars and issues shares backed by that bullion. Its objective is for the share price to reflect the performance of the spot price of gold bullion, minus trust expenses. It offers investors a cost-effective, exchange-traded vehicle for gaining direct exposure to gold prices.
+1.1. **Activities:** SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds gold bars and issues/redeems large blocks of shares ("Baskets") in exchange for deposits or withdrawals of gold. Its sole objective is for the shares to reflect the performance of the price of gold bullion, less the trust's expenses. For many investors it serves as a cost-effective, liquid vehicle to gain exposure to gold without handling physical metal.
 
 1.2. **Profitable?:** unknown
 
-1.3. **Customer & Markets:** The trust is designed for investors seeking exposure to gold prices, including individuals, advisors, and institutions using ETFs for asset allocation. Its market is global investors in commodities and financial markets who want a liquid, exchange-traded proxy for physical gold bullion rather than owning and storing bars themselves.
+1.3. **Customer & Markets:** The trust is designed for investors seeking exposure to gold prices, including individuals and institutions that want a cost-effective alternative to buying, storing, and insuring physical bullion. Its market spans global capital markets where GLD trades, serving portfolios that use gold as a hedge, store of value, or diversification tool rather than a specific industry niche.
 
-1.4. **Competition:** unknown
+1.4. **Competition:** Primary competitors are other physically backed gold ETFs such as iShares Gold Trust (IAU), SPDR Gold MiniShares Trust (GLDM), and Aberdeen Standard Physical Gold (SGOL), which offer similar exposure to bullion. GLD is described in external comparisons as the dominant, flagship gold ETF, though it now faces lower-cost rivals targeting its market share.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7d Trend is flagged as an uptrend with price moving from near support (371.9) toward resistance (382.5).
+2.1. **7d Trend?:** up — the 7d Trend label is 'up' with price moving from nearer support toward resistance within that range.
 
-2.2. **7d Buy/Sell Points?:** A notable buy zone in the past week was near the identified 7d support around 371.85, while attractive short-term sell or trim levels appeared near the 7d resistance and local high around 382.52.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the identified support around $371.85 were the better buy points, while approaches to short-term resistance and the local high near $382.52 offered favorable selling levels. This aligns with the provided suggested buy zone at $371.85 and sell zone at $382.52.
 
 2.3.1. **7d Volume:** med
 
@@ -529,15 +531,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** SPDR Gold Trust is a long-standing commodity-backed ETF structure rather than an operating company, holding allocated gold bars to back its shares. The product is positioned as a cost-effective, liquid vehicle for gold exposure, suggesting institutional-grade custody and governance around the bullion. While traditional balance-sheet data are not provided, the trust's stability is rooted in its physical gold holdings and expense structure rather than leverage or complex operations. The historical price chart shows multi-year trading history with significant assets implied, indicating it is an established instrument rather than a fly-by-night product.
+3.1. **Stability?:** SPDR Gold Shares is a large, established gold-backed exchange-traded trust with tens of billions of dollars referenced in external tariff-related coverage, suggesting significant scale. The trust holds allocated gold bars and is structured simply, with its performance tied directly to bullion prices minus expenses rather than to an operating business with leverage or credit risk. Balance-sheet risk is primarily associated with gold price movements, not traditional debt-financed operations, and the product has traded across multiple market cycles per the 5-year price history. Overall, GLD functions as a relatively stable institutional vehicle for gold exposure, though its market value can be volatile with shifts in macro conditions and sentiment toward gold.
 
-3.2. **Innovating?:** The trust's mandate is to passively track gold bullion prices, so it is not an innovator in the traditional sense but a stable exposure vehicle. Growth in its relevance comes from broader gold demand trends and ETF usage rather than internal product innovation.
+3.2. **Innovating?:** GLD itself is a passive vehicle and does not innovate in the way an operating company would; its role is to track gold bullion prices. Growth or contraction in GLD is driven by investor demand for gold exposure rather than product expansion or technological innovation.
 
 ## 4. Context
 
-4.1. **News:** Recent headlines emphasize macro themes—Fed rate-cut timing, inflation gauges like PCE, and geopolitical tensions—as key drivers of gold and gold ETFs, including GLD. Articles highlight that cooling inflation and potential rate cuts, alongside central-bank and private buying, have supported gold's rally and could push prices higher, even toward $3,000/oz in some analyses. At the same time, some notes mention episodes where strong jobs data and rising yields pressured GLD, causing sharp single-day drops. For a "buy the rumor, sell the news" lens, expectations of rate cuts and geopolitical stress act as the 'rumor' phase lifting gold ETFs, while actual data surprises (e.g., strong jobs, sticky inflation) can trigger 'sell the news' pullbacks in GLD. Overall, sentiment around gold ETFs is constructive but sensitive to each macro data release and Fed communication.
+4.1. **News:** Recent coverage centers on macro drivers for gold and gold ETFs: Zacks and Benzinga pieces highlight potential Fed rate cuts, cooling inflation, geopolitical tensions, and central-bank buying as catalysts that could push gold prices sharply higher, with one Bank of America analysis citing a potential move to $3,000/oz and explicitly mentioning GLD's role. Other articles discuss broader ETF strategies for 2H24, positioning gold ETFs as beneficiaries of easing inflation and rising rate-cut expectations. There are also notes that gold and GLD have rebounded on days when equities pause and yields dip, and that strong jobs data or higher yields can pressure GLD, as seen in a sharp 2.5% drop after a blowout payrolls report. Overall, much of the positive narrative is already public ("news"), so traders buying purely on these bullish headlines may be vulnerable to "sell the news" behavior if rate cuts or geopolitical developments unfold in line with expectations.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** News specifically cites a 'tariff-driven selloff' in which GLD's large asset base could not shield it from market-wide risk-off moves tied to tariff escalation, indicating that trade tensions and related tariffs can hurt GLD via stronger dollar/rates or risk sentiment even though gold is often seen as a haven. In general, tariff flare-ups can introduce volatility and periods of selling pressure for GLD rather than a consistently positive or negative impact.
 
 ## 5. QuickRef
 
@@ -568,6 +570,8 @@ raw_markdown: |
 <ul>
 <li>massive.com: company profile &amp; branding, technical indicators, headlines (20 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, competitors</li>
+<li>NewsAPI: market segments, market share, business model, market expansion, competitive landscape, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -613,281 +617,281 @@ Massive news: collected 20 articles.
   massive.com returned 20 headlines
 Latest news fallback search -&gt; GLD latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+news&amp;num=2&amp;start=11
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; GLD earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; GLD analyst news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+analyst+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+analyst+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD analyst news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+analyst+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+analyst+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD analyst news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+analyst+news&amp;num=2&amp;start=11
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; SPDR Gold Trust, SPDR Gold Shares latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+latest+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Latest news fallback search -&gt; SPDR Gold Trust, SPDR Gold Shares earnings news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;SPDR Gold Trust, SPDR Gold Shares earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=SPDR+Gold+Trust%2C+SPDR+Gold+Shares+earnings+news&amp;num=2&amp;start=11
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
 Running supplementary searches...
   google_custom_search search -&gt; GLD core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+core+business&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+core+business&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD core business&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD core business&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+product+portfolio&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+product+portfolio&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD product portfolio&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD business model&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+profitability&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD profitability&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+trend&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+earnings+trend&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+target+customers&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;GLD target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD target customers&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+market+segments&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;GLD market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD market segments&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD market expansion&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 2 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;GLD competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+competitors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD competitors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+market+share&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;GLD market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD market share&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 4 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD competitive landscape&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+rumors&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;GLD rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD rumors&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariffs+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;GLD tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD tariff&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD tariff&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD latest news (priority: newsapi, gnews, guardian)
-NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD latest news&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
+GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD latest news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: cached 0 result(s)
+    newsapi: cached 1 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+latest+rumor&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;GLD latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; GLD tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 2 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; GLD tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariff+impact&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=GLD+tariff+impact&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;GLD tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=GLD+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-NewsAPI search failed for &#x27;GLD tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
 GNews search: GET https://gnews.io/api/v4/search?q=GLD+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;GLD tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=GLD+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;GLD tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: error: 429 Client Error: Too Many Requests for url: https://newsapi.org/v2/everything
-    gnews: 0 result(s)
+    newsapi: 0 result(s)
+    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -907,6 +911,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;:&quot;no — GLD trades near 1-year and 5-year peaks and is labeled overbought while price (~380.1) sits just below 7d resistance (382.5) and above support (371.9) and its 20-dma (~377.5); macro context shows broader equity froth and gold-ETF surge headlines but no GLD-specific bubble clearing, making fresh long entries riskier here.&quot;,&quot;1.1&quot;:&quot;SPDR Gold Trust (GLD) is an exchange-traded trust that holds physical gold bars and issues shares backed by that bullion. Its objective is for the share price to reflect the performance of the spot price of gold bullion, minus trust expenses. It offers inv
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — GLD is trading near 1-year and 5-year peaks and flagged as overbought with price just below short-term resistance ($382.52) and slightly above its 20-day average; macro context shows broad equity froth and strong gold-bull narratives but no specific sign of panic discount here, while technicals (MACD negative vs higher prior SMA/EMA) point to downside risk versus support around $371.85.&quot;, &quot;1.1&quot;: &quot;SPDR Gold Shares (GLD) is a physically backed exchange-traded trust that holds gold bars and issues/redeems large blocks of shares (“Baskets”) in exchange for deposits or withdrawals of 
 </code></pre>
 </details>
