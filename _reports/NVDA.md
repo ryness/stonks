@@ -2,11 +2,11 @@
 layout: default
 title: "NVDA Stock Report"
 ticker: "NVDA"
-date: 2026-04-07
-generated_at: 2026-04-07T20:48:12.954700+00:00
-runtime_seconds: 51.58
+date: 2026-04-09
+generated_at: 2026-04-09T16:18:18.999385+00:00
+runtime_seconds: 81.84
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-04-07T20:48:12.954700+00:00">2026-04-07 20:48 UTC</time> (runtime 51.58s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-09T16:18:18.999385+00:00">2026-04-09 16:18 UTC</time> (runtime 1m 22s)
   
   ![Nvidia Corp logo](https://ryness.github.io/stonks/assets/logos/NVDA.svg)
   
@@ -55,23 +55,23 @@ raw_markdown: |
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** maybe — the stock is in a 5-year near-peak zone but 1-year/3-month are only mid-range with an oversold tag and a recent AI-led de-rating across mega-cap tech; macro pieces flag sector-wide valuation and AI-bubble risks while price now sits just above 7-day support (~$181.6) and near its 20-day SMA/EMA cluster, offering a potential but technically fragile dip entry.
+  0.1. **Long Entry?:** maybe — over 5 years NVDA trades near its peak but is flagged as oversold with a 7d downtrend and price just above 1-year support (~$181.6) and near its 20-day average (~$183.6); macro AI sentiment is hot but recent pieces highlight both AI bubble worries and strong institutional buy ratings, so froth risk exists but is not one-sided here.
   
   ## 1. The Biz
   
-  1.1. **Activities:** Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware that power gaming, artificial intelligence, and high-performance computing workloads. Its portfolio spans AI data center GPUs, the CUDA software platform for AI model development and training, and data center networking solutions that interconnect GPUs for complex workloads. The company also supplies GPUs for gaming and creative applications on PCs and other computing platforms.
+  1.1. **Activities:** Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware and software. Its GPUs power gaming, professional visualization, and increasingly data center and AI workloads, including large language model training and inference. The company also offers its CUDA software platform and data center networking solutions that connect GPUs to handle complex, large-scale workloads.
   
-  1.2. **Profitable?:** yes — Nvidia is highly profitable, with recent net income totaling about $120B over four periods, a profit margin of roughly 55.6%, and strong free and operating cash flow.
+  1.2. **Profitable?:** yes — Nvidia is highly profitable, with recent net income totaling about $120B over the last four periods, a profit margin above 55%, strong free cash flow, and robust revenue and earnings growth.
   
-  1.3. **Customer & Markets:** Nvidia primarily serves enterprise and hyperscale customers building AI infrastructure and data centers, as well as gamers and creators using GPUs for graphics and compute-intensive workloads. Its markets include global technology and cloud infrastructure, artificial intelligence and data center computing, and PC gaming and professional visualization, with a strong presence in the United States and worldwide.
+  1.3. **Customer & Markets:** Nvidia serves gamers, creative professionals, enterprises, cloud and data center operators, and automotive and industrial customers that need accelerated computing and AI. Its key markets span gaming GPUs, professional visualization, data center AI and networking, and automotive/industrial AI platforms, primarily across large global technology and industrial economies.
   
-  1.4. **Competition:** Nvidia's main competitors include semiconductor and platform players such as AMD, Intel, Broadcom, Apple, Google (Alphabet), Microsoft, Meta, Amazon, and Tesla, which compete in GPUs, AI accelerators, and broader compute ecosystems. Among these, Nvidia is portrayed in the data as a leading AI GPU provider and a central player in AI infrastructure, with other firms often positioned around its ecosystem.
+  1.4. **Competition:** Nvidia's primary competitors include AMD, Intel, Broadcom and large tech companies like Google, Amazon, Microsoft, Apple and Meta that design their own chips, but Nvidia currently dominates the discrete GPU and AI accelerator markets with very high market share (often cited around 80–90%).
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and the price has fallen from a recent local high near $193.66 toward support around $181.59.
+  2.1. **7d Trend?:** down — the quick facts label the 7d trend as down and the latest close has slipped toward support after recent highs near $193.7.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent 7-day support/local low around $181.59 has been the most favorable entry zone in this window, while selling or trimming near the 7-day resistance/local high around $193.61–$193.66 offered attractive exits.
+  2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the identified support around $181.6 appeared to be better buy zones, while spikes toward the 7-day/local resistance near $193.6 were better areas to take profits or trim.
   
   2.3.1. **7d Volume:** med
   
@@ -79,15 +79,15 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** Nvidia appears to be a highly stable institution rather than a fly-by-night operation, with a long-standing position as a leading GPU and AI semiconductor developer. Financially, it is very strong, evidenced by about $120B in cumulative recent net income, a profit margin above 55%, and robust free cash flow and operating cash flow. Its role at the center of AI infrastructure, deep ecosystem partnerships (such as with Super Micro and major cloud providers), and recurring inclusion in institutional portfolios (e.g., billionaire investors and major funds) further underscore its durability. While recent sector volatility and de-rating have pressured the stock, the underlying business and balance-sheet strength signal a resilient franchise.
+  3.1. **Stability?:** Nvidia is a long-established, large-cap U.S. semiconductor company and a leading player in GPUs and AI accelerators, indicating it is far from a fly-by-night operation. Financially it shows very strong profitability, high profit margins, and large free and operating cash flows, suggesting a solid balance between growth and financial strength. Its dominant market share in GPUs and AI chips and broad ecosystem (hardware, CUDA software, and networking) further support its structural stability. However, concentration in fast-evolving AI markets and dependence on external manufacturing (e.g., Taiwan fabs, as noted in risk discussions) remain structural risks, even for a fundamentally stable institution.
   
-  3.2. **Innovating?:** Nvidia is clearly innovating and growing, with rapid revenue (73%) and earnings (94.5%) growth and ongoing launches of new AI chips, software platforms, and data center solutions. Recent news highlights continued expansion into areas like physical AI, robotics, autonomous systems, and advanced cloud partnerships, supporting a narrative of sustained innovation rather than stagnation.
+  3.2. **Innovating?:** Nvidia is clearly innovating and growing, as seen in its full-stack AI strategy, rapid revenue and earnings growth, new platforms like Vera and Blackwell, and acquisitions plus partnerships (e.g., Mellanox, Run:ai, and a $2B investment in Marvell). Analyst commentary emphasizing Nvidia as central to "Industrial Revolution 4.0" and maintaining a high Buy rating further underscores its ongoing innovation and expansion.
   
   ## 4. Context
   
-  4.1. **News:** Recent context shows mega-cap tech, including Nvidia, undergoing a de-rating as investors reassess AI valuations, with articles citing its high forward P/E and the Magnificent Seven acting as a drag on indices. At the same time, multiple pieces emphasize that AI demand and Nvidia's ecosystem remain strong, with analysts and high-profile investors still urging buys or long-term positions despite volatility. Headlines around Super Micro's smuggling scandal raise ecosystem and regulatory risks but also stress Nvidia's centrality and the difficulty of replacing its partners. In light of 'buy the rumor, sell the news,' much prior AI optimism appears to have been priced in and partially sold off post-GTC and post-rally, while current sentiment is more cautious and valuation-focused than rumor-driven, suggesting less classic 'sell-the-news' risk but heightened sensitivity to execution and macro shocks.
+  4.1. **News:** Recent news centers on macro and AI themes as well as Nvidia-specific strategic moves: ceasefire-driven relief rallies have boosted risk appetite, with semiconductor and Magnificent Seven stocks, including Nvidia, rebounding. At the same time, some articles flag concerns about billionaire-favored stocks lagging the S&P 500 and AI-bubble narratives, while others argue AI is transitioning from hype to real productivity gains. Company-specific headlines highlight Nvidia's $2B investment in Marvell and positioning as a central hub for Industrial Revolution 4.0 via acquisitions and partnerships, alongside very bullish analyst ratings and long-term bets by major investors. In this context, much of the recent upside seems tied to concrete deals and earnings momentum rather than just rumor, so the data skews more toward "buy the dip" than "sell the news," consistent with the quick facts indicating no for buy-the-rumor/sell-the-news and yes for buy-the-dip.
   
-  4.2. **Tarrifs:** unknown
+  4.2. **Tarrifs:** Tariff news has periodically caused sharp drawdowns in Nvidia's stock (e.g., 9% drops on tariff fears and selloffs after sweeping reciprocal tariffs on chips), but follow-up analysis often characterizes the fundamental impact as limited or manageable and notes that Nvidia has continued to post surging revenues despite tariff uncertainty.
   
   ## 5. QuickRef
   
@@ -116,10 +116,10 @@ raw_markdown: |
   <div class="sources-list">
   <strong>Sources</strong>
   <ul>
-  <li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+  <li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
   <li>yfinance: fundamentals, earnings calendar</li>
-  <li>Google Custom Search: core business, product portfolio</li>
-  <li>NewsAPI: profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+  <li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+  <li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
   <li>cached: prices &amp; technicals</li>
   </ul>
   </div>
@@ -164,7 +164,7 @@ raw_markdown: |
   Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NVDA&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
   Massive news: collected 20 articles.
     massive.com returned 20 headlines
-  Filtered 15 headline(s) from banned sources.
+  Filtered 13 headline(s) from banned sources.
   Latest news fallback search -&gt; NVDA latest news
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -194,7 +194,7 @@ raw_markdown: |
   Guardian search failed for &#x27;NVDA analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+analyst+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+analyst+news&amp;num=2&amp;start=11
-      newsapi: 5 result(s)
+      newsapi: 6 result(s)
       gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
@@ -239,7 +239,7 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Nvidia+earnings+news&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Nvidia+earnings+news&amp;num=2&amp;start=11
       newsapi: 12 result(s)
-      gnews: 2 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
   Running supplementary searches...
@@ -259,79 +259,71 @@ raw_markdown: |
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+product+portfolio&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: 12 result(s)
-      newsapi: 4 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 5 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NVDA business model (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA profitability (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 6 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      google_custom_search: 12 result(s)
+      newsapi: 7 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=2&amp;start=11
-  Google Custom Search failed for &#x27;NVDA earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 12 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NVDA profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 10 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      newsapi: 11 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 11 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      google_custom_search: 12 result(s)
+      newsapi: 12 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;NVDA market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 4 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; NVDA market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -344,25 +336,25 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 2 result(s)
+      google_custom_search: 12 result(s)
+      newsapi: 3 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -377,25 +369,25 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 1 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 9 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -425,13 +417,13 @@ raw_markdown: |
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 1 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -441,18 +433,18 @@ raw_markdown: |
   GNews search failed for &#x27;NVDA tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 11 result(s)
+      newsapi: 12 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; NVDA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=10&amp;start=1
-  Google Custom Search failed for &#x27;NVDA tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=2&amp;start=11
   NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=NVDA+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   GNews search failed for &#x27;NVDA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;NVDA tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      google_custom_search: 12 result(s)
       newsapi: 2 result(s)
       gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -474,12 +466,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 5-year near-peak zone but 1-year/3-month are only mid-range with an oversold tag and a recent AI-led de-rating across mega-cap tech; macro pieces flag sector-wide valuation and AI-bubble risks while price now sits just above 7-day support (~$181.6) and near its 20-day SMA/EMA cluster, offering a potential but technically fragile dip entry.&quot;, &quot;1.1&quot;: &quot;Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware that power gaming, artificial intelligence, and high-performance computing workloads. Its portfolio spans AI data center 
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — over 5 years NVDA trades near its peak but is flagged as oversold with a 7d downtrend and price just above 1-year support (~$181.6) and near its 20-day average (~$183.6); macro AI sentiment is hot but recent pieces highlight both AI bubble worries and strong institutional buy ratings, so froth risk exists but is not one-sided here.&quot;,&quot;1.1&quot;: &quot;Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware and software. Its GPUs power gaming, professional visualization, and increasingly data center and AI workloads, including large language model train
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-04-07T20:48:12.954700+00:00">2026-04-07 20:48 UTC</time> (runtime 51.58s)
+**Generated:** <time class="js-local-time" datetime="2026-04-09T16:18:18.999385+00:00">2026-04-09 16:18 UTC</time> (runtime 1m 22s)
 
 ![Nvidia Corp logo](https://ryness.github.io/stonks/assets/logos/NVDA.svg)
 
@@ -528,23 +520,23 @@ raw_markdown: |
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** maybe — the stock is in a 5-year near-peak zone but 1-year/3-month are only mid-range with an oversold tag and a recent AI-led de-rating across mega-cap tech; macro pieces flag sector-wide valuation and AI-bubble risks while price now sits just above 7-day support (~$181.6) and near its 20-day SMA/EMA cluster, offering a potential but technically fragile dip entry.
+0.1. **Long Entry?:** maybe — over 5 years NVDA trades near its peak but is flagged as oversold with a 7d downtrend and price just above 1-year support (~$181.6) and near its 20-day average (~$183.6); macro AI sentiment is hot but recent pieces highlight both AI bubble worries and strong institutional buy ratings, so froth risk exists but is not one-sided here.
 
 ## 1. The Biz
 
-1.1. **Activities:** Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware that power gaming, artificial intelligence, and high-performance computing workloads. Its portfolio spans AI data center GPUs, the CUDA software platform for AI model development and training, and data center networking solutions that interconnect GPUs for complex workloads. The company also supplies GPUs for gaming and creative applications on PCs and other computing platforms.
+1.1. **Activities:** Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware and software. Its GPUs power gaming, professional visualization, and increasingly data center and AI workloads, including large language model training and inference. The company also offers its CUDA software platform and data center networking solutions that connect GPUs to handle complex, large-scale workloads.
 
-1.2. **Profitable?:** yes — Nvidia is highly profitable, with recent net income totaling about $120B over four periods, a profit margin of roughly 55.6%, and strong free and operating cash flow.
+1.2. **Profitable?:** yes — Nvidia is highly profitable, with recent net income totaling about $120B over the last four periods, a profit margin above 55%, strong free cash flow, and robust revenue and earnings growth.
 
-1.3. **Customer & Markets:** Nvidia primarily serves enterprise and hyperscale customers building AI infrastructure and data centers, as well as gamers and creators using GPUs for graphics and compute-intensive workloads. Its markets include global technology and cloud infrastructure, artificial intelligence and data center computing, and PC gaming and professional visualization, with a strong presence in the United States and worldwide.
+1.3. **Customer & Markets:** Nvidia serves gamers, creative professionals, enterprises, cloud and data center operators, and automotive and industrial customers that need accelerated computing and AI. Its key markets span gaming GPUs, professional visualization, data center AI and networking, and automotive/industrial AI platforms, primarily across large global technology and industrial economies.
 
-1.4. **Competition:** Nvidia's main competitors include semiconductor and platform players such as AMD, Intel, Broadcom, Apple, Google (Alphabet), Microsoft, Meta, Amazon, and Tesla, which compete in GPUs, AI accelerators, and broader compute ecosystems. Among these, Nvidia is portrayed in the data as a leading AI GPU provider and a central player in AI infrastructure, with other firms often positioned around its ecosystem.
+1.4. **Competition:** Nvidia's primary competitors include AMD, Intel, Broadcom and large tech companies like Google, Amazon, Microsoft, Apple and Meta that design their own chips, but Nvidia currently dominates the discrete GPU and AI accelerator markets with very high market share (often cited around 80–90%).
 
 ## 2. Recent
 
-2.1. **7d Trend?:** down — the 7d Trend is labeled 'down' and the price has fallen from a recent local high near $193.66 toward support around $181.59.
+2.1. **7d Trend?:** down — the quick facts label the 7d trend as down and the latest close has slipped toward support after recent highs near $193.7.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent 7-day support/local low around $181.59 has been the most favorable entry zone in this window, while selling or trimming near the 7-day resistance/local high around $193.61–$193.66 offered attractive exits.
+2.2. **7d Buy/Sell Points?:** Over the last week, pullbacks toward the identified support around $181.6 appeared to be better buy zones, while spikes toward the 7-day/local resistance near $193.6 were better areas to take profits or trim.
 
 2.3.1. **7d Volume:** med
 
@@ -552,15 +544,15 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** Nvidia appears to be a highly stable institution rather than a fly-by-night operation, with a long-standing position as a leading GPU and AI semiconductor developer. Financially, it is very strong, evidenced by about $120B in cumulative recent net income, a profit margin above 55%, and robust free cash flow and operating cash flow. Its role at the center of AI infrastructure, deep ecosystem partnerships (such as with Super Micro and major cloud providers), and recurring inclusion in institutional portfolios (e.g., billionaire investors and major funds) further underscore its durability. While recent sector volatility and de-rating have pressured the stock, the underlying business and balance-sheet strength signal a resilient franchise.
+3.1. **Stability?:** Nvidia is a long-established, large-cap U.S. semiconductor company and a leading player in GPUs and AI accelerators, indicating it is far from a fly-by-night operation. Financially it shows very strong profitability, high profit margins, and large free and operating cash flows, suggesting a solid balance between growth and financial strength. Its dominant market share in GPUs and AI chips and broad ecosystem (hardware, CUDA software, and networking) further support its structural stability. However, concentration in fast-evolving AI markets and dependence on external manufacturing (e.g., Taiwan fabs, as noted in risk discussions) remain structural risks, even for a fundamentally stable institution.
 
-3.2. **Innovating?:** Nvidia is clearly innovating and growing, with rapid revenue (73%) and earnings (94.5%) growth and ongoing launches of new AI chips, software platforms, and data center solutions. Recent news highlights continued expansion into areas like physical AI, robotics, autonomous systems, and advanced cloud partnerships, supporting a narrative of sustained innovation rather than stagnation.
+3.2. **Innovating?:** Nvidia is clearly innovating and growing, as seen in its full-stack AI strategy, rapid revenue and earnings growth, new platforms like Vera and Blackwell, and acquisitions plus partnerships (e.g., Mellanox, Run:ai, and a $2B investment in Marvell). Analyst commentary emphasizing Nvidia as central to "Industrial Revolution 4.0" and maintaining a high Buy rating further underscores its ongoing innovation and expansion.
 
 ## 4. Context
 
-4.1. **News:** Recent context shows mega-cap tech, including Nvidia, undergoing a de-rating as investors reassess AI valuations, with articles citing its high forward P/E and the Magnificent Seven acting as a drag on indices. At the same time, multiple pieces emphasize that AI demand and Nvidia's ecosystem remain strong, with analysts and high-profile investors still urging buys or long-term positions despite volatility. Headlines around Super Micro's smuggling scandal raise ecosystem and regulatory risks but also stress Nvidia's centrality and the difficulty of replacing its partners. In light of 'buy the rumor, sell the news,' much prior AI optimism appears to have been priced in and partially sold off post-GTC and post-rally, while current sentiment is more cautious and valuation-focused than rumor-driven, suggesting less classic 'sell-the-news' risk but heightened sensitivity to execution and macro shocks.
+4.1. **News:** Recent news centers on macro and AI themes as well as Nvidia-specific strategic moves: ceasefire-driven relief rallies have boosted risk appetite, with semiconductor and Magnificent Seven stocks, including Nvidia, rebounding. At the same time, some articles flag concerns about billionaire-favored stocks lagging the S&P 500 and AI-bubble narratives, while others argue AI is transitioning from hype to real productivity gains. Company-specific headlines highlight Nvidia's $2B investment in Marvell and positioning as a central hub for Industrial Revolution 4.0 via acquisitions and partnerships, alongside very bullish analyst ratings and long-term bets by major investors. In this context, much of the recent upside seems tied to concrete deals and earnings momentum rather than just rumor, so the data skews more toward "buy the dip" than "sell the news," consistent with the quick facts indicating no for buy-the-rumor/sell-the-news and yes for buy-the-dip.
 
-4.2. **Tarrifs:** unknown
+4.2. **Tarrifs:** Tariff news has periodically caused sharp drawdowns in Nvidia's stock (e.g., 9% drops on tariff fears and selloffs after sweeping reciprocal tariffs on chips), but follow-up analysis often characterizes the fundamental impact as limited or manageable and notes that Nvidia has continued to post surging revenues despite tariff uncertainty.
 
 ## 5. QuickRef
 
@@ -589,10 +581,10 @@ raw_markdown: |
 <div class="sources-list">
 <strong>Sources</strong>
 <ul>
-<li>massive.com: company profile &amp; branding, technical indicators, headlines (5 items)</li>
+<li>massive.com: company profile &amp; branding, technical indicators, headlines (7 items)</li>
 <li>yfinance: fundamentals, earnings calendar</li>
-<li>Google Custom Search: core business, product portfolio</li>
-<li>NewsAPI: profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact, business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
+<li>Google Custom Search: core business, product portfolio, profitability, earnings trend, target customers, market segments, competitors, market share, rumors, tariffs news, latest rumor, tariff impact</li>
+<li>NewsAPI: business model, profit outlook, market expansion, competitive landscape, rumor, tariff, latest news, tariffs</li>
 <li>cached: prices &amp; technicals</li>
 </ul>
 </div>
@@ -637,7 +629,7 @@ Massive news: GET https://api.massive.com/v2/reference/news?ticker=NVDA&amp;limi
 Massive news: response 200 from https://api.massive.com/v2/reference/news?ticker=NVDA&amp;limit=20&amp;order=desc&amp;apiKey=&lt;redacted&gt;
 Massive news: collected 20 articles.
   massive.com returned 20 headlines
-Filtered 15 headline(s) from banned sources.
+Filtered 13 headline(s) from banned sources.
 Latest news fallback search -&gt; NVDA latest news
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -667,7 +659,7 @@ Guardian search: GET https://content.guardianapis.com/search?q=NVDA+analyst+news
 Guardian search failed for &#x27;NVDA analyst news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+analyst+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+analyst+news&amp;num=2&amp;start=11
-    newsapi: 5 result(s)
+    newsapi: 6 result(s)
     gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
@@ -712,7 +704,7 @@ Guardian search failed for &#x27;Nvidia earnings news&#x27;: 401 Client Error: U
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Nvidia+earnings+news&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=Nvidia+earnings+news&amp;num=2&amp;start=11
     newsapi: 12 result(s)
-    gnews: 2 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
 Running supplementary searches...
@@ -732,79 +724,71 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+product+portfolio&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+product+portfolio&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+product+portfolio&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA product portfolio&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+product+portfolio&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA product portfolio&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: 12 result(s)
-    newsapi: 4 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 5 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NVDA business model (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+business+model&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA business model&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA profitability (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+profitability&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA profitability&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 6 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    google_custom_search: 12 result(s)
+    newsapi: 7 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+earnings+trend&amp;num=2&amp;start=11
-Google Custom Search failed for &#x27;NVDA earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA earnings trend&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 12 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NVDA profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA profit outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 10 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    newsapi: 11 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+target+customers&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA target customers&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 11 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    google_custom_search: 12 result(s)
+    newsapi: 12 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+segments&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;NVDA market segments&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 4 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; NVDA market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
@@ -817,25 +801,25 @@ Guardian search failed for &#x27;NVDA market expansion&#x27;: 401 Client Error: 
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+competitors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA competitors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 2 result(s)
+    google_custom_search: 12 result(s)
+    newsapi: 3 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+market+share&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA market share&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -850,25 +834,25 @@ Guardian search failed for &#x27;NVDA competitive landscape&#x27;: 401 Client Er
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+rumors&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA rumors&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 1 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariffs+news&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA tariffs news&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 9 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -898,13 +882,13 @@ Guardian search failed for &#x27;NVDA latest news&#x27;: 401 Client Error: Unaut
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA latest rumor (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+latest+rumor&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA latest rumor&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 1 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -914,18 +898,18 @@ GNews search: GET https://gnews.io/api/v4/search?q=NVDA+tariffs&amp;lang=en&amp;
 GNews search failed for &#x27;NVDA tariffs&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 11 result(s)
+    newsapi: 12 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; NVDA tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=10&amp;start=1
-Google Custom Search failed for &#x27;NVDA tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=NVDA+tariff+impact&amp;num=2&amp;start=11
 NewsAPI search: GET https://newsapi.org/v2/everything?q=NVDA+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=NVDA+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 GNews search failed for &#x27;NVDA tariff impact&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=NVDA+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;NVDA tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    google_custom_search: 12 result(s)
     newsapi: 2 result(s)
     gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -947,6 +931,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — the stock is in a 5-year near-peak zone but 1-year/3-month are only mid-range with an oversold tag and a recent AI-led de-rating across mega-cap tech; macro pieces flag sector-wide valuation and AI-bubble risks while price now sits just above 7-day support (~$181.6) and near its 20-day SMA/EMA cluster, offering a potential but technically fragile dip entry.&quot;, &quot;1.1&quot;: &quot;Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware that power gaming, artificial intelligence, and high-performance computing workloads. Its portfolio spans AI data center 
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;maybe — over 5 years NVDA trades near its peak but is flagged as oversold with a 7d downtrend and price just above 1-year support (~$181.6) and near its 20-day average (~$183.6); macro AI sentiment is hot but recent pieces highlight both AI bubble worries and strong institutional buy ratings, so froth risk exists but is not one-sided here.&quot;,&quot;1.1&quot;: &quot;Nvidia develops graphics processing units (GPUs) and related accelerated computing hardware and software. Its GPUs power gaming, professional visualization, and increasingly data center and AI workloads, including large language model train
 </code></pre>
 </details>
