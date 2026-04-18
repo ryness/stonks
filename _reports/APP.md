@@ -2,11 +2,11 @@
 layout: default
 title: "APP Stock Report"
 ticker: "APP"
-date: 2026-04-16
-generated_at: 2026-04-16T06:56:45.225240+00:00
-runtime_seconds: 40.77
+date: 2026-04-18
+generated_at: 2026-04-18T02:24:54.335677+00:00
+runtime_seconds: 37.99
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-04-16T06:56:45.225240+00:00">2026-04-16 06:56 UTC</time> (runtime 40.77s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-18T02:24:54.335677+00:00">2026-04-18 02:24 UTC</time> (runtime 37.99s)
   
   ![Applovin Corporation Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/APP.svg)
   
@@ -47,30 +47,30 @@ raw_markdown: |
   
   ### Latest news (0-3 days)
   
-  - [Micah Richards reveals why he felt a “little bit sorry” for Chelsea after Man City loss](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ba3f190-95ec-49f2-a78c-6d66702672f9) — Yahoo Entertainment · 2026-04-15
-  - [Report: Chelsea set for transfer battle with Man United and Arsenal over Newcastle star](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a4154ea-4081-487a-b724-5ee99b6f7692) — Yahoo Entertainment · 2026-04-15
-  - [“There’s a general acceptance” – Sky Sports reporter shares update on Chelsea’s summer plans](https://chelsea.news/2026/04/chelsea-liam-rosenior-summer-transfer-plans/) — Chelsea.news · 2026-04-15
+  - [Ctrl-Alt-Speech: The Silence Of The LLMs](https://slashdot.org/firehose.pl?op=view&amp;id=181734122) — Slashdot.org · 2026-04-16
+  - [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) — The Verge · 2026-04-16
+  - [Jim Cramer Discusses AppLovin in Light of Google Competition Fears](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-applovin-light-133947813.html) — Yahoo Entertainment · 2026-04-16
   
   
   ## 0. Entry Radar
   
-  0.1. **Long Entry?:** no — shares are overbought and trading near short-term resistance at $415.44 versus support at $359 and a 20-day average around $412; macro froth visibility is limited but the stock sits near 1-year and 5-year mid-range after a strong uptrend, making fresh entries less attractive here.
+  0.1. **Long Entry?:** no — shares sit near 7d resistance at $415 and above the 20-day average with 'overbought' flagged while trading far above the 1-year low of $219 and 5-year low of $9.30; macro froth visibility is limited and recent software sector rebounds and a 14% surge in APP suggest elevated short-term sentiment risk near prior highs.
   
   ## 1. The Biz
   
-  1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (AppDiscovery) for advertisers, a supply-side platform (Max) for publishers, and an ad exchange that connects the two. Roughly 80% of revenue comes from its DSP, with the remainder from the SSP. Its AXON 2 optimizer uses data-driven models to place ads based on specified return thresholds, aiming to improve performance for advertisers and monetization for app publishers.
+  1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from its SSP Max. Its AXON 2 ad optimization engine is a key growth driver, helping advertisers place ads based on return thresholds.
   
-  1.2. **Profitable?:** yes — AppLovin is profitable, with cumulative net income of about $3.33 billion across recent periods, a strong profit margin of roughly 61%, and positive free cash flow of about $2.7 billion.
+  1.2. **Profitable?:** yes — AppLovin is profitable, with positive net income in recent periods totaling about $3.33B cumulatively and a strong profit margin of roughly 61% plus substantial free cash flow.
   
-  1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking performance-based user acquisition and monetization, and mobile app publishers needing to maximize ad revenues through its SSP and exchange. Its markets are centered on digital advertising within mobile apps, with operations based in the United States but serving a broad online advertiser and publisher ecosystem. The company is positioned within the wider communication services and ad-tech landscape rather than a narrow geographic niche.
+  1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking to reach users via mobile and digital apps and publishers who monetize their inventory through programmatic advertising. Its markets are digital advertising and adtech, with operations based in the United States but functionally global through its platforms. The business is closely tied to mobile apps and gaming ecosystems where its tools are embedded.
   
-  1.4. **Competition:** Key competitive peers cited include Unity (U), Duolingo (DUOL), Meta Platforms (META), and Apple (AAPL), all of which operate at scale in mobile apps, advertising, or related ecosystems. AppLovin competes as a specialized ad-tech and optimization platform within this group rather than as the overall market leader in digital advertising.
+  1.4. **Competition:** Key competitors mentioned alongside AppLovin include Unity (U), Duolingo (DUOL), Meta Platforms (META), and Apple (AAPL), which also operate at scale in ads, apps, and user acquisition. Within this group, AppLovin is a specialized adtech platform rather than the largest ecosystem player, but is highlighted as one of a select group of software names resilient to AI disruption.
   
   ## 2. Recent
   
-  2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' with price moving from support toward resistance and closing at $412 near the recent high of $415.44.
+  2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from support near $359 toward recent resistance around $415.
   
-  2.2. **7d Buy/Sell Points?:** Buying near the recent support around $359 appears to have been a favorable entry, while the resistance zone near $415.44 has been an attractive area to take profits or trim positions. The current close at $412 is closer to the suggested sell zone than the buy zone.
+  2.2. **7d Buy/Sell Points?:** In the past week, pullbacks toward the suggested buy zone and 7d support around $359 looked like better buy entries, while approaches to the 7d resistance/local high near $415.44 have been favorable short-term sell or trim levels. The current close at $412 is near that resistance band.
   
   2.3.1. **7d Volume:** med
   
@@ -78,13 +78,13 @@ raw_markdown: |
   
   ## 3. Longterm
   
-  3.1. **Stability?:** AppLovin appears to be a relatively stable institution within ad-tech, generating consistent net income (about $3.33 billion cumulatively in recent years) and a robust profit margin above 60%. Strong operating cash flow (~$4.0 billion) and free cash flow (~$2.7 billion) suggest a healthy balance between growth investment and cash generation. The multi-year price chart shows the stock has moved from single digits to the hundreds over five years, indicating it has weathered volatility and grown substantially rather than being a short-lived story. Its role as a core DSP/SSP infrastructure provider for mobile advertisers and publishers further anchors it in a durable market segment despite sector cyclicality.
+  3.1. **Stability?:** AppLovin appears relatively stable rather than fly-by-night, with several consecutive years of positive net income totaling over $3.3B and a high profit margin around 61%. The company generates robust operating cash flow (~$4.0B) and free cash flow (~$2.7B), indicating a solid cash-generating business. Its role as a core adtech infrastructure provider (DSP, SSP, and exchange) embedded in mobile ecosystems further supports durability. While detailed balance sheet data are not shown, strong earnings, cash flow, and repeated mentions as a key AI beneficiary suggest institutional-scale stability.
   
-  3.2. **Innovating?:** AppLovin is innovating and growing, as shown by high revenue growth (about 66%) and earnings growth (~84%) alongside continued development of AXON 2 as an AI-driven ad optimization engine. Recent coverage highlighting AppLovin among software names positioned to benefit from AI rather than be disrupted reinforces its active adaptation to new technology trends.
+  3.2. **Innovating?:** AppLovin is innovating and growing, as shown by revenue growth of about 66%, earnings growth of 84%, and its AXON 2 ad optimization engine positioned as the primary tool for future growth. Recent coverage highlighting it as an AI-resilient software name and expectations for strong sales and earnings growth reinforce a clear innovation and expansion trajectory.
   
   ## 4. Context
   
-  4.1. **News:** Recent news flow around AppLovin has focused on strong tech/software sector moves, AI positioning, and earnings dynamics. Articles spotlight AppLovin as one of the "best software stocks to buy that AI can't disrupt" and as a key AI stock expected to post roughly 17% sales and 48% earnings growth, suggesting bullish expectations built ahead of results. At the same time, one piece notes the stock fell about 5% despite beating expectations, and another flags it being down 33% year-to-date into an earnings week, illustrating the risk of "sell the news" reactions after optimistic rumors. More broadly, software as a sector has seen sharp rebounds after selloffs and debate over whether AI undermines or supports traditional software business models, which can amplify rumor-driven rallies and subsequent profit taking. In this context, the quick facts flag "Sell the news? yes," consistent with recent instances where upside surprises did not prevent post-news pullbacks.
+  4.1. **News:** Recent news frames AppLovin within a volatile software and AI narrative: software stocks sold off roughly 20% year-to-date before staging sharp rebounds, with APP at one point surging 14% in a single session and later falling ~5% despite beating earnings expectations. Articles spotlight it as a leading AI-benefiting software stock that can't easily be disrupted, and previews call for strong revenue and nearly 50% earnings growth, with some expecting an earnings surprise. Other coverage notes APP was down 33% year-to-date into an earnings-heavy week, underscoring significant sentiment swings. This backdrop suggests that positive AI and earnings expectations can drive strong "rumor" rallies, but sharp post-report drops and a "sell the news? yes" quick fact indicate that good news has often been an opportunity for profit-taking.
   
   4.2. **Tarrifs:** unknown
   
@@ -171,21 +171,34 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
       gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+  Latest news fallback search -&gt; APP earnings news
+  NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+  Guardian search failed for &#x27;APP earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+news&amp;num=10&amp;start=1
+  Google Custom Search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+      newsapi: 10 result(s)
+      gnews: 0 result(s)
+      guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+      google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   Running supplementary searches...
     google_custom_search search -&gt; APP core business (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+core+business&amp;num=10&amp;start=1
+  Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+core+business&amp;num=2&amp;start=11
   Google Custom Search failed for &#x27;APP core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=APP+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 12 result(s)
+      newsapi: 11 result(s)
       gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
@@ -205,7 +218,7 @@ raw_markdown: |
   GNews search: GET https://gnews.io/api/v4/search?q=APP+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
   Guardian search: GET https://content.guardianapis.com/search?q=APP+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
+      newsapi: 11 result(s)
       gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP profitability (priority: google_custom_search, newsapi, gnews, guardian)
@@ -213,137 +226,139 @@ raw_markdown: |
   Google Custom Search failed for &#x27;APP profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 11 result(s)
-      gnews: 4 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+trend&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 10 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP profit outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP target customers (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+target+customers&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP market segments (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP market expansion (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP competitors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+competitors&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: 3 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP market share (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+share&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 12 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 11 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP competitive landscape (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP rumors (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+rumors&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 11 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 12 result(s)
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariffs+news&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 12 result(s)
-      gnews: 0 result(s)
+      newsapi: 11 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP rumor (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 11 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      gnews: 1 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP tariff (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: 0 result(s)
+      newsapi: 10 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP latest news (priority: newsapi, gnews, guardian)
   GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
   GNews search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -355,31 +370,32 @@ raw_markdown: |
   Google Custom Search failed for &#x27;APP latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 11 result(s)
-      gnews: 0 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; APP tariffs (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;APP tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-      newsapi: 12 result(s)
-      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+      newsapi: 11 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; APP tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariff+impact&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;APP tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+  GNews search failed for &#x27;APP tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;APP tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-      newsapi: 7 result(s)
-      gnews: 0 result(s)
+      newsapi: 8 result(s)
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -399,12 +415,12 @@ raw_markdown: |
     - 4.2 Tarrifs
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are overbought and trading near short-term resistance at $415.44 versus support at $359 and a 20-day average around $412; macro froth visibility is limited but the stock sits near 1-year and 5-year mid-range after a strong uptrend, making fresh entries less attractive here.&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (AppDiscovery) for advertisers, a supply-side platform (Max) for publishers, and an ad exchange that connects the two. Roughly 80% of revenue comes from its DSP, with the remainder from the SSP.
+  LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7d resistance at $415 and above the 20-day average with &#x27;overbought&#x27; flagged while trading far above the 1-year low of $219 and 5-year low of $9.30; macro froth visibility is limited and recent software sector rebounds and a 14% surge in APP suggest elevated short-term sentiment risk near prior highs.&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from i
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-04-16T06:56:45.225240+00:00">2026-04-16 06:56 UTC</time> (runtime 40.77s)
+**Generated:** <time class="js-local-time" datetime="2026-04-18T02:24:54.335677+00:00">2026-04-18 02:24 UTC</time> (runtime 37.99s)
 
 ![Applovin Corporation Class A Common Stock logo](https://ryness.github.io/stonks/assets/logos/APP.svg)
 
@@ -445,30 +461,30 @@ raw_markdown: |
 
 ### Latest news (0-3 days)
 
-- [Micah Richards reveals why he felt a “little bit sorry” for Chelsea after Man City loss](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ba3f190-95ec-49f2-a78c-6d66702672f9) — Yahoo Entertainment · 2026-04-15
-- [Report: Chelsea set for transfer battle with Man United and Arsenal over Newcastle star](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a4154ea-4081-487a-b724-5ee99b6f7692) — Yahoo Entertainment · 2026-04-15
-- [“There’s a general acceptance” – Sky Sports reporter shares update on Chelsea’s summer plans](https://chelsea.news/2026/04/chelsea-liam-rosenior-summer-transfer-plans/) — Chelsea.news · 2026-04-15
+- [Ctrl-Alt-Speech: The Silence Of The LLMs](https://slashdot.org/firehose.pl?op=view&amp;id=181734122) — Slashdot.org · 2026-04-16
+- [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) — The Verge · 2026-04-16
+- [Jim Cramer Discusses AppLovin in Light of Google Competition Fears](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-applovin-light-133947813.html) — Yahoo Entertainment · 2026-04-16
 
 
 ## 0. Entry Radar
 
-0.1. **Long Entry?:** no — shares are overbought and trading near short-term resistance at $415.44 versus support at $359 and a 20-day average around $412; macro froth visibility is limited but the stock sits near 1-year and 5-year mid-range after a strong uptrend, making fresh entries less attractive here.
+0.1. **Long Entry?:** no — shares sit near 7d resistance at $415 and above the 20-day average with 'overbought' flagged while trading far above the 1-year low of $219 and 5-year low of $9.30; macro froth visibility is limited and recent software sector rebounds and a 14% surge in APP suggest elevated short-term sentiment risk near prior highs.
 
 ## 1. The Biz
 
-1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (AppDiscovery) for advertisers, a supply-side platform (Max) for publishers, and an ad exchange that connects the two. Roughly 80% of revenue comes from its DSP, with the remainder from the SSP. Its AXON 2 optimizer uses data-driven models to place ads based on specified return thresholds, aiming to improve performance for advertisers and monetization for app publishers.
+1.1. **Activities:** AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from its DSP product AppDiscovery, with the remainder from its SSP Max. Its AXON 2 ad optimization engine is a key growth driver, helping advertisers place ads based on return thresholds.
 
-1.2. **Profitable?:** yes — AppLovin is profitable, with cumulative net income of about $3.33 billion across recent periods, a strong profit margin of roughly 61%, and positive free cash flow of about $2.7 billion.
+1.2. **Profitable?:** yes — AppLovin is profitable, with positive net income in recent periods totaling about $3.33B cumulatively and a strong profit margin of roughly 61% plus substantial free cash flow.
 
-1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking performance-based user acquisition and monetization, and mobile app publishers needing to maximize ad revenues through its SSP and exchange. Its markets are centered on digital advertising within mobile apps, with operations based in the United States but serving a broad online advertiser and publisher ecosystem. The company is positioned within the wider communication services and ad-tech landscape rather than a narrow geographic niche.
+1.3. **Customer & Markets:** AppLovin primarily serves advertisers seeking to reach users via mobile and digital apps and publishers who monetize their inventory through programmatic advertising. Its markets are digital advertising and adtech, with operations based in the United States but functionally global through its platforms. The business is closely tied to mobile apps and gaming ecosystems where its tools are embedded.
 
-1.4. **Competition:** Key competitive peers cited include Unity (U), Duolingo (DUOL), Meta Platforms (META), and Apple (AAPL), all of which operate at scale in mobile apps, advertising, or related ecosystems. AppLovin competes as a specialized ad-tech and optimization platform within this group rather than as the overall market leader in digital advertising.
+1.4. **Competition:** Key competitors mentioned alongside AppLovin include Unity (U), Duolingo (DUOL), Meta Platforms (META), and Apple (AAPL), which also operate at scale in ads, apps, and user acquisition. Within this group, AppLovin is a specialized adtech platform rather than the largest ecosystem player, but is highlighted as one of a select group of software names resilient to AI disruption.
 
 ## 2. Recent
 
-2.1. **7d Trend?:** up — the 7-day trend is labeled 'up' with price moving from support toward resistance and closing at $412 near the recent high of $415.44.
+2.1. **7d Trend?:** up — the 7d trend is labeled 'up' with price moving from support near $359 toward recent resistance around $415.
 
-2.2. **7d Buy/Sell Points?:** Buying near the recent support around $359 appears to have been a favorable entry, while the resistance zone near $415.44 has been an attractive area to take profits or trim positions. The current close at $412 is closer to the suggested sell zone than the buy zone.
+2.2. **7d Buy/Sell Points?:** In the past week, pullbacks toward the suggested buy zone and 7d support around $359 looked like better buy entries, while approaches to the 7d resistance/local high near $415.44 have been favorable short-term sell or trim levels. The current close at $412 is near that resistance band.
 
 2.3.1. **7d Volume:** med
 
@@ -476,13 +492,13 @@ raw_markdown: |
 
 ## 3. Longterm
 
-3.1. **Stability?:** AppLovin appears to be a relatively stable institution within ad-tech, generating consistent net income (about $3.33 billion cumulatively in recent years) and a robust profit margin above 60%. Strong operating cash flow (~$4.0 billion) and free cash flow (~$2.7 billion) suggest a healthy balance between growth investment and cash generation. The multi-year price chart shows the stock has moved from single digits to the hundreds over five years, indicating it has weathered volatility and grown substantially rather than being a short-lived story. Its role as a core DSP/SSP infrastructure provider for mobile advertisers and publishers further anchors it in a durable market segment despite sector cyclicality.
+3.1. **Stability?:** AppLovin appears relatively stable rather than fly-by-night, with several consecutive years of positive net income totaling over $3.3B and a high profit margin around 61%. The company generates robust operating cash flow (~$4.0B) and free cash flow (~$2.7B), indicating a solid cash-generating business. Its role as a core adtech infrastructure provider (DSP, SSP, and exchange) embedded in mobile ecosystems further supports durability. While detailed balance sheet data are not shown, strong earnings, cash flow, and repeated mentions as a key AI beneficiary suggest institutional-scale stability.
 
-3.2. **Innovating?:** AppLovin is innovating and growing, as shown by high revenue growth (about 66%) and earnings growth (~84%) alongside continued development of AXON 2 as an AI-driven ad optimization engine. Recent coverage highlighting AppLovin among software names positioned to benefit from AI rather than be disrupted reinforces its active adaptation to new technology trends.
+3.2. **Innovating?:** AppLovin is innovating and growing, as shown by revenue growth of about 66%, earnings growth of 84%, and its AXON 2 ad optimization engine positioned as the primary tool for future growth. Recent coverage highlighting it as an AI-resilient software name and expectations for strong sales and earnings growth reinforce a clear innovation and expansion trajectory.
 
 ## 4. Context
 
-4.1. **News:** Recent news flow around AppLovin has focused on strong tech/software sector moves, AI positioning, and earnings dynamics. Articles spotlight AppLovin as one of the "best software stocks to buy that AI can't disrupt" and as a key AI stock expected to post roughly 17% sales and 48% earnings growth, suggesting bullish expectations built ahead of results. At the same time, one piece notes the stock fell about 5% despite beating expectations, and another flags it being down 33% year-to-date into an earnings week, illustrating the risk of "sell the news" reactions after optimistic rumors. More broadly, software as a sector has seen sharp rebounds after selloffs and debate over whether AI undermines or supports traditional software business models, which can amplify rumor-driven rallies and subsequent profit taking. In this context, the quick facts flag "Sell the news? yes," consistent with recent instances where upside surprises did not prevent post-news pullbacks.
+4.1. **News:** Recent news frames AppLovin within a volatile software and AI narrative: software stocks sold off roughly 20% year-to-date before staging sharp rebounds, with APP at one point surging 14% in a single session and later falling ~5% despite beating earnings expectations. Articles spotlight it as a leading AI-benefiting software stock that can't easily be disrupted, and previews call for strong revenue and nearly 50% earnings growth, with some expecting an earnings surprise. Other coverage notes APP was down 33% year-to-date into an earnings-heavy week, underscoring significant sentiment swings. This backdrop suggests that positive AI and earnings expectations can drive strong "rumor" rallies, but sharp post-report drops and a "sell the news? yes" quick fact indicate that good news has often been an opportunity for profit-taking.
 
 4.2. **Tarrifs:** unknown
 
@@ -569,21 +585,34 @@ GNews search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many 
 Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+latest+news&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
     gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+Latest news fallback search -&gt; APP earnings news
+NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
+Guardian search failed for &#x27;APP earnings news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+news&amp;num=10&amp;start=1
+Google Custom Search failed for &#x27;APP earnings news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
+    newsapi: 10 result(s)
+    gnews: 0 result(s)
+    guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
+    google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 Running supplementary searches...
   google_custom_search search -&gt; APP core business (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+core+business&amp;num=10&amp;start=1
+Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+core+business&amp;num=2&amp;start=11
 Google Custom Search failed for &#x27;APP core business&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+core+business&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+core+business&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=APP+core+business&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP core business&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 12 result(s)
+    newsapi: 11 result(s)
     gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP product portfolio (priority: google_custom_search, newsapi, gnews, guardian)
@@ -603,7 +632,7 @@ NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+business+model&amp;p
 GNews search: GET https://gnews.io/api/v4/search?q=APP+business+model&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
 Guardian search: GET https://content.guardianapis.com/search?q=APP+business+model&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP business model&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
+    newsapi: 11 result(s)
     gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP profitability (priority: google_custom_search, newsapi, gnews, guardian)
@@ -611,137 +640,139 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;APP profitability&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+profitability&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+profitability&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP profitability&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+profitability&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP profitability&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 11 result(s)
-    gnews: 4 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP earnings trend (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+earnings+trend&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+earnings+trend&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+earnings+trend&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP earnings trend&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+earnings+trend&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP earnings trend&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 10 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP profit outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+profit+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+profit+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP profit outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+profit+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP profit outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP target customers (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+target+customers&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP target customers&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+target+customers&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+target+customers&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP target customers&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+target+customers&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP target customers&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP market segments (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+segments&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+segments&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+market+segments&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP market segments&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+market+segments&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP market segments&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP market expansion (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+expansion&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+market+expansion&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP market expansion&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+market+expansion&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP market expansion&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP competitors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+competitors&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+competitors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP competitors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+competitors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP competitors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: 3 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP market share (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+market+share&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP market share&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+market+share&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+market+share&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP market share&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+market+share&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP market share&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 12 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 11 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP competitive landscape (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+competitive+landscape&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+competitive+landscape&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP competitive landscape&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+competitive+landscape&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP competitive landscape&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP rumors (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+rumors&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumors&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+rumors&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP rumors&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+rumors&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP rumors&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 11 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 12 result(s)
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP tariffs news (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariffs+news&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariffs+news&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+tariffs+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP tariffs news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+tariffs+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP tariffs news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 12 result(s)
-    gnews: 0 result(s)
+    newsapi: 11 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP rumor (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 11 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    gnews: 1 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP tariff (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP tariff&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP tariff&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: 0 result(s)
+    newsapi: 10 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP latest news (priority: newsapi, gnews, guardian)
 GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+news&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+news&amp;lang=en&amp;max=2&amp;page=2&amp;token=%2A%2A%2A
 GNews search failed for &#x27;APP latest news&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+news&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP latest news&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
@@ -753,31 +784,32 @@ Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%
 Google Custom Search failed for &#x27;APP latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+latest+rumor&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+latest+rumor&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP latest rumor&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+latest+rumor&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP latest rumor&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 11 result(s)
-    gnews: 0 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; APP tariffs (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariffs&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+tariffs&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;APP tariffs&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+tariffs&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP tariffs&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
-    newsapi: 12 result(s)
-    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
+    newsapi: 11 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; APP tariff impact (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=APP+tariff+impact&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;APP tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=APP+tariff+impact&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=APP+tariff+impact&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
+GNews search failed for &#x27;APP tariff impact&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=APP+tariff+impact&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;APP tariff impact&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
-    newsapi: 7 result(s)
-    gnews: 0 result(s)
+    newsapi: 8 result(s)
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -797,6 +829,6 @@ Dispatching bullets to OpenAI:
   - 4.2 Tarrifs
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares are overbought and trading near short-term resistance at $415.44 versus support at $359 and a 20-day average around $412; macro froth visibility is limited but the stock sits near 1-year and 5-year mid-range after a strong uptrend, making fresh entries less attractive here.&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (AppDiscovery) for advertisers, a supply-side platform (Max) for publishers, and an ad exchange that connects the two. Roughly 80% of revenue comes from its DSP, with the remainder from the SSP.
+LLM raw output (truncated): {&quot;0.1&quot;: &quot;no — shares sit near 7d resistance at $415 and above the 20-day average with &#x27;overbought&#x27; flagged while trading far above the 1-year low of $219 and 5-year low of $9.30; macro froth visibility is limited and recent software sector rebounds and a 14% surge in APP suggest elevated short-term sentiment risk near prior highs.&quot;, &quot;1.1&quot;: &quot;AppLovin is a vertically integrated advertising technology company operating a demand-side platform (DSP) for advertisers, a supply-side platform (SSP) for publishers, and an exchange that matches ad demand with supply. About 80% of its revenue comes from i
 </code></pre>
 </details>
