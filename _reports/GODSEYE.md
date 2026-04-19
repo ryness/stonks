@@ -2,11 +2,11 @@
 layout: default
 title: "GodsEye Market Report"
 ticker: "GODSEYE"
-date: 2026-04-18
-generated_at: 2026-04-18T20:37:50.633425+00:00
-runtime_seconds: 28.52
+date: 2026-04-19
+generated_at: 2026-04-19T02:39:42.215565+00:00
+runtime_seconds: 28.77
 raw_markdown: |
-  **Generated:** <time class="js-local-time" datetime="2026-04-18T20:37:50.633425+00:00">2026-04-18 20:37 UTC</time> (runtime 28.52s)
+  **Generated:** <time class="js-local-time" datetime="2026-04-19T02:39:42.215565+00:00">2026-04-19 02:39 UTC</time> (runtime 28.77s)
   
   ### Latest news (0-3 days)
   
@@ -15,27 +15,34 @@ raw_markdown: |
   
   ## 1. Pulse
   
-  Across equities, the tone is decisively risk-on with broad strength. The S&P 500 is up 1.20% on the day and 5.06% over the week, while the Nasdaq Composite has gained 1.52% on the day and 8.10% over the week, and the Russell 2000 is outperforming with a 2.11% daily move and 5.97% for the week. This combination of large-cap and small-cap gains, plus SPY and QQQ advancing 1.21% and 1.31% respectively on the day, signals improving risk appetite rather than narrow, defensive leadership.
+  [
+      "Across equities and futures, the tone is distinctly risk-on with broad gains and strong recent momentum. Major U.S. indices are all higher on the day, with the S&P 500 up 1.20%, Nasdaq Composite up 1.52%, Dow up 1.79%, and small-cap Russell 2000 leading at 2.11%. Over the past week, tech and growth benchmarks have outperformed, as Nasdaq is up 8.10% and Russell 2000 up 5.97%, while S&P 500 and Dow have gained 5.06% and 3.21% respectively. Equity futures mirror this bullish tone, with S&P, Nasdaq, Dow, and Russell futures all up roughly 1.2–2.1% on the day and around 5–7% over the week, indicating improving risk appetite rather than just a one-off squeeze.",
+      "Volatility and rates are confirming the risk-on shift. The VIX is down 2.56% on the day and nearly 17% over the week, and more than 26% over 30 days, signaling that demand for downside protection is fading as investors grow more comfortable with the backdrop. The 10-year Treasury yield has eased 1.46% today and is modestly lower over the week (–1.05%), suggesting a bid for duration or at least less pressure from rising rates even though yields remain about 2.4% higher over 30 days. This combination of rising equities, falling implied volatility, and slightly softer yields points to a meaningful improvement in risk appetite.",
+      "In commodities and FX, moves align with easing macro stress. WTI crude has dropped sharply by 11.45% on the day and 11.19% over the week to $83.85, consistent with the reopening of the Strait of Hormuz and de-escalation in Middle East tensions, while gold is up 1.51% on the day but still down 4.10% over 30 days, reflecting some residual hedging but less sustained fear. The U.S. dollar index is marginally weaker on all horizons (about –0.1% 1d, –1.0% 7d, –1.2% 30d), which typically supports risk assets. Overall, cross-asset signals quantify a clear improvement in risk appetite, with equities up roughly 1.5% on average today, volatility down, crude sharply lower, and the dollar softer."
+    ]
   
-  Volatility and rates are confirming this constructive tone. The VIX is down 2.56% on the day, 16.92% over the week, and 26.40% over 30 days to 17.48, showing a substantial normalization of equity volatility as markets grind higher. At the same time, the 10-year Treasury yield has eased 1.46% on the day and 1.05% over the week to 4.25%, suggesting less immediate rates stress even though it remains up 2.41% over 30 days, which points to risk-taking occurring despite a still-elevated yield backdrop.
+  1.1. **Market Health:** Market health looks solid based on the benchmark changes and breadth data. Breadth is strong, with 11 assets up versus only 4 down and an average 1-day index gain of about 1.52%, driven by leadership from the Russell 2000 (+2.11%) and Nasdaq Composite (+1.52%). The VIX declining 2.56% today and nearly 17% over the week, alongside a modestly lower 10-year yield (–1.46% today, –1.05% over 7 days), provides a supportive volatility and rates backdrop rather than a headwind. While the 10-year is still about 2.4% higher over 30 days, the current mix of broad equity strength, improved small-cap participation, and easing near-term rate and volatility pressure indicates a relatively healthy tape.
   
-  Equity index futures mirror the cash-market optimism, reinforcing a pro-risk tone. S&P futures are up 1.19% on the day and 4.95% over the week, Nasdaq futures are up 1.28% on the day and 6.98% over the week, and Russell futures lead with a 2.13% daily rise and 5.81% weekly gain, underscoring continued demand for cyclicals and smaller caps. With the average index change over 1 day at 1.52% and 11 of 15 tracked assets advancing, risk appetite is clearly improving rather than fading.
-  
-  1.1. **Market Health:** Market health appears strong based on the benchmark changes. Breadth is positive, with 11 assets up and only 4 down, and the average index-level gain of about 1.52% on the day across major benchmarks indicates broad participation rather than a narrow rally. The VIX falling to 17.48 with a 16.92% weekly decline shows volatility is compressing as prices rise, which is typically associated with healthier, more stable risk-taking. A modest pullback in the 10-year Treasury yield over the week, despite its 30-day rise, suggests macro conditions are not currently derailing equity momentum.
-  
-  1.2. **Leadership:** Over the last day, small caps are leading while energy lags. The Russell 2000 is the standout gainer with a 1-day move of +2.11%, and Dow 30 strength at +1.79% also highlights cyclical leadership. On the downside, WTI Crude is a major laggard, dropping 11.45% on the day, and the US Dollar is slightly weaker at -0.12%, reinforcing the shift away from recent safe-haven trades. Over the week, the Nasdaq Composite stands out positively with an 8.10% gain, while crude oil again lags with an 11.19% weekly decline.
+  1.2. **Leadership:** Over the last day, small caps and cyclicals are leading, with the Russell 2000 up 2.11% and Russell futures up 2.13%, while the Dow is also a notable outperformer at +1.79%. On a weekly basis, growth and tech-linked benchmarks are the standouts, as the Nasdaq Composite is up 8.10% and QQQ up 7.06%, outpacing the S&P 500's 5.06% and SPY's 5.05% advances. On the lagging side over the last day, WTI crude is the clear underperformer, down 11.45%, and over the week it is similarly weak at –11.19%, in contrast to the broad equity rally.
   
   ## 2. Drivers
   
-  2.1. **Catalysts:** Macro and geopolitical news flow is dominated by de-escalation hopes in the Middle East, which is directly supporting a risk-on tape. Headlines cite an Israel-Lebanon ceasefire and renewed US-Iran diplomacy, with multiple sources noting Wall Street's advance and record-level moves as peace expectations improve. This easing in perceived geopolitical risk aligns with the sharp 11.19% weekly drop in WTI crude and the 1.04% weekly decline in the US Dollar, both of which reduce inflation and funding concerns and thus encourage equity buying. Markets are also responding to strong corporate earnings and growing comfort that the recent oil shock is manageable, which is reinforcing the positive macro narrative. Coverage notes US stocks pushing toward or hitting record highs on the back of solid earnings, particularly in technology and financials, which squares with the Nasdaq Composite's 8.10% weekly gain and QQQ's 7.06% weekly move. Commentary that economies are now less vulnerable to oil shocks than in the 1970s is consistent with equities rallying even as 10-year yields remain above 4%, suggesting investors see the growth and inflation mix as supportive rather than threatening in the near term. Cross-asset signals from crypto and gold further highlight the de-risking of tail scenarios while risk assets rally. Bitcoin has surged above $75,000 in recent days amid both geopolitical tension and signs of de-escalation, while gold futures are up 1.51% on the day and 2.28% over the week despite being down 4.10% over 30 days. This mix indicates that while some investors still hedge with hard assets, the dominant narrative has shifted toward optimism about a Middle East peace path and resilient growth, allowing equities and high-beta sectors to outperform.
+  2.1. **Catalysts:** [
+      "The dominant macro and geopolitical theme driving the tape is de-escalation in the Middle East, particularly around U.S.-Iran tensions and regional ceasefires. Multiple reports highlight hopes of US-Iran talks, a fragile ceasefire, and progress toward a potential peace deal, with headlines noting Wall Street on pace for a winning week amid an Israel-Lebanon ceasefire and stocks surging toward record highs on Iran diplomacy hopes. This easing of conflict risk has allowed oil tankers to move again through key chokepoints, which reduces fears of a prolonged supply shock and supports a risk-on tilt as investors discount a lower probability of severe energy-driven growth or inflation shocks.",
+      "Energy market normalization from the reopening of the Strait of Hormuz is a direct catalyst for both crude and broader risk sentiment. News specifically flags that petrol prices are expected to fall as the Strait reopens, and market data show WTI crude collapsing 11.45% on the day and more than 11% over the week. This sharp decline in oil prices, after prior conflict-related spikes, eases pressure on global inflation and consumer spending, which in turn supports higher equity valuations and risk-taking across assets; it also helps explain why both small caps and rate-sensitive segments can rally alongside falling volatility.",
+      "In parallel, improving risk sentiment is supported by strong U.S. equity performance around optimistic headlines about earnings and record highs. Articles reference the S&P 500 and Nasdaq pushing to or near record closes on earnings strength and Middle East optimism, as well as futures moving higher on hopes of de-escalation while investors prepare for key inflation data and corporate results. This mix of geopolitical easing plus a constructive earnings backdrop has driven flows into equities and even crypto, with reports of Bitcoin surging above $75,000 on de-escalation signs and ETF inflows, reinforcing a broader risk-on environment rather than isolated sector moves."
+    ]
   
-  2.2. **Upcoming Triggers:** Over the next 24 hours, the key potential movers cited in the news are additional headlines around US-Iran and broader Middle East ceasefire talks, which could either reinforce or undermine the current de-escalation-driven rally. Investors are also watching ongoing US corporate earnings releases, particularly from large-cap tech and financials, which recent articles say have been a major driver of record highs. Several sources reference upcoming and recent inflation data (such as PCE and other price gauges), so any fresh inflation print or Fed commentary in that window could shift expectations for rates and affect the 10-year yield and equity multiples. No specific major single-company earnings for the next 24 hours are named in the provided data, so the focus remains on macro headlines and the general earnings season tone.
+  2.2. **Upcoming Triggers:** Upcoming triggers over the next 24 hours include further headlines and confirmations around Middle East ceasefires and US-Iran talks, which could either reinforce or undermine the current de-escalation narrative and thus swing risk sentiment. Several news streams also highlight ongoing and upcoming U.S. corporate earnings reports, particularly from large-cap and tech names, that investors are watching closely to validate the recent equity rally. Additionally, markets are monitoring U.S. inflation data releases such as the PCE or related price indicators referenced in recent coverage, as softer readings would likely support the current risk-on move while upside surprises could challenge it.
   
   ## 3. Next 24h
   
-  3.1. **Next 24h Bias:** up 65% confidence; Major US equity benchmarks are all higher on the day (S&P 500 +1.20%, Nasdaq Composite +1.52%, Russell 2000 +2.11%) and over the week, with futures showing similar strength (S&P futures +1.19%, Nasdaq futures +1.28%, Russell futures +2.13%), indicating strong upside momentum. Volatility is falling sharply (VIX -16.92% over the week to 17.48) and the 10-year yield has eased modestly over 1 and 7 days, which usually supports equities. At the same time, news flow emphasizes Middle East de-escalation, Israel-Lebanon ceasefire progress, and optimism around US-Iran talks alongside solid earnings, all of which are risk-on catalysts. Commodities and FX (crude down over 11% on the week, dollar down about 1%) reinforce the idea of easing macro stress, so the path of least resistance over the next 24 hours is tentatively higher, though elevated yields over 30 days and residual geopolitical risk keep confidence below very high levels.
+  3.1. **Next 24h Bias:** up 65% confidence – The most likely direction over the next 24 hours is modestly up, given that all major U.S. equity benchmarks are higher today (S&P 500 +1.20%, Nasdaq +1.52%, Dow +1.79%, Russell 2000 +2.11%) and futures are similarly strong over both 1-day and 7-day horizons. Risk appetite is improving as evidenced by a 2.56% drop in the VIX today and nearly 17% over the week, alongside a small decline in the 10-year yield and a sharp 11.45% fall in WTI crude tied to the reopening of the Strait of Hormuz and de-escalation in Middle East tensions. With news flow emphasizing ceasefire hopes, US-Iran diplomacy, and indices pushing toward or at record highs on earnings optimism, the prevailing catalysts are risk-on; absent contrary data in the provided context, continuation of this trend into the next session is more probable than a reversal.
   
-  3.2. **Watch List:** Traders should monitor index futures and recent highs in the major benchmarks as reference levels for the current momentum. S&P 500 futures at 7,161.50 and Nasdaq futures at 26,825.50 are both near recent strength points; sustained trading above these areas would support the bullish short-term bias, while any sharp reversal alongside a pickup in VIX from 17.48 would be an early warning sign. Given small-cap leadership, Russell futures at 2,788.90 are an important tell for risk appetite, especially if they continue to outperform on a percentage basis. Sector-wise, attention should stay on technology and growth proxies, given the Nasdaq Composite's 8.10% weekly gain and QQQ's 7.06% advance, as well as on cyclicals and small caps reflected in the Russell 2000's 2.11% daily rise. The steep 11.45% daily and 11.19% weekly drop in WTI crude to 83.85 makes energy and related credit a key area to watch for any signs of overshoot or stabilization that could affect broader sentiment. Traders should also track the 10-year Treasury yield around 4.25% for any renewed upward pressure that might challenge equity multiples, particularly if accompanied by hawkish Fed commentary or hotter-than-expected inflation data. Overnight and into the next session, macro headlines on Middle East ceasefire progress and US-Iran diplomacy will be critical to sustaining the current risk-on tone that has driven record-level moves. Any indication that talks are stalling or that conflict risk is re-escalating could quickly reverse the declines in oil and the VIX, pressuring equities. Conversely, confirmation of durable de-escalation would likely keep pressure on crude and the dollar while supporting high-beta indices, consistent with the call for an upward bias over the next 24 hours.
+  3.2. **Watch List:** [
+      "Into the next session, traders should watch whether the S&P 500 and Nasdaq can sustain their recent record- or near-record-high levels implied by headlines, with the S&P 500 last at 7,126.06 (+5.06% over 7 days) and Nasdaq at 24,468.48 (+8.10% over 7 days). Continued leadership from growth and small caps, reflected in QQQ up 7.06% and the Russell 2000 up 5.97% over the week, will be important to maintain the bullish bias; any abrupt loss of leadership there could flag fatigue. Monitoring the VIX around its current 17.48 level and the 10-year yield near 4.25% can help confirm whether risk premia continue to compress in line with an "up" bias.",
+      "On the macro side, traders should stay focused on headlines around Middle East ceasefires, the reopening of the Strait of Hormuz, and further indications of US-Iran diplomacy progress, as these are tightly linked to the 11% weekly drop in WTI crude and the broader risk-on tone. If oil holds near or below the current $83.85 level and does not re-spike, that would likely support equities in line with the current bias. In addition, upcoming U.S. earnings releases and any referenced inflation data will be key: strong results and benign price readings would validate current valuations and support another leg higher, whereas negative surprises could quickly test the recent gains in indices and futures."
+    ]
   
   ## 4. QuickRef
   
@@ -79,13 +86,13 @@ raw_markdown: |
   Computed 15 benchmark series; building quick facts...
   Market headlines search -&gt; US stock market today
   NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+today&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 5 result(s)
+      newsapi: 4 result(s)
   Market headlines search -&gt; S&amp;P 500 futures outlook
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+outlook&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
       newsapi: 5 result(s)
   Market headlines search -&gt; Wall Street catalysts next 24 hours
   NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-      newsapi: 3 result(s)
+      newsapi: 4 result(s)
     newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+breadth+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -130,37 +137,36 @@ raw_markdown: |
   Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;federal reserve commentary today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: 1 result(s)
+      gnews: 0 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
   Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
   Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
   NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=investors+focus+today+stock+market&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;investors focus today stock market&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=investors+focus+today+stock+market&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;investors focus today stock market&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
       newsapi: 12 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: 6 result(s)
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 11 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
   NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
   GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-  GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+  GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
   Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
   Guardian search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
       newsapi: 12 result(s)
-      gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+      gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
       guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   Synthesizing narrative from OpenAI response...
   Preparing OpenAI request...
@@ -174,12 +180,12 @@ raw_markdown: |
     - 3.2 Watch List
   Asking OpenAI for analysis...
   Received response from OpenAI.
-  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is decisively risk-on with broad strength. The S&amp;P 500 is up 1.20% on the day and 5.06% over the week, while the Nasdaq Composite has gained 1.52% on the day and 8.10% over the week, and the Russell 2000 is outperforming with a 2.11% daily move and 5.97% for the week. This combination of large-cap and small-cap gains, plus SPY and QQQ advancing 1.21% and 1.31% respectively on the day, signals improving risk appetite rather than narrow, defensive leadership.&quot;,\n    &quot;Volatility and rates are confirming this constructive tone. The VIX is down 2.56% on
+  LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities and futures, the tone is distinctly risk-on with broad gains and strong recent momentum. Major U.S. indices are all higher on the day, with the S&amp;P 500 up 1.20%, Nasdaq Composite up 1.52%, Dow up 1.79%, and small-cap Russell 2000 leading at 2.11%. Over the past week, tech and growth benchmarks have outperformed, as Nasdaq is up 8.10% and Russell 2000 up 5.97%, while S&amp;P 500 and Dow have gained 5.06% and 3.21% respectively. Equity futures mirror this bullish tone, with S&amp;P, Nasdaq, Dow, and Russell futures all up roughly 1.2–2.1% on the day and around 5–7% ov
   </code></pre>
   </details>
 ---
 
-**Generated:** <time class="js-local-time" datetime="2026-04-18T20:37:50.633425+00:00">2026-04-18 20:37 UTC</time> (runtime 28.52s)
+**Generated:** <time class="js-local-time" datetime="2026-04-19T02:39:42.215565+00:00">2026-04-19 02:39 UTC</time> (runtime 28.77s)
 
 ### Latest news (0-3 days)
 
@@ -188,27 +194,34 @@ raw_markdown: |
 
 ## 1. Pulse
 
-Across equities, the tone is decisively risk-on with broad strength. The S&P 500 is up 1.20% on the day and 5.06% over the week, while the Nasdaq Composite has gained 1.52% on the day and 8.10% over the week, and the Russell 2000 is outperforming with a 2.11% daily move and 5.97% for the week. This combination of large-cap and small-cap gains, plus SPY and QQQ advancing 1.21% and 1.31% respectively on the day, signals improving risk appetite rather than narrow, defensive leadership.
+[
+    "Across equities and futures, the tone is distinctly risk-on with broad gains and strong recent momentum. Major U.S. indices are all higher on the day, with the S&P 500 up 1.20%, Nasdaq Composite up 1.52%, Dow up 1.79%, and small-cap Russell 2000 leading at 2.11%. Over the past week, tech and growth benchmarks have outperformed, as Nasdaq is up 8.10% and Russell 2000 up 5.97%, while S&P 500 and Dow have gained 5.06% and 3.21% respectively. Equity futures mirror this bullish tone, with S&P, Nasdaq, Dow, and Russell futures all up roughly 1.2–2.1% on the day and around 5–7% over the week, indicating improving risk appetite rather than just a one-off squeeze.",
+    "Volatility and rates are confirming the risk-on shift. The VIX is down 2.56% on the day and nearly 17% over the week, and more than 26% over 30 days, signaling that demand for downside protection is fading as investors grow more comfortable with the backdrop. The 10-year Treasury yield has eased 1.46% today and is modestly lower over the week (–1.05%), suggesting a bid for duration or at least less pressure from rising rates even though yields remain about 2.4% higher over 30 days. This combination of rising equities, falling implied volatility, and slightly softer yields points to a meaningful improvement in risk appetite.",
+    "In commodities and FX, moves align with easing macro stress. WTI crude has dropped sharply by 11.45% on the day and 11.19% over the week to $83.85, consistent with the reopening of the Strait of Hormuz and de-escalation in Middle East tensions, while gold is up 1.51% on the day but still down 4.10% over 30 days, reflecting some residual hedging but less sustained fear. The U.S. dollar index is marginally weaker on all horizons (about –0.1% 1d, –1.0% 7d, –1.2% 30d), which typically supports risk assets. Overall, cross-asset signals quantify a clear improvement in risk appetite, with equities up roughly 1.5% on average today, volatility down, crude sharply lower, and the dollar softer."
+  ]
 
-Volatility and rates are confirming this constructive tone. The VIX is down 2.56% on the day, 16.92% over the week, and 26.40% over 30 days to 17.48, showing a substantial normalization of equity volatility as markets grind higher. At the same time, the 10-year Treasury yield has eased 1.46% on the day and 1.05% over the week to 4.25%, suggesting less immediate rates stress even though it remains up 2.41% over 30 days, which points to risk-taking occurring despite a still-elevated yield backdrop.
+1.1. **Market Health:** Market health looks solid based on the benchmark changes and breadth data. Breadth is strong, with 11 assets up versus only 4 down and an average 1-day index gain of about 1.52%, driven by leadership from the Russell 2000 (+2.11%) and Nasdaq Composite (+1.52%). The VIX declining 2.56% today and nearly 17% over the week, alongside a modestly lower 10-year yield (–1.46% today, –1.05% over 7 days), provides a supportive volatility and rates backdrop rather than a headwind. While the 10-year is still about 2.4% higher over 30 days, the current mix of broad equity strength, improved small-cap participation, and easing near-term rate and volatility pressure indicates a relatively healthy tape.
 
-Equity index futures mirror the cash-market optimism, reinforcing a pro-risk tone. S&P futures are up 1.19% on the day and 4.95% over the week, Nasdaq futures are up 1.28% on the day and 6.98% over the week, and Russell futures lead with a 2.13% daily rise and 5.81% weekly gain, underscoring continued demand for cyclicals and smaller caps. With the average index change over 1 day at 1.52% and 11 of 15 tracked assets advancing, risk appetite is clearly improving rather than fading.
-
-1.1. **Market Health:** Market health appears strong based on the benchmark changes. Breadth is positive, with 11 assets up and only 4 down, and the average index-level gain of about 1.52% on the day across major benchmarks indicates broad participation rather than a narrow rally. The VIX falling to 17.48 with a 16.92% weekly decline shows volatility is compressing as prices rise, which is typically associated with healthier, more stable risk-taking. A modest pullback in the 10-year Treasury yield over the week, despite its 30-day rise, suggests macro conditions are not currently derailing equity momentum.
-
-1.2. **Leadership:** Over the last day, small caps are leading while energy lags. The Russell 2000 is the standout gainer with a 1-day move of +2.11%, and Dow 30 strength at +1.79% also highlights cyclical leadership. On the downside, WTI Crude is a major laggard, dropping 11.45% on the day, and the US Dollar is slightly weaker at -0.12%, reinforcing the shift away from recent safe-haven trades. Over the week, the Nasdaq Composite stands out positively with an 8.10% gain, while crude oil again lags with an 11.19% weekly decline.
+1.2. **Leadership:** Over the last day, small caps and cyclicals are leading, with the Russell 2000 up 2.11% and Russell futures up 2.13%, while the Dow is also a notable outperformer at +1.79%. On a weekly basis, growth and tech-linked benchmarks are the standouts, as the Nasdaq Composite is up 8.10% and QQQ up 7.06%, outpacing the S&P 500's 5.06% and SPY's 5.05% advances. On the lagging side over the last day, WTI crude is the clear underperformer, down 11.45%, and over the week it is similarly weak at –11.19%, in contrast to the broad equity rally.
 
 ## 2. Drivers
 
-2.1. **Catalysts:** Macro and geopolitical news flow is dominated by de-escalation hopes in the Middle East, which is directly supporting a risk-on tape. Headlines cite an Israel-Lebanon ceasefire and renewed US-Iran diplomacy, with multiple sources noting Wall Street's advance and record-level moves as peace expectations improve. This easing in perceived geopolitical risk aligns with the sharp 11.19% weekly drop in WTI crude and the 1.04% weekly decline in the US Dollar, both of which reduce inflation and funding concerns and thus encourage equity buying. Markets are also responding to strong corporate earnings and growing comfort that the recent oil shock is manageable, which is reinforcing the positive macro narrative. Coverage notes US stocks pushing toward or hitting record highs on the back of solid earnings, particularly in technology and financials, which squares with the Nasdaq Composite's 8.10% weekly gain and QQQ's 7.06% weekly move. Commentary that economies are now less vulnerable to oil shocks than in the 1970s is consistent with equities rallying even as 10-year yields remain above 4%, suggesting investors see the growth and inflation mix as supportive rather than threatening in the near term. Cross-asset signals from crypto and gold further highlight the de-risking of tail scenarios while risk assets rally. Bitcoin has surged above $75,000 in recent days amid both geopolitical tension and signs of de-escalation, while gold futures are up 1.51% on the day and 2.28% over the week despite being down 4.10% over 30 days. This mix indicates that while some investors still hedge with hard assets, the dominant narrative has shifted toward optimism about a Middle East peace path and resilient growth, allowing equities and high-beta sectors to outperform.
+2.1. **Catalysts:** [
+    "The dominant macro and geopolitical theme driving the tape is de-escalation in the Middle East, particularly around U.S.-Iran tensions and regional ceasefires. Multiple reports highlight hopes of US-Iran talks, a fragile ceasefire, and progress toward a potential peace deal, with headlines noting Wall Street on pace for a winning week amid an Israel-Lebanon ceasefire and stocks surging toward record highs on Iran diplomacy hopes. This easing of conflict risk has allowed oil tankers to move again through key chokepoints, which reduces fears of a prolonged supply shock and supports a risk-on tilt as investors discount a lower probability of severe energy-driven growth or inflation shocks.",
+    "Energy market normalization from the reopening of the Strait of Hormuz is a direct catalyst for both crude and broader risk sentiment. News specifically flags that petrol prices are expected to fall as the Strait reopens, and market data show WTI crude collapsing 11.45% on the day and more than 11% over the week. This sharp decline in oil prices, after prior conflict-related spikes, eases pressure on global inflation and consumer spending, which in turn supports higher equity valuations and risk-taking across assets; it also helps explain why both small caps and rate-sensitive segments can rally alongside falling volatility.",
+    "In parallel, improving risk sentiment is supported by strong U.S. equity performance around optimistic headlines about earnings and record highs. Articles reference the S&P 500 and Nasdaq pushing to or near record closes on earnings strength and Middle East optimism, as well as futures moving higher on hopes of de-escalation while investors prepare for key inflation data and corporate results. This mix of geopolitical easing plus a constructive earnings backdrop has driven flows into equities and even crypto, with reports of Bitcoin surging above $75,000 on de-escalation signs and ETF inflows, reinforcing a broader risk-on environment rather than isolated sector moves."
+  ]
 
-2.2. **Upcoming Triggers:** Over the next 24 hours, the key potential movers cited in the news are additional headlines around US-Iran and broader Middle East ceasefire talks, which could either reinforce or undermine the current de-escalation-driven rally. Investors are also watching ongoing US corporate earnings releases, particularly from large-cap tech and financials, which recent articles say have been a major driver of record highs. Several sources reference upcoming and recent inflation data (such as PCE and other price gauges), so any fresh inflation print or Fed commentary in that window could shift expectations for rates and affect the 10-year yield and equity multiples. No specific major single-company earnings for the next 24 hours are named in the provided data, so the focus remains on macro headlines and the general earnings season tone.
+2.2. **Upcoming Triggers:** Upcoming triggers over the next 24 hours include further headlines and confirmations around Middle East ceasefires and US-Iran talks, which could either reinforce or undermine the current de-escalation narrative and thus swing risk sentiment. Several news streams also highlight ongoing and upcoming U.S. corporate earnings reports, particularly from large-cap and tech names, that investors are watching closely to validate the recent equity rally. Additionally, markets are monitoring U.S. inflation data releases such as the PCE or related price indicators referenced in recent coverage, as softer readings would likely support the current risk-on move while upside surprises could challenge it.
 
 ## 3. Next 24h
 
-3.1. **Next 24h Bias:** up 65% confidence; Major US equity benchmarks are all higher on the day (S&P 500 +1.20%, Nasdaq Composite +1.52%, Russell 2000 +2.11%) and over the week, with futures showing similar strength (S&P futures +1.19%, Nasdaq futures +1.28%, Russell futures +2.13%), indicating strong upside momentum. Volatility is falling sharply (VIX -16.92% over the week to 17.48) and the 10-year yield has eased modestly over 1 and 7 days, which usually supports equities. At the same time, news flow emphasizes Middle East de-escalation, Israel-Lebanon ceasefire progress, and optimism around US-Iran talks alongside solid earnings, all of which are risk-on catalysts. Commodities and FX (crude down over 11% on the week, dollar down about 1%) reinforce the idea of easing macro stress, so the path of least resistance over the next 24 hours is tentatively higher, though elevated yields over 30 days and residual geopolitical risk keep confidence below very high levels.
+3.1. **Next 24h Bias:** up 65% confidence – The most likely direction over the next 24 hours is modestly up, given that all major U.S. equity benchmarks are higher today (S&P 500 +1.20%, Nasdaq +1.52%, Dow +1.79%, Russell 2000 +2.11%) and futures are similarly strong over both 1-day and 7-day horizons. Risk appetite is improving as evidenced by a 2.56% drop in the VIX today and nearly 17% over the week, alongside a small decline in the 10-year yield and a sharp 11.45% fall in WTI crude tied to the reopening of the Strait of Hormuz and de-escalation in Middle East tensions. With news flow emphasizing ceasefire hopes, US-Iran diplomacy, and indices pushing toward or at record highs on earnings optimism, the prevailing catalysts are risk-on; absent contrary data in the provided context, continuation of this trend into the next session is more probable than a reversal.
 
-3.2. **Watch List:** Traders should monitor index futures and recent highs in the major benchmarks as reference levels for the current momentum. S&P 500 futures at 7,161.50 and Nasdaq futures at 26,825.50 are both near recent strength points; sustained trading above these areas would support the bullish short-term bias, while any sharp reversal alongside a pickup in VIX from 17.48 would be an early warning sign. Given small-cap leadership, Russell futures at 2,788.90 are an important tell for risk appetite, especially if they continue to outperform on a percentage basis. Sector-wise, attention should stay on technology and growth proxies, given the Nasdaq Composite's 8.10% weekly gain and QQQ's 7.06% advance, as well as on cyclicals and small caps reflected in the Russell 2000's 2.11% daily rise. The steep 11.45% daily and 11.19% weekly drop in WTI crude to 83.85 makes energy and related credit a key area to watch for any signs of overshoot or stabilization that could affect broader sentiment. Traders should also track the 10-year Treasury yield around 4.25% for any renewed upward pressure that might challenge equity multiples, particularly if accompanied by hawkish Fed commentary or hotter-than-expected inflation data. Overnight and into the next session, macro headlines on Middle East ceasefire progress and US-Iran diplomacy will be critical to sustaining the current risk-on tone that has driven record-level moves. Any indication that talks are stalling or that conflict risk is re-escalating could quickly reverse the declines in oil and the VIX, pressuring equities. Conversely, confirmation of durable de-escalation would likely keep pressure on crude and the dollar while supporting high-beta indices, consistent with the call for an upward bias over the next 24 hours.
+3.2. **Watch List:** [
+    "Into the next session, traders should watch whether the S&P 500 and Nasdaq can sustain their recent record- or near-record-high levels implied by headlines, with the S&P 500 last at 7,126.06 (+5.06% over 7 days) and Nasdaq at 24,468.48 (+8.10% over 7 days). Continued leadership from growth and small caps, reflected in QQQ up 7.06% and the Russell 2000 up 5.97% over the week, will be important to maintain the bullish bias; any abrupt loss of leadership there could flag fatigue. Monitoring the VIX around its current 17.48 level and the 10-year yield near 4.25% can help confirm whether risk premia continue to compress in line with an "up" bias.",
+    "On the macro side, traders should stay focused on headlines around Middle East ceasefires, the reopening of the Strait of Hormuz, and further indications of US-Iran diplomacy progress, as these are tightly linked to the 11% weekly drop in WTI crude and the broader risk-on tone. If oil holds near or below the current $83.85 level and does not re-spike, that would likely support equities in line with the current bias. In addition, upcoming U.S. earnings releases and any referenced inflation data will be key: strong results and benign price readings would validate current valuations and support another leg higher, whereas negative surprises could quickly test the recent gains in indices and futures."
+  ]
 
 ## 4. QuickRef
 
@@ -252,13 +265,13 @@ Collecting benchmark performance for GodsEye...
 Computed 15 benchmark series; building quick facts...
 Market headlines search -&gt; US stock market today
 NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+today&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 5 result(s)
+    newsapi: 4 result(s)
 Market headlines search -&gt; S&amp;P 500 futures outlook
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+outlook&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
     newsapi: 5 result(s)
 Market headlines search -&gt; Wall Street catalysts next 24 hours
 NewsAPI search: GET https://newsapi.org/v2/everything?q=Wall+Street+catalysts+next+24+hours&amp;pageSize=5&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
-    newsapi: 3 result(s)
+    newsapi: 4 result(s)
   newsapi search -&gt; US stock market breadth today (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=US+stock+market+breadth+today&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=US+stock+market+breadth+today&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
@@ -303,37 +316,36 @@ GNews search: GET https://gnews.io/api/v4/search?q=federal+reserve+commentary+to
 Guardian search: GET https://content.guardianapis.com/search?q=federal+reserve+commentary+today&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;federal reserve commentary today&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: 1 result(s)
+    gnews: 0 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   google_custom_search search -&gt; investors focus today stock market (priority: google_custom_search, newsapi, gnews, guardian)
 Google Custom Search: GET https://www.googleapis.com/customsearch/v1?key=%2A%2A%2A&amp;cx=46c4e3bbc6b31470f&amp;q=investors+focus+today+stock+market&amp;num=10&amp;start=1
 Google Custom Search failed for &#x27;investors focus today stock market&#x27;: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
 NewsAPI search: GET https://newsapi.org/v2/everything?q=investors+focus+today+stock+market&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=investors+focus+today+stock+market&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;investors focus today stock market&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=investors+focus+today+stock+market&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;investors focus today stock market&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     google_custom_search: error: 429 Client Error: Too Many Requests for url: https://www.googleapis.com/customsearch/v1
     newsapi: 12 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: 6 result(s)
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; stock market tomorrow outlook (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=stock+market+tomorrow+outlook&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=stock+market+tomorrow+outlook&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;stock market tomorrow outlook&#x27;: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=stock+market+tomorrow+outlook&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;stock market tomorrow outlook&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 11 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: error: 429 Client Error: Too Many Requests for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
   newsapi search -&gt; S&amp;P 500 futures overnight (priority: newsapi, gnews, guardian)
 NewsAPI search: GET https://newsapi.org/v2/everything?q=S%26P+500+futures+overnight&amp;pageSize=12&amp;page=1&amp;language=en&amp;sortBy=publishedAt&amp;apiKey=%2A%2A%2A
 GNews search: GET https://gnews.io/api/v4/search?q=S%26P+500+futures+overnight&amp;lang=en&amp;max=10&amp;page=1&amp;token=%2A%2A%2A
-GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+GNews search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
 Guardian search: GET https://content.guardianapis.com/search?q=S%26P+500+futures+overnight&amp;api-key=%2A%2A%2A&amp;page-size=12&amp;page=1&amp;order-by=newest&amp;show-fields=trailText
 Guardian search failed for &#x27;S&amp;P 500 futures overnight&#x27;: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
     newsapi: 12 result(s)
-    gnews: error: 403 Client Error: Forbidden for url: https://gnews.io/api/v4/search
+    gnews: error: 400 Client Error: Bad Request for url: https://gnews.io/api/v4/search
     guardian: error: 401 Client Error: Unauthorized for url: https://content.guardianapis.com/search
 Synthesizing narrative from OpenAI response...
 Preparing OpenAI request...
@@ -347,6 +359,6 @@ Dispatching bullets to OpenAI:
   - 3.2 Watch List
 Asking OpenAI for analysis...
 Received response from OpenAI.
-LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities, the tone is decisively risk-on with broad strength. The S&amp;P 500 is up 1.20% on the day and 5.06% over the week, while the Nasdaq Composite has gained 1.52% on the day and 8.10% over the week, and the Russell 2000 is outperforming with a 2.11% daily move and 5.97% for the week. This combination of large-cap and small-cap gains, plus SPY and QQQ advancing 1.21% and 1.31% respectively on the day, signals improving risk appetite rather than narrow, defensive leadership.&quot;,\n    &quot;Volatility and rates are confirming this constructive tone. The VIX is down 2.56% on
+LLM raw output (truncated): {\n  &quot;1.0&quot;: [\n    &quot;Across equities and futures, the tone is distinctly risk-on with broad gains and strong recent momentum. Major U.S. indices are all higher on the day, with the S&amp;P 500 up 1.20%, Nasdaq Composite up 1.52%, Dow up 1.79%, and small-cap Russell 2000 leading at 2.11%. Over the past week, tech and growth benchmarks have outperformed, as Nasdaq is up 8.10% and Russell 2000 up 5.97%, while S&amp;P 500 and Dow have gained 5.06% and 3.21% respectively. Equity futures mirror this bullish tone, with S&amp;P, Nasdaq, Dow, and Russell futures all up roughly 1.2–2.1% on the day and around 5–7% ov
 </code></pre>
 </details>
