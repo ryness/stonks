@@ -7,8 +7,6 @@ on:
         description: "Ticker symbol"
         required: false
         type: string
-  schedule:
-    - cron: "0 */5 * * *"
 
 permissions:
   contents: write
